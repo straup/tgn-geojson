@@ -4,7 +4,11 @@ The Getty Thesaurus of Geographic Names (TGN). As GeoJSON.
 
 ## This is a work in progress
 
-Currently it consists of the simplest possible GeoJSON file containing an `id` property and a centroid for each location in TGN. Complex geometries, place names, place types, location hierarchies, concordances and other relevant data will be added as time and circumstance permit. Patches and other contributions are welcome and encouraged.
+Currently it consists of the simplest possible GeoJSON file containing an `id` property and a centroid for each location in TGN.
+
+Complex geometries, place names, place types, location hierarchies, concordances and other relevant data will be added as time and circumstance permit.
+
+Patches and other contributions are welcome and encouraged.
 
 ## License
 
