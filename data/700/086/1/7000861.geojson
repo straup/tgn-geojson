@@ -1,0 +1,26 @@
+{
+  "id": 7000861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000861",
+        "tgn:7001242",
+        "tgn:7017583",
+        "tgn:1000193",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000861,
+    "tgn:name":"Port Elizabeth",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300000547",
+        "aat:300008375",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.6,-33.9667],"type":"Point"}
+}

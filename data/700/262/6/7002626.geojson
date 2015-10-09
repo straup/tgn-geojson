@@ -1,0 +1,27 @@
+{
+  "id": 7002626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002626",
+        "tgn:1001120",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002626,
+    "tgn:name:en":"Babylon",
+    "tgn:name:fr":"Babylone",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387218",
+        "aat:300387512",
+        "aat:300019828"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[44.4,32.55],"type":"Point"}
+}

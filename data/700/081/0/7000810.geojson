@@ -1,0 +1,27 @@
+{
+  "id": 7000810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000810",
+        "tgn:7001242",
+        "tgn:7017576",
+        "tgn:1000193",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000810,
+    "tgn:name":"Pretoria",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[28.2,-25.75],"type":"Point"}
+}

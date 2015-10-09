@@ -1,0 +1,27 @@
+{
+  "id": 1047740,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0962a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756539",
+        "gp:id":728889,
+        "qs:id":9,
+        "wof:id":101837761
+    },
+    "tgn:hierarchy":[
+        "tgn:1047740",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047740,
+    "tgn:name:nl":"Druten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.616667,51.883333],"type":"Point"}
+}

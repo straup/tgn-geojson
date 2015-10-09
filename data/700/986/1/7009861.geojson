@@ -1,0 +1,28 @@
+{
+  "id": 7009861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7009861",
+        "tgn:1000003",
+        "tgn:7003777",
+        "tgn:1000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":7009861,
+    "tgn:name":"Stockholm",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387302",
+        "aat:300387285",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.0833,59.3333],"type":"Point"}
+}

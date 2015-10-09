@@ -1,0 +1,26 @@
+{
+  "id": 7013172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013172",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005799",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013172,
+    "tgn:name":"Saint John",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300006909",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.05,45.2667],"type":"Point"}
+}

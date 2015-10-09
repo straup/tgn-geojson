@@ -1,0 +1,24 @@
+{
+  "id": 6001700,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:6001700",
+        "tgn:7002683",
+        "tgn:7001395",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":6001700,
+    "tgn:name":"Delium",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300000835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[23.649,38.348],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7015386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7015386",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7015386,
+    "tgn:name:ar":"\u0633\u0648\u0631 \u064a\u064b\u0627\u0645",
+    "tgn:name:en":"Suriname",
+    "tgn:name:es":"Suriname",
+    "tgn:name:fr":"Suriname",
+    "tgn:name:nl":"Suriname",
+    "tgn:name:ru":"\u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+    "tgn:name:zh":"\u82cf\u91cc\u5357",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300135982"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-56.0,4.0],"type":"Point"}
+}

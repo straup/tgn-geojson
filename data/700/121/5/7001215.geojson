@@ -1,0 +1,31 @@
+{
+  "id": 7001215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001215",
+        "tgn:7001242",
+        "tgn:7016833",
+        "tgn:1001091",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001215,
+    "tgn:name":"Al-Q\u0101hirah",
+    "tgn:name:de":"Kairo",
+    "tgn:name:en":"Cairo",
+    "tgn:name:fr":"Le Caire",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[31.285909,30.07708],"type":"Point"}
+}

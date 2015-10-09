@@ -1,0 +1,27 @@
+{
+  "id": 1047702,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f6d1de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757783",
+        "gp:id":728289,
+        "qs:id":3,
+        "wof:id":101837653
+    },
+    "tgn:hierarchy":[
+        "tgn:1047702",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047702,
+    "tgn:name:nl":"De Bilt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.183333,52.116667],"type":"Point"}
+}

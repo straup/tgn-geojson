@@ -1,0 +1,24 @@
+{
+  "id": 2014500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2014500",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014475",
+        "tgn:7029392"
+    ],
+    "tgn:id":2014500,
+    "tgn:name":"Sunnyvale",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.0333,37.3667],"type":"Point"}
+}

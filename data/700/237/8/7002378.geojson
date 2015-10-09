@@ -1,0 +1,25 @@
+{
+  "id": 7002378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002378",
+        "tgn:1001102",
+        "tgn:7018452",
+        "tgn:1000004",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002378,
+    "tgn:name":"Antalya",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[30.7,36.8833],"type":"Point"}
+}

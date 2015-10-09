@@ -1,0 +1,30 @@
+{
+  "id": 7007868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007868",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007868,
+    "tgn:name:de":"Br\u00fcssel",
+    "tgn:name:en":"Brussels",
+    "tgn:name:fr":"Bruxelles",
+    "tgn:name:nl":"Brussel",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387302",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.333333,50.833333],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7272601,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01eff210-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745369",
+        "gp:id":734333,
+        "qs:id":9,
+        "wof:id":101839291
+    },
+    "tgn:hierarchy":[
+        "tgn:7272601",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7272601,
+    "tgn:name:nl":"Voerendaal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.933333,50.883333],"type":"Point"}
+}

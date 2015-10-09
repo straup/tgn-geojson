@@ -1,0 +1,27 @@
+{
+  "id": 7262787,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ece610-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758081",
+        "gp:id":728134,
+        "qs:id":8,
+        "wof:id":101837647
+    },
+    "tgn:hierarchy":[
+        "tgn:7262787",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7262787,
+    "tgn:name:nl":"Burgh",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.733333,51.683333],"type":"Point"}
+}

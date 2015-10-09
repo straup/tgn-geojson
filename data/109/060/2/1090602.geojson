@@ -1,0 +1,25 @@
+{
+  "id": 1090602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1090602",
+        "tgn:7001242",
+        "tgn:1000420",
+        "tgn:1000171",
+        "tgn:7029392"
+    ],
+    "tgn:id":1090602,
+    "tgn:name":"Monrovia",
+    "tgn:placetype":[
+        "aat:300387254",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-10.8,6.3333],"type":"Point"}
+}

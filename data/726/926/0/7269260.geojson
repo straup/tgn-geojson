@@ -1,0 +1,27 @@
+{
+  "id": 7269260,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f18d14-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749736",
+        "gp:id":732204,
+        "qs:id":2,
+        "wof:id":101807013
+    },
+    "tgn:hierarchy":[
+        "tgn:7269260",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7269260,
+    "tgn:name:nl":"Odijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.233333,52.05],"type":"Point"}
+}

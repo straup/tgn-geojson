@@ -1,0 +1,24 @@
+{
+  "id": 7001801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001801",
+        "tgn:1008380",
+        "tgn:7520093",
+        "tgn:1000226",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001801,
+    "tgn:name:en":"Palmerston North",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[175.616667,-40.35],"type":"Point"}
+}

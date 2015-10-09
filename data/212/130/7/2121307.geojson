@@ -1,0 +1,24 @@
+{
+  "id": 2121307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2121307",
+        "tgn:1000001",
+        "tgn:2002309",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2121307,
+    "tgn:name":"Green Bay",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.0167,44.5167],"type":"Point"}
+}

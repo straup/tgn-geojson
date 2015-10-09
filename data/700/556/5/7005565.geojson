@@ -1,0 +1,26 @@
+{
+  "id": 7005565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005565",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005565,
+    "tgn:name:ar":"\u0628\u0646\u0645\u0627",
+    "tgn:name:en":"Panama",
+    "tgn:name:es":"Panam\u00e1",
+    "tgn:name:fr":"Panama",
+    "tgn:name:ru":"\u041f\u0430\u043d\u0430\u043c\u0430",
+    "tgn:name:zh":"\u5df4\u62ff\u9a6c",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0,9.0],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7006913,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f10920-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753355",
+        "gp:id":730497,
+        "qs:id":5,
+        "wof:id":101754605
+    },
+    "tgn:hierarchy":[
+        "tgn:7006913",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006913,
+    "tgn:name:nl":"IJsselstein",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.05,52.016667],"type":"Point"}
+}

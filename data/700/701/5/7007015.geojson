@@ -1,0 +1,29 @@
+{
+  "id": 7007015,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0d90a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754817",
+        "gp:id":729741,
+        "qs:id":2,
+        "wof:id":101806147
+    },
+    "tgn:hierarchy":[
+        "tgn:7007015",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007015,
+    "tgn:name:nl":"Harlingen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.416667,53.183333],"type":"Point"}
+}

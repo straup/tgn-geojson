@@ -1,0 +1,24 @@
+{
+  "id": 1024427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1024427",
+        "tgn:1000726",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":1024427,
+    "tgn:name":"Cerro de Pasco",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387220",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2667,-10.6833],"type":"Point"}
+}

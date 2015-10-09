@@ -1,0 +1,27 @@
+{
+  "id": 1047980,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f17824-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750325",
+        "gp:id":731983,
+        "wof:id":101751825
+    },
+    "tgn:hierarchy":[
+        "tgn:1047980",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047980,
+    "tgn:name:nl":"Nieuwegein",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.1,52.033333],"type":"Point"}
+}

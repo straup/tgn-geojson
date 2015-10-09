@@ -1,0 +1,29 @@
+{
+  "id": 7006646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006646",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006646,
+    "tgn:name":"Azerbaydzhanskaya",
+    "tgn:name:ar":"\u0623\u0630\u0631\u0628 \u062c\u064e\u0627\u0646",
+    "tgn:name:az":"Az\u01ddrbaycan",
+    "tgn:name:de":"Aserbaidschan",
+    "tgn:name:en":"Azerbaijan",
+    "tgn:name:es":"Azerbaiy\u00e1n",
+    "tgn:name:fr":"Azerba\u00efdjan",
+    "tgn:name:pt":"Azerbaij\u00e3o",
+    "tgn:name:ru":"\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+    "tgn:name:zh":"\u963f\u585e\u62dc\u7586",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.5,40.5],"type":"Point"}
+}

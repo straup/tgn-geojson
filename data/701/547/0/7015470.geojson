@@ -1,0 +1,25 @@
+{
+  "id": 7015470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7015470",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002901",
+        "tgn:7029392"
+    ],
+    "tgn:id":7015470,
+    "tgn:name":"Vallejo",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387275"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.25,38.1],"type":"Point"}
+}

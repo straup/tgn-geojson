@@ -1,0 +1,29 @@
+{
+  "id": 7001933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001933",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7006238",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001933,
+    "tgn:name":"Melbourne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[144.9667,-37.816],"type":"Point"}
+}

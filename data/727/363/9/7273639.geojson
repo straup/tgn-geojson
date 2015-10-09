@@ -1,0 +1,23 @@
+{
+  "id": 7273639,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744347"
+    },
+    "tgn:hierarchy":[
+        "tgn:7273639",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273639,
+    "tgn:name:nl":"Winkelstraat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.65,51.433333],"type":"Point"}
+}

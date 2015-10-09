@@ -1,0 +1,27 @@
+{
+  "id": 7267701,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1c9b4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748146",
+        "gp:id":732948,
+        "qs:id":4,
+        "wof:id":101856039
+    },
+    "tgn:hierarchy":[
+        "tgn:7267701",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267701,
+    "tgn:name:nl":"Rietmolen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.666667,52.15],"type":"Point"}
+}

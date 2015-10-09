@@ -1,0 +1,23 @@
+{
+  "id": 7030171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030171",
+        "tgn:1000004",
+        "tgn:7000853",
+        "tgn:1000125",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030171,
+    "tgn:name:en":"Plain of Jars",
+    "tgn:name:fr":"Plain des Jarres",
+    "tgn:name:lo":"Th\u00f4ng Haihin",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[103.166,19.45],"type":"Point"}
+}

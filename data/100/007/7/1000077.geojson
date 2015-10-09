@@ -1,0 +1,32 @@
+{
+  "id": 1000077,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000077",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000077,
+    "tgn:name:ar":"\u0622 \u0633\u064c \u064a\u064e\u062f\u0627",
+    "tgn:name:en":"Iceland",
+    "tgn:name:es":"Islandia",
+    "tgn:name:fr":"Islande",
+    "tgn:name:is":"\u00cdsland",
+    "tgn:name:it":"Islanda",
+    "tgn:name:la":"Islandia",
+    "tgn:name:nl":"IJsland",
+    "tgn:name:ru":"\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+    "tgn:name:zh":"\u51b0\u5c9b",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-18.0,65.0],"type":"Point"}
+}

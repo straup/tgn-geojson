@@ -1,0 +1,30 @@
+{
+  "id": 7000442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000442",
+        "tgn:7001242",
+        "tgn:1000179",
+        "tgn:7593695",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000442,
+    "tgn:name":"Tanger",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387291",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.8333,35.8],"type":"Point"}
+}

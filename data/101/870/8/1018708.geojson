@@ -1,0 +1,25 @@
+{
+  "id": 1018708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1018708",
+        "tgn:7593359",
+        "tgn:1000001",
+        "tgn:7005562",
+        "tgn:7029392"
+    ],
+    "tgn:id":1018708,
+    "tgn:name":"Bluefields",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.8167,12.0],"type":"Point"}
+}

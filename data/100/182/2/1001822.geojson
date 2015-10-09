@@ -1,0 +1,23 @@
+{
+  "id": 1001822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1001822",
+        "tgn:1000047",
+        "tgn:7002456",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1001822,
+    "tgn:name":"Acre",
+    "tgn:placetype":[
+        "aat:300008631",
+        "aat:300008869",
+        "aat:300387064",
+        "aat:300000776"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.0,-9.0],"type":"Point"}
+}

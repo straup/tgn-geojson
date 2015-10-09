@@ -1,0 +1,26 @@
+{
+  "id": 7010106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010106",
+        "tgn:7011552",
+        "tgn:1000004",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010106,
+    "tgn:name":"Astrakhan",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[48.0667,46.3667],"type":"Point"}
+}

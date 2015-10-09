@@ -1,0 +1,25 @@
+{
+  "id": 1021303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1021303",
+        "tgn:1001925",
+        "tgn:1000047",
+        "tgn:7002458",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1021303,
+    "tgn:name":"Curitiba",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387235",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-49.4167,-25.4167],"type":"Point"}
+}

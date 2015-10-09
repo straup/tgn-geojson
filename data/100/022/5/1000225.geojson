@@ -1,0 +1,28 @@
+{
+  "id": 1000225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000225",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000225,
+    "tgn:name:ar":"\u0641\u0627\u0647\u0648\u0627\u062b\u0648",
+    "tgn:name:bi":"Vanuatu",
+    "tgn:name:en":"Vanuatu",
+    "tgn:name:fr":"Vanuatu",
+    "tgn:name:ru":"\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+    "tgn:name:zh":"\u74e6\u52aa\u963f\u56fe",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300387347",
+        "aat:300235116",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[167.0,-16.0],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4012447,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f25d7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744118",
+        "gp:id":734927,
+        "qs:id":6,
+        "wof:id":101751901
+    },
+    "tgn:hierarchy":[
+        "tgn:4012447",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4012447,
+    "tgn:name:nl":"Zaandam",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.833333,52.45],"type":"Point"}
+}

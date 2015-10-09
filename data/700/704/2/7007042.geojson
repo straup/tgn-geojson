@@ -1,0 +1,30 @@
+{
+  "id": 7007042,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0f390-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754064",
+        "gp:id":730138,
+        "qs:id":1,
+        "wof:id":101751905
+    },
+    "tgn:hierarchy":[
+        "tgn:7007042",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007042,
+    "tgn:name:nl":"Hilversum",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.183333,52.233333],"type":"Point"}
+}

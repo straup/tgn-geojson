@@ -1,0 +1,25 @@
+{
+  "id": 7014463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014463",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7023900",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014463,
+    "tgn:name:es":"San Pedro",
+    "tgn:placetype":[
+        "aat:300000745",
+        "aat:300387257",
+        "aat:300387275",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2833,33.7333],"type":"Point"}
+}

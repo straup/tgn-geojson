@@ -1,0 +1,27 @@
+{
+  "id": 7010300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010300",
+        "tgn:1000004",
+        "tgn:7012253",
+        "tgn:7006661",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010300,
+    "tgn:name:en":"Tashkent",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[69.2167,41.2667],"type":"Point"}
+}

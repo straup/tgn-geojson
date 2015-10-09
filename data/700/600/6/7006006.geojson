@@ -1,0 +1,26 @@
+{
+  "id": 7006006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006006",
+        "tgn:7003150",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006006,
+    "tgn:name":"Monza",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387272",
+        "aat:300387302",
+        "aat:300387293"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.266667,45.583333],"type":"Point"}
+}

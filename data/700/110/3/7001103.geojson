@@ -1,0 +1,24 @@
+{
+  "id": 7001103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001103",
+        "tgn:7001242",
+        "tgn:1002115",
+        "tgn:1000205",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001103,
+    "tgn:name":"Sfax",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387270",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.7167,34.75],"type":"Point"}
+}

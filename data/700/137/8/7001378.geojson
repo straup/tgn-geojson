@@ -1,0 +1,26 @@
+{
+  "id": 7001378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001378",
+        "tgn:1000861",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001378,
+    "tgn:name:en":"Beersheba",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387222",
+        "aat:300264742",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[34.7833,31.25],"type":"Point"}
+}

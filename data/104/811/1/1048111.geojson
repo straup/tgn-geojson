@@ -1,0 +1,27 @@
+{
+  "id": 1048111,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2747203",
+        "qs:id":7,
+        "wof:id":101839313
+    },
+    "tgn:hierarchy":[
+        "tgn:1048111",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048111,
+    "tgn:name:nl":"Sittard",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.866667,51.0],"type":"Point"}
+}

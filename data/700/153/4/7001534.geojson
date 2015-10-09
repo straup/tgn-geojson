@@ -1,0 +1,23 @@
+{
+  "id": 7001534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001534",
+        "tgn:1000004",
+        "tgn:7000201",
+        "tgn:7000198",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001534,
+    "tgn:name:en":"New Delhi",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[77.2,28.6],"type":"Point"}
+}

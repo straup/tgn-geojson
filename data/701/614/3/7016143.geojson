@@ -1,0 +1,23 @@
+{
+  "id": 7016143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016143",
+        "tgn:7001242",
+        "tgn:7001022",
+        "tgn:1000205",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016143,
+    "tgn:name:it":"Cartagine",
+    "tgn:name:la":"Carthago",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3333,36.85],"type":"Point"}
+}

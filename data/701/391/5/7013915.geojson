@@ -1,0 +1,31 @@
+{
+  "id": 7013915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013915",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002516",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013915,
+    "tgn:name":"Louisville",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387232",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387316",
+        "aat:300120599",
+        "aat:300387293",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.75,38.25],"type":"Point"}
+}

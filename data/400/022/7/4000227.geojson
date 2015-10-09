@@ -1,0 +1,20 @@
+{
+  "id": 4000227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:4000227",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:7029392"
+    ],
+    "tgn:id":4000227,
+    "tgn:name":"Neutral Zone",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387140"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.5,29.1667],"type":"Point"}
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2345857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345857",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001301",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345857,
+    "tgn:name":"Gartside Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.2667,47.5833],"type":"Point"}
+}

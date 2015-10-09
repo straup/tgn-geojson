@@ -1,0 +1,25 @@
+{
+  "id": 7030216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030216",
+        "tgn:1000003",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030216,
+    "tgn:name:ca":"Catalunya",
+    "tgn:name:en":"Catalonia",
+    "tgn:placetype":[
+        "aat:300387178",
+        "aat:300237189",
+        "aat:300387064",
+        "aat:300387113",
+        "aat:300235101",
+        "aat:300237154"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.0,42.0],"type":"Point"}
+}

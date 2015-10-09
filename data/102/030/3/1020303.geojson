@@ -1,0 +1,20 @@
+{
+  "id": 1020303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1020303",
+        "tgn:1000752",
+        "tgn:1000046",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1020303,
+    "tgn:name":"El Cerro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.5833,-17.5333],"type":"Point"}
+}

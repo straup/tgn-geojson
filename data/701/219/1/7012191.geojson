@@ -1,0 +1,23 @@
+{
+  "id": 7012191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012191",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012191,
+    "tgn:name:be":"Nioman",
+    "tgn:name:de":"Memel",
+    "tgn:name:en":"Neman",
+    "tgn:name:et":"Neemen",
+    "tgn:name:lt":"Nemanus",
+    "tgn:name:pl":"Niemen",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[24.0833,54.4167],"type":"Point"}
+}

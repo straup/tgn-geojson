@@ -1,0 +1,21 @@
+{
+  "id": 2345700,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345700",
+        "tgn:1000001",
+        "tgn:2001419",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345700,
+    "tgn:name":"Garrett Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.05,40.7167],"type":"Point"}
+}

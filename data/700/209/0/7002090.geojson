@@ -1,0 +1,27 @@
+{
+  "id": 7002090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002090",
+        "tgn:7006160",
+        "tgn:7002102",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002090,
+    "tgn:name":"Port Moresby",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[147.1167,-9.5],"type":"Point"}
+}

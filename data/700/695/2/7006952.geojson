@@ -1,0 +1,31 @@
+{
+  "id": 7006952,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f28688-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759794",
+        "gp:id":727232,
+        "wof:id":101751893
+    },
+    "tgn:hierarchy":[
+        "tgn:7006952",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006952,
+    "tgn:name:en":"Amsterdam",
+    "tgn:name:nl":"Amsterdam",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.916667,52.35],"type":"Point"}
+}

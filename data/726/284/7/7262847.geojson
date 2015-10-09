@@ -1,0 +1,27 @@
+{
+  "id": 7262847,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ed60c2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758013",
+        "gp:id":728173,
+        "qs:id":7,
+        "wof:id":101855233
+    },
+    "tgn:hierarchy":[
+        "tgn:7262847",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7262847,
+    "tgn:name:nl":"Capelle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.983333,51.7],"type":"Point"}
+}

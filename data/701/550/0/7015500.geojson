@@ -1,0 +1,29 @@
+{
+  "id": 7015500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7015500",
+        "tgn:7017310",
+        "tgn:1000003",
+        "tgn:7006663",
+        "tgn:7029392"
+    ],
+    "tgn:id":7015500,
+    "tgn:name":"Dubrovnik",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300387270",
+        "aat:300120599",
+        "aat:300263063",
+        "aat:300387288",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.1167,42.6667],"type":"Point"}
+}

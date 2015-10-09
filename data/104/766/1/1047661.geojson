@@ -1,0 +1,26 @@
+{
+  "id": 1047661,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2758777",
+        "qs:id":8,
+        "wof:id":101807139
+    },
+    "tgn:hierarchy":[
+        "tgn:1047661",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047661,
+    "tgn:name:nl":"Blokzijl",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.966667,52.716667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7006884,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f08c16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756772",
+        "gp:id":728748,
+        "qs:id":2,
+        "wof:id":101837759
+    },
+    "tgn:hierarchy":[
+        "tgn:7006884",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006884,
+    "tgn:name:nl":"Doesburg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.133333,52.016667],"type":"Point"}
+}

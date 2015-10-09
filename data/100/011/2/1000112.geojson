@@ -1,0 +1,28 @@
+{
+  "id": 1000112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000112",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000112,
+    "tgn:name":"K\u00fdpros",
+    "tgn:name:ar":"\u0643\u0628\u0631\u0635",
+    "tgn:name:el":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "tgn:name:en":"K\u0131br\u0131s",
+    "tgn:name:es":"Chipre",
+    "tgn:name:fr":"Chypre",
+    "tgn:name:ru":"\u041a\u0438\u043f\u0440",
+    "tgn:name:zh":"\u585e\u6d66\u8def\u65af",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[33.0,35.0],"type":"Point"}
+}

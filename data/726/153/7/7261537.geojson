@@ -1,0 +1,27 @@
+{
+  "id": 7261537,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f09896-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756432",
+        "gp:id":728935,
+        "qs:id":4,
+        "wof:id":101808673
+    },
+    "tgn:hierarchy":[
+        "tgn:7261537",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7261537,
+    "tgn:name:nl":"Eck en Wiel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.45,51.966667],"type":"Point"}
+}

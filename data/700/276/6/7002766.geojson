@@ -1,0 +1,25 @@
+{
+  "id": 7002766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002766",
+        "tgn:1000003",
+        "tgn:7002696",
+        "tgn:1000091",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002766,
+    "tgn:name":"Baia Mare",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387235",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[23.6,47.65],"type":"Point"}
+}

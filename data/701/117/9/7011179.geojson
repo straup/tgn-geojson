@@ -1,0 +1,36 @@
+{
+  "id": 7011179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011179",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011179,
+    "tgn:name:en":"Siena",
+    "tgn:name:ett":"Sena",
+    "tgn:name:it":"Siena",
+    "tgn:name:la":"Saena Julia",
+    "tgn:placetype":[
+        "aat:300387236",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300019478",
+        "aat:300387330",
+        "aat:300005135",
+        "aat:300020471",
+        "aat:300235540",
+        "aat:300387284",
+        "aat:300020533",
+        "aat:300263063",
+        "aat:300387291",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.33,43.318],"type":"Point"}
+}

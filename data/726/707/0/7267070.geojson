@@ -1,0 +1,27 @@
+{
+  "id": 7267070,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f12e78-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751932",
+        "gp:id":731127,
+        "qs:id":9,
+        "wof:id":101808271
+    },
+    "tgn:hierarchy":[
+        "tgn:7267070",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267070,
+    "tgn:name:nl":"Langenboom",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.733333,51.7],"type":"Point"}
+}

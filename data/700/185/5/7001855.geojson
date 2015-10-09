@@ -1,0 +1,25 @@
+{
+  "id": 7001855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001855",
+        "tgn:1000004",
+        "tgn:7002080",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001855,
+    "tgn:name":"Guiyang",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[106.7167,26.5833],"type":"Point"}
+}

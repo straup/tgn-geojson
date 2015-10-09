@@ -1,0 +1,25 @@
+{
+  "id": 7267594,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2750180",
+        "qs:id":9,
+        "wof:id":101839387
+    },
+    "tgn:hierarchy":[
+        "tgn:7267594",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267594,
+    "tgn:name:nl":"Nieuwkuijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.2,51.7],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7011540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011540",
+        "tgn:1000004",
+        "tgn:1003555",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011540,
+    "tgn:name":"Stavropol",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[41.9833,45.05],"type":"Point"}
+}

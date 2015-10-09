@@ -1,0 +1,27 @@
+{
+  "id": 7267513,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ee5f18-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750227",
+        "gp:id":731973,
+        "qs:id":6,
+        "wof:id":101808299
+    },
+    "tgn:hierarchy":[
+        "tgn:7267513",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267513,
+    "tgn:name:nl":"Nieuwe Vaart",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.983333,51.683333],"type":"Point"}
+}

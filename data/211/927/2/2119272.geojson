@@ -1,0 +1,29 @@
+{
+  "id": 2119272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2119272",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002281",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2119272,
+    "tgn:name":"Morgantown",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387302",
+        "aat:300387299",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.95,39.6167],"type":"Point"}
+}

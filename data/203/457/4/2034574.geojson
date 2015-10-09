@@ -1,0 +1,25 @@
+{
+  "id": 2034574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2034574",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000638",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2034574,
+    "tgn:name":"Council Bluffs",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.85,41.25],"type":"Point"}
+}

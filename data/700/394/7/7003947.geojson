@@ -1,0 +1,30 @@
+{
+  "id": 7003947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003947",
+        "tgn:1000003",
+        "tgn:1001651",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003947,
+    "tgn:name":"Catania",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300000835",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387511",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387249",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.1,37.5],"type":"Point"}
+}

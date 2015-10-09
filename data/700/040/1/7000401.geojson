@@ -1,0 +1,24 @@
+{
+  "id": 7000401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000401",
+        "tgn:7001242",
+        "tgn:7000400",
+        "tgn:1000180",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000401,
+    "tgn:name":"Beira",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[34.8333,-19.8333],"type":"Point"}
+}

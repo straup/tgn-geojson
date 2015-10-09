@@ -1,0 +1,27 @@
+{
+  "id": 1048134,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1fb78-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2746804",
+        "gp:id":733622,
+        "qs:id":8,
+        "wof:id":101839423
+    },
+    "tgn:hierarchy":[
+        "tgn:1048134",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048134,
+    "tgn:name:nl":"Steenbergen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.316667,51.583333],"type":"Point"}
+}

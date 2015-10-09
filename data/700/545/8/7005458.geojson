@@ -1,0 +1,26 @@
+{
+  "id": 7005458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005458",
+        "tgn:1001941",
+        "tgn:1000047",
+        "tgn:7002458",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005458,
+    "tgn:name":"Rio Grande",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-52.1333,-23.05],"type":"Point"}
+}

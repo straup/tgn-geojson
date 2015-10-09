@@ -1,0 +1,24 @@
+{
+  "id": 7010189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010189",
+        "tgn:1000004",
+        "tgn:7011573",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010189,
+    "tgn:name":"Korolyov",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387302",
+        "aat:300387290"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[37.9167,55.9167],"type":"Point"}
+}

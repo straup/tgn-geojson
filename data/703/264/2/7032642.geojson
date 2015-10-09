@@ -1,0 +1,24 @@
+{
+  "id": 7032642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7032642",
+        "tgn:1001702",
+        "tgn:1000049",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7032642,
+    "tgn:name":"Cerro Sota",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300007699",
+        "aat:300167671",
+        "aat:300387322"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.060501,-52.053018],"type":"Point"}
+}

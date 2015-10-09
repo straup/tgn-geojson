@@ -1,0 +1,26 @@
+{
+  "id": 1000177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000177",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000177,
+    "tgn:name:ar":"\u0645\u0648\u0631 \u0636\u064c \u0648\u064e\u0633",
+    "tgn:name:en":"Mauritius",
+    "tgn:name:es":"Mauricio",
+    "tgn:name:fr":"Maurice",
+    "tgn:name:ru":"\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439",
+    "tgn:name:zh":"\u6bdb\u91cc\u6c42\u65af",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[57.5833,-20.3],"type":"Point"}
+}

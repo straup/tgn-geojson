@@ -1,0 +1,26 @@
+{
+  "id": 7010245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010245",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010245,
+    "tgn:name":"Sutri",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387330",
+        "aat:300000372",
+        "aat:300020471",
+        "aat:300008375",
+        "aat:300020533"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.216667,42.233333],"type":"Point"}
+}

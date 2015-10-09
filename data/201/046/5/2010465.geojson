@@ -1,0 +1,24 @@
+{
+  "id": 2010465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2010465",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2010465,
+    "tgn:name":"Calico",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387210",
+        "aat:300008547",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.85,34.9333],"type":"Point"}
+}

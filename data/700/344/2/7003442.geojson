@@ -1,0 +1,29 @@
+{
+  "id": 7003442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003442",
+        "tgn:7594006",
+        "tgn:1000003",
+        "tgn:1000066",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003442,
+    "tgn:name:da":"\u00c5rhus",
+    "tgn:name:en":"Aarhus",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387235",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.2167,56.1667],"type":"Point"}
+}

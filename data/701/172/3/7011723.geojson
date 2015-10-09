@@ -1,0 +1,26 @@
+{
+  "id": 7011723,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011723",
+        "tgn:7593919",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011723,
+    "tgn:name:cs":"Plze\u0148",
+    "tgn:name:de":"Pilsen",
+    "tgn:name:en":"Plze\u0148",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.4167,49.75],"type":"Point"}
+}

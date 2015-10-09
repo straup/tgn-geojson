@@ -1,0 +1,31 @@
+{
+  "id": 7000983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000983",
+        "tgn:1001365",
+        "tgn:7005191",
+        "tgn:1000004",
+        "tgn:1000142",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000983,
+    "tgn:name:en":"Bangkok",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387238",
+        "aat:300387298",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387272",
+        "aat:300008372",
+        "aat:300387270",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[100.5,13.7333],"type":"Point"}
+}

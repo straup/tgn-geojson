@@ -1,0 +1,27 @@
+{
+  "id": 1048219,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f239b2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745014",
+        "gp:id":734516,
+        "qs:id":8,
+        "wof:id":101837949
+    },
+    "tgn:hierarchy":[
+        "tgn:1048219",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048219,
+    "tgn:name:nl":"Warmenhuizen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.733333,52.733333],"type":"Point"}
+}

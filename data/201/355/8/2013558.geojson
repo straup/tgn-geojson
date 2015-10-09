@@ -1,0 +1,26 @@
+{
+  "id": 2013558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2013558",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002864",
+        "tgn:7029392"
+    ],
+    "tgn:id":2013558,
+    "tgn:name":"Redwood City",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300120599",
+        "aat:300387288",
+        "aat:300387280"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2333,37.4833],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7002539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002539",
+        "tgn:1001363",
+        "tgn:1000004",
+        "tgn:7018453",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002539,
+    "tgn:name":"Konya",
+    "tgn:placetype":[
+        "aat:300235115",
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387223"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.5,37.85],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7006284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006284",
+        "tgn:7005463",
+        "tgn:1000001",
+        "tgn:7005441",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006284,
+    "tgn:name":"San Salvador",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.1667,13.6667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4007898,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1741e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750158",
+        "gp:id":731940,
+        "qs:id":3,
+        "wof:id":101754835
+    },
+    "tgn:hierarchy":[
+        "tgn:4007898",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4007898,
+    "tgn:name:nl":"Nieuw-Loosdrecht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.133333,52.2],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1047782,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2755616",
+        "qs:id":9,
+        "wof:id":101839721
+    },
+    "tgn:hierarchy":[
+        "tgn:1047782",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047782,
+    "tgn:name:nl":"Geleen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387512",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.833333,50.966667],"type":"Point"}
+}

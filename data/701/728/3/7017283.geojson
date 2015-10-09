@@ -1,0 +1,29 @@
+{
+  "id": 7017283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7017283",
+        "tgn:7002444",
+        "tgn:1000003",
+        "tgn:7019097",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017283,
+    "tgn:name:en":"Glasgow",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387064",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300387288"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.25,55.833333],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7000500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000500",
+        "tgn:7001242",
+        "tgn:1001921",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000500,
+    "tgn:name":"Oyo",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.9167,7.8333],"type":"Point"}
+}

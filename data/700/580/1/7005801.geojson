@@ -1,0 +1,21 @@
+{
+  "id": 7005801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005801",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005801,
+    "tgn:name:en":"Newfoundland and Labrador",
+    "tgn:name:fr":"Terre-Neuve-et-Labrador, Province de",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000774"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-56.0,52.0],"type":"Point"}
+}

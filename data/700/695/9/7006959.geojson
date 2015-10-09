@@ -1,0 +1,28 @@
+{
+  "id": 7006959,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0a750-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756136",
+        "gp:id":729104,
+        "qs:id":1,
+        "wof:id":101751881
+    },
+    "tgn:hierarchy":[
+        "tgn:7006959",
+        "tgn:7003614",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006959,
+    "tgn:name:nl":"Emmen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.9,52.783333],"type":"Point"}
+}

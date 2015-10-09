@@ -1,0 +1,27 @@
+{
+  "id": 7007060,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0a084-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756299",
+        "gp:id":729004,
+        "qs:id":4,
+        "wof:id":101807347
+    },
+    "tgn:hierarchy":[
+        "tgn:7007060",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007060,
+    "tgn:name:nl":"Egmond-Binnen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,52.6],"type":"Point"}
+}

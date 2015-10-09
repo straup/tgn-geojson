@@ -1,0 +1,28 @@
+{
+  "id": 7006940,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f087d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756987",
+        "gp:id":728683,
+        "wof:id":101751865
+    },
+    "tgn:hierarchy":[
+        "tgn:7006940",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006940,
+    "tgn:name:nl":"Deventer",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.2,52.25],"type":"Point"}
+}

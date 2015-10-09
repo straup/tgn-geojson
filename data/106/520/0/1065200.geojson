@@ -1,0 +1,28 @@
+{
+  "id": 1065200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1065200",
+        "tgn:7015191",
+        "tgn:7029392"
+    ],
+    "tgn:id":1065200,
+    "tgn:name:en":"Pristina",
+    "tgn:name:sq":"Prishtine",
+    "tgn:placetype":[
+        "aat:300387273",
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.1667,42.65],"type":"Point"}
+}

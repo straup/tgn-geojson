@@ -1,0 +1,29 @@
+{
+  "id": 7003514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003514",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003514,
+    "tgn:name:ar":"\u0649\u064b\u0633\u0645\u0628\u0631\u063a",
+    "tgn:name:de":"Luxemburg",
+    "tgn:name:en":"Luxembourg",
+    "tgn:name:es":"Luxemburgo",
+    "tgn:name:fr":"Luxembourg",
+    "tgn:name:lb":"L\u00ebtzebuerg",
+    "tgn:name:ru":"\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+    "tgn:name:zh":"\u5362\u68ee\u5821",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235540"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.1667,49.75],"type":"Point"}
+}

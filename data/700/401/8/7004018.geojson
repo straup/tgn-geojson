@@ -1,0 +1,28 @@
+{
+  "id": 7004018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004018",
+        "tgn:1003471",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004018,
+    "tgn:name":"Macerata",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387276",
+        "aat:300387308",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300387285",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.45,43.3],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7267752,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2750123",
+        "qs:id":1,
+        "wof:id":101807031
+    },
+    "tgn:hierarchy":[
+        "tgn:7267752",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267752,
+    "tgn:name:nl":"Nieuwveen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.75,52.2],"type":"Point"}
+}

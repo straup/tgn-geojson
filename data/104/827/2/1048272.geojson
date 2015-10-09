@@ -1,0 +1,30 @@
+{
+  "id": 1048272,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f265cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2743856",
+        "gp:id":735077,
+        "qs:id":2,
+        "wof:id":101751835
+    },
+    "tgn:hierarchy":[
+        "tgn:1048272",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048272,
+    "tgn:name:nl":"Zoetermeer",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5,52.05],"type":"Point"}
+}

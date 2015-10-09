@@ -1,0 +1,21 @@
+{
+  "id": 1000501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000501",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000501,
+    "tgn:name":"Ancash",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000772",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.75,-9.5],"type":"Point"}
+}

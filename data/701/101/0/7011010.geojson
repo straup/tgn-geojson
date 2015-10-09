@@ -1,0 +1,24 @@
+{
+  "id": 7011010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011010",
+        "tgn:7019030",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029506",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011010,
+    "tgn:name:en":"Stourbridge",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.133333,52.466667],"type":"Point"}
+}

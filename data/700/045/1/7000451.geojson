@@ -1,0 +1,28 @@
+{
+  "id": 7000451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000451",
+        "tgn:7001242",
+        "tgn:7593652",
+        "tgn:1000179",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000451,
+    "tgn:name":"Casablanca",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-7.5833,33.65],"type":"Point"}
+}

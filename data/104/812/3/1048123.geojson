@@ -1,0 +1,27 @@
+{
+  "id": 1048123,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1eed0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747030",
+        "gp:id":733481,
+        "qs:id":2,
+        "wof:id":101837679
+    },
+    "tgn:hierarchy":[
+        "tgn:1048123",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048123,
+    "tgn:name:nl":"Soesterberg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.316667,52.116667],"type":"Point"}
+}

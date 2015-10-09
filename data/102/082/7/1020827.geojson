@@ -1,0 +1,25 @@
+{
+  "id": 1020827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1020827",
+        "tgn:7006237",
+        "tgn:1000047",
+        "tgn:7002457",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1020827,
+    "tgn:name":"Belo Horizonte",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387221",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-43.9,-19.9],"type":"Point"}
+}

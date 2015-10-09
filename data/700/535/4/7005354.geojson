@@ -1,0 +1,24 @@
+{
+  "id": 7005354,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005354",
+        "tgn:1000003",
+        "tgn:7003141",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005354,
+    "tgn:name":"San Remo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300120599",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.766667,43.816667],"type":"Point"}
+}

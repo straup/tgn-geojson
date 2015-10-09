@@ -1,0 +1,24 @@
+{
+  "id": 7002304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002304",
+        "tgn:1002059",
+        "tgn:1000004",
+        "tgn:1000140",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002304,
+    "tgn:name":"Ras Shamra",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.75,35.5833],"type":"Point"}
+}

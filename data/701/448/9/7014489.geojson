@@ -1,0 +1,25 @@
+{
+  "id": 7014489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014489",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002872",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014489,
+    "tgn:name":"Schenectady",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387302",
+        "aat:300387299"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9333,42.8],"type":"Point"}
+}

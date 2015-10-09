@@ -1,0 +1,26 @@
+{
+  "id": 7013803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013803",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002950",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013803,
+    "tgn:name":"Ithaca",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387308",
+        "aat:300008375",
+        "aat:300387291",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4833,42.4333],"type":"Point"}
+}

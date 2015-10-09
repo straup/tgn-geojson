@@ -1,0 +1,31 @@
+{
+  "id": 7013596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013596",
+        "tgn:1000001",
+        "tgn:7013649",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013596,
+    "tgn:name":"Chicago",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387320",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387299",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.65,41.85],"type":"Point"}
+}

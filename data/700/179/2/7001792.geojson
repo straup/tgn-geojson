@@ -1,0 +1,24 @@
+{
+  "id": 7001792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001792",
+        "tgn:1009227",
+        "tgn:1000226",
+        "tgn:7018437",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001792,
+    "tgn:name:en":"Dunedin",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387511",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[170.5,-45.866667],"type":"Point"}
+}

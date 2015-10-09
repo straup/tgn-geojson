@@ -1,0 +1,25 @@
+{
+  "id": 1048001,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2749734",
+        "qs:id":6,
+        "wof:id":101807315
+    },
+    "tgn:hierarchy":[
+        "tgn:1048001",
+        "tgn:7003614",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048001,
+    "tgn:name:nl":"Odoorn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.85,52.85],"type":"Point"}
+}

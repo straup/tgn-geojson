@@ -1,0 +1,26 @@
+{
+  "id": 7265001,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2752218",
+        "gp:id":20063963,
+        "qs:id":219449,
+        "wof:id":85859861
+    },
+    "tgn:hierarchy":[
+        "tgn:7265001",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265001,
+    "tgn:name:nl":"Krooswijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.583333,51.65],"type":"Point"}
+}

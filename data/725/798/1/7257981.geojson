@@ -1,0 +1,25 @@
+{
+  "id": 7257981,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2759381",
+        "qs:id":7,
+        "wof:id":101807137
+    },
+    "tgn:hierarchy":[
+        "tgn:7257981",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7257981,
+    "tgn:name:nl":"Bathmen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.283333,52.25],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7004113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004113",
+        "tgn:7003248",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004113,
+    "tgn:name":"Molfetta",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300387283",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.6,41.2],"type":"Point"}
+}

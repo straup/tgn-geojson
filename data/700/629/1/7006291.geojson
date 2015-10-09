@@ -1,0 +1,24 @@
+{
+  "id": 7006291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006291",
+        "tgn:7006477",
+        "tgn:1001526",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006291,
+    "tgn:name":"Santiago del Estero",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-64.25,-27.7833],"type":"Point"}
+}

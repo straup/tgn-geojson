@@ -1,0 +1,27 @@
+{
+  "id": 1047719,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f678e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756888",
+        "gp:id":728696,
+        "qs:id":215333,
+        "wof:id":85797449
+    },
+    "tgn:hierarchy":[
+        "tgn:1047719",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047719,
+    "tgn:name:nl":"Diemen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.966667,52.333333],"type":"Point"}
+}

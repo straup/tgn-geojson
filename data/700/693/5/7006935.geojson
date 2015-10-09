@@ -1,0 +1,30 @@
+{
+  "id": 7006935,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0e9e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754394",
+        "gp:id":729991,
+        "qs:id":3,
+        "wof:id":101751869
+    },
+    "tgn:hierarchy":[
+        "tgn:7006935",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006935,
+    "tgn:name:nl":"Hengelo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.8,52.266667],"type":"Point"}
+}

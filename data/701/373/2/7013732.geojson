@@ -1,0 +1,30 @@
+{
+  "id": 7013732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013732",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013732,
+    "tgn:name":"Huntsville",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387275",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387302",
+        "aat:300387307",
+        "aat:300387299"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5833,34.7167],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7005124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005124",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005124,
+    "tgn:name:it":"Orvieto",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387319",
+        "aat:300005135",
+        "aat:300387235",
+        "aat:300008459"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.116667,42.716667],"type":"Point"}
+}

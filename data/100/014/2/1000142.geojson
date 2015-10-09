@@ -1,0 +1,30 @@
+{
+  "id": 1000142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000142",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000142,
+    "tgn:name":"Prathet Thai",
+    "tgn:name:ar":"\u062a\u0627 \u064a\u064b\u064e\u062f",
+    "tgn:name:en":"Thailand",
+    "tgn:name:es":"Tailandia",
+    "tgn:name:fr":"Tha\u00eflande",
+    "tgn:name:ru":"\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+    "tgn:name:th":"\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "tgn:name:zh":"\u6cf0\u56fd",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300387136",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[100.0,15.0],"type":"Point"}
+}

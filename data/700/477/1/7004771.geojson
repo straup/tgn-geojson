@@ -1,0 +1,25 @@
+{
+  "id": 7004771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004771",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004771,
+    "tgn:name:ar":"\u063a\u0631\u064b\u064a\u0627\u062f",
+    "tgn:name:en":"Grenada",
+    "tgn:name:es":"Granada",
+    "tgn:name:fr":"Grenade",
+    "tgn:name:ru":"\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+    "tgn:name:zh":"\u683c\u6797\u7eb3\u8fbe",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.6667,12.1167],"type":"Point"}
+}

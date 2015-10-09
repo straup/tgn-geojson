@@ -1,0 +1,27 @@
+{
+  "id": 1048237,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f24c0e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744549",
+        "gp:id":734730,
+        "qs:id":1,
+        "wof:id":101754779
+    },
+    "tgn:hierarchy":[
+        "tgn:1048237",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048237,
+    "tgn:name:nl":"Wierden",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.6,52.366667],"type":"Point"}
+}

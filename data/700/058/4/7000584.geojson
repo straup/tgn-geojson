@@ -1,0 +1,25 @@
+{
+  "id": 7000584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000584",
+        "tgn:7001242",
+        "tgn:7014974",
+        "tgn:7001644",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000584,
+    "tgn:name":"Djibouti",
+    "tgn:placetype":[
+        "aat:300387254",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387222",
+        "aat:300387219",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[43.1667,11.55],"type":"Point"}
+}

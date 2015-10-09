@@ -1,0 +1,27 @@
+{
+  "id": 4012140,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f242ae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744825",
+        "gp:id":734607,
+        "qs:id":8,
+        "wof:id":101808431
+    },
+    "tgn:hierarchy":[
+        "tgn:4012140",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4012140,
+    "tgn:name:nl":"Werkhoven",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.25,52.033333],"type":"Point"}
+}

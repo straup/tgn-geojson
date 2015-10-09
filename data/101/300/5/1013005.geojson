@@ -1,0 +1,23 @@
+{
+  "id": 1013005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1013005",
+        "tgn:7593513",
+        "tgn:1009882",
+        "tgn:7593481",
+        "tgn:7005332",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":1013005,
+    "tgn:name":"Alice Town",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.2833,25.7333],"type":"Point"}
+}

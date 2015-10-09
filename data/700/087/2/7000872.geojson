@@ -1,0 +1,27 @@
+{
+  "id": 7000872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000872",
+        "tgn:1000004",
+        "tgn:7593851",
+        "tgn:7029379",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000872,
+    "tgn:name":"Ulaanbaatar",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387066",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[106.8667,47.9],"type":"Point"}
+}

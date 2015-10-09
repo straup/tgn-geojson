@@ -1,0 +1,28 @@
+{
+  "id": 7006799,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1c842-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748172",
+        "gp:id":732929,
+        "qs:id":3,
+        "wof:id":101754739
+    },
+    "tgn:hierarchy":[
+        "tgn:7006799",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006799,
+    "tgn:name:nl":"Ridderkerk",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.6,51.866667],"type":"Point"}
+}

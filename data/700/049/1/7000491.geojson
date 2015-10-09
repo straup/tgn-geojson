@@ -1,0 +1,25 @@
+{
+  "id": 7000491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000491",
+        "tgn:1000556",
+        "tgn:7024165",
+        "tgn:7001242",
+        "tgn:1000208",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000491,
+    "tgn:name":"Ouagadougou",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387219"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.6667,12.3333],"type":"Point"}
+}

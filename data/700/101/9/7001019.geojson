@@ -1,0 +1,23 @@
+{
+  "id": 7001019,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001019",
+        "tgn:7001242",
+        "tgn:7001022",
+        "tgn:1000205",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001019,
+    "tgn:name":"La Goulette",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000547",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,36.8667],"type":"Point"}
+}

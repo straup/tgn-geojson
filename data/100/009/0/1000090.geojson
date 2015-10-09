@@ -1,0 +1,29 @@
+{
+  "id": 1000090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000090",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000090,
+    "tgn:name:ar":"\u0627\u0628\u064b\u0631\u062b\u063a\u0627\u0644",
+    "tgn:name:en":"Portugal",
+    "tgn:name:es":"Portugal",
+    "tgn:name:fr":"Portugal",
+    "tgn:name:pt":"Portugal",
+    "tgn:name:ru":"\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+    "tgn:name:zh":"\u8461\u8404\u7259",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300000771",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-8.0,39.5],"type":"Point"}
+}

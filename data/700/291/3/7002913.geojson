@@ -1,0 +1,25 @@
+{
+  "id": 7002913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002913",
+        "tgn:7000264",
+        "tgn:1006364",
+        "tgn:1000004",
+        "tgn:1000143",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002913,
+    "tgn:name:en":"Abu Dhabi",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387219",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[54.3667,24.4667],"type":"Point"}
+}

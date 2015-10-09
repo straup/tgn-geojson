@@ -1,0 +1,25 @@
+{
+  "id": 7266520,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2754287",
+        "qs:id":9,
+        "wof:id":101808649
+    },
+    "tgn:hierarchy":[
+        "tgn:7266520",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266520,
+    "tgn:name:nl":"Heteren",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.75,51.966667],"type":"Point"}
+}

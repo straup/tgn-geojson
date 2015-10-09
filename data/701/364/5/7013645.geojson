@@ -1,0 +1,30 @@
+{
+  "id": 7013645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013645",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002386",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013645,
+    "tgn:name":"Columbus",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387291",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9833,39.95],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7012635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012635",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012635,
+    "tgn:name:de":"Offenburg",
+    "tgn:name:en":"Offenburg",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387239",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387320",
+        "aat:300387270",
+        "aat:300387285",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.933333,48.483333],"type":"Point"}
+}

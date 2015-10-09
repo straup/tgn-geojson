@@ -1,0 +1,27 @@
+{
+  "id": 7272779,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f23282-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745162",
+        "gp:id":734441,
+        "qs:id":9,
+        "wof:id":101808421
+    },
+    "tgn:hierarchy":[
+        "tgn:7272779",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7272779,
+    "tgn:name:nl":"Vrouwenpolder",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.616667,51.583333],"type":"Point"}
+}

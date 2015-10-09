@@ -1,0 +1,26 @@
+{
+  "id": 7004603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004603",
+        "tgn:1000004",
+        "tgn:1000998",
+        "tgn:7000896",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004603,
+    "tgn:name:en":"Kyoto",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387220",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[135.75,35.0],"type":"Point"}
+}

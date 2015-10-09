@@ -1,0 +1,28 @@
+{
+  "id": 7005299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005299",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005299,
+    "tgn:name:de":"Wilhelmshaven",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387025",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300000467",
+        "aat:300387511",
+        "aat:300387299",
+        "aat:300387294",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.133333,53.516667],"type":"Point"}
+}

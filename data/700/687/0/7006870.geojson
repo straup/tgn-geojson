@@ -1,0 +1,26 @@
+{
+  "id": 7006870,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2759344",
+        "qs:id":6,
+        "wof:id":101808591
+    },
+    "tgn:hierarchy":[
+        "tgn:7006870",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006870,
+    "tgn:name:nl":"Beek",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.183333,51.9],"type":"Point"}
+}

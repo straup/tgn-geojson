@@ -1,0 +1,25 @@
+{
+  "id": 1048040,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2748737",
+        "qs:id":3,
+        "wof:id":101839303
+    },
+    "tgn:hierarchy":[
+        "tgn:1048040",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048040,
+    "tgn:name:nl":"Panningen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.983333,51.333333],"type":"Point"}
+}

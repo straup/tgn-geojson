@@ -1,0 +1,25 @@
+{
+  "id": 7006207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006207",
+        "tgn:7003165",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006207,
+    "tgn:name":"Viareggio",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300120599",
+        "aat:300387292",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.233333,43.866667],"type":"Point"}
+}

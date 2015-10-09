@@ -1,0 +1,24 @@
+{
+  "id": 7013088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013088",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7013154",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013088,
+    "tgn:name":"Ottawa",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300264742"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7167,45.4167],"type":"Point"}
+}

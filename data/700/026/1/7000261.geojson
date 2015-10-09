@@ -1,0 +1,30 @@
+{
+  "id": 7000261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000261",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000261,
+    "tgn:name":"Al Yaman",
+    "tgn:name:ar":"\u0627 \u064a\u064d\u0645\u0646",
+    "tgn:name:de":"Jemen",
+    "tgn:name:en":"Yemen",
+    "tgn:name:es":"Yemen",
+    "tgn:name:fr":"Y\u00e9men",
+    "tgn:name:pt":"I\u00eamen",
+    "tgn:name:ru":"\u0419\u0435\u043c\u0435\u043d",
+    "tgn:name:zh":"\u4e5f\u95e8",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.5,15.5],"type":"Point"}
+}

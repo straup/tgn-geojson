@@ -1,0 +1,23 @@
+{
+  "id": 6001207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:6001207",
+        "tgn:7003138",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":6001207,
+    "tgn:name":"Castrum Novum",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.833333,42.033333],"type":"Point"}
+}

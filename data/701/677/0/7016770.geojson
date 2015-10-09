@@ -1,0 +1,28 @@
+{
+  "id": 7016770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016770",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016770,
+    "tgn:name":"Al Ba\u1e25rayn",
+    "tgn:name:ar":"\u0627 \u0628\u064b\u062d\u0631\u064d\u0646",
+    "tgn:name:en":"Bahrain",
+    "tgn:name:es":"Bahrein",
+    "tgn:name:fr":"Bahre\u00efn",
+    "tgn:name:ru":"\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+    "tgn:name:zh":"\u5df4\u6797",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[50.5,26.0],"type":"Point"}
+}

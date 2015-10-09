@@ -1,0 +1,28 @@
+{
+  "id": 7030107,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f26400-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2743913",
+        "gp:id":735058,
+        "qs:id":5,
+        "wof:id":101808413
+    },
+    "tgn:hierarchy":[
+        "tgn:7030107",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:1006988",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030107,
+    "tgn:name:nl":"Zierikzee",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.916667,51.65],"type":"Point"}
+}

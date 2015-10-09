@@ -1,0 +1,25 @@
+{
+  "id": 7010570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010570",
+        "tgn:1000003",
+        "tgn:7002890",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010570,
+    "tgn:name":"Beauvais",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300387330",
+        "aat:300235540",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.0833,49.4333],"type":"Point"}
+}

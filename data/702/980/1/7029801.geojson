@@ -1,0 +1,25 @@
+{
+  "id": 7029801,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2748924",
+        "qs:id":2,
+        "wof:id":101855283
+    },
+    "tgn:hierarchy":[
+        "tgn:7029801",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029801,
+    "tgn:name:nl":"Oud-Maarsseveen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.083333,52.166667],"type":"Point"}
+}

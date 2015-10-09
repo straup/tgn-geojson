@@ -1,0 +1,24 @@
+{
+  "id": 1030472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1030472",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008178",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":1030472,
+    "tgn:name:en":"Rugby",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.25,52.366667],"type":"Point"}
+}

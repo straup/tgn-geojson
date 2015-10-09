@@ -1,0 +1,26 @@
+{
+  "id": 7002345,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002345",
+        "tgn:7000839",
+        "tgn:1000004",
+        "tgn:1000112",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002345,
+    "tgn:name:en":"Nicosia",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387222",
+        "aat:300387219",
+        "aat:300387142",
+        "aat:300387272",
+        "aat:300235117"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[33.3667,35.1667],"type":"Point"}
+}

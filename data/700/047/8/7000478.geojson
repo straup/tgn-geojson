@@ -1,0 +1,24 @@
+{
+  "id": 7000478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000478",
+        "tgn:7003162",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000478,
+    "tgn:name":"Sansepolcro",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300387512",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.133333,43.566667],"type":"Point"}
+}

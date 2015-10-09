@@ -1,0 +1,30 @@
+{
+  "id": 1000157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000157",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000157,
+    "tgn:name":"Juzur al Qamar",
+    "tgn:name:ar":"\u062c\u0632\u0631 \u0627 \u0644\u064b\u0645\u0631",
+    "tgn:name:de":"Komoren",
+    "tgn:name:en":"Komori",
+    "tgn:name:es":"Comoras",
+    "tgn:name:fr":"Comoros",
+    "tgn:name:ru":"\u041a\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+    "tgn:name:sw":"Komori",
+    "tgn:name:zh":"\u79d1\u6469\u7f57",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300135982"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[44.25,-12.1667],"type":"Point"}
+}

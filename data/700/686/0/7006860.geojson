@@ -1,0 +1,28 @@
+{
+  "id": 7006860,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0e0bc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754652",
+        "gp:id":729833,
+        "qs:id":3,
+        "wof:id":101839245
+    },
+    "tgn:hierarchy":[
+        "tgn:7006860",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006860,
+    "tgn:name:nl":"Heerlen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.983333,50.9],"type":"Point"}
+}

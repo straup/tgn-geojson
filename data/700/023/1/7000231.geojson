@@ -1,0 +1,28 @@
+{
+  "id": 7000231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000231",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000231,
+    "tgn:name":"\u012ar\u0101n",
+    "tgn:name:ar":"\u0625 \u0631\u064d\u0627\u0646",
+    "tgn:name:en":"Iran",
+    "tgn:name:es":"Ir\u00e1n",
+    "tgn:name:fr":"Iran",
+    "tgn:name:ru":"\u0418\u0440\u0430\u043d",
+    "tgn:name:zh":"\u4f0a\u6717",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128214",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[53.0,32.0],"type":"Point"}
+}

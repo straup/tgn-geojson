@@ -1,0 +1,27 @@
+{
+  "id": 1048108,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1f8ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747225",
+        "gp:id":733586,
+        "qs:id":2,
+        "wof:id":101754879
+    },
+    "tgn:hierarchy":[
+        "tgn:1048108",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048108,
+    "tgn:name:nl":"Sint Pancras",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.783333,52.666667],"type":"Point"}
+}

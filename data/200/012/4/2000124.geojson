@@ -1,0 +1,21 @@
+{
+  "id": 2000124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2000124",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2000124,
+    "tgn:name":"Dallas",
+    "tgn:placetype":[
+        "aat:300387145",
+        "aat:300000771"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.6667,33.9667],"type":"Point"}
+}

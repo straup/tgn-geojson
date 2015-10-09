@@ -1,0 +1,27 @@
+{
+  "id": 7264402,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0fe26-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753685",
+        "gp:id":730338,
+        "qs:id":4,
+        "wof:id":101837671
+    },
+    "tgn:hierarchy":[
+        "tgn:7264402",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264402,
+    "tgn:name:nl":"Hooglanderveen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.433333,52.183333],"type":"Point"}
+}

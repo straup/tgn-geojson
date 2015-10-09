@@ -1,0 +1,27 @@
+{
+  "id": 1048277,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f26806-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2743694",
+        "gp:id":735129,
+        "qs:id":9,
+        "wof:id":101838017
+    },
+    "tgn:hierarchy":[
+        "tgn:1048277",
+        "tgn:1000003",
+        "tgn:7003613",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048277,
+    "tgn:name:nl":"Zuidhorn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.4,53.25],"type":"Point"}
+}

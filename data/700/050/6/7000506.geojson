@@ -1,0 +1,28 @@
+{
+  "id": 7000506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000506",
+        "tgn:7001242",
+        "tgn:1001880",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000506,
+    "tgn:name":"Kano",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300387270",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.1667,12.0],"type":"Point"}
+}

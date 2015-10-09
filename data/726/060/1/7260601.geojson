@@ -1,0 +1,27 @@
+{
+  "id": 7260601,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0ca82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755315",
+        "gp:id":729518,
+        "qs:id":9,
+        "wof:id":101808375
+    },
+    "tgn:hierarchy":[
+        "tgn:7260601",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7260601,
+    "tgn:name:nl":"Grijpskerke",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.566667,51.533333],"type":"Point"}
+}

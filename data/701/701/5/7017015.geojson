@@ -1,0 +1,27 @@
+{
+  "id": 7017015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7017015",
+        "tgn:7017299",
+        "tgn:1000003",
+        "tgn:7006663",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017015,
+    "tgn:name":"Rijeka",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387511",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.45,45.3333],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1025261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1025261",
+        "tgn:1001854",
+        "tgn:1000002",
+        "tgn:1000059",
+        "tgn:7029392"
+    ],
+    "tgn:id":1025261,
+    "tgn:name":"San Carlos",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.5833,9.65],"type":"Point"}
+}

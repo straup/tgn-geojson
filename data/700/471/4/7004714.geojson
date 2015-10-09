@@ -1,0 +1,27 @@
+{
+  "id": 7004714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004714",
+        "tgn:1001487",
+        "tgn:7002561",
+        "tgn:1000051",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004714,
+    "tgn:name":"Quito",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300387302",
+        "aat:300263063",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.493,-0.187],"type":"Point"}
+}

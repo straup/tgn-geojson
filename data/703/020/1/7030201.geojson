@@ -1,0 +1,25 @@
+{
+  "id": 7030201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030201",
+        "tgn:1000003",
+        "tgn:7002892",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030201,
+    "tgn:name":"Roc-aux-Sorciers",
+    "tgn:placetype":[
+        "aat:300019258",
+        "aat:300386972",
+        "aat:300387007",
+        "aat:300048808",
+        "aat:300019305",
+        "aat:300387000"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.524,46.421],"type":"Point"}
+}

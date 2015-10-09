@@ -1,0 +1,25 @@
+{
+  "id": 1027001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1027001",
+        "tgn:7593920",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":1027001,
+    "tgn:name:cs":"\u00dast\u00ed nad Labem",
+    "tgn:name:de":"Aussig",
+    "tgn:name:en":"\u00dast\u00ed nad Labem",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.0,50.6833],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7258788,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f049e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759199",
+        "gp:id":727583,
+        "qs:id":1,
+        "wof:id":101837899
+    },
+    "tgn:hierarchy":[
+        "tgn:7258788",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7258788,
+    "tgn:name:nl":"Bennebroek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.6,52.316667],"type":"Point"}
+}

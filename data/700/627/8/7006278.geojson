@@ -1,0 +1,31 @@
+{
+  "id": 7006278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006278",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006278,
+    "tgn:name:ar":"\u0647\u064a\u063a\u0627\u0631\u064a\u0627",
+    "tgn:name:de":"Ungarn",
+    "tgn:name:en":"Hungary",
+    "tgn:name:es":"Hungr\u00eda",
+    "tgn:name:fr":"Hongrie",
+    "tgn:name:hu":"Magyarorsz\u00e1g",
+    "tgn:name:it":"Ungheria",
+    "tgn:name:nl":"Hongarije",
+    "tgn:name:pt":"Hungria",
+    "tgn:name:ru":"\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+    "tgn:name:zh":"\u5308\u7259\u5229",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.0,47.0],"type":"Point"}
+}

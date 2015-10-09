@@ -1,0 +1,27 @@
+{
+  "id": 1047724,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f08a7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756800",
+        "gp:id":728734,
+        "qs:id":1,
+        "wof:id":101808217
+    },
+    "tgn:hierarchy":[
+        "tgn:1047724",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047724,
+    "tgn:name:nl":"Dinteloord",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.366667,51.633333],"type":"Point"}
+}

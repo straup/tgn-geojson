@@ -1,0 +1,27 @@
+{
+  "id": 1048251,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f25758-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744257",
+        "gp:id":734850,
+        "qs:id":9,
+        "wof:id":101839409
+    },
+    "tgn:hierarchy":[
+        "tgn:1048251",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048251,
+    "tgn:name:nl":"Woensdrecht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.3,51.433333],"type":"Point"}
+}

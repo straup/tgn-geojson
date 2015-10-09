@@ -1,0 +1,27 @@
+{
+  "id": 7274722,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f25d16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744122",
+        "gp:id":734925,
+        "qs:id":9,
+        "wof:id":101809819
+    },
+    "tgn:hierarchy":[
+        "tgn:7274722",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7274722,
+    "tgn:name:nl":"Zaamslag",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.916667,51.316667],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7030017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030017",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008134",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030017,
+    "tgn:name":"Cissbury Ring",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300019267",
+        "aat:300387238",
+        "aat:300019279",
+        "aat:300006909",
+        "aat:300387005",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.389,50.852],"type":"Point"}
+}

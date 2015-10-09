@@ -1,0 +1,27 @@
+{
+  "id": 7265811,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f11b54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752660",
+        "gp:id":730790,
+        "qs:id":9,
+        "wof:id":101839373
+    },
+    "tgn:hierarchy":[
+        "tgn:7265811",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265811,
+    "tgn:name:nl":"Klein-Zundert",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,51.483333],"type":"Point"}
+}

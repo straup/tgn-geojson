@@ -1,0 +1,26 @@
+{
+  "id": 7005179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005179",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005179,
+    "tgn:name:de":"Mannheim",
+    "tgn:name:en":"Mannheim",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387240",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.464722,49.488333],"type":"Point"}
+}

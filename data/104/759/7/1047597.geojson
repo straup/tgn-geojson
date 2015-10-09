@@ -1,0 +1,27 @@
+{
+  "id": 1047597,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f02172-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2760096",
+        "gp:id":727034,
+        "qs:id":4,
+        "wof:id":101809795
+    },
+    "tgn:hierarchy":[
+        "tgn:1047597",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047597,
+    "tgn:name:nl":"Aardenburg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.45,51.283333],"type":"Point"}
+}

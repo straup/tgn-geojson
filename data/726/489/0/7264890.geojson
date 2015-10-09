@@ -1,0 +1,25 @@
+{
+  "id": 7264890,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2751506",
+        "qs:id":1,
+        "wof:id":101837751
+    },
+    "tgn:hierarchy":[
+        "tgn:7264890",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264890,
+    "tgn:name:nl":"Loil",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.15,51.95],"type":"Point"}
+}

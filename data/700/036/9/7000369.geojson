@@ -1,0 +1,26 @@
+{
+  "id": 7000369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000369",
+        "tgn:1000812",
+        "tgn:7001242",
+        "tgn:1000149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000369,
+    "tgn:name":"Benguela",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.4,-12.5667],"type":"Point"}
+}

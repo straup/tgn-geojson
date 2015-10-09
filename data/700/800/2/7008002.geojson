@@ -1,0 +1,24 @@
+{
+  "id": 7008002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008002",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008002,
+    "tgn:name":"Doornik",
+    "tgn:name:fr":"Tournai",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387235",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.389321,50.60715],"type":"Point"}
+}

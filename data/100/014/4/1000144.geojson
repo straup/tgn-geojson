@@ -1,0 +1,28 @@
+{
+  "id": 1000144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000144",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000144,
+    "tgn:name":"T\u00fcrkiye",
+    "tgn:name:ar":"\u062d\u0631\u0647 \u0627\u064e",
+    "tgn:name:en":"Turkey",
+    "tgn:name:es":"Turqu\u00eda",
+    "tgn:name:fr":"Turquie",
+    "tgn:name:ru":"\u0422\u0443\u0440\u0446\u0438\u044f",
+    "tgn:name:zh":"\u571f\u8033\u5176",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235106"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.0,39.0],"type":"Point"}
+}

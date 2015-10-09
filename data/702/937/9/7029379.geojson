@@ -1,0 +1,29 @@
+{
+  "id": 7029379,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029379",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029379,
+    "tgn:name":"Mongol",
+    "tgn:name:ar":"\u0645 \u063a\u064c\u0648 \u0627\u064b\u064e",
+    "tgn:name:en":"Mongolia",
+    "tgn:name:es":"Mongolia",
+    "tgn:name:fr":"Mongolie",
+    "tgn:name:mn":"\u041c\u043e\u043d\u0433\u043e\u043b",
+    "tgn:name:ru":"\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+    "tgn:name:zh":"\u8499\u53e4",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[105.0,46.0],"type":"Point"}
+}

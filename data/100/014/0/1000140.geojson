@@ -1,0 +1,28 @@
+{
+  "id": 1000140,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000140",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000140,
+    "tgn:name":"S\u016br\u012byah",
+    "tgn:name:ar":"\u0633\u0648\u0631\u0650 \u0629\u064b\u064e",
+    "tgn:name:en":"Syrian Arab Republic",
+    "tgn:name:es":"Rep\u00fablica \u00c1rabe Siria",
+    "tgn:name:fr":"R\u00e9publique arabe syrienne",
+    "tgn:name:ru":"\u0421\u0438\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+    "tgn:name:zh":"\u963f\u62c9\u4f2f\u53d9\u5229\u4e9a\u5171\u548c\u56fd",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[38.0,35.0],"type":"Point"}
+}

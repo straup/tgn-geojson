@@ -1,0 +1,27 @@
+{
+  "id": 7256387,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f032d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759751",
+        "gp:id":727304,
+        "qs:id":3,
+        "wof:id":101855411
+    },
+    "tgn:hierarchy":[
+        "tgn:7256387",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7256387,
+    "tgn:name:nl":"Ankeveen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.1,52.266667],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1048021,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2749317",
+        "qs:id":1,
+        "wof:id":101807233
+    },
+    "tgn:hierarchy":[
+        "tgn:1048021",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048021,
+    "tgn:name:nl":"Ootmarsum",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.9,52.416667],"type":"Point"}
+}

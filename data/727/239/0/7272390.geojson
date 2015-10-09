@@ -1,0 +1,27 @@
+{
+  "id": 7272390,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f22562-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745674",
+        "gp:id":734187,
+        "qs:id":7,
+        "wof:id":101754857
+    },
+    "tgn:hierarchy":[
+        "tgn:7272390",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7272390,
+    "tgn:name:nl":"Velsen-Noord",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,52.466667],"type":"Point"}
+}

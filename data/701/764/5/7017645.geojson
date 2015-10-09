@@ -1,0 +1,25 @@
+{
+  "id": 7017645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7017645",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001452",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017645,
+    "tgn:name":"Chaco Canyon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300386977",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.97,36.06],"type":"Point"}
+}

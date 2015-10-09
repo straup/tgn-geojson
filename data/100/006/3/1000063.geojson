@@ -1,0 +1,31 @@
+{
+  "id": 1000063,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000063",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000063,
+    "tgn:name:ar":"\u0628 \u062c\u064e\u0643\u064e\u0627",
+    "tgn:name:de":"Belgien",
+    "tgn:name:en":"Belgium",
+    "tgn:name:es":"B\u00e9lgica",
+    "tgn:name:fr":"Belgique",
+    "tgn:name:it":"Belgio",
+    "tgn:name:nl":"Belgi\u00eb",
+    "tgn:name:ru":"\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+    "tgn:name:zh":"\u6bd4\u5229\u65f6",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387053",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.0,50.8333],"type":"Point"}
+}

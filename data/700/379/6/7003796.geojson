@@ -1,0 +1,23 @@
+{
+  "id": 7003796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003796",
+        "tgn:1000003",
+        "tgn:1000069",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003796,
+    "tgn:name:fi":"Ahvenanmaa",
+    "tgn:name:sv":"\u00c5land",
+    "tgn:placetype":[
+        "aat:300387179",
+        "aat:300387064",
+        "aat:300386853",
+        "aat:300387109"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.0,60.25],"type":"Point"}
+}

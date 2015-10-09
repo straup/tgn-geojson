@@ -1,0 +1,28 @@
+{
+  "id": 1047697,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f071fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757931",
+        "gp:id":728210,
+        "qs:id":8,
+        "wof:id":101808357
+    },
+    "tgn:hierarchy":[
+        "tgn:1047697",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1008361",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047697,
+    "tgn:name:nl":"Colijnsplaat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.85,51.6],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7007989,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007989",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007989,
+    "tgn:name":"Sint-Niklaas",
+    "tgn:name:en":"Saint Niklaas",
+    "tgn:name:fr":"Saint-Nicolas",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.143703,51.165092],"type":"Point"}
+}

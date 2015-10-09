@@ -1,0 +1,25 @@
+{
+  "id": 1048241,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744484",
+        "qs:id":4,
+        "wof:id":101754865
+    },
+    "tgn:hierarchy":[
+        "tgn:1048241",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048241,
+    "tgn:name":"Wijk-aan-Zee",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.6,52.5],"type":"Point"}
+}

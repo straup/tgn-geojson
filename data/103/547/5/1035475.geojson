@@ -1,0 +1,26 @@
+{
+  "id": 1035475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1035475",
+        "tgn:1000003",
+        "tgn:7002883",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":1035475,
+    "tgn:name":"Saint-Ouen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300000874",
+        "aat:300387302",
+        "aat:300387285",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.35,48.9],"type":"Point"}
+}

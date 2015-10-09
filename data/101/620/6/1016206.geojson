@@ -1,0 +1,25 @@
+{
+  "id": 1016206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016206",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005806",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016206,
+    "tgn:name":"Whitehorse",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387270",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.05,60.7167],"type":"Point"}
+}

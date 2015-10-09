@@ -1,0 +1,24 @@
+{
+  "id": 7441541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7441541",
+        "tgn:1000577",
+        "tgn:1000001",
+        "tgn:7005554",
+        "tgn:7029392"
+    ],
+    "tgn:id":7441541,
+    "tgn:name":"El Puente",
+    "tgn:placetype":[
+        "aat:300017826",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300008187"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.116,13.283],"type":"Point"}
+}

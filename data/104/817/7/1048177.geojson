@@ -1,0 +1,26 @@
+{
+  "id": 1048177,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f22120-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745774",
+        "gp:id":734131,
+        "wof:id":101751829
+    },
+    "tgn:hierarchy":[
+        "tgn:1048177",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048177,
+    "tgn:name:nl":"Veenendaal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.55,52.033333],"type":"Point"}
+}

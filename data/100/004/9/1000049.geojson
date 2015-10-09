@@ -1,0 +1,30 @@
+{
+  "id": 1000049,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000049",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000049,
+    "tgn:name:ar":"\u0635 \u0644\u064e\u064a",
+    "tgn:name:de":"Chile",
+    "tgn:name:en":"Chile",
+    "tgn:name:es":"Chile",
+    "tgn:name:fr":"Chili",
+    "tgn:name:nl":"Chili",
+    "tgn:name:ru":"\u0427\u0438\u043b\u0438",
+    "tgn:name:zh":"\u667a\u5229",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387053",
+        "aat:300387174",
+        "aat:300387191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0,-30.0],"type":"Point"}
+}

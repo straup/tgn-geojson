@@ -1,0 +1,26 @@
+{
+  "id": 7021678,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021678",
+        "tgn:1000001",
+        "tgn:2000952",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021678,
+    "tgn:name":"Sault Sainte Marie",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387308",
+        "aat:300008375",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.35,46.4833],"type":"Point"}
+}

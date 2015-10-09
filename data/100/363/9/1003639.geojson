@@ -1,0 +1,24 @@
+{
+  "id": 1003639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1003639",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029504",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":1003639,
+    "tgn:name":"Saint Helens",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000778",
+        "aat:300387071",
+        "aat:300387337"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.7333,53.45],"type":"Point"}
+}

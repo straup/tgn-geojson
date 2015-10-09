@@ -1,0 +1,26 @@
+{
+  "id": 7001806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001806",
+        "tgn:1000004",
+        "tgn:7002076",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001806,
+    "tgn:name":"Hangzhou",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387223",
+        "aat:300387302",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.1167,30.3],"type":"Point"}
+}

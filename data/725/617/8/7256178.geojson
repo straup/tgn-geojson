@@ -1,0 +1,27 @@
+{
+  "id": 7256178,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f04fda-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759078",
+        "gp:id":727654,
+        "qs:id":4,
+        "wof:id":101837687
+    },
+    "tgn:hierarchy":[
+        "tgn:7256178",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7256178,
+    "tgn:name:nl":"Berkenwoude",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.716667,51.95],"type":"Point"}
+}

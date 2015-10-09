@@ -1,0 +1,27 @@
+{
+  "id": 7265675,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14c64-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751301",
+        "gp:id":731482,
+        "qs:id":7,
+        "wof:id":101809501
+    },
+    "tgn:hierarchy":[
+        "tgn:7265675",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265675,
+    "tgn:name:nl":"Maasbree",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.05,51.35],"type":"Point"}
+}

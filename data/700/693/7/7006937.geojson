@@ -1,0 +1,28 @@
+{
+  "id": 7006937,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f192d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749644",
+        "gp:id":732253,
+        "qs:id":2,
+        "wof:id":101807227
+    },
+    "tgn:hierarchy":[
+        "tgn:7006937",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006937,
+    "tgn:name:nl":"Oldenzaal",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.916667,52.316667],"type":"Point"}
+}

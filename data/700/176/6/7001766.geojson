@@ -1,0 +1,27 @@
+{
+  "id": 7001766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001766",
+        "tgn:7000508",
+        "tgn:1008380",
+        "tgn:1000226",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001766,
+    "tgn:name:en":"Auckland",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[174.766667,-36.866667],"type":"Point"}
+}

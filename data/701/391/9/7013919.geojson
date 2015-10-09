@@ -1,0 +1,28 @@
+{
+  "id": 7013919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013919",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002582",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013919,
+    "tgn:name":"Fort Myers",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387270",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8667,26.6333],"type":"Point"}
+}

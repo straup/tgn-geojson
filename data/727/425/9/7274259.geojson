@@ -1,0 +1,27 @@
+{
+  "id": 7274259,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f2686a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2743683",
+        "gp:id":735133,
+        "qs:id":1,
+        "wof:id":101808539
+    },
+    "tgn:hierarchy":[
+        "tgn:7274259",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7274259,
+    "tgn:name:nl":"Zuidland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.266667,51.816667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7008160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008160",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008160,
+    "tgn:name:en":"Norfolk",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300019258",
+        "aat:300019264",
+        "aat:300387064",
+        "aat:300019267",
+        "aat:300387145",
+        "aat:300000771",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.0,52.666667],"type":"Point"}
+}

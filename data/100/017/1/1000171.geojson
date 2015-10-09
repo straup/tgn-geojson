@@ -1,0 +1,26 @@
+{
+  "id": 1000171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000171",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000171,
+    "tgn:name:ar":"\u0628\u064b\u064e\u0631\u064a\u0627",
+    "tgn:name:en":"Liberia",
+    "tgn:name:es":"Liberia",
+    "tgn:name:fr":"Lib\u00e9ria",
+    "tgn:name:ru":"\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+    "tgn:name:zh":"\u5229\u6bd4\u91cc\u4e9a",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-9.5,6.5],"type":"Point"}
+}

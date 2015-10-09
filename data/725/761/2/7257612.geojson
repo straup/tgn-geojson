@@ -1,0 +1,27 @@
+{
+  "id": 7257612,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f03f86-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759483",
+        "gp:id":727455,
+        "qs:id":5,
+        "wof:id":101855413
+    },
+    "tgn:hierarchy":[
+        "tgn:7257612",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7257612,
+    "tgn:name:nl":"Bakkum",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.666667,52.566667],"type":"Point"}
+}

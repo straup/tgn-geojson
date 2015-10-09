@@ -1,0 +1,25 @@
+{
+  "id": 7266745,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2754125",
+        "qs:id":1,
+        "wof:id":101855237
+    },
+    "tgn:hierarchy":[
+        "tgn:7266745",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266745,
+    "tgn:name:nl":"Heuveleind",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.633333,51.783333],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4011801,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2745522",
+        "qs:id":8,
+        "wof:id":101810597
+    },
+    "tgn:hierarchy":[
+        "tgn:4011801",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4011801,
+    "tgn:name:nl":"Vijlen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.966667,50.783333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1000133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000133",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000133,
+    "tgn:name":"P\u0101kist\u0101n",
+    "tgn:name:ar":"\u0628\u0627\u0647\u0633 \u062e\u0627\u0646",
+    "tgn:name:en":"Pakistan",
+    "tgn:name:es":"Pakist\u00e1n",
+    "tgn:name:fr":"Pakistan",
+    "tgn:name:ru":"\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+    "tgn:name:ur":"\u067e\u064e\u0627\u06a9\u0650\u0633\u0652 \u062e\u064e\u0627\u0646",
+    "tgn:name:zh":"\u5df4\u57fa\u65af\u5766",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[70.0,30.0],"type":"Point"}
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7005258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005258",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005258,
+    "tgn:name:de":"Insel Man",
+    "tgn:name:en":"Isle of Man",
+    "tgn:name:fr":"\u00cele de Man",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387176"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.5,54.25],"type":"Point"}
+}

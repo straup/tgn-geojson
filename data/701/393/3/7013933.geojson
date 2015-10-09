@@ -1,0 +1,27 @@
+{
+  "id": 7013933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013933",
+        "tgn:1002143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013933,
+    "tgn:name":"Fort Wayne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300000835",
+        "aat:300387232",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1167,41.1167],"type":"Point"}
+}

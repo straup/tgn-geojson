@@ -1,0 +1,27 @@
+{
+  "id": 7258120,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ed1d42-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2760063",
+        "gp:id":727052,
+        "qs:id":1,
+        "wof:id":101839189
+    },
+    "tgn:hierarchy":[
+        "tgn:7258120",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7258120,
+    "tgn:name:nl":"Abdissenbosch",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.033333,50.916667],"type":"Point"}
+}

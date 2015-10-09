@@ -1,0 +1,24 @@
+{
+  "id": 7001297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001297",
+        "tgn:7001242",
+        "tgn:7016833",
+        "tgn:7000123",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001297,
+    "tgn:name:en":"Thebes",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.683,25.7],"type":"Point"}
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1000149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000149",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000149,
+    "tgn:name:ar":"\u0623\u0647\u063a\u0648\u0644\u0627",
+    "tgn:name:en":"Angola",
+    "tgn:name:es":"Angola",
+    "tgn:name:fr":"Angola",
+    "tgn:name:it":"Angola",
+    "tgn:name:pt":"Angola",
+    "tgn:name:ru":"\u0410\u043d\u0433\u043e\u043b\u0430",
+    "tgn:name:zh":"\u5b89\u54e5\u62c9",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300000774"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.5,-12.5],"type":"Point"}
+}

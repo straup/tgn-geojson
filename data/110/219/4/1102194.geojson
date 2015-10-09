@@ -1,0 +1,26 @@
+{
+  "id": 1102194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1102194",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016022",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":1102194,
+    "tgn:name":"Cahokia Mounds",
+    "tgn:placetype":[
+        "aat:300016811",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300008192",
+        "aat:300008389"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.05,38.65],"type":"Point"}
+}

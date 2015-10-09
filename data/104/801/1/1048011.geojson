@@ -1,0 +1,27 @@
+{
+  "id": 1048011,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f197c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749341",
+        "gp:id":732311,
+        "wof:id":101839443
+    },
+    "tgn:hierarchy":[
+        "tgn:1048011",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009815",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048011,
+    "tgn:name:nl":"Oost-Souburg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.583333,51.466667],"type":"Point"}
+}

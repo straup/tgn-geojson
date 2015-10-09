@@ -1,0 +1,20 @@
+{
+  "id": 7010028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010028",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010028,
+    "tgn:name:en":"Lapland",
+    "tgn:name:fi":"Lappland",
+    "tgn:name:sv":"Lappi",
+    "tgn:placetype":[
+        "aat:300387346"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.0,68.0],"type":"Point"}
+}

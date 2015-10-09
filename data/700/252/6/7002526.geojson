@@ -1,0 +1,25 @@
+{
+  "id": 7002526,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002526",
+        "tgn:7000407",
+        "tgn:1000004",
+        "tgn:1000110",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002526,
+    "tgn:name":"Anuradhapura",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387223",
+        "aat:300387272",
+        "aat:300008375",
+        "aat:300000833"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[80.4167,8.3333],"type":"Point"}
+}

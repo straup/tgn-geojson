@@ -1,0 +1,34 @@
+{
+  "id": 7006862,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14dfe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751283",
+        "gp:id":731497,
+        "qs:id":7,
+        "wof:id":101751803
+    },
+    "tgn:hierarchy":[
+        "tgn:7006862",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006862,
+    "tgn:name:nl":"Maastricht",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000835",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.683333,50.85],"type":"Point"}
+}

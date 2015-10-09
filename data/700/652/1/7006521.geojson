@@ -1,0 +1,26 @@
+{
+  "id": 7006521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006521",
+        "tgn:1000003",
+        "tgn:7006618",
+        "tgn:7006542",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006521,
+    "tgn:name":"Vilnius",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387222",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387235",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.3167,54.6833],"type":"Point"}
+}

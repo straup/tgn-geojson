@@ -1,0 +1,21 @@
+{
+  "id": 1000520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000520",
+        "tgn:1000001",
+        "tgn:7005493",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000520,
+    "tgn:name":"Baja Verapaz",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387305",
+        "aat:300000772"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3333,15.0833],"type":"Point"}
+}

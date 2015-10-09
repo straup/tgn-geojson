@@ -1,0 +1,25 @@
+{
+  "id": 7264670,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2753610",
+        "qs:id":2,
+        "wof:id":101809545
+    },
+    "tgn:hierarchy":[
+        "tgn:7264670",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264670,
+    "tgn:name:nl":"Horn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.95,51.216667],"type":"Point"}
+}

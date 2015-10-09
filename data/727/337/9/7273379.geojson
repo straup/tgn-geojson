@@ -1,0 +1,27 @@
+{
+  "id": 7273379,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f249ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744603",
+        "gp:id":734701,
+        "qs:id":5,
+        "wof:id":101808799
+    },
+    "tgn:hierarchy":[
+        "tgn:7273379",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273379,
+    "tgn:name:nl":"Westwoud",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.133333,52.683333],"type":"Point"}
+}

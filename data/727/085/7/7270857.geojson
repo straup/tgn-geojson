@@ -1,0 +1,27 @@
+{
+  "id": 7270857,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1f920-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747221",
+        "gp:id":733587,
+        "qs:id":5,
+        "wof:id":101808407
+    },
+    "tgn:hierarchy":[
+        "tgn:7270857",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7270857,
+    "tgn:name:nl":"Sint Philipsland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.166667,51.616667],"type":"Point"}
+}

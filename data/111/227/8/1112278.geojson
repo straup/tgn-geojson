@@ -1,0 +1,23 @@
+{
+  "id": 1112278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1112278",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1112278,
+    "tgn:name":"Muir \u00c9ireann",
+    "tgn:name:de":"Irische See",
+    "tgn:name:en":"Irish Sea",
+    "tgn:name:es":"Irlanda, Mar de",
+    "tgn:name:fr":"Irlande, Mer d'",
+    "tgn:name:it":"Irlanda, Mar de",
+    "tgn:placetype":[
+        "aat:300008694"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.3333,53.5],"type":"Point"}
+}

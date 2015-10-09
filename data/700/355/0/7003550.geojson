@@ -1,0 +1,23 @@
+{
+  "id": 7003550,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003550",
+        "tgn:7594005",
+        "tgn:1000003",
+        "tgn:1000066",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003550,
+    "tgn:name:da":"Gentofte",
+    "tgn:name:en":"Gentofte",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300000874"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.5333,55.7667],"type":"Point"}
+}

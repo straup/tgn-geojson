@@ -1,0 +1,24 @@
+{
+  "id": 7003051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003051",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7018159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003051,
+    "tgn:name":"San Giorgio Maggiore",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000745",
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.333333,45.416667],"type":"Point"}
+}

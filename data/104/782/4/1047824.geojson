@@ -1,0 +1,26 @@
+{
+  "id": 1047824,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2754779",
+        "qs:id":5,
+        "wof:id":101807183
+    },
+    "tgn:hierarchy":[
+        "tgn:1047824",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047824,
+    "tgn:name:nl":"Hasselt",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.1,52.6],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1099903,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1099903",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:7004647",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":1099903,
+    "tgn:name":"Temple of Serapis",
+    "tgn:placetype":[
+        "aat:300000745",
+        "aat:300000810",
+        "aat:300007595",
+        "aat:300020533",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.12,40.826],"type":"Point"}
+}

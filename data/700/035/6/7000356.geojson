@@ -1,0 +1,25 @@
+{
+  "id": 7000356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000356",
+        "tgn:7001242",
+        "tgn:1000149",
+        "tgn:1000883",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000356,
+    "tgn:name":"Luanda",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.25,-8.8333],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2014133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2014133",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2014133,
+    "tgn:name":"Santa Rosa",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7,38.4333],"type":"Point"}
+}

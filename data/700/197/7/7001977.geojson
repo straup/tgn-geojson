@@ -1,0 +1,26 @@
+{
+  "id": 7001977,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001977",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001834",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001977,
+    "tgn:name":"Perth",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[115.8167,-31.9667],"type":"Point"}
+}

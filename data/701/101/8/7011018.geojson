@@ -1,0 +1,27 @@
+{
+  "id": 7011018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011018",
+        "tgn:7002743",
+        "tgn:7017076",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011018,
+    "tgn:name:en":"Olympia",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387272",
+        "aat:300263063",
+        "aat:300387293",
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.65,37.6333],"type":"Point"}
+}

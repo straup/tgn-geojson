@@ -1,0 +1,25 @@
+{
+  "id": 7010821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010821",
+        "tgn:1000003",
+        "tgn:7002888",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010821,
+    "tgn:name":"Thionville",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300387305",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.1833,49.3667],"type":"Point"}
+}

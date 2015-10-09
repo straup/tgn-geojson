@@ -1,0 +1,25 @@
+{
+  "id": 7024097,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024097",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024097,
+    "tgn:name":"Vlaanderen",
+    "tgn:name:de":"Vlaanderen",
+    "tgn:name:en":"Flanders",
+    "tgn:name:fr":"Flandre",
+    "tgn:name:nl":"Flandern",
+    "tgn:placetype":[
+        "aat:300387356",
+        "aat:300387178",
+        "aat:300000771",
+        "aat:300235101"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3333,49.8333],"type":"Point"}
+}

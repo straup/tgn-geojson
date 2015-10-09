@@ -1,0 +1,27 @@
+{
+  "id": 7594403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7594403",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:1029568",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7594403,
+    "tgn:name":"Castle Hill",
+    "tgn:placetype":[
+        "aat:300387241",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300107453",
+        "aat:300008020",
+        "aat:300019279"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.3725,52.5413],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7002223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002223",
+        "tgn:1000004",
+        "tgn:7001325",
+        "tgn:7000299",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002223,
+    "tgn:name:en":"Seoul",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[127.0,37.5333],"type":"Point"}
+}

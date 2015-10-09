@@ -1,0 +1,24 @@
+{
+  "id": 7003515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003515",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003515,
+    "tgn:name:de":"Liechtenstein",
+    "tgn:name:en":"Liechtenstein",
+    "tgn:name:es":"Liechtenstein",
+    "tgn:name:fr":"Liechtenstein",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235101"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.5333,47.1667],"type":"Point"}
+}

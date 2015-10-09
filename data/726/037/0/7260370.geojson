@@ -1,0 +1,27 @@
+{
+  "id": 7260370,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f07b40-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757379",
+        "gp:id":728444,
+        "qs:id":6,
+        "wof:id":101855415
+    },
+    "tgn:hierarchy":[
+        "tgn:7260370",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7260370,
+    "tgn:name:nl":"De Kwakel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.8,52.233333],"type":"Point"}
+}

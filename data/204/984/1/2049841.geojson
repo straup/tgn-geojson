@@ -1,0 +1,23 @@
+{
+  "id": 2049841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2049841",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2049841,
+    "tgn:name":"Granville Centre",
+    "tgn:name:en":"Granville Center",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387210"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8667,42.0667],"type":"Point"}
+}

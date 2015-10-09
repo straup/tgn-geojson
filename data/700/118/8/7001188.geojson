@@ -1,0 +1,33 @@
+{
+  "id": 7001188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001188",
+        "tgn:7001242",
+        "tgn:7016833",
+        "tgn:1001079",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001188,
+    "tgn:name":"Al-Iskandar\u012byah",
+    "tgn:name:en":"Alejandr\u00eda",
+    "tgn:name:es":"Alexandrie",
+    "tgn:name:fr":"Alexandria",
+    "tgn:name:it":"Alessandria",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387320",
+        "aat:300387220",
+        "aat:300387249",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[29.955266,31.215645],"type":"Point"}
+}

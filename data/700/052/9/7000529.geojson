@@ -1,0 +1,31 @@
+{
+  "id": 7000529,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000529",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000529,
+    "tgn:name:ar":"\u062b\u0648\u0647\u063a\u0627",
+    "tgn:name:en":"Tonga",
+    "tgn:name:es":"Tonga",
+    "tgn:name:fr":"Tonga",
+    "tgn:name:ru":"\u0422\u043e\u043d\u0433\u0430",
+    "tgn:name:to":"Tonga",
+    "tgn:name:zh":"\u6c64\u52a0",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300387347",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235119",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-175.0,-20.0],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1020028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1020028",
+        "tgn:7006477",
+        "tgn:1001328",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1020028,
+    "tgn:name":"San Salvador de Jujuy",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-65.3,-24.1833],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7005525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005525",
+        "tgn:1003459",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005525,
+    "tgn:name":"Grado",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300120599",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.386944,45.678611],"type":"Point"}
+}

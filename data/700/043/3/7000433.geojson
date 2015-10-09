@@ -1,0 +1,20 @@
+{
+  "id": 7000433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000433",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000433,
+    "tgn:name":"Australian Antarctic Territory",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387117"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[100.0,-75.0],"type":"Point"}
+}

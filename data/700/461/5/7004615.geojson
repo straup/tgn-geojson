@@ -1,0 +1,24 @@
+{
+  "id": 7004615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004615",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004615,
+    "tgn:name:de":"Weihnachtsinsel",
+    "tgn:name:en":"Christmas Island",
+    "tgn:name:es":"Isla Christmas",
+    "tgn:name:fr":"l'\u00eele Christmas",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300008791",
+        "aat:300387176",
+        "aat:300387117"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[105.6667,-10.5],"type":"Point"}
+}

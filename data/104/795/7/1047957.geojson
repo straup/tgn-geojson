@@ -1,0 +1,26 @@
+{
+  "id": 1047957,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f162d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750769",
+        "gp:id":731727,
+        "wof:id":101808277
+    },
+    "tgn:hierarchy":[
+        "tgn:1047957",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047957,
+    "tgn:name:nl":"Moerdijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.633333,51.7],"type":"Point"}
+}

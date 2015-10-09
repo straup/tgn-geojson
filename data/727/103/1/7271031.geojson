@@ -1,0 +1,27 @@
+{
+  "id": 7271031,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1efca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747010",
+        "gp:id":733490,
+        "qs:id":4,
+        "wof:id":101754589
+    },
+    "tgn:hierarchy":[
+        "tgn:7271031",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7271031,
+    "tgn:name:nl":"Son en Breugel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.5,51.516667],"type":"Point"}
+}

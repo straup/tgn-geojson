@@ -1,0 +1,25 @@
+{
+  "id": 7001776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001776",
+        "tgn:1000004",
+        "tgn:7002085",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001776,
+    "tgn:name":"Qingdao",
+    "tgn:placetype":[
+        "aat:300386994",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387249",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3667,36.0667],"type":"Point"}
+}

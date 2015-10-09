@@ -1,0 +1,30 @@
+{
+  "id": 7005729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005729",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005729,
+    "tgn:name:ar":"\u0645\u0627 \u0637\u064b\u0629",
+    "tgn:name:en":"Malta",
+    "tgn:name:es":"Malta",
+    "tgn:name:fr":"Malte",
+    "tgn:name:it":"Malta",
+    "tgn:name:mt":"Malta",
+    "tgn:name:ru":"\u041c\u0430\u043b\u044c\u0442\u0430",
+    "tgn:name:zh":"\u9a6c\u8033\u4ed6",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300008394",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.4167,35.9167],"type":"Point"}
+}

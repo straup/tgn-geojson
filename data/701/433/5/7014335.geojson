@@ -1,0 +1,26 @@
+{
+  "id": 7014335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014335",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002298",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014335,
+    "tgn:name":"Richmond",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387309",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3333,37.9333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7008209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008209",
+        "tgn:7002872",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008209,
+    "tgn:name":"Caen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.3667,49.1833],"type":"Point"}
+}

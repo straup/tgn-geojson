@@ -1,0 +1,24 @@
+{
+  "id": 1003643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1003643",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":1003643,
+    "tgn:name:en":"Slough",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387145",
+        "aat:300000778",
+        "aat:300387302",
+        "aat:300387071"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.5833,51.5333],"type":"Point"}
+}

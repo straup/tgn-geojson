@@ -1,0 +1,27 @@
+{
+  "id": 1047846,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0f354-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754066",
+        "gp:id":730137,
+        "qs:id":2,
+        "wof:id":101809705
+    },
+    "tgn:hierarchy":[
+        "tgn:1047846",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047846,
+    "tgn:name:nl":"Hilvarenbeek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.133333,51.483333],"type":"Point"}
+}

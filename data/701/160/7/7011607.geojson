@@ -1,0 +1,25 @@
+{
+  "id": 7011607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011607",
+        "tgn:1000004",
+        "tgn:7011609",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011607,
+    "tgn:name":"Ulyanovsk",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387220",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[48.4,54.3333],"type":"Point"}
+}

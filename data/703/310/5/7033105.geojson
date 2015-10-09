@@ -1,0 +1,25 @@
+{
+  "id": 7033105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7033105",
+        "tgn:1000641",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":7033105,
+    "tgn:name":"Nazca",
+    "tgn:placetype":[
+        "aat:300387241",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300016619",
+        "aat:300387346",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.216,-14.75],"type":"Point"}
+}

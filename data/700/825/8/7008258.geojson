@@ -1,0 +1,26 @@
+{
+  "id": 7008258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008258",
+        "tgn:1000003",
+        "tgn:7012216",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008258,
+    "tgn:name":"Brest",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387330",
+        "aat:300387275",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.5,48.3833],"type":"Point"}
+}

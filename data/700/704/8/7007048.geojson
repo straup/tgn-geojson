@@ -1,0 +1,30 @@
+{
+  "id": 7007048,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0d0f4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755003",
+        "gp:id":729636,
+        "qs:id":9,
+        "wof:id":101751897
+    },
+    "tgn:hierarchy":[
+        "tgn:7007048",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007048,
+    "tgn:name:nl":"Haarlem",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,52.366667],"type":"Point"}
+}

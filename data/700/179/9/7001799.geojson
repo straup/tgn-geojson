@@ -1,0 +1,27 @@
+{
+  "id": 7001799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001799",
+        "tgn:1000004",
+        "tgn:1001678",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001799,
+    "tgn:name":"Guilin",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387272",
+        "aat:300387302",
+        "aat:300387291",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[110.1833,25.35],"type":"Point"}
+}

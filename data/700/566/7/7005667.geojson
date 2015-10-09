@@ -1,0 +1,25 @@
+{
+  "id": 7005667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005667",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005667,
+    "tgn:name:de":"Amerikanisch-Samoa",
+    "tgn:name:en":"American Samoa",
+    "tgn:name:es":"Samoa Americana",
+    "tgn:name:fr":"Samoa am\u00e9ricaines",
+    "tgn:name:nl":"Amerikaans Samoa",
+    "tgn:name:sm":"Amerika S\u0101moa",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300386853",
+        "aat:300387176"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-170.5,-14.3167],"type":"Point"}
+}

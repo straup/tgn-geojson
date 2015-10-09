@@ -1,0 +1,30 @@
+{
+  "id": 7006477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006477",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006477,
+    "tgn:name:ar":"\u0627\u0644\u0623\u0631\u062c \u062e\u064c\u064a\u0646",
+    "tgn:name:de":"Argentinien",
+    "tgn:name:en":"Argentina",
+    "tgn:name:es":"Argentina",
+    "tgn:name:fr":"L'Argentine",
+    "tgn:name:nl":"Argentini\u00eb",
+    "tgn:name:ru":"\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+    "tgn:name:zh":"\u963f\u6839\u5ef7",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300055522"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-64.0,-34.0],"type":"Point"}
+}

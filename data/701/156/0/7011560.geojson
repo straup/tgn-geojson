@@ -1,0 +1,27 @@
+{
+  "id": 7011560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011560",
+        "tgn:1003373",
+        "tgn:1000004",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011560,
+    "tgn:name":"Irkutsk",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387302",
+        "aat:300387312"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[104.25,52.3],"type":"Point"}
+}

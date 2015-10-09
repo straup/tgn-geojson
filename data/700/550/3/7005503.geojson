@@ -1,0 +1,24 @@
+{
+  "id": 7005503,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005503",
+        "tgn:7005518",
+        "tgn:1000001",
+        "tgn:7005502",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005503,
+    "tgn:name":"Port-au-Prince",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.335,18.539],"type":"Point"}
+}

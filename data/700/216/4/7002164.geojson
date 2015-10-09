@@ -1,0 +1,25 @@
+{
+  "id": 7002164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002164",
+        "tgn:1000004",
+        "tgn:7002160",
+        "tgn:1000108",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002164,
+    "tgn:name":"Moulmein",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[97.65,16.5],"type":"Point"}
+}

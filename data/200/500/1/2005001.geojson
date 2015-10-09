@@ -1,0 +1,21 @@
+{
+  "id": 2005001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2005001",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000064",
+        "tgn:7029392"
+    ],
+    "tgn:id":2005001,
+    "tgn:name":"Prestwick",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.95,31.45],"type":"Point"}
+}

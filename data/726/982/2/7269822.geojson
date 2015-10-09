@@ -1,0 +1,27 @@
+{
+  "id": 7269822,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f15916-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750974",
+        "gp:id":731626,
+        "qs:id":6,
+        "wof:id":101808365
+    },
+    "tgn:hierarchy":[
+        "tgn:7269822",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7269822,
+    "tgn:name:nl":"Meliskerke",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.516667,51.516667],"type":"Point"}
+}

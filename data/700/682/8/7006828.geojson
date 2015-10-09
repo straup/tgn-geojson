@@ -1,0 +1,25 @@
+{
+  "id": 7006828,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744388",
+        "qs:id":9,
+        "wof:id":101809639
+    },
+    "tgn:hierarchy":[
+        "tgn:7006828",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006828,
+    "tgn:name:nl":"Willemstad",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.433333,51.7],"type":"Point"}
+}

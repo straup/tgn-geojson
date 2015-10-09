@@ -1,0 +1,27 @@
+{
+  "id": 7260525,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0ae12-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755995",
+        "gp:id":729188,
+        "qs:id":3,
+        "wof:id":101837789
+    },
+    "tgn:hierarchy":[
+        "tgn:7260525",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7260525,
+    "tgn:name:nl":"Etten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.333333,51.916667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7264779,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f142dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751523",
+        "gp:id":731361,
+        "qs:id":6,
+        "wof:id":101806991
+    },
+    "tgn:hierarchy":[
+        "tgn:7264779",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264779,
+    "tgn:name:nl":"Loenen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.016667,52.216667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7017400,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f24e3e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744483",
+        "gp:id":734753,
+        "wof:id":101809833
+    },
+    "tgn:hierarchy":[
+        "tgn:7017400",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017400,
+    "tgn:name":"Wijk-bij-Duurstede",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.35,51.983333],"type":"Point"}
+}

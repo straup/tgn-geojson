@@ -1,0 +1,25 @@
+{
+  "id": 7002333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002333",
+        "tgn:7001285",
+        "tgn:1000004",
+        "tgn:7018450",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002333,
+    "tgn:name":"Alexandria Troas",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300008389",
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[26.158,39.751],"type":"Point"}
+}

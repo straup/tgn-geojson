@@ -1,0 +1,27 @@
+{
+  "id": 7005630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005630",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005630,
+    "tgn:name:de":"Goslar",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387239",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387265",
+        "aat:300343603",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.433333,51.9],"type":"Point"}
+}

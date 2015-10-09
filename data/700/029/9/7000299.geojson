@@ -1,0 +1,29 @@
+{
+  "id": 7000299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000299",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000299,
+    "tgn:name":"Han'guk",
+    "tgn:name:ar":"\u062c\u064f\u0647\u0648\u0631 \u0629\u064b \u0647\u0648\u0631\u064a\u0627",
+    "tgn:name:en":"South Korea",
+    "tgn:name:es":"Rep\u00fablica de Corea",
+    "tgn:name:fr":"R\u00e9publique de Cor\u00e9e",
+    "tgn:name:ko":"\ud55c\uad6d",
+    "tgn:name:ru":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+    "tgn:name:zh":"\u5927\u97e9\u6c11\u56fd",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[127.5,37.0],"type":"Point"}
+}

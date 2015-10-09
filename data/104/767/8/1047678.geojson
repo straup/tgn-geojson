@@ -1,0 +1,29 @@
+{
+  "id": 1047678,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f064e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758326",
+        "gp:id":728007,
+        "qs:id":9,
+        "wof:id":101754623
+    },
+    "tgn:hierarchy":[
+        "tgn:1047678",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:1009666",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047678,
+    "tgn:name:nl":"Brielle",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.166667,51.9],"type":"Point"}
+}

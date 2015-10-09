@@ -1,0 +1,26 @@
+{
+  "id": 7000505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000505",
+        "tgn:7001242",
+        "tgn:7015580",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000505,
+    "tgn:name":"Katsina",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387298",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.5333,13.0],"type":"Point"}
+}

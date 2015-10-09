@@ -1,0 +1,26 @@
+{
+  "id": 1000179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000179",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000179,
+    "tgn:name":"Morocco",
+    "tgn:name:de":"Marokko",
+    "tgn:name:en":"Maroc",
+    "tgn:name:es":"Marruecos",
+    "tgn:name:fr":"Al Maghrib",
+    "tgn:name:pt":"Marrocos",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.0,32.0],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7010563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010563",
+        "tgn:1000003",
+        "tgn:7002890",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010563,
+    "tgn:name":"Soissons",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387235",
+        "aat:300387302",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.3333,49.3833],"type":"Point"}
+}

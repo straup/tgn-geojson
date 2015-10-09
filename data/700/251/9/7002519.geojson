@@ -1,0 +1,25 @@
+{
+  "id": 7002519,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002519",
+        "tgn:7000409",
+        "tgn:1000004",
+        "tgn:1000110",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002519,
+    "tgn:name":"Trincomalee",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387275",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300000833",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[81.2167,8.5667],"type":"Point"}
+}

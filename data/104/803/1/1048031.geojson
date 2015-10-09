@@ -1,0 +1,27 @@
+{
+  "id": 1048031,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1a7fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748926",
+        "gp:id":732508,
+        "qs:id":6,
+        "wof:id":101807349
+    },
+    "tgn:hierarchy":[
+        "tgn:1048031",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048031,
+    "tgn:name:nl":"Oud-Loosdrecht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.083333,52.2],"type":"Point"}
+}

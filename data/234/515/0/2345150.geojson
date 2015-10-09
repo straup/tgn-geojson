@@ -1,0 +1,21 @@
+{
+  "id": 2345150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345150",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002112",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345150,
+    "tgn:name":"Gardners Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7333,39.6167],"type":"Point"}
+}

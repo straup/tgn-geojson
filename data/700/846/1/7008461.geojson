@@ -1,0 +1,29 @@
+{
+  "id": 7008461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008461",
+        "tgn:1000003",
+        "tgn:7001097",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008461,
+    "tgn:name:de":"Lille",
+    "tgn:name:en":"Lille",
+    "tgn:name:fr":"Lille",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.0833,50.65],"type":"Point"}
+}

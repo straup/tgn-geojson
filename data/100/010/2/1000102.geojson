@@ -1,0 +1,25 @@
+{
+  "id": 1000102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000102",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000102,
+    "tgn:name:de":"Serbien und Montenegro",
+    "tgn:name:en":"Serbia and Montenegro",
+    "tgn:name:es":"Serbia y Montenegro",
+    "tgn:name:fr":"Serbie-et-Mont\u00e9n\u00e9gro",
+    "tgn:name:sh":"Srbija-Crna Gora",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387356",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.0,44.0],"type":"Point"}
+}

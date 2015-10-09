@@ -1,0 +1,29 @@
+{
+  "id": 7005758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005758",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005758,
+    "tgn:name":"M\u00fanegu",
+    "tgn:name:ar":"\u0645\u0648\u0646\u0627\u0647\u0648",
+    "tgn:name:en":"Monaco",
+    "tgn:name:es":"M\u00f3naco",
+    "tgn:name:fr":"Monaco",
+    "tgn:name:it":"Monaco",
+    "tgn:name:pt":"M\u00f4naco",
+    "tgn:name:ru":"\u041c\u043e\u043d\u0430\u043a\u043e",
+    "tgn:name:zh":"\u6469\u7eb3\u54e5",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235101"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.4167,43.7333],"type":"Point"}
+}

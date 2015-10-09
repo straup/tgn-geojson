@@ -1,0 +1,26 @@
+{
+  "id": 1048211,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f2334a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745123",
+        "gp:id":734457,
+        "wof:id":101839403
+    },
+    "tgn:hierarchy":[
+        "tgn:1048211",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048211,
+    "tgn:name:nl":"Waalwijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.066667,51.683333],"type":"Point"}
+}

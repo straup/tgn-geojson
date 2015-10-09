@@ -1,0 +1,27 @@
+{
+  "id": 7014145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014145",
+        "tgn:1002366",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014145,
+    "tgn:name":"Greenwich",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300000874",
+        "aat:300000547",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.6167,41.0167],"type":"Point"}
+}

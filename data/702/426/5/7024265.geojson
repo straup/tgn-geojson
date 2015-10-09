@@ -1,0 +1,20 @@
+{
+  "id": 7024265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024265",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024265,
+    "tgn:name:de":"Elsass",
+    "tgn:name:fr":"Alsace",
+    "tgn:name:la":"Alsatia",
+    "tgn:placetype":[
+        "aat:300387178"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.5,48.1667],"type":"Point"}
+}

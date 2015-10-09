@@ -1,0 +1,23 @@
+{
+  "id": 1016571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016571",
+        "tgn:7593553",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016571,
+    "tgn:name:da":"Holsteinsborg",
+    "tgn:name:kl":"Sisimiut",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[53.683,66.9167],"type":"Point"}
+}

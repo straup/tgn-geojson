@@ -1,0 +1,27 @@
+{
+  "id": 7264169,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f13a12-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751686",
+        "gp:id":731284,
+        "qs:id":8,
+        "wof:id":101837661
+    },
+    "tgn:hierarchy":[
+        "tgn:7264169",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264169,
+    "tgn:name:nl":"Leusden-Zuid",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.4,52.116667],"type":"Point"}
+}

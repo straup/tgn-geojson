@@ -1,0 +1,27 @@
+{
+  "id": 7267705,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1c928-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748150",
+        "gp:id":732947,
+        "qs:id":6,
+        "wof:id":101809763
+    },
+    "tgn:hierarchy":[
+        "tgn:7267705",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267705,
+    "tgn:name:nl":"Riethoven",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.383333,51.35],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7007601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007601",
+        "tgn:7024123",
+        "tgn:1000003",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007601,
+    "tgn:name:en":"Breslau",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.0,51.1],"type":"Point"}
+}

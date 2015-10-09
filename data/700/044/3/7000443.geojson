@@ -1,0 +1,24 @@
+{
+  "id": 7000443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000443",
+        "tgn:7001242",
+        "tgn:1001636",
+        "tgn:1000192",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000443,
+    "tgn:name":"Muqdisho",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387220",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.35,2.0333],"type":"Point"}
+}

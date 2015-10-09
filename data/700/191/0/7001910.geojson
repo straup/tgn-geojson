@@ -1,0 +1,24 @@
+{
+  "id": 7001910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001910",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001830",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001910,
+    "tgn:name":"Townsville",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387275",
+        "aat:300387305",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[146.8,-19.2167],"type":"Point"}
+}

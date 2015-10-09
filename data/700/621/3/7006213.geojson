@@ -1,0 +1,25 @@
+{
+  "id": 7006213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006213",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006213,
+    "tgn:name:de":"Cook-Inseln",
+    "tgn:name:en":"Cook Islands",
+    "tgn:name:es":"Islas Cook",
+    "tgn:name:fr":"Cook, \u00celes",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300237188",
+        "aat:300387347",
+        "aat:300387176",
+        "aat:300235119"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.0,-20.0],"type":"Point"}
+}

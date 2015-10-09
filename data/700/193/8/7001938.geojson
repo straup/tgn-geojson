@@ -1,0 +1,26 @@
+{
+  "id": 7001938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001938",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001992",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001938,
+    "tgn:name":"Hobart",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387318",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[147.3,-42.9],"type":"Point"}
+}

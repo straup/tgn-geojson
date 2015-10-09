@@ -1,0 +1,27 @@
+{
+  "id": 7260118,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0819e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757478",
+        "gp:id":728598,
+        "qs:id":9,
+        "wof:id":101808655
+    },
+    "tgn:hierarchy":[
+        "tgn:7260118",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7260118,
+    "tgn:name:nl":"Deil",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.25,51.883333],"type":"Point"}
+}

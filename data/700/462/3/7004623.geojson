@@ -1,0 +1,25 @@
+{
+  "id": 7004623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004623",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004623,
+    "tgn:name:de":"Caiman-Inseln",
+    "tgn:name:en":"Cayman Islands",
+    "tgn:name:es":"Islas Caim\u00e1n",
+    "tgn:name:fr":"\u00celes Ca\u00efman",
+    "tgn:name:nl":"Caymaneilanden",
+    "tgn:name:pt":"Cayman, Ilhas",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300387176"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.6667,19.5],"type":"Point"}
+}

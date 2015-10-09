@@ -1,0 +1,25 @@
+{
+  "id": 1048227,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744865",
+        "qs:id":5,
+        "wof:id":101839299
+    },
+    "tgn:hierarchy":[
+        "tgn:1048227",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048227,
+    "tgn:name:nl":"Well",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.1,51.55],"type":"Point"}
+}

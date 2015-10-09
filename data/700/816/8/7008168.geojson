@@ -1,0 +1,26 @@
+{
+  "id": 7008168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008168",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008168,
+    "tgn:name":"Oxfordshire",
+    "tgn:placetype":[
+        "aat:300008631",
+        "aat:300019258",
+        "aat:300021024",
+        "aat:300019267",
+        "aat:300387145",
+        "aat:300000771",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.1667,51.75],"type":"Point"}
+}

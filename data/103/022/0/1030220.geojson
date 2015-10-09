@@ -1,0 +1,24 @@
+{
+  "id": 1030220,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1030220",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008178",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":1030220,
+    "tgn:name:en":"Nuneaton",
+    "tgn:placetype":[
+        "aat:300387273",
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.466667,52.516667],"type":"Point"}
+}
