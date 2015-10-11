@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": 7024097,
   "type": "Feature",
@@ -23,3 +24,6 @@
   "bbox": [],
   "geometry": {"coordinates":[5.3333,49.8333],"type":"Point"}
 }
+=======
+{"geometry":{"type":"Point","coordinates":[5.333300,49.833300]},"type":"Feature","properties":{"name:en":"Flanders","name:nl":"Flandern","name:xx":"Vlaanderen","hierarchy":["tgn:7024097","tgn:1000003","tgn:7029392"],"name:de":"Vlaanderen","placetype":["aat:300387356","aat:300387178","aat:300000771","aat:300235101"],"name:fr":"Flandre","id":7024097}}
+>>>>>>> 03f74aca74312dbeaf24d7e61306dd6a786dc3d0

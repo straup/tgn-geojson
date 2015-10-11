@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": 7024413,
   "type": "Feature",
@@ -20,3 +21,6 @@
   "bbox": [],
   "geometry": {"coordinates":[6.5,45.4],"type":"Point"}
 }
+=======
+{"geometry":{"type":"Point","coordinates":[6.500000,45.400000]},"type":"Feature","properties":{"name:en":"Savoy","hierarchy":["tgn:7024413","tgn:1000003","tgn:7029392"],"placetype":["aat:300387178","aat:300235088"],"name:fr":"Savoie","name:la":"Sabaudia","name:it":"Savoia","id":7024413}}
+>>>>>>> 03f74aca74312dbeaf24d7e61306dd6a786dc3d0
