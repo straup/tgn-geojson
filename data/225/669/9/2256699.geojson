@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.500000,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2256699","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1003050","tgn:7029392"],"placetype":["aat:300006075"],"id":2256699,"name:xx":"Cordua Canal"}}
+{
+  "id": 2256699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256699",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1003050",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256699,
+    "tgn:name":"Cordua Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.5,39.2333],"type":"Point"}
+}

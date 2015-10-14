@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.250000,35.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7023782","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7023782,"name:xx":"Tricorner Knob"}}
+{
+  "id": 7023782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023782",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023782,
+    "tgn:name":"Tricorner Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.25,35.6833],"type":"Point"}
+}

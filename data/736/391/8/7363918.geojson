@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.704444,24.968333]},"type":"Feature","properties":{"hierarchy":["tgn:7363918","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7363918,"name:xx":"El Chocolate, Arroyo"}}
+{
+  "id": 7363918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363918",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363918,
+    "tgn:name":"El Chocolate, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.704444,24.968333],"type":"Point"}
+}

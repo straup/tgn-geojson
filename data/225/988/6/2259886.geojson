@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.866700,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2259886","tgn:1000001","tgn:7012149","tgn:2002326","tgn:7007922","tgn:7029392"],"placetype":["aat:300266640"],"id":2259886,"name:xx":"Coulee Ridge"}}
+{
+  "id": 2259886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259886",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002326",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259886,
+    "tgn:name":"Coulee Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8667,43.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.216700,37.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2761018","tgn:2000195","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2761018,"name:xx":"West Kearns Canyon"}}
+{
+  "id": 2761018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761018",
+        "tgn:2000195",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761018,
+    "tgn:name":"West Kearns Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2167,37.1333],"type":"Point"}
+}

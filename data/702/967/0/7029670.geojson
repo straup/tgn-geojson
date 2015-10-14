@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.066667,42.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7029670","tgn:7002759","tgn:7002845","tgn:1000003","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347"],"id":7029670,"name:es":"Ruesta"}}
+{
+  "id": 7029670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029670",
+        "tgn:7002759",
+        "tgn:7002845",
+        "tgn:1000003",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029670,
+    "tgn:name:es":"Ruesta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.066667,42.583333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.316700,47.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2253266","tgn:1000001","tgn:7012149","tgn:2001304","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2253266,"name:xx":"Control Creek"}}
+{
+  "id": 2253266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253266",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001304",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253266,
+    "tgn:name":"Control Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3167,47.7667],"type":"Point"}
+}

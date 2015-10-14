@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.500000,44.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2332327","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2332327,"name:xx":"Floods Pond"}}
+{
+  "id": 2332327,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332327",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332327,
+    "tgn:name":"Floods Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.5,44.7333],"type":"Point"}
+}

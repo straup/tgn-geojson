@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.700000,24.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7472991","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472991,"name:xx":"Tongxiao Zhen"}}
+{
+  "id": 7472991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472991",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472991,
+    "tgn:name":"Tongxiao Zhen",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7,24.483333],"type":"Point"}
+}

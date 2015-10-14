@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.466700,41.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2151047","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2151047,"name:xx":"Basswood Hollow"}}
+{
+  "id": 2151047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151047",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151047,
+    "tgn:name":"Basswood Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4667,41.4333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.333300,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2407572","tgn:1000001","tgn:7012149","tgn:2002190","tgn:7007919","tgn:7029392"],"placetype":["aat:300008798"],"id":2407572,"name:xx":"Hupp Hill"}}
+{
+  "id": 2407572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407572",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002190",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407572,
+    "tgn:name":"Hupp Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3333,38.9833],"type":"Point"}
+}

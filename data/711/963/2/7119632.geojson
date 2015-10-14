@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.283333,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7119632","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7119632,"name:xx":"Penkatsch-Teiche"}}
+{
+  "id": 7119632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119632",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119632,
+    "tgn:name":"Penkatsch-Teiche",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.283333,51.35],"type":"Point"}
+}

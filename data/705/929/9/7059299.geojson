@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.633333,52.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7059299","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7059299,"name:xx":"Alter Gehlenbach"}}
+{
+  "id": 7059299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059299",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059299,
+    "tgn:name":"Alter Gehlenbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.633333,52.2],"type":"Point"}
+}

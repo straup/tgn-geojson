@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.833333,25.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7366435","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366435,"name:xx":"El Reparo de los Galindo"}}
+{
+  "id": 7366435,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366435",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366435,
+    "tgn:name":"El Reparo de los Galindo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.833333,25.516667],"type":"Point"}
+}

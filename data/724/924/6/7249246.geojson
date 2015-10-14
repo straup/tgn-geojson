@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.650000,50.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7249246","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7249246,"name:xx":"Ouchen\u00e9e, Bois de l'"}}
+{
+  "id": 7249246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249246",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249246,
+    "tgn:name":"Ouchen\u00e9e, Bois de l'",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,50.266667],"type":"Point"}
+}

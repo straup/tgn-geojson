@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.333300,44.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2150743","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132348"],"id":2150743,"name:xx":"Bass Harbor Bar"}}
+{
+  "id": 2150743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150743",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150743,
+    "tgn:name":"Bass Harbor Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.3333,44.2],"type":"Point"}
+}

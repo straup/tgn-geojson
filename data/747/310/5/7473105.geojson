@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.779722,24.825556]},"type":"Feature","properties":{"hierarchy":["tgn:7473105","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473105,"name:xx":"Deyang Cun"}}
+{
+  "id": 7473105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473105",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473105,
+    "tgn:name":"Deyang Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.779722,24.825556],"type":"Point"}
+}

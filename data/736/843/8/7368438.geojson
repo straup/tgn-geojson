@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.200000,26.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7368438","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7368438,"name:xx":"Estaci\u00f3n Joya"}}
+{
+  "id": 7368438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368438",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368438,
+    "tgn:name":"Estaci\u00f3n Joya",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.2,26.433333],"type":"Point"}
+}

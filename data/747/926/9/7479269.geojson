@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.093056,22.735833]},"type":"Feature","properties":{"hierarchy":["tgn:7479269","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7479269,"name:xx":"Lijia Tifang"}}
+{
+  "id": 7479269,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479269",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479269,
+    "tgn:name":"Lijia Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.093056,22.735833],"type":"Point"}
+}

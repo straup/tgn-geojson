@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.833300,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2257349","tgn:1000001","tgn:7012149","tgn:2000548","tgn:7007252","tgn:7029392"],"placetype":["aat:300266640"],"id":2257349,"name:xx":"Corns Ridge"}}
+{
+  "id": 2257349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000548",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257349,
+    "tgn:name":"Corns Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8333,39.4],"type":"Point"}
+}

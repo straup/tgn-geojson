@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.083300,48.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2404617","tgn:1000001","tgn:7012149","tgn:2001295","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2404617,"name:xx":"Hubert Hill"}}
+{
+  "id": 2404617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404617",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001295",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404617,
+    "tgn:name":"Hubert Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0833,48.6833],"type":"Point"}
+}

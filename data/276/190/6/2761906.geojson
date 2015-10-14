@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.866700,44.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2761906","tgn:1000001","tgn:7012149","tgn:1002599","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2761906,"name:xx":"West Ridge"}}
+{
+  "id": 2761906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761906",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002599",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761906,
+    "tgn:name":"West Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.8667,44.45],"type":"Point"}
+}

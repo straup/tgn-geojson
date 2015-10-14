@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.133300,31.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2151300","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008706"],"id":2151300,"name:xx":"Bates Creek"}}
+{
+  "id": 2151300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151300",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151300,
+    "tgn:name":"Bates Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1333,31.5],"type":"Point"}
+}

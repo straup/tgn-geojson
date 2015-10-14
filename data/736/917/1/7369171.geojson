@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.950000,18.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7369171","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7369171,"name:xx":"Horizonte, Laguna"}}
+{
+  "id": 7369171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369171",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369171,
+    "tgn:name":"Horizonte, Laguna",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.95,18.183333],"type":"Point"}
+}

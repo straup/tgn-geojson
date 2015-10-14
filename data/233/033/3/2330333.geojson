@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.383300,31.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2330333","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000064","tgn:7029392"],"placetype":["aat:300008699"],"id":2330333,"name:xx":"Flat Branch"}}
+{
+  "id": 2330333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330333",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000064",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330333,
+    "tgn:name":"Flat Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.3833,31.4833],"type":"Point"}
+}

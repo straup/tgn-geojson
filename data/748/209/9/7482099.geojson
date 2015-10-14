@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.440833,24.487222]},"type":"Feature","properties":{"hierarchy":["tgn:7482099","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7482099,"name:xx":"Sijixun"}}
+{
+  "id": 7482099,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482099",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482099,
+    "tgn:name":"Sijixun",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.440833,24.487222],"type":"Point"}
+}

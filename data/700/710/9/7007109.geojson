@@ -1,0 +1,28 @@
+{
+  "id": 7007109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007109",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007109,
+    "tgn:name":"Cuernavaca",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387221",
+        "aat:300000547",
+        "aat:300000833",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.25,18.916667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.833300,41.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2251527","tgn:1000001","tgn:7012149","tgn:1002800","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2251527,"name:xx":"Commissioner Run"}}
+{
+  "id": 2251527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251527",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002800",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251527,
+    "tgn:name":"Commissioner Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8333,41.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.199347,23.466534]},"type":"Feature","properties":{"hierarchy":["tgn:7481708","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481708,"name:xx":"Weizinei"}}
+{
+  "id": 7481708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481708",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481708,
+    "tgn:name":"Weizinei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.199347,23.466534],"type":"Point"}
+}

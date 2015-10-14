@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.281889,24.857941]},"type":"Feature","properties":{"hierarchy":["tgn:7486480","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486480,"name:xx":"Kang'an"}}
+{
+  "id": 7486480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486480",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486480,
+    "tgn:name":"Kang'an",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.281889,24.857941],"type":"Point"}
+}

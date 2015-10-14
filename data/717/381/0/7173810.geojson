@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.466667,49.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7173810","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7173810,"name:xx":"Grundbach"}}
+{
+  "id": 7173810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173810",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173810,
+    "tgn:name":"Grundbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.466667,49.916667],"type":"Point"}
+}

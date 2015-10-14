@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.000000,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7248354","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248354,"name:xx":"Berlare"}}
+{
+  "id": 7248354,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248354",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248354,
+    "tgn:name":"Berlare",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.0,51.033333],"type":"Point"}
+}

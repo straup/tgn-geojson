@@ -1,0 +1,27 @@
+{
+  "id": 1047677,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0647a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758333",
+        "gp:id":728004,
+        "qs:id":7,
+        "wof:id":101806981
+    },
+    "tgn:hierarchy":[
+        "tgn:1047677",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047677,
+    "tgn:name:nl":"Breukelen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.0,52.183333],"type":"Point"}
+}

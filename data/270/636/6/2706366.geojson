@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.700000,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2706366","tgn:1000001","tgn:2000311","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008905"],"id":2706366,"name:xx":"Swampwolf Bay"}}
+{
+  "id": 2706366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706366",
+        "tgn:1000001",
+        "tgn:2000311",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706366,
+    "tgn:name":"Swampwolf Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7,30.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.250000,23.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7474738","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474738,"name:xx":"Yongkang Xiang"}}
+{
+  "id": 7474738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474738",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474738,
+    "tgn:name":"Yongkang Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.25,23.033333],"type":"Point"}
+}

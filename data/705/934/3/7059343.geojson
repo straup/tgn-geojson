@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.400000,51.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7059343","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300006891"],"id":7059343,"name:xx":"Schlo\u00df Allstedt"}}
+{
+  "id": 7059343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059343",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059343,
+    "tgn:name":"Schlo\u00df Allstedt",
+    "tgn:placetype":[
+        "aat:300006891"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.4,51.4],"type":"Point"}
+}

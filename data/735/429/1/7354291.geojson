@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.133333,30.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7354291","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7354291,"name:xx":"Rancho Chaparral"}}
+{
+  "id": 7354291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354291",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354291,
+    "tgn:name":"Rancho Chaparral",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.133333,30.85],"type":"Point"}
+}

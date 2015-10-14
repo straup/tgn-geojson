@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.333300,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2330271","tgn:2002137","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2330271,"name:xx":"Flannigan Branch"}}
+{
+  "id": 2330271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330271",
+        "tgn:2002137",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330271,
+    "tgn:name":"Flannigan Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3333,38.0833],"type":"Point"}
+}

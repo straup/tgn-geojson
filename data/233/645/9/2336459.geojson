@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.333300,33.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2336459","tgn:1000001","tgn:7006451","tgn:2000095","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2336459,"name:xx":"Four Bar Tank"}}
+{
+  "id": 2336459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336459",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000095",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336459,
+    "tgn:name":"Four Bar Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3333,33.3167],"type":"Point"}
+}

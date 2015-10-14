@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.700000,30.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7351374","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351374,"name:xx":"Banco del Lucero, Sierra"}}
+{
+  "id": 7351374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351374",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351374,
+    "tgn:name":"Banco del Lucero, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.7,30.7],"type":"Point"}
+}

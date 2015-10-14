@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.156111,23.222222]},"type":"Feature","properties":{"hierarchy":["tgn:7370532","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7370532,"name:xx":"Gaspare\u00f1a, Punta"}}
+{
+  "id": 7370532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370532",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370532,
+    "tgn:name":"Gaspare\u00f1a, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.156111,23.222222],"type":"Point"}
+}

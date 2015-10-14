@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.400000,25.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7369301","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369301,"name:xx":"Junco"}}
+{
+  "id": 7369301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369301",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369301,
+    "tgn:name":"Junco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.4,25.683333],"type":"Point"}
+}

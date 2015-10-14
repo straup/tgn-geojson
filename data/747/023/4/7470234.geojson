@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.525278,23.374167]},"type":"Feature","properties":{"hierarchy":["tgn:7470234","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7470234,"name:xx":"Jinguazi Jiao"}}
+{
+  "id": 7470234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470234",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470234,
+    "tgn:name":"Jinguazi Jiao",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.525278,23.374167],"type":"Point"}
+}

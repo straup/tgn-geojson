@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.733300,34.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2769594","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000035","tgn:7029392"],"placetype":["aat:300132348"],"id":2769594,"name:xx":"Widows Bar"}}
+{
+  "id": 2769594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769594",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000035",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769594,
+    "tgn:name":"Widows Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7333,34.8833],"type":"Point"}
+}

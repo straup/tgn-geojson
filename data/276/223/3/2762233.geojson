@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.066700,42.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2762233","tgn:7013388","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2762233,"name:xx":"West Summit"}}
+{
+  "id": 2762233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762233",
+        "tgn:7013388",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762233,
+    "tgn:name":"West Summit",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.0667,42.6833],"type":"Point"}
+}

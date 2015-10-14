@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.649722,24.462778]},"type":"Feature","properties":{"hierarchy":["tgn:7473843","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7473843,"name:xx":"Yuanli Xi"}}
+{
+  "id": 7473843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473843",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473843,
+    "tgn:name":"Yuanli Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.649722,24.462778],"type":"Point"}
+}

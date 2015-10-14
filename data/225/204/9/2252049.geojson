@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.866700,40.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2252049","tgn:1000001","tgn:1002225","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2252049,"name:xx":"Concrete Bridge Crossing"}}
+{
+  "id": 2252049,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252049",
+        "tgn:1000001",
+        "tgn:1002225",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252049,
+    "tgn:name":"Concrete Bridge Crossing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8667,40.5333],"type":"Point"}
+}

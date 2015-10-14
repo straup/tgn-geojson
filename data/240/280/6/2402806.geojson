@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.500000,40.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2402806","tgn:1000001","tgn:2001413","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2402806,"name:xx":"Hot Springs Point Mine"}}
+{
+  "id": 2402806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402806",
+        "tgn:1000001",
+        "tgn:2001413",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402806,
+    "tgn:name":"Hot Springs Point Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.5,40.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.033333,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7240306","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7240306,"name:xx":"Elpisse, Ruisseau d'"}}
+{
+  "id": 7240306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240306",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240306,
+    "tgn:name":"Elpisse, Ruisseau d'",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.033333,50.6],"type":"Point"}
+}

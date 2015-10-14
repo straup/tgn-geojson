@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.466700,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2337082","tgn:1000001","tgn:7012149","tgn:1002945","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2337082,"name:xx":"Fourmile Run"}}
+{
+  "id": 2337082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337082",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002945",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337082,
+    "tgn:name":"Fourmile Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4667,41.6833],"type":"Point"}
+}

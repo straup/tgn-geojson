@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.583300,47.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2333066","tgn:1000001","tgn:7012149","tgn:2001029","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2333066,"name:xx":"Fly Lake"}}
+{
+  "id": 2333066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333066",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001029",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333066,
+    "tgn:name":"Fly Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5833,47.5],"type":"Point"}
+}

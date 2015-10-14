@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.100000,18.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7356495","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356495,"name:xx":"Chimalacatl\u00e1n"}}
+{
+  "id": 7356495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356495",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356495,
+    "tgn:name":"Chimalacatl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.1,18.466667],"type":"Point"}
+}

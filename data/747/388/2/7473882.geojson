@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.436944,24.509167]},"type":"Feature","properties":{"hierarchy":["tgn:7473882","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7473882,"name:xx":"Dunhou Qiao"}}
+{
+  "id": 7473882,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473882",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473882,
+    "tgn:name":"Dunhou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.436944,24.509167],"type":"Point"}
+}

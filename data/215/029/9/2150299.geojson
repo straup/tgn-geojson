@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.050000,40.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2150299","tgn:1002178","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008706"],"id":2150299,"name:xx":"Bashes Creek"}}
+{
+  "id": 2150299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150299",
+        "tgn:1002178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150299,
+    "tgn:name":"Bashes Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.05,40.8167],"type":"Point"}
+}

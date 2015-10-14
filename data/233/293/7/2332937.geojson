@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.766700,46.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2332937","tgn:1000001","tgn:2000469","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2332937,"name:xx":"Flume Creek"}}
+{
+  "id": 2332937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332937",
+        "tgn:1000001",
+        "tgn:2000469",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332937,
+    "tgn:name":"Flume Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7667,46.75],"type":"Point"}
+}

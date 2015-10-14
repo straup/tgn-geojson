@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.557840,51.026284]},"type":"Feature","properties":{"hierarchy":["tgn:7243073","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7243073,"name:xx":"Krankehoeve"}}
+{
+  "id": 7243073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243073",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243073,
+    "tgn:name":"Krankehoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.55784,51.026284],"type":"Point"}
+}

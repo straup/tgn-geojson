@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.900000,19.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7360151","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360151,"name:xx":"Coautieco"}}
+{
+  "id": 7360151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360151",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360151,
+    "tgn:name":"Coautieco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.9,19.8],"type":"Point"}
+}

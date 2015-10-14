@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.900000,31.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2252331","tgn:1000001","tgn:7006451","tgn:2000091","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":2252331,"name:xx":"Congdon"}}
+{
+  "id": 2252331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252331",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000091",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252331,
+    "tgn:name":"Congdon",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9,31.4167],"type":"Point"}
+}

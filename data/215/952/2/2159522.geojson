@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.516700,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2159522","tgn:1000001","tgn:7012149","tgn:2000839","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2159522,"name:xx":"Bee Lick Creek"}}
+{
+  "id": 2159522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159522",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000839",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159522,
+    "tgn:name":"Bee Lick Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5167,37.3333],"type":"Point"}
+}

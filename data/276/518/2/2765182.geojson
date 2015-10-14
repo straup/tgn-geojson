@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-146.283300,63.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765182","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300266640"],"id":2765182,"name:xx":"Whistle Ridge"}}
+{
+  "id": 2765182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765182",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765182,
+    "tgn:name":"Whistle Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-146.2833,63.0833],"type":"Point"}
+}

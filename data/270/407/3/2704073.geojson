@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.233300,40.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2704073","tgn:1002171","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2704073,"name:xx":"Sunflower"}}
+{
+  "id": 2704073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704073",
+        "tgn:1002171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704073,
+    "tgn:name":"Sunflower",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2333,40.7167],"type":"Point"}
+}

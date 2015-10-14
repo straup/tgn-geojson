@@ -1,0 +1,25 @@
+{
+  "id": 7264653,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2753593",
+        "qs:id":1,
+        "wof:id":101808703
+    },
+    "tgn:hierarchy":[
+        "tgn:7264653",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264653,
+    "tgn:name:nl":"Horssen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.616667,51.85],"type":"Point"}
+}

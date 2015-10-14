@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.050000,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7175486","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7175486,"name:xx":"Gro\u00dfer B\u00e4renstein"}}
+{
+  "id": 7175486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175486",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175486,
+    "tgn:name":"Gro\u00dfer B\u00e4renstein",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.05,50.95],"type":"Point"}
+}

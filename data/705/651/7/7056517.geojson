@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.233333,43.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7056517","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7056517,"name:xx":"Biffa, Poggio la"}}
+{
+  "id": 7056517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056517",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056517,
+    "tgn:name":"Biffa, Poggio la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.233333,43.166667],"type":"Point"}
+}

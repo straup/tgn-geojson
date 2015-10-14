@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.500000,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2339171","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2339171,"name:xx":"Franks Hollow Spring"}}
+{
+  "id": 2339171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339171",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339171,
+    "tgn:name":"Franks Hollow Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.5,42.1833],"type":"Point"}
+}

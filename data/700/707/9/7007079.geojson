@@ -1,0 +1,28 @@
+{
+  "id": 7007079,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1174e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752923",
+        "gp:id":730688,
+        "qs:id":5,
+        "wof:id":101839255
+    },
+    "tgn:hierarchy":[
+        "tgn:7007079",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007079,
+    "tgn:name:nl":"Kerkrade",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.066667,50.866667],"type":"Point"}
+}

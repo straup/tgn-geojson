@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.850000,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7353703","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353703,"name:xx":"Bufa, Sierra de la"}}
+{
+  "id": 7353703,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353703",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353703,
+    "tgn:name":"Bufa, Sierra de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.85,27.85],"type":"Point"}
+}

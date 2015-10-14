@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.433333,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7051182","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008791"],"id":7051182,"name:xx":"Nave, Scoglio la"}}
+{
+  "id": 7051182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051182",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051182,
+    "tgn:name":"Nave, Scoglio la",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.433333,40.8],"type":"Point"}
+}

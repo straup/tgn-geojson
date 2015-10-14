@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.616700,35.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2761051","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2761051,"name:xx":"West Knob"}}
+{
+  "id": 2761051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761051",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761051,
+    "tgn:name":"West Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6167,35.4333],"type":"Point"}
+}

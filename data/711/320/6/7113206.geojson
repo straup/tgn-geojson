@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.950000,50.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7113206","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7113206,"name:xx":"R\u00f6der-Kopf"}}
+{
+  "id": 7113206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113206",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113206,
+    "tgn:name":"R\u00f6der-Kopf",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.95,50.866667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.100000,45.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2151709","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2151709,"name:xx":"Battle Ditch"}}
+{
+  "id": 2151709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151709",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151709,
+    "tgn:name":"Battle Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1,45.0333],"type":"Point"}
+}

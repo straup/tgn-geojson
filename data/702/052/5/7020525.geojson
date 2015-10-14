@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.766700,36.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7020525","tgn:1000001","tgn:7012149","tgn:2001551","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":7020525,"name:xx":"Snakeden Ridge"}}
+{
+  "id": 7020525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020525",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001551",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020525,
+    "tgn:name":"Snakeden Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7667,36.15],"type":"Point"}
+}

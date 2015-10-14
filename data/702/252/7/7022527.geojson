@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.933300,35.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7022527","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7022527,"name:xx":"Cheoah Lake"}}
+{
+  "id": 7022527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022527",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022527,
+    "tgn:name":"Cheoah Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9333,35.4333],"type":"Point"}
+}

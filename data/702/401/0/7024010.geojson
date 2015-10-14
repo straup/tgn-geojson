@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[29.166700,-3.416700]},"type":"Feature","properties":{"hierarchy":["tgn:7024010","tgn:7001242","tgn:1000159","tgn:7029392"],"placetype":["aat:300387064","aat:300000774"],"id":7024010,"name:xx":"Sud-Kivu"}}
+{
+  "id": 7024010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024010",
+        "tgn:7001242",
+        "tgn:1000159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024010,
+    "tgn:name":"Sud-Kivu",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000774"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[29.1667,-3.4167],"type":"Point"}
+}

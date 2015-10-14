@@ -1,0 +1,27 @@
+{
+  "id": 7265607,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14b10-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751320",
+        "gp:id":731467,
+        "qs:id":5,
+        "wof:id":101837663
+    },
+    "tgn:hierarchy":[
+        "tgn:7265607",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265607,
+    "tgn:name:nl":"Maarn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.366667,52.066667],"type":"Point"}
+}

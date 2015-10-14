@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.566700,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2769422","tgn:1000001","tgn:7012149","tgn:1002298","tgn:7007157","tgn:7029392"],"placetype":["aat:300008791"],"id":2769422,"name:xx":"Widdows Island"}}
+{
+  "id": 2769422,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769422",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002298",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769422,
+    "tgn:name":"Widdows Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.5667,37.85],"type":"Point"}
+}

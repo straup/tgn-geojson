@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.350000,29.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7358741","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7358741,"name:xx":"Creel"}}
+{
+  "id": 7358741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358741",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358741,
+    "tgn:name":"Creel",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.35,29.633333],"type":"Point"}
+}

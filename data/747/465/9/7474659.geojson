@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.353707,23.758790]},"type":"Feature","properties":{"hierarchy":["tgn:7474659","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7474659,"name:xx":"Lunbei Guoxiao"}}
+{
+  "id": 7474659,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474659",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474659,
+    "tgn:name":"Lunbei Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.353707,23.75879],"type":"Point"}
+}

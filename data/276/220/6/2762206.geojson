@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.783300,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2762206","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2762206,"name:xx":"West Squaw Draw"}}
+{
+  "id": 2762206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762206",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762206,
+    "tgn:name":"West Squaw Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7833,39.6],"type":"Point"}
+}

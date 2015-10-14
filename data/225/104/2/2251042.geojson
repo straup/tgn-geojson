@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.316700,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2251042","tgn:1000001","tgn:1002262","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2251042,"name:xx":"Columbus Quarter"}}
+{
+  "id": 2251042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251042",
+        "tgn:1000001",
+        "tgn:1002262",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251042,
+    "tgn:name":"Columbus Quarter",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3167,42.7],"type":"Point"}
+}

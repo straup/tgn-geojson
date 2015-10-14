@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-78.983000,1.166000]},"type":"Feature","properties":{"hierarchy":["tgn:7029749","tgn:1001243","tgn:7002560","tgn:1000051","tgn:1000002","tgn:7029392"],"placetype":["aat:300000810","aat:300016619","aat:300008791"],"name:en":"La Tolita Island","id":7029749,"name:es":"La Tola, Isla de"}}
+{
+  "id": 7029749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029749",
+        "tgn:1001243",
+        "tgn:7002560",
+        "tgn:1000051",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029749,
+    "tgn:name:en":"La Tolita Island",
+    "tgn:name:es":"La Tola, Isla de",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300016619",
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.983,1.166],"type":"Point"}
+}

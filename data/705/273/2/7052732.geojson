@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.716667,44.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7052732","tgn:7003134","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052732,"name:xx":"Monti di Cadiroggio"}}
+{
+  "id": 7052732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052732",
+        "tgn:7003134",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052732,
+    "tgn:name":"Monti di Cadiroggio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.716667,44.566667],"type":"Point"}
+}

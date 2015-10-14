@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.384722,23.413611]},"type":"Feature","properties":{"hierarchy":["tgn:7487951","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487951,"name:xx":"Nanhecun"}}
+{
+  "id": 7487951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487951",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487951,
+    "tgn:name":"Nanhecun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.384722,23.413611],"type":"Point"}
+}

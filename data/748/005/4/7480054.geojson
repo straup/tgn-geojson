@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.223889,23.015556]},"type":"Feature","properties":{"hierarchy":["tgn:7480054","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7480054,"name:xx":"Shenggong N\u00fczhong"}}
+{
+  "id": 7480054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480054",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480054,
+    "tgn:name":"Shenggong N\u00fczhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.223889,23.015556],"type":"Point"}
+}

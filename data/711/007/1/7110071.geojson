@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.882778,49.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7110071","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300006909"],"id":7110071,"name:xx":"Ravensburg"}}
+{
+  "id": 7110071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110071",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110071,
+    "tgn:name":"Ravensburg",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.882778,49.1],"type":"Point"}
+}

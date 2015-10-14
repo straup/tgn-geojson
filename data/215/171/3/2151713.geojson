@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.833300,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2151713","tgn:1000001","tgn:7012149","tgn:2001500","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2151713,"name:xx":"Battle Forest"}}
+{
+  "id": 2151713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151713",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001500",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151713,
+    "tgn:name":"Battle Forest",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8333,36.1333],"type":"Point"}
+}

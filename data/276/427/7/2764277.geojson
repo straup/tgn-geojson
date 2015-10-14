@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.466700,48.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2764277","tgn:1000001","tgn:7012149","tgn:2000969","tgn:7007520","tgn:7029392"],"placetype":["aat:300008791"],"id":2764277,"name:xx":"Wheelock Island"}}
+{
+  "id": 2764277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764277",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000969",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764277,
+    "tgn:name":"Wheelock Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.4667,48.15],"type":"Point"}
+}

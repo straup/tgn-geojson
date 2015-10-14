@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.792778,24.687778]},"type":"Feature","properties":{"hierarchy":["tgn:7357941","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357941,"name:xx":"Colonia Hidalgo"}}
+{
+  "id": 7357941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357941",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357941,
+    "tgn:name":"Colonia Hidalgo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.792778,24.687778],"type":"Point"}
+}

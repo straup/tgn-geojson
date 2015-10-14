@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.250000,32.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2403444","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2403444,"name:xx":"Houston-Thomas Mine"}}
+{
+  "id": 2403444,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403444",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403444,
+    "tgn:name":"Houston-Thomas Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.25,32.8667],"type":"Point"}
+}

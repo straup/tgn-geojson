@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.485000,22.749722]},"type":"Feature","properties":{"hierarchy":["tgn:7482045","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7482045,"name:xx":"Disan Gongmu"}}
+{
+  "id": 7482045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482045",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482045,
+    "tgn:name":"Disan Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.485,22.749722],"type":"Point"}
+}

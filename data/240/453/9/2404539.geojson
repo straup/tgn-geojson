@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2404539","tgn:1000001","tgn:7012149","tgn:1002358","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2404539,"name:xx":"Hubbel Run"}}
+{
+  "id": 2404539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404539",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002358",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404539,
+    "tgn:name":"Hubbel Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,41.95],"type":"Point"}
+}

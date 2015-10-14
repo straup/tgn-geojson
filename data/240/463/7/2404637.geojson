@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.450000,44.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2404637","tgn:1000001","tgn:2002370","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2404637,"name:xx":"Huchins Spring"}}
+{
+  "id": 2404637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404637",
+        "tgn:1000001",
+        "tgn:2002370",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404637,
+    "tgn:name":"Huchins Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.45,44.4833],"type":"Point"}
+}

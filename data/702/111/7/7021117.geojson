@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.733300,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7021117","tgn:1000001","tgn:7012149","tgn:2002266","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021117,"name:xx":"Trout Pond Run"}}
+{
+  "id": 7021117,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021117",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002266",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021117,
+    "tgn:name":"Trout Pond Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7333,38.9333],"type":"Point"}
+}

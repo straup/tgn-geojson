@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.816700,34.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7021733","tgn:1000001","tgn:7012149","tgn:2001753","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021733,"name:xx":"Cedar Pines Lake"}}
+{
+  "id": 7021733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021733",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001753",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021733,
+    "tgn:name":"Cedar Pines Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8167,34.7333],"type":"Point"}
+}

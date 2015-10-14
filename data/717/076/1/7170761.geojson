@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.950000,48.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7170761","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7170761,"name:xx":"Hennersberg"}}
+{
+  "id": 7170761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170761",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170761,
+    "tgn:name":"Hennersberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.95,48.366667],"type":"Point"}
+}

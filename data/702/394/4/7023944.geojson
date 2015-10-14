@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.350000,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7023944","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7023944,"name:xx":"Chattooga River"}}
+{
+  "id": 7023944,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023944",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023944,
+    "tgn:name":"Chattooga River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.35,34.8],"type":"Point"}
+}

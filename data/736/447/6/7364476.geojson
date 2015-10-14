@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.666667,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7364476","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7364476,"name:xx":"Ferm\u00edn, Cerro"}}
+{
+  "id": 7364476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364476",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364476,
+    "tgn:name":"Ferm\u00edn, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.666667,32.1],"type":"Point"}
+}

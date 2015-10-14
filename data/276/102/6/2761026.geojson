@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.650000,36.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2761026","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300008680"],"id":2761026,"name:xx":"West Kennedy Lake"}}
+{
+  "id": 2761026,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761026",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761026,
+    "tgn:name":"West Kennedy Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.65,36.8833],"type":"Point"}
+}

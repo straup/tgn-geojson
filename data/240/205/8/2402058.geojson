@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.850000,45.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2402058","tgn:1000001","tgn:1002270","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2402058,"name:xx":"Horseshoe Ridge"}}
+{
+  "id": 2402058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402058",
+        "tgn:1000001",
+        "tgn:1002270",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402058,
+    "tgn:name":"Horseshoe Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.85,45.35],"type":"Point"}
+}

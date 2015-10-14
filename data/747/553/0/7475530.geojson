@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.778873,24.623892]},"type":"Feature","properties":{"hierarchy":["tgn:7475530","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475530,"name:xx":"Shalunhu"}}
+{
+  "id": 7475530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475530",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475530,
+    "tgn:name":"Shalunhu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.778873,24.623892],"type":"Point"}
+}

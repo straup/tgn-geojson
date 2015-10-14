@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.700000,44.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2409368","tgn:1000001","tgn:7012149","tgn:2000495","tgn:7007250","tgn:7029392"],"placetype":["aat:300000390"],"id":2409368,"name:xx":"Idaho Almaden Mine"}}
+{
+  "id": 2409368,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409368",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000495",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409368,
+    "tgn:name":"Idaho Almaden Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7,44.2333],"type":"Point"}
+}

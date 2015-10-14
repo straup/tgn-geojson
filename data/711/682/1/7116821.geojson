@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.566667,48.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7116821","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116821,"name:xx":"Ottenkofen"}}
+{
+  "id": 7116821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116821",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116821,
+    "tgn:name":"Ottenkofen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.566667,48.65],"type":"Point"}
+}

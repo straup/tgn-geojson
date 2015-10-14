@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.033300,31.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2765436","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000054","tgn:7029392"],"placetype":["aat:300008699"],"id":2765436,"name:xx":"White Branch"}}
+{
+  "id": 2765436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765436",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000054",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765436,
+    "tgn:name":"White Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0333,31.6833],"type":"Point"}
+}

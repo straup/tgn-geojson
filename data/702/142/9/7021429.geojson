@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021429","tgn:1000001","tgn:7012149","tgn:2002293","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021429,"name:xx":"Laurel Fork"}}
+{
+  "id": 7021429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021429",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002293",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021429,
+    "tgn:name":"Laurel Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,38.6],"type":"Point"}
+}

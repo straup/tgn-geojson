@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.466700,35.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7020329","tgn:1000001","tgn:7012149","tgn:2001515","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":7020329,"name:xx":"Pinnacle Mountain"}}
+{
+  "id": 7020329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020329",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001515",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020329,
+    "tgn:name":"Pinnacle Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.4667,35.05],"type":"Point"}
+}

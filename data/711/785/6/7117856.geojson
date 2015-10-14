@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.716667,50.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7117856","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117856,"name:xx":"Odensachsen"}}
+{
+  "id": 7117856,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117856",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117856,
+    "tgn:name":"Odensachsen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.716667,50.8],"type":"Point"}
+}

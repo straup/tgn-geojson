@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.466700,33.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2408942","tgn:1000001","tgn:7012149","tgn:2000182","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2408942,"name:xx":"I Lateral"}}
+{
+  "id": 2408942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408942",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000182",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408942,
+    "tgn:name":"I Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.4667,33.15],"type":"Point"}
+}

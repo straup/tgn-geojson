@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.222778,40.480000]},"type":"Feature","properties":{"hierarchy":["tgn:7056470","tgn:1003500","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008678"],"id":7056470,"name:xx":"Mercantile, Porto"}}
+{
+  "id": 7056470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056470",
+        "tgn:1003500",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056470,
+    "tgn:name":"Mercantile, Porto",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.222778,40.48],"type":"Point"}
+}

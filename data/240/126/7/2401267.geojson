@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.600000,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2401267","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008850"],"id":2401267,"name:xx":"Horseman Point"}}
+{
+  "id": 2401267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401267",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401267,
+    "tgn:name":"Horseman Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.6,44.0333],"type":"Point"}
+}

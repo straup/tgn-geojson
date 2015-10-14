@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.000000,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7053201","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300000206"],"id":7053201,"name:xx":"Podere di Monte Miccioli"}}
+{
+  "id": 7053201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053201",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053201,
+    "tgn:name":"Podere di Monte Miccioli",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.0,43.4],"type":"Point"}
+}

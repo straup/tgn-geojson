@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.931000,43.316000]},"type":"Feature","properties":{"hierarchy":["tgn:7029735","tgn:7002878","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"name:fr":"Aroue","id":7029735}}
+{
+  "id": 7029735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029735",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029735,
+    "tgn:name:fr":"Aroue",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.931,43.316],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.220000,23.551944]},"type":"Feature","properties":{"hierarchy":["tgn:7482543","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482543,"name:xx":"Zhongyi Tang"}}
+{
+  "id": 7482543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482543",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482543,
+    "tgn:name":"Zhongyi Tang",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.22,23.551944],"type":"Point"}
+}

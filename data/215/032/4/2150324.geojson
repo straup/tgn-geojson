@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.266700,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2150324","tgn:1000001","tgn:7012149","tgn:2002157","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2150324,"name:xx":"Basin Branch"}}
+{
+  "id": 2150324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150324",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002157",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150324,
+    "tgn:name":"Basin Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2667,37.2],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.800000,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2761637","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2761637,"name:xx":"West Pinto Hot Spring"}}
+{
+  "id": 2761637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761637",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761637,
+    "tgn:name":"West Pinto Hot Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.8,41.35],"type":"Point"}
+}

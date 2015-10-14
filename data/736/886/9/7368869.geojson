@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.250000,17.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7368869","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368869,"name:xx":"Juan Nestoso"}}
+{
+  "id": 7368869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368869",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368869,
+    "tgn:name":"Juan Nestoso",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.25,17.833333],"type":"Point"}
+}

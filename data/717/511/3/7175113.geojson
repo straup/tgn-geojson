@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.866667,49.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7175113","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008057"],"id":7175113,"name:xx":"Ruine Grimburg"}}
+{
+  "id": 7175113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175113",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175113,
+    "tgn:name":"Ruine Grimburg",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.866667,49.6],"type":"Point"}
+}

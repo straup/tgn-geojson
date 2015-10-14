@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.616700,33.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2408721","tgn:1000001","tgn:7012149","tgn:2001152","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2408721,"name:xx":"Hyde Bayou"}}
+{
+  "id": 2408721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408721",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001152",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408721,
+    "tgn:name":"Hyde Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6167,33.8833],"type":"Point"}
+}

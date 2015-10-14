@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.278408,50.801253]},"type":"Feature","properties":{"hierarchy":["tgn:7241365","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241365,"name:xx":"Klein Bijgaarden"}}
+{
+  "id": 7241365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241365",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241365,
+    "tgn:name":"Klein Bijgaarden",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.278408,50.801253],"type":"Point"}
+}

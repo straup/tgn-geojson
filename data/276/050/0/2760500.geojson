@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-91.216700,30.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2760500","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2760500,"name:xx":"West Fork Thompson Creek"}}
+{
+  "id": 2760500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760500",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760500,
+    "tgn:name":"West Fork Thompson Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2167,30.8333],"type":"Point"}
+}

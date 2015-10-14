@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.566667,54.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7178532","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7178532,"name:xx":"Haddebyer Noor"}}
+{
+  "id": 7178532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178532",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178532,
+    "tgn:name":"Haddebyer Noor",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.566667,54.5],"type":"Point"}
+}

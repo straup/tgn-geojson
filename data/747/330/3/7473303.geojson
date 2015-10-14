@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.546767,24.989045]},"type":"Feature","properties":{"hierarchy":["tgn:7473303","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7473303,"name:xx":"Shijie Xinwen Zhuanxiao"}}
+{
+  "id": 7473303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473303",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473303,
+    "tgn:name":"Shijie Xinwen Zhuanxiao",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.546767,24.989045],"type":"Point"}
+}

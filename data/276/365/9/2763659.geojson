@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-158.650000,56.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2763659","tgn:7006450","tgn:1000001","tgn:7030517","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2763659,"name:xx":"Whalers Creek"}}
+{
+  "id": 2763659,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763659",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7030517",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763659,
+    "tgn:name":"Whalers Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.65,56.2833],"type":"Point"}
+}

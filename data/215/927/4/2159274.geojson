@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.800000,39.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2159274","tgn:1000001","tgn:2001184","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2159274,"name:xx":"Bee Branch"}}
+{
+  "id": 2159274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159274",
+        "tgn:1000001",
+        "tgn:2001184",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159274,
+    "tgn:name":"Bee Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.8,39.5833],"type":"Point"}
+}

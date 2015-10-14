@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.500000,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2254206","tgn:1000001","tgn:7016098","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":2254206,"name:xx":"Coombs Point"}}
+{
+  "id": 2254206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254206",
+        "tgn:1000001",
+        "tgn:7016098",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254206,
+    "tgn:name":"Coombs Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5,38.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.983300,30.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2254919","tgn:1000001","tgn:7012149","tgn:2000285","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2254919,"name:xx":"Cooper Basin"}}
+{
+  "id": 2254919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254919",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000285",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254919,
+    "tgn:name":"Cooper Basin",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.9833,30.65],"type":"Point"}
+}

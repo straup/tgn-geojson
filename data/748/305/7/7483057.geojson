@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.598333,23.608056]},"type":"Feature","properties":{"hierarchy":["tgn:7483057","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483057,"name:xx":"Zhatian"}}
+{
+  "id": 7483057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483057",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483057,
+    "tgn:name":"Zhatian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.598333,23.608056],"type":"Point"}
+}

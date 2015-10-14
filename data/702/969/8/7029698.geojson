@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[106.610000,29.728000]},"type":"Feature","properties":{"hierarchy":["tgn:7029698","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029698,"name:xx":"Yubei Qu"}}
+{
+  "id": 7029698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029698",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029698,
+    "tgn:name":"Yubei Qu",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[106.61,29.728],"type":"Point"}
+}

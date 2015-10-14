@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.329217,23.104198]},"type":"Feature","properties":{"hierarchy":["tgn:7482438","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7482438,"name:xx":"Qieba Nongchang"}}
+{
+  "id": 7482438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482438",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482438,
+    "tgn:name":"Qieba Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.329217,23.104198],"type":"Point"}
+}

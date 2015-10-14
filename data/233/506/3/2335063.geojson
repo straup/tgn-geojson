@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.983300,40.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2335063","tgn:1000001","tgn:7012149","tgn:2000226","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2335063,"name:xx":"Forrester Ditch Number 1"}}
+{
+  "id": 2335063,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335063",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000226",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335063,
+    "tgn:name":"Forrester Ditch Number 1",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.9833,40.9333],"type":"Point"}
+}

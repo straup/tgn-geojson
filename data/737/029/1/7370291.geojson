@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.650000,28.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7370291","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370291,"name:xx":"Gazachic, Sierra"}}
+{
+  "id": 7370291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370291",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370291,
+    "tgn:name":"Gazachic, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.65,28.3],"type":"Point"}
+}

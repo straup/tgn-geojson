@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.966667,29.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7364487","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364487,"name:xx":"El Zacatonal"}}
+{
+  "id": 7364487,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364487",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364487,
+    "tgn:name":"El Zacatonal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.966667,29.0],"type":"Point"}
+}

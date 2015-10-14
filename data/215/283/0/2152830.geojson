@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.883300,42.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2152830","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2152830,"name:xx":"Bayside"}}
+{
+  "id": 2152830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152830",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152830,
+    "tgn:name":"Bayside",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8833,42.3],"type":"Point"}
+}

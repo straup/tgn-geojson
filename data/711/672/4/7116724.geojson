@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.066667,51.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7116724","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7116724,"name:xx":"Oetzsch"}}
+{
+  "id": 7116724,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116724",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116724,
+    "tgn:name":"Oetzsch",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.066667,51.25],"type":"Point"}
+}

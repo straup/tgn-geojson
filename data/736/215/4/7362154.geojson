@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.316667,20.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7362154","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362154,"name:xx":"El Caracol"}}
+{
+  "id": 7362154,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362154",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362154,
+    "tgn:name":"El Caracol",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.316667,20.65],"type":"Point"}
+}

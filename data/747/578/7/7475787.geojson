@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.804210,24.615578]},"type":"Feature","properties":{"hierarchy":["tgn:7475787","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7475787,"name:xx":"Foguangcihui Si"}}
+{
+  "id": 7475787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475787",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475787,
+    "tgn:name":"Foguangcihui Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.80421,24.615578],"type":"Point"}
+}

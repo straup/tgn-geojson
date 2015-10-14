@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-101.683300,39.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7021227","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7021227,"name:xx":"Smute Canyon"}}
+{
+  "id": 7021227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021227",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021227,
+    "tgn:name":"Smute Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.6833,39.9833],"type":"Point"}
+}

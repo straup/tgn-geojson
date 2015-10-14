@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.780100,24.670200]},"type":"Feature","properties":{"hierarchy":["tgn:7488044","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488044,"name:xx":"Luozhuang Li"}}
+{
+  "id": 7488044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488044",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488044,
+    "tgn:name":"Luozhuang Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7801,24.6702],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.200000,31.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2152433","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2152433,"name:xx":"Bay Pole Branch"}}
+{
+  "id": 2152433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152433,
+    "tgn:name":"Bay Pole Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2,31.05],"type":"Point"}
+}

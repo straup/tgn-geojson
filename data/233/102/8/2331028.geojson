@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-77.300000,39.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2331028","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2331028,"name:xx":"Flat Run"}}
+{
+  "id": 2331028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331028",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331028,
+    "tgn:name":"Flat Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3,39.6833],"type":"Point"}
+}

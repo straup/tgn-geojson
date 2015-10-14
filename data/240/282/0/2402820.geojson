@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.850000,42.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2402820","tgn:1000001","tgn:7012149","tgn:2000493","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2402820,"name:xx":"Hot Sulphur Springs"}}
+{
+  "id": 2402820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402820",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000493",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402820,
+    "tgn:name":"Hot Sulphur Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.85,42.6833],"type":"Point"}
+}

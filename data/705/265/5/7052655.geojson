@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.150000,40.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7052655","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052655,"name:xx":"Pedrosu, Riu"}}
+{
+  "id": 7052655,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052655",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052655,
+    "tgn:name":"Pedrosu, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.15,40.766667],"type":"Point"}
+}

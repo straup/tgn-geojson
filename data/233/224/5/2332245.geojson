@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.250000,44.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2332245","tgn:1000001","tgn:7012149","tgn:2002374","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2332245,"name:xx":"Floate Draw"}}
+{
+  "id": 2332245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332245",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002374",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332245,
+    "tgn:name":"Floate Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.25,44.3667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.498573,23.972001]},"type":"Feature","properties":{"hierarchy":["tgn:7476812","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008761"],"id":7476812,"name:xx":"Feicui Gu"}}
+{
+  "id": 7476812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476812",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476812,
+    "tgn:name":"Feicui Gu",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.498573,23.972001],"type":"Point"}
+}

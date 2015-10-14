@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.716700,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2333652","tgn:1000001","tgn:7012149","tgn:2002030","tgn:7007826","tgn:7029392"],"placetype":["aat:300008798"],"id":2333652,"name:xx":"Fool Mountain"}}
+{
+  "id": 2333652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333652",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002030",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333652,
+    "tgn:name":"Fool Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.7167,30.5],"type":"Point"}
+}

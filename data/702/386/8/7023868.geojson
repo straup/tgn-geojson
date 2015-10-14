@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[47.133300,54.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7023868","tgn:1000004","tgn:7011609","tgn:7018214","tgn:7002435","tgn:7029392"],"placetype":["aat:300008347"],"id":7023868,"name:xx":"Veshkayma"}}
+{
+  "id": 7023868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023868",
+        "tgn:1000004",
+        "tgn:7011609",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023868,
+    "tgn:name":"Veshkayma",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.1333,54.05],"type":"Point"}
+}

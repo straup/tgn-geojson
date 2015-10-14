@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.900000,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2150927","tgn:1000001","tgn:1002705","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300132348"],"id":2150927,"name:xx":"Bass Rip"}}
+{
+  "id": 2150927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150927",
+        "tgn:1000001",
+        "tgn:1002705",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150927,
+    "tgn:name":"Bass Rip",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.9,41.2833],"type":"Point"}
+}

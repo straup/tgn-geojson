@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.300000,34.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2403410","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2403410,"name:xx":"Houston Mesa"}}
+{
+  "id": 2403410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403410",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403410,
+    "tgn:name":"Houston Mesa",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3,34.2667],"type":"Point"}
+}

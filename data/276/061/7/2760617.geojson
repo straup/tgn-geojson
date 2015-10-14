@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.050000,41.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2760617","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008761"],"id":2760617,"name:xx":"West Fork Whites Gulch"}}
+{
+  "id": 2760617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760617",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760617,
+    "tgn:name":"West Fork Whites Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.05,41.2333],"type":"Point"}
+}

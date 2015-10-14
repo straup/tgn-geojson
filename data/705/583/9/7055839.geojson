@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.500000,41.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7055839","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055839,"name:xx":"Pizzuto, Monte"}}
+{
+  "id": 7055839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055839",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055839,
+    "tgn:name":"Pizzuto, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.5,41.816667],"type":"Point"}
+}

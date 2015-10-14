@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.266700,30.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2768514","tgn:1000001","tgn:7012149","tgn:2000383","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2768514,"name:xx":"Whitewater Creek"}}
+{
+  "id": 2768514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768514",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000383",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768514,
+    "tgn:name":"Whitewater Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2667,30.6833],"type":"Point"}
+}

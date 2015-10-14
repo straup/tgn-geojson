@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.512500,22.663611]},"type":"Feature","properties":{"hierarchy":["tgn:7479070","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7479070,"name:xx":"Daoluan Yan"}}
+{
+  "id": 7479070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479070",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479070,
+    "tgn:name":"Daoluan Yan",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5125,22.663611],"type":"Point"}
+}

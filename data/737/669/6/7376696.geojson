@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.646111,24.343333]},"type":"Feature","properties":{"hierarchy":["tgn:7376696","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376696,"name:xx":"Lo de Francisco"}}
+{
+  "id": 7376696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376696",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376696,
+    "tgn:name":"Lo de Francisco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.646111,24.343333],"type":"Point"}
+}

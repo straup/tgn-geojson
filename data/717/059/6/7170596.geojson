@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.200000,47.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7170596","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7170596,"name:xx":"Hirzeneck"}}
+{
+  "id": 7170596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170596",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170596,
+    "tgn:name":"Hirzeneck",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.2,47.483333],"type":"Point"}
+}

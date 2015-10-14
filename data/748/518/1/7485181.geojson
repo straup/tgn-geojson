@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.954722,22.493056]},"type":"Feature","properties":{"hierarchy":["tgn:7485181","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7485181,"name:xx":"Dazhu Sihao Suidao"}}
+{
+  "id": 7485181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485181",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485181,
+    "tgn:name":"Dazhu Sihao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.954722,22.493056],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1021010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1021010",
+        "tgn:7005439",
+        "tgn:1000047",
+        "tgn:7002455",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1021010,
+    "tgn:name":"Campina Grande",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-35.8333,-7.25],"type":"Point"}
+}

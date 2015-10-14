@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.850000,49.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7059323","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7059323,"name:xx":"F\u00f6rsterei Almen"}}
+{
+  "id": 7059323,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059323",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059323,
+    "tgn:name":"F\u00f6rsterei Almen",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.85,49.666667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.950000,27.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7364802","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364802,"name:xx":"Rancho El Puerto"}}
+{
+  "id": 7364802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364802",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364802,
+    "tgn:name":"Rancho El Puerto",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.95,27.366667],"type":"Point"}
+}

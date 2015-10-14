@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.100000,46.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7022447","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7022447,"name:xx":"Bunker Hill Mine"}}
+{
+  "id": 7022447,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022447",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022447,
+    "tgn:name":"Bunker Hill Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1,46.3333],"type":"Point"}
+}

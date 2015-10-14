@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-110.466700,40.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7020889","tgn:1000001","tgn:2002107","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008680","aat:300006191"],"id":7020889,"name:xx":"Superior Lake"}}
+{
+  "id": 7020889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020889",
+        "tgn:1000001",
+        "tgn:2002107",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020889,
+    "tgn:name":"Superior Lake",
+    "tgn:placetype":[
+        "aat:300008680",
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4667,40.7167],"type":"Point"}
+}

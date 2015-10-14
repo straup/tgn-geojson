@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.450000,30.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7350291","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7350291,"name:xx":"Rancho de la Binata"}}
+{
+  "id": 7350291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350291",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350291,
+    "tgn:name":"Rancho de la Binata",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.45,30.333333],"type":"Point"}
+}

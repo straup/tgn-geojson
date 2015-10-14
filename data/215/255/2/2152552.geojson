@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-115.500000,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2152552","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":2152552,"name:xx":"Bayard"}}
+{
+  "id": 2152552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152552",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152552,
+    "tgn:name":"Bayard",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.5,41.6833],"type":"Point"}
+}

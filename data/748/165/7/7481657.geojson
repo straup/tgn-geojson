@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.395278,24.684444]},"type":"Feature","properties":{"hierarchy":["tgn:7481657","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481657,"name:xx":"Balunpao Shan"}}
+{
+  "id": 7481657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481657",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481657,
+    "tgn:name":"Balunpao Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.395278,24.684444],"type":"Point"}
+}

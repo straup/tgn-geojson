@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.133333,47.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7056473","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7056473,"name:xx":"Merbjoch"}}
+{
+  "id": 7056473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056473",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056473,
+    "tgn:name":"Merbjoch",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.133333,47.016667],"type":"Point"}
+}

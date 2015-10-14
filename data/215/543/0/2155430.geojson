@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.800000,43.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2155430","tgn:1000001","tgn:2001425","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2155430,"name:xx":"Bear Pond"}}
+{
+  "id": 2155430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155430",
+        "tgn:1000001",
+        "tgn:2001425",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155430,
+    "tgn:name":"Bear Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.8,43.2333],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7263976,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f138f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751709",
+        "gp:id":731270,
+        "qs:id":9,
+        "wof:id":101808177
+    },
+    "tgn:hierarchy":[
+        "tgn:7263976",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7263976,
+    "tgn:name:nl":"Lepelstraat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.283333,51.55],"type":"Point"}
+}

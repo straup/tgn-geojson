@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.683333,48.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7117815","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7117815,"name:xx":"Olzreuter See"}}
+{
+  "id": 7117815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117815",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117815,
+    "tgn:name":"Olzreuter See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.683333,48.016667],"type":"Point"}
+}

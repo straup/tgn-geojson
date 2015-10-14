@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.173611,23.608333]},"type":"Feature","properties":{"hierarchy":["tgn:7482843","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482843,"name:xx":"Guangfeng Qiao"}}
+{
+  "id": 7482843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482843",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482843,
+    "tgn:name":"Guangfeng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.173611,23.608333],"type":"Point"}
+}

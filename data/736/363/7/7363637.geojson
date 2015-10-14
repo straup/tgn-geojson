@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.233333,17.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7363637","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300132325"],"id":7363637,"name:xx":"El Chichonal, Volc\u00e1n"}}
+{
+  "id": 7363637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363637",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363637,
+    "tgn:name":"El Chichonal, Volc\u00e1n",
+    "tgn:placetype":[
+        "aat:300132325"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.233333,17.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,24.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7368467","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368467,"name:xx":"India, Sierra de la"}}
+{
+  "id": 7368467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368467",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368467,
+    "tgn:name":"India, Sierra de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,24.4],"type":"Point"}
+}

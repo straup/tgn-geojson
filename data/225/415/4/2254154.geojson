@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.400000,43.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2254154","tgn:1000001","tgn:7012149","tgn:2000959","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2254154,"name:xx":"Coolidge Drain"}}
+{
+  "id": 2254154,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254154",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000959",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254154,
+    "tgn:name":"Coolidge Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4,43.8167],"type":"Point"}
+}

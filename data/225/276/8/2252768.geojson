@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.083300,38.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2252768","tgn:1000001","tgn:2000939","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":2252768,"name:xx":"Connolly Point"}}
+{
+  "id": 2252768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252768",
+        "tgn:1000001",
+        "tgn:2000939",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252768,
+    "tgn:name":"Connolly Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0833,38.6333],"type":"Point"}
+}

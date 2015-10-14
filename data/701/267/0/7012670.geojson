@@ -1,0 +1,25 @@
+{
+  "id": 7012670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012670",
+        "tgn:7017680",
+        "tgn:1000004",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012670,
+    "tgn:name":"Echmiadzin",
+    "tgn:name:en":"Ejmiatsin",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387235",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[44.288,40.172],"type":"Point"}
+}

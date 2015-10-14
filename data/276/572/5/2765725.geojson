@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.816700,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2765725","tgn:1000001","tgn:2002109","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2765725,"name:xx":"White Creek"}}
+{
+  "id": 2765725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765725",
+        "tgn:1000001",
+        "tgn:2002109",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765725,
+    "tgn:name":"White Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8167,37.8833],"type":"Point"}
+}

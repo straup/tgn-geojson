@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-160.983300,62.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2409783","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":2409783,"name:xx":"Ilivit Mountains"}}
+{
+  "id": 2409783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409783",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409783,
+    "tgn:name":"Ilivit Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-160.9833,62.0333],"type":"Point"}
+}

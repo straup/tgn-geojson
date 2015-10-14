@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.833300,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2337095","tgn:1000001","tgn:7012149","tgn:2000210","tgn:7007158","tgn:7029392"],"placetype":["aat:300008697"],"id":2337095,"name:xx":"Fourmile Spring"}}
+{
+  "id": 2337095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337095",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000210",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337095,
+    "tgn:name":"Fourmile Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8333,39.7],"type":"Point"}
+}

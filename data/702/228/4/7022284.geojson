@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.266700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7022284","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7022284,"name:xx":"Alden Brook"}}
+{
+  "id": 7022284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022284",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022284,
+    "tgn:name":"Alden Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2667,42.0333],"type":"Point"}
+}

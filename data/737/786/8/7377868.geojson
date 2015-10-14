@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.633333,20.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7377868","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377868,"name:xx":"Las Palmas"}}
+{
+  "id": 7377868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377868",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377868,
+    "tgn:name":"Las Palmas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.633333,20.85],"type":"Point"}
+}

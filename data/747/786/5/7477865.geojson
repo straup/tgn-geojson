@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.918591,25.114987]},"type":"Feature","properties":{"hierarchy":["tgn:7477865","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300132317"],"id":7477865,"name:xx":"Longdong Wan"}}
+{
+  "id": 7477865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477865",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477865,
+    "tgn:name":"Longdong Wan",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.918591,25.114987],"type":"Point"}
+}

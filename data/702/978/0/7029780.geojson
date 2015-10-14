@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[0.576000,46.866000]},"type":"Feature","properties":{"hierarchy":["tgn:7029780","tgn:1000003","tgn:7002892","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"id":7029780,"name:xx":"Ingrandes-sur-Vienne"}}
+{
+  "id": 7029780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029780",
+        "tgn:1000003",
+        "tgn:7002892",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029780,
+    "tgn:name":"Ingrandes-sur-Vienne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.576,46.866],"type":"Point"}
+}

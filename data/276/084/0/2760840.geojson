@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.833300,43.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2760840","tgn:1000001","tgn:2001425","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008347"],"id":2760840,"name:xx":"West Henniker Emerson Station"}}
+{
+  "id": 2760840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760840",
+        "tgn:1000001",
+        "tgn:2001425",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760840,
+    "tgn:name":"West Henniker Emerson Station",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.8333,43.1667],"type":"Point"}
+}

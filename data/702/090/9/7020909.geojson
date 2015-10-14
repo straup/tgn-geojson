@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-108.250000,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7020909","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020909,"name:xx":"Mancos River"}}
+{
+  "id": 7020909,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020909",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020909,
+    "tgn:name":"Mancos River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.25,37.35],"type":"Point"}
+}

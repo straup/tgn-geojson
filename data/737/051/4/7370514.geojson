@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.500000,16.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7370514","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370514,"name:xx":"Guayabitas Agrias"}}
+{
+  "id": 7370514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370514",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370514,
+    "tgn:name":"Guayabitas Agrias",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5,16.166667],"type":"Point"}
+}

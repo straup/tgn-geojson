@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.650000,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2409827","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000247","tgn:7029392"],"placetype":["aat:300008761"],"id":2409827,"name:xx":"Illinois Gulch"}}
+{
+  "id": 2409827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409827",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000247",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409827,
+    "tgn:name":"Illinois Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.65,37.85],"type":"Point"}
+}

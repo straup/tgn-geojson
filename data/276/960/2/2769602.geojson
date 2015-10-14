@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.350000,44.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2769602","tgn:1000001","tgn:7012149","tgn:2001708","tgn:7007708","tgn:7029392"],"placetype":["aat:300055621"],"id":2769602,"name:xx":"Widows Creek Burn"}}
+{
+  "id": 2769602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769602",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001708",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769602,
+    "tgn:name":"Widows Creek Burn",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.35,44.3667],"type":"Point"}
+}

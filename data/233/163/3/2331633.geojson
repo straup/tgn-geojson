@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.116700,36.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2331633","tgn:1000001","tgn:7012149","tgn:2002169","tgn:7007919","tgn:7029392"],"placetype":["aat:300008706"],"id":2331633,"name:xx":"Fleenortown Creek"}}
+{
+  "id": 2331633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002169",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331633,
+    "tgn:name":"Fleenortown Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1167,36.7],"type":"Point"}
+}

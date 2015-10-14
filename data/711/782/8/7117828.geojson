@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.566667,51.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7117828","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7117828,"name:xx":"Oberf\u00f6rsterei Oderhaus"}}
+{
+  "id": 7117828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117828",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117828,
+    "tgn:name":"Oberf\u00f6rsterei Oderhaus",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.566667,51.683333],"type":"Point"}
+}

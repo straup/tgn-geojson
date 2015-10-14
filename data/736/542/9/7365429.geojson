@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,27.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7365429","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365429,"name:xx":"Rancho El Rayo"}}
+{
+  "id": 7365429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365429",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365429,
+    "tgn:name":"Rancho El Rayo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,27.95],"type":"Point"}
+}

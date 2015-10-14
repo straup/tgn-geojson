@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.916700,36.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2337356","tgn:1000001","tgn:7012149","tgn:2001883","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2337356,"name:xx":"Foust Branch"}}
+{
+  "id": 2337356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337356",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001883",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337356,
+    "tgn:name":"Foust Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9167,36.1167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.950000,30.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2156232","tgn:1000001","tgn:7012149","tgn:2002082","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2156232,"name:xx":"Bearfoot Canyon"}}
+{
+  "id": 2156232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156232",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002082",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156232,
+    "tgn:name":"Bearfoot Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.95,30.6333],"type":"Point"}
+}

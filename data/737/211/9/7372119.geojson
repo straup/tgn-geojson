@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.483333,28.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7372119","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372119,"name:xx":"La Nopalera"}}
+{
+  "id": 7372119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372119",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372119,
+    "tgn:name":"La Nopalera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.483333,28.166667],"type":"Point"}
+}

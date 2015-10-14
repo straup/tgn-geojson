@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.300000,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7020985","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008863"],"id":7020985,"name:xx":"Coeur d'Alene National Forest"}}
+{
+  "id": 7020985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020985",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020985,
+    "tgn:name":"Coeur d'Alene National Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.3,47.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.133300,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2402233","tgn:1000001","tgn:7012149","tgn:2002371","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2402233,"name:xx":"Horsethief Springs"}}
+{
+  "id": 2402233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402233",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002371",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402233,
+    "tgn:name":"Horsethief Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.1333,43.0833],"type":"Point"}
+}

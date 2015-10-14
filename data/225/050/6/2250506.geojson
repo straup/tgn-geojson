@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.700000,43.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2250506","tgn:1000001","tgn:2000953","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":2250506,"name:xx":"Colonville"}}
+{
+  "id": 2250506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250506",
+        "tgn:1000001",
+        "tgn:2000953",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250506,
+    "tgn:name":"Colonville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7,43.8333],"type":"Point"}
+}

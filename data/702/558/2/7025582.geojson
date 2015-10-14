@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.483300,50.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7025582","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025582,"name:xx":"Heavitree"}}
+{
+  "id": 7025582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025582",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025582,
+    "tgn:name":"Heavitree",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.4833,50.7167],"type":"Point"}
+}

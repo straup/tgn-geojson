@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.400000,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2769066","tgn:1000001","tgn:7012149","tgn:1002540","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2769066,"name:xx":"Whitten Lake"}}
+{
+  "id": 2769066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769066",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002540",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769066,
+    "tgn:name":"Whitten Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4,43.0833],"type":"Point"}
+}

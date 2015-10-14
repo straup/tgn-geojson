@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.433333,28.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7365187","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006495"],"id":7365187,"name:xx":"Escuela Francisco I Madero"}}
+{
+  "id": 7365187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365187",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365187,
+    "tgn:name":"Escuela Francisco I Madero",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.433333,28.2],"type":"Point"}
+}

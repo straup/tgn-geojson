@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.233300,44.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2767643","tgn:7013349","tgn:1000001","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2767643,"name:xx":"Whited Reservoir"}}
+{
+  "id": 2767643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767643",
+        "tgn:7013349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767643,
+    "tgn:name":"Whited Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2333,44.4333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.100000,30.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7371978","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371978,"name:xx":"Rancho La Escondida"}}
+{
+  "id": 7371978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371978",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371978,
+    "tgn:name":"Rancho La Escondida",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.1,30.3],"type":"Point"}
+}

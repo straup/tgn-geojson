@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.816700,48.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2151073","tgn:1000001","tgn:7012149","tgn:1003020","tgn:7007920","tgn:7029392"],"placetype":["aat:300008835"],"id":2151073,"name:xx":"Bastile Glacier"}}
+{
+  "id": 2151073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151073",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003020",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151073,
+    "tgn:name":"Bastile Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8167,48.8],"type":"Point"}
+}

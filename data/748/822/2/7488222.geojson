@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[121.248784,25.118477]},"type":"Feature","properties":{"hierarchy":["tgn:7488222","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300266560","aat:300008699"],"id":7488222,"name:xx":"Xin Nankan Xi"}}
+{
+  "id": 7488222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488222",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488222,
+    "tgn:name":"Xin Nankan Xi",
+    "tgn:placetype":[
+        "aat:300266560",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.248784,25.118477],"type":"Point"}
+}

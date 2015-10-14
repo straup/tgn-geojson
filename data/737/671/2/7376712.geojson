@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.133333,25.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7376712","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300006075"],"id":7376712,"name:xx":"Canal Las Lilas"}}
+{
+  "id": 7376712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376712",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376712,
+    "tgn:name":"Canal Las Lilas",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.133333,25.916667],"type":"Point"}
+}

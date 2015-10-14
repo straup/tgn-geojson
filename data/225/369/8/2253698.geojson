@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.700000,43.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2253698","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2253698,"name:xx":"Cook Stove Reservoir"}}
+{
+  "id": 2253698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253698",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253698,
+    "tgn:name":"Cook Stove Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7,43.3],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.279167,22.934167]},"type":"Feature","properties":{"hierarchy":["tgn:7485482","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7485482,"name:xx":"Qili Xikou"}}
+{
+  "id": 7485482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485482",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485482,
+    "tgn:name":"Qili Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.279167,22.934167],"type":"Point"}
+}

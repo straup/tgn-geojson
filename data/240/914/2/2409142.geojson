@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.600000,39.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2409142","tgn:7014201","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008850"],"id":2409142,"name:xx":"Ice House Point"}}
+{
+  "id": 2409142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409142",
+        "tgn:7014201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409142,
+    "tgn:name":"Ice House Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6,39.55],"type":"Point"}
+}

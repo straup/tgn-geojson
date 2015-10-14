@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-118.983300,48.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7023775","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":7023775,"name:xx":"Toroda Creek"}}
+{
+  "id": 7023775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023775",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023775,
+    "tgn:name":"Toroda Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9833,48.7333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.466667,50.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7059671","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7059671,"name:xx":"Allerswald"}}
+{
+  "id": 7059671,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059671",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059671,
+    "tgn:name":"Allerswald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.466667,50.266667],"type":"Point"}
+}

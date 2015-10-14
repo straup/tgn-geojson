@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.116700,37.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2700668","tgn:1000001","tgn:7012149","tgn:2000836","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2700668,"name:xx":"Sucks Fork"}}
+{
+  "id": 2700668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700668",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000836",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700668,
+    "tgn:name":"Sucks Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1167,37.25],"type":"Point"}
+}

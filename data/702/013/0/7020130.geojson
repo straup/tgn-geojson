@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,44.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7020130","tgn:1000001","tgn:2001810","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008761"],"id":7020130,"name:xx":"Johnson Gulch"}}
+{
+  "id": 7020130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020130",
+        "tgn:1000001",
+        "tgn:2001810",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020130,
+    "tgn:name":"Johnson Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,44.35],"type":"Point"}
+}

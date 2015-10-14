@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.333300,34.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2402958","tgn:1000001","tgn:7012149","tgn:2001752","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2402958,"name:xx":"Hough Millpond"}}
+{
+  "id": 2402958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402958",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001752",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402958,
+    "tgn:name":"Hough Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3333,34.4833],"type":"Point"}
+}

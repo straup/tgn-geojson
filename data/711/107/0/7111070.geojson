@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.866667,53.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7111070","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008791"],"id":7111070,"name:xx":"Remus-Insel"}}
+{
+  "id": 7111070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111070",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111070,
+    "tgn:name":"Remus-Insel",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.866667,53.133333],"type":"Point"}
+}

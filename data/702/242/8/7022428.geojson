@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.333300,31.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022428","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":7022428,"name:xx":"Boyette Pond"}}
+{
+  "id": 7022428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022428",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022428,
+    "tgn:name":"Boyette Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3333,31.1],"type":"Point"}
+}

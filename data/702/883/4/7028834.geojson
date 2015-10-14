@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[0.116667,53.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7028834","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387314","aat:300008372"],"name:en":"Dimlington","id":7028834}}
+{
+  "id": 7028834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028834",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028834,
+    "tgn:name:en":"Dimlington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387314",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.116667,53.666667],"type":"Point"}
+}

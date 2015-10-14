@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.613268,22.541400]},"type":"Feature","properties":{"hierarchy":["tgn:7471040","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471040,"name:xx":"Xinzhi Cun"}}
+{
+  "id": 7471040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471040",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471040,
+    "tgn:name":"Xinzhi Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.613268,22.5414],"type":"Point"}
+}

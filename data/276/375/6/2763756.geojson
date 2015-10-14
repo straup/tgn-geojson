@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-74.783300,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2763756","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008863"],"id":2763756,"name:xx":"Wharton State Forest"}}
+{
+  "id": 2763756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763756",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763756,
+    "tgn:name":"Wharton State Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7833,39.7],"type":"Point"}
+}

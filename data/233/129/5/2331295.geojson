@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-114.333300,47.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2331295","tgn:1000001","tgn:7012149","tgn:2001283","tgn:7007524","tgn:7029392"],"placetype":["aat:300008347","aat:300387324"],"id":2331295,"name:xx":"Flathead Indian Reservation"}}
+{
+  "id": 2331295,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331295",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001283",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331295,
+    "tgn:name":"Flathead Indian Reservation",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387324"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3333,47.5],"type":"Point"}
+}

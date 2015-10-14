@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.333333,20.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7354518","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354518,"name:xx":"Chunkan\u00e1n"}}
+{
+  "id": 7354518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354518",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354518,
+    "tgn:name":"Chunkan\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.333333,20.233333],"type":"Point"}
+}

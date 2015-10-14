@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.154167,23.604444]},"type":"Feature","properties":{"hierarchy":["tgn:7483028","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483028,"name:xx":"Chenggong Qiao"}}
+{
+  "id": 7483028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483028",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483028,
+    "tgn:name":"Chenggong Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.154167,23.604444],"type":"Point"}
+}

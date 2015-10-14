@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.933300,35.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2769509","tgn:1000001","tgn:7012149","tgn:2001506","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2769509,"name:xx":"Widgen Woods"}}
+{
+  "id": 2769509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769509",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001506",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769509,
+    "tgn:name":"Widgen Woods",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9333,35.1],"type":"Point"}
+}

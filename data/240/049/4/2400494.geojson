@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.183300,32.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2400494","tgn:1000001","tgn:2001734","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008791"],"id":2400494,"name:xx":"Horse Island"}}
+{
+  "id": 2400494,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400494",
+        "tgn:1000001",
+        "tgn:2001734",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400494,
+    "tgn:name":"Horse Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1833,32.5833],"type":"Point"}
+}

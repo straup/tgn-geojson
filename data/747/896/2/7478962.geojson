@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.416667,24.317222]},"type":"Feature","properties":{"hierarchy":["tgn:7478962","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008187"],"id":7478962,"name:xx":"Tailuge Guojia Gongyuan"}}
+{
+  "id": 7478962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478962",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478962,
+    "tgn:name":"Tailuge Guojia Gongyuan",
+    "tgn:placetype":[
+        "aat:300008187"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.416667,24.317222],"type":"Point"}
+}

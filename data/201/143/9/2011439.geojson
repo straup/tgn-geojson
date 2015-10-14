@@ -1,0 +1,25 @@
+{
+  "id": 2011439,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2011439",
+        "tgn:1002138",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2011439,
+    "tgn:name":"Fremont",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300000547"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.9833,37.5333],"type":"Point"}
+}

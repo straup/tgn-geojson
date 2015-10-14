@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.483300,46.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2256346","tgn:1000001","tgn:7012149","tgn:2001291","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2256346,"name:xx":"Coppersmith Mine"}}
+{
+  "id": 2256346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256346",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001291",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256346,
+    "tgn:name":"Coppersmith Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.4833,46.9],"type":"Point"}
+}

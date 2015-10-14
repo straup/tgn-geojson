@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,25.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7351407","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300132339"],"id":7351407,"name:xx":"Baluarte, Meseta del"}}
+{
+  "id": 7351407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351407",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351407,
+    "tgn:name":"Baluarte, Meseta del",
+    "tgn:placetype":[
+        "aat:300132339"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,25.1],"type":"Point"}
+}

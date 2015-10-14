@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.233300,31.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2259491","tgn:1000001","tgn:7012149","tgn:1002590","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2259491,"name:xx":"Cottonwood Springs Branch"}}
+{
+  "id": 2259491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259491",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002590",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259491,
+    "tgn:name":"Cottonwood Springs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.2333,31.3667],"type":"Point"}
+}

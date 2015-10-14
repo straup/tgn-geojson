@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.900000,34.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023283","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023283,"name:xx":"Little Wills Creek"}}
+{
+  "id": 7023283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023283",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023283,
+    "tgn:name":"Little Wills Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9,34.2333],"type":"Point"}
+}

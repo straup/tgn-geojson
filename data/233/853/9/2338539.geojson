@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.450000,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2338539","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2338539,"name:xx":"Framingham Reservoir Number Three"}}
+{
+  "id": 2338539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338539",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338539,
+    "tgn:name":"Framingham Reservoir Number Three",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.45,42.2833],"type":"Point"}
+}

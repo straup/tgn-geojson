@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.688056,24.422500]},"type":"Feature","properties":{"hierarchy":["tgn:7483414","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483414,"name:xx":"Qingbu Daqiao"}}
+{
+  "id": 7483414,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483414",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483414,
+    "tgn:name":"Qingbu Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.688056,24.4225],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7010009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010009",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008165",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010009,
+    "tgn:name:en":"Hexham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000835",
+        "aat:300387235",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.1,54.966667],"type":"Point"}
+}

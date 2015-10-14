@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.833300,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2256922","tgn:1000001","tgn:7012149","tgn:2002177","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2256922,"name:xx":"Cormack Run"}}
+{
+  "id": 2256922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256922",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002177",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256922,
+    "tgn:name":"Cormack Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8333,38.2833],"type":"Point"}
+}

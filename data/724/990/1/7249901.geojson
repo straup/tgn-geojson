@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.680788,50.592449]},"type":"Feature","properties":{"hierarchy":["tgn:7249901","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7249901,"name:xx":"Noire Voie"}}
+{
+  "id": 7249901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249901",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249901,
+    "tgn:name":"Noire Voie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.680788,50.592449],"type":"Point"}
+}

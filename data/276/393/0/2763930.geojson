@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.566700,42.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2763930","tgn:1000001","tgn:7019982","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2763930,"name:xx":"Wheel Meadow Brook"}}
+{
+  "id": 2763930,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763930",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763930,
+    "tgn:name":"Wheel Meadow Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5667,42.05],"type":"Point"}
+}

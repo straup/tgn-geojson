@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-89.466667,20.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7024105","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300008375"],"id":7024105,"name:xx":"Tecoh"}}
+{
+  "id": 7024105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024105",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024105,
+    "tgn:name":"Tecoh",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.466667,20.75],"type":"Point"}
+}

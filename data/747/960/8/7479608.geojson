@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.232500,23.135000]},"type":"Feature","properties":{"hierarchy":["tgn:7479608","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479608,"name:xx":"Baolin Gong"}}
+{
+  "id": 7479608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479608",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479608,
+    "tgn:name":"Baolin Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2325,23.135],"type":"Point"}
+}

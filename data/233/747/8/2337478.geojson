@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.750000,43.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2337478","tgn:1000001","tgn:2000465","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2337478,"name:xx":"Fowler Lateral"}}
+{
+  "id": 2337478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337478",
+        "tgn:1000001",
+        "tgn:2000465",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337478,
+    "tgn:name":"Fowler Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.75,43.6333],"type":"Point"}
+}

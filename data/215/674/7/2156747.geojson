@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.316700,43.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2156747","tgn:1000001","tgn:7012149","tgn:2002377","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2156747,"name:xx":"Beaton Reservoir"}}
+{
+  "id": 2156747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156747",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002377",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156747,
+    "tgn:name":"Beaton Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3167,43.2],"type":"Point"}
+}

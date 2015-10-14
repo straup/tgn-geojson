@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.760575,24.107231]},"type":"Feature","properties":{"hierarchy":["tgn:7474597","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474597,"name:xx":"Wanggongtan"}}
+{
+  "id": 7474597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474597",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474597,
+    "tgn:name":"Wanggongtan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.760575,24.107231],"type":"Point"}
+}

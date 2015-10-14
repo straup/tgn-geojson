@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.350000,34.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7023788","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7023788,"name:xx":"Tugaloo Lake"}}
+{
+  "id": 7023788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023788",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023788,
+    "tgn:name":"Tugaloo Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.35,34.7],"type":"Point"}
+}

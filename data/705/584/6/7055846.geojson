@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.883333,46.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7055846","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055846,"name:xx":"Pizzolto"}}
+{
+  "id": 7055846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055846",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055846,
+    "tgn:name":"Pizzolto",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.883333,46.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.433333,51.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7174145","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7174145,"name:xx":"Gro\u00dfer Maasdorfer Teich"}}
+{
+  "id": 7174145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174145",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174145,
+    "tgn:name":"Gro\u00dfer Maasdorfer Teich",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.433333,51.533333],"type":"Point"}
+}

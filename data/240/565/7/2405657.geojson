@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.683300,33.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2405657","tgn:1000001","tgn:7012149","tgn:2001148","tgn:7007522","tgn:7029392"],"placetype":["aat:300008850"],"id":2405657,"name:xx":"Hughey Point"}}
+{
+  "id": 2405657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405657",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001148",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405657,
+    "tgn:name":"Hughey Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6833,33.05],"type":"Point"}
+}

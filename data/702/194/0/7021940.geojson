@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.366700,33.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7021940","tgn:1000001","tgn:7006451","tgn:2000094","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":7021940,"name:xx":"Brushy Spring"}}
+{
+  "id": 7021940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021940",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000094",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021940,
+    "tgn:name":"Brushy Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3667,33.0],"type":"Point"}
+}

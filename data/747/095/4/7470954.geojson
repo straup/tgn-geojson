@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.483333,22.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7470954","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470954,"name:xx":"Jiuru Xiang"}}
+{
+  "id": 7470954,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470954",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470954,
+    "tgn:name":"Jiuru Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.483333,22.733333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.166667,18.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7359570","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359570,"name:xx":"Comoapan"}}
+{
+  "id": 7359570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359570",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359570,
+    "tgn:name":"Comoapan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.166667,18.416667],"type":"Point"}
+}

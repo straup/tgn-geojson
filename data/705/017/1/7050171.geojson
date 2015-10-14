@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.983333,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7050171","tgn:1003500","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050171,"name:xx":"Lato, Fiume"}}
+{
+  "id": 7050171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050171",
+        "tgn:1003500",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050171,
+    "tgn:name":"Lato, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.983333,40.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.750000,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2762541","tgn:1000001","tgn:7012149","tgn:2002110","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2762541,"name:xx":"West Willow Creek"}}
+{
+  "id": 2762541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762541",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002110",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762541,
+    "tgn:name":"West Willow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.75,39.15],"type":"Point"}
+}

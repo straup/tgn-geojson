@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.833321,24.516516]},"type":"Feature","properties":{"hierarchy":["tgn:7478638","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478638,"name:xx":"Chao'an Gong"}}
+{
+  "id": 7478638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478638",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478638,
+    "tgn:name":"Chao'an Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.833321,24.516516],"type":"Point"}
+}

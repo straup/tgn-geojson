@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-133.183300,55.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2338647","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300008791"],"id":2338647,"name:xx":"Francis Island"}}
+{
+  "id": 2338647,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338647",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338647,
+    "tgn:name":"Francis Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-133.1833,55.1],"type":"Point"}
+}

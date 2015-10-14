@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.083300,37.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2702549","tgn:1002138","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2702549,"name:xx":"Sulphur Creek"}}
+{
+  "id": 2702549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702549",
+        "tgn:1002138",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702549,
+    "tgn:name":"Sulphur Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.0833,37.65],"type":"Point"}
+}

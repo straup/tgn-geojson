@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.777600,24.628300]},"type":"Feature","properties":{"hierarchy":["tgn:7478836","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478836,"name:xx":"Daping Ding"}}
+{
+  "id": 7478836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478836",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478836,
+    "tgn:name":"Daping Ding",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7776,24.6283],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.800000,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2404489","tgn:1000001","tgn:7012149","tgn:1002636","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2404489,"name:xx":"Hubbard Mineral Spring"}}
+{
+  "id": 2404489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404489",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002636",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404489,
+    "tgn:name":"Hubbard Mineral Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8,45.1833],"type":"Point"}
+}

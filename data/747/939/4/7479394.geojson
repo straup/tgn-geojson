@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.478908,23.115355]},"type":"Feature","properties":{"hierarchy":["tgn:7479394","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7479394,"name:xx":"Shanhou"}}
+{
+  "id": 7479394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479394",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479394,
+    "tgn:name":"Shanhou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.478908,23.115355],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.016667,23.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7356596","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356596,"name:xx":"Cervantes"}}
+{
+  "id": 7356596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356596",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356596,
+    "tgn:name":"Cervantes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.016667,23.383333],"type":"Point"}
+}

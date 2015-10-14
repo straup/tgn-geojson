@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.116667,25.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7378294","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378294,"name:xx":"La Presa"}}
+{
+  "id": 7378294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378294",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378294,
+    "tgn:name":"La Presa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.116667,25.783333],"type":"Point"}
+}

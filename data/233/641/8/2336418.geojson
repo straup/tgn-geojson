@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-140.850000,59.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2336418","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7030574","tgn:7029392"],"placetype":["aat:300008699"],"id":2336418,"name:xx":"Fountain Stream"}}
+{
+  "id": 2336418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336418",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7030574",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336418,
+    "tgn:name":"Fountain Stream",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-140.85,59.75],"type":"Point"}
+}

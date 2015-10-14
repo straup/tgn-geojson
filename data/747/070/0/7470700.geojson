@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.140219,25.002333]},"type":"Feature","properties":{"hierarchy":["tgn:7470700","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470700,"name:xx":"Houzhuangzi"}}
+{
+  "id": 7470700,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470700",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470700,
+    "tgn:name":"Houzhuangzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.140219,25.002333],"type":"Point"}
+}

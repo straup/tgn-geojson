@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.166667,17.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7365195","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365195,"name:xx":"Francisco I. Madero"}}
+{
+  "id": 7365195,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365195",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365195,
+    "tgn:name":"Francisco I. Madero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.166667,17.3],"type":"Point"}
+}

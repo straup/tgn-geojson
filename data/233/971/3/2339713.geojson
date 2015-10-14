@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.183300,45.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339713","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300266640"],"id":2339713,"name:xx":"Free Use Ridge"}}
+{
+  "id": 2339713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339713",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339713,
+    "tgn:name":"Free Use Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.1833,45.75],"type":"Point"}
+}

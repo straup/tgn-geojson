@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-154.016700,56.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2337996","tgn:7006450","tgn:1000001","tgn:2124012","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":2337996,"name:xx":"Fox Island"}}
+{
+  "id": 2337996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337996",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124012",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337996,
+    "tgn:name":"Fox Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-154.0167,56.9833],"type":"Point"}
+}

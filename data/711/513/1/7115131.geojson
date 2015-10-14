@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.050000,48.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7115131","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115131,"name:xx":"Ochsenhart"}}
+{
+  "id": 7115131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115131",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115131,
+    "tgn:name":"Ochsenhart",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.05,48.916667],"type":"Point"}
+}

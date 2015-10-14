@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.316700,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2150143","tgn:1000001","tgn:7012149","tgn:2001931","tgn:7007825","tgn:7029392"],"placetype":["aat:300008706"],"id":2150143,"name:xx":"Bartons Creek"}}
+{
+  "id": 2150143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001931",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150143,
+    "tgn:name":"Bartons Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.3167,36.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.666667,46.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7057736","tgn:1000003","tgn:7003152","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057736,"name:xx":"Buglio in Monte"}}
+{
+  "id": 7057736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057736",
+        "tgn:1000003",
+        "tgn:7003152",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057736,
+    "tgn:name":"Buglio in Monte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.666667,46.183333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.216667,19.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7350107","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350107,"name:xx":"Adolfo Ru\u00edz Cort\u00ednes"}}
+{
+  "id": 7350107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350107",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350107,
+    "tgn:name":"Adolfo Ru\u00edz Cort\u00ednes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.216667,19.833333],"type":"Point"}
+}

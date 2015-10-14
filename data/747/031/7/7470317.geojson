@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.026944,22.682778]},"type":"Feature","properties":{"hierarchy":["tgn:7470317","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7470317,"name:xx":"Xichuan Shan"}}
+{
+  "id": 7470317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470317",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470317,
+    "tgn:name":"Xichuan Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.026944,22.682778],"type":"Point"}
+}

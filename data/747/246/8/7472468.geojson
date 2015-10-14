@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.459547,23.995684]},"type":"Feature","properties":{"hierarchy":["tgn:7472468","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472468,"name:xx":"Nanxin Qiao"}}
+{
+  "id": 7472468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472468",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472468,
+    "tgn:name":"Nanxin Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.459547,23.995684],"type":"Point"}
+}

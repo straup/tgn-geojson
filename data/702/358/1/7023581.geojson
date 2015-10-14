@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-71.066700,45.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7023581","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7023581,"name:xx":"North Fork Big Brook"}}
+{
+  "id": 7023581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023581",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023581,
+    "tgn:name":"North Fork Big Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0667,45.1],"type":"Point"}
+}

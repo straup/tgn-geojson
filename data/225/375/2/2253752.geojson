@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.800000,32.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2253752","tgn:1000001","tgn:2000317","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2253752,"name:xx":"Cooks Branch"}}
+{
+  "id": 2253752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253752",
+        "tgn:1000001",
+        "tgn:2000317",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253752,
+    "tgn:name":"Cooks Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8,32.3167],"type":"Point"}
+}

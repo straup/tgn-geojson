@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.026123,50.804497]},"type":"Feature","properties":{"hierarchy":["tgn:7245531","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7245531,"name:xx":"Amerika"}}
+{
+  "id": 7245531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245531",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245531,
+    "tgn:name":"Amerika",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.026123,50.804497],"type":"Point"}
+}

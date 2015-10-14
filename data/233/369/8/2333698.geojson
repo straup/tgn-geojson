@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.250000,38.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2333698","tgn:1002933","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008347"],"id":2333698,"name:xx":"Foord Landing"}}
+{
+  "id": 2333698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333698",
+        "tgn:1002933",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333698,
+    "tgn:name":"Foord Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.25,38.8333],"type":"Point"}
+}

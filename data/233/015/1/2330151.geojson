@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.633300,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2330151","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008791"],"id":2330151,"name:xx":"Flake Island"}}
+{
+  "id": 2330151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330151",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330151,
+    "tgn:name":"Flake Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.6333,44.0833],"type":"Point"}
+}

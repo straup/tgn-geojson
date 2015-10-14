@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.845237,24.580400]},"type":"Feature","properties":{"hierarchy":["tgn:7478641","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7478641,"name:xx":"Sanhao Suidao"}}
+{
+  "id": 7478641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478641",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478641,
+    "tgn:name":"Sanhao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.845237,24.5804],"type":"Point"}
+}

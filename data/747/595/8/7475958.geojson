@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.759613,24.558209]},"type":"Feature","properties":{"hierarchy":["tgn:7475958","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7475958,"name:xx":"Longdong Xi"}}
+{
+  "id": 7475958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475958",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475958,
+    "tgn:name":"Longdong Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.759613,24.558209],"type":"Point"}
+}

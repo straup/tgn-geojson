@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.343042,23.757821]},"type":"Feature","properties":{"hierarchy":["tgn:7472632","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7472632,"name:xx":"Lunbei"}}
+{
+  "id": 7472632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472632",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472632,
+    "tgn:name":"Lunbei",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.343042,23.757821],"type":"Point"}
+}

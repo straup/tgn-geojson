@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.531800,24.162990]},"type":"Feature","properties":{"hierarchy":["tgn:7487208","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487208,"name:xx":"Kanziding"}}
+{
+  "id": 7487208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487208",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487208,
+    "tgn:name":"Kanziding",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5318,24.16299],"type":"Point"}
+}

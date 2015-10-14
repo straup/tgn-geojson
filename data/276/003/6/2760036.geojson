@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-142.666700,61.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2760036","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008707"],"id":2760036,"name:xx":"West Fork Nizina River"}}
+{
+  "id": 2760036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760036",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760036,
+    "tgn:name":"West Fork Nizina River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-142.6667,61.5833],"type":"Point"}
+}

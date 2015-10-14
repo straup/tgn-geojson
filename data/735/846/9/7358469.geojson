@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.066667,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7358469","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7358469,"name:xx":"Noria del Coyote"}}
+{
+  "id": 7358469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358469",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358469,
+    "tgn:name":"Noria del Coyote",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.066667,26.266667],"type":"Point"}
+}

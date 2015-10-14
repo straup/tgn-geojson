@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.046111,24.428889]},"type":"Feature","properties":{"hierarchy":["tgn:7481392","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481392,"name:xx":"Xuejian Xi"}}
+{
+  "id": 7481392,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481392",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481392,
+    "tgn:name":"Xuejian Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.046111,24.428889],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7006289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006289",
+        "tgn:1001160",
+        "tgn:7006477",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006289,
+    "tgn:name":"La Plata",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387223",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-57.9167,-34.8667],"type":"Point"}
+}

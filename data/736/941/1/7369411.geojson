@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.683333,29.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7369411","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369411,"name:xx":"Junta, Arroyo"}}
+{
+  "id": 7369411,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369411",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369411,
+    "tgn:name":"Junta, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.683333,29.25],"type":"Point"}
+}

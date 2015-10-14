@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.816700,47.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7020986","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":7020986,"name:xx":"Falls Creek"}}
+{
+  "id": 7020986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020986",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020986,
+    "tgn:name":"Falls Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8167,47.6833],"type":"Point"}
+}

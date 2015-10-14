@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.750000,38.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2408511","tgn:1000001","tgn:7012149","tgn:2001189","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2408511,"name:xx":"Hutchison Branch"}}
+{
+  "id": 2408511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408511",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001189",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408511,
+    "tgn:name":"Hutchison Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.75,38.8333],"type":"Point"}
+}

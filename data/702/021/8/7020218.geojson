@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,36.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7020218","tgn:1000001","tgn:7012149","tgn:2000806","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":7020218,"name:xx":"Straight Creek"}}
+{
+  "id": 7020218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020218",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000806",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020218,
+    "tgn:name":"Straight Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,36.8833],"type":"Point"}
+}

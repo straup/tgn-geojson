@@ -1,0 +1,23 @@
+{
+  "id": 1013012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1013012",
+        "tgn:7593490",
+        "tgn:7005332",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":1013012,
+    "tgn:name":"Freeport City",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000547",
+        "aat:300008375",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7,26.5],"type":"Point"}
+}

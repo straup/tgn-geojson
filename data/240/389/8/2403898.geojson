@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.400000,24.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2403898","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2403898,"name:xx":"Howe Key"}}
+{
+  "id": 2403898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403898",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403898,
+    "tgn:name":"Howe Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4,24.7333],"type":"Point"}
+}

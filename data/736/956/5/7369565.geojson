@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.766667,20.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7369565","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369565,"name:xx":"Kancabch\u00e9n"}}
+{
+  "id": 7369565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369565",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369565,
+    "tgn:name":"Kancabch\u00e9n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.766667,20.866667],"type":"Point"}
+}

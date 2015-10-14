@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.050000,25.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7357714","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7357714,"name:xx":"Rancho Ejido Ju\u00e1rez"}}
+{
+  "id": 7357714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357714",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357714,
+    "tgn:name":"Rancho Ejido Ju\u00e1rez",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.05,25.666667],"type":"Point"}
+}

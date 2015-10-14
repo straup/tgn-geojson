@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.558889,23.703889]},"type":"Feature","properties":{"hierarchy":["tgn:7486188","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7486188,"name:xx":"Rongmin Zhijia"}}
+{
+  "id": 7486188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486188",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486188,
+    "tgn:name":"Rongmin Zhijia",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.558889,23.703889],"type":"Point"}
+}

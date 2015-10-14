@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.433300,33.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7022276","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":7022276,"name:xx":"Usry Pond"}}
+{
+  "id": 7022276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022276",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022276,
+    "tgn:name":"Usry Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4333,33.4],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[37.169000,0.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7029556","tgn:7001242","tgn:7593776","tgn:1000169","tgn:7029392"],"placetype":["aat:300008347"],"id":7029556,"name:xx":"Don dol"}}
+{
+  "id": 7029556,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029556",
+        "tgn:7001242",
+        "tgn:7593776",
+        "tgn:1000169",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029556,
+    "tgn:name":"Don dol",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[37.169,0.4],"type":"Point"}
+}

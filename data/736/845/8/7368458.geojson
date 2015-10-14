@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.816667,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7368458","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368458,"name:xx":"Indio, Cerro del"}}
+{
+  "id": 7368458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368458",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368458,
+    "tgn:name":"Indio, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.816667,26.266667],"type":"Point"}
+}

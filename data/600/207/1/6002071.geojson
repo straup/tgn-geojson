@@ -1,0 +1,24 @@
+{
+  "id": 6002071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:6002071",
+        "tgn:2000001",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":6002071,
+    "tgn:name":"Fort Mims",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300000835",
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.838,31.1805],"type":"Point"}
+}

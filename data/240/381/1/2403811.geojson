@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.283300,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2403811","tgn:1000001","tgn:1002235","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2403811,"name:xx":"Howards Corner"}}
+{
+  "id": 2403811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403811",
+        "tgn:1000001",
+        "tgn:1002235",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403811,
+    "tgn:name":"Howards Corner",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.2833,38.0833],"type":"Point"}
+}

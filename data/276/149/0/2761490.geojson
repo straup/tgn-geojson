@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.850000,38.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2761490","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2761490,"name:xx":"West Northumberland Canyon"}}
+{
+  "id": 2761490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761490",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761490,
+    "tgn:name":"West Northumberland Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.85,38.95],"type":"Point"}
+}

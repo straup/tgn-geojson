@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-67.083300,45.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7023637","tgn:1000001","tgn:7029392"],"placetype":["aat:300132316"],"id":7023637,"name:xx":"Passamaquoddy Bay"}}
+{
+  "id": 7023637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023637",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023637,
+    "tgn:name":"Passamaquoddy Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.0833,45.0833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.466700,44.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2259812","tgn:1000001","tgn:2001703","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2259812,"name:xx":"Cougar Rock"}}
+{
+  "id": 2259812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259812",
+        "tgn:1000001",
+        "tgn:2001703",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259812,
+    "tgn:name":"Cougar Rock",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.4667,44.4667],"type":"Point"}
+}

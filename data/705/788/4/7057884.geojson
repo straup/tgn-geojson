@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[8.883333,45.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7057884","tgn:1000003","tgn:1003508","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300387145","aat:300265612"],"id":7057884,"name:xx":"Brusimpiano"}}
+{
+  "id": 7057884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057884",
+        "tgn:1000003",
+        "tgn:1003508",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057884,
+    "tgn:name":"Brusimpiano",
+    "tgn:placetype":[
+        "aat:300387145",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.883333,45.933333],"type":"Point"}
+}

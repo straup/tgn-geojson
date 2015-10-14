@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.850000,23.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7367482","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7367482,"name:xx":"El Sabinal"}}
+{
+  "id": 7367482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367482",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367482,
+    "tgn:name":"El Sabinal",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.85,23.266667],"type":"Point"}
+}

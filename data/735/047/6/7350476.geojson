@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.850000,21.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7350476","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7350476,"name:xx":"Blanca, Isla"}}
+{
+  "id": 7350476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350476",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350476,
+    "tgn:name":"Blanca, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.85,21.4],"type":"Point"}
+}

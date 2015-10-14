@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.683300,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2706719","tgn:1000001","tgn:7016172","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":2706719,"name:xx":"Swan Pond Ditch"}}
+{
+  "id": 2706719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706719",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706719,
+    "tgn:name":"Swan Pond Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6833,36.1333],"type":"Point"}
+}

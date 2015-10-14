@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.166700,33.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2335011","tgn:1000001","tgn:7012149","tgn:2001750","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2335011,"name:xx":"Forney Branch"}}
+{
+  "id": 2335011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335011",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001750",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335011,
+    "tgn:name":"Forney Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.1667,33.8333],"type":"Point"}
+}

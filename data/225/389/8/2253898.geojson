@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.633300,40.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2253898","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300266640"],"id":2253898,"name:xx":"Cooks Ridges"}}
+{
+  "id": 2253898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253898",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253898,
+    "tgn:name":"Cooks Ridges",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.6333,40.15],"type":"Point"}
+}

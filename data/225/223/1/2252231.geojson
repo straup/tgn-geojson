@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.083300,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2252231","tgn:1000001","tgn:7012149","tgn:2001761","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2252231,"name:xx":"Coneross Watershed 9-A"}}
+{
+  "id": 2252231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252231",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001761",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252231,
+    "tgn:name":"Coneross Watershed 9-A",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0833,34.6833],"type":"Point"}
+}

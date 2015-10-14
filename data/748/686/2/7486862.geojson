@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.688889,24.471111]},"type":"Feature","properties":{"hierarchy":["tgn:7486862","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486862,"name:xx":"Meinan Li"}}
+{
+  "id": 7486862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486862",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486862,
+    "tgn:name":"Meinan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.688889,24.471111],"type":"Point"}
+}

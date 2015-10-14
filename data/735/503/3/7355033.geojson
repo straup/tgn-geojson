@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.083333,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7355033","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355033,"name:xx":"Ca\u00f1oncito"}}
+{
+  "id": 7355033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355033",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355033,
+    "tgn:name":"Ca\u00f1oncito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.083333,32.4],"type":"Point"}
+}

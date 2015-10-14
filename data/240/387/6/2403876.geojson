@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.600000,43.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2403876","tgn:1000001","tgn:7012149","tgn:2000959","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2403876,"name:xx":"Howe Creek"}}
+{
+  "id": 2403876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403876",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000959",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403876,
+    "tgn:name":"Howe Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6,43.95],"type":"Point"}
+}

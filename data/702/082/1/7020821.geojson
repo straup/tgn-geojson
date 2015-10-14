@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-116.700000,47.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7020821","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7020821,"name:xx":"Hangman Creek"}}
+{
+  "id": 7020821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020821",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020821,
+    "tgn:name":"Hangman Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7,47.1],"type":"Point"}
+}

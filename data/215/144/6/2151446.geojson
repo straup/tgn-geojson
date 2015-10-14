@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.383300,46.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2151446","tgn:1000001","tgn:7012149","tgn:2001279","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2151446,"name:xx":"Bathhouse Creek"}}
+{
+  "id": 2151446,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151446",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001279",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151446,
+    "tgn:name":"Bathhouse Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3833,46.3167],"type":"Point"}
+}

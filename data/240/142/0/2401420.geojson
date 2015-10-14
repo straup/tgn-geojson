@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.016700,48.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2401420","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300386845"],"id":2401420,"name:xx":"Horseshoe Basin"}}
+{
+  "id": 2401420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401420",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401420,
+    "tgn:name":"Horseshoe Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0167,48.4833],"type":"Point"}
+}

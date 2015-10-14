@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.421111,24.153611]},"type":"Feature","properties":{"hierarchy":["tgn:7482701","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7482701,"name:xx":"Kaijin Xi"}}
+{
+  "id": 7482701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482701",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482701,
+    "tgn:name":"Kaijin Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.421111,24.153611],"type":"Point"}
+}

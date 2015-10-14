@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.550000,43.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7050799","tgn:7003165","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050799,"name:xx":"Massa Macinaia"}}
+{
+  "id": 7050799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050799",
+        "tgn:7003165",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050799,
+    "tgn:name":"Massa Macinaia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.55,43.816667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-167.100000,60.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2409619","tgn:7006450","tgn:2000069","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409619,"name:xx":"Iioodak Point"}}
+{
+  "id": 2409619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409619",
+        "tgn:7006450",
+        "tgn:2000069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409619,
+    "tgn:name":"Iioodak Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-167.1,60.2333],"type":"Point"}
+}

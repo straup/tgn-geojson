@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.866700,40.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2253000","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000253","tgn:7029392"],"placetype":["aat:300006075"],"id":2253000,"name:xx":"Consolidated Law Ditch"}}
+{
+  "id": 2253000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253000",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253000,
+    "tgn:name":"Consolidated Law Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.8667,40.4667],"type":"Point"}
+}

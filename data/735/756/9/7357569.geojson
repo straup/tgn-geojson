@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.333333,20.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7357569","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357569,"name:xx":"Corralito de Piloto"}}
+{
+  "id": 7357569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357569",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357569,
+    "tgn:name":"Corralito de Piloto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.333333,20.15],"type":"Point"}
+}

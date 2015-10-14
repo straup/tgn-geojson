@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-158.166700,61.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2335825","tgn:7006450","tgn:2000069","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2335825,"name:xx":"Fortyseven Creek"}}
+{
+  "id": 2335825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335825",
+        "tgn:7006450",
+        "tgn:2000069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335825,
+    "tgn:name":"Fortyseven Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.1667,61.05],"type":"Point"}
+}

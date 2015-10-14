@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.233300,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2251869","tgn:1000001","tgn:1002949","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2251869,"name:xx":"Conantville Brook"}}
+{
+  "id": 2251869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251869",
+        "tgn:1000001",
+        "tgn:1002949",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251869,
+    "tgn:name":"Conantville Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2333,41.7333],"type":"Point"}
+}

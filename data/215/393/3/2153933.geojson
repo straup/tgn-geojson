@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.750000,47.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2153933","tgn:1000001","tgn:2001266","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2153933,"name:xx":"Bear Coulee"}}
+{
+  "id": 2153933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153933",
+        "tgn:1000001",
+        "tgn:2001266",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153933,
+    "tgn:name":"Bear Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.75,47.0333],"type":"Point"}
+}

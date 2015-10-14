@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-116.500000,45.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7020822","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008178"],"id":7020822,"name:xx":"Hells Canyon National Recreation Area"}}
+{
+  "id": 7020822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020822",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020822,
+    "tgn:name":"Hells Canyon National Recreation Area",
+    "tgn:placetype":[
+        "aat:300008178"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.5,45.55],"type":"Point"}
+}

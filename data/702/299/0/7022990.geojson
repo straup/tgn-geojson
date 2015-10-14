@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.133300,47.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7022990","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008699"],"id":7022990,"name:xx":"Garden Slough"}}
+{
+  "id": 7022990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022990",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022990,
+    "tgn:name":"Garden Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.1333,47.45],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.573333,23.191944]},"type":"Feature","properties":{"hierarchy":["tgn:7484968","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7484968,"name:xx":"Alishan Shanmai"}}
+{
+  "id": 7484968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484968",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484968,
+    "tgn:name":"Alishan Shanmai",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.573333,23.191944],"type":"Point"}
+}

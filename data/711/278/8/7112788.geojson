@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.716667,52.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7112788","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7112788,"name:xx":"Riewendsee"}}
+{
+  "id": 7112788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112788",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112788,
+    "tgn:name":"Riewendsee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.716667,52.533333],"type":"Point"}
+}

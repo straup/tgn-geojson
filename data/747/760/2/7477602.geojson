@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.146017,25.018344]},"type":"Feature","properties":{"hierarchy":["tgn:7477602","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477602,"name:xx":"Guimu Pi"}}
+{
+  "id": 7477602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477602",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477602,
+    "tgn:name":"Guimu Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.146017,25.018344],"type":"Point"}
+}

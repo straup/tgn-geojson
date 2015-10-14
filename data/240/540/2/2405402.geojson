@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.616700,35.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2405402","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2405402,"name:xx":"Huggins Ridge"}}
+{
+  "id": 2405402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405402",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405402,
+    "tgn:name":"Huggins Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6167,35.5],"type":"Point"}
+}

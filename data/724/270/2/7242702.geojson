@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.398168,50.739226]},"type":"Feature","properties":{"hierarchy":["tgn:7242702","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7242702,"name:xx":"Landbeek"}}
+{
+  "id": 7242702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242702",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242702,
+    "tgn:name":"Landbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.398168,50.739226],"type":"Point"}
+}

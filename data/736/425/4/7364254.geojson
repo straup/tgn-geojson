@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.650000,19.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7364254","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364254,"name:xx":"El Naranjal"}}
+{
+  "id": 7364254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364254",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364254,
+    "tgn:name":"El Naranjal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.65,19.4],"type":"Point"}
+}

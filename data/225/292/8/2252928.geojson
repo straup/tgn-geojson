@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.016700,48.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2252928","tgn:1000001","tgn:7012149","tgn:2001296","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2252928,"name:xx":"Conrad Reservoir"}}
+{
+  "id": 2252928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252928",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001296",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252928,
+    "tgn:name":"Conrad Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0167,48.1833],"type":"Point"}
+}

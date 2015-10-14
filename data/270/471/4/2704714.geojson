@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.666700,47.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2704714","tgn:1000001","tgn:7012149","tgn:2001067","tgn:7007521","tgn:7029392"],"placetype":["aat:300008706"],"id":2704714,"name:xx":"Sunset Creek"}}
+{
+  "id": 2704714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704714",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001067",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704714,
+    "tgn:name":"Sunset Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.6667,47.95],"type":"Point"}
+}

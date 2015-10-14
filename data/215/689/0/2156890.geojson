@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.933300,43.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2156890","tgn:1000001","tgn:1002840","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2156890,"name:xx":"Beaudry Brook"}}
+{
+  "id": 2156890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156890",
+        "tgn:1000001",
+        "tgn:1002840",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156890,
+    "tgn:name":"Beaudry Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.9333,43.7833],"type":"Point"}
+}

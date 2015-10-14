@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.600000,47.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7026155","tgn:1000003","tgn:7003765","tgn:7011731","tgn:7029392"],"placetype":["aat:300008347"],"id":7026155,"name:xx":"Flaach"}}
+{
+  "id": 7026155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026155",
+        "tgn:1000003",
+        "tgn:7003765",
+        "tgn:7011731",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026155,
+    "tgn:name":"Flaach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.6,47.5833],"type":"Point"}
+}

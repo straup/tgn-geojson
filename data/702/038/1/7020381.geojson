@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.816700,41.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7020381","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300006191"],"id":7020381,"name:xx":"Shuttle Meadow Reservoir"}}
+{
+  "id": 7020381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020381",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020381,
+    "tgn:name":"Shuttle Meadow Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8167,41.6333],"type":"Point"}
+}

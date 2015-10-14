@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.166667,48.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7115844","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115844,"name:xx":"Oberwimmer"}}
+{
+  "id": 7115844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115844",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115844,
+    "tgn:name":"Oberwimmer",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.166667,48.333333],"type":"Point"}
+}

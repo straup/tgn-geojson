@@ -1,0 +1,27 @@
+{
+  "id": 7265089,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f128e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752178",
+        "gp:id":731009,
+        "qs:id":5,
+        "wof:id":101807363
+    },
+    "tgn:hierarchy":[
+        "tgn:7265089",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265089,
+    "tgn:name:nl":"Kudelstaart",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.75,52.233333],"type":"Point"}
+}

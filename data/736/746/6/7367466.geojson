@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.383333,20.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7367466","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367466,"name:xx":"El Sabino"}}
+{
+  "id": 7367466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367466",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367466,
+    "tgn:name":"El Sabino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.383333,20.85],"type":"Point"}
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7012346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012346",
+        "tgn:7002870",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012346,
+    "tgn:name:de":"Strasbourg",
+    "tgn:name:es":"Strassburg",
+    "tgn:name:fr":"Estrasburgo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387239",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387235",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.75,48.5833],"type":"Point"}
+}

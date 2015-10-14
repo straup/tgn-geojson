@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.760815,24.805619]},"type":"Feature","properties":{"hierarchy":["tgn:7474008","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7474008,"name:xx":"Linwei Xi"}}
+{
+  "id": 7474008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474008",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474008,
+    "tgn:name":"Linwei Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.760815,24.805619],"type":"Point"}
+}

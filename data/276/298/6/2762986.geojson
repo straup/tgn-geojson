@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.916700,33.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2762986","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000150","tgn:7029392"],"placetype":["aat:300006191"],"id":2762986,"name:xx":"Westmoreland Lake"}}
+{
+  "id": 2762986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762986",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000150",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762986,
+    "tgn:name":"Westmoreland Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.9167,33.1167],"type":"Point"}
+}

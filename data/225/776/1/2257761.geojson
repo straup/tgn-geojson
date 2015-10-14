@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.783300,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2257761","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2257761,"name:xx":"Corral Lake Reservoir"}}
+{
+  "id": 2257761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257761",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257761,
+    "tgn:name":"Corral Lake Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7833,41.7],"type":"Point"}
+}

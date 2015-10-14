@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.409914,23.923571]},"type":"Feature","properties":{"hierarchy":["tgn:7472187","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472187,"name:xx":"Xiawanhe"}}
+{
+  "id": 7472187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472187",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472187,
+    "tgn:name":"Xiawanhe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.409914,23.923571],"type":"Point"}
+}

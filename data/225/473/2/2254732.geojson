@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2254732","tgn:1000001","tgn:7012149","tgn:1002633","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2254732,"name:xx":"Coon Run"}}
+{
+  "id": 2254732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002633",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254732,
+    "tgn:name":"Coon Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,39.7333],"type":"Point"}
+}

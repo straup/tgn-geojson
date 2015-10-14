@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.400000,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2257410","tgn:1000001","tgn:7012149","tgn:1002581","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":2257410,"name:xx":"Cornwall Reservoir"}}
+{
+  "id": 2257410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257410",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002581",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257410,
+    "tgn:name":"Cornwall Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4,40.25],"type":"Point"}
+}

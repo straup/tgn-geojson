@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,39.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2408338","tgn:1000001","tgn:7012149","tgn:1002476","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2408338,"name:xx":"Hussey Run"}}
+{
+  "id": 2408338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408338",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002476",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408338,
+    "tgn:name":"Hussey Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,39.2667],"type":"Point"}
+}

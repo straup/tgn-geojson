@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.788554,23.846714]},"type":"Feature","properties":{"hierarchy":["tgn:7477357","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477357,"name:xx":"Dafanghou Shan"}}
+{
+  "id": 7477357,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477357",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477357,
+    "tgn:name":"Dafanghou Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.788554,23.846714],"type":"Point"}
+}

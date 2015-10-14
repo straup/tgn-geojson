@@ -1,0 +1,30 @@
+{
+  "id": 7006842,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0a188-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756253",
+        "gp:id":729028,
+        "qs:id":1,
+        "wof:id":101751819
+    },
+    "tgn:hierarchy":[
+        "tgn:7006842",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006842,
+    "tgn:name:nl":"Eindhoven",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.466667,51.45],"type":"Point"}
+}

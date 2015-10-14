@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-87.833300,36.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2159888","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2159888,"name:xx":"Beech Fork Creek"}}
+{
+  "id": 2159888,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159888",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159888,
+    "tgn:name":"Beech Fork Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8333,36.6333],"type":"Point"}
+}

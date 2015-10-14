@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.403333,24.568333]},"type":"Feature","properties":{"hierarchy":["tgn:7481837","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481837,"name:xx":"Dongbaojinhan Shan"}}
+{
+  "id": 7481837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481837",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481837,
+    "tgn:name":"Dongbaojinhan Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.403333,24.568333],"type":"Point"}
+}

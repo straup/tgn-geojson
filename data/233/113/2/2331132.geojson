@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.350000,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2331132","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2331132,"name:xx":"Flat Top"}}
+{
+  "id": 2331132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331132",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331132,
+    "tgn:name":"Flat Top",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.35,37.5],"type":"Point"}
+}

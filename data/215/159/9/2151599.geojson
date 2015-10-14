@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.716700,43.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2151599","tgn:1000001","tgn:7012149","tgn:2002371","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2151599,"name:xx":"Battle Axe Reservoir"}}
+{
+  "id": 2151599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151599",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002371",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151599,
+    "tgn:name":"Battle Axe Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7167,43.2833],"type":"Point"}
+}

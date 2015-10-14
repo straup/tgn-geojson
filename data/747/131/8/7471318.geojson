@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.965833,24.903611]},"type":"Feature","properties":{"hierarchy":["tgn:7471318","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7471318,"name:xx":"Xinfeng Xi"}}
+{
+  "id": 7471318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471318",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471318,
+    "tgn:name":"Xinfeng Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.965833,24.903611],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-78.700000,41.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022398","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7022398,"name:xx":"Blacksnake Mountain"}}
+{
+  "id": 7022398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022398,
+    "tgn:name":"Blacksnake Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7,41.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.116700,36.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2765280","tgn:1000001","tgn:7012149","tgn:2001197","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2765280,"name:xx":"Whitaker Place"}}
+{
+  "id": 2765280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765280",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001197",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765280,
+    "tgn:name":"Whitaker Place",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1167,36.45],"type":"Point"}
+}

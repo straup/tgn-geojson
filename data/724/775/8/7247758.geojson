@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.150000,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7247758","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247758,"name:xx":"Brelaar"}}
+{
+  "id": 7247758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247758",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247758,
+    "tgn:name":"Brelaar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.15,51.033333],"type":"Point"}
+}

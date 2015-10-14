@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[20.750000,43.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7052995","tgn:1003468","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052995,"name:xx":"Ibar"}}
+{
+  "id": 7052995,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052995",
+        "tgn:1003468",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052995,
+    "tgn:name":"Ibar",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.75,43.733333],"type":"Point"}
+}

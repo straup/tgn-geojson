@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.666700,35.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2769713","tgn:1000001","tgn:7012149","tgn:2001493","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2769713,"name:xx":"Wiggins Lake"}}
+{
+  "id": 2769713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769713",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001493",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769713,
+    "tgn:name":"Wiggins Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6667,35.8833],"type":"Point"}
+}

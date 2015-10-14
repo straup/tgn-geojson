@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.000000,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7056334","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056334,"name:xx":"Oletto, Riu"}}
+{
+  "id": 7056334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056334",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056334,
+    "tgn:name":"Oletto, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.0,40.5],"type":"Point"}
+}

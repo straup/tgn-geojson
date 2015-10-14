@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.000000,33.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2151088","tgn:7002659","tgn:1000001","tgn:2000007","tgn:7012149","tgn:7029392"],"placetype":["aat:300008746"],"id":2151088,"name:xx":"Baswell Cave"}}
+{
+  "id": 2151088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151088",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000007",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151088,
+    "tgn:name":"Baswell Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0,33.8333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.766667,29.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7351525","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7351525,"name:xx":"Rancho Caguirmeche"}}
+{
+  "id": 7351525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351525",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351525,
+    "tgn:name":"Rancho Caguirmeche",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.766667,29.1],"type":"Point"}
+}

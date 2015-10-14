@@ -1,0 +1,21 @@
+{
+  "id": 2234345,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2234345",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001253",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2234345,
+    "tgn:name":"Cheney Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.4833,37.7333],"type":"Point"}
+}

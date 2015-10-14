@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.183300,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2252479","tgn:1000001","tgn:1002738","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008791"],"id":2252479,"name:xx":"Conklin Island"}}
+{
+  "id": 2252479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252479",
+        "tgn:1000001",
+        "tgn:1002738",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252479,
+    "tgn:name":"Conklin Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1833,39.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.433300,45.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2762318","tgn:1000001","tgn:7012149","tgn:2002341","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2762318,"name:xx":"West Thunder Creek"}}
+{
+  "id": 2762318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762318",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002341",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762318,
+    "tgn:name":"West Thunder Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.4333,45.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-2.733300,50.816700]},"type":"Feature","properties":{"hierarchy":["tgn:7025850","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025850,"name:ang":"Bochenham"}}
+{
+  "id": 7025850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025850",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025850,
+    "tgn:name:ang":"Bochenham",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.7333,50.8167],"type":"Point"}
+}

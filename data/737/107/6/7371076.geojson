@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.566667,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7371076","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371076,"name:xx":"Hacienda Jes\u00fas Maria"}}
+{
+  "id": 7371076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371076",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371076,
+    "tgn:name":"Hacienda Jes\u00fas Maria",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.566667,25.966667],"type":"Point"}
+}

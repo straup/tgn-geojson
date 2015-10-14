@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.083300,34.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2769159","tgn:1000001","tgn:7012149","tgn:2000350","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2769159,"name:xx":"Whitworth Creek"}}
+{
+  "id": 2769159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769159",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000350",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769159,
+    "tgn:name":"Whitworth Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0833,34.45],"type":"Point"}
+}

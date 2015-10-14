@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.615833,40.680833]},"type":"Feature","properties":{"hierarchy":["tgn:7051585","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051585,"name:xx":"Muros"}}
+{
+  "id": 7051585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051585",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051585,
+    "tgn:name":"Muros",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.615833,40.680833],"type":"Point"}
+}

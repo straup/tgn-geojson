@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.316700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2252124","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002957","tgn:7029392"],"placetype":["aat:300008798"],"id":2252124,"name:xx":"Cone Hill"}}
+{
+  "id": 2252124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252124",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002957",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252124,
+    "tgn:name":"Cone Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3167,38.1833],"type":"Point"}
+}

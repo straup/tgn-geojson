@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.016700,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2258651","tgn:1000001","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2258651,"name:xx":"Cottonwood Canal"}}
+{
+  "id": 2258651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258651,
+    "tgn:name":"Cottonwood Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0167,42.6333],"type":"Point"}
+}

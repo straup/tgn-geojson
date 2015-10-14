@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.000000,16.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7368514","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368514,"name:xx":"Guacamaya"}}
+{
+  "id": 7368514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368514",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368514,
+    "tgn:name":"Guacamaya",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.0,16.166667],"type":"Point"}
+}

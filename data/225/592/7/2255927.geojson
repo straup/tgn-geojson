@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.616700,35.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2255927","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300000390"],"id":2255927,"name:xx":"Copper Giant Mine"}}
+{
+  "id": 2255927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255927",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255927,
+    "tgn:name":"Copper Giant Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6167,35.3333],"type":"Point"}
+}

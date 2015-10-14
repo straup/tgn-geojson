@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.383300,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2338713","tgn:1000001","tgn:7012149","tgn:2001723","tgn:7007708","tgn:7029392"],"placetype":["aat:300008347"],"id":2338713,"name:xx":"Francisville"}}
+{
+  "id": 2338713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338713",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001723",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338713,
+    "tgn:name":"Francisville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3833,44.9],"type":"Point"}
+}

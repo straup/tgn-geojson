@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.533300,44.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2408424","tgn:1000001","tgn:2002133","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2408424,"name:xx":"Hutchins Brook"}}
+{
+  "id": 2408424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408424",
+        "tgn:1000001",
+        "tgn:2002133",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408424,
+    "tgn:name":"Hutchins Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5333,44.75],"type":"Point"}
+}

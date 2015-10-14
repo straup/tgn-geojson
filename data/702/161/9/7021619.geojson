@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.516700,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7021619","tgn:1000001","tgn:7012149","tgn:1002627","tgn:7007706","tgn:7029392"],"placetype":["aat:300006191"],"id":7021619,"name:xx":"Kings Lake"}}
+{
+  "id": 7021619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021619",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002627",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021619,
+    "tgn:name":"Kings Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5167,41.0833],"type":"Point"}
+}

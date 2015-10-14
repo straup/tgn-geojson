@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.566700,33.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2760676","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000104","tgn:7029392"],"placetype":["aat:300008699"],"id":2760676,"name:xx":"West Fork Yuma Wash"}}
+{
+  "id": 2760676,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760676",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000104",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760676,
+    "tgn:name":"West Fork Yuma Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5667,33.1667],"type":"Point"}
+}

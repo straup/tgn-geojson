@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,29.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7356748","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7356748,"name:xx":"Chino Lloroso, Arroyo"}}
+{
+  "id": 7356748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356748",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356748,
+    "tgn:name":"Chino Lloroso, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,29.733333],"type":"Point"}
+}

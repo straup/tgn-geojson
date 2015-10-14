@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.800000,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2330825","tgn:1000001","tgn:7012149","tgn:2002110","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2330825,"name:xx":"Flat Nose George Canyon"}}
+{
+  "id": 2330825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330825",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002110",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330825,
+    "tgn:name":"Flat Nose George Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8,39.2333],"type":"Point"}
+}

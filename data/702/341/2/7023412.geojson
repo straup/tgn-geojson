@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.366700,36.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7023412","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300006191"],"id":7023412,"name:xx":"Mendota Pool"}}
+{
+  "id": 7023412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023412",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023412,
+    "tgn:name":"Mendota Pool",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3667,36.7833],"type":"Point"}
+}

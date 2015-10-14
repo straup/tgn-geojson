@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.133333,26.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7360442","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360442,"name:xx":"Cochi, Cerro del"}}
+{
+  "id": 7360442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360442",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360442,
+    "tgn:name":"Cochi, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.133333,26.1],"type":"Point"}
+}

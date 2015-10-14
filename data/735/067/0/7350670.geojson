@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.700000,30.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7350670","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7350670,"name:xx":"Rancho Baicima"}}
+{
+  "id": 7350670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350670",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350670,
+    "tgn:name":"Rancho Baicima",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.7,30.35],"type":"Point"}
+}

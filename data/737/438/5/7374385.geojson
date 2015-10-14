@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.400000,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7374385","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374385,"name:xx":"La Conquista"}}
+{
+  "id": 7374385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374385",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374385,
+    "tgn:name":"La Conquista",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.4,27.75],"type":"Point"}
+}

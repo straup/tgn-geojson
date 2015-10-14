@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.533300,46.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2760451","tgn:1000001","tgn:7012149","tgn:2001282","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760451,"name:xx":"West Fork Stiner Creek"}}
+{
+  "id": 2760451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001282",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760451,
+    "tgn:name":"West Fork Stiner Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5333,46.9],"type":"Point"}
+}

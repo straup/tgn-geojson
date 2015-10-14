@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.800000,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2259619","tgn:1000001","tgn:2000464","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2259619,"name:xx":"Couch Summit"}}
+{
+  "id": 2259619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259619",
+        "tgn:1000001",
+        "tgn:2000464",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259619,
+    "tgn:name":"Couch Summit",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.8,43.5],"type":"Point"}
+}

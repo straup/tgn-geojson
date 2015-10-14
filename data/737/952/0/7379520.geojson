@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.780278,24.132778]},"type":"Feature","properties":{"hierarchy":["tgn:7379520","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379520,"name:xx":"Marmolejo"}}
+{
+  "id": 7379520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379520",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379520,
+    "tgn:name":"Marmolejo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.780278,24.132778],"type":"Point"}
+}

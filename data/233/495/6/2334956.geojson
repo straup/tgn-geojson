@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.716700,36.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2334956","tgn:1000001","tgn:7012149","tgn:2001879","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347"],"id":2334956,"name:xx":"Forks of Blue Creek"}}
+{
+  "id": 2334956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334956",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001879",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334956,
+    "tgn:name":"Forks of Blue Creek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.7167,36.05],"type":"Point"}
+}

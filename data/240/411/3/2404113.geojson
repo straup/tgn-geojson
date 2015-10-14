@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.716700,28.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2404113","tgn:1000001","tgn:7012149","tgn:1002567","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2404113,"name:xx":"Howey Height"}}
+{
+  "id": 2404113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404113",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002567",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404113,
+    "tgn:name":"Howey Height",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7167,28.65],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.537036,25.299392]},"type":"Feature","properties":{"hierarchy":["tgn:7474996","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007741"],"id":7474996,"name:xx":"Fuguijiao Dengta"}}
+{
+  "id": 7474996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474996",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474996,
+    "tgn:name":"Fuguijiao Dengta",
+    "tgn:placetype":[
+        "aat:300007741"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.537036,25.299392],"type":"Point"}
+}

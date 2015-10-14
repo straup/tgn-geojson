@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.383333,21.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7374244","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7374244,"name:xx":"La Manga Larga"}}
+{
+  "id": 7374244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374244",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374244,
+    "tgn:name":"La Manga Larga",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.383333,21.45],"type":"Point"}
+}

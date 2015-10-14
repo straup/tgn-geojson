@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.716667,25.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7379069","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379069,"name:xx":"Rancho Maravillas"}}
+{
+  "id": 7379069,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379069",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379069,
+    "tgn:name":"Rancho Maravillas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.716667,25.733333],"type":"Point"}
+}

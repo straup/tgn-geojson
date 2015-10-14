@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.653804,24.310318]},"type":"Feature","properties":{"hierarchy":["tgn:7480378","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7480378,"name:xx":"Beiluomawang Shan"}}
+{
+  "id": 7480378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480378",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480378,
+    "tgn:name":"Beiluomawang Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.653804,24.310318],"type":"Point"}
+}

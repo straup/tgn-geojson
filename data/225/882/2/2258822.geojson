@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.516700,37.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2258822","tgn:1000001","tgn:7012149","tgn:2000218","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2258822,"name:xx":"Cottonwood Creek"}}
+{
+  "id": 2258822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258822",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000218",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258822,
+    "tgn:name":"Cottonwood Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5167,37.8333],"type":"Point"}
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1108722,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1108722",
+        "tgn:7008531",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":1108722,
+    "tgn:name:en":"Tuscan Apennines",
+    "tgn:name:it":"Appennino Tosco-Emiliano",
+    "tgn:placetype":[
+        "aat:300386831",
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.5,44.0],"type":"Point"}
+}

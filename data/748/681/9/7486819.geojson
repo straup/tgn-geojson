@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.989177,25.013947]},"type":"Feature","properties":{"hierarchy":["tgn:7486819","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486819,"name:xx":"Fulianjie"}}
+{
+  "id": 7486819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486819",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486819,
+    "tgn:name":"Fulianjie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.989177,25.013947],"type":"Point"}
+}

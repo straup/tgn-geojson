@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.400000,19.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7360386","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360386,"name:xx":"Copal, Cerro"}}
+{
+  "id": 7360386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360386",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360386,
+    "tgn:name":"Copal, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.4,19.883333],"type":"Point"}
+}

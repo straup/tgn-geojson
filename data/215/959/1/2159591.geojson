@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.666700,38.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2159591","tgn:1000001","tgn:2002256","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2159591,"name:xx":"Bee Run"}}
+{
+  "id": 2159591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159591",
+        "tgn:1000001",
+        "tgn:2002256",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159591,
+    "tgn:name":"Bee Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.6667,38.6667],"type":"Point"}
+}

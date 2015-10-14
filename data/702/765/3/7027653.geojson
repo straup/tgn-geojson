@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.050000,52.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7027653","tgn:7010948","tgn:7002445","tgn:1000003","tgn:7026515","tgn:7008591","tgn:7029392"],"placetype":["aat:300387331"],"id":7027653,"name:xx":"Scraptoft"}}
+{
+  "id": 7027653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027653",
+        "tgn:7010948",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026515",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027653,
+    "tgn:name":"Scraptoft",
+    "tgn:placetype":[
+        "aat:300387331"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.05,52.65],"type":"Point"}
+}

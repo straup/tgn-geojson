@@ -1,0 +1,24 @@
+{
+  "id": 7005080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005080",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005080,
+    "tgn:name":"Gelsenkirchen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.05,51.516667],"type":"Point"}
+}

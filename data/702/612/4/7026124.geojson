@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-60.200000,46.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7026124","tgn:7005685","tgn:1000001","tgn:7005802","tgn:7029392"],"placetype":["aat:300008706"],"id":7026124,"name:xx":"Wentworth Creek"}}
+{
+  "id": 7026124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026124",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005802",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026124,
+    "tgn:name":"Wentworth Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-60.2,46.1333],"type":"Point"}
+}

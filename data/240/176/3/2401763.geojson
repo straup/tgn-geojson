@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.750000,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2401763","tgn:2000999","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2401763,"name:xx":"Horseshoe Lake"}}
+{
+  "id": 2401763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401763",
+        "tgn:2000999",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401763,
+    "tgn:name":"Horseshoe Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.75,46.4],"type":"Point"}
+}

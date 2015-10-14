@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.650000,19.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7379960","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7379960,"name:xx":"Mast\u00fan Grande, Punta"}}
+{
+  "id": 7379960,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379960",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379960,
+    "tgn:name":"Mast\u00fan Grande, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.65,19.766667],"type":"Point"}
+}

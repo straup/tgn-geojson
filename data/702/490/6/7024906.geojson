@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.316667,46.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7024906","tgn:7024835","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7024906,"name:xx":"Crodo"}}
+{
+  "id": 7024906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024906",
+        "tgn:7024835",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024906,
+    "tgn:name":"Crodo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.316667,46.216667],"type":"Point"}
+}

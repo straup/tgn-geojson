@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,51.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7119492","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7119492,"name:xx":"F\u00f6rsterei Pretzschau"}}
+{
+  "id": 7119492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119492",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119492,
+    "tgn:name":"F\u00f6rsterei Pretzschau",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,51.566667],"type":"Point"}
+}

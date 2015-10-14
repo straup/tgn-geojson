@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.455833,24.102778]},"type":"Feature","properties":{"hierarchy":["tgn:7485121","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300004792"],"id":7485121,"name:xx":"Taidian Gongsi"}}
+{
+  "id": 7485121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485121",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485121,
+    "tgn:name":"Taidian Gongsi",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.455833,24.102778],"type":"Point"}
+}

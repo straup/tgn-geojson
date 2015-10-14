@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.718363,24.425690]},"type":"Feature","properties":{"hierarchy":["tgn:7481521","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481521,"name:xx":"Bidan Xi"}}
+{
+  "id": 7481521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481521",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481521,
+    "tgn:name":"Bidan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.718363,24.42569],"type":"Point"}
+}

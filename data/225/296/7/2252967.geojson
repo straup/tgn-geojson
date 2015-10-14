@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.933300,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2252967","tgn:1000001","tgn:1002295","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2252967,"name:xx":"Conser Run"}}
+{
+  "id": 2252967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252967",
+        "tgn:1000001",
+        "tgn:1002295",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252967,
+    "tgn:name":"Conser Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9333,40.8],"type":"Point"}
+}

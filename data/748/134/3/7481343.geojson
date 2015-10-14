@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.574581,22.569904]},"type":"Feature","properties":{"hierarchy":["tgn:7481343","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481343,"name:xx":"Wanluan Guozhong"}}
+{
+  "id": 7481343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481343",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481343,
+    "tgn:name":"Wanluan Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.574581,22.569904],"type":"Point"}
+}

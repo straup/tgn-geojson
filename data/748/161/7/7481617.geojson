@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.571667,22.724213]},"type":"Feature","properties":{"hierarchy":["tgn:7481617","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000241"],"id":7481617,"name:xx":"Pingdong Tangchang Muniuchang"}}
+{
+  "id": 7481617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481617",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481617,
+    "tgn:name":"Pingdong Tangchang Muniuchang",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.571667,22.724213],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.162644,25.068464]},"type":"Feature","properties":{"hierarchy":["tgn:7478042","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478042,"name:xx":"Tianzhongyang"}}
+{
+  "id": 7478042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478042",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478042,
+    "tgn:name":"Tianzhongyang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.162644,25.068464],"type":"Point"}
+}

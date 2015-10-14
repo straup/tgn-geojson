@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.583333,50.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7248393","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7248393,"name:xx":"Beumont, Bois de"}}
+{
+  "id": 7248393,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248393",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248393,
+    "tgn:name":"Beumont, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.583333,50.716667],"type":"Point"}
+}

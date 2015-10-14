@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.831737,25.126584]},"type":"Feature","properties":{"hierarchy":["tgn:7478029","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008746"],"id":7478029,"name:xx":"Bianfu Dong"}}
+{
+  "id": 7478029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478029",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478029,
+    "tgn:name":"Bianfu Dong",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.831737,25.126584],"type":"Point"}
+}

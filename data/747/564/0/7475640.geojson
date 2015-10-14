@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.517639,23.760594]},"type":"Feature","properties":{"hierarchy":["tgn:7475640","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475640,"name:xx":"Xiamayuan Qiao"}}
+{
+  "id": 7475640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475640",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475640,
+    "tgn:name":"Xiamayuan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.517639,23.760594],"type":"Point"}
+}

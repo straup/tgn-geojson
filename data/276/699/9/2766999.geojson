@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.466700,32.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2766999","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000100","tgn:7029392"],"placetype":["aat:300266640"],"id":2766999,"name:xx":"White Ridge"}}
+{
+  "id": 2766999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766999",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000100",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766999,
+    "tgn:name":"White Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4667,32.2833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.366667,24.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7470022","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7470022,"name:xx":"Zhong Yu"}}
+{
+  "id": 7470022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470022",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470022,
+    "tgn:name":"Zhong Yu",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.366667,24.533333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.800000,29.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2761756","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008707"],"id":2761756,"name:xx":"West Prong Atascosa River"}}
+{
+  "id": 2761756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761756",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761756,
+    "tgn:name":"West Prong Atascosa River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8,29.2333],"type":"Point"}
+}

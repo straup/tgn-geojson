@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.471779,23.799431]},"type":"Feature","properties":{"hierarchy":["tgn:7471920","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7471920,"name:xx":"Xiluo Tifang"}}
+{
+  "id": 7471920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471920",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471920,
+    "tgn:name":"Xiluo Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.471779,23.799431],"type":"Point"}
+}

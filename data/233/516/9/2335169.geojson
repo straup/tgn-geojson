@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.300000,38.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2335169","tgn:1000001","tgn:7012149","tgn:2002299","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2335169,"name:xx":"Fort Branch"}}
+{
+  "id": 2335169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335169",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002299",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335169,
+    "tgn:name":"Fort Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3,38.2],"type":"Point"}
+}

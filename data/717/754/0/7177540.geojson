@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.533333,54.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7177540","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177540,"name:xx":"Hanshagen"}}
+{
+  "id": 7177540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177540",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177540,
+    "tgn:name":"Hanshagen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.533333,54.05],"type":"Point"}
+}

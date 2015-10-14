@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-146.716700,60.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2153905","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008850"],"id":2153905,"name:xx":"Bear Cape"}}
+{
+  "id": 2153905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153905",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153905,
+    "tgn:name":"Bear Cape",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-146.7167,60.3333],"type":"Point"}
+}

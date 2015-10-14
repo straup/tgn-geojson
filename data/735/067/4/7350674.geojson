@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.900000,27.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7350674","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350674,"name:xx":"Bah\u00eda Tortugas"}}
+{
+  "id": 7350674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350674",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350674,
+    "tgn:name":"Bah\u00eda Tortugas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.9,27.7],"type":"Point"}
+}

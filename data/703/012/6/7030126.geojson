@@ -1,0 +1,24 @@
+{
+  "id": 7030126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030126",
+        "tgn:7024123",
+        "tgn:1000003",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030126,
+    "tgn:name:de":"Bad Warmbrunn",
+    "tgn:name:en":"Bad Warmbrunn",
+    "tgn:name:pl":"Cieplice \u015al\u0105skie Zdr\u00f3j",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.677,50.863],"type":"Point"}
+}

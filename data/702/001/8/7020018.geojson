@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.566700,43.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7020018","tgn:1000001","tgn:7012149","tgn:2002384","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":7020018,"name:xx":"Hardeman Reservoir"}}
+{
+  "id": 7020018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020018",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002384",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020018,
+    "tgn:name":"Hardeman Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5667,43.6833],"type":"Point"}
+}

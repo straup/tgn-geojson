@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.050000,47.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2408915","tgn:1000001","tgn:7012149","tgn:2002249","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2408915,"name:xx":"Hysing Spring"}}
+{
+  "id": 2408915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408915",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002249",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408915,
+    "tgn:name":"Hysing Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.05,47.8333],"type":"Point"}
+}

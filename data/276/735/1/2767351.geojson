@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.466700,32.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2767351","tgn:1000001","tgn:2001435","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300055621"],"id":2767351,"name:xx":"White Sands Missle Range Post Area"}}
+{
+  "id": 2767351,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767351",
+        "tgn:1000001",
+        "tgn:2001435",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767351,
+    "tgn:name":"White Sands Missle Range Post Area",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4667,32.3667],"type":"Point"}
+}

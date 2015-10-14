@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.542000,53.867000]},"type":"Feature","properties":{"hierarchy":["tgn:7028983","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028983,"name:xx":"Gardham"}}
+{
+  "id": 7028983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028983",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028983,
+    "tgn:name":"Gardham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.542,53.867],"type":"Point"}
+}

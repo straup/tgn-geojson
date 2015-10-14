@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.474000,53.785000]},"type":"Feature","properties":{"hierarchy":["tgn:7029331","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029331,"name:xx":"Risby"}}
+{
+  "id": 7029331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029331",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029331,
+    "tgn:name":"Risby",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.474,53.785],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.000000,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2404068","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2404068,"name:xx":"Howells Brook"}}
+{
+  "id": 2404068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404068",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404068,
+    "tgn:name":"Howells Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.0,42.0333],"type":"Point"}
+}

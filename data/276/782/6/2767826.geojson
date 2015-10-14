@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.400000,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2767826","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000186","tgn:7029392"],"placetype":["aat:300006191"],"id":2767826,"name:xx":"Whitehorse Flat Reservoir"}}
+{
+  "id": 2767826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767826",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000186",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767826,
+    "tgn:name":"Whitehorse Flat Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4,41.2833],"type":"Point"}
+}

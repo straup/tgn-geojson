@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.545000,23.020278]},"type":"Feature","properties":{"hierarchy":["tgn:7483361","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483361,"name:xx":"Muzi Qiao"}}
+{
+  "id": 7483361,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483361",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483361,
+    "tgn:name":"Muzi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.545,23.020278],"type":"Point"}
+}

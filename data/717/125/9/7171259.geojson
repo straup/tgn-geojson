@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.733333,49.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7171259","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7171259,"name:xx":"Hirschfelderhof"}}
+{
+  "id": 7171259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171259",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171259,
+    "tgn:name":"Hirschfelderhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.733333,49.583333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.842396,50.614363]},"type":"Feature","properties":{"hierarchy":["tgn:7243465","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243465,"name:xx":"Les Trieux"}}
+{
+  "id": 7243465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243465",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243465,
+    "tgn:name":"Les Trieux",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.842396,50.614363],"type":"Point"}
+}

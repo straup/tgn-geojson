@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,25.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7371518","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371518,"name:xx":"Rancho La Higuera"}}
+{
+  "id": 7371518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371518",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371518,
+    "tgn:name":"Rancho La Higuera",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,25.633333],"type":"Point"}
+}

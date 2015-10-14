@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.383300,31.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2150500","tgn:2000295","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2150500,"name:xx":"Basin Pond"}}
+{
+  "id": 2150500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150500",
+        "tgn:2000295",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150500,
+    "tgn:name":"Basin Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3833,31.3333],"type":"Point"}
+}

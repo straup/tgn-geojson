@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.950000,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2256874","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2256874,"name:xx":"Corkscrew Lake"}}
+{
+  "id": 2256874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256874",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256874,
+    "tgn:name":"Corkscrew Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.95,45.1833],"type":"Point"}
+}

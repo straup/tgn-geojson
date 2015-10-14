@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2764528","tgn:1000001","tgn:7012149","tgn:1002917","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2764528,"name:xx":"Whipple Heights"}}
+{
+  "id": 2764528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764528",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002917",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764528,
+    "tgn:name":"Whipple Heights",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,40.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.587892,22.620191]},"type":"Feature","properties":{"hierarchy":["tgn:7489370","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489370,"name:xx":"Yiting Cun"}}
+{
+  "id": 7489370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489370",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489370,
+    "tgn:name":"Yiting Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.587892,22.620191],"type":"Point"}
+}

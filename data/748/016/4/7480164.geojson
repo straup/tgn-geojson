@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.057500,24.921389]},"type":"Feature","properties":{"hierarchy":["tgn:7480164","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480164,"name:xx":"Liugu Qiao"}}
+{
+  "id": 7480164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480164",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480164,
+    "tgn:name":"Liugu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.0575,24.921389],"type":"Point"}
+}

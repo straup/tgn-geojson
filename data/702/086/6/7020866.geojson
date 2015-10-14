@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-79.533300,42.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7020866","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7020866,"name:xx":"Little Brokenstraw Creek"}}
+{
+  "id": 7020866,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020866",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020866,
+    "tgn:name":"Little Brokenstraw Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.5333,42.0833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.012500,39.261389]},"type":"Feature","properties":{"hierarchy":["tgn:7052121","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052121,"name:xx":"Mannu, Riu"}}
+{
+  "id": 7052121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052121",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052121,
+    "tgn:name":"Mannu, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.0125,39.261389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.633300,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2253613","tgn:1000001","tgn:7012149","tgn:2000371","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2253613,"name:xx":"Cook Lake North"}}
+{
+  "id": 2253613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253613",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000371",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253613,
+    "tgn:name":"Cook Lake North",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6333,31.8833],"type":"Point"}
+}

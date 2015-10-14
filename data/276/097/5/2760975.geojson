@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.733300,39.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2760975","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002937","tgn:7029392"],"placetype":["aat:300006075"],"id":2760975,"name:xx":"West Interception Canal"}}
+{
+  "id": 2760975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760975",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002937",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760975,
+    "tgn:name":"West Interception Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7333,39.1667],"type":"Point"}
+}

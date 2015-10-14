@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.916667,19.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7371232","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371232,"name:xx":"Guzmantla"}}
+{
+  "id": 7371232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371232",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371232,
+    "tgn:name":"Guzmantla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.916667,19.0],"type":"Point"}
+}

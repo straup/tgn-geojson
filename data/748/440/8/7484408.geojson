@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.585833,23.064444]},"type":"Feature","properties":{"hierarchy":["tgn:7484408","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484408,"name:xx":"Nanpingbu"}}
+{
+  "id": 7484408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484408",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484408,
+    "tgn:name":"Nanpingbu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.585833,23.064444],"type":"Point"}
+}

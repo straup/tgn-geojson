@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.316667,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7178093","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7178093,"name:xx":"Hafering"}}
+{
+  "id": 7178093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178093",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178093,
+    "tgn:name":"Hafering",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.316667,48.5],"type":"Point"}
+}

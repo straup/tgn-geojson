@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.866700,34.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2760745","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000046","tgn:7029392"],"placetype":["aat:300008699"],"id":2760745,"name:xx":"West Gowder Branch"}}
+{
+  "id": 2760745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760745",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000046",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760745,
+    "tgn:name":"West Gowder Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8667,34.2833],"type":"Point"}
+}

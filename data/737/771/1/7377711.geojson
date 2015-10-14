@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.116667,25.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7377711","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377711,"name:xx":"La Soledad"}}
+{
+  "id": 7377711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377711",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377711,
+    "tgn:name":"La Soledad",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.116667,25.5],"type":"Point"}
+}

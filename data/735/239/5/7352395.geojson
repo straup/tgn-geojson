@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.608333,20.929167]},"type":"Feature","properties":{"hierarchy":["tgn:7352395","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352395,"name:xx":"Amajaquillo"}}
+{
+  "id": 7352395,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352395",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352395,
+    "tgn:name":"Amajaquillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.608333,20.929167],"type":"Point"}
+}

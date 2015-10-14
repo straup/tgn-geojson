@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.350000,47.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2760111","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760111,"name:xx":"West Fork Pine Creek"}}
+{
+  "id": 2760111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760111",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760111,
+    "tgn:name":"West Fork Pine Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.35,47.4],"type":"Point"}
+}

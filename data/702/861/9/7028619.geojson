@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.542000,52.585000]},"type":"Feature","properties":{"hierarchy":["tgn:7028619","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028619,"name:xx":"Southwood"}}
+{
+  "id": 7028619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028619",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028619,
+    "tgn:name":"Southwood",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.542,52.585],"type":"Point"}
+}

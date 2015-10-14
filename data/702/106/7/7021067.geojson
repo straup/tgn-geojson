@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.766700,46.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7021067","tgn:2000999","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":7021067,"name:xx":"Browns Lake"}}
+{
+  "id": 7021067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021067",
+        "tgn:2000999",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021067,
+    "tgn:name":"Browns Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.7667,46.6667],"type":"Point"}
+}

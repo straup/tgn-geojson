@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.683333,26.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7351181","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7351181,"name:xx":"Bocatoche, Valle de"}}
+{
+  "id": 7351181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351181",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351181,
+    "tgn:name":"Bocatoche, Valle de",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.683333,26.5],"type":"Point"}
+}

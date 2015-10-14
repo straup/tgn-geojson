@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.783333,41.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7051499","tgn:7003002","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051499,"name:xx":"Petruro"}}
+{
+  "id": 7051499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051499",
+        "tgn:7003002",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051499,
+    "tgn:name":"Petruro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.783333,41.033333],"type":"Point"}
+}

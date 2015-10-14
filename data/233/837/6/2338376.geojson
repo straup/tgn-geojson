@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.900000,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2338376","tgn:1000001","tgn:7012149","tgn:7014350","tgn:7007922","tgn:7029392"],"placetype":["aat:300008347"],"id":2338376,"name:xx":"Foxhollow"}}
+{
+  "id": 2338376,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338376",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014350",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338376,
+    "tgn:name":"Foxhollow",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.9,42.5],"type":"Point"}
+}

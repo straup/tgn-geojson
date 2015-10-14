@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-106.900000,44.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023023","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7023023,"name:xx":"Gladewater Ditch"}}
+{
+  "id": 7023023,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023023",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023023,
+    "tgn:name":"Gladewater Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9,44.9833],"type":"Point"}
+}

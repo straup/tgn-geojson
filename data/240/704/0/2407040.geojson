@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.250000,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2407040","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008699"],"id":2407040,"name:xx":"Hunter Slough"}}
+{
+  "id": 2407040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407040",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407040,
+    "tgn:name":"Hunter Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.25,39.8833],"type":"Point"}
+}

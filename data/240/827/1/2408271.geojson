@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.350000,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2408271","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2408271,"name:xx":"Hush Lake"}}
+{
+  "id": 2408271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408271",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408271,
+    "tgn:name":"Hush Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.35,47.85],"type":"Point"}
+}

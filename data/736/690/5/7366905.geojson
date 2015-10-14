@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.583333,28.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7366905","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366905,"name:xx":"Rancho El Tr\u00e9bol"}}
+{
+  "id": 7366905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366905",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366905,
+    "tgn:name":"Rancho El Tr\u00e9bol",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.583333,28.8],"type":"Point"}
+}

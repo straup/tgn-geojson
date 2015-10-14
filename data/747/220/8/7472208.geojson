@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.501131,23.757756]},"type":"Feature","properties":{"hierarchy":["tgn:7472208","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7472208,"name:xx":"Tianyao Gong"}}
+{
+  "id": 7472208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472208",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472208,
+    "tgn:name":"Tianyao Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.501131,23.757756],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1025029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1025029",
+        "tgn:1001891",
+        "tgn:1000002",
+        "tgn:1000059",
+        "tgn:7029392"
+    ],
+    "tgn:id":1025029,
+    "tgn:name":"Barquisimeto",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387221",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.3333,10.0667],"type":"Point"}
+}

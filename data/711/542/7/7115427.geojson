@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.733333,50.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7115427","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115427,"name:xx":"Paffrath"}}
+{
+  "id": 7115427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115427",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115427,
+    "tgn:name":"Paffrath",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.733333,50.75],"type":"Point"}
+}

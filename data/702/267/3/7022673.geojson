@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.866700,30.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7022673","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":7022673,"name:xx":"Walnut Spring Creek"}}
+{
+  "id": 7022673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022673",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022673,
+    "tgn:name":"Walnut Spring Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8667,30.4833],"type":"Point"}
+}

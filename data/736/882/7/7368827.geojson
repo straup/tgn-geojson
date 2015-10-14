@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.500000,19.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7368827","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368827,"name:xx":"Hobom\u00f3"}}
+{
+  "id": 7368827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368827",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368827,
+    "tgn:name":"Hobom\u00f3",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5,19.6],"type":"Point"}
+}

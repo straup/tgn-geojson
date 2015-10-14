@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.583300,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2255670","tgn:1000001","tgn:7012149","tgn:1002928","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2255670,"name:xx":"Copley Junction"}}
+{
+  "id": 2255670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255670",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002928",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255670,
+    "tgn:name":"Copley Junction",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5833,41.1],"type":"Point"}
+}

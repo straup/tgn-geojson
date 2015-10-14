@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.950000,15.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7368569","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368569,"name:xx":"Hidalgo Novillero"}}
+{
+  "id": 7368569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368569",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368569,
+    "tgn:name":"Hidalgo Novillero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.95,15.483333],"type":"Point"}
+}

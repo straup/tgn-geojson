@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.150000,34.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2255588","tgn:1000001","tgn:7012149","tgn:2001755","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2255588,"name:xx":"Copeland Pond"}}
+{
+  "id": 2255588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255588",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001755",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255588,
+    "tgn:name":"Copeland Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.15,34.1667],"type":"Point"}
+}

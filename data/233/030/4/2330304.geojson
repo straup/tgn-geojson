@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.466700,45.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2330304","tgn:1000001","tgn:2001265","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2330304,"name:xx":"Flasted Spring"}}
+{
+  "id": 2330304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330304",
+        "tgn:1000001",
+        "tgn:2001265",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330304,
+    "tgn:name":"Flasted Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4667,45.9],"type":"Point"}
+}

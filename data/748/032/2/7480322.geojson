@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.232778,24.910000]},"type":"Feature","properties":{"hierarchy":["tgn:7480322","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7480322,"name:xx":"Dongshi Guoxiao"}}
+{
+  "id": 7480322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480322",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480322,
+    "tgn:name":"Dongshi Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.232778,24.91],"type":"Point"}
+}

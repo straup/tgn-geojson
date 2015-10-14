@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.566700,43.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2259523","tgn:1000001","tgn:7012149","tgn:2002386","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2259523,"name:xx":"Cottonwood Trail Reservoir"}}
+{
+  "id": 2259523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259523",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002386",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259523,
+    "tgn:name":"Cottonwood Trail Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5667,43.7],"type":"Point"}
+}

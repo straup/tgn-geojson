@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.333300,29.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2407232","tgn:1000001","tgn:7012149","tgn:1002456","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2407232,"name:xx":"Hunting Bayou"}}
+{
+  "id": 2407232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407232",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002456",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407232,
+    "tgn:name":"Hunting Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.3333,29.7833],"type":"Point"}
+}

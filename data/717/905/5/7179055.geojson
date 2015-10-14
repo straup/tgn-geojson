@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.416667,48.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7179055","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300266640"],"id":7179055,"name:xx":"Guckenberg"}}
+{
+  "id": 7179055,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179055",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179055,
+    "tgn:name":"Guckenberg",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.416667,48.433333],"type":"Point"}
+}

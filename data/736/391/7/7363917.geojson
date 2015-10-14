@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.666667,15.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7363917","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363917,"name:xx":"El Choj\u00f3n"}}
+{
+  "id": 7363917,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363917",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363917,
+    "tgn:name":"El Choj\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.666667,15.233333],"type":"Point"}
+}

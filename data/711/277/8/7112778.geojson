@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.500000,53.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7112778","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008713"],"id":7112778,"name:xx":"Riffgat"}}
+{
+  "id": 7112778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112778",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112778,
+    "tgn:name":"Riffgat",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.5,53.633333],"type":"Point"}
+}

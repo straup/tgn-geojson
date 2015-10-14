@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.098333,23.515000]},"type":"Feature","properties":{"hierarchy":["tgn:7475385","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007741"],"id":7475385,"name:xx":"Wengangdui Dengta"}}
+{
+  "id": 7475385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475385",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475385,
+    "tgn:name":"Wengangdui Dengta",
+    "tgn:placetype":[
+        "aat:300007741"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.098333,23.515],"type":"Point"}
+}

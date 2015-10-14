@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.150000,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2769570","tgn:1000001","tgn:7012149","tgn:2001758","tgn:7007712","tgn:7029392"],"placetype":["aat:300008680"],"id":2769570,"name:xx":"Widow Lake"}}
+{
+  "id": 2769570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769570",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001758",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769570,
+    "tgn:name":"Widow Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.15,34.2],"type":"Point"}
+}

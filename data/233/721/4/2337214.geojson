@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.383300,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2337214","tgn:1000001","tgn:7012149","tgn:2000928","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2337214,"name:xx":"Fourth Davis Pond"}}
+{
+  "id": 2337214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337214",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000928",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337214,
+    "tgn:name":"Fourth Davis Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.3833,45.25],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7000889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000889",
+        "tgn:7001242",
+        "tgn:7030583",
+        "tgn:1000198",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000889,
+    "tgn:name:af":"Walvisbaai",
+    "tgn:name:en":"Walvis Bay",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300008678",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.5167,-22.9833],"type":"Point"}
+}

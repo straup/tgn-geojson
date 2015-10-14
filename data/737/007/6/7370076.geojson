@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.116667,23.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7370076","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7370076,"name:xx":"Guapilla, Loma la"}}
+{
+  "id": 7370076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370076",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370076,
+    "tgn:name":"Guapilla, Loma la",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.116667,23.016667],"type":"Point"}
+}

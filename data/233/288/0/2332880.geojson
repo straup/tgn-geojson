@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.433300,32.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2332880","tgn:7002659","tgn:1000001","tgn:2000008","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2332880,"name:xx":"Floyds Lake"}}
+{
+  "id": 2332880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332880",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000008",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332880,
+    "tgn:name":"Floyds Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4333,32.7333],"type":"Point"}
+}

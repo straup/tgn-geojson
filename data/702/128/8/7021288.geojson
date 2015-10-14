@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-88.750000,32.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7021288","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021288,"name:xx":"Sucarnoochie River"}}
+{
+  "id": 7021288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021288",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021288,
+    "tgn:name":"Sucarnoochie River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.75,32.7667],"type":"Point"}
+}

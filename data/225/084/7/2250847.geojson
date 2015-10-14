@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-150.866700,62.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2250847","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2250847,"name:xx":"Columbia Creek"}}
+{
+  "id": 2250847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250847",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250847,
+    "tgn:name":"Columbia Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-150.8667,62.55],"type":"Point"}
+}

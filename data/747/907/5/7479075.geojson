@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.362500,24.429722]},"type":"Feature","properties":{"hierarchy":["tgn:7479075","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7479075,"name:xx":"Nanshan Linwusuo"}}
+{
+  "id": 7479075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479075",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479075,
+    "tgn:name":"Nanshan Linwusuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.3625,24.429722],"type":"Point"}
+}

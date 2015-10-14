@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.500000,21.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7374932","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374932,"name:xx":"Labor de Gamboa"}}
+{
+  "id": 7374932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374932",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374932,
+    "tgn:name":"Labor de Gamboa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.5,21.416667],"type":"Point"}
+}

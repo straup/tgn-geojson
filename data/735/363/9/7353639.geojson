@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.716667,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7353639","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353639,"name:xx":"Bermeillo, Sierra de"}}
+{
+  "id": 7353639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353639",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353639,
+    "tgn:name":"Bermeillo, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.716667,25.966667],"type":"Point"}
+}

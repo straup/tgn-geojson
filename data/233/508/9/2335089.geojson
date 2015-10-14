@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.866700,38.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2335089","tgn:1000001","tgn:7012149","tgn:2002116","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2335089,"name:xx":"Forshea Spring"}}
+{
+  "id": 2335089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335089",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002116",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335089,
+    "tgn:name":"Forshea Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8667,38.2167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.933333,43.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7056582","tgn:1003483","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056582,"name:xx":"Bevano, Fosso"}}
+{
+  "id": 7056582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056582",
+        "tgn:1003483",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056582,
+    "tgn:name":"Bevano, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.933333,43.833333],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.300000,51.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7025969","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7025969,"name:xx":"West Stour"}}
+{
+  "id": 7025969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025969",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025969,
+    "tgn:name":"West Stour",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.3,51.0],"type":"Point"}
+}

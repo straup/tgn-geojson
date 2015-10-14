@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.683333,51.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7113479","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300132356"],"id":7113479,"name:xx":"Riepen"}}
+{
+  "id": 7113479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113479",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113479,
+    "tgn:name":"Riepen",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.683333,51.733333],"type":"Point"}
+}

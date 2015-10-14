@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.066667,51.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7171013","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7171013,"name:xx":"Hengstberg"}}
+{
+  "id": 7171013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171013",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171013,
+    "tgn:name":"Hengstberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.066667,51.516667],"type":"Point"}
+}

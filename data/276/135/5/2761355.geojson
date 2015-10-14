@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.050000,42.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2761355","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2761355,"name:xx":"West Mine Reservoir"}}
+{
+  "id": 2761355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761355",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761355,
+    "tgn:name":"West Mine Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.05,42.0667],"type":"Point"}
+}

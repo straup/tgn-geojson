@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.983333,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7026849","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Upper Farringdon","id":7026849}}
+{
+  "id": 7026849,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026849",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026849,
+    "tgn:name:en":"Upper Farringdon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.983333,51.1],"type":"Point"}
+}

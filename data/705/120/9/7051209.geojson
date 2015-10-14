@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.283333,40.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7051209","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7051209,"name:xx":"Stazione Napoli Smistamento"}}
+{
+  "id": 7051209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051209",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051209,
+    "tgn:name":"Stazione Napoli Smistamento",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.283333,40.85],"type":"Point"}
+}

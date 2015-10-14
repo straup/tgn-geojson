@@ -1,0 +1,21 @@
+{
+  "id": 1000621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000621",
+        "tgn:1000001",
+        "tgn:7005493",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000621,
+    "tgn:name":"Guatemala",
+    "tgn:placetype":[
+        "aat:300008631",
+        "aat:300387064",
+        "aat:300000772"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5,14.6667],"type":"Point"}
+}

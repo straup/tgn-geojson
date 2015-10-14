@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.416700,38.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7021474","tgn:1000001","tgn:7012149","tgn:2002300","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021474,"name:xx":"Mill Branch"}}
+{
+  "id": 7021474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021474",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002300",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021474,
+    "tgn:name":"Mill Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4167,38.3333],"type":"Point"}
+}

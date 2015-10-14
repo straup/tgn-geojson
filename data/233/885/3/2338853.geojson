@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.066700,38.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2338853","tgn:1000001","tgn:2000939","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2338853,"name:xx":"Frankford"}}
+{
+  "id": 2338853,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338853",
+        "tgn:1000001",
+        "tgn:2000939",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338853,
+    "tgn:name":"Frankford",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0667,38.7333],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2025740,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2025740",
+        "tgn:1000001",
+        "tgn:2000461",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2025740,
+    "tgn:name":"Idaho Falls",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387299",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0333,43.4667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-145.583300,60.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2406198","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008706"],"id":2406198,"name:xx":"Humpback Creek"}}
+{
+  "id": 2406198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406198",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406198,
+    "tgn:name":"Humpback Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.5833,60.6333],"type":"Point"}
+}

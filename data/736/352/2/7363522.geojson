@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.633333,22.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7363522","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363522,"name:xx":"El Gato"}}
+{
+  "id": 7363522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363522",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363522,
+    "tgn:name":"El Gato",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.633333,22.166667],"type":"Point"}
+}

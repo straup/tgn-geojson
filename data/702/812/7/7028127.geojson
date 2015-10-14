@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-0.406000,52.802000]},"type":"Feature","properties":{"hierarchy":["tgn:7028127","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387007","aat:300008372"],"id":7028127,"name:xx":"Stainfield"}}
+{
+  "id": 7028127,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028127",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028127,
+    "tgn:name":"Stainfield",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.406,52.802],"type":"Point"}
+}

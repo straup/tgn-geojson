@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-123.716700,43.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2769009","tgn:1000001","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2769009,"name:xx":"Whittaker Creek"}}
+{
+  "id": 2769009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769009",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769009,
+    "tgn:name":"Whittaker Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.7167,43.9333],"type":"Point"}
+}

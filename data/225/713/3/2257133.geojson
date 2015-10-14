@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.116700,57.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2257133","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300008706"],"id":2257133,"name:xx":"Corner Creek"}}
+{
+  "id": 2257133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257133",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257133,
+    "tgn:name":"Corner Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.1167,57.6833],"type":"Point"}
+}

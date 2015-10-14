@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,28.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7376806","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7376806,"name:xx":"Las Manzanas, Arroyo"}}
+{
+  "id": 7376806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376806",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376806,
+    "tgn:name":"Las Manzanas, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,28.75],"type":"Point"}
+}

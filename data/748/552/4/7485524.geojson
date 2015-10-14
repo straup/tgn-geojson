@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.718611,22.028056]},"type":"Feature","properties":{"hierarchy":["tgn:7485524","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7485524,"name:xx":"Qiehu Sanhao Qiao"}}
+{
+  "id": 7485524,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485524",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485524,
+    "tgn:name":"Qiehu Sanhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.718611,22.028056],"type":"Point"}
+}

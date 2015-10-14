@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-145.583300,68.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2336306","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008680"],"id":2336306,"name:xx":"Found Fish Lake"}}
+{
+  "id": 2336306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336306",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336306,
+    "tgn:name":"Found Fish Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.5833,68.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.350000,24.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7374819","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374819,"name:xx":"Rancho La Cruz"}}
+{
+  "id": 7374819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374819",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374819,
+    "tgn:name":"Rancho La Cruz",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.35,24.75],"type":"Point"}
+}

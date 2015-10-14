@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.248611,23.573333]},"type":"Feature","properties":{"hierarchy":["tgn:7482829","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7482829,"name:xx":"Shuilin Guozhong"}}
+{
+  "id": 7482829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482829",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482829,
+    "tgn:name":"Shuilin Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.248611,23.573333],"type":"Point"}
+}

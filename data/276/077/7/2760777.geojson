@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.650000,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2760777","tgn:1000001","tgn:1003029","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008347"],"id":2760777,"name:xx":"West Guilford"}}
+{
+  "id": 2760777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760777",
+        "tgn:1000001",
+        "tgn:1003029",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760777,
+    "tgn:name":"West Guilford",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.65,42.8],"type":"Point"}
+}

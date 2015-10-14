@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.916700,36.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7021011","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386845","aat:300008761"],"id":7021011,"name:xx":"Monument Valley"}}
+{
+  "id": 7021011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021011",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021011,
+    "tgn:name":"Monument Valley",
+    "tgn:placetype":[
+        "aat:300386845",
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9167,36.9333],"type":"Point"}
+}

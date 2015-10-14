@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.516667,22.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7487156","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487156,"name:xx":"Linluo Xiang"}}
+{
+  "id": 7487156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487156",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487156,
+    "tgn:name":"Linluo Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.516667,22.65],"type":"Point"}
+}

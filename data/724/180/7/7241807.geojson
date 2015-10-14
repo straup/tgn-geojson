@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.771275,50.568280]},"type":"Feature","properties":{"hierarchy":["tgn:7241807","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241807,"name:xx":"Ladeuze"}}
+{
+  "id": 7241807,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241807",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241807,
+    "tgn:name":"Ladeuze",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.771275,50.56828],"type":"Point"}
+}

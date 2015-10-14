@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.380000,23.298889]},"type":"Feature","properties":{"hierarchy":["tgn:7484898","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7484898,"name:xx":"Jibeishua"}}
+{
+  "id": 7484898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484898",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484898,
+    "tgn:name":"Jibeishua",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.38,23.298889],"type":"Point"}
+}

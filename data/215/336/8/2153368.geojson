@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.833300,37.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2153368","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002869","tgn:7029392"],"placetype":["aat:300008798"],"id":2153368,"name:xx":"Bean Hill"}}
+{
+  "id": 2153368,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153368",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002869",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153368,
+    "tgn:name":"Bean Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8333,37.0167],"type":"Point"}
+}

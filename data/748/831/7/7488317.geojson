@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.710000,23.575000]},"type":"Feature","properties":{"hierarchy":["tgn:7488317","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488317,"name:xx":"Lukuzi"}}
+{
+  "id": 7488317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488317",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488317,
+    "tgn:name":"Lukuzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.71,23.575],"type":"Point"}
+}

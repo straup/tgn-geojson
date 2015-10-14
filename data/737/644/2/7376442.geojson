@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.983333,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7376442","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7376442,"name:xx":"Tanque La Taza"}}
+{
+  "id": 7376442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376442",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376442,
+    "tgn:name":"Tanque La Taza",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.983333,27.85],"type":"Point"}
+}

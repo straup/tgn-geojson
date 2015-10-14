@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.520556,23.234167]},"type":"Feature","properties":{"hierarchy":["tgn:7470039","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7470039,"name:xx":"Zhongzi Yan"}}
+{
+  "id": 7470039,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470039",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470039,
+    "tgn:name":"Zhongzi Yan",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.520556,23.234167],"type":"Point"}
+}

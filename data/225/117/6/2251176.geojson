@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.666700,35.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2251176","tgn:1000001","tgn:7012149","tgn:1002545","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2251176,"name:xx":"Comanche Creek"}}
+{
+  "id": 2251176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251176",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002545",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251176,
+    "tgn:name":"Comanche Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.6667,35.1],"type":"Point"}
+}

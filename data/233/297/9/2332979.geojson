@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.716700,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2332979","tgn:1000001","tgn:7012149","tgn:2001444","tgn:7007566","tgn:7029392"],"placetype":["aat:300266640"],"id":2332979,"name:xx":"Fluorite Ridge"}}
+{
+  "id": 2332979,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332979",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001444",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332979,
+    "tgn:name":"Fluorite Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7167,32.4],"type":"Point"}
+}

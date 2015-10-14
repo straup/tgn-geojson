@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.183333,17.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7378365","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300120599"],"id":7378365,"name:xx":"Puerto L\u00e1zaro C\u00e1rdenas"}}
+{
+  "id": 7378365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378365",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378365,
+    "tgn:name":"Puerto L\u00e1zaro C\u00e1rdenas",
+    "tgn:placetype":[
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.183333,17.916667],"type":"Point"}
+}

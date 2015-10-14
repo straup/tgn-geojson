@@ -1,0 +1,27 @@
+{
+  "id": 7269342,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1ac9a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749061",
+        "gp:id":732567,
+        "qs:id":2,
+        "wof:id":101807483
+    },
+    "tgn:hierarchy":[
+        "tgn:7269342",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7269342,
+    "tgn:name:nl":"Oudemirdum",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.533333,52.85],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7006999,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f05b9c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758682",
+        "gp:id":727842,
+        "qs:id":4,
+        "wof:id":101806099
+    },
+    "tgn:hierarchy":[
+        "tgn:7006999",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006999,
+    "tgn:name:nl":"Bolsward",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.533333,53.066667],"type":"Point"}
+}

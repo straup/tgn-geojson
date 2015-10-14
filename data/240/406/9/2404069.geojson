@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.833300,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2404069","tgn:1000001","tgn:2002146","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2404069,"name:xx":"Howells Caves"}}
+{
+  "id": 2404069,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404069",
+        "tgn:1000001",
+        "tgn:2002146",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404069,
+    "tgn:name":"Howells Caves",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8333,37.4333],"type":"Point"}
+}

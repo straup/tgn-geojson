@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.483300,30.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2159373","tgn:1000001","tgn:7012149","tgn:2002018","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2159373,"name:xx":"Bee Caves Creek"}}
+{
+  "id": 2159373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159373",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002018",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159373,
+    "tgn:name":"Bee Caves Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.4833,30.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.833333,51.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7116672","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7116672,"name:xx":"Orts-Berg"}}
+{
+  "id": 7116672,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116672",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116672,
+    "tgn:name":"Orts-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.833333,51.95],"type":"Point"}
+}

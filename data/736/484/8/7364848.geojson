@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.800000,20.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7364848","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364848,"name:xx":"El Zapote"}}
+{
+  "id": 7364848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364848",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364848,
+    "tgn:name":"El Zapote",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.8,20.3],"type":"Point"}
+}

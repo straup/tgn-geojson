@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.283300,36.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2766886","tgn:1000001","tgn:7012149","tgn:2001881","tgn:7007825","tgn:7029392"],"placetype":["aat:300008746"],"id":2766886,"name:xx":"White Pine Quarry Cave"}}
+{
+  "id": 2766886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766886",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001881",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766886,
+    "tgn:name":"White Pine Quarry Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2833,36.05],"type":"Point"}
+}

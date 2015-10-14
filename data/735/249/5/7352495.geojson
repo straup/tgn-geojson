@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.766667,26.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7352495","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7352495,"name:xx":"Buenaventura, Laguna de"}}
+{
+  "id": 7352495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352495",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352495,
+    "tgn:name":"Buenaventura, Laguna de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.766667,26.766667],"type":"Point"}
+}

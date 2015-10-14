@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.300000,27.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7365000","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7365000,"name:xx":"Frailes, Laguna de los"}}
+{
+  "id": 7365000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365000",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365000,
+    "tgn:name":"Frailes, Laguna de los",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.3,27.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.850000,34.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2769897","tgn:1000001","tgn:2001740","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2769897,"name:xx":"Wilbur Flowers Pond"}}
+{
+  "id": 2769897,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769897",
+        "tgn:1000001",
+        "tgn:2001740",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769897,
+    "tgn:name":"Wilbur Flowers Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.85,34.45],"type":"Point"}
+}

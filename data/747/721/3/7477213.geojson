@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.815208,25.107221]},"type":"Feature","properties":{"hierarchy":["tgn:7477213","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477213,"name:xx":"Ruifang Guozhong"}}
+{
+  "id": 7477213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477213",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477213,
+    "tgn:name":"Ruifang Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.815208,25.107221],"type":"Point"}
+}

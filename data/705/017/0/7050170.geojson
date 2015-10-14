@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.216667,42.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7050170","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7050170,"name:xx":"Lato, Monte"}}
+{
+  "id": 7050170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050170",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050170,
+    "tgn:name":"Lato, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.216667,42.433333],"type":"Point"}
+}

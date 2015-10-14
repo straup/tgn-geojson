@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.300000,21.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7372262","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372262,"name:xx":"La Ca\u00f1ada Verde"}}
+{
+  "id": 7372262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372262",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372262,
+    "tgn:name":"La Ca\u00f1ada Verde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.3,21.966667],"type":"Point"}
+}

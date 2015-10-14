@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.116667,19.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7350433","tgn:7005575","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008217"],"id":7350433,"name:xx":"Avenida Apatlaco"}}
+{
+  "id": 7350433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350433",
+        "tgn:7005575",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350433,
+    "tgn:name":"Avenida Apatlaco",
+    "tgn:placetype":[
+        "aat:300008217"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.116667,19.383333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.900000,47.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2403023","tgn:1000001","tgn:7012149","tgn:2000969","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2403023,"name:xx":"Houghton, Point"}}
+{
+  "id": 2403023,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403023",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000969",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403023,
+    "tgn:name":"Houghton, Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.9,47.9],"type":"Point"}
+}

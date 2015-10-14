@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.650000,26.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7366635","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366635,"name:xx":"Rancho El Topozan"}}
+{
+  "id": 7366635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366635",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366635,
+    "tgn:name":"Rancho El Topozan",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.65,26.216667],"type":"Point"}
+}

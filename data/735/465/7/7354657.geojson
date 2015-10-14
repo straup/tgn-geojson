@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.966667,24.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7354657","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7354657,"name:xx":"Catalina, Arroyo de"}}
+{
+  "id": 7354657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354657",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354657,
+    "tgn:name":"Catalina, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.966667,24.5],"type":"Point"}
+}

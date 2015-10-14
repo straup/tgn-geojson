@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.828772,24.392648]},"type":"Feature","properties":{"hierarchy":["tgn:7486785","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486785,"name:xx":"Bai'erfen"}}
+{
+  "id": 7486785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486785",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486785,
+    "tgn:name":"Bai'erfen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.828772,24.392648],"type":"Point"}
+}

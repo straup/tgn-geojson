@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.716700,36.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2156409","tgn:1000001","tgn:7012149","tgn:7014128","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2156409,"name:xx":"Bearskin Creek"}}
+{
+  "id": 2156409,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156409",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014128",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156409,
+    "tgn:name":"Bearskin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7167,36.4],"type":"Point"}
+}

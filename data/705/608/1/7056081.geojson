@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.800000,45.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7056081","tgn:7002994","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056081,"name:xx":"Mezzavia"}}
+{
+  "id": 7056081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056081",
+        "tgn:7002994",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056081,
+    "tgn:name":"Mezzavia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.8,45.3],"type":"Point"}
+}

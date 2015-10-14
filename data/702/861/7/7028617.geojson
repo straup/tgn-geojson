@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.800000,52.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7028617","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028617,"name:xx":"South Raynham"}}
+{
+  "id": 7028617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028617",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028617,
+    "tgn:name":"South Raynham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.8,52.783333],"type":"Point"}
+}

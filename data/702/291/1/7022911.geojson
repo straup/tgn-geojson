@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-123.416700,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7022911","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022911,"name:xx":"East Fork Ridge"}}
+{
+  "id": 7022911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022911",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022911,
+    "tgn:name":"East Fork Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.4167,41.95],"type":"Point"}
+}

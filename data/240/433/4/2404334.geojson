@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.666700,32.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2404334","tgn:1000001","tgn:2001436","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2404334,"name:xx":"Huapache Canyon"}}
+{
+  "id": 2404334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404334",
+        "tgn:1000001",
+        "tgn:2001436",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404334,
+    "tgn:name":"Huapache Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.6667,32.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.733333,18.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7379543","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008798"],"id":7379543,"name:xx":"Marina, Monte de la"}}
+{
+  "id": 7379543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379543",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379543,
+    "tgn:name":"Marina, Monte de la",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.733333,18.366667],"type":"Point"}
+}

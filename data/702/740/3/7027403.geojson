@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.900000,51.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7027403","tgn:7002445","tgn:1000003","tgn:7008153","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300000874"],"id":7027403,"name:xx":"Preston"}}
+{
+  "id": 7027403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027403",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008153",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027403,
+    "tgn:name":"Preston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000874"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.9,51.3],"type":"Point"}
+}

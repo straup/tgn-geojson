@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.350000,38.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2404365","tgn:1000001","tgn:7012149","tgn:2001420","tgn:7007526","tgn:7029392"],"placetype":["aat:300386845"],"id":2404365,"name:xx":"Hub Mine Basin"}}
+{
+  "id": 2404365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404365",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001420",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404365,
+    "tgn:name":"Hub Mine Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.35,38.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.500000,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7245066","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7245066,"name:xx":"Aalterbei"}}
+{
+  "id": 7245066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245066",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245066,
+    "tgn:name":"Aalterbei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.5,51.1],"type":"Point"}
+}

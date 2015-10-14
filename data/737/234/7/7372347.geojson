@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.883056,24.459722]},"type":"Feature","properties":{"hierarchy":["tgn:7372347","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372347,"name:xx":"Rancho La Canoa"}}
+{
+  "id": 7372347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372347",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372347,
+    "tgn:name":"Rancho La Canoa",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.883056,24.459722],"type":"Point"}
+}

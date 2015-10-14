@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.956111,24.984167]},"type":"Feature","properties":{"hierarchy":["tgn:7489875","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489875,"name:xx":"Da'ao"}}
+{
+  "id": 7489875,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489875",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489875,
+    "tgn:name":"Da'ao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.956111,24.984167],"type":"Point"}
+}

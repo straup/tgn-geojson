@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.300000,25.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7356373","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356373,"name:xx":"Carmen"}}
+{
+  "id": 7356373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356373",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356373,
+    "tgn:name":"Carmen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.3,25.383333],"type":"Point"}
+}

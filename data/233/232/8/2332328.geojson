@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.150000,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2332328","tgn:1000001","tgn:7012149","tgn:2000226","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2332328,"name:xx":"Floodwater B-6 Retention Reservoir"}}
+{
+  "id": 2332328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000226",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332328,
+    "tgn:name":"Floodwater B-6 Retention Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.15,40.95],"type":"Point"}
+}

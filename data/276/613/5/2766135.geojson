@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.616700,41.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2766135","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2766135,"name:xx":"White Island Pond"}}
+{
+  "id": 2766135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766135",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766135,
+    "tgn:name":"White Island Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.6167,41.8],"type":"Point"}
+}

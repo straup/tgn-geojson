@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-4.033333,50.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7025441","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Brixton","id":7025441}}
+{
+  "id": 7025441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025441",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025441,
+    "tgn:name:en":"Brixton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.033333,50.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.416700,46.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2250865","tgn:1000001","tgn:7012149","tgn:2001281","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2250865,"name:xx":"Columbia Gardens Water Supply"}}
+{
+  "id": 2250865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250865",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001281",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250865,
+    "tgn:name":"Columbia Gardens Water Supply",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4167,46.0333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-124.183300,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022758","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7022758,"name:xx":"Winchuck River"}}
+{
+  "id": 7022758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022758",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022758,
+    "tgn:name":"Winchuck River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1833,42.0],"type":"Point"}
+}

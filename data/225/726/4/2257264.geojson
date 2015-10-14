@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.633300,48.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2257264","tgn:1000001","tgn:7012149","tgn:1002505","tgn:7007920","tgn:7029392"],"placetype":["aat:300132316"],"id":2257264,"name:xx":"Cornet Bay"}}
+{
+  "id": 2257264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257264",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002505",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257264,
+    "tgn:name":"Cornet Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.6333,48.3833],"type":"Point"}
+}

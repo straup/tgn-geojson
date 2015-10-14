@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.594700,24.181600]},"type":"Feature","properties":{"hierarchy":["tgn:7486702","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7486702,"name:xx":"Liqin Shan"}}
+{
+  "id": 7486702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486702",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486702,
+    "tgn:name":"Liqin Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5947,24.1816],"type":"Point"}
+}

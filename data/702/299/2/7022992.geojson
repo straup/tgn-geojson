@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.600000,35.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7022992","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7022992,"name:xx":"Garren Lake"}}
+{
+  "id": 7022992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022992",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022992,
+    "tgn:name":"Garren Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6,35.0333],"type":"Point"}
+}

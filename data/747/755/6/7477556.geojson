@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.870974,25.123430]},"type":"Feature","properties":{"hierarchy":["tgn:7477556","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7477556,"name:xx":"Chahu Xi"}}
+{
+  "id": 7477556,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477556",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477556,
+    "tgn:name":"Chahu Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.870974,25.12343],"type":"Point"}
+}

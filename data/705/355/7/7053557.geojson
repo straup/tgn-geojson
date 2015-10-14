@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.900000,38.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7053557","tgn:7007850","tgn:7024842","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053557,"name:xx":"Panaia"}}
+{
+  "id": 7053557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053557",
+        "tgn:7007850",
+        "tgn:7024842",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053557,
+    "tgn:name":"Panaia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.9,38.633333],"type":"Point"}
+}

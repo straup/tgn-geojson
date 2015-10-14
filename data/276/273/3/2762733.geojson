@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.650000,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2762733","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008791"],"id":2762733,"name:xx":"Western Ear Island"}}
+{
+  "id": 2762733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762733",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762733,
+    "tgn:name":"Western Ear Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.65,44.0],"type":"Point"}
+}

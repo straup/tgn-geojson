@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.800000,45.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022810","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022810,"name:xx":"Dexter Ridge"}}
+{
+  "id": 7022810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022810",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022810,
+    "tgn:name":"Dexter Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.8,45.9833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.069444,24.773611]},"type":"Feature","properties":{"hierarchy":["tgn:7475166","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475166,"name:xx":"Douzibu"}}
+{
+  "id": 7475166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475166",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475166,
+    "tgn:name":"Douzibu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.069444,24.773611],"type":"Point"}
+}

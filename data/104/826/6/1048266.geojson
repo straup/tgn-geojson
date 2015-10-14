@@ -1,0 +1,25 @@
+{
+  "id": 1048266,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744014",
+        "qs:id":7,
+        "wof:id":101809649
+    },
+    "tgn:hierarchy":[
+        "tgn:1048266",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048266,
+    "tgn:name:nl":"Zeeland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.683333,51.7],"type":"Point"}
+}

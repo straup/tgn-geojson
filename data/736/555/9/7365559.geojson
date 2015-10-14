@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.516667,21.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7365559","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7365559,"name:xx":"Encino del Asta, Cerro el"}}
+{
+  "id": 7365559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365559",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365559,
+    "tgn:name":"Encino del Asta, Cerro el",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.516667,21.616667],"type":"Point"}
+}

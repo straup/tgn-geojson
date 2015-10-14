@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.883333,18.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7355180","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7355180,"name:xx":"Chelem"}}
+{
+  "id": 7355180,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355180",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355180,
+    "tgn:name":"Chelem",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.883333,18.2],"type":"Point"}
+}

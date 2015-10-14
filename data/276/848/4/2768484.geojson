@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.333300,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2768484","tgn:1000001","tgn:7012149","tgn:2002174","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2768484,"name:xx":"Whitewash Hollow"}}
+{
+  "id": 2768484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768484",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002174",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768484,
+    "tgn:name":"Whitewash Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3333,37.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.100000,18.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7352904","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352904,"name:xx":"Atlehuaya"}}
+{
+  "id": 7352904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352904",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352904,
+    "tgn:name":"Atlehuaya",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.1,18.7],"type":"Point"}
+}

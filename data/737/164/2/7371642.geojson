@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.383333,15.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7371642","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371642,"name:xx":"La Caba\u00f1a"}}
+{
+  "id": 7371642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371642",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371642,
+    "tgn:name":"La Caba\u00f1a",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.383333,15.933333],"type":"Point"}
+}

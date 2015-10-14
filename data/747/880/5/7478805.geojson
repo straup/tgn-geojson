@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.569822,23.814740]},"type":"Feature","properties":{"hierarchy":["tgn:7478805","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478805,"name:xx":"Dazhuang Er Qiao"}}
+{
+  "id": 7478805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478805",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478805,
+    "tgn:name":"Dazhuang Er Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.569822,23.81474],"type":"Point"}
+}

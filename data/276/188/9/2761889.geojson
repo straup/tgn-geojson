@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.833300,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2761889","tgn:1000001","tgn:7012149","tgn:1002761","tgn:7007706","tgn:7029392"],"placetype":["aat:300132348"],"id":2761889,"name:xx":"West Reef"}}
+{
+  "id": 2761889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761889",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002761",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761889,
+    "tgn:name":"West Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8333,41.7],"type":"Point"}
+}

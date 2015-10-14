@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.250000,30.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2768506","tgn:1000001","tgn:7012149","tgn:2000383","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2768506,"name:xx":"Whitewater Club Lake"}}
+{
+  "id": 2768506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768506",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000383",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768506,
+    "tgn:name":"Whitewater Club Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.25,30.6667],"type":"Point"}
+}

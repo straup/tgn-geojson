@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.516700,45.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2405881","tgn:1000001","tgn:7012149","tgn:2002356","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2405881,"name:xx":"Hulls Lake"}}
+{
+  "id": 2405881,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405881",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002356",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405881,
+    "tgn:name":"Hulls Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5167,45.2167],"type":"Point"}
+}

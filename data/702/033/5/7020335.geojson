@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.950000,45.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7020335","tgn:1000001","tgn:2001260","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7020335,"name:xx":"Bon Accord Mine"}}
+{
+  "id": 7020335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020335",
+        "tgn:1000001",
+        "tgn:2001260",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020335,
+    "tgn:name":"Bon Accord Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.95,45.15],"type":"Point"}
+}

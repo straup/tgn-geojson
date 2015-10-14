@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.850000,44.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2339506","tgn:1000001","tgn:7012149","tgn:7014589","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2339506,"name:xx":"Fred Dorr Brook"}}
+{
+  "id": 2339506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339506",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014589",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339506,
+    "tgn:name":"Fred Dorr Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.85,44.7667],"type":"Point"}
+}

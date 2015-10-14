@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.416667,18.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7350983","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7350983,"name:xx":"Cabras"}}
+{
+  "id": 7350983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350983",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350983,
+    "tgn:name":"Cabras",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.416667,18.6],"type":"Point"}
+}

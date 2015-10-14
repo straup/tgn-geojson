@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.283300,44.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2255222","tgn:1000001","tgn:1002415","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008850"],"id":2255222,"name:xx":"Cooper Point"}}
+{
+  "id": 2255222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255222",
+        "tgn:1000001",
+        "tgn:1002415",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255222,
+    "tgn:name":"Cooper Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2833,44.6833],"type":"Point"}
+}

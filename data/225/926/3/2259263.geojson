@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.583300,42.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2259263","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300000390"],"id":2259263,"name:xx":"Cottonwood Mine"}}
+{
+  "id": 2259263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259263",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259263,
+    "tgn:name":"Cottonwood Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5833,42.8667],"type":"Point"}
+}

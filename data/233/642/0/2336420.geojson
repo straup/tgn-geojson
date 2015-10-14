@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.950000,33.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2336420","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002748","tgn:7029392"],"placetype":["aat:300006075"],"id":2336420,"name:xx":"Fountain Valley Channel"}}
+{
+  "id": 2336420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336420",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002748",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336420,
+    "tgn:name":"Fountain Valley Channel",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.95,33.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.790000,24.875000]},"type":"Feature","properties":{"hierarchy":["tgn:7483650","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387032"],"id":7483650,"name:xx":"Shizhukeng Xi"}}
+{
+  "id": 7483650,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483650",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483650,
+    "tgn:name":"Shizhukeng Xi",
+    "tgn:placetype":[
+        "aat:300387032"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.79,24.875],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.300000,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2337166","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":2337166,"name:xx":"Fourteenmile Creek"}}
+{
+  "id": 2337166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337166",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337166,
+    "tgn:name":"Fourteenmile Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3,33.9833],"type":"Point"}
+}

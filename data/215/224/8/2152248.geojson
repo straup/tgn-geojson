@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.433300,46.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2152248","tgn:1000001","tgn:7012149","tgn:2000973","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2152248,"name:xx":"Bay City Lake"}}
+{
+  "id": 2152248,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152248",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000973",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152248,
+    "tgn:name":"Bay City Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4333,46.0333],"type":"Point"}
+}

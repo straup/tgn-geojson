@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.816667,19.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7371540","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7371540,"name:xx":"La Delgada"}}
+{
+  "id": 7371540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371540",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371540,
+    "tgn:name":"La Delgada",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.816667,19.45],"type":"Point"}
+}

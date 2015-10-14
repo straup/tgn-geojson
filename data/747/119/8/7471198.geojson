@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.790556,23.508889]},"type":"Feature","properties":{"hierarchy":["tgn:7471198","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471198,"name:xx":"Erwanping"}}
+{
+  "id": 7471198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471198",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471198,
+    "tgn:name":"Erwanping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.790556,23.508889],"type":"Point"}
+}

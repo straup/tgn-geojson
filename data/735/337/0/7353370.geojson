@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.550000,15.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7353370","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353370,"name:xx":"Bellavista, Cerro"}}
+{
+  "id": 7353370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353370",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353370,
+    "tgn:name":"Bellavista, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.55,15.816667],"type":"Point"}
+}

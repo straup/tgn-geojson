@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.316700,48.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2760381","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760381,"name:xx":"West Fork Skyland Creek"}}
+{
+  "id": 2760381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760381",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760381,
+    "tgn:name":"West Fork Skyland Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3167,48.25],"type":"Point"}
+}

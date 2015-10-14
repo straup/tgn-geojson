@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.916667,49.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7119630","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7119630,"name:xx":"Penkhof"}}
+{
+  "id": 7119630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119630",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119630,
+    "tgn:name":"Penkhof",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.916667,49.416667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.033000,46.933000]},"type":"Feature","properties":{"hierarchy":["tgn:7029466","tgn:1000003","tgn:7002881","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7029466,"name:xx":"Villeneuve d'Aumont"}}
+{
+  "id": 7029466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029466",
+        "tgn:1000003",
+        "tgn:7002881",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029466,
+    "tgn:name":"Villeneuve d'Aumont",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.033,46.933],"type":"Point"}
+}

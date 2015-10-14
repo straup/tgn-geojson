@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.150000,23.535278]},"type":"Feature","properties":{"hierarchy":["tgn:7485968","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7485968,"name:xx":"Niutiaowan Xi"}}
+{
+  "id": 7485968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485968",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485968,
+    "tgn:name":"Niutiaowan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.15,23.535278],"type":"Point"}
+}

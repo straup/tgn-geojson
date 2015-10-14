@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.788889,24.757222]},"type":"Feature","properties":{"hierarchy":["tgn:7483207","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483207,"name:xx":"Kaixing Miao"}}
+{
+  "id": 7483207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483207",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483207,
+    "tgn:name":"Kaixing Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.788889,24.757222],"type":"Point"}
+}

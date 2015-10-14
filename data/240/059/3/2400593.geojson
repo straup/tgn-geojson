@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.133300,30.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2400593","tgn:1000001","tgn:7012149","tgn:1002860","tgn:7007826","tgn:7029392"],"placetype":["aat:300008905"],"id":2400593,"name:xx":"Horse Marsh"}}
+{
+  "id": 2400593,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400593",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002860",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400593,
+    "tgn:name":"Horse Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.1333,30.35],"type":"Point"}
+}

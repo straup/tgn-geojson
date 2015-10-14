@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.509722,22.655000]},"type":"Feature","properties":{"hierarchy":["tgn:7489573","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7489573,"name:xx":"Nei Yan"}}
+{
+  "id": 7489573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489573",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489573,
+    "tgn:name":"Nei Yan",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.509722,22.655],"type":"Point"}
+}

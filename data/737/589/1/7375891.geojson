@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.083333,19.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7375891","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7375891,"name:xx":"Las Truchas"}}
+{
+  "id": 7375891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375891",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375891,
+    "tgn:name":"Las Truchas",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.083333,19.333333],"type":"Point"}
+}

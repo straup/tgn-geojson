@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.066667,16.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7374349","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7374349,"name:xx":"Estaci\u00f3n Lagunas"}}
+{
+  "id": 7374349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374349",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374349,
+    "tgn:name":"Estaci\u00f3n Lagunas",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.066667,16.8],"type":"Point"}
+}

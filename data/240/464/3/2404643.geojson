@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.033300,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2404643","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2404643,"name:xx":"Huckabaas Millpond"}}
+{
+  "id": 2404643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404643",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404643,
+    "tgn:name":"Huckabaas Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0333,33.7833],"type":"Point"}
+}

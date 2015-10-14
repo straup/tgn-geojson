@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.366700,41.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2332950","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300266640"],"id":2332950,"name:xx":"Flume Creek Ridge"}}
+{
+  "id": 2332950,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332950",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332950,
+    "tgn:name":"Flume Creek Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3667,41.1167],"type":"Point"}
+}

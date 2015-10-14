@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.066700,53.516000]},"type":"Feature","properties":{"hierarchy":["tgn:7027921","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Holton le Clay","id":7027921}}
+{
+  "id": 7027921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027921",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027921,
+    "tgn:name:en":"Holton le Clay",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.0667,53.516],"type":"Point"}
+}

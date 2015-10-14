@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.750000,49.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7112306","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7112306,"name:xx":"Ringels Bach"}}
+{
+  "id": 7112306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112306",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112306,
+    "tgn:name":"Ringels Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.75,49.25],"type":"Point"}
+}

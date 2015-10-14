@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.016700,43.016700]},"type":"Feature","properties":{"hierarchy":["tgn:7020874","tgn:1000001","tgn:2000457","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":7020874,"name:xx":"Queedup Spring"}}
+{
+  "id": 7020874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020874",
+        "tgn:1000001",
+        "tgn:2000457",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020874,
+    "tgn:name":"Queedup Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0167,43.0167],"type":"Point"}
+}

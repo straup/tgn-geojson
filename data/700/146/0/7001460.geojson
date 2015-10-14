@@ -1,0 +1,24 @@
+{
+  "id": 7001460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001460",
+        "tgn:7000317",
+        "tgn:1001899",
+        "tgn:1000004",
+        "tgn:1000128",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001460,
+    "tgn:name":"Melaka",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387221",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[102.2333,2.2333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-82.450000,35.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2338810","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2338810,"name:xx":"Frank Mountain"}}
+{
+  "id": 2338810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338810",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338810,
+    "tgn:name":"Frank Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.45,35.1667],"type":"Point"}
+}

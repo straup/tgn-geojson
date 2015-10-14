@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-69.816700,41.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7023384","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300132348"],"id":7023384,"name:xx":"McBlair Shoal"}}
+{
+  "id": 7023384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023384",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023384,
+    "tgn:name":"McBlair Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.8167,41.4],"type":"Point"}
+}

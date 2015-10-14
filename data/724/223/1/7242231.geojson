@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.100000,50.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7242231","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7242231,"name:xx":"Lobos"}}
+{
+  "id": 7242231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242231",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242231,
+    "tgn:name":"Lobos",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.1,50.983333],"type":"Point"}
+}

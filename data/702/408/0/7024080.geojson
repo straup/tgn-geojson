@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.633300,48.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7024080","tgn:7002870","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7024080,"name:xx":"Achenheim"}}
+{
+  "id": 7024080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024080",
+        "tgn:7002870",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024080,
+    "tgn:name":"Achenheim",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.6333,48.5833],"type":"Point"}
+}

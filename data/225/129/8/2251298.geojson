@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.133300,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2251298","tgn:1000001","tgn:2001413","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2251298,"name:xx":"Combs Canyon"}}
+{
+  "id": 2251298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251298",
+        "tgn:1000001",
+        "tgn:2001413",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251298,
+    "tgn:name":"Combs Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.1333,39.4],"type":"Point"}
+}

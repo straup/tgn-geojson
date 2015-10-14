@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.661400,24.157200]},"type":"Feature","properties":{"hierarchy":["tgn:7472389","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472389,"name:xx":"Ercengkan"}}
+{
+  "id": 7472389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472389",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472389,
+    "tgn:name":"Ercengkan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6614,24.1572],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.234340,51.082110]},"type":"Feature","properties":{"hierarchy":["tgn:7246234","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7246234,"name:xx":"Fort van Bornem"}}
+{
+  "id": 7246234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246234",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246234,
+    "tgn:name":"Fort van Bornem",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.23434,51.08211],"type":"Point"}
+}

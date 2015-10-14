@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.962778,24.861111]},"type":"Feature","properties":{"hierarchy":["tgn:7486437","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486437,"name:xx":"Mao'erding"}}
+{
+  "id": 7486437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486437",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486437,
+    "tgn:name":"Mao'erding",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.962778,24.861111],"type":"Point"}
+}

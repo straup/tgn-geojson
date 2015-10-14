@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.000000,38.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7055243","tgn:7007850","tgn:7024842","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055243,"name:xx":"Moladi"}}
+{
+  "id": 7055243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055243",
+        "tgn:7007850",
+        "tgn:7024842",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055243,
+    "tgn:name":"Moladi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.0,38.583333],"type":"Point"}
+}

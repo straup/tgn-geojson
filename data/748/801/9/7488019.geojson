@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.525460,25.000870]},"type":"Feature","properties":{"hierarchy":["tgn:7488019","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7488019,"name:xx":"Xiulangcun"}}
+{
+  "id": 7488019,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488019",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488019,
+    "tgn:name":"Xiulangcun",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.52546,25.00087],"type":"Point"}
+}

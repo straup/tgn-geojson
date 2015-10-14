@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.600000,35.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7023059","tgn:1000001","tgn:7012149","tgn:7019676","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":7023059,"name:xx":"San Ysidro Spring"}}
+{
+  "id": 7023059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023059",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019676",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023059,
+    "tgn:name":"San Ysidro Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.6,35.5],"type":"Point"}
+}

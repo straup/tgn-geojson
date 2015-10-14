@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.700000,28.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7023690","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":7023690,"name:xx":"Pompano Key"}}
+{
+  "id": 7023690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023690",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023690,
+    "tgn:name":"Pompano Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.7,28.7667],"type":"Point"}
+}

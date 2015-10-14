@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.700000,43.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2404900","tgn:1000001","tgn:7012149","tgn:1002986","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2404900,"name:xx":"Huddle Brook"}}
+{
+  "id": 2404900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404900",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002986",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404900,
+    "tgn:name":"Huddle Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7,43.55],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.758889,24.261944]},"type":"Feature","properties":{"hierarchy":["tgn:7483873","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483873,"name:xx":"Qitou"}}
+{
+  "id": 7483873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483873",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483873,
+    "tgn:name":"Qitou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.758889,24.261944],"type":"Point"}
+}

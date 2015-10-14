@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.733333,49.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7173783","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7173783,"name:xx":"Grund Graben"}}
+{
+  "id": 7173783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173783",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173783,
+    "tgn:name":"Grund Graben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.733333,49.883333],"type":"Point"}
+}

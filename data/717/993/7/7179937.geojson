@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.533333,52.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7179937","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008773"],"id":7179937,"name:xx":"Haakengrund"}}
+{
+  "id": 7179937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179937",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179937,
+    "tgn:name":"Haakengrund",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.533333,52.45],"type":"Point"}
+}

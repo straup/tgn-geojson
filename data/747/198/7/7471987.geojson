@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.566111,22.063889]},"type":"Feature","properties":{"hierarchy":["tgn:7471987","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7471987,"name:xx":"Cao Shan"}}
+{
+  "id": 7471987,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471987",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471987,
+    "tgn:name":"Cao Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.566111,22.063889],"type":"Point"}
+}

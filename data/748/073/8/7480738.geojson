@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.452631,23.233722]},"type":"Feature","properties":{"hierarchy":["tgn:7480738","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7480738,"name:xx":"Fadiansuokeng"}}
+{
+  "id": 7480738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480738",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480738,
+    "tgn:name":"Fadiansuokeng",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.452631,23.233722],"type":"Point"}
+}

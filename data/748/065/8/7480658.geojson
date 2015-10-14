@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.247400,23.366900]},"type":"Feature","properties":{"hierarchy":["tgn:7480658","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7480658,"name:xx":"Taitang Nanjing Tangchang Xuzhichang"}}
+{
+  "id": 7480658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480658",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480658,
+    "tgn:name":"Taitang Nanjing Tangchang Xuzhichang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2474,23.3669],"type":"Point"}
+}

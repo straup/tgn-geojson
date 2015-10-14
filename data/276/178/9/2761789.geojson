@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.100000,35.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2761789","tgn:1000001","tgn:2001481","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2761789,"name:xx":"West Prong Grape Creek"}}
+{
+  "id": 2761789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761789",
+        "tgn:1000001",
+        "tgn:2001481",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761789,
+    "tgn:name":"West Prong Grape Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1,35.15],"type":"Point"}
+}

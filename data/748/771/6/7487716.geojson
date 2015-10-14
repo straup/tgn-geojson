@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.237500,24.743889]},"type":"Feature","properties":{"hierarchy":["tgn:7487716","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7487716,"name:xx":"Liuchu Shan"}}
+{
+  "id": 7487716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487716",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487716,
+    "tgn:name":"Liuchu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2375,24.743889],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.550000,24.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7375194","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375194,"name:xx":"Rancho Las Delicias"}}
+{
+  "id": 7375194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375194",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375194,
+    "tgn:name":"Rancho Las Delicias",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.55,24.583333],"type":"Point"}
+}

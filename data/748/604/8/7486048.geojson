@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.607778,23.687778]},"type":"Feature","properties":{"hierarchy":["tgn:7486048","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7486048,"name:xx":"Qibei Qiao"}}
+{
+  "id": 7486048,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486048",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486048,
+    "tgn:name":"Qibei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.607778,23.687778],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.250000,31.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2259898","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259898,"name:xx":"Coulee du Pecheur"}}
+{
+  "id": 2259898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259898",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259898,
+    "tgn:name":"Coulee du Pecheur",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.25,31.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.750000,27.316700]},"type":"Feature","properties":{"hierarchy":["tgn:7023052","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":7023052,"name:xx":"Sand Gully"}}
+{
+  "id": 7023052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023052",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023052,
+    "tgn:name":"Sand Gully",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.75,27.3167],"type":"Point"}
+}

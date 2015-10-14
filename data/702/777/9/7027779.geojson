@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.733333,53.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7027779","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Brampton","id":7027779}}
+{
+  "id": 7027779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027779",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027779,
+    "tgn:name:en":"Brampton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.733333,53.3],"type":"Point"}
+}

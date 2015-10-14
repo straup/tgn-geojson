@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.350000,36.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2403948","tgn:1000001","tgn:7012149","tgn:2001556","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2403948,"name:xx":"Howell Branch"}}
+{
+  "id": 2403948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403948",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001556",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403948,
+    "tgn:name":"Howell Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.35,36.0333],"type":"Point"}
+}

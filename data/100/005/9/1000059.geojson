@@ -1,0 +1,26 @@
+{
+  "id": 1000059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000059",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000059,
+    "tgn:name:ar":"\u0641\u0646\u0632\u0648 \u0644\u064b\u0627",
+    "tgn:name:en":"Venezuela",
+    "tgn:name:es":"Venezuela",
+    "tgn:name:fr":"Venezuela",
+    "tgn:name:ru":"\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+    "tgn:name:zh":"\u59d4\u5185\u745e\u62c9",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.0,8.0],"type":"Point"}
+}

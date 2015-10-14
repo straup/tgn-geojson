@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.853345,24.626575]},"type":"Feature","properties":{"hierarchy":["tgn:7478158","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7478158,"name:xx":"Fengfu Suidao"}}
+{
+  "id": 7478158,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478158",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478158,
+    "tgn:name":"Fengfu Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.853345,24.626575],"type":"Point"}
+}

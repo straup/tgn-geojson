@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.234167,23.342778]},"type":"Feature","properties":{"hierarchy":["tgn:7489175","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7489175,"name:xx":"Yiluokuo"}}
+{
+  "id": 7489175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489175",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489175,
+    "tgn:name":"Yiluokuo",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.234167,23.342778],"type":"Point"}
+}

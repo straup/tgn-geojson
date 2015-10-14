@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.466667,29.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7379387","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379387,"name:xx":"Rancho Los Cora Ceros"}}
+{
+  "id": 7379387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379387",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379387,
+    "tgn:name":"Rancho Los Cora Ceros",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.466667,29.6],"type":"Point"}
+}

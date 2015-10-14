@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.450000,45.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2760429","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2760429,"name:xx":"West Fork Spring Hollow Creek"}}
+{
+  "id": 2760429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760429",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760429,
+    "tgn:name":"West Fork Spring Hollow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.45,45.7],"type":"Point"}
+}

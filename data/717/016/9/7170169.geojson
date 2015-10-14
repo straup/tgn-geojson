@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.700000,53.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7170169","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170169,"name:xx":"Hinter dem Felde"}}
+{
+  "id": 7170169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170169",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170169,
+    "tgn:name":"Hinter dem Felde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.7,53.2],"type":"Point"}
+}

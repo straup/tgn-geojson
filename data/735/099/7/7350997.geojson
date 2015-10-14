@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.433333,29.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7350997","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350997,"name:xx":"Cabra, Arroyo de la"}}
+{
+  "id": 7350997,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350997",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350997,
+    "tgn:name":"Cabra, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.433333,29.6],"type":"Point"}
+}

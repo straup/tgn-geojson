@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.033333,18.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7364453","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364453,"name:xx":"El Salvaje"}}
+{
+  "id": 7364453,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364453",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364453,
+    "tgn:name":"El Salvaje",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.033333,18.333333],"type":"Point"}
+}

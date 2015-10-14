@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.766700,47.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2257432","tgn:1000001","tgn:2001014","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2257432,"name:xx":"Corny Lake"}}
+{
+  "id": 2257432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257432",
+        "tgn:1000001",
+        "tgn:2001014",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257432,
+    "tgn:name":"Corny Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7667,47.7833],"type":"Point"}
+}

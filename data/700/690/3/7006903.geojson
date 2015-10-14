@@ -1,0 +1,29 @@
+{
+  "id": 7006903,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0db30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754768",
+        "gp:id":729765,
+        "qs:id":9,
+        "wof:id":101837771
+    },
+    "tgn:hierarchy":[
+        "tgn:7006903",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006903,
+    "tgn:name:nl":"Hattem",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387005"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.066667,52.466667],"type":"Point"}
+}

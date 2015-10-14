@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[75.621000,29.554000]},"type":"Feature","properties":{"hierarchy":["tgn:7026087","tgn:1000004","tgn:1001871","tgn:7000198","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300167671","aat:300008024","aat:300008459"],"name:en":"Agroha Mound","id":7026087}}
+{
+  "id": 7026087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026087",
+        "tgn:1000004",
+        "tgn:1001871",
+        "tgn:7000198",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026087,
+    "tgn:name:en":"Agroha Mound",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300008024",
+        "aat:300008459"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[75.621,29.554],"type":"Point"}
+}

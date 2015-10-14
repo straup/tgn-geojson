@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.033333,26.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7350661","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7350661,"name:xx":"Rancho Baiquillo"}}
+{
+  "id": 7350661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350661",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350661,
+    "tgn:name":"Rancho Baiquillo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.033333,26.616667],"type":"Point"}
+}

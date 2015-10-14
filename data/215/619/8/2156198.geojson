@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.166700,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2156198","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2156198,"name:xx":"Beards Run"}}
+{
+  "id": 2156198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156198",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156198,
+    "tgn:name":"Beards Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1667,39.25],"type":"Point"}
+}

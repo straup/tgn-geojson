@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.774000,25.156200]},"type":"Feature","properties":{"hierarchy":["tgn:7476651","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476651,"name:xx":"Bachimen Gang"}}
+{
+  "id": 7476651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476651",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476651,
+    "tgn:name":"Bachimen Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.774,25.1562],"type":"Point"}
+}

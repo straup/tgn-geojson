@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.616667,24.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7360869","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360869,"name:xx":"Cofrad\u00eda de San Pedro"}}
+{
+  "id": 7360869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360869",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360869,
+    "tgn:name":"Cofrad\u00eda de San Pedro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.616667,24.8],"type":"Point"}
+}

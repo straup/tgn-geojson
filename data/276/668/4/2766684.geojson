@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.666700,32.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2766684","tgn:7002659","tgn:1000001","tgn:2000005","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2766684,"name:xx":"White Oak Lakes"}}
+{
+  "id": 2766684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766684",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000005",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766684,
+    "tgn:name":"White Oak Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.6667,32.0333],"type":"Point"}
+}

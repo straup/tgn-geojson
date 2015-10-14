@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.416667,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7249238","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7249238,"name:xx":"Oudebeek"}}
+{
+  "id": 7249238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249238",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249238,
+    "tgn:name":"Oudebeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.416667,50.833333],"type":"Point"}
+}

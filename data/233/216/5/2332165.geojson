@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.583300,39.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2332165","tgn:1000001","tgn:2002260","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2332165,"name:xx":"Flint Run"}}
+{
+  "id": 2332165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332165",
+        "tgn:1000001",
+        "tgn:2002260",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332165,
+    "tgn:name":"Flint Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5833,39.3],"type":"Point"}
+}

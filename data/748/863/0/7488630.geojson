@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.441652,23.852892]},"type":"Feature","properties":{"hierarchy":["tgn:7488630","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7488630,"name:xx":"Xiyuanlaonao Shan"}}
+{
+  "id": 7488630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488630",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488630,
+    "tgn:name":"Xiyuanlaonao Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.441652,23.852892],"type":"Point"}
+}

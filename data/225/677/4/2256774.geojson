@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.250000,42.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2256774","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008761"],"id":2256774,"name:xx":"Corey Gully"}}
+{
+  "id": 2256774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256774",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256774,
+    "tgn:name":"Corey Gully",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.25,42.75],"type":"Point"}
+}

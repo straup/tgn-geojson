@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.471438,22.436505]},"type":"Feature","properties":{"hierarchy":["tgn:7478117","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478117,"name:xx":"Shengnan Tang"}}
+{
+  "id": 7478117,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478117",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478117,
+    "tgn:name":"Shengnan Tang",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.471438,22.436505],"type":"Point"}
+}

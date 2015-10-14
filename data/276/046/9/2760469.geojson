@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-147.533300,63.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2760469","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2760469,"name:xx":"West Fork Susitna River"}}
+{
+  "id": 2760469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760469",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760469,
+    "tgn:name":"West Fork Susitna River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-147.5333,63.3833],"type":"Point"}
+}

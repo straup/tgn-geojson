@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.500000,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2159761","tgn:1000001","tgn:7012149","tgn:2000281","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2159761,"name:xx":"Beech Branch"}}
+{
+  "id": 2159761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159761",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000281",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159761,
+    "tgn:name":"Beech Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5,30.8],"type":"Point"}
+}

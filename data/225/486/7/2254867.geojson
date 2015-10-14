@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.566700,38.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2254867","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2254867,"name:xx":"Coonskin Branch"}}
+{
+  "id": 2254867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254867",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254867,
+    "tgn:name":"Coonskin Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5667,38.3833],"type":"Point"}
+}

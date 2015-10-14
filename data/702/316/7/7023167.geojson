@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.016700,30.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023167","tgn:1000001","tgn:2000272","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":7023167,"name:xx":"Johnson Lakes"}}
+{
+  "id": 7023167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023167",
+        "tgn:1000001",
+        "tgn:2000272",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023167,
+    "tgn:name":"Johnson Lakes",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0167,30.9833],"type":"Point"}
+}

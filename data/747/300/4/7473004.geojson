@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.749600,24.762900]},"type":"Feature","properties":{"hierarchy":["tgn:7473004","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7473004,"name:xx":"Qinghe Qiao"}}
+{
+  "id": 7473004,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473004",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473004,
+    "tgn:name":"Qinghe Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7496,24.7629],"type":"Point"}
+}

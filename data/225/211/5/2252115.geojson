@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.266700,48.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2252115","tgn:1000001","tgn:2000462","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2252115,"name:xx":"Cone Creek"}}
+{
+  "id": 2252115,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252115",
+        "tgn:1000001",
+        "tgn:2000462",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252115,
+    "tgn:name":"Cone Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2667,48.5333],"type":"Point"}
+}

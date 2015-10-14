@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.100000,42.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7058427","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058427,"name:xx":"Ancarano"}}
+{
+  "id": 7058427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058427",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058427,
+    "tgn:name":"Ancarano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.1,42.833333],"type":"Point"}
+}

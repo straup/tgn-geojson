@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.583333,19.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7378585","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378585,"name:xx":"Los Pl\u00e1tanos"}}
+{
+  "id": 7378585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378585",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378585,
+    "tgn:name":"Los Pl\u00e1tanos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.583333,19.483333],"type":"Point"}
+}

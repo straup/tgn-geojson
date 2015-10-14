@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.283333,28.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7374418","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374418,"name:xx":"Rancho La Maroma"}}
+{
+  "id": 7374418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374418",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374418,
+    "tgn:name":"Rancho La Maroma",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.283333,28.833333],"type":"Point"}
+}

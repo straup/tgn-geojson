@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.150000,29.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2334106","tgn:1000001","tgn:7012149","tgn:1002374","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2334106,"name:xx":"Fords Prairie"}}
+{
+  "id": 2334106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334106",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002374",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334106,
+    "tgn:name":"Fords Prairie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.15,29.8833],"type":"Point"}
+}

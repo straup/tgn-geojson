@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.160833,24.925000]},"type":"Feature","properties":{"hierarchy":["tgn:7480152","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480152,"name:xx":"Tuniukeng"}}
+{
+  "id": 7480152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480152",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480152,
+    "tgn:name":"Tuniukeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.160833,24.925],"type":"Point"}
+}

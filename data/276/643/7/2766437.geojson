@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.183300,40.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2766437","tgn:1000001","tgn:1002738","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008347"],"id":2766437,"name:xx":"White Oak Bottom"}}
+{
+  "id": 2766437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766437",
+        "tgn:1000001",
+        "tgn:1002738",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766437,
+    "tgn:name":"White Oak Bottom",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1833,40.0167],"type":"Point"}
+}

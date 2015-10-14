@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.316700,41.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2257088","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000186","tgn:7029392"],"placetype":["aat:300008347"],"id":2257088,"name:xx":"Cornell"}}
+{
+  "id": 2257088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257088",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000186",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257088,
+    "tgn:name":"Cornell",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3167,41.7833],"type":"Point"}
+}

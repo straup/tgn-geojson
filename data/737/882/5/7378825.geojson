@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.300000,24.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7378825","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378825,"name:xx":"Manzanillas, Cerro de las"}}
+{
+  "id": 7378825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378825",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378825,
+    "tgn:name":"Manzanillas, Cerro de las",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3,24.516667],"type":"Point"}
+}

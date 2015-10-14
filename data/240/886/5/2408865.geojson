@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.133300,32.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2408865","tgn:1000001","tgn:7012149","tgn:2002043","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2408865,"name:xx":"Hyman"}}
+{
+  "id": 2408865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408865",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002043",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408865,
+    "tgn:name":"Hyman",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.1333,32.1333],"type":"Point"}
+}

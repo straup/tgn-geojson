@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.733300,38.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7021052","tgn:1000001","tgn:2002256","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021052,"name:xx":"Brushy Branch"}}
+{
+  "id": 7021052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021052",
+        "tgn:1000001",
+        "tgn:2002256",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021052,
+    "tgn:name":"Brushy Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7333,38.7],"type":"Point"}
+}

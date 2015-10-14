@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.883300,38.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2331659","tgn:1000001","tgn:7012149","tgn:2002155","tgn:7007919","tgn:7029392"],"placetype":["aat:300008798"],"id":2331659,"name:xx":"Fleetwood Hill"}}
+{
+  "id": 2331659,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002155",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331659,
+    "tgn:name":"Fleetwood Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8833,38.5167],"type":"Point"}
+}

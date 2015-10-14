@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-119.866700,46.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2400386","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300266640"],"id":2400386,"name:xx":"Horse Heaven Hills"}}
+{
+  "id": 2400386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400386",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400386,
+    "tgn:name":"Horse Heaven Hills",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.8667,46.1333],"type":"Point"}
+}

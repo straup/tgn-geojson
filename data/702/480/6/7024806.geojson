@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.666667,51.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7024806","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Cheddington","id":7024806}}
+{
+  "id": 7024806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024806",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024806,
+    "tgn:name:en":"Cheddington",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.666667,51.833333],"type":"Point"}
+}

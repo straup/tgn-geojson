@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.433333,41.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7054589","tgn:7003011","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054589,"name:xx":"Longano, Monte"}}
+{
+  "id": 7054589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054589",
+        "tgn:7003011",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054589,
+    "tgn:name":"Longano, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.433333,41.066667],"type":"Point"}
+}

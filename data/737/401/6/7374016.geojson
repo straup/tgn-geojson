@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.800000,20.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7374016","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374016,"name:xx":"La Guitarrilla"}}
+{
+  "id": 7374016,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374016",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374016,
+    "tgn:name":"La Guitarrilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8,20.35],"type":"Point"}
+}

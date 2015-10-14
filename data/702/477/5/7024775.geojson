@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.150000,51.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7024775","tgn:7002445","tgn:1000003","tgn:7026382","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Streatley","id":7024775}}
+{
+  "id": 7024775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024775",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026382",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024775,
+    "tgn:name:en":"Streatley",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.15,51.516667],"type":"Point"}
+}

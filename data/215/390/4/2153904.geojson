@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.666700,35.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2153904","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300006191"],"id":2153904,"name:xx":"Bear Canyon Two Hundred Ninety-Nine Trail"}}
+{
+  "id": 2153904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153904",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153904,
+    "tgn:name":"Bear Canyon Two Hundred Ninety-Nine Trail",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6667,35.5667],"type":"Point"}
+}

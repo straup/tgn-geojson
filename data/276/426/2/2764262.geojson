@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.083300,37.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2764262","tgn:1000001","tgn:7012149","tgn:2001190","tgn:7007523","tgn:7029392"],"placetype":["aat:300000390"],"id":2764262,"name:xx":"Wheelings Lead Mines and Furnace"}}
+{
+  "id": 2764262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764262",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001190",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764262,
+    "tgn:name":"Wheelings Lead Mines and Furnace",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0833,37.9167],"type":"Point"}
+}

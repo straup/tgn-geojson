@@ -1,0 +1,34 @@
+{
+  "id": 1000080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000080",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000080,
+    "tgn:name:ar":"\u0625 \u0637\u064b\u0627 \u0627\u064b\u064e",
+    "tgn:name:de":"Italien",
+    "tgn:name:en":"Italy",
+    "tgn:name:es":"Italia",
+    "tgn:name:fr":"Italie",
+    "tgn:name:it":"Italia",
+    "tgn:name:la":"Italia",
+    "tgn:name:nl":"Itali\u00eb",
+    "tgn:name:ru":"\u0418\u0442\u0430\u043b\u0438\u044f",
+    "tgn:name:zh":"\u610f\u5927\u5229",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387347",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387053",
+        "aat:300387174",
+        "aat:300055522",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8333,42.8333],"type":"Point"}
+}

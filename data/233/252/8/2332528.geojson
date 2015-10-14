@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.300000,37.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2332528","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002621","tgn:7029392"],"placetype":["aat:300008798"],"id":2332528,"name:xx":"Florence, Mount"}}
+{
+  "id": 2332528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332528",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002621",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332528,
+    "tgn:name":"Florence, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.3,37.7333],"type":"Point"}
+}

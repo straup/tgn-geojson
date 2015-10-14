@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.683300,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2251035","tgn:1000001","tgn:2001412","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2251035,"name:xx":"Columbus Mine"}}
+{
+  "id": 2251035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251035",
+        "tgn:1000001",
+        "tgn:2001412",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251035,
+    "tgn:name":"Columbus Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6833,37.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.903056,24.947500]},"type":"Feature","properties":{"hierarchy":["tgn:7483679","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483679,"name:xx":"Fanzi'ao"}}
+{
+  "id": 7483679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483679",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483679,
+    "tgn:name":"Fanzi'ao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.903056,24.9475],"type":"Point"}
+}

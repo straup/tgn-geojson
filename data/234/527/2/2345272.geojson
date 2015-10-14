@@ -1,0 +1,21 @@
+{
+  "id": 2345272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345272",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014004",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345272,
+    "tgn:name":"Garibaldi Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.9833,37.6833],"type":"Point"}
+}

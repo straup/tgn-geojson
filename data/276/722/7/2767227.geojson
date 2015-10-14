@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.616700,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2767227","tgn:1000001","tgn:7012149","tgn:2001551","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2767227,"name:xx":"White Rock Ridge"}}
+{
+  "id": 2767227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767227",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001551",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767227,
+    "tgn:name":"White Rock Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6167,36.1333],"type":"Point"}
+}

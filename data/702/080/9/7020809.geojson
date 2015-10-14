@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.450000,36.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7020809","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008701","aat:300008706"],"id":7020809,"name:xx":"Gothic Wash"}}
+{
+  "id": 7020809,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020809",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020809,
+    "tgn:name":"Gothic Wash",
+    "tgn:placetype":[
+        "aat:300008701",
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.45,36.9333],"type":"Point"}
+}

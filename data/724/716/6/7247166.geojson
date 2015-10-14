@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.342266,50.526802]},"type":"Feature","properties":{"hierarchy":["tgn:7247166","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7247166,"name:xx":"Dames, Bois des"}}
+{
+  "id": 7247166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247166",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247166,
+    "tgn:name":"Dames, Bois des",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.342266,50.526802],"type":"Point"}
+}

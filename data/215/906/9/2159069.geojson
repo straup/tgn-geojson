@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.333300,48.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2159069","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2159069,"name:xx":"Bedal Creek"}}
+{
+  "id": 2159069,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159069,
+    "tgn:name":"Bedal Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3333,48.0333],"type":"Point"}
+}

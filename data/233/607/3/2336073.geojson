@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.550000,33.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2336073","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000055","tgn:7029392"],"placetype":["aat:300008347"],"id":2336073,"name:xx":"Foster Crossroad"}}
+{
+  "id": 2336073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336073",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000055",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336073,
+    "tgn:name":"Foster Crossroad",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.55,33.4167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.266667,27.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7354742","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354742,"name:xx":"Charco de la Mula"}}
+{
+  "id": 7354742,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354742",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354742,
+    "tgn:name":"Charco de la Mula",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.266667,27.516667],"type":"Point"}
+}

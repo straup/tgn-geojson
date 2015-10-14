@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.433300,37.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2768633","tgn:1000001","tgn:7012149","tgn:1002298","tgn:7007157","tgn:7029392"],"placetype":["aat:300132348"],"id":2768633,"name:xx":"Whiting Rock"}}
+{
+  "id": 2768633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002298",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768633,
+    "tgn:name":"Whiting Rock",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4333,37.95],"type":"Point"}
+}

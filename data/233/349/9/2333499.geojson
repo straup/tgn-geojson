@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.550000,41.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2333499","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008680"],"id":2333499,"name:xx":"Folly Pond"}}
+{
+  "id": 2333499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333499",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333499,
+    "tgn:name":"Folly Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.55,41.75],"type":"Point"}
+}

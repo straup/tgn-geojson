@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.433333,22.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7379316","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379316,"name:xx":"Mezquitimanga"}}
+{
+  "id": 7379316,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379316",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379316,
+    "tgn:name":"Mezquitimanga",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.433333,22.116667],"type":"Point"}
+}

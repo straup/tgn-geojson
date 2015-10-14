@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.458611,24.002500]},"type":"Feature","properties":{"hierarchy":["tgn:7470100","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470100,"name:xx":"Haoxiu Cun"}}
+{
+  "id": 7470100,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470100",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470100,
+    "tgn:name":"Haoxiu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.458611,24.0025],"type":"Point"}
+}

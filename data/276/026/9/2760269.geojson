@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-150.900000,62.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2760269","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008835"],"id":2760269,"name:xx":"West Fork Ruth Glacier"}}
+{
+  "id": 2760269,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760269",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760269,
+    "tgn:name":"West Fork Ruth Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-150.9,62.9833],"type":"Point"}
+}

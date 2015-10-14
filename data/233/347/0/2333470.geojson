@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.533300,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2333470","tgn:1000001","tgn:7012149","tgn:2002115","tgn:7007827","tgn:7029392"],"placetype":["aat:300266640"],"id":2333470,"name:xx":"Folley Ridge"}}
+{
+  "id": 2333470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333470",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002115",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333470,
+    "tgn:name":"Folley Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5333,41.1],"type":"Point"}
+}

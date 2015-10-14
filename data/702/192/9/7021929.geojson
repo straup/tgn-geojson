@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.216700,36.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7021929","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":7021929,"name:xx":"Marys Hollow"}}
+{
+  "id": 7021929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021929",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021929,
+    "tgn:name":"Marys Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2167,36.8],"type":"Point"}
+}

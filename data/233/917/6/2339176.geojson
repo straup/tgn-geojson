@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.166700,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2339176","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2339176,"name:xx":"Franks Lake"}}
+{
+  "id": 2339176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339176",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339176,
+    "tgn:name":"Franks Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1667,36.5],"type":"Point"}
+}

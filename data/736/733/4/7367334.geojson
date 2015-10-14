@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.833333,20.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7367334","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367334,"name:xx":"Estancia de San Nicolas"}}
+{
+  "id": 7367334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367334",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367334,
+    "tgn:name":"Estancia de San Nicolas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.833333,20.383333],"type":"Point"}
+}

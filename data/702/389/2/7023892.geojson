@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[138.500000,36.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7023892","tgn:7000895","tgn:1000004","tgn:1001010","tgn:1000120","tgn:7029392"],"placetype":["aat:300008347"],"id":7023892,"name:xx":"Saku"}}
+{
+  "id": 7023892,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023892",
+        "tgn:7000895",
+        "tgn:1000004",
+        "tgn:1001010",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023892,
+    "tgn:name":"Saku",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[138.5,36.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.866700,42.416700]},"type":"Feature","properties":{"hierarchy":["tgn:7020967","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":7020967,"name:xx":"Granite Springs"}}
+{
+  "id": 7020967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020967",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020967,
+    "tgn:name":"Granite Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.8667,42.4167],"type":"Point"}
+}

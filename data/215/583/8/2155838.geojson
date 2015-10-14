@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.116700,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2155838","tgn:1000001","tgn:7012149","tgn:2002119","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2155838,"name:xx":"Bear Trap Canyon"}}
+{
+  "id": 2155838,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155838",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002119",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155838,
+    "tgn:name":"Bear Trap Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.1167,38.0333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.683300,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022375","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022375,"name:xx":"Big Spring Ridge"}}
+{
+  "id": 7022375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022375",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022375,
+    "tgn:name":"Big Spring Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6833,34.9833],"type":"Point"}
+}

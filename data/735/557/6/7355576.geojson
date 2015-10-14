@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.783333,20.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7355576","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7355576,"name:xx":"Celanesa Mexicana"}}
+{
+  "id": 7355576,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355576",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355576,
+    "tgn:name":"Celanesa Mexicana",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.783333,20.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.500000,40.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2766120","tgn:1002134","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008791"],"id":2766120,"name:xx":"White Island"}}
+{
+  "id": 2766120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766120",
+        "tgn:1002134",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766120,
+    "tgn:name":"White Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.5,40.1667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.853700,25.104200]},"type":"Feature","properties":{"hierarchy":["tgn:7488524","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488524,"name:xx":"Guashan Li"}}
+{
+  "id": 7488524,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488524",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488524,
+    "tgn:name":"Guashan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.8537,25.1042],"type":"Point"}
+}

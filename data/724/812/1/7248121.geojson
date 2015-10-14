@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.236098,50.886328]},"type":"Feature","properties":{"hierarchy":["tgn:7248121","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248121,"name:xx":"Bekkerzeel"}}
+{
+  "id": 7248121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248121",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248121,
+    "tgn:name":"Bekkerzeel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.236098,50.886328],"type":"Point"}
+}

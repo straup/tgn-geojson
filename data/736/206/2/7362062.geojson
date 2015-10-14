@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.850000,23.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7362062","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7362062,"name:xx":"EL Palmito"}}
+{
+  "id": 7362062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362062",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362062,
+    "tgn:name":"EL Palmito",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.85,23.416667],"type":"Point"}
+}

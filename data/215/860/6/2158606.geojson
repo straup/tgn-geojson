@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.816700,34.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2158606","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000041","tgn:7029392"],"placetype":["aat:300008905"],"id":2158606,"name:xx":"Beaverdam Swamp"}}
+{
+  "id": 2158606,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158606",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000041",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158606,
+    "tgn:name":"Beaverdam Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8167,34.65],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.050000,52.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7027255","tgn:7002445","tgn:1000003","tgn:7008145","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Therfield","id":7027255}}
+{
+  "id": 7027255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027255",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008145",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027255,
+    "tgn:name:en":"Therfield",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.05,52.016667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.150000,14.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7367299","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367299,"name:xx":"El Rosario Izapa"}}
+{
+  "id": 7367299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367299",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367299,
+    "tgn:name":"El Rosario Izapa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.15,14.966667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.066700,39.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2761708","tgn:1000001","tgn:1002738","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008791"],"id":2761708,"name:xx":"West Point Island"}}
+{
+  "id": 2761708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761708",
+        "tgn:1000001",
+        "tgn:1002738",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761708,
+    "tgn:name":"West Point Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0667,39.95],"type":"Point"}
+}

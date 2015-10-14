@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.316700,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2332918","tgn:1000001","tgn:2000461","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2332918,"name:xx":"Flume Canyon"}}
+{
+  "id": 2332918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332918",
+        "tgn:1000001",
+        "tgn:2000461",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332918,
+    "tgn:name":"Flume Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3167,43.5],"type":"Point"}
+}

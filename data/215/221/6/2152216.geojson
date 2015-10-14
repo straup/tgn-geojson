@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.433300,34.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2152216","tgn:1000001","tgn:2001472","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2152216,"name:xx":"Bay Branch"}}
+{
+  "id": 2152216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152216",
+        "tgn:1000001",
+        "tgn:2001472",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152216,
+    "tgn:name":"Bay Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4333,34.1167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.733300,32.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2334660","tgn:1000001","tgn:7012149","tgn:2000182","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2334660,"name:xx":"Forget-Me-Not Lateral One"}}
+{
+  "id": 2334660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334660",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000182",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334660,
+    "tgn:name":"Forget-Me-Not Lateral One",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7333,32.75],"type":"Point"}
+}

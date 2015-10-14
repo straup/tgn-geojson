@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.516700,39.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2339533","tgn:1000001","tgn:7012149","tgn:1002687","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":2339533,"name:xx":"Fred Wenzel Lake"}}
+{
+  "id": 2339533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339533",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002687",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339533,
+    "tgn:name":"Fred Wenzel Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.5167,39.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.216700,44.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2767830","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132348"],"id":2767830,"name:xx":"Whitehorse Ledge"}}
+{
+  "id": 2767830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767830",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767830,
+    "tgn:name":"Whitehorse Ledge",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.2167,44.2333],"type":"Point"}
+}

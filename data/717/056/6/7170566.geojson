@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.433333,50.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7170566","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7170566,"name:xx":"Hennigsh\u00f6he"}}
+{
+  "id": 7170566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170566",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170566,
+    "tgn:name":"Hennigsh\u00f6he",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.433333,50.816667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.650000,38.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2765827","tgn:1000001","tgn:7012149","tgn:1002879","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2765827,"name:xx":"White Eye Branch"}}
+{
+  "id": 2765827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765827",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002879",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765827,
+    "tgn:name":"White Eye Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.65,38.7167],"type":"Point"}
+}

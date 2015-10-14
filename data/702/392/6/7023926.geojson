@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-62.166000,16.716000]},"type":"Feature","properties":{"hierarchy":["tgn:7023926","tgn:1000001","tgn:7004786","tgn:7029392"],"placetype":["aat:300132325"],"id":7023926,"name:xx":"Soufri\u00e9re Hills"}}
+{
+  "id": 7023926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023926",
+        "tgn:1000001",
+        "tgn:7004786",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023926,
+    "tgn:name":"Soufri\u00e9re Hills",
+    "tgn:placetype":[
+        "aat:300132325"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-62.166,16.716],"type":"Point"}
+}

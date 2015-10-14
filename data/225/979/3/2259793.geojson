@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.200000,47.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2259793","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2259793,"name:xx":"Cougar Peak Loookout"}}
+{
+  "id": 2259793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259793",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259793,
+    "tgn:name":"Cougar Peak Loookout",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2,47.6667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.900000,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2401329","tgn:1000001","tgn:7012149","tgn:2002177","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2401329,"name:xx":"Horsepen Branch"}}
+{
+  "id": 2401329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401329",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002177",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401329,
+    "tgn:name":"Horsepen Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9,38.25],"type":"Point"}
+}

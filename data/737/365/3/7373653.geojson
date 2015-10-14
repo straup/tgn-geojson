@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.833333,30.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7373653","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7373653,"name:xx":"Rancho La Ciros"}}
+{
+  "id": 7373653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373653",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373653,
+    "tgn:name":"Rancho La Ciros",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.833333,30.55],"type":"Point"}
+}

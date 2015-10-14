@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.226944,23.005833]},"type":"Feature","properties":{"hierarchy":["tgn:7480050","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7480050,"name:xx":"Baoren Guoxiao"}}
+{
+  "id": 7480050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480050",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480050,
+    "tgn:name":"Baoren Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.226944,23.005833],"type":"Point"}
+}

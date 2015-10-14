@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.916667,25.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7377458","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377458,"name:xx":"Rancho Las Bateas"}}
+{
+  "id": 7377458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377458",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377458,
+    "tgn:name":"Rancho Las Bateas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.916667,25.866667],"type":"Point"}
+}

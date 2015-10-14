@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.216700,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2255680","tgn:1000001","tgn:7012149","tgn:2002267","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2255680,"name:xx":"Coplin Run"}}
+{
+  "id": 2255680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255680",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002267",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255680,
+    "tgn:name":"Coplin Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2167,39.2333],"type":"Point"}
+}

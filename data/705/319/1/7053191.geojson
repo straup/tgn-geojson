@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.683333,41.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7053191","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7053191,"name:xx":"Montenero"}}
+{
+  "id": 7053191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053191",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053191,
+    "tgn:name":"Montenero",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.683333,41.716667],"type":"Point"}
+}

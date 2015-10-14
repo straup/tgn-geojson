@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.083333,30.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7361195","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361195,"name:xx":"Rancho El N\u00famero Dos"}}
+{
+  "id": 7361195,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361195",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361195,
+    "tgn:name":"Rancho El N\u00famero Dos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.083333,30.0],"type":"Point"}
+}

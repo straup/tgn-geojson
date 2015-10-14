@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.400000,47.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2252384","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008850"],"id":2252384,"name:xx":"Conglomerate Point"}}
+{
+  "id": 2252384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252384",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252384,
+    "tgn:name":"Conglomerate Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4,47.8333],"type":"Point"}
+}

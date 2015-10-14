@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-98.150000,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7024279","tgn:1000001","tgn:7012149","tgn:2000737","tgn:7007254","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300008375"],"id":7024279,"name:xx":"Sego"}}
+{
+  "id": 7024279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024279",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000737",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024279,
+    "tgn:name":"Sego",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.15,37.7833],"type":"Point"}
+}

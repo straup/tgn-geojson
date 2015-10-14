@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.216667,21.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7362608","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7362608,"name:xx":"El Carrizal"}}
+{
+  "id": 7362608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362608",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362608,
+    "tgn:name":"El Carrizal",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.216667,21.533333],"type":"Point"}
+}

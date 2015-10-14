@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.483300,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2255643","tgn:2002101","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300386845"],"id":2255643,"name:xx":"Copes Basin"}}
+{
+  "id": 2255643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255643",
+        "tgn:2002101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255643,
+    "tgn:name":"Copes Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4833,38.25],"type":"Point"}
+}

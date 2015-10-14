@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.446944,22.905278]},"type":"Feature","properties":{"hierarchy":["tgn:7489196","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489196,"name:xx":"Xialubu"}}
+{
+  "id": 7489196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489196",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489196,
+    "tgn:name":"Xialubu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.446944,22.905278],"type":"Point"}
+}

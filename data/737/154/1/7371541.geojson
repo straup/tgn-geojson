@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.200000,31.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7371541","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371541,"name:xx":"Rancho La Delfina"}}
+{
+  "id": 7371541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371541",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371541,
+    "tgn:name":"Rancho La Delfina",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2,31.166667],"type":"Point"}
+}

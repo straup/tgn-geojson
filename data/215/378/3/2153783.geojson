@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.850000,41.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2153783","tgn:1000001","tgn:7012149","tgn:2002385","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2153783,"name:xx":"Bear Canal"}}
+{
+  "id": 2153783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153783",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002385",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153783,
+    "tgn:name":"Bear Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.85,41.0167],"type":"Point"}
+}

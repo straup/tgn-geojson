@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.116700,32.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769429","tgn:1000001","tgn:7012149","tgn:2000378","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2769429,"name:xx":"Wide Branch"}}
+{
+  "id": 2769429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769429",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000378",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769429,
+    "tgn:name":"Wide Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1167,32.4333],"type":"Point"}
+}

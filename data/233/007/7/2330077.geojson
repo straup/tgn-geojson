@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.083300,35.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2330077","tgn:1000001","tgn:7012149","tgn:2001898","tgn:7007825","tgn:7029392"],"placetype":["aat:300008798"],"id":2330077,"name:xx":"Flagpole Hill"}}
+{
+  "id": 2330077,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330077",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001898",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330077,
+    "tgn:name":"Flagpole Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0833,35.5],"type":"Point"}
+}

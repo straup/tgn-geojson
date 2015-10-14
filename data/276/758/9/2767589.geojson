@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.750000,33.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2767589","tgn:7002659","tgn:1000001","tgn:2000004","tgn:7012149","tgn:7029392"],"placetype":["aat:300008746"],"id":2767589,"name:xx":"White Worm Cave"}}
+{
+  "id": 2767589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767589",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000004",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767589,
+    "tgn:name":"White Worm Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.75,33.95],"type":"Point"}
+}

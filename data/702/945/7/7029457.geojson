@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[25.333000,65.933000]},"type":"Feature","properties":{"hierarchy":["tgn:7029457","tgn:1001475","tgn:1000003","tgn:1000069","tgn:7029392"],"placetype":["aat:300008347"],"id":7029457,"name:fi":"Oulunsalo"}}
+{
+  "id": 7029457,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029457",
+        "tgn:1001475",
+        "tgn:1000003",
+        "tgn:1000069",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029457,
+    "tgn:name:fi":"Oulunsalo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.333,65.933],"type":"Point"}
+}

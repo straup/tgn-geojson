@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.116700,33.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2333218","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000060","tgn:7029392"],"placetype":["aat:300008697"],"id":2333218,"name:xx":"Flynns Spring"}}
+{
+  "id": 2333218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333218",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000060",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333218,
+    "tgn:name":"Flynns Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1167,33.5],"type":"Point"}
+}

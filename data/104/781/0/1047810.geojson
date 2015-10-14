@@ -1,0 +1,27 @@
+{
+  "id": 1047810,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ecee1c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755023",
+        "gp:id":729627,
+        "wof:id":101837649
+    },
+    "tgn:hierarchy":[
+        "tgn:1047810",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009060",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047810,
+    "tgn:name:nl":"Haamstede",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.75,51.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.416667,21.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7376171","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376171,"name:xx":"Las Verdolagas"}}
+{
+  "id": 7376171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376171",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376171,
+    "tgn:name":"Las Verdolagas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.416667,21.35],"type":"Point"}
+}

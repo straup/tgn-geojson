@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[121.755435,24.345464]},"type":"Feature","properties":{"hierarchy":["tgn:7471391","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798","aat:300387002"],"id":7471391,"name:xx":"Zhuoshui Shan"}}
+{
+  "id": 7471391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471391",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471391,
+    "tgn:name":"Zhuoshui Shan",
+    "tgn:placetype":[
+        "aat:300008798",
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.755435,24.345464],"type":"Point"}
+}

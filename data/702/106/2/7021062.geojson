@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.033300,38.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7021062","tgn:1000001","tgn:2002259","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021062,"name:xx":"Sinnett Run"}}
+{
+  "id": 7021062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021062",
+        "tgn:1000001",
+        "tgn:2002259",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021062,
+    "tgn:name":"Sinnett Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0333,38.55],"type":"Point"}
+}

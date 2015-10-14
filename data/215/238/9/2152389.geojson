@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.566700,46.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2152389","tgn:1000001","tgn:2000952","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2152389,"name:xx":"Bay Mills Point"}}
+{
+  "id": 2152389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152389",
+        "tgn:1000001",
+        "tgn:2000952",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152389,
+    "tgn:name":"Bay Mills Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5667,46.4167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.283333,45.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7055990","tgn:7005852","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055990,"name:xx":"Vassena"}}
+{
+  "id": 7055990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055990",
+        "tgn:7005852",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055990,
+    "tgn:name":"Vassena",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.283333,45.933333],"type":"Point"}
+}

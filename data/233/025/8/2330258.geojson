@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.716700,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2330258","tgn:1002132","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008850"],"id":2330258,"name:xx":"Flannegan Point"}}
+{
+  "id": 2330258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330258",
+        "tgn:1002132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330258,
+    "tgn:name":"Flannegan Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7167,37.7833],"type":"Point"}
+}

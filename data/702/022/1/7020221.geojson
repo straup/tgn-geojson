@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.016700,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7020221","tgn:1000001","tgn:7012149","tgn:1002312","tgn:7007709","tgn:7029392"],"placetype":["aat:300008791"],"id":7020221,"name:xx":"Hog Island"}}
+{
+  "id": 7020221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020221",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002312",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020221,
+    "tgn:name":"Hog Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0167,36.5],"type":"Point"}
+}

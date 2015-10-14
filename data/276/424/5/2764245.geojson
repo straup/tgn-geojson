@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.450000,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2764245","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2764245,"name:xx":"Wheelers Run"}}
+{
+  "id": 2764245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764245",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764245,
+    "tgn:name":"Wheelers Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.45,38.1],"type":"Point"}
+}

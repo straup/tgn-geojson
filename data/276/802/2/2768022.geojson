@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.533300,38.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2768022","tgn:1000001","tgn:7012149","tgn:2002300","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2768022,"name:xx":"Whiteoak Run"}}
+{
+  "id": 2768022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768022",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002300",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768022,
+    "tgn:name":"Whiteoak Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5333,38.55],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.350000,51.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7175622","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7175622,"name:xx":"Gro\u00df Wietfeld"}}
+{
+  "id": 7175622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175622",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175622,
+    "tgn:name":"Gro\u00df Wietfeld",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.35,51.766667],"type":"Point"}
+}

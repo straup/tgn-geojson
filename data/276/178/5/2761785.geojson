@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.683300,35.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2761785","tgn:1000001","tgn:7012149","tgn:2001544","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2761785,"name:xx":"West Prong Glade Creek"}}
+{
+  "id": 2761785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761785",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001544",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761785,
+    "tgn:name":"West Prong Glade Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6833,35.2667],"type":"Point"}
+}

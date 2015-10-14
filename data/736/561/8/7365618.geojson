@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.033333,26.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7365618","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008057"],"id":7365618,"name:xx":"Fundidi\u00f3n de ploma Jesus Mar\u00eda"}}
+{
+  "id": 7365618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365618",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365618,
+    "tgn:name":"Fundidi\u00f3n de ploma Jesus Mar\u00eda",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.033333,26.6],"type":"Point"}
+}

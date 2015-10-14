@@ -1,0 +1,27 @@
+{
+  "id": 4009242,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1c810-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748178",
+        "gp:id":732926,
+        "qs:id":7,
+        "wof:id":101754737
+    },
+    "tgn:hierarchy":[
+        "tgn:4009242",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4009242,
+    "tgn:name:nl":"Rhoon",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.433333,51.866667],"type":"Point"}
+}

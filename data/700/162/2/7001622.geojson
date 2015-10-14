@@ -1,0 +1,24 @@
+{
+  "id": 7001622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001622",
+        "tgn:7001242",
+        "tgn:1000201",
+        "tgn:1001213",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001622,
+    "tgn:name":"El Fasher",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.3667,13.6167],"type":"Point"}
+}

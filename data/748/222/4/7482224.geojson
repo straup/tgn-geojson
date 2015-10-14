@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[119.932836,26.150391]},"type":"Feature","properties":{"hierarchy":["tgn:7482224","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347","aat:300387220"],"id":7482224,"name:xx":"Nangan"}}
+{
+  "id": 7482224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482224",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482224,
+    "tgn:name":"Nangan",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.932836,26.150391],"type":"Point"}
+}

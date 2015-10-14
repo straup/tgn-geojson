@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.800000,27.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7358364","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358364,"name:xx":"Del Alma"}}
+{
+  "id": 7358364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358364",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358364,
+    "tgn:name":"Del Alma",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8,27.533333],"type":"Point"}
+}

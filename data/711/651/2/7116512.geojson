@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.916667,47.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7116512","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116512,"name:xx":"Oberwaldhaus"}}
+{
+  "id": 7116512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116512",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116512,
+    "tgn:name":"Oberwaldhaus",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.916667,47.966667],"type":"Point"}
+}

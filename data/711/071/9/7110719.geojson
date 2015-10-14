@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.200000,50.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7110719","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110719,"name:xx":"Reichenstein"}}
+{
+  "id": 7110719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110719",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110719,
+    "tgn:name":"Reichenstein",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.2,50.533333],"type":"Point"}
+}

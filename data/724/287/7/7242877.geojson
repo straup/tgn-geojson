@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.683333,49.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7242877","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242877,"name:xx":"Les Caves de la For\u00eat"}}
+{
+  "id": 7242877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242877",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242877,
+    "tgn:name":"Les Caves de la For\u00eat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.683333,49.833333],"type":"Point"}
+}

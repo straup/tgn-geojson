@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.200000,53.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7173452","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7173452,"name:xx":"Gro\u00dfer Serrahnsee"}}
+{
+  "id": 7173452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173452",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173452,
+    "tgn:name":"Gro\u00dfer Serrahnsee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.2,53.35],"type":"Point"}
+}

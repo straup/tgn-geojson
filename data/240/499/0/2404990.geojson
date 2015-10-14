@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.183300,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2404990","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002867","tgn:7029392"],"placetype":["aat:300008761"],"id":2404990,"name:xx":"Hudson Canyon"}}
+{
+  "id": 2404990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404990",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002867",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404990,
+    "tgn:name":"Hudson Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.1833,34.9],"type":"Point"}
+}

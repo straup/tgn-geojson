@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.833300,27.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7022137","tgn:1000001","tgn:1002477","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300386994"],"id":7022137,"name:xx":"Avon Park Air Force Range"}}
+{
+  "id": 7022137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022137",
+        "tgn:1000001",
+        "tgn:1002477",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022137,
+    "tgn:name":"Avon Park Air Force Range",
+    "tgn:placetype":[
+        "aat:300386994"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8333,27.8333],"type":"Point"}
+}

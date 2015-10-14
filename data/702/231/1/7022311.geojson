@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.116700,41.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7022311","tgn:1000001","tgn:1002712","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008680"],"id":7022311,"name:xx":"Atwood Pond"}}
+{
+  "id": 7022311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022311",
+        "tgn:1000001",
+        "tgn:1002712",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022311,
+    "tgn:name":"Atwood Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.1167,41.55],"type":"Point"}
+}

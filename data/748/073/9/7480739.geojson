@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.458649,23.230485]},"type":"Feature","properties":{"hierarchy":["tgn:7480739","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480739,"name:xx":"Youzikeng"}}
+{
+  "id": 7480739,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480739",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480739,
+    "tgn:name":"Youzikeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.458649,23.230485],"type":"Point"}
+}

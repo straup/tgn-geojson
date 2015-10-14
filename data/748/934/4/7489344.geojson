@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.490833,23.511740]},"type":"Feature","properties":{"hierarchy":["tgn:7489344","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489344,"name:xx":"Huotanbuzi"}}
+{
+  "id": 7489344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489344",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489344,
+    "tgn:name":"Huotanbuzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.490833,23.51174],"type":"Point"}
+}

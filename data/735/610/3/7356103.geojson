@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.050000,27.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7356103","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7356103,"name:xx":"Camar\u00f3n"}}
+{
+  "id": 7356103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356103",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356103,
+    "tgn:name":"Camar\u00f3n",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.05,27.3],"type":"Point"}
+}

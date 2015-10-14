@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.550000,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2404399","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2404399,"name:xx":"Hubbard Brook"}}
+{
+  "id": 2404399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404399",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404399,
+    "tgn:name":"Hubbard Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.55,41.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.566700,39.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2409424","tgn:1000001","tgn:2000198","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300000390"],"id":2409424,"name:xx":"Idaho Tunnel"}}
+{
+  "id": 2409424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409424",
+        "tgn:1000001",
+        "tgn:2000198",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409424,
+    "tgn:name":"Idaho Tunnel",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.5667,39.9667],"type":"Point"}
+}

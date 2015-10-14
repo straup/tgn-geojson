@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.233300,25.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2251422","tgn:1000001","tgn:7012149","tgn:1002314","tgn:7007240","tgn:7029392"],"placetype":["aat:300006075"],"id":2251422,"name:xx":"Comfort Canal Number C-5"}}
+{
+  "id": 2251422,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251422",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002314",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251422,
+    "tgn:name":"Comfort Canal Number C-5",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2333,25.7833],"type":"Point"}
+}

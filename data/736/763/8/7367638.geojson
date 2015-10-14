@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.100000,19.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7367638","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367638,"name:xx":"El Veladero"}}
+{
+  "id": 7367638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367638",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367638,
+    "tgn:name":"El Veladero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.1,19.8],"type":"Point"}
+}

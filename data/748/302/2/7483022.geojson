@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.199722,23.560556]},"type":"Feature","properties":{"hierarchy":["tgn:7483022","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7483022,"name:xx":"Shishuiku"}}
+{
+  "id": 7483022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483022",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483022,
+    "tgn:name":"Shishuiku",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.199722,23.560556],"type":"Point"}
+}

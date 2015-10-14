@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.566700,44.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2333054","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2333054,"name:xx":"Fly Creek Point"}}
+{
+  "id": 2333054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333054",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333054,
+    "tgn:name":"Fly Creek Point",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5667,44.6667],"type":"Point"}
+}

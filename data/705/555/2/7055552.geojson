@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.866667,38.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7055552","tgn:7007850","tgn:7024842","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055552,"name:xx":"Orsigliadi"}}
+{
+  "id": 7055552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055552",
+        "tgn:7007850",
+        "tgn:7024842",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055552,
+    "tgn:name":"Orsigliadi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.866667,38.65],"type":"Point"}
+}

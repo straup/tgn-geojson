@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.383333,53.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7114895","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7114895,"name:xx":"Ochsenweide"}}
+{
+  "id": 7114895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114895",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114895,
+    "tgn:name":"Ochsenweide",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.383333,53.1],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.850000,53.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7029360","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Spaldington","id":7029360}}
+{
+  "id": 7029360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029360",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029360,
+    "tgn:name:en":"Spaldington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.85,53.8],"type":"Point"}
+}

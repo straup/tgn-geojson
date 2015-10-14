@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,31.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2769861","tgn:7002659","tgn:1000001","tgn:2000015","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2769861,"name:xx":"Wilbers Creek"}}
+{
+  "id": 2769861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769861",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000015",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769861,
+    "tgn:name":"Wilbers Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,31.3333],"type":"Point"}
+}

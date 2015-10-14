@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.300000,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2331932","tgn:1000001","tgn:7012149","tgn:2002264","tgn:7013961","tgn:7029392"],"placetype":["aat:300266640"],"id":2331932,"name:xx":"Fletcher Ridge"}}
+{
+  "id": 2331932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331932",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002264",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331932,
+    "tgn:name":"Fletcher Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3,37.7],"type":"Point"}
+}

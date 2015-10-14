@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.216667,19.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7367996","tgn:7005575","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7367996,"name:xx":"Joco"}}
+{
+  "id": 7367996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367996",
+        "tgn:7005575",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367996,
+    "tgn:name":"Joco",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.216667,19.266667],"type":"Point"}
+}

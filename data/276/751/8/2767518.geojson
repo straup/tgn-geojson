@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.716700,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2767518","tgn:1000001","tgn:2001409","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300386831"],"id":2767518,"name:xx":"White Throne Mountains"}}
+{
+  "id": 2767518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767518",
+        "tgn:1000001",
+        "tgn:2001409",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767518,
+    "tgn:name":"White Throne Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.7167,39.25],"type":"Point"}
+}

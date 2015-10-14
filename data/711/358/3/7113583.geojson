@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.750000,52.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7113583","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7113583,"name:xx":"Rosche"}}
+{
+  "id": 7113583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113583",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113583,
+    "tgn:name":"Rosche",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.75,52.983333],"type":"Point"}
+}

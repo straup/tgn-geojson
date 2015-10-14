@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.966700,46.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2151587","tgn:1000001","tgn:1002276","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008347"],"id":2151587,"name:xx":"Battery Russell"}}
+{
+  "id": 2151587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151587",
+        "tgn:1000001",
+        "tgn:1002276",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151587,
+    "tgn:name":"Battery Russell",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.9667,46.1833],"type":"Point"}
+}

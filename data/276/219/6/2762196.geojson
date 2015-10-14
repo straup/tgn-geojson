@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.783300,34.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2762196","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2762196,"name:xx":"West Springs Branch"}}
+{
+  "id": 2762196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762196",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762196,
+    "tgn:name":"West Springs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7833,34.7667],"type":"Point"}
+}

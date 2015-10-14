@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.966700,34.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2257006","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000035","tgn:7029392"],"placetype":["aat:300008746"],"id":2257006,"name:xx":"Corn Hole"}}
+{
+  "id": 2257006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257006",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000035",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257006,
+    "tgn:name":"Corn Hole",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9667,34.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.998518,24.074682]},"type":"Feature","properties":{"hierarchy":["tgn:7484999","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484999,"name:xx":"Xuanye"}}
+{
+  "id": 7484999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484999",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484999,
+    "tgn:name":"Xuanye",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.998518,24.074682],"type":"Point"}
+}

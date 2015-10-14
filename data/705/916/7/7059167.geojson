@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[136.883000,36.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7059167","tgn:7000895","tgn:1000004","tgn:1001037","tgn:1000120","tgn:7029392"],"placetype":["aat:300008347","aat:300008372","aat:300263063"],"id":7059167,"name:xx":"Suganuma"}}
+{
+  "id": 7059167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059167",
+        "tgn:7000895",
+        "tgn:1000004",
+        "tgn:1001037",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059167,
+    "tgn:name":"Suganuma",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[136.883,36.4],"type":"Point"}
+}

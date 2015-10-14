@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.350000,34.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2408024","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000044","tgn:7029392"],"placetype":["aat:300006191"],"id":2408024,"name:xx":"Hurricane Creek Watershed Lake"}}
+{
+  "id": 2408024,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408024",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408024,
+    "tgn:name":"Hurricane Creek Watershed Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.35,34.7833],"type":"Point"}
+}

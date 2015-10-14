@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.550000,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7021689","tgn:1000001","tgn:2001745","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7021689,"name:xx":"Barfields Old Mill Creek"}}
+{
+  "id": 7021689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021689",
+        "tgn:1000001",
+        "tgn:2001745",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021689,
+    "tgn:name":"Barfields Old Mill Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.55,33.9833],"type":"Point"}
+}

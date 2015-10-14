@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.316667,29.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7369673","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369673,"name:xx":"Hu\u00e1sima"}}
+{
+  "id": 7369673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369673",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369673,
+    "tgn:name":"Hu\u00e1sima",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.316667,29.3],"type":"Point"}
+}

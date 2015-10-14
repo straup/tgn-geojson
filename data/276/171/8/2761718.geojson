@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.750000,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2761718","tgn:1000001","tgn:2002103","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2761718,"name:xx":"West Pole Creek"}}
+{
+  "id": 2761718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761718",
+        "tgn:1000001",
+        "tgn:2002103",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761718,
+    "tgn:name":"West Pole Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.75,41.4833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.700000,42.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7054835","tgn:7009084","tgn:7003001","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054835,"name:xx":"Molviano"}}
+{
+  "id": 7054835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054835",
+        "tgn:7009084",
+        "tgn:7003001",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054835,
+    "tgn:name":"Molviano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.7,42.75],"type":"Point"}
+}

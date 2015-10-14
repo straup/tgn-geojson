@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.283300,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2767156","tgn:1000001","tgn:7012149","tgn:2002119","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2767156,"name:xx":"White Rock Curve Village"}}
+{
+  "id": 2767156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767156",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002119",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767156,
+    "tgn:name":"White Rock Curve Village",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.2833,37.2],"type":"Point"}
+}

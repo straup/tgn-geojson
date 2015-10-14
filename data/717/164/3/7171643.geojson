@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.683333,49.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7171643","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7171643,"name:xx":"Herrnwald"}}
+{
+  "id": 7171643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171643",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171643,
+    "tgn:name":"Herrnwald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.683333,49.3],"type":"Point"}
+}

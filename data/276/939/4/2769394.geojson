@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.966700,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2769394","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008680"],"id":2769394,"name:xx":"Wicks Lake"}}
+{
+  "id": 2769394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769394",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769394,
+    "tgn:name":"Wicks Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.9667,41.3833],"type":"Point"}
+}

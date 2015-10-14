@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.550000,30.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2332884","tgn:1000001","tgn:2000311","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008850"],"id":2332884,"name:xx":"Floyds Neck"}}
+{
+  "id": 2332884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332884",
+        "tgn:1000001",
+        "tgn:2000311",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332884,
+    "tgn:name":"Floyds Neck",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.55,30.9],"type":"Point"}
+}

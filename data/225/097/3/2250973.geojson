@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.550000,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2250973","tgn:1000001","tgn:7012149","tgn:2000206","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2250973,"name:xx":"Columbine Ditch Number Five"}}
+{
+  "id": 2250973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250973",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000206",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250973,
+    "tgn:name":"Columbine Ditch Number Five",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.55,39.0833],"type":"Point"}
+}

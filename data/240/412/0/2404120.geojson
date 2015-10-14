@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.316700,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2404120","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2404120,"name:xx":"Howison Spring"}}
+{
+  "id": 2404120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404120",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404120,
+    "tgn:name":"Howison Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.3167,41.3333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7002152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002152",
+        "tgn:1000004",
+        "tgn:1002108",
+        "tgn:1000108",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002152,
+    "tgn:name":"Rangoon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387272",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[96.1667,16.7833],"type":"Point"}
+}

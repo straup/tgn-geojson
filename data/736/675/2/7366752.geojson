@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.450000,26.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7366752","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7366752,"name:xx":"El Rincon"}}
+{
+  "id": 7366752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366752",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366752,
+    "tgn:name":"El Rincon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.45,26.066667],"type":"Point"}
+}

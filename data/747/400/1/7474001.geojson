@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.353200,23.787100]},"type":"Feature","properties":{"hierarchy":["tgn:7474001","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474001,"name:xx":"Dingjiezi"}}
+{
+  "id": 7474001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474001",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474001,
+    "tgn:name":"Dingjiezi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3532,23.7871],"type":"Point"}
+}

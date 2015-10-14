@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.216667,51.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7115457","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7115457,"name:xx":"Padden Pfuhl"}}
+{
+  "id": 7115457,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115457",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115457,
+    "tgn:name":"Padden Pfuhl",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.216667,51.966667],"type":"Point"}
+}

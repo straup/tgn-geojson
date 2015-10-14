@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.510061,22.489469]},"type":"Feature","properties":{"hierarchy":["tgn:7478118","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478118,"name:xx":"Nanjing Gong"}}
+{
+  "id": 7478118,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478118",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478118,
+    "tgn:name":"Nanjing Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.510061,22.489469],"type":"Point"}
+}

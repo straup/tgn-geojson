@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.433300,34.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2764545","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002857","tgn:7029392"],"placetype":["aat:300386831"],"id":2764545,"name:xx":"Whipple Mountains"}}
+{
+  "id": 2764545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764545",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764545,
+    "tgn:name":"Whipple Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.4333,34.2833],"type":"Point"}
+}

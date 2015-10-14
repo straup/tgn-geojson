@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.816700,40.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2254306","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2254306,"name:xx":"Coon Creek"}}
+{
+  "id": 2254306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254306",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254306,
+    "tgn:name":"Coon Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.8167,40.1833],"type":"Point"}
+}

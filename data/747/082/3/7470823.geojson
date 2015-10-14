@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.723056,24.281111]},"type":"Feature","properties":{"hierarchy":["tgn:7470823","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7470823,"name:xx":"Houfeng Daqiao"}}
+{
+  "id": 7470823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470823",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470823,
+    "tgn:name":"Houfeng Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.723056,24.281111],"type":"Point"}
+}

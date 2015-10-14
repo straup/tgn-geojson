@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.233300,42.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2408908","tgn:1000001","tgn:7012149","tgn:2002376","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2408908,"name:xx":"Hyrum Smith Ditch"}}
+{
+  "id": 2408908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002376",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408908,
+    "tgn:name":"Hyrum Smith Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.2333,42.2],"type":"Point"}
+}

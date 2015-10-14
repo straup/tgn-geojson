@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.971667,26.165278]},"type":"Feature","properties":{"hierarchy":["tgn:7487548","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7487548,"name:xx":"Huangguan Yu"}}
+{
+  "id": 7487548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487548",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487548,
+    "tgn:name":"Huangguan Yu",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.971667,26.165278],"type":"Point"}
+}

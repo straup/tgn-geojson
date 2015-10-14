@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.350000,43.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2154811","tgn:1000001","tgn:2001425","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008798"],"id":2154811,"name:xx":"Bear Hill"}}
+{
+  "id": 2154811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154811",
+        "tgn:1000001",
+        "tgn:2001425",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154811,
+    "tgn:name":"Bear Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.35,43.1167],"type":"Point"}
+}

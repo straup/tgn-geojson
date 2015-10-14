@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.137158,22.912546]},"type":"Feature","properties":{"hierarchy":["tgn:7489510","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7489510,"name:xx":"Luye Zhan"}}
+{
+  "id": 7489510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489510",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489510,
+    "tgn:name":"Luye Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.137158,22.912546],"type":"Point"}
+}

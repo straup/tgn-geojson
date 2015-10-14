@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.216667,50.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7118516","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7118516,"name:xx":"Petersberg"}}
+{
+  "id": 7118516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118516",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118516,
+    "tgn:name":"Petersberg",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.216667,50.683333],"type":"Point"}
+}

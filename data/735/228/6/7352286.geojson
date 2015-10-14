@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.866667,29.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7352286","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352286,"name:xx":"Barranco Blanco"}}
+{
+  "id": 7352286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352286",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352286,
+    "tgn:name":"Barranco Blanco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.866667,29.1],"type":"Point"}
+}

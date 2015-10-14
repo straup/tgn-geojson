@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.833300,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2764018","tgn:1000001","tgn:7012149","tgn:2002175","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2764018,"name:xx":"Wheeler Cove"}}
+{
+  "id": 2764018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764018",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002175",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764018,
+    "tgn:name":"Wheeler Cove",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8333,37.7833],"type":"Point"}
+}

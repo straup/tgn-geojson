@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.566700,37.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2333130","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2333130,"name:xx":"Flying Machine Spring"}}
+{
+  "id": 2333130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333130",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333130,
+    "tgn:name":"Flying Machine Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5667,37.4167],"type":"Point"}
+}

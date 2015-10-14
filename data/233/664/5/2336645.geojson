@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.850000,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2336645","tgn:1002143","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2336645,"name:xx":"Four Presidents Corners"}}
+{
+  "id": 2336645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336645",
+        "tgn:1002143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336645,
+    "tgn:name":"Four Presidents Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.85,41.0],"type":"Point"}
+}

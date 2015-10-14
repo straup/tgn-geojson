@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.966700,45.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2408641","tgn:1000001","tgn:7012149","tgn:2001275","tgn:7007524","tgn:7029392"],"placetype":["aat:300266640"],"id":2408641,"name:xx":"Hyalite Ridge"}}
+{
+  "id": 2408641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001275",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408641,
+    "tgn:name":"Hyalite Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9667,45.3833],"type":"Point"}
+}

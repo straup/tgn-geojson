@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.483300,47.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2331958","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300006191"],"id":2331958,"name:xx":"Flett Creek Holding Basin"}}
+{
+  "id": 2331958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331958",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331958,
+    "tgn:name":"Flett Creek Holding Basin",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4833,47.1833],"type":"Point"}
+}

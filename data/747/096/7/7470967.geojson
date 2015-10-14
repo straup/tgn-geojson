@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.749648,24.616488]},"type":"Feature","properties":{"hierarchy":["tgn:7470967","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7470967,"name:xx":"Houlong Xikou"}}
+{
+  "id": 7470967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470967",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470967,
+    "tgn:name":"Houlong Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.749648,24.616488],"type":"Point"}
+}

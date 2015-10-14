@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.911850,50.732476]},"type":"Feature","properties":{"hierarchy":["tgn:7241882","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241882,"name:xx":"Le Gheer"}}
+{
+  "id": 7241882,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241882",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241882,
+    "tgn:name":"Le Gheer",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.91185,50.732476],"type":"Point"}
+}

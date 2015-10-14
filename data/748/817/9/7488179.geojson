@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.089690,22.817739]},"type":"Feature","properties":{"hierarchy":["tgn:7488179","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008217"],"id":7488179,"name:xx":"Huadong Gonglu"}}
+{
+  "id": 7488179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488179",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488179,
+    "tgn:name":"Huadong Gonglu",
+    "tgn:placetype":[
+        "aat:300008217"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.08969,22.817739],"type":"Point"}
+}

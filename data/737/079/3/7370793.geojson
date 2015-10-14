@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.333333,27.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7370793","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7370793,"name:xx":"G\u00fceg\u00fceyoca"}}
+{
+  "id": 7370793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370793",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370793,
+    "tgn:name":"G\u00fceg\u00fceyoca",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.333333,27.816667],"type":"Point"}
+}

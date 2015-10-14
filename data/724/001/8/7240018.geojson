@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.872270,50.946209]},"type":"Feature","properties":{"hierarchy":["tgn:7240018","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7240018,"name:xx":"Hoog Kouter"}}
+{
+  "id": 7240018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240018",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240018,
+    "tgn:name":"Hoog Kouter",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.87227,50.946209],"type":"Point"}
+}

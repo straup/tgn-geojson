@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.416810,23.078975]},"type":"Feature","properties":{"hierarchy":["tgn:7480279","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480279,"name:xx":"Houkeng Erhao Qiao"}}
+{
+  "id": 7480279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480279",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480279,
+    "tgn:name":"Houkeng Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.41681,23.078975],"type":"Point"}
+}

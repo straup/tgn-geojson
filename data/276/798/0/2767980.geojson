@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.166700,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2767980","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000057","tgn:7029392"],"placetype":["aat:300008706"],"id":2767980,"name:xx":"Whiteoak Creek"}}
+{
+  "id": 2767980,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767980",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000057",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767980,
+    "tgn:name":"Whiteoak Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1667,33.7833],"type":"Point"}
+}

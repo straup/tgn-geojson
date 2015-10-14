@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.783333,50.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7240868","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240868,"name:xx":"Fond de Malonne"}}
+{
+  "id": 7240868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240868",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240868,
+    "tgn:name":"Fond de Malonne",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.783333,50.433333],"type":"Point"}
+}

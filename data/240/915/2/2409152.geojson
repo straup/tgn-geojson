@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.600000,46.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2409152","tgn:1000001","tgn:7012149","tgn:2000966","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2409152,"name:xx":"Ice Lake"}}
+{
+  "id": 2409152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409152",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000966",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409152,
+    "tgn:name":"Ice Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.6,46.1],"type":"Point"}
+}

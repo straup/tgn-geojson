@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.216667,45.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7053934","tgn:1003430","tgn:1000003","tgn:7003126","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053934,"name:xx":"Pallex"}}
+{
+  "id": 7053934,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053934",
+        "tgn:1003430",
+        "tgn:1000003",
+        "tgn:7003126",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053934,
+    "tgn:name":"Pallex",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.216667,45.833333],"type":"Point"}
+}

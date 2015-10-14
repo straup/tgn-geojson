@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.533300,47.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2334401","tgn:1000001","tgn:7012149","tgn:2001029","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2334401,"name:xx":"Forest Lake"}}
+{
+  "id": 2334401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334401",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001029",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334401,
+    "tgn:name":"Forest Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5333,47.2333],"type":"Point"}
+}

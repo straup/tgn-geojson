@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.066700,41.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2406566","tgn:1000001","tgn:7012149","tgn:1002612","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2406566,"name:xx":"Hunlock"}}
+{
+  "id": 2406566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002612",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406566,
+    "tgn:name":"Hunlock",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0667,41.2],"type":"Point"}
+}

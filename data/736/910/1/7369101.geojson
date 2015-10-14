@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.766667,16.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7369101","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369101,"name:xx":"Horcones, R\u00edo de los"}}
+{
+  "id": 7369101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369101",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369101,
+    "tgn:name":"Horcones, R\u00edo de los",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.766667,16.933333],"type":"Point"}
+}

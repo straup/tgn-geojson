@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.723091,22.783270]},"type":"Feature","properties":{"hierarchy":["tgn:7474697","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7474697,"name:xx":"Huyaluo"}}
+{
+  "id": 7474697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474697",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474697,
+    "tgn:name":"Huyaluo",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.723091,22.78327],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.133333,53.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7174569","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7174569,"name:xx":"Gro\u00dfer Keetzsee"}}
+{
+  "id": 7174569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174569",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174569,
+    "tgn:name":"Gro\u00dfer Keetzsee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.133333,53.283333],"type":"Point"}
+}

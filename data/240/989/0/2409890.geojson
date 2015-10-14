@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.433300,35.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2409890","tgn:1000001","tgn:7012149","tgn:7007707","tgn:7029392"],"placetype":["aat:300008706"],"id":2409890,"name:xx":"Imhoff Creek"}}
+{
+  "id": 2409890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409890",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409890,
+    "tgn:name":"Imhoff Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.4333,35.2167],"type":"Point"}
+}

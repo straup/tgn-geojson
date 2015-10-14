@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.440859,23.625059]},"type":"Feature","properties":{"hierarchy":["tgn:7470614","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470614,"name:xx":"Xifu Cun"}}
+{
+  "id": 7470614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470614",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470614,
+    "tgn:name":"Xifu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.440859,23.625059],"type":"Point"}
+}

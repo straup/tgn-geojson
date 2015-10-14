@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.490903,25.060899]},"type":"Feature","properties":{"hierarchy":["tgn:7480928","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300006676"],"id":7480928,"name:xx":"Sanchong Yiyuan"}}
+{
+  "id": 7480928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480928",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480928,
+    "tgn:name":"Sanchong Yiyuan",
+    "tgn:placetype":[
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.490903,25.060899],"type":"Point"}
+}

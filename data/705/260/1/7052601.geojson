@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.433333,41.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7052601","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052601,"name:xx":"Iorenzo, Torrente"}}
+{
+  "id": 7052601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052601",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052601,
+    "tgn:name":"Iorenzo, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.433333,41.416667],"type":"Point"}
+}

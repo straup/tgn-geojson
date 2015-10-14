@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.916700,29.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2152978","tgn:1000001","tgn:7020676","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152978,"name:xx":"Beach Pond"}}
+{
+  "id": 2152978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152978",
+        "tgn:1000001",
+        "tgn:7020676",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152978,
+    "tgn:name":"Beach Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.9167,29.7],"type":"Point"}
+}

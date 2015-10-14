@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.350000,45.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7051607","tgn:7003006","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008791"],"id":7051607,"name:xx":"Murano, Isola di"}}
+{
+  "id": 7051607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051607",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051607,
+    "tgn:name":"Murano, Isola di",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.35,45.466667],"type":"Point"}
+}

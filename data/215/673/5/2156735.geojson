@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.783300,31.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2156735","tgn:1000001","tgn:2000326","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2156735,"name:xx":"Beatles Lake North"}}
+{
+  "id": 2156735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156735",
+        "tgn:1000001",
+        "tgn:2000326",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156735,
+    "tgn:name":"Beatles Lake North",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7833,31.1],"type":"Point"}
+}

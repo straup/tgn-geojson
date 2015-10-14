@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.266667,44.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7051828","tgn:7003127","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051828,"name:xx":"Il Conte"}}
+{
+  "id": 7051828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051828",
+        "tgn:7003127",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051828,
+    "tgn:name":"Il Conte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.266667,44.666667],"type":"Point"}
+}

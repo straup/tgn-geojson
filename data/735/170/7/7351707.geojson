@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.500000,25.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7351707","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351707,"name:xx":"Caimanero"}}
+{
+  "id": 7351707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351707",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351707,
+    "tgn:name":"Caimanero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5,25.75],"type":"Point"}
+}

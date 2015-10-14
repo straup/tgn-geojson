@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.600000,46.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2156055","tgn:1000001","tgn:2002245","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2156055,"name:xx":"Bear Willow Spring"}}
+{
+  "id": 2156055,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156055",
+        "tgn:1000001",
+        "tgn:2002245",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156055,
+    "tgn:name":"Bear Willow Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6,46.1333],"type":"Point"}
+}

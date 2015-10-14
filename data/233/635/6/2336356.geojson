@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.583300,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2336356","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2336356,"name:xx":"Fountain Creek"}}
+{
+  "id": 2336356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336356",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336356,
+    "tgn:name":"Fountain Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5833,45.3333],"type":"Point"}
+}

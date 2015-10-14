@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.433300,32.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2156633","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2156633,"name:xx":"Beaseley Property"}}
+{
+  "id": 2156633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156633,
+    "tgn:name":"Beaseley Property",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.4333,32.65],"type":"Point"}
+}

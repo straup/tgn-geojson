@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-89.900000,35.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7022889","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132348"],"id":7022889,"name:xx":"Elmot Bar"}}
+{
+  "id": 7022889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022889",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022889,
+    "tgn:name":"Elmot Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9,35.7333],"type":"Point"}
+}

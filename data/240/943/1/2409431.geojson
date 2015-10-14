@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-169.066700,52.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2409431","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409431,"name:xx":"Idaliuk Point"}}
+{
+  "id": 2409431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409431",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409431,
+    "tgn:name":"Idaliuk Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-169.0667,52.85],"type":"Point"}
+}

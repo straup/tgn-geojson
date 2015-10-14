@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.950000,29.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7379974","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379974,"name:xx":"Maset Los Laureles"}}
+{
+  "id": 7379974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379974",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379974,
+    "tgn:name":"Maset Los Laureles",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.95,29.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.066700,39.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7023421","tgn:1000001","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008707"],"id":7023421,"name:xx":"Middle Branch Shade River"}}
+{
+  "id": 7023421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023421",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023421,
+    "tgn:name":"Middle Branch Shade River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0667,39.3],"type":"Point"}
+}

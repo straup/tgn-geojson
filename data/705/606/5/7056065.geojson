@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.850000,45.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7056065","tgn:1003430","tgn:1000003","tgn:7003126","tgn:1000080","tgn:7029392"],"placetype":["aat:300008835"],"id":7056065,"name:xx":"Miage, Ghiacciaio del"}}
+{
+  "id": 7056065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056065",
+        "tgn:1003430",
+        "tgn:1000003",
+        "tgn:7003126",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056065,
+    "tgn:name":"Miage, Ghiacciaio del",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.85,45.8],"type":"Point"}
+}

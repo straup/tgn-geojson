@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.950000,23.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7371775","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371775,"name:xx":"La Independencia"}}
+{
+  "id": 7371775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371775",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371775,
+    "tgn:name":"La Independencia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.95,23.3],"type":"Point"}
+}

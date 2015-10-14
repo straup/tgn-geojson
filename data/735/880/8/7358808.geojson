@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.466667,22.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7358808","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358808,"name:xx":"Desmonte"}}
+{
+  "id": 7358808,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358808",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358808,
+    "tgn:name":"Desmonte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.466667,22.266667],"type":"Point"}
+}

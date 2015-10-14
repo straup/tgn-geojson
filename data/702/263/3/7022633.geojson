@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.783300,45.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022633","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":7022633,"name:xx":"Crazy Lakes"}}
+{
+  "id": 7022633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022633,
+    "tgn:name":"Crazy Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7833,45.0],"type":"Point"}
+}

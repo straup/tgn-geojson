@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.683333,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7025759","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Tedburn Saint Mary","id":7025759}}
+{
+  "id": 7025759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025759",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025759,
+    "tgn:name:en":"Tedburn Saint Mary",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.683333,50.733333],"type":"Point"}
+}

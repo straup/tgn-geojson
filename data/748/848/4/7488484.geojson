@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.644722,23.012778]},"type":"Feature","properties":{"hierarchy":["tgn:7488484","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488484,"name:xx":"Shelifen"}}
+{
+  "id": 7488484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488484",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488484,
+    "tgn:name":"Shelifen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.644722,23.012778],"type":"Point"}
+}

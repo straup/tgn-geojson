@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.900000,34.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7022757","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022757,"name:xx":"Winchester Creek"}}
+{
+  "id": 7022757,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022757",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022757,
+    "tgn:name":"Winchester Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9,34.9333],"type":"Point"}
+}

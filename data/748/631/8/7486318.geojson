@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.850000,22.109167]},"type":"Feature","properties":{"hierarchy":["tgn:7486318","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7486318,"name:xx":"Malongwang Shan"}}
+{
+  "id": 7486318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486318",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486318,
+    "tgn:name":"Malongwang Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.85,22.109167],"type":"Point"}
+}

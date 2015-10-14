@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.150000,17.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7350310","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350310,"name:xx":"San Melchor Betaza"}}
+{
+  "id": 7350310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350310",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350310,
+    "tgn:name":"San Melchor Betaza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.15,17.25],"type":"Point"}
+}

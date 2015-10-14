@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.800000,45.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7056790","tgn:1003505","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7056790,"name:xx":"Belvedere, Monte"}}
+{
+  "id": 7056790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056790",
+        "tgn:1003505",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056790,
+    "tgn:name":"Belvedere, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.8,45.666667],"type":"Point"}
+}

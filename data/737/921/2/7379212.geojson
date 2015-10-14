@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.133333,31.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7379212","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7379212,"name:xx":"Los Coches, Arroyo"}}
+{
+  "id": 7379212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379212",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379212,
+    "tgn:name":"Los Coches, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.133333,31.216667],"type":"Point"}
+}

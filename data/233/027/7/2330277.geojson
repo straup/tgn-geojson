@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.450000,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2330277","tgn:1002134","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008791"],"id":2330277,"name:xx":"Flannigan Island"}}
+{
+  "id": 2330277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330277",
+        "tgn:1002134",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330277,
+    "tgn:name":"Flannigan Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.45,40.0333],"type":"Point"}
+}

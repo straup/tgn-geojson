@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.050000,29.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7357288","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357288,"name:xx":"Campo 306"}}
+{
+  "id": 7357288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357288",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357288,
+    "tgn:name":"Campo 306",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.05,29.216667],"type":"Point"}
+}

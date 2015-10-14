@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.150000,32.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2330644","tgn:1000001","tgn:7012149","tgn:2001751","tgn:7007712","tgn:7029392"],"placetype":["aat:300008850"],"id":2330644,"name:xx":"Flat Ditch Point"}}
+{
+  "id": 2330644,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330644",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001751",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330644,
+    "tgn:name":"Flat Ditch Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.15,32.3333],"type":"Point"}
+}

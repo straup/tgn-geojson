@@ -1,0 +1,24 @@
+{
+  "id": 1000141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000141",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000141,
+    "tgn:name":"Chung-hua Min-kuo",
+    "tgn:name:en":"Taiwan",
+    "tgn:name:es":"Taiw\u00e1n",
+    "tgn:name:fr":"Ta\u00efwan",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387047",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.0,23.5],"type":"Point"}
+}

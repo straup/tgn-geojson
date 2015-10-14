@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.150000,32.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2403857","tgn:2000002","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008347"],"id":2403857,"name:xx":"Howe"}}
+{
+  "id": 2403857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403857",
+        "tgn:2000002",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403857,
+    "tgn:name":"Howe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.15,32.0167],"type":"Point"}
+}

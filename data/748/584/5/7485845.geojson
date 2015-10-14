@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.506944,23.269722]},"type":"Feature","properties":{"hierarchy":["tgn:7485845","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485845,"name:xx":"Nanqixia"}}
+{
+  "id": 7485845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485845",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485845,
+    "tgn:name":"Nanqixia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.506944,23.269722],"type":"Point"}
+}

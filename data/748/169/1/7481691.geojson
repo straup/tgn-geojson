@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.326111,24.655556]},"type":"Feature","properties":{"hierarchy":["tgn:7481691","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481691,"name:xx":"Shilei Guoxiao"}}
+{
+  "id": 7481691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481691",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481691,
+    "tgn:name":"Shilei Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.326111,24.655556],"type":"Point"}
+}

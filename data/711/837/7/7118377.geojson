@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.866667,51.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7118377","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7118377,"name:xx":"Pommelheide"}}
+{
+  "id": 7118377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118377",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118377,
+    "tgn:name":"Pommelheide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.866667,51.5],"type":"Point"}
+}

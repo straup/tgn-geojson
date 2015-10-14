@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.200000,25.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7367420","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367420,"name:xx":"Estasci\u00f3n Melchor"}}
+{
+  "id": 7367420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367420",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367420,
+    "tgn:name":"Estasci\u00f3n Melchor",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.2,25.25],"type":"Point"}
+}

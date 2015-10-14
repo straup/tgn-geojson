@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.300000,48.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7112349","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7112349,"name:xx":"Rinderhof"}}
+{
+  "id": 7112349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112349",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112349,
+    "tgn:name":"Rinderhof",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.3,48.566667],"type":"Point"}
+}

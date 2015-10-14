@@ -1,0 +1,20 @@
+{
+  "id": 1000699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000699",
+        "tgn:1000002",
+        "tgn:1000058",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000699,
+    "tgn:name":"Montevideo",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000772"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-56.181,-34.865],"type":"Point"}
+}

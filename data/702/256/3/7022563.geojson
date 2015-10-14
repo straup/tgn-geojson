@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-132.083300,57.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7022563","tgn:1000001","tgn:7029392"],"placetype":["aat:300008798"],"id":7022563,"name:xx":"Kates Needle"}}
+{
+  "id": 7022563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022563",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022563,
+    "tgn:name":"Kates Needle",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-132.0833,57.0333],"type":"Point"}
+}

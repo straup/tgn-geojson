@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.824167,24.836111]},"type":"Feature","properties":{"hierarchy":["tgn:7482942","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482942,"name:xx":"Tai'an Miao"}}
+{
+  "id": 7482942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482942",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482942,
+    "tgn:name":"Tai'an Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.824167,24.836111],"type":"Point"}
+}

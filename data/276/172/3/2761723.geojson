@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.066700,44.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2761723","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132316"],"id":2761723,"name:xx":"West Pond"}}
+{
+  "id": 2761723,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761723",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761723,
+    "tgn:name":"West Pond",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.0667,44.3333],"type":"Point"}
+}

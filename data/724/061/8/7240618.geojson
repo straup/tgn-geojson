@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.900000,50.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7240618","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240618,"name:xx":"Falmagne"}}
+{
+  "id": 7240618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240618",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240618,
+    "tgn:name":"Falmagne",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,50.2],"type":"Point"}
+}

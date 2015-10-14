@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.066700,39.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2760717","tgn:1000001","tgn:2001409","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300386831"],"id":2760717,"name:xx":"West Gate Range"}}
+{
+  "id": 2760717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760717",
+        "tgn:1000001",
+        "tgn:2001409",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760717,
+    "tgn:name":"West Gate Range",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0667,39.2],"type":"Point"}
+}

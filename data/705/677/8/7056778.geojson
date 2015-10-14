@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.116667,40.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7056778","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7056778,"name:xx":"Stazione di Benetutti"}}
+{
+  "id": 7056778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056778",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056778,
+    "tgn:name":"Stazione di Benetutti",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.116667,40.483333],"type":"Point"}
+}

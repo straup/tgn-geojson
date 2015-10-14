@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-3.100000,52.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7027186","tgn:7002443","tgn:1000003","tgn:7008050","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Old Radnor","id":7027186}}
+{
+  "id": 7027186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027186",
+        "tgn:7002443",
+        "tgn:1000003",
+        "tgn:7008050",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027186,
+    "tgn:name:en":"Old Radnor",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.1,52.216667],"type":"Point"}
+}

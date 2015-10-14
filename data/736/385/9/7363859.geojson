@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.983333,20.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7363859","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363859,"name:xx":"El Baj\u00edo de los Gallos"}}
+{
+  "id": 7363859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363859",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363859,
+    "tgn:name":"El Baj\u00edo de los Gallos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.983333,20.833333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.166700,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2334522","tgn:1000001","tgn:7012149","tgn:1002751","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2334522,"name:xx":"Forest Road Lake"}}
+{
+  "id": 2334522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334522",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002751",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334522,
+    "tgn:name":"Forest Road Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1667,41.3333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.900000,45.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7021416","tgn:1000001","tgn:7012149","tgn:2001080","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":7021416,"name:xx":"Twin Lake"}}
+{
+  "id": 7021416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021416",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001080",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021416,
+    "tgn:name":"Twin Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.9,45.2833],"type":"Point"}
+}

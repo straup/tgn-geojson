@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.433300,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7020015","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":7020015,"name:xx":"Sand Knoll"}}
+{
+  "id": 7020015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020015",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020015,
+    "tgn:name":"Sand Knoll",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.4333,41.1],"type":"Point"}
+}

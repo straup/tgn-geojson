@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.083333,19.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7354045","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7354045,"name:xx":"Chamela, Punta"}}
+{
+  "id": 7354045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354045",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354045,
+    "tgn:name":"Chamela, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.083333,19.5],"type":"Point"}
+}

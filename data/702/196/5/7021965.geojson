@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.800000,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021965","tgn:1000001","tgn:7012149","tgn:7016166","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":7021965,"name:xx":"Crows Creek"}}
+{
+  "id": 7021965,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021965",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016166",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021965,
+    "tgn:name":"Crows Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8,38.6],"type":"Point"}
+}

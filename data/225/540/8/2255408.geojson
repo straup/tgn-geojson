@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.900000,30.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2255408","tgn:1000001","tgn:7012149","tgn:2000291","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2255408,"name:xx":"Coosada Old Town"}}
+{
+  "id": 2255408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255408",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000291",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255408,
+    "tgn:name":"Coosada Old Town",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9,30.6333],"type":"Point"}
+}

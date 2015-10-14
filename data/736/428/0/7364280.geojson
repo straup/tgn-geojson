@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.950000,29.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7364280","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364280,"name:xx":"Rancho El Bonito"}}
+{
+  "id": 7364280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364280",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364280,
+    "tgn:name":"Rancho El Bonito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.95,29.933333],"type":"Point"}
+}

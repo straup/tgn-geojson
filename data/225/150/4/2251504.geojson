@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.583300,42.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2251504","tgn:1000001","tgn:7012149","tgn:2002371","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2251504,"name:xx":"Commissary Hill"}}
+{
+  "id": 2251504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251504",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002371",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251504,
+    "tgn:name":"Commissary Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5833,42.6167],"type":"Point"}
+}

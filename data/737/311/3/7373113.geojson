@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.383333,23.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7373113","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373113,"name:xx":"La Lagunita"}}
+{
+  "id": 7373113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373113",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373113,
+    "tgn:name":"La Lagunita",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.383333,23.5],"type":"Point"}
+}

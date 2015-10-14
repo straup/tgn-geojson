@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.516700,42.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2331306","tgn:1000001","tgn:7012149","tgn:2000493","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2331306,"name:xx":"Flatiron"}}
+{
+  "id": 2331306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331306",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000493",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331306,
+    "tgn:name":"Flatiron",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5167,42.2167],"type":"Point"}
+}

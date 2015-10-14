@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.211264,25.009486]},"type":"Feature","properties":{"hierarchy":["tgn:7478391","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7478391,"name:xx":"Taoyuan Zhan"}}
+{
+  "id": 7478391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478391",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478391,
+    "tgn:name":"Taoyuan Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.211264,25.009486],"type":"Point"}
+}

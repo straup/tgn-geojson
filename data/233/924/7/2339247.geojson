@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.866700,40.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2339247","tgn:1000001","tgn:2002106","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2339247,"name:xx":"Franz"}}
+{
+  "id": 2339247,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339247",
+        "tgn:1000001",
+        "tgn:2002106",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339247,
+    "tgn:name":"Franz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8667,40.8667],"type":"Point"}
+}

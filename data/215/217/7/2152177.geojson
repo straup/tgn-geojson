@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.666700,29.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2152177","tgn:1000001","tgn:7012149","tgn:2000891","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152177,"name:xx":"Bay Au Fer"}}
+{
+  "id": 2152177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152177",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000891",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152177,
+    "tgn:name":"Bay Au Fer",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.6667,29.3667],"type":"Point"}
+}

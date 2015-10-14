@@ -1,0 +1,24 @@
+{
+  "id": 1047850,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2754035"
+    },
+    "tgn:hierarchy":[
+        "tgn:1047850",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009815",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047850,
+    "tgn:name:nl":"Hoedekenskerke",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.916667,51.416667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.439119,23.669046]},"type":"Feature","properties":{"hierarchy":["tgn:7470347","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470347,"name:xx":"Zhuweizi"}}
+{
+  "id": 7470347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470347",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470347,
+    "tgn:name":"Zhuweizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.439119,23.669046],"type":"Point"}
+}

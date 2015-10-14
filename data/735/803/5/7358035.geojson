@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.216667,26.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7358035","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7358035,"name:xx":"Rancho Coscomate"}}
+{
+  "id": 7358035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358035",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358035,
+    "tgn:name":"Rancho Coscomate",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.216667,26.366667],"type":"Point"}
+}

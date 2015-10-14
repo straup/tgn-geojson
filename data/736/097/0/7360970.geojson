@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.600000,20.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7360970","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360970,"name:xx":"El Brinco"}}
+{
+  "id": 7360970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360970",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360970,
+    "tgn:name":"El Brinco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.6,20.433333],"type":"Point"}
+}

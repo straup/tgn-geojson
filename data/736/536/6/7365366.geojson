@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.550000,27.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7365366","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365366,"name:xx":"Franco"}}
+{
+  "id": 7365366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365366",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365366,
+    "tgn:name":"Franco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.55,27.833333],"type":"Point"}
+}

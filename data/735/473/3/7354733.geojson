@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.450000,26.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7354733","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354733,"name:xx":"Charco del Venado"}}
+{
+  "id": 7354733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354733",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354733,
+    "tgn:name":"Charco del Venado",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.45,26.966667],"type":"Point"}
+}

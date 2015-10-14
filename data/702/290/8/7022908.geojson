@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.033300,41.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7022908","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022908,"name:xx":"East Springer Main Lateral"}}
+{
+  "id": 7022908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022908,
+    "tgn:name":"East Springer Main Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0333,41.9333],"type":"Point"}
+}

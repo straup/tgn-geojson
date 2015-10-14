@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.166667,43.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7052626","tgn:1003471","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052626,"name:xx":"Intagliata, Torrente l'"}}
+{
+  "id": 7052626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052626",
+        "tgn:1003471",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052626,
+    "tgn:name":"Intagliata, Torrente l'",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.166667,43.233333],"type":"Point"}
+}

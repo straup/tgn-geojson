@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.233300,40.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2154600","tgn:1000001","tgn:7012149","tgn:2000220","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2154600,"name:xx":"Bear Draw"}}
+{
+  "id": 2154600,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154600",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000220",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154600,
+    "tgn:name":"Bear Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2333,40.9833],"type":"Point"}
+}

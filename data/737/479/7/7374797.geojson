@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.266667,30.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7374797","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374797,"name:xx":"Rancho Lagunitas"}}
+{
+  "id": 7374797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374797",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374797,
+    "tgn:name":"Rancho Lagunitas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.266667,30.116667],"type":"Point"}
+}

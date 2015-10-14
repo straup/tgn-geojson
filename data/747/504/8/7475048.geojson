@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.775833,22.944167]},"type":"Feature","properties":{"hierarchy":["tgn:7475048","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7475048,"name:xx":"Wantoulan"}}
+{
+  "id": 7475048,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475048",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475048,
+    "tgn:name":"Wantoulan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.775833,22.944167],"type":"Point"}
+}

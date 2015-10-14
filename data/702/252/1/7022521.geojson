@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-71.416700,42.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7022521","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":7022521,"name:xx":"Charles River Reservoir"}}
+{
+  "id": 7022521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022521",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022521,
+    "tgn:name":"Charles River Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.4167,42.1333],"type":"Point"}
+}

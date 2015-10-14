@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.650000,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2768717","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300266640"],"id":2768717,"name:xx":"Whitlow Ridge"}}
+{
+  "id": 2768717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768717",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768717,
+    "tgn:name":"Whitlow Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.65,41.25],"type":"Point"}
+}

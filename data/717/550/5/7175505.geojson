@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.350000,51.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7175505","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7175505,"name:xx":"Gro\u00dfer Altteich"}}
+{
+  "id": 7175505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175505",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175505,
+    "tgn:name":"Gro\u00dfer Altteich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.35,51.333333],"type":"Point"}
+}

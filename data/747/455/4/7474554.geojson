@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.856380,24.572144]},"type":"Feature","properties":{"hierarchy":["tgn:7474554","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474554,"name:xx":"Yongchun Li"}}
+{
+  "id": 7474554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474554",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474554,
+    "tgn:name":"Yongchun Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.85638,24.572144],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.833333,44.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7058957","tgn:7003128","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058957,"name:xx":"Val di Spino"}}
+{
+  "id": 7058957,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058957",
+        "tgn:7003128",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058957,
+    "tgn:name":"Val di Spino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.833333,44.666667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.466667,20.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7366215","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366215,"name:xx":"El Teposo"}}
+{
+  "id": 7366215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366215",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366215,
+    "tgn:name":"El Teposo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.466667,20.1],"type":"Point"}
+}

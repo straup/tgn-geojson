@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.598333,23.968889]},"type":"Feature","properties":{"hierarchy":["tgn:7480339","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7480339,"name:xx":"Guoguang Shanggong"}}
+{
+  "id": 7480339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480339",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480339,
+    "tgn:name":"Guoguang Shanggong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.598333,23.968889],"type":"Point"}
+}

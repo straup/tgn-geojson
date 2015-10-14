@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.383300,30.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2405701","tgn:1000001","tgn:2000264","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2405701,"name:xx":"Huguenot Lagoon"}}
+{
+  "id": 2405701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405701",
+        "tgn:1000001",
+        "tgn:2000264",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405701,
+    "tgn:name":"Huguenot Lagoon",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3833,30.2667],"type":"Point"}
+}

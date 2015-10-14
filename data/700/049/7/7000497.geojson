@@ -1,0 +1,26 @@
+{
+  "id": 7000497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000497",
+        "tgn:7001242",
+        "tgn:1001889",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000497,
+    "tgn:name":"Lagos",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.4667,6.45],"type":"Point"}
+}

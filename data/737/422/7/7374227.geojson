@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.316667,29.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7374227","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374227,"name:xx":"La M\u00e1quina"}}
+{
+  "id": 7374227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374227",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374227,
+    "tgn:name":"La M\u00e1quina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.316667,29.0],"type":"Point"}
+}

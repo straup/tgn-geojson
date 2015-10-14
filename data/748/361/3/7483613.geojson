@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.726667,24.438056]},"type":"Feature","properties":{"hierarchy":["tgn:7483613","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483613,"name:xx":"Hexing Qiao"}}
+{
+  "id": 7483613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483613",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483613,
+    "tgn:name":"Hexing Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.726667,24.438056],"type":"Point"}
+}

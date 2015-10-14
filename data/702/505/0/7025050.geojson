@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.000000,51.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7025050","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025050,"name:ang":"Grennedone"}}
+{
+  "id": 7025050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025050",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025050,
+    "tgn:name:ang":"Grennedone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.0,51.866667],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.500000,53.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7029056","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029056,"name:xx":"Little Weighton"}}
+{
+  "id": 7029056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029056",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029056,
+    "tgn:name":"Little Weighton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.5,53.783333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.500000,36.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2335102","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2335102,"name:xx":"Forster Canyon"}}
+{
+  "id": 2335102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335102",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335102,
+    "tgn:name":"Forster Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.5,36.2167],"type":"Point"}
+}

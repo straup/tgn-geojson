@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.872222,22.894722]},"type":"Feature","properties":{"hierarchy":["tgn:7486648","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7486648,"name:xx":"Bairenshixin"}}
+{
+  "id": 7486648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486648",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486648,
+    "tgn:name":"Bairenshixin",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.872222,22.894722],"type":"Point"}
+}

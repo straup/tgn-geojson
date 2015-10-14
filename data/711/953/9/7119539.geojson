@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.216667,50.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7119539","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7119539,"name:xx":"Pockau"}}
+{
+  "id": 7119539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119539",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119539,
+    "tgn:name":"Pockau",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.216667,50.7],"type":"Point"}
+}

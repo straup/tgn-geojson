@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-118.116700,48.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2250928","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300000390"],"id":2250928,"name:xx":"Columbia Quarry"}}
+{
+  "id": 2250928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250928",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250928,
+    "tgn:name":"Columbia Quarry",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1167,48.6333],"type":"Point"}
+}

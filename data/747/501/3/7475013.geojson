@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.509306,25.279184]},"type":"Feature","properties":{"hierarchy":["tgn:7475013","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300005567"],"id":7475013,"name:xx":"Linhai Bieshu"}}
+{
+  "id": 7475013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475013",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475013,
+    "tgn:name":"Linhai Bieshu",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.509306,25.279184],"type":"Point"}
+}

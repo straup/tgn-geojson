@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.431062,23.861629]},"type":"Feature","properties":{"hierarchy":["tgn:7475252","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7475252,"name:xx":"Minghang Si"}}
+{
+  "id": 7475252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475252",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475252,
+    "tgn:name":"Minghang Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.431062,23.861629],"type":"Point"}
+}

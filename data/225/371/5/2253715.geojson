@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.316700,47.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2253715","tgn:1000001","tgn:7012149","tgn:1002553","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2253715,"name:xx":"Cooke Creek"}}
+{
+  "id": 2253715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253715",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002553",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253715,
+    "tgn:name":"Cooke Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3167,47.2],"type":"Point"}
+}

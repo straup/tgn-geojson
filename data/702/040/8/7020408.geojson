@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.533300,47.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7020408","tgn:1000001","tgn:2001267","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":7020408,"name:xx":"Shea Creek"}}
+{
+  "id": 7020408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020408",
+        "tgn:1000001",
+        "tgn:2001267",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020408,
+    "tgn:name":"Shea Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5333,47.4833],"type":"Point"}
+}

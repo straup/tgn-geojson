@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.483300,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2400754","tgn:1000001","tgn:2001472","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008905"],"id":2400754,"name:xx":"Horse Pen Bay"}}
+{
+  "id": 2400754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400754",
+        "tgn:1000001",
+        "tgn:2001472",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400754,
+    "tgn:name":"Horse Pen Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4833,34.0833],"type":"Point"}
+}

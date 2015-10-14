@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.216667,46.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7052296","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008749"],"id":7052296,"name:xx":"Penegal"}}
+{
+  "id": 7052296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052296",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052296,
+    "tgn:name":"Penegal",
+    "tgn:placetype":[
+        "aat:300008749"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.216667,46.433333],"type":"Point"}
+}

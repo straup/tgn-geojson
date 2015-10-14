@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.950000,47.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2150002","tgn:1000001","tgn:2001014","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2150002,"name:xx":"Barto Lake"}}
+{
+  "id": 2150002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150002",
+        "tgn:1000001",
+        "tgn:2001014",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150002,
+    "tgn:name":"Barto Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.95,47.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.081356,23.648755]},"type":"Feature","properties":{"hierarchy":["tgn:7473252","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7473252,"name:xx":"Dongluanda Shan"}}
+{
+  "id": 7473252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473252",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473252,
+    "tgn:name":"Dongluanda Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.081356,23.648755],"type":"Point"}
+}

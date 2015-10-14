@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.833333,20.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7377822","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7377822,"name:xx":"La Plata"}}
+{
+  "id": 7377822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377822",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377822,
+    "tgn:name":"La Plata",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.833333,20.533333],"type":"Point"}
+}

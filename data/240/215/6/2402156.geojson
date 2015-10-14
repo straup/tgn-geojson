@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-146.483300,60.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2402156","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008706"],"id":2402156,"name:xx":"Horsetail Falls Creek"}}
+{
+  "id": 2402156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402156",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402156,
+    "tgn:name":"Horsetail Falls Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-146.4833,60.8333],"type":"Point"}
+}

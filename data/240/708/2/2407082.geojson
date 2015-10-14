@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.033300,42.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2407082","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2407082,"name:xx":"Hunter-Best Reservoirs"}}
+{
+  "id": 2407082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407082",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407082,
+    "tgn:name":"Hunter-Best Reservoirs",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.0333,42.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.800000,50.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7248689","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7248689,"name:xx":"Blaugies"}}
+{
+  "id": 7248689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248689",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248689,
+    "tgn:name":"Blaugies",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.8,50.366667],"type":"Point"}
+}

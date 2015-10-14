@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[109.610000,31.466000]},"type":"Feature","properties":{"hierarchy":["tgn:7029687","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029687,"name:xx":"Wuxi Xian"}}
+{
+  "id": 7029687,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029687",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029687,
+    "tgn:name":"Wuxi Xian",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[109.61,31.466],"type":"Point"}
+}

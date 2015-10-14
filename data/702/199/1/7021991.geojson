@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.850000,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7021991","tgn:1000001","tgn:7012149","tgn:2001254","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021991,"name:xx":"Four Winds Way Reservoir"}}
+{
+  "id": 7021991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021991",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001254",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021991,
+    "tgn:name":"Four Winds Way Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.85,38.0333],"type":"Point"}
+}

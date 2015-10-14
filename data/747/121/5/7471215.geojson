@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.515278,23.635833]},"type":"Feature","properties":{"hierarchy":["tgn:7471215","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471215,"name:xx":"Pinghe"}}
+{
+  "id": 7471215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471215",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471215,
+    "tgn:name":"Pinghe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.515278,23.635833],"type":"Point"}
+}

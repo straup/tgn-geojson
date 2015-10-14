@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[123.150000,-12.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7024199","tgn:1009847","tgn:7000434","tgn:7000490","tgn:1000006","tgn:7029392"],"placetype":["aat:300008791"],"id":7024199,"name:xx":"East Island"}}
+{
+  "id": 7024199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024199",
+        "tgn:1009847",
+        "tgn:7000434",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024199,
+    "tgn:name":"East Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[123.15,-12.2333],"type":"Point"}
+}

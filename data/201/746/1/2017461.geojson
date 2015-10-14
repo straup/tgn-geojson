@@ -1,0 +1,25 @@
+{
+  "id": 2017461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2017461",
+        "tgn:1000001",
+        "tgn:1002601",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2017461,
+    "tgn:name":"Torrington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.1167,41.8],"type":"Point"}
+}

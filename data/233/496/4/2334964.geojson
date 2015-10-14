@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.116700,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2334964","tgn:1000001","tgn:7012149","tgn:2001754","tgn:7007712","tgn:7029392"],"placetype":["aat:300008850"],"id":2334964,"name:xx":"Forks, The"}}
+{
+  "id": 2334964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334964",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001754",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334964,
+    "tgn:name":"Forks, The",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1167,34.3333],"type":"Point"}
+}

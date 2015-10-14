@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.233300,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021671","tgn:1002140","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":7021671,"name:xx":"Glenn Shores"}}
+{
+  "id": 7021671,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021671",
+        "tgn:1002140",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021671,
+    "tgn:name":"Glenn Shores",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2333,42.5],"type":"Point"}
+}

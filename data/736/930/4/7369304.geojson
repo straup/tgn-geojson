@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.616667,26.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7369304","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7369304,"name:xx":"Estaci\u00f3n Juncal"}}
+{
+  "id": 7369304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369304",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369304,
+    "tgn:name":"Estaci\u00f3n Juncal",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.616667,26.966667],"type":"Point"}
+}

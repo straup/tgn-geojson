@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.775278,24.986667]},"type":"Feature","properties":{"hierarchy":["tgn:7483226","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7483226,"name:xx":"Fangshankeng Shan"}}
+{
+  "id": 7483226,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483226",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483226,
+    "tgn:name":"Fangshankeng Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.775278,24.986667],"type":"Point"}
+}

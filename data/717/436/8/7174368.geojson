@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.600000,50.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7174368","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008905"],"id":7174368,"name:xx":"Gro\u00dfer Kranichsee"}}
+{
+  "id": 7174368,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174368",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174368,
+    "tgn:name":"Gro\u00dfer Kranichsee",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.6,50.4],"type":"Point"}
+}

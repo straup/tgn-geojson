@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.378450,22.622099]},"type":"Feature","properties":{"hierarchy":["tgn:7470461","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470461,"name:xx":"Zhuzijiao"}}
+{
+  "id": 7470461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470461",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470461,
+    "tgn:name":"Zhuzijiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.37845,22.622099],"type":"Point"}
+}

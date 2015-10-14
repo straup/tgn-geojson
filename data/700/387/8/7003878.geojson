@@ -1,0 +1,27 @@
+{
+  "id": 7003878,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003878",
+        "tgn:7000680",
+        "tgn:1000004",
+        "tgn:7003879",
+        "tgn:1000137",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003878,
+    "tgn:name:en":"Riyadh",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387272",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[46.7667,24.65],"type":"Point"}
+}

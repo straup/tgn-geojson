@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.983333,24.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7357215","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300185707"],"id":7357215,"name:xx":"Chisguete, Estero el"}}
+{
+  "id": 7357215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357215",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357215,
+    "tgn:name":"Chisguete, Estero el",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.983333,24.816667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.666700,45.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2156418","tgn:1000001","tgn:7012149","tgn:2002342","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2156418,"name:xx":"Bearskin Lake"}}
+{
+  "id": 2156418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156418",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002342",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156418,
+    "tgn:name":"Bearskin Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.6667,45.7167],"type":"Point"}
+}

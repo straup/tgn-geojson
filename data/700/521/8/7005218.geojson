@@ -1,0 +1,26 @@
+{
+  "id": 7005218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005218",
+        "tgn:7005192",
+        "tgn:1000004",
+        "tgn:7000930",
+        "tgn:1000142",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005218,
+    "tgn:name":"Nakhon Pathom",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[100.0167,13.8333],"type":"Point"}
+}

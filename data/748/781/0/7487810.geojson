@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.630500,24.958700]},"type":"Feature","properties":{"hierarchy":["tgn:7487810","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487810,"name:xx":"Getou Cun"}}
+{
+  "id": 7487810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487810",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487810,
+    "tgn:name":"Getou Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6305,24.9587],"type":"Point"}
+}

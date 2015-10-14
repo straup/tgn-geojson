@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.677000,52.667000]},"type":"Feature","properties":{"hierarchy":["tgn:7028541","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028541,"name:xx":"Ormesby Saint Michael"}}
+{
+  "id": 7028541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028541",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028541,
+    "tgn:name":"Ormesby Saint Michael",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.677,52.667],"type":"Point"}
+}

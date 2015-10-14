@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.700000,32.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2159676","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002858","tgn:7029392"],"placetype":["aat:300008761"],"id":2159676,"name:xx":"Bee Valley"}}
+{
+  "id": 2159676,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159676",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002858",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159676,
+    "tgn:name":"Bee Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7,32.65],"type":"Point"}
+}

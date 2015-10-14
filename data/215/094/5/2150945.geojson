@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.200000,32.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2150945","tgn:1000001","tgn:7006451","tgn:2000094","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2150945,"name:xx":"Bass Tank"}}
+{
+  "id": 2150945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150945",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000094",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150945,
+    "tgn:name":"Bass Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.2,32.4333],"type":"Point"}
+}

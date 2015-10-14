@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.983300,45.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2407616","tgn:1000001","tgn:7012149","tgn:2000928","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2407616,"name:xx":"Hurd Pond Stream"}}
+{
+  "id": 2407616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407616",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000928",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407616,
+    "tgn:name":"Hurd Pond Stream",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.9833,45.7833],"type":"Point"}
+}

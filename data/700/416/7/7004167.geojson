@@ -1,0 +1,27 @@
+{
+  "id": 7004167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004167",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004167,
+    "tgn:name:da":"F\u00e6r\u00f8erne",
+    "tgn:name:de":"F\u00e4r\u00f6er",
+    "tgn:name:en":"Faeroe Islands",
+    "tgn:name:es":"Islas Fero\u00e9",
+    "tgn:name:fo":"F\u00f8royar",
+    "tgn:name:fr":"\u00celes F\u00e9ro\u00e9",
+    "tgn:name:nn":"Faer\u00f8yene",
+    "tgn:name:pt":"Faeroe, Ilhas",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300386853",
+        "aat:300387176"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-7.0,62.0],"type":"Point"}
+}

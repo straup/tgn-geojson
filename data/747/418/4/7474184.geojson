@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.501564,25.251421]},"type":"Feature","properties":{"hierarchy":["tgn:7474184","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474184,"name:xx":"Butou Qiao"}}
+{
+  "id": 7474184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474184",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474184,
+    "tgn:name":"Butou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.501564,25.251421],"type":"Point"}
+}

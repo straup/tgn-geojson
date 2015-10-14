@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.796389,24.452500]},"type":"Feature","properties":{"hierarchy":["tgn:7487779","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487779,"name:xx":"Nan'ao Beixi"}}
+{
+  "id": 7487779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487779",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487779,
+    "tgn:name":"Nan'ao Beixi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.796389,24.4525],"type":"Point"}
+}

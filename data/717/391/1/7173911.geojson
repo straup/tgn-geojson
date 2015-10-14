@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.600000,53.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7173911","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7173911,"name:xx":"Gro\u00dfer Petznicksee"}}
+{
+  "id": 7173911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173911",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173911,
+    "tgn:name":"Gro\u00dfer Petznicksee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.6,53.316667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.678056,23.215556]},"type":"Feature","properties":{"hierarchy":["tgn:7487517","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487517,"name:xx":"Minzu Cun"}}
+{
+  "id": 7487517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487517",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487517,
+    "tgn:name":"Minzu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.678056,23.215556],"type":"Point"}
+}

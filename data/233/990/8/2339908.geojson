@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.700000,45.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2339908","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2339908,"name:xx":"Freeman Peak"}}
+{
+  "id": 2339908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339908,
+    "tgn:name":"Freeman Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7,45.2667],"type":"Point"}
+}

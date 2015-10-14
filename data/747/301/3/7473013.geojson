@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.705500,24.777700]},"type":"Feature","properties":{"hierarchy":["tgn:7473013","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473013,"name:xx":"Ruanpi"}}
+{
+  "id": 7473013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473013",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473013,
+    "tgn:name":"Ruanpi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7055,24.7777],"type":"Point"}
+}

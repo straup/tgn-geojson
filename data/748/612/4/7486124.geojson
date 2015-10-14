@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.053333,24.226111]},"type":"Feature","properties":{"hierarchy":["tgn:7486124","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486124,"name:xx":"Malun Xi"}}
+{
+  "id": 7486124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486124",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486124,
+    "tgn:name":"Malun Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.053333,24.226111],"type":"Point"}
+}

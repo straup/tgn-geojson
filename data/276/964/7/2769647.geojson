@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,36.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2769647","tgn:1000001","tgn:2000769","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2769647,"name:xx":"Wieser Branch"}}
+{
+  "id": 2769647,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769647",
+        "tgn:1000001",
+        "tgn:2000769",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769647,
+    "tgn:name":"Wieser Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,36.8],"type":"Point"}
+}

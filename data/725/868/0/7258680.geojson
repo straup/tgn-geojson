@@ -1,0 +1,27 @@
+{
+  "id": 7258680,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f06056-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758500",
+        "gp:id":727923,
+        "qs:id":5,
+        "wof:id":101837689
+    },
+    "tgn:hierarchy":[
+        "tgn:7258680",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7258680,
+    "tgn:name:nl":"Boven-Hardinxveld",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.883333,51.816667],"type":"Point"}
+}

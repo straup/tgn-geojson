@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.500000,27.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7351806","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351806,"name:xx":"Baroyeca, Sierra"}}
+{
+  "id": 7351806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351806",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351806,
+    "tgn:name":"Baroyeca, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.5,27.55],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.316667,53.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7113874","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300006075"],"id":7113874,"name:xx":"Roddau"}}
+{
+  "id": 7113874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113874",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113874,
+    "tgn:name":"Roddau",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.316667,53.333333],"type":"Point"}
+}

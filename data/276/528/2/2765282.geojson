@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.116700,32.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2765282","tgn:1000001","tgn:7012149","tgn:1002535","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2765282,"name:xx":"Whitaker Pond"}}
+{
+  "id": 2765282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765282",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002535",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765282,
+    "tgn:name":"Whitaker Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.1167,32.45],"type":"Point"}
+}

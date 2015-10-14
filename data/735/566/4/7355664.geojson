@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.300000,19.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7355664","tgn:1000001","tgn:7005598","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7355664,"name:xx":"Calder\u00f3n"}}
+{
+  "id": 7355664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355664",
+        "tgn:1000001",
+        "tgn:7005598",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355664,
+    "tgn:name":"Calder\u00f3n",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.3,19.566667],"type":"Point"}
+}

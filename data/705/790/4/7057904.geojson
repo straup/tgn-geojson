@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.466667,45.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7057904","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057904,"name:xx":"Bruino"}}
+{
+  "id": 7057904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057904",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057904,
+    "tgn:name":"Bruino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.466667,45.016667],"type":"Point"}
+}

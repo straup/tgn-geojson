@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.566700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7020972","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":7020972,"name:xx":"Rattlesnake Springs"}}
+{
+  "id": 7020972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020972",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020972,
+    "tgn:name":"Rattlesnake Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5667,42.0333],"type":"Point"}
+}

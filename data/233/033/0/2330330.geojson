@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-70.633300,41.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2330330","tgn:7014010","tgn:1000001","tgn:1002344","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008680"],"id":2330330,"name:xx":"Flat Bottom Pond"}}
+{
+  "id": 2330330,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330330",
+        "tgn:7014010",
+        "tgn:1000001",
+        "tgn:1002344",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330330,
+    "tgn:name":"Flat Bottom Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.6333,41.4333],"type":"Point"}
+}

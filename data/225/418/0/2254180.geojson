@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.866700,37.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2254180","tgn:1000001","tgn:7012149","tgn:2000789","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2254180,"name:xx":"Coolwater Branch"}}
+{
+  "id": 2254180,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254180",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000789",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254180,
+    "tgn:name":"Coolwater Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8667,37.4667],"type":"Point"}
+}

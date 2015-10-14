@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.633333,43.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7055073","tgn:1003483","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7055073,"name:xx":"Stazione delle Pole-Piobbico"}}
+{
+  "id": 7055073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055073",
+        "tgn:1003483",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055073,
+    "tgn:name":"Stazione delle Pole-Piobbico",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.633333,43.616667],"type":"Point"}
+}

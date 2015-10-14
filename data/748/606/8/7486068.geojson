@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.097787,22.881222]},"type":"Feature","properties":{"hierarchy":["tgn:7486068","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7486068,"name:xx":"Lanzhawei Shan"}}
+{
+  "id": 7486068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486068",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486068,
+    "tgn:name":"Lanzhawei Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.097787,22.881222],"type":"Point"}
+}

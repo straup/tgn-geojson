@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.600000,48.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7172193","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7172193,"name:xx":"Hinterwestermurr"}}
+{
+  "id": 7172193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172193",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172193,
+    "tgn:name":"Hinterwestermurr",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.6,48.95],"type":"Point"}
+}

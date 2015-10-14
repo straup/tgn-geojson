@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.216700,41.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2333365","tgn:1002716","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300008850"],"id":2333365,"name:xx":"Fogland Point"}}
+{
+  "id": 2333365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333365",
+        "tgn:1002716",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333365,
+    "tgn:name":"Fogland Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2167,41.55],"type":"Point"}
+}

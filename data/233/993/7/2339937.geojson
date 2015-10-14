@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.800000,33.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2339937","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2339937,"name:xx":"Freeman Tank"}}
+{
+  "id": 2339937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339937",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339937,
+    "tgn:name":"Freeman Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8,33.8667],"type":"Point"}
+}

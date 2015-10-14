@@ -1,0 +1,24 @@
+{
+  "id": 7001498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001498",
+        "tgn:1000004",
+        "tgn:7000198",
+        "tgn:7016883",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001498,
+    "tgn:name:en":"Amritsar",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[74.874759,31.636606],"type":"Point"}
+}

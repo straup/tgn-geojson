@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.633333,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7116771","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000745"],"id":7116771,"name:xx":"Ober T\u00fcllingen"}}
+{
+  "id": 7116771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116771",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116771,
+    "tgn:name":"Ober T\u00fcllingen",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.633333,47.6],"type":"Point"}
+}

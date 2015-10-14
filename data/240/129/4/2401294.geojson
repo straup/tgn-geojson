@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.883300,29.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2401294","tgn:1000001","tgn:7012149","tgn:1002251","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2401294,"name:xx":"Horsepen Bayou"}}
+{
+  "id": 2401294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401294",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002251",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401294,
+    "tgn:name":"Horsepen Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.8833,29.7833],"type":"Point"}
+}

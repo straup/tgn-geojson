@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.166700,32.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2765863","tgn:1000001","tgn:2001435","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2765863,"name:xx":"White Gap Tank"}}
+{
+  "id": 2765863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765863",
+        "tgn:1000001",
+        "tgn:2001435",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765863,
+    "tgn:name":"White Gap Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1667,32.5167],"type":"Point"}
+}

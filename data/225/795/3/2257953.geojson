@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.400000,35.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2257953","tgn:1000001","tgn:7012149","tgn:7019676","tgn:7007566","tgn:7029392"],"placetype":["aat:300008798"],"id":2257953,"name:xx":"Cortada, Mesa"}}
+{
+  "id": 2257953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257953",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019676",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257953,
+    "tgn:name":"Cortada, Mesa",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4,35.5667],"type":"Point"}
+}

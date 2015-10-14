@@ -1,1 +1,25 @@
-{"geometry":{"type":"Point","coordinates":[16.666700,48.866700]},"type":"Feature","properties":{"hierarchy":["tgn:7024296","tgn:1003523","tgn:1000003","tgn:1001780","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300019299","aat:300019262","aat:300008375","aat:300391489"],"name:cs":"Pavlov","id":7024296}}
+{
+  "id": 7024296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024296",
+        "tgn:1003523",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024296,
+    "tgn:name:cs":"Pavlov",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300019299",
+        "aat:300019262",
+        "aat:300008375",
+        "aat:300391489"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.6667,48.8667],"type":"Point"}
+}

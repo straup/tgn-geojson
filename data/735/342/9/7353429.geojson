@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.416667,17.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7353429","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353429,"name:xx":"Buenos Aires"}}
+{
+  "id": 7353429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353429",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353429,
+    "tgn:name":"Buenos Aires",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.416667,17.783333],"type":"Point"}
+}

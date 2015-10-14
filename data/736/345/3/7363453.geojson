@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.150000,27.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7363453","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7363453,"name:xx":"Tanque El Chapote"}}
+{
+  "id": 7363453,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363453",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363453,
+    "tgn:name":"Tanque El Chapote",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.15,27.416667],"type":"Point"}
+}

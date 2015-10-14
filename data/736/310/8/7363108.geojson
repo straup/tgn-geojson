@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.200000,29.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7363108","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7363108,"name:xx":"El Esp\u00edritu, Arroyo"}}
+{
+  "id": 7363108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363108",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363108,
+    "tgn:name":"El Esp\u00edritu, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.2,29.016667],"type":"Point"}
+}

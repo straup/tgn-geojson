@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.087433,51.237510]},"type":"Feature","properties":{"hierarchy":["tgn:7242548","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7242548,"name:xx":"Royal, Bois"}}
+{
+  "id": 7242548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242548",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242548,
+    "tgn:name":"Royal, Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.087433,51.23751],"type":"Point"}
+}

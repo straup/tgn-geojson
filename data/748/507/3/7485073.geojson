@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.666944,23.600278]},"type":"Feature","properties":{"hierarchy":["tgn:7485073","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485073,"name:xx":"Shimankeng"}}
+{
+  "id": 7485073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485073",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485073,
+    "tgn:name":"Shimankeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.666944,23.600278],"type":"Point"}
+}

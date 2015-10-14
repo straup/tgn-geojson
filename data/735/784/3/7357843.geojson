@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.983333,18.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7357843","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008679"],"id":7357843,"name:xx":"Corte, Laguna del"}}
+{
+  "id": 7357843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357843",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357843,
+    "tgn:name":"Corte, Laguna del",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.983333,18.533333],"type":"Point"}
+}

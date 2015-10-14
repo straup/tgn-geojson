@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[8.319444,49.117778]},"type":"Feature","properties":{"hierarchy":["tgn:7026060","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347","aat:300387007","aat:300000810"],"id":7026060,"name:xx":"Neupotz"}}
+{
+  "id": 7026060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026060",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026060,
+    "tgn:name":"Neupotz",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.319444,49.117778],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.600000,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2257715","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000243","tgn:7029392"],"placetype":["aat:300008761"],"id":2257715,"name:xx":"Corral Gulch"}}
+{
+  "id": 2257715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257715",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000243",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257715,
+    "tgn:name":"Corral Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.6,39.8833],"type":"Point"}
+}

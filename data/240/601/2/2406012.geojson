@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.783300,33.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2406012","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300006191"],"id":2406012,"name:xx":"Humboldt Tank"}}
+{
+  "id": 2406012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406012",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406012,
+    "tgn:name":"Humboldt Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7833,33.9667],"type":"Point"}
+}

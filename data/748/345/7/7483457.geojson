@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.501111,22.676667]},"type":"Feature","properties":{"hierarchy":["tgn:7483457","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7483457,"name:xx":"Liuma Gou"}}
+{
+  "id": 7483457,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483457",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483457,
+    "tgn:name":"Liuma Gou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.501111,22.676667],"type":"Point"}
+}

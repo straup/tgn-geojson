@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.616700,47.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2259225","tgn:1000001","tgn:7012149","tgn:2001608","tgn:7007705","tgn:7029392"],"placetype":["aat:300008680"],"id":2259225,"name:xx":"Cottonwood Lake"}}
+{
+  "id": 2259225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259225",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001608",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259225,
+    "tgn:name":"Cottonwood Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.6167,47.5],"type":"Point"}
+}

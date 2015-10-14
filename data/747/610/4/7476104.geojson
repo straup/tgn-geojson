@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.779305,23.836993]},"type":"Feature","properties":{"hierarchy":["tgn:7476104","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7476104,"name:xx":"Jianziwei"}}
+{
+  "id": 7476104,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476104",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476104,
+    "tgn:name":"Jianziwei",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.779305,23.836993],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.475000,22.767222]},"type":"Feature","properties":{"hierarchy":["tgn:7488057","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488057,"name:xx":"Dingsankuaicuo"}}
+{
+  "id": 7488057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488057",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488057,
+    "tgn:name":"Dingsankuaicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.475,22.767222],"type":"Point"}
+}

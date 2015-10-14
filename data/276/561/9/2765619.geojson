@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.050000,41.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2765619","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008798"],"id":2765619,"name:xx":"White Cloud Mountain"}}
+{
+  "id": 2765619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765619",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765619,
+    "tgn:name":"White Cloud Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.05,41.8667],"type":"Point"}
+}

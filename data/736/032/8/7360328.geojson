@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.066667,31.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7360328","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360328,"name:xx":"Cobre, Sierra del"}}
+{
+  "id": 7360328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360328",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360328,
+    "tgn:name":"Cobre, Sierra del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.066667,31.5],"type":"Point"}
+}

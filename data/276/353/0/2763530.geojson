@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.066700,44.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2763530","tgn:1000001","tgn:7012149","tgn:1002599","tgn:7007708","tgn:7029392"],"placetype":["aat:300132316"],"id":2763530,"name:xx":"Whale Cove"}}
+{
+  "id": 2763530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763530",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002599",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763530,
+    "tgn:name":"Whale Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.0667,44.7833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.366667,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7248288","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7248288,"name:xx":"Kasteel ten Berg"}}
+{
+  "id": 7248288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248288",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248288,
+    "tgn:name":"Kasteel ten Berg",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.366667,50.95],"type":"Point"}
+}

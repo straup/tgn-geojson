@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.800000,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2154778","tgn:1000001","tgn:2002133","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008798"],"id":2154778,"name:xx":"Bear Head"}}
+{
+  "id": 2154778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154778",
+        "tgn:1000001",
+        "tgn:2002133",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154778,
+    "tgn:name":"Bear Head",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8,44.55],"type":"Point"}
+}

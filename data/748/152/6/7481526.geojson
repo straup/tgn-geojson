@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.690686,24.356109]},"type":"Feature","properties":{"hierarchy":["tgn:7481526","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481526,"name:xx":"Fanbao Nanshan"}}
+{
+  "id": 7481526,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481526",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481526,
+    "tgn:name":"Fanbao Nanshan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.690686,24.356109],"type":"Point"}
+}

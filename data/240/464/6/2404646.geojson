@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.233300,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2404646","tgn:1000001","tgn:7012149","tgn:2001232","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2404646,"name:xx":"Huckaby"}}
+{
+  "id": 2404646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404646",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001232",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404646,
+    "tgn:name":"Huckaby",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.2333,37.7833],"type":"Point"}
+}

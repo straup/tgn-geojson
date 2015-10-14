@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.033300,55.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2766990","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300132348"],"id":2766990,"name:xx":"White Reef"}}
+{
+  "id": 2766990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766990",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766990,
+    "tgn:name":"White Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.0333,55.0667],"type":"Point"}
+}

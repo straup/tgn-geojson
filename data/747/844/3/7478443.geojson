@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.454873,22.461621]},"type":"Feature","properties":{"hierarchy":["tgn:7478443","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7478443,"name:xx":"Donggang Diyi Paishuigou"}}
+{
+  "id": 7478443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478443",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478443,
+    "tgn:name":"Donggang Diyi Paishuigou",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.454873,22.461621],"type":"Point"}
+}

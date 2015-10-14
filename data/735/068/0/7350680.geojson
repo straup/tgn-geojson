@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.500000,20.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7350680","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7350680,"name:xx":"Bag\u00fa, Punta"}}
+{
+  "id": 7350680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350680",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350680,
+    "tgn:name":"Bag\u00fa, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5,20.066667],"type":"Point"}
+}

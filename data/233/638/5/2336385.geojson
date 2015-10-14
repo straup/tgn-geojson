@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.866700,28.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2336385","tgn:1000001","tgn:7012149","tgn:1002567","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2336385,"name:xx":"Fountain Lake"}}
+{
+  "id": 2336385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336385",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002567",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336385,
+    "tgn:name":"Fountain Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8667,28.8],"type":"Point"}
+}

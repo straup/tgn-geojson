@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.116667,23.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7366616","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7366616,"name:xx":"El Pinole"}}
+{
+  "id": 7366616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366616",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366616,
+    "tgn:name":"El Pinole",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.116667,23.766667],"type":"Point"}
+}

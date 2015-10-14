@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.566667,51.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7247909","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247909,"name:xx":"De Kluis"}}
+{
+  "id": 7247909,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247909",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247909,
+    "tgn:name":"De Kluis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.566667,51.25],"type":"Point"}
+}

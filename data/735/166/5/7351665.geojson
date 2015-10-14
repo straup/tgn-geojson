@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.983333,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7351665","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351665,"name:xx":"Baque\u00e1chic, Picacho de"}}
+{
+  "id": 7351665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351665",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351665,
+    "tgn:name":"Baque\u00e1chic, Picacho de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.983333,27.75],"type":"Point"}
+}

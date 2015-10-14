@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.406000,53.885000]},"type":"Feature","properties":{"hierarchy":["tgn:7028788","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028788,"name:xx":"Aike"}}
+{
+  "id": 7028788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028788",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028788,
+    "tgn:name":"Aike",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.406,53.885],"type":"Point"}
+}

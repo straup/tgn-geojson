@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.950000,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2404537","tgn:1000001","tgn:7012149","tgn:2001723","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2404537,"name:xx":"Hubbel Lake"}}
+{
+  "id": 2404537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404537",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001723",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404537,
+    "tgn:name":"Hubbel Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.95,44.9],"type":"Point"}
+}

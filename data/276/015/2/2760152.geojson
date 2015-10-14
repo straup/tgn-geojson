@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.816700,39.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2760152","tgn:1000001","tgn:7012149","tgn:2000230","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2760152,"name:xx":"West Fork Pollock Canyon"}}
+{
+  "id": 2760152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760152",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000230",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760152,
+    "tgn:name":"West Fork Pollock Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8167,39.1],"type":"Point"}
+}

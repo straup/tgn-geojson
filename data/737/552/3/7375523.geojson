@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.400000,28.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7375523","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7375523,"name:xx":"Liebre, Cerro"}}
+{
+  "id": 7375523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375523",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375523,
+    "tgn:name":"Liebre, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4,28.066667],"type":"Point"}
+}

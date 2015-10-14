@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.533333,29.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7376480","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7376480,"name:xx":"La Rosita, Ojo"}}
+{
+  "id": 7376480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376480",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376480,
+    "tgn:name":"La Rosita, Ojo",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.533333,29.116667],"type":"Point"}
+}

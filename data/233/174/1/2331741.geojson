@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.300000,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2331741","tgn:1002138","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008850"],"id":2331741,"name:xx":"Fleming Point"}}
+{
+  "id": 2331741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331741",
+        "tgn:1002138",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331741,
+    "tgn:name":"Fleming Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3,37.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.266667,20.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7362968","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7362968,"name:xx":"El Alto, Cerro"}}
+{
+  "id": 7362968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362968",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362968,
+    "tgn:name":"El Alto, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.266667,20.166667],"type":"Point"}
+}

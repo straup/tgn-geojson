@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[45.067000,32.908000]},"type":"Feature","properties":{"hierarchy":["tgn:7029580","tgn:1000004","tgn:1000118","tgn:1001596","tgn:7029392"],"placetype":["aat:300008347"],"id":7029580,"name:xx":"Aziziyah"}}
+{
+  "id": 7029580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029580",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:1001596",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029580,
+    "tgn:name":"Aziziyah",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.067,32.908],"type":"Point"}
+}

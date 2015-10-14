@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.966700,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2760296","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008707"],"id":2760296,"name:xx":"West Fork San Juan River"}}
+{
+  "id": 2760296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760296",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760296,
+    "tgn:name":"West Fork San Juan River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9667,37.55],"type":"Point"}
+}

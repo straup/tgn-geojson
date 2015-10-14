@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.783300,36.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2331282","tgn:1000001","tgn:7012149","tgn:2001970","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2331282,"name:xx":"Flater Lake"}}
+{
+  "id": 2331282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331282",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001970",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331282,
+    "tgn:name":"Flater Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.7833,36.4333],"type":"Point"}
+}

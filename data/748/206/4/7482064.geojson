@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.523653,22.594047]},"type":"Feature","properties":{"hierarchy":["tgn:7482064","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482064,"name:xx":"Tangchuan Qiao"}}
+{
+  "id": 7482064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482064",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482064,
+    "tgn:name":"Tangchuan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.523653,22.594047],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.390800,22.595200]},"type":"Feature","properties":{"hierarchy":["tgn:7472955","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472955,"name:xx":"Wucuoxiang"}}
+{
+  "id": 7472955,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472955",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472955,
+    "tgn:name":"Wucuoxiang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3908,22.5952],"type":"Point"}
+}

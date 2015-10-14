@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.183333,21.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7377182","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377182,"name:xx":"Las Animas de Romero"}}
+{
+  "id": 7377182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377182",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377182,
+    "tgn:name":"Las Animas de Romero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.183333,21.0],"type":"Point"}
+}

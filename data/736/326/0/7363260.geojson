@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.533333,27.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7363260","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363260,"name:xx":"El Franc\u00e9s"}}
+{
+  "id": 7363260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363260",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363260,
+    "tgn:name":"El Franc\u00e9s",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.533333,27.533333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.983333,24.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7358266","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7358266,"name:xx":"Datilar, Arroyo"}}
+{
+  "id": 7358266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358266",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358266,
+    "tgn:name":"Datilar, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.983333,24.1],"type":"Point"}
+}

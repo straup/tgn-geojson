@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.600000,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7361354","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361354,"name:xx":"Rancho El Ojito"}}
+{
+  "id": 7361354,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361354",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361354,
+    "tgn:name":"Rancho El Ojito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6,30.5],"type":"Point"}
+}

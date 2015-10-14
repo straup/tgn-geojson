@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.250000,25.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7370424","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7370424,"name:xx":"Garrapata, Isla"}}
+{
+  "id": 7370424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370424",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370424,
+    "tgn:name":"Garrapata, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.25,25.166667],"type":"Point"}
+}

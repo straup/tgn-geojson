@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.816700,38.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2402904","tgn:1000001","tgn:7012149","tgn:2002187","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2402904,"name:xx":"Hottinger Hollow"}}
+{
+  "id": 2402904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402904",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002187",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402904,
+    "tgn:name":"Hottinger Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8167,38.7],"type":"Point"}
+}

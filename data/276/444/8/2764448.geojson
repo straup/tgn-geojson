@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.033300,26.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2764448","tgn:1000001","tgn:1002258","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2764448,"name:xx":"Whidden Branch"}}
+{
+  "id": 2764448,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764448",
+        "tgn:1000001",
+        "tgn:1002258",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764448,
+    "tgn:name":"Whidden Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0333,26.85],"type":"Point"}
+}

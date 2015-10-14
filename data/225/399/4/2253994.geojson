@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.316700,38.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2253994","tgn:1000001","tgn:7012149","tgn:7014398","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2253994,"name:xx":"Cool Hollow"}}
+{
+  "id": 2253994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253994",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014398",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253994,
+    "tgn:name":"Cool Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3167,38.5333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.266700,36.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2334773","tgn:1000001","tgn:7012149","tgn:2001907","tgn:7007825","tgn:7029392"],"placetype":["aat:300008746"],"id":2334773,"name:xx":"Fork Mountain Cave"}}
+{
+  "id": 2334773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334773",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001907",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334773,
+    "tgn:name":"Fork Mountain Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2667,36.0333],"type":"Point"}
+}

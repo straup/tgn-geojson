@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.750000,32.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2250303","tgn:1000001","tgn:2000861","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008706"],"id":2250303,"name:xx":"Collinsburg Creek"}}
+{
+  "id": 2250303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250303",
+        "tgn:1000001",
+        "tgn:2000861",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250303,
+    "tgn:name":"Collinsburg Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.75,32.8333],"type":"Point"}
+}

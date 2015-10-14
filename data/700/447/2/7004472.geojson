@@ -1,0 +1,30 @@
+{
+  "id": 7004472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004472",
+        "tgn:1000004",
+        "tgn:7000894",
+        "tgn:1001032",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004472,
+    "tgn:name:en":"Tokyo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300387284",
+        "aat:300387302",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[139.5,35.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.416700,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2338869","tgn:1002171","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008697"],"id":2338869,"name:xx":"Frankfort Springs"}}
+{
+  "id": 2338869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338869",
+        "tgn:1002171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338869,
+    "tgn:name":"Frankfort Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4167,40.4833],"type":"Point"}
+}

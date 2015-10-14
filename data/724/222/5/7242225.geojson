@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.550000,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7242225","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242225,"name:xx":"Locht"}}
+{
+  "id": 7242225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242225",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242225,
+    "tgn:name":"Locht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.55,50.883333],"type":"Point"}
+}

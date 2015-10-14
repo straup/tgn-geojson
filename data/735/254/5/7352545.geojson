@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.700000,29.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7352545","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7352545,"name:xx":"Rancho Barrios"}}
+{
+  "id": 7352545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352545",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352545,
+    "tgn:name":"Rancho Barrios",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7,29.65],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.016667,24.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7360523","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7360523,"name:xx":"Ejido Adolfo Ruiz Cortinez"}}
+{
+  "id": 7360523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360523",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360523,
+    "tgn:name":"Ejido Adolfo Ruiz Cortinez",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.016667,24.916667],"type":"Point"}
+}

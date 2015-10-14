@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-86.533300,34.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2768319","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000044","tgn:7029392"],"placetype":["aat:300387099","aat:300132348"],"id":2768319,"name:xx":"Whitesburg Bar"}}
+{
+  "id": 2768319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768319",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768319,
+    "tgn:name":"Whitesburg Bar",
+    "tgn:placetype":[
+        "aat:300387099",
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5333,34.5667],"type":"Point"}
+}

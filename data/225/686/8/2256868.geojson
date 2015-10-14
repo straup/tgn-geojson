@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.416700,34.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2256868","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000044","tgn:7029392"],"placetype":["aat:300008746"],"id":2256868,"name:xx":"Corkscrew Cave"}}
+{
+  "id": 2256868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256868",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256868,
+    "tgn:name":"Corkscrew Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4167,34.65],"type":"Point"}
+}

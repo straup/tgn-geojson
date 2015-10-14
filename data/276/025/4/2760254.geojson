@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.033300,44.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2760254","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2760254,"name:xx":"West Fork Roseberry Ditch"}}
+{
+  "id": 2760254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760254",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760254,
+    "tgn:name":"West Fork Roseberry Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.0333,44.7333],"type":"Point"}
+}

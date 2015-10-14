@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.679109,23.577671]},"type":"Feature","properties":{"hierarchy":["tgn:7477698","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7477698,"name:xx":"Shengdi Miao"}}
+{
+  "id": 7477698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477698",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477698,
+    "tgn:name":"Shengdi Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.679109,23.577671],"type":"Point"}
+}

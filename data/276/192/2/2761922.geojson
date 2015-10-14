@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.933300,31.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2761922","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000064","tgn:7029392"],"placetype":["aat:300008707"],"id":2761922,"name:xx":"West River"}}
+{
+  "id": 2761922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761922",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000064",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761922,
+    "tgn:name":"West River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9333,31.2333],"type":"Point"}
+}

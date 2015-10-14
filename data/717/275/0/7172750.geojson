@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.800000,50.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7172750","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7172750,"name:xx":"Heusenstamm"}}
+{
+  "id": 7172750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172750",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172750,
+    "tgn:name":"Heusenstamm",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.8,50.066667],"type":"Point"}
+}

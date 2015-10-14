@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.733300,44.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2153768","tgn:1000001","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":2153768,"name:xx":"Bear Butte Creek"}}
+{
+  "id": 2153768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153768",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153768,
+    "tgn:name":"Bear Butte Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.7333,44.2833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.783300,45.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2335937","tgn:1000001","tgn:2001264","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2335937,"name:xx":"Fossil Lake"}}
+{
+  "id": 2335937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335937",
+        "tgn:1000001",
+        "tgn:2001264",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335937,
+    "tgn:name":"Fossil Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7833,45.0833],"type":"Point"}
+}

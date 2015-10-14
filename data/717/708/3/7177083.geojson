@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.783333,51.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7177083","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7177083,"name:xx":"Hardegser Stadtforst"}}
+{
+  "id": 7177083,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177083",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177083,
+    "tgn:name":"Hardegser Stadtforst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.783333,51.65],"type":"Point"}
+}

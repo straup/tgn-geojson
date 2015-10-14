@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.733300,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2334261","tgn:2001731","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2334261,"name:xx":"Forest Fields"}}
+{
+  "id": 2334261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334261",
+        "tgn:2001731",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334261,
+    "tgn:name":"Forest Fields",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7333,32.4],"type":"Point"}
+}

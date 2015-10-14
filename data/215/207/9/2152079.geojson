@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.916700,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2152079","tgn:1000001","tgn:7012149","tgn:2001222","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2152079,"name:xx":"Baxter"}}
+{
+  "id": 2152079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152079",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001222",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152079,
+    "tgn:name":"Baxter",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9167,36.5],"type":"Point"}
+}

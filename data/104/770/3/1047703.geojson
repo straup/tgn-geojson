@@ -1,0 +1,27 @@
+{
+  "id": 1047703,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0780c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757710",
+        "gp:id":728312,
+        "wof:id":101874273
+    },
+    "tgn:hierarchy":[
+        "tgn:1047703",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:1009426",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047703,
+    "tgn:name:nl":"De Cocksdorp",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.866667,53.15],"type":"Point"}
+}

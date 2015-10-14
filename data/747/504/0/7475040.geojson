@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.767778,24.838611]},"type":"Feature","properties":{"hierarchy":["tgn:7475040","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475040,"name:xx":"Yushi Cun"}}
+{
+  "id": 7475040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475040",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475040,
+    "tgn:name":"Yushi Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.767778,24.838611],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.133300,30.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2762662","tgn:1000001","tgn:2000870","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2762662,"name:xx":"Westdale Terrace"}}
+{
+  "id": 2762662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762662",
+        "tgn:1000001",
+        "tgn:2000870",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762662,
+    "tgn:name":"Westdale Terrace",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1333,30.4167],"type":"Point"}
+}

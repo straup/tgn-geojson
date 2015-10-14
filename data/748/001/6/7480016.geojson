@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.405374,23.188426]},"type":"Feature","properties":{"hierarchy":["tgn:7480016","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008773"],"id":7480016,"name:xx":"Ankeng"}}
+{
+  "id": 7480016,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480016",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480016,
+    "tgn:name":"Ankeng",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.405374,23.188426],"type":"Point"}
+}

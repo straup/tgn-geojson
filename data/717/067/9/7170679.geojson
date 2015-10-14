@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.800000,53.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7170679","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7170679,"name:xx":"Hinberg-See"}}
+{
+  "id": 7170679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170679",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170679,
+    "tgn:name":"Hinberg-See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8,53.5],"type":"Point"}
+}

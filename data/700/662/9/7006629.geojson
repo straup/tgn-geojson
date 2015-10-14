@@ -1,0 +1,26 @@
+{
+  "id": 7006629,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006629",
+        "tgn:7006631",
+        "tgn:1000003",
+        "tgn:7006540",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006629,
+    "tgn:name":"Tallinn",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387238",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[24.728,59.433],"type":"Point"}
+}

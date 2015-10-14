@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.516700,47.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2158012","tgn:1000001","tgn:7012149","tgn:2001295","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2158012,"name:xx":"Beaver Mountain"}}
+{
+  "id": 2158012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158012",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001295",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158012,
+    "tgn:name":"Beaver Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5167,47.95],"type":"Point"}
+}

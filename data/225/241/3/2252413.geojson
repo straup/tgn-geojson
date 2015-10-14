@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.500000,39.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2252413","tgn:1000001","tgn:7012149","tgn:1002441","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2252413,"name:xx":"Congress Run"}}
+{
+  "id": 2252413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252413",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002441",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252413,
+    "tgn:name":"Congress Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5,39.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.562810,23.657608]},"type":"Feature","properties":{"hierarchy":["tgn:7477228","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7477228,"name:xx":"Fude Ci"}}
+{
+  "id": 7477228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477228",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477228,
+    "tgn:name":"Fude Ci",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.56281,23.657608],"type":"Point"}
+}

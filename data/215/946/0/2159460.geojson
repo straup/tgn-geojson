@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.133300,30.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2159460","tgn:1000001","tgn:2000315","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2159460,"name:xx":"Bee Gum Lake"}}
+{
+  "id": 2159460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159460",
+        "tgn:1000001",
+        "tgn:2000315",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159460,
+    "tgn:name":"Bee Gum Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1333,30.6167],"type":"Point"}
+}

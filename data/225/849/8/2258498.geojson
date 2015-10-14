@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.216700,42.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2258498","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300266640"],"id":2258498,"name:xx":"Cotton Ridge"}}
+{
+  "id": 2258498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258498",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258498,
+    "tgn:name":"Cotton Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.2167,42.2],"type":"Point"}
+}

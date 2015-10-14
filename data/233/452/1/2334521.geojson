@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.283300,36.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2334521","tgn:1000001","tgn:7012149","tgn:2001449","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2334521,"name:xx":"Forest Road"}}
+{
+  "id": 2334521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334521",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001449",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334521,
+    "tgn:name":"Forest Road",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2833,36.0167],"type":"Point"}
+}

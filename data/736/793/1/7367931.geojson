@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.700000,25.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7367931","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367931,"name:xx":"El Salitrillo"}}
+{
+  "id": 7367931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367931",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367931,
+    "tgn:name":"El Salitrillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.7,25.1],"type":"Point"}
+}

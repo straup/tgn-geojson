@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.033333,21.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7371315","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7371315,"name:xx":"Grande, Arroyo"}}
+{
+  "id": 7371315,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371315",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371315,
+    "tgn:name":"Grande, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.033333,21.65],"type":"Point"}
+}

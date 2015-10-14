@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.833300,30.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2760295","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008707"],"id":2760295,"name:xx":"West Fork San Jacinto River"}}
+{
+  "id": 2760295,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760295",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760295,
+    "tgn:name":"West Fork San Jacinto River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.8333,30.65],"type":"Point"}
+}

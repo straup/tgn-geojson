@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.683300,45.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2760677","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760677,"name:xx":"West Fork Zena Creek"}}
+{
+  "id": 2760677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760677",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760677,
+    "tgn:name":"West Fork Zena Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.6833,45.1],"type":"Point"}
+}

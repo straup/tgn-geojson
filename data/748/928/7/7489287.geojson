@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.233333,24.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7489287","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489287,"name:xx":"Neilili"}}
+{
+  "id": 7489287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489287",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489287,
+    "tgn:name":"Neilili",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.233333,24.983333],"type":"Point"}
+}

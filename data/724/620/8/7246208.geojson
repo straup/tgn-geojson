@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,50.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7246208","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7246208,"name:xx":"Buissonville, Bois de"}}
+{
+  "id": 7246208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246208",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246208,
+    "tgn:name":"Buissonville, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,50.166667],"type":"Point"}
+}

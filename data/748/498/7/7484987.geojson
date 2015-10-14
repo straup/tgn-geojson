@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.111667,24.008611]},"type":"Feature","properties":{"hierarchy":["tgn:7484987","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7484987,"name:xx":"Ren'ai Qiao"}}
+{
+  "id": 7484987,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484987",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484987,
+    "tgn:name":"Ren'ai Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.111667,24.008611],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.116700,48.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2401031","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2401031,"name:xx":"Horse Tied Creek"}}
+{
+  "id": 2401031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401031",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401031,
+    "tgn:name":"Horse Tied Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.1167,48.1167],"type":"Point"}
+}

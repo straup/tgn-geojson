@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.800000,52.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7114533","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114533,"name:xx":"Rollinghausen"}}
+{
+  "id": 7114533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114533",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114533,
+    "tgn:name":"Rollinghausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.8,52.85],"type":"Point"}
+}

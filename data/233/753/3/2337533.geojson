@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.166700,34.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2337533","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000035","tgn:7029392"],"placetype":["aat:300008746"],"id":2337533,"name:xx":"Fowlers Pit Number Two"}}
+{
+  "id": 2337533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337533",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000035",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337533,
+    "tgn:name":"Fowlers Pit Number Two",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1667,34.8333],"type":"Point"}
+}

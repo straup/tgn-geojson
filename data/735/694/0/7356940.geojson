@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.350000,16.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7356940","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7356940,"name:xx":"Chipehua, Punta"}}
+{
+  "id": 7356940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356940",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356940,
+    "tgn:name":"Chipehua, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.35,16.033333],"type":"Point"}
+}

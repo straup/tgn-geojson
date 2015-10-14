@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-78.183300,41.266700]},"type":"Feature","properties":{"hierarchy":["tgn:7023051","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":7023051,"name:xx":"Sanders Draft"}}
+{
+  "id": 7023051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023051",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023051,
+    "tgn:name":"Sanders Draft",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.1833,41.2667],"type":"Point"}
+}

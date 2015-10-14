@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.033300,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2762638","tgn:1000001","tgn:7012149","tgn:1002789","tgn:7007710","tgn:7029392"],"placetype":["aat:300008706"],"id":2762638,"name:xx":"Westcolang Creek"}}
+{
+  "id": 2762638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762638",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002789",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762638,
+    "tgn:name":"Westcolang Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.0333,41.4833],"type":"Point"}
+}

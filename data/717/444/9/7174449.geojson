@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.750000,53.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7174449","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7174449,"name:xx":"Grumsin, Forst"}}
+{
+  "id": 7174449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174449",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174449,
+    "tgn:name":"Grumsin, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.75,53.0],"type":"Point"}
+}

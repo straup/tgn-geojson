@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.866667,51.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7178778","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7178778,"name:xx":"Hacke-Berg"}}
+{
+  "id": 7178778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178778",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178778,
+    "tgn:name":"Hacke-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.866667,51.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,26.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7371670","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7371670,"name:xx":"Secci\u00f3n La Morita"}}
+{
+  "id": 7371670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371670",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371670,
+    "tgn:name":"Secci\u00f3n La Morita",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,26.866667],"type":"Point"}
+}

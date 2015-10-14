@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.900000,28.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7369436","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7369436,"name:xx":"Rancho de Hoyos"}}
+{
+  "id": 7369436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369436",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369436,
+    "tgn:name":"Rancho de Hoyos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9,28.366667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.450000,35.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2332684","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300008761"],"id":2332684,"name:xx":"Flower Cove"}}
+{
+  "id": 2332684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332684",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332684,
+    "tgn:name":"Flower Cove",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.45,35.3333],"type":"Point"}
+}

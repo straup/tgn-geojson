@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.366667,20.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7371014","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371014,"name:xx":"Huitzimitiro"}}
+{
+  "id": 7371014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371014",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371014,
+    "tgn:name":"Huitzimitiro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.366667,20.516667],"type":"Point"}
+}

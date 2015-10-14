@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.166700,41.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2334144","tgn:1000001","tgn:2001326","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300006075"],"id":2334144,"name:xx":"Foree Ditch"}}
+{
+  "id": 2334144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334144",
+        "tgn:1000001",
+        "tgn:2001326",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334144,
+    "tgn:name":"Foree Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.1667,41.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.200000,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2769133","tgn:1000001","tgn:1002601","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2769133,"name:xx":"Whittlesey Brook"}}
+{
+  "id": 2769133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769133",
+        "tgn:1000001",
+        "tgn:1002601",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769133,
+    "tgn:name":"Whittlesey Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2,41.6833],"type":"Point"}
+}

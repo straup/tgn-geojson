@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.016667,20.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7373473","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7373473,"name:xx":"La Gavilana"}}
+{
+  "id": 7373473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373473",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373473,
+    "tgn:name":"La Gavilana",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.016667,20.75],"type":"Point"}
+}

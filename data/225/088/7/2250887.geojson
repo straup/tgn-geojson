@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.616700,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2250887","tgn:1000001","tgn:7012149","tgn:1002928","tgn:7007706","tgn:7029392"],"placetype":["aat:300008680"],"id":2250887,"name:xx":"Columbia Lake"}}
+{
+  "id": 2250887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250887",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002928",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250887,
+    "tgn:name":"Columbia Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6167,41.0],"type":"Point"}
+}

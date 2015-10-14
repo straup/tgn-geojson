@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.766667,19.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7366229","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7366229,"name:xx":"El Tepeguaje, Cerro"}}
+{
+  "id": 7366229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366229",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366229,
+    "tgn:name":"El Tepeguaje, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.766667,19.15],"type":"Point"}
+}

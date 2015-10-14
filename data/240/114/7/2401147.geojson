@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.150000,44.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2401147","tgn:1000001","tgn:7012149","tgn:2000473","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2401147,"name:xx":"Horsefly Spring"}}
+{
+  "id": 2401147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401147",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000473",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401147,
+    "tgn:name":"Horsefly Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.15,44.1833],"type":"Point"}
+}

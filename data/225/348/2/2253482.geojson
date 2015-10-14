@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-92.150000,40.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2253482","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2253482,"name:xx":"Cook Creek"}}
+{
+  "id": 2253482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253482",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253482,
+    "tgn:name":"Cook Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.15,40.6167],"type":"Point"}
+}

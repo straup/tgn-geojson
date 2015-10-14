@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.366700,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2338999","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008791"],"id":2338999,"name:xx":"Franklin Island"}}
+{
+  "id": 2338999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338999",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338999,
+    "tgn:name":"Franklin Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.3667,43.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.630000,23.128333]},"type":"Feature","properties":{"hierarchy":["tgn:7484861","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484861,"name:xx":"Dabeishi Xi"}}
+{
+  "id": 7484861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484861",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484861,
+    "tgn:name":"Dabeishi Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.63,23.128333],"type":"Point"}
+}

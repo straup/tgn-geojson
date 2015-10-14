@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.650000,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2404127","tgn:1000001","tgn:7012149","tgn:2000927","tgn:7007515","tgn:7029392"],"placetype":["aat:300008347"],"id":2404127,"name:xx":"Howland"}}
+{
+  "id": 2404127,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404127",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000927",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404127,
+    "tgn:name":"Howland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.65,45.2333],"type":"Point"}
+}

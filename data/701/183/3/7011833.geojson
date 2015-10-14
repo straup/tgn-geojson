@@ -1,0 +1,24 @@
+{
+  "id": 7011833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011833",
+        "tgn:7002445",
+        "tgn:7018923",
+        "tgn:7011781",
+        "tgn:1000003",
+        "tgn:7008136",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011833,
+    "tgn:name:en":"West Norwood",
+    "tgn:placetype":[
+        "aat:300000745",
+        "aat:300387331"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1,51.416667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.516667,19.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7360213","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7360213,"name:xx":"Estaci\u00f3n Contadero"}}
+{
+  "id": 7360213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360213",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360213,
+    "tgn:name":"Estaci\u00f3n Contadero",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.516667,19.433333],"type":"Point"}
+}

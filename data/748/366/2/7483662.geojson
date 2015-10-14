@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.813889,24.848611]},"type":"Feature","properties":{"hierarchy":["tgn:7483662","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483662,"name:xx":"Fucheng Qiao"}}
+{
+  "id": 7483662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483662",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483662,
+    "tgn:name":"Fucheng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.813889,24.848611],"type":"Point"}
+}

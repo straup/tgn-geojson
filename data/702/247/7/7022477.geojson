@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.266700,29.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022477","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300006075"],"id":7022477,"name:xx":"Canal Number Seventeen"}}
+{
+  "id": 7022477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022477,
+    "tgn:name":"Canal Number Seventeen",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.2667,29.9833],"type":"Point"}
+}

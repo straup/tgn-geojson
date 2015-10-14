@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-84.250000,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2402887","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2402887,"name:xx":"Hothouse Valley"}}
+{
+  "id": 2402887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402887",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402887,
+    "tgn:name":"Hothouse Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.25,34.9833],"type":"Point"}
+}

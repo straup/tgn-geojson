@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.033300,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2761299","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2761299,"name:xx":"West Meadow Brook Pond"}}
+{
+  "id": 2761299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761299",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761299,
+    "tgn:name":"West Meadow Brook Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0333,42.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.866667,43.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7050108","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7050108,"name:xx":"Laverinello, Val di"}}
+{
+  "id": 7050108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050108",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050108,
+    "tgn:name":"Laverinello, Val di",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.866667,43.15],"type":"Point"}
+}

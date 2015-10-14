@@ -1,0 +1,28 @@
+{
+  "id": 5003264,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0f5fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753987",
+        "gp:id":730181,
+        "qs:id":5,
+        "wof:id":101807081
+    },
+    "tgn:hierarchy":[
+        "tgn:5003264",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":5003264,
+    "tgn:name:nl":"Hoevelaken",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.466667,52.166667],"type":"Point"}
+}

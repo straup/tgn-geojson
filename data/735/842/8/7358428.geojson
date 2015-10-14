@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.966667,25.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7358428","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358428,"name:xx":"Ejido Taxtes"}}
+{
+  "id": 7358428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358428",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358428,
+    "tgn:name":"Ejido Taxtes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.966667,25.9],"type":"Point"}
+}

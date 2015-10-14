@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.566700,46.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769908","tgn:1000001","tgn:7012149","tgn:1003042","tgn:7007920","tgn:7029392"],"placetype":["aat:300006075"],"id":2769908,"name:xx":"Wilbur Lateral"}}
+{
+  "id": 2769908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003042",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769908,
+    "tgn:name":"Wilbur Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.5667,46.4333],"type":"Point"}
+}

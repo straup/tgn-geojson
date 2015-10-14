@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.549500,24.001700]},"type":"Feature","properties":{"hierarchy":["tgn:7489854","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387200"],"id":7489854,"name:xx":"Daqiao Cun"}}
+{
+  "id": 7489854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489854",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489854,
+    "tgn:name":"Daqiao Cun",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5495,24.0017],"type":"Point"}
+}

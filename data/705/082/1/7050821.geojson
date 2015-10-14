@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.700000,46.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7050821","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050821,"name:xx":"Maso Stabbio"}}
+{
+  "id": 7050821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050821",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050821,
+    "tgn:name":"Maso Stabbio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.7,46.616667],"type":"Point"}
+}

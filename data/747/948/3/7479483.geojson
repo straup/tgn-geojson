@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.465000,23.408889]},"type":"Feature","properties":{"hierarchy":["tgn:7479483","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7479483,"name:xx":"Hudikeng"}}
+{
+  "id": 7479483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479483",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479483,
+    "tgn:name":"Hudikeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.465,23.408889],"type":"Point"}
+}

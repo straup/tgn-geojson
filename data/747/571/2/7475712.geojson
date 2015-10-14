@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.931243,24.686183]},"type":"Feature","properties":{"hierarchy":["tgn:7475712","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475712,"name:xx":"Qizitou"}}
+{
+  "id": 7475712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475712",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475712,
+    "tgn:name":"Qizitou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.931243,24.686183],"type":"Point"}
+}

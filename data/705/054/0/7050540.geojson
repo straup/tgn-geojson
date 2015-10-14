@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.350000,43.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7050540","tgn:7003163","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050540,"name:xx":"Larciano"}}
+{
+  "id": 7050540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050540",
+        "tgn:7003163",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050540,
+    "tgn:name":"Larciano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.35,43.95],"type":"Point"}
+}

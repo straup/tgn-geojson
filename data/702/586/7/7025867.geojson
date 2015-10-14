@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.233333,50.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7025867","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387006"],"name:en":"Child Okeford","id":7025867}}
+{
+  "id": 7025867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025867",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025867,
+    "tgn:name:en":"Child Okeford",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.233333,50.916667],"type":"Point"}
+}

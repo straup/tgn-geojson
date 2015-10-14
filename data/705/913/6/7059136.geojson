@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[110.474000,-7.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7059136","tgn:1000004","tgn:1001322","tgn:1000116","tgn:7029392"],"placetype":["aat:300007595","aat:300263063"],"id":7059136,"name:xx":"Lara Jonggrang"}}
+{
+  "id": 7059136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059136",
+        "tgn:1000004",
+        "tgn:1001322",
+        "tgn:1000116",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059136,
+    "tgn:name":"Lara Jonggrang",
+    "tgn:placetype":[
+        "aat:300007595",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[110.474,-7.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-21.666700,70.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7024596","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300132316"],"id":7024596,"name:xx":"Holloway Bugt"}}
+{
+  "id": 7024596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024596",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024596,
+    "tgn:name":"Holloway Bugt",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-21.6667,70.9],"type":"Point"}
+}

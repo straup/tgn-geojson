@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[75.542000,48.720000]},"type":"Feature","properties":{"hierarchy":["tgn:7059149","tgn:1003353","tgn:1000004","tgn:7014786","tgn:7029392"],"placetype":["aat:300000810","aat:300263063"],"id":7059149,"name:xx":"Tamgaly"}}
+{
+  "id": 7059149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059149",
+        "tgn:1003353",
+        "tgn:1000004",
+        "tgn:7014786",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059149,
+    "tgn:name":"Tamgaly",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[75.542,48.72],"type":"Point"}
+}

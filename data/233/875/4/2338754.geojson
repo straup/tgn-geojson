@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.800000,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338754","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000186","tgn:7029392"],"placetype":["aat:300008697"],"id":2338754,"name:xx":"Frank Canyon Spring"}}
+{
+  "id": 2338754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338754",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000186",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338754,
+    "tgn:name":"Frank Canyon Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8,41.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.033333,25.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7373104","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7373104,"name:xx":"Tanque La Lagunita"}}
+{
+  "id": 7373104,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373104",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373104,
+    "tgn:name":"Tanque La Lagunita",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.033333,25.1],"type":"Point"}
+}

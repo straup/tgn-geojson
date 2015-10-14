@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.883300,45.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2762065","tgn:1000001","tgn:2001801","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300386831"],"id":2762065,"name:xx":"West Short Pine Hills"}}
+{
+  "id": 2762065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762065",
+        "tgn:1000001",
+        "tgn:2001801",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762065,
+    "tgn:name":"West Short Pine Hills",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8833,45.3833],"type":"Point"}
+}

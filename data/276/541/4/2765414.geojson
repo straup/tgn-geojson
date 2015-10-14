@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.216700,45.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2765414","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2765414,"name:xx":"White Bird Hill Summit"}}
+{
+  "id": 2765414,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765414",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765414,
+    "tgn:name":"White Bird Hill Summit",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2167,45.8333],"type":"Point"}
+}

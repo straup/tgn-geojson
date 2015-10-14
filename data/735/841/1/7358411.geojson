@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.816667,32.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7358411","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7358411,"name:xx":"Colonia Rio Colorado"}}
+{
+  "id": 7358411,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358411",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358411,
+    "tgn:name":"Colonia Rio Colorado",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.816667,32.083333],"type":"Point"}
+}

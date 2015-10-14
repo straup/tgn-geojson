@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.160278,22.967778]},"type":"Feature","properties":{"hierarchy":["tgn:7482333","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7482333,"name:xx":"Anping Xingang"}}
+{
+  "id": 7482333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482333",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482333,
+    "tgn:name":"Anping Xingang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.160278,22.967778],"type":"Point"}
+}

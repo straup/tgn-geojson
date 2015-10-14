@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.366700,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2332619","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002841","tgn:7029392"],"placetype":["aat:300008706"],"id":2332619,"name:xx":"Florin Creek"}}
+{
+  "id": 2332619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332619",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002841",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332619,
+    "tgn:name":"Florin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3667,38.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.498333,23.365556]},"type":"Feature","properties":{"hierarchy":["tgn:7485856","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300006191"],"id":7485856,"name:xx":"Xi'an Shuiku"}}
+{
+  "id": 7485856,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485856",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485856,
+    "tgn:name":"Xi'an Shuiku",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.498333,23.365556],"type":"Point"}
+}

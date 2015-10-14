@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.733333,24.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7470936","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470936,"name:xx":"Erjie"}}
+{
+  "id": 7470936,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470936",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470936,
+    "tgn:name":"Erjie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.733333,24.766667],"type":"Point"}
+}

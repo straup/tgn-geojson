@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.050000,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2400358","tgn:1000001","tgn:7012149","tgn:1002362","tgn:7007919","tgn:7029392"],"placetype":["aat:300008850"],"id":2400358,"name:xx":"Horse Head Point"}}
+{
+  "id": 2400358,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400358",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002362",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400358,
+    "tgn:name":"Horse Head Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.05,38.15],"type":"Point"}
+}

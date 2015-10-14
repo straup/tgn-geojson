@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.083300,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2402336","tgn:1000001","tgn:2000950","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2402336,"name:xx":"Horton Creek"}}
+{
+  "id": 2402336,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402336",
+        "tgn:1000001",
+        "tgn:2000950",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402336,
+    "tgn:name":"Horton Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0833,45.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.350000,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7174352","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7174352,"name:xx":"Gro\u00dfer Kuptewuh-Teich"}}
+{
+  "id": 7174352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174352",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174352,
+    "tgn:name":"Gro\u00dfer Kuptewuh-Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.35,51.35],"type":"Point"}
+}

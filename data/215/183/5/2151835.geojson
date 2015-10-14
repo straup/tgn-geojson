@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.216700,47.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2151835","tgn:1000001","tgn:2001009","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008863"],"id":2151835,"name:xx":"Battleground State Forest"}}
+{
+  "id": 2151835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151835",
+        "tgn:1000001",
+        "tgn:2001009",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151835,
+    "tgn:name":"Battleground State Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2167,47.2],"type":"Point"}
+}

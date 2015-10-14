@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.233333,53.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7110158","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7110158,"name:xx":"Puttloser Moor"}}
+{
+  "id": 7110158,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110158",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110158,
+    "tgn:name":"Puttloser Moor",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.233333,53.066667],"type":"Point"}
+}

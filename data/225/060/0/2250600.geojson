@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.450000,37.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2250600","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014475","tgn:7029392"],"placetype":["aat:300008706"],"id":2250600,"name:xx":"Colorado Creek"}}
+{
+  "id": 2250600,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250600",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014475",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250600,
+    "tgn:name":"Colorado Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.45,37.45],"type":"Point"}
+}

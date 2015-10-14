@@ -1,0 +1,27 @@
+{
+  "id": 7006874,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f24d3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744514",
+        "gp:id":734741,
+        "qs:id":3,
+        "wof:id":101754761
+    },
+    "tgn:hierarchy":[
+        "tgn:7006874",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006874,
+    "tgn:name:nl":"Wijchen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.733333,51.816667],"type":"Point"}
+}

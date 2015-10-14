@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.206300,25.074404]},"type":"Feature","properties":{"hierarchy":["tgn:7470194","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470194,"name:xx":"Zhentou"}}
+{
+  "id": 7470194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470194",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470194,
+    "tgn:name":"Zhentou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2063,25.074404],"type":"Point"}
+}

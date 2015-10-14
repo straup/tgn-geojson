@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.563330,23.564092]},"type":"Feature","properties":{"hierarchy":["tgn:7476984","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7476984,"name:xx":"Hailing Dian"}}
+{
+  "id": 7476984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476984",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476984,
+    "tgn:name":"Hailing Dian",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.56333,23.564092],"type":"Point"}
+}

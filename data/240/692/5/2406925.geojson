@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.100000,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2406925","tgn:1000001","tgn:7012149","tgn:2000997","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2406925,"name:xx":"Hunter Drain"}}
+{
+  "id": 2406925,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406925",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000997",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406925,
+    "tgn:name":"Hunter Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1,43.35],"type":"Point"}
+}

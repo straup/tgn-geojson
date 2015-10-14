@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.983333,45.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7050636","tgn:7005869","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050636,"name:xx":"Picenengo"}}
+{
+  "id": 7050636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050636",
+        "tgn:7005869",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050636,
+    "tgn:name":"Picenengo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.983333,45.166667],"type":"Point"}
+}

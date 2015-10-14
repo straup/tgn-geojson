@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.283300,38.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2403992","tgn:1000001","tgn:7012149","tgn:2002298","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2403992,"name:xx":"Howell Fork"}}
+{
+  "id": 2403992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403992",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002298",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403992,
+    "tgn:name":"Howell Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2833,38.6833],"type":"Point"}
+}

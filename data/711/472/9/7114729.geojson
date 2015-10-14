@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.050000,49.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7114729","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114729,"name:xx":"Oberschmelz"}}
+{
+  "id": 7114729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114729",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114729,
+    "tgn:name":"Oberschmelz",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.05,49.216667],"type":"Point"}
+}

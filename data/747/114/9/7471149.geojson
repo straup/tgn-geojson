@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.473900,25.048400]},"type":"Feature","properties":{"hierarchy":["tgn:7471149","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471149,"name:xx":"Houbu"}}
+{
+  "id": 7471149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471149",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471149,
+    "tgn:name":"Houbu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.4739,25.0484],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.000000,26.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7370403","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370403,"name:xx":"Huerta Vieja"}}
+{
+  "id": 7370403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370403",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370403,
+    "tgn:name":"Huerta Vieja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0,26.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.433300,36.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2403723","tgn:1000001","tgn:7012149","tgn:2000818","tgn:7007255","tgn:7029392"],"placetype":["aat:300266640"],"id":2403723,"name:xx":"Howard Nook"}}
+{
+  "id": 2403723,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403723",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000818",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403723,
+    "tgn:name":"Howard Nook",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4333,36.8667],"type":"Point"}
+}

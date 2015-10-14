@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.772900,25.089100]},"type":"Feature","properties":{"hierarchy":["tgn:7474709","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474709,"name:xx":"Dishuizi"}}
+{
+  "id": 7474709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474709",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474709,
+    "tgn:name":"Dishuizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7729,25.0891],"type":"Point"}
+}

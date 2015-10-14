@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.525028,22.603035]},"type":"Feature","properties":{"hierarchy":["tgn:7482038","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482038,"name:xx":"Qiaotou"}}
+{
+  "id": 7482038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482038",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482038,
+    "tgn:name":"Qiaotou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.525028,22.603035],"type":"Point"}
+}

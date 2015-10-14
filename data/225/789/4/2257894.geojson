@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.983300,29.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2257894","tgn:1000001","tgn:7012149","tgn:2000277","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2257894,"name:xx":"Corrigan Reef"}}
+{
+  "id": 2257894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257894",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000277",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257894,
+    "tgn:name":"Corrigan Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9833,29.1333],"type":"Point"}
+}

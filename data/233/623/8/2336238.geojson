@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.416700,36.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2336238","tgn:2001467","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2336238,"name:xx":"Foster Springs Branch"}}
+{
+  "id": 2336238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336238",
+        "tgn:2001467",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336238,
+    "tgn:name":"Foster Springs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4167,36.4667],"type":"Point"}
+}

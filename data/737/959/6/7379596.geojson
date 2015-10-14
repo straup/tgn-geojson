@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.150000,17.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7379596","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379596,"name:xx":"Miguel Hidalgo"}}
+{
+  "id": 7379596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379596",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379596,
+    "tgn:name":"Miguel Hidalgo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.15,17.266667],"type":"Point"}
+}

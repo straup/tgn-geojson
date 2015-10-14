@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.216667,51.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7244305","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008750"],"id":7244305,"name:xx":"Keiheuvel"}}
+{
+  "id": 7244305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244305",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244305,
+    "tgn:name":"Keiheuvel",
+    "tgn:placetype":[
+        "aat:300008750"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.216667,51.183333],"type":"Point"}
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7014285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014285",
+        "tgn:1000001",
+        "tgn:2001343",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014285,
+    "tgn:name":"Omaha",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387298",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.9333,41.25],"type":"Point"}
+}

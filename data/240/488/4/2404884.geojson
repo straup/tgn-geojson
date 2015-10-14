@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.933300,43.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2404884","tgn:1000001","tgn:7012149","tgn:7014600","tgn:7007568","tgn:7029392"],"placetype":["aat:300008905"],"id":2404884,"name:xx":"Huckleberry Swamp"}}
+{
+  "id": 2404884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404884",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014600",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404884,
+    "tgn:name":"Huckleberry Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9333,43.1667],"type":"Point"}
+}

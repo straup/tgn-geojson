@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.550500,23.929600]},"type":"Feature","properties":{"hierarchy":["tgn:7478530","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478530,"name:xx":"Yongjing Guozhong"}}
+{
+  "id": 7478530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478530",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478530,
+    "tgn:name":"Yongjing Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5505,23.9296],"type":"Point"}
+}

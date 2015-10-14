@@ -1,0 +1,31 @@
+{
+  "id": 1000088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000088",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000088,
+    "tgn:name:ar":"\u0627\u0646\u064b\u0631\u0648\u064a\u062c",
+    "tgn:name:de":"Norwegen",
+    "tgn:name:en":"Norway",
+    "tgn:name:es":"Noruega",
+    "tgn:name:fr":"Norv\u00e8ge",
+    "tgn:name:it":"Norvegia",
+    "tgn:name:nb":"Norge",
+    "tgn:name:nl":"Noorwegen",
+    "tgn:name:nn":"Noreg",
+    "tgn:name:ru":"\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+    "tgn:name:zh":"\u632a\u5a01",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.0,62.0],"type":"Point"}
+}

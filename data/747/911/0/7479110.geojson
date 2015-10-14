@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.365297,23.063583]},"type":"Feature","properties":{"hierarchy":["tgn:7479110","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7479110,"name:xx":"Bade Muyuan"}}
+{
+  "id": 7479110,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479110",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479110,
+    "tgn:name":"Bade Muyuan",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.365297,23.063583],"type":"Point"}
+}

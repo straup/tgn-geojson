@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-1.633333,53.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7029969","tgn:1003611","tgn:7002445","tgn:1000003","tgn:7029507","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387308","aat:300008375"],"id":7029969,"name:xx":"Emley"}}
+{
+  "id": 7029969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029969",
+        "tgn:1003611",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029507",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029969,
+    "tgn:name":"Emley",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.633333,53.616667],"type":"Point"}
+}

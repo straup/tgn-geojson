@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.916700,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2768764","tgn:1000001","tgn:7012149","tgn:2002291","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2768764,"name:xx":"Whitman Run"}}
+{
+  "id": 2768764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768764",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002291",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768764,
+    "tgn:name":"Whitman Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.9167,38.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.256500,23.289300]},"type":"Feature","properties":{"hierarchy":["tgn:7474151","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474151,"name:xx":"Citongliao"}}
+{
+  "id": 7474151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474151",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474151,
+    "tgn:name":"Citongliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2565,23.2893],"type":"Point"}
+}

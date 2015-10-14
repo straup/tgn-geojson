@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.950000,47.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2338675","tgn:1000001","tgn:7012149","tgn:2000969","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2338675,"name:xx":"Francis Point"}}
+{
+  "id": 2338675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338675",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000969",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338675,
+    "tgn:name":"Francis Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.95,47.8833],"type":"Point"}
+}

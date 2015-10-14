@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.400000,18.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7356327","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356327,"name:xx":"Chilhuac\u00e1n"}}
+{
+  "id": 7356327,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356327",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356327,
+    "tgn:name":"Chilhuac\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.4,18.883333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.633333,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7058023","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300132315"],"id":7058023,"name:xx":"Aranci, Golfo degli"}}
+{
+  "id": 7058023,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058023",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058023,
+    "tgn:name":"Aranci, Golfo degli",
+    "tgn:placetype":[
+        "aat:300132315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.633333,41.0],"type":"Point"}
+}

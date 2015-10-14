@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.966700,34.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2339762","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2339762,"name:xx":"Freeland Arroyo Tank"}}
+{
+  "id": 2339762,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339762",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339762,
+    "tgn:name":"Freeland Arroyo Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9667,34.4167],"type":"Point"}
+}

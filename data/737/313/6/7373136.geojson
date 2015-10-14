@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.867222,26.871111]},"type":"Feature","properties":{"hierarchy":["tgn:7373136","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7373136,"name:xx":"Rancho La Gacela"}}
+{
+  "id": 7373136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373136",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373136,
+    "tgn:name":"Rancho La Gacela",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.867222,26.871111],"type":"Point"}
+}

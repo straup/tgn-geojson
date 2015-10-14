@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,25.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7362137","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362137,"name:xx":"Rancho El Carmel"}}
+{
+  "id": 7362137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362137",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362137,
+    "tgn:name":"Rancho El Carmel",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,25.883333],"type":"Point"}
+}

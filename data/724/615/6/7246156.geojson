@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.016667,49.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7246156","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7246156,"name:xx":"Devant Proigy"}}
+{
+  "id": 7246156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246156",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246156,
+    "tgn:name":"Devant Proigy",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.016667,49.983333],"type":"Point"}
+}

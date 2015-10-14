@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.866700,43.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2764395","tgn:1000001","tgn:2001796","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008791"],"id":2764395,"name:xx":"Whetstone Island"}}
+{
+  "id": 2764395,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764395",
+        "tgn:1000001",
+        "tgn:2001796",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764395,
+    "tgn:name":"Whetstone Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8667,43.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.350000,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2150186","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2150186,"name:xx":"Barxtel Hollow"}}
+{
+  "id": 2150186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150186",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150186,
+    "tgn:name":"Barxtel Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.35,37.4333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.000000,27.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7374155","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374155,"name:xx":"La Angostura"}}
+{
+  "id": 7374155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374155",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374155,
+    "tgn:name":"La Angostura",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0,27.883333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.800000,47.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2159687","tgn:1000001","tgn:7012149","tgn:2001276","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2159687,"name:xx":"Beebe Coulee"}}
+{
+  "id": 2159687,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159687",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001276",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159687,
+    "tgn:name":"Beebe Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8,47.6833],"type":"Point"}
+}

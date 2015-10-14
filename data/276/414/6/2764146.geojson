@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.766700,31.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2764146","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000030","tgn:7029392"],"placetype":["aat:300008699"],"id":2764146,"name:xx":"Wheeler Mill Branch"}}
+{
+  "id": 2764146,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764146",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000030",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764146,
+    "tgn:name":"Wheeler Mill Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7667,31.0333],"type":"Point"}
+}

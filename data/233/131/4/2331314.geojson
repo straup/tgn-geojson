@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.833300,36.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2331314","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2331314,"name:xx":"Flatiron Butte"}}
+{
+  "id": 2331314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331314",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331314,
+    "tgn:name":"Flatiron Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.8333,36.25],"type":"Point"}
+}

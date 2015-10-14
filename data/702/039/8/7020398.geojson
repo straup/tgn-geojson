@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.666700,46.166700]},"type":"Feature","properties":{"hierarchy":["tgn:7020398","tgn:1000001","tgn:2001263","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7020398,"name:xx":"Black Friday Mines"}}
+{
+  "id": 7020398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020398",
+        "tgn:1000001",
+        "tgn:2001263",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020398,
+    "tgn:name":"Black Friday Mines",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6667,46.1667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.452184,25.218770]},"type":"Feature","properties":{"hierarchy":["tgn:7471502","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471502,"name:xx":"Xinghuadian"}}
+{
+  "id": 7471502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471502",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471502,
+    "tgn:name":"Xinghuadian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.452184,25.21877],"type":"Point"}
+}

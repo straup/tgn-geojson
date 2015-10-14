@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2252932","tgn:1000001","tgn:7012149","tgn:2002302","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2252932,"name:xx":"Conrad Run"}}
+{
+  "id": 2252932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252932",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002302",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252932,
+    "tgn:name":"Conrad Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,38.9333],"type":"Point"}
+}

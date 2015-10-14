@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-112.050000,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2762720","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":2762720,"name:xx":"Western Centennial Mountains"}}
+{
+  "id": 2762720,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762720",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762720,
+    "tgn:name":"Western Centennial Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.05,44.55],"type":"Point"}
+}

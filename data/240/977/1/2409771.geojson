@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-165.916700,68.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2409771","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008706"],"id":2409771,"name:xx":"Ilikrak Creek"}}
+{
+  "id": 2409771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409771",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409771,
+    "tgn:name":"Ilikrak Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-165.9167,68.1667],"type":"Point"}
+}

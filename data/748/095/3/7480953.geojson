@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.212778,23.766111]},"type":"Feature","properties":{"hierarchy":["tgn:7480953","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7480953,"name:xx":"Haifeng Nongmuqu"}}
+{
+  "id": 7480953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480953",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480953,
+    "tgn:name":"Haifeng Nongmuqu",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.212778,23.766111],"type":"Point"}
+}

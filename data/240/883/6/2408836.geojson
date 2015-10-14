@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.683300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2408836","tgn:1000001","tgn:2002256","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008347"],"id":2408836,"name:xx":"Hyers"}}
+{
+  "id": 2408836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408836",
+        "tgn:1000001",
+        "tgn:2002256",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408836,
+    "tgn:name":"Hyers",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.6833,38.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.300000,36.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2251166","tgn:1000001","tgn:7012149","tgn:2001449","tgn:7007566","tgn:7029392"],"placetype":["aat:300008699"],"id":2251166,"name:xx":"Comanche, Ca\u00f1ada de"}}
+{
+  "id": 2251166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251166",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001449",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251166,
+    "tgn:name":"Comanche, Ca\u00f1ada de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3,36.05],"type":"Point"}
+}

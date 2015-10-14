@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.550000,23.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7362511","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362511,"name:xx":"El Paso del Durazno"}}
+{
+  "id": 7362511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362511",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362511,
+    "tgn:name":"El Paso del Durazno",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.55,23.166667],"type":"Point"}
+}

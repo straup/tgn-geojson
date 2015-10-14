@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-106.150000,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023086","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023086,"name:xx":"Heidrich Creek"}}
+{
+  "id": 7023086,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023086",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023086,
+    "tgn:name":"Heidrich Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.15,41.0333],"type":"Point"}
+}

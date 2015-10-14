@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.166667,25.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7372978","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7372978,"name:xx":"La Cebolla, Sierra de"}}
+{
+  "id": 7372978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372978",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372978,
+    "tgn:name":"La Cebolla, Sierra de",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.166667,25.233333],"type":"Point"}
+}

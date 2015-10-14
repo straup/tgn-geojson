@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.200000,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2769152","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2769152,"name:xx":"Whitwater Canal"}}
+{
+  "id": 2769152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769152",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769152,
+    "tgn:name":"Whitwater Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2,39.7],"type":"Point"}
+}

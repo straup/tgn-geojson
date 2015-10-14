@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.016700,31.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2762036","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2762036,"name:xx":"West Sepulga River"}}
+{
+  "id": 2762036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762036",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762036,
+    "tgn:name":"West Sepulga River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.0167,31.75],"type":"Point"}
+}

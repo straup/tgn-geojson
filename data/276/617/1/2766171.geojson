@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.183300,32.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2766171","tgn:1000001","tgn:7012149","tgn:2000436","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2766171,"name:xx":"White Lake"}}
+{
+  "id": 2766171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000436",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766171,
+    "tgn:name":"White Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1833,32.95],"type":"Point"}
+}

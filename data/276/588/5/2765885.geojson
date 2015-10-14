@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,31.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2765885","tgn:1000001","tgn:2000868","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2765885,"name:xx":"White Hall"}}
+{
+  "id": 2765885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765885",
+        "tgn:1000001",
+        "tgn:2000868",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765885,
+    "tgn:name":"White Hall",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,31.5333],"type":"Point"}
+}

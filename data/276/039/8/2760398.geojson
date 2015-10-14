@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.316700,33.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2760398","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300008706"],"id":2760398,"name:xx":"West Fork Snow Creek"}}
+{
+  "id": 2760398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760398,
+    "tgn:name":"West Fork Snow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3167,33.0],"type":"Point"}
+}

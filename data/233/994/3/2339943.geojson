@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.666700,33.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2339943","tgn:1000001","tgn:7012149","tgn:2000370","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2339943,"name:xx":"Freemans Branch"}}
+{
+  "id": 2339943,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339943",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000370",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339943,
+    "tgn:name":"Freemans Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6667,33.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.966667,26.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7489546","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7489546,"name:xx":"Nigu Shan"}}
+{
+  "id": 7489546,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489546",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489546,
+    "tgn:name":"Nigu Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.966667,26.2],"type":"Point"}
+}

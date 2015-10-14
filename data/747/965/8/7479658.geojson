@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.361000,23.118763]},"type":"Feature","properties":{"hierarchy":["tgn:7479658","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479658,"name:xx":"Danei Guoxiao"}}
+{
+  "id": 7479658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479658",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479658,
+    "tgn:name":"Danei Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.361,23.118763],"type":"Point"}
+}

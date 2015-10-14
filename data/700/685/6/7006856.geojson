@@ -1,0 +1,28 @@
+{
+  "id": 7006856,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1cf4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748000",
+        "gp:id":733020,
+        "qs:id":3,
+        "wof:id":101839309
+    },
+    "tgn:hierarchy":[
+        "tgn:7006856",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006856,
+    "tgn:name:nl":"Roermond",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.0,51.2],"type":"Point"}
+}

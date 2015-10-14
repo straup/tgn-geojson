@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.900000,30.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2159740","tgn:1000001","tgn:2000272","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2159740,"name:xx":"Beech Bay"}}
+{
+  "id": 2159740,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159740",
+        "tgn:1000001",
+        "tgn:2000272",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159740,
+    "tgn:name":"Beech Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9,30.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.100000,27.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7370285","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7370285,"name:xx":"General, Canal"}}
+{
+  "id": 7370285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370285",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370285,
+    "tgn:name":"General, Canal",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.1,27.133333],"type":"Point"}
+}

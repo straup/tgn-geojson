@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,36.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2257999","tgn:2000766","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2257999,"name:xx":"Coruth Branch"}}
+{
+  "id": 2257999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257999",
+        "tgn:2000766",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257999,
+    "tgn:name":"Coruth Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,36.7],"type":"Point"}
+}

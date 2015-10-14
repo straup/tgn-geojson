@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.833300,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2331862","tgn:1000001","tgn:7012149","tgn:2000995","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2331862,"name:xx":"Fletcher Drain"}}
+{
+  "id": 2331862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331862",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000995",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331862,
+    "tgn:name":"Fletcher Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8333,43.25],"type":"Point"}
+}

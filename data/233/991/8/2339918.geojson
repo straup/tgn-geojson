@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.183300,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2339918","tgn:1000001","tgn:2000466","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300266640"],"id":2339918,"name:xx":"Freeman Ridge"}}
+{
+  "id": 2339918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339918",
+        "tgn:1000001",
+        "tgn:2000466",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339918,
+    "tgn:name":"Freeman Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.1833,42.6333],"type":"Point"}
+}

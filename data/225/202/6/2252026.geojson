@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.283300,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2252026","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2252026,"name:xx":"Concord River Reservoir"}}
+{
+  "id": 2252026,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252026",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252026,
+    "tgn:name":"Concord River Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2833,42.5833],"type":"Point"}
+}

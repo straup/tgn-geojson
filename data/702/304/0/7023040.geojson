@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.316700,37.866700]},"type":"Feature","properties":{"hierarchy":["tgn:7023040","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7023040,"name:xx":"Gose Branch"}}
+{
+  "id": 7023040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023040",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023040,
+    "tgn:name":"Gose Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3167,37.8667],"type":"Point"}
+}

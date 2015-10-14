@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.546202,24.964788]},"type":"Feature","properties":{"hierarchy":["tgn:7474014","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7474014,"name:xx":"Xindian Suidao"}}
+{
+  "id": 7474014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474014",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474014,
+    "tgn:name":"Xindian Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.546202,24.964788],"type":"Point"}
+}

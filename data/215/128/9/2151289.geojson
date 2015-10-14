@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.350000,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2151289","tgn:2001172","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300006075"],"id":2151289,"name:xx":"Bates County Drainage Ditch"}}
+{
+  "id": 2151289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151289",
+        "tgn:2001172",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151289,
+    "tgn:name":"Bates County Drainage Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.35,38.1333],"type":"Point"}
+}

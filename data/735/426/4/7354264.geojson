@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.316667,21.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7354264","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354264,"name:xx":"Chuc-ac"}}
+{
+  "id": 7354264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354264",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354264,
+    "tgn:name":"Chuc-ac",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.316667,21.133333],"type":"Point"}
+}

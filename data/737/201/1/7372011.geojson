@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.216667,20.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7372011","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372011,"name:xx":"Landero y Cos"}}
+{
+  "id": 7372011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372011",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372011,
+    "tgn:name":"Landero y Cos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.216667,20.083333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.216667,50.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7241188","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7241188,"name:xx":"Laambeek"}}
+{
+  "id": 7241188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241188",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241188,
+    "tgn:name":"Laambeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.216667,50.983333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.133300,30.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2151999","tgn:1000001","tgn:2000260","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2151999,"name:xx":"Bauldree Branch"}}
+{
+  "id": 2151999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151999",
+        "tgn:1000001",
+        "tgn:2000260",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151999,
+    "tgn:name":"Bauldree Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1333,30.5333],"type":"Point"}
+}

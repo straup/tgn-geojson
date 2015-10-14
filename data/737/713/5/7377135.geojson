@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.233333,20.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7377135","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377135,"name:xx":"La Pe\u00f1a"}}
+{
+  "id": 7377135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377135",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377135,
+    "tgn:name":"La Pe\u00f1a",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.233333,20.916667],"type":"Point"}
+}

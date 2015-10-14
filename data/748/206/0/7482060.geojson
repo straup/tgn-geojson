@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.555330,22.548160]},"type":"Feature","properties":{"hierarchy":["tgn:7482060","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482060,"name:xx":"Silin Qiao"}}
+{
+  "id": 7482060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482060",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482060,
+    "tgn:name":"Silin Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.55533,22.54816],"type":"Point"}
+}

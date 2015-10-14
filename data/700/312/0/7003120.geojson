@@ -1,0 +1,21 @@
+{
+  "id": 7003120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003120",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003120,
+    "tgn:name:en":"Piedmont",
+    "tgn:name:it":"Piemonte",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.0,45.0],"type":"Point"}
+}

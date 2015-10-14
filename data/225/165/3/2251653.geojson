@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.866700,48.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2251653","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2251653,"name:xx":"Company Creek"}}
+{
+  "id": 2251653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251653",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251653,
+    "tgn:name":"Company Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8667,48.25],"type":"Point"}
+}

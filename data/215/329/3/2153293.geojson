@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.733300,37.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2153293","tgn:1000001","tgn:2001179","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2153293,"name:xx":"Bean Branch"}}
+{
+  "id": 2153293,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153293",
+        "tgn:1000001",
+        "tgn:2001179",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153293,
+    "tgn:name":"Bean Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.7333,37.2833],"type":"Point"}
+}

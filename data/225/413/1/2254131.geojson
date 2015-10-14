@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.666700,31.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2254131","tgn:1000001","tgn:2001101","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008347"],"id":2254131,"name:xx":"Cooley Springs"}}
+{
+  "id": 2254131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254131",
+        "tgn:1000001",
+        "tgn:2001101",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254131,
+    "tgn:name":"Cooley Springs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.6667,31.7],"type":"Point"}
+}

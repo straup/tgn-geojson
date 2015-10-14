@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.550000,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7246530","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7246530,"name:xx":"Ferme de Couvenaille"}}
+{
+  "id": 7246530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246530",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246530,
+    "tgn:name":"Ferme de Couvenaille",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.55,50.733333],"type":"Point"}
+}

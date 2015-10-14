@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.500000,25.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7376591","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376591,"name:xx":"La T\u00ednaja"}}
+{
+  "id": 7376591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376591",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376591,
+    "tgn:name":"La T\u00ednaja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.5,25.766667],"type":"Point"}
+}

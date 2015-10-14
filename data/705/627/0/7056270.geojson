@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.333333,45.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7056270","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056270,"name:xx":"Pio"}}
+{
+  "id": 7056270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056270",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056270,
+    "tgn:name":"Pio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.333333,45.033333],"type":"Point"}
+}

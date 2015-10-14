@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.416667,24.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7365282","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365282,"name:xx":"El Ranchito"}}
+{
+  "id": 7365282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365282",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365282,
+    "tgn:name":"El Ranchito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.416667,24.916667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.006389,24.667778]},"type":"Feature","properties":{"hierarchy":["tgn:7370176","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7370176,"name:xx":"Rancho Jaques"}}
+{
+  "id": 7370176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370176",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370176,
+    "tgn:name":"Rancho Jaques",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.006389,24.667778],"type":"Point"}
+}

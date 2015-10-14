@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.133333,23.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7371538","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371538,"name:xx":"La Diana"}}
+{
+  "id": 7371538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371538",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371538,
+    "tgn:name":"La Diana",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.133333,23.983333],"type":"Point"}
+}

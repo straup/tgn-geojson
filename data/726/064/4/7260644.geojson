@@ -1,0 +1,27 @@
+{
+  "id": 7260644,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0904e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756657",
+        "gp:id":728817,
+        "qs:id":9,
+        "wof:id":101808221
+    },
+    "tgn:hierarchy":[
+        "tgn:7260644",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7260644,
+    "tgn:name:nl":"Dorst",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.883333,51.6],"type":"Point"}
+}

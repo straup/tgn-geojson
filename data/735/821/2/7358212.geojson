@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.283333,15.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7358212","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358212,"name:xx":"Colonia Oyameles"}}
+{
+  "id": 7358212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358212",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358212,
+    "tgn:name":"Colonia Oyameles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.283333,15.033333],"type":"Point"}
+}

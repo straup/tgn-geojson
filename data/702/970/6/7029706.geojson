@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[105.559000,29.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7029706","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029706,"name:xx":"Rongchang Xian"}}
+{
+  "id": 7029706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029706",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029706,
+    "tgn:name":"Rongchang Xian",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[105.559,29.45],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.266667,52.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7114851","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114851,"name:xx":"\u00d6lingen"}}
+{
+  "id": 7114851,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114851",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114851,
+    "tgn:name":"\u00d6lingen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.266667,52.333333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.800000,50.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7171429","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7171429,"name:xx":"Hersfeld-Ost, Forst"}}
+{
+  "id": 7171429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171429",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171429,
+    "tgn:name":"Hersfeld-Ost, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.8,50.9],"type":"Point"}
+}

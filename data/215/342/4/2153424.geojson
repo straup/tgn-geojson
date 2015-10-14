@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.866700,43.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2153424","tgn:1000001","tgn:7012149","tgn:2000929","tgn:7007515","tgn:7029392"],"placetype":["aat:300008850"],"id":2153424,"name:xx":"Bean Point"}}
+{
+  "id": 2153424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153424",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000929",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153424,
+    "tgn:name":"Bean Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.8667,43.9833],"type":"Point"}
+}

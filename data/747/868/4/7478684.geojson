@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.829200,24.664308]},"type":"Feature","properties":{"hierarchy":["tgn:7478684","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478684,"name:xx":"Lize Guozhong"}}
+{
+  "id": 7478684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478684",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478684,
+    "tgn:name":"Lize Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.8292,24.664308],"type":"Point"}
+}

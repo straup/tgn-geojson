@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.133300,43.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2335238","tgn:1000001","tgn:2000590","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300008850"],"id":2335238,"name:xx":"Fort Dodge Point"}}
+{
+  "id": 2335238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335238",
+        "tgn:1000001",
+        "tgn:2000590",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335238,
+    "tgn:name":"Fort Dodge Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.1333,43.3667],"type":"Point"}
+}

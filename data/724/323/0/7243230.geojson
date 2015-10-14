@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.400000,50.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7243230","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243230,"name:xx":"La Rochette"}}
+{
+  "id": 7243230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243230",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243230,
+    "tgn:name":"La Rochette",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.4,50.183333],"type":"Point"}
+}

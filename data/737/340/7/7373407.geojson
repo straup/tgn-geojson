@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.016667,30.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7373407","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7373407,"name:xx":"La C\u00edenaguita, Arroyo"}}
+{
+  "id": 7373407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373407",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373407,
+    "tgn:name":"La C\u00edenaguita, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.016667,30.116667],"type":"Point"}
+}

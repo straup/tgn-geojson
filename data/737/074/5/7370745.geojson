@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.300000,16.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7370745","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370745,"name:xx":"Guicha"}}
+{
+  "id": 7370745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370745",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370745,
+    "tgn:name":"Guicha",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.3,16.466667],"type":"Point"}
+}

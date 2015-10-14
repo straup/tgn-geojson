@@ -1,0 +1,25 @@
+{
+  "id": 7030430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7030430",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7002897",
+        "tgn:7029392"
+    ],
+    "tgn:id":7030430,
+    "tgn:name:en":"Colombiere Cave",
+    "tgn:name:fr":"Colombi\u00e8re, Grotte de la",
+    "tgn:placetype":[
+        "aat:300106724",
+        "aat:300000810",
+        "aat:300007699",
+        "aat:300019296",
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.406,46.083],"type":"Point"}
+}

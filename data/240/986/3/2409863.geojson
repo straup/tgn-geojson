@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.633300,47.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2409863","tgn:1000001","tgn:2001569","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300006191"],"id":2409863,"name:xx":"Ilo, Lake"}}
+{
+  "id": 2409863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409863",
+        "tgn:1000001",
+        "tgn:2001569",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409863,
+    "tgn:name":"Ilo, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6333,47.3333],"type":"Point"}
+}

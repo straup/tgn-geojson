@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.633333,31.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7356589","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7356589,"name:xx":"China, Punta"}}
+{
+  "id": 7356589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356589",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356589,
+    "tgn:name":"China, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.633333,31.5],"type":"Point"}
+}

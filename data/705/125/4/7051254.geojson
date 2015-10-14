@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.933333,38.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7051254","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051254,"name:xx":"Marro, Torrente"}}
+{
+  "id": 7051254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051254",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051254,
+    "tgn:name":"Marro, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.933333,38.366667],"type":"Point"}
+}

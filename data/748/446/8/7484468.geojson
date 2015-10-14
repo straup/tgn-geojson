@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.527500,24.278889]},"type":"Feature","properties":{"hierarchy":["tgn:7484468","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484468,"name:xx":"Beituti"}}
+{
+  "id": 7484468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484468",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484468,
+    "tgn:name":"Beituti",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5275,24.278889],"type":"Point"}
+}

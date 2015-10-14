@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-107.800000,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022732","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022732,"name:xx":"Darr Ditch"}}
+{
+  "id": 7022732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022732,
+    "tgn:name":"Darr Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.8,41.0],"type":"Point"}
+}

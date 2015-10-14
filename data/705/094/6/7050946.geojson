@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.300000,40.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7050946","tgn:7003005","tgn:7003014","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050946,"name:xx":"Lambro, Fiume"}}
+{
+  "id": 7050946,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050946",
+        "tgn:7003005",
+        "tgn:7003014",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050946,
+    "tgn:name":"Lambro, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.3,40.033333],"type":"Point"}
+}

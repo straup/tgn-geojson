@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.616700,42.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2762547","tgn:1000001","tgn:7012149","tgn:1002737","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2762547,"name:xx":"West Wind Lake"}}
+{
+  "id": 2762547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762547",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002737",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762547,
+    "tgn:name":"West Wind Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6167,42.7333],"type":"Point"}
+}

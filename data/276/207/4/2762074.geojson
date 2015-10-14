@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.650000,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2762074","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300008347"],"id":2762074,"name:xx":"West Side"}}
+{
+  "id": 2762074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762074",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762074,
+    "tgn:name":"West Side",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.65,38.35],"type":"Point"}
+}

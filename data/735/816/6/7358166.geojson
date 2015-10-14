@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.809167,24.909722]},"type":"Feature","properties":{"hierarchy":["tgn:7358166","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358166,"name:xx":"Ejido Once de Marzo"}}
+{
+  "id": 7358166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358166",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358166,
+    "tgn:name":"Ejido Once de Marzo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.809167,24.909722],"type":"Point"}
+}

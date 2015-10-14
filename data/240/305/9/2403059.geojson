@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.350000,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2403059","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2403059,"name:xx":"Houndshell Branch"}}
+{
+  "id": 2403059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403059",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403059,
+    "tgn:name":"Houndshell Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.35,36.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.283300,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2251805","tgn:1000001","tgn:7012149","tgn:1002821","tgn:7007568","tgn:7029392"],"placetype":["aat:300008761"],"id":2251805,"name:xx":"Comstock Hollow"}}
+{
+  "id": 2251805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251805",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002821",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251805,
+    "tgn:name":"Comstock Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2833,42.6667],"type":"Point"}
+}

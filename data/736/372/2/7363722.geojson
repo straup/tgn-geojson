@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.866667,30.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7363722","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363722,"name:xx":"Rancho El Gat\u00fan"}}
+{
+  "id": 7363722,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363722",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363722,
+    "tgn:name":"Rancho El Gat\u00fan",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.866667,30.25],"type":"Point"}
+}

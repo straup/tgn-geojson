@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.598611,23.942222]},"type":"Feature","properties":{"hierarchy":["tgn:7480773","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7480773,"name:xx":"Ciyun Si"}}
+{
+  "id": 7480773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480773",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480773,
+    "tgn:name":"Ciyun Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.598611,23.942222],"type":"Point"}
+}

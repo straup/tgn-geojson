@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[153.118000,-26.683000]},"type":"Feature","properties":{"hierarchy":["tgn:7059131","tgn:7000490","tgn:1000006","tgn:7001830","tgn:7029392"],"placetype":["aat:300008347"],"id":7059131,"name:xx":"Mooloolaba"}}
+{
+  "id": 7059131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059131",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001830",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059131,
+    "tgn:name":"Mooloolaba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[153.118,-26.683],"type":"Point"}
+}

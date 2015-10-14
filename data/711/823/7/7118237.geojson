@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.716667,48.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7118237","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118237,"name:xx":"Peterwinkeln"}}
+{
+  "id": 7118237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118237",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118237,
+    "tgn:name":"Peterwinkeln",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.716667,48.1],"type":"Point"}
+}

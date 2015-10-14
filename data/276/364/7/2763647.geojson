@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.816700,43.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2763647","tgn:1000001","tgn:7012149","tgn:2000970","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2763647,"name:xx":"Whalen Lake"}}
+{
+  "id": 2763647,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763647",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000970",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763647,
+    "tgn:name":"Whalen Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8167,43.9],"type":"Point"}
+}

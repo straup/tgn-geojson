@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.050000,24.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7356799","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356799,"name:xx":"Carricitos"}}
+{
+  "id": 7356799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356799",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356799,
+    "tgn:name":"Carricitos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.05,24.683333],"type":"Point"}
+}

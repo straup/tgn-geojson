@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.050000,38.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7021363","tgn:1000001","tgn:7012149","tgn:2002291","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021363,"name:xx":"Sugar Run"}}
+{
+  "id": 7021363,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021363",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002291",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021363,
+    "tgn:name":"Sugar Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.05,38.8],"type":"Point"}
+}

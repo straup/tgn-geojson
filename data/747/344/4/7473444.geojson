@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.471843,23.352588]},"type":"Feature","properties":{"hierarchy":["tgn:7473444","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7473444,"name:xx":"Tongbi"}}
+{
+  "id": 7473444,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473444",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473444,
+    "tgn:name":"Tongbi",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.471843,23.352588],"type":"Point"}
+}

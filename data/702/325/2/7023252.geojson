@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.766700,48.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7023252","tgn:1000001","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300008706"],"id":7023252,"name:xx":"Little Deep Creek"}}
+{
+  "id": 7023252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023252",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023252,
+    "tgn:name":"Little Deep Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.7667,48.9333],"type":"Point"}
+}

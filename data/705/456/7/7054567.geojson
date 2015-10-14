@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.483333,46.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7054567","tgn:1003459","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054567,"name:xx":"Lonzano"}}
+{
+  "id": 7054567,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054567",
+        "tgn:1003459",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054567,
+    "tgn:name":"Lonzano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.483333,46.016667],"type":"Point"}
+}

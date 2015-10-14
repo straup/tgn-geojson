@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.816667,49.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7119642","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7119642,"name:xx":"Pendelberg"}}
+{
+  "id": 7119642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119642",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119642,
+    "tgn:name":"Pendelberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.816667,49.15],"type":"Point"}
+}

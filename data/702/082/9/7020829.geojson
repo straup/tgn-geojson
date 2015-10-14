@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-94.283300,35.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7020829","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020829,"name:xx":"Illinois River"}}
+{
+  "id": 7020829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020829",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020829,
+    "tgn:name":"Illinois River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2833,35.85],"type":"Point"}
+}

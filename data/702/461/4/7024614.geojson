@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-4.350000,35.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7024614","tgn:7001242","tgn:1000199","tgn:7029392"],"placetype":["aat:300387394"],"id":7024614,"name:xx":"V\u00e9lez de la Gomera"}}
+{
+  "id": 7024614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024614",
+        "tgn:7001242",
+        "tgn:1000199",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024614,
+    "tgn:name":"V\u00e9lez de la Gomera",
+    "tgn:placetype":[
+        "aat:300387394"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.35,35.1833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.216700,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7023780","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":7023780,"name:xx":"Tram Hollow"}}
+{
+  "id": 7023780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023780",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023780,
+    "tgn:name":"Tram Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2167,36.85],"type":"Point"}
+}

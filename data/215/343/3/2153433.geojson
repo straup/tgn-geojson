@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.450000,37.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2153433","tgn:1000001","tgn:7012149","tgn:2000233","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2153433,"name:xx":"Bean Reservoir"}}
+{
+  "id": 2153433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000233",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153433,
+    "tgn:name":"Bean Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.45,37.5333],"type":"Point"}
+}

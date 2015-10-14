@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.233333,15.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7358554","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358554,"name:xx":"Del Frijol"}}
+{
+  "id": 7358554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358554",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358554,
+    "tgn:name":"Del Frijol",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.233333,15.983333],"type":"Point"}
+}

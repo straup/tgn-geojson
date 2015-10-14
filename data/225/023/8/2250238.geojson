@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.733300,45.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2250238","tgn:1000001","tgn:7012149","tgn:1002897","tgn:7007920","tgn:7029392"],"placetype":["aat:300008850"],"id":2250238,"name:xx":"Collins Point"}}
+{
+  "id": 2250238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250238",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002897",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250238,
+    "tgn:name":"Collins Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7333,45.6833],"type":"Point"}
+}

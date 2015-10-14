@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.816700,32.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2251144","tgn:1000001","tgn:2000317","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008798"],"id":2251144,"name:xx":"Colyer Hill"}}
+{
+  "id": 2251144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251144",
+        "tgn:1000001",
+        "tgn:2000317",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251144,
+    "tgn:name":"Colyer Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8167,32.3833],"type":"Point"}
+}

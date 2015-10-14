@@ -1,0 +1,27 @@
+{
+  "id": 7008765,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008765",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7002895",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008765,
+    "tgn:name":"Cannes",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387330",
+        "aat:300000547",
+        "aat:300387249",
+        "aat:300120599",
+        "aat:300387291",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.0,43.55],"type":"Point"}
+}

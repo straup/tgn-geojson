@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.742778,22.024722]},"type":"Feature","properties":{"hierarchy":["tgn:7485541","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7485541,"name:xx":"Wangsha Qiao"}}
+{
+  "id": 7485541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485541",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485541,
+    "tgn:name":"Wangsha Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.742778,22.024722],"type":"Point"}
+}

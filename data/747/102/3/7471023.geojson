@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.797500,24.886944]},"type":"Feature","properties":{"hierarchy":["tgn:7471023","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471023,"name:xx":"Jiugu Shan"}}
+{
+  "id": 7471023,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471023",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471023,
+    "tgn:name":"Jiugu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7975,24.886944],"type":"Point"}
+}

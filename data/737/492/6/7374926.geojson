@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.250000,28.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7374926","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374926,"name:xx":"Labor del Pino"}}
+{
+  "id": 7374926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374926",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374926,
+    "tgn:name":"Labor del Pino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.25,28.416667],"type":"Point"}
+}

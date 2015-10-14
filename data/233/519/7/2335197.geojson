@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.983300,41.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2335197","tgn:1000001","tgn:7012149","tgn:1002833","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2335197,"name:xx":"Fort Clinton"}}
+{
+  "id": 2335197,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335197",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002833",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335197,
+    "tgn:name":"Fort Clinton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9833,41.3167],"type":"Point"}
+}

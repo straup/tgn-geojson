@@ -1,0 +1,27 @@
+{
+  "id": 7002862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002862",
+        "tgn:1001084",
+        "tgn:1000004",
+        "tgn:1000126",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002862,
+    "tgn:name:en":"Tyre",
+    "tgn:placetype":[
+        "aat:300387236",
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387218",
+        "aat:300020645",
+        "aat:300387512",
+        "aat:300008375",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.1833,33.2667],"type":"Point"}
+}

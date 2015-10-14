@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.280847,24.927147]},"type":"Feature","properties":{"hierarchy":["tgn:7471503","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471503,"name:xx":"Xingren Li"}}
+{
+  "id": 7471503,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471503",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471503,
+    "tgn:name":"Xingren Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.280847,24.927147],"type":"Point"}
+}

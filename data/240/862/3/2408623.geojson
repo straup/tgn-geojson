@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.350000,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2408623","tgn:2002101","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2408623,"name:xx":"Hy Hunt Creek"}}
+{
+  "id": 2408623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408623",
+        "tgn:2002101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408623,
+    "tgn:name":"Hy Hunt Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.35,38.2833],"type":"Point"}
+}

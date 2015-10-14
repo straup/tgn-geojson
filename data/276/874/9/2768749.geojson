@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.683300,46.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2768749","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008835"],"id":2768749,"name:xx":"Whitman Glacier"}}
+{
+  "id": 2768749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768749",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768749,
+    "tgn:name":"Whitman Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6833,46.8333],"type":"Point"}
+}

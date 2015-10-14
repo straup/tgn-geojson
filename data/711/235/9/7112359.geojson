@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.700000,50.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7112359","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008057"],"id":7112359,"name:xx":"Ruine Rheinfels"}}
+{
+  "id": 7112359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112359",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112359,
+    "tgn:name":"Ruine Rheinfels",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.7,50.15],"type":"Point"}
+}

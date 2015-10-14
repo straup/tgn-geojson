@@ -1,0 +1,26 @@
+{
+  "id": 7009264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7009264",
+        "tgn:1000003",
+        "tgn:7002892",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7009264,
+    "tgn:name":"La Rochelle",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387330",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.1667,46.1667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.225833,23.543333]},"type":"Feature","properties":{"hierarchy":["tgn:7482826","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482826,"name:xx":"Wanyinggong"}}
+{
+  "id": 7482826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482826",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482826,
+    "tgn:name":"Wanyinggong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.225833,23.543333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-141.566700,64.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2404999","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000085","tgn:7029392"],"placetype":["aat:300008699"],"id":2404999,"name:xx":"Hudson Coulee"}}
+{
+  "id": 2404999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404999",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000085",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404999,
+    "tgn:name":"Hudson Coulee",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-141.5667,64.8333],"type":"Point"}
+}

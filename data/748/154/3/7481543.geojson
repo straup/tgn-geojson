@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.544989,24.337830]},"type":"Feature","properties":{"hierarchy":["tgn:7481543","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481543,"name:xx":"Gaol\u00fc Shan"}}
+{
+  "id": 7481543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481543",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481543,
+    "tgn:name":"Gaol\u00fc Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.544989,24.33783],"type":"Point"}
+}

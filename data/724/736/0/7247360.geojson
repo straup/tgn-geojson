@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.833333,50.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7247360","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008688"],"id":7247360,"name:xx":"Chard, \u00c9tang du"}}
+{
+  "id": 7247360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247360",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247360,
+    "tgn:name":"Chard, \u00c9tang du",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.833333,50.316667],"type":"Point"}
+}

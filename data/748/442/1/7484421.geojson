@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.710278,23.103611]},"type":"Feature","properties":{"hierarchy":["tgn:7484421","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008697"],"id":7484421,"name:xx":"Baolai Wenquan"}}
+{
+  "id": 7484421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484421",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484421,
+    "tgn:name":"Baolai Wenquan",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.710278,23.103611],"type":"Point"}
+}

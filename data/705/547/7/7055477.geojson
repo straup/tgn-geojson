@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.411944,44.790556]},"type":"Feature","properties":{"hierarchy":["tgn:7055477","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300387057"],"id":7055477,"name:xx":"Po di Goro e di Gnocca, Bocche del"}}
+{
+  "id": 7055477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055477",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055477,
+    "tgn:name":"Po di Goro e di Gnocca, Bocche del",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.411944,44.790556],"type":"Point"}
+}

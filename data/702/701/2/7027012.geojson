@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.666700,52.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7027012","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027012,"name:xx":"Brockmanton"}}
+{
+  "id": 7027012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027012",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027012,
+    "tgn:name":"Brockmanton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.6667,52.2333],"type":"Point"}
+}

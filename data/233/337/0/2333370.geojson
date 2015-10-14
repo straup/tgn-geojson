@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.733300,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2333370","tgn:1000001","tgn:2000465","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008791"],"id":2333370,"name:xx":"Foglers Island"}}
+{
+  "id": 2333370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333370",
+        "tgn:1000001",
+        "tgn:2000465",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333370,
+    "tgn:name":"Foglers Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7333,43.45],"type":"Point"}
+}

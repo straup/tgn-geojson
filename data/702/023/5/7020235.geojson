@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.283300,35.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7020235","tgn:1000001","tgn:7012149","tgn:7013940","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7020235,"name:xx":"Perrys Pond"}}
+{
+  "id": 7020235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020235",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013940",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020235,
+    "tgn:name":"Perrys Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.2833,35.9333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.780200,24.653800]},"type":"Feature","properties":{"hierarchy":["tgn:7478839","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478839,"name:xx":"Shagang"}}
+{
+  "id": 7478839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478839",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478839,
+    "tgn:name":"Shagang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7802,24.6538],"type":"Point"}
+}

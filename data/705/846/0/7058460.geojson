@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.900000,45.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7058460","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7058460,"name:xx":"Ambin, Dents d'"}}
+{
+  "id": 7058460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058460",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058460,
+    "tgn:name":"Ambin, Dents d'",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.9,45.166667],"type":"Point"}
+}

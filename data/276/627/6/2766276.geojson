@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-71.050000,44.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2766276","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2766276,"name:xx":"White Lot Brook"}}
+{
+  "id": 2766276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766276",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766276,
+    "tgn:name":"White Lot Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.05,44.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.100000,33.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2706468","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000125","tgn:7029392"],"placetype":["aat:300008905"],"id":2706468,"name:xx":"Swan Deer Brake"}}
+{
+  "id": 2706468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706468",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000125",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706468,
+    "tgn:name":"Swan Deer Brake",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1,33.8667],"type":"Point"}
+}

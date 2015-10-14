@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.516667,26.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7364698","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7364698,"name:xx":"Pozo de gas El Zancudo"}}
+{
+  "id": 7364698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364698",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364698,
+    "tgn:name":"Pozo de gas El Zancudo",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.516667,26.95],"type":"Point"}
+}

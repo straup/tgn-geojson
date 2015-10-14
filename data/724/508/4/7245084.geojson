@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[5.350000,49.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7245084","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008699"],"id":7245084,"name:xx":"Villiers, Ruisseau de"}}
+{
+  "id": 7245084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245084",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245084,
+    "tgn:name":"Villiers, Ruisseau de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.35,49.633333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-2.983300,50.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7025811","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025811,"name:xx":"Wyke Green"}}
+{
+  "id": 7025811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025811",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025811,
+    "tgn:name":"Wyke Green",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.9833,50.75],"type":"Point"}
+}

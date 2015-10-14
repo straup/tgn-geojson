@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.733300,38.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2336492","tgn:1000001","tgn:7012149","tgn:1002523","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2336492,"name:xx":"Four Corners"}}
+{
+  "id": 2336492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336492",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002523",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336492,
+    "tgn:name":"Four Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7333,38.95],"type":"Point"}
+}

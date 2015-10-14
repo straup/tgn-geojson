@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.579722,24.246389]},"type":"Feature","properties":{"hierarchy":["tgn:7486803","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486803,"name:xx":"Lifen Li"}}
+{
+  "id": 7486803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486803",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486803,
+    "tgn:name":"Lifen Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.579722,24.246389],"type":"Point"}
+}

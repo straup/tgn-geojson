@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.485278,46.110556]},"type":"Feature","properties":{"hierarchy":["tgn:7057346","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057346,"name:xx":"Azzida"}}
+{
+  "id": 7057346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057346",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057346,
+    "tgn:name":"Azzida",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.485278,46.110556],"type":"Point"}
+}

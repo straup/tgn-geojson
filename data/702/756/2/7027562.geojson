@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.833333,52.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7027562","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"East Norton","id":7027562}}
+{
+  "id": 7027562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027562",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027562,
+    "tgn:name:en":"East Norton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.833333,52.6],"type":"Point"}
+}

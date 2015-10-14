@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.350000,36.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2338566","tgn:1000001","tgn:7012149","tgn:2001449","tgn:7007566","tgn:7029392"],"placetype":["aat:300008706"],"id":2338566,"name:xx":"Frances Creek"}}
+{
+  "id": 2338566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001449",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338566,
+    "tgn:name":"Frances Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.35,36.7167],"type":"Point"}
+}

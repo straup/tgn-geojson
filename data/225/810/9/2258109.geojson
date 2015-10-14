@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.766700,36.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2258109","tgn:1000001","tgn:7012149","tgn:2000183","tgn:7007157","tgn:7029392"],"placetype":["aat:300008697"],"id":2258109,"name:xx":"Coso Hot Springs"}}
+{
+  "id": 2258109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258109",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000183",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258109,
+    "tgn:name":"Coso Hot Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7667,36.0333],"type":"Point"}
+}

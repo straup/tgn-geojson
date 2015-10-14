@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.550000,59.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2154643","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2154643,"name:xx":"Bear Glacier Point"}}
+{
+  "id": 2154643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154643",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154643,
+    "tgn:name":"Bear Glacier Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.55,59.8833],"type":"Point"}
+}

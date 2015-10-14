@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-78.116700,36.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7023082","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023082,"name:xx":"Hawtree Creek"}}
+{
+  "id": 7023082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023082",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023082,
+    "tgn:name":"Hawtree Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.1167,36.55],"type":"Point"}
+}

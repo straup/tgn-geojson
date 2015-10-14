@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.633333,21.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7361346","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361346,"name:xx":"El Ojo de Agua"}}
+{
+  "id": 7361346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361346",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361346,
+    "tgn:name":"El Ojo de Agua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.633333,21.5],"type":"Point"}
+}

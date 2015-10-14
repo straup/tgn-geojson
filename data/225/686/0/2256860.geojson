@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.516700,30.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2256860","tgn:1000001","tgn:7012149","tgn:2000281","tgn:7007240","tgn:7029392"],"placetype":["aat:300006191"],"id":2256860,"name:xx":"Corkins Lake"}}
+{
+  "id": 2256860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256860",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000281",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256860,
+    "tgn:name":"Corkins Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5167,30.8333],"type":"Point"}
+}

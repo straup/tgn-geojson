@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.843737,25.115427]},"type":"Feature","properties":{"hierarchy":["tgn:7489652","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489652,"name:xx":"Jishan Li"}}
+{
+  "id": 7489652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489652",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489652,
+    "tgn:name":"Jishan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.843737,25.115427],"type":"Point"}
+}

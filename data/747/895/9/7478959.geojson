@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[121.437778,24.342500]},"type":"Feature","properties":{"hierarchy":["tgn:7478959","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798","aat:300387002"],"id":7478959,"name:xx":"Baba Shan"}}
+{
+  "id": 7478959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478959",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478959,
+    "tgn:name":"Baba Shan",
+    "tgn:placetype":[
+        "aat:300008798",
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.437778,24.3425],"type":"Point"}
+}

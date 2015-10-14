@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.366667,29.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7378789","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378789,"name:xx":"Los Carrizalillos"}}
+{
+  "id": 7378789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378789",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378789,
+    "tgn:name":"Los Carrizalillos",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.366667,29.766667],"type":"Point"}
+}

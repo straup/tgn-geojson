@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.316700,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2335307","tgn:1000001","tgn:7012149","tgn:1002751","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2335307,"name:xx":"Fort Hill"}}
+{
+  "id": 2335307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335307",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002751",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335307,
+    "tgn:name":"Fort Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.3167,41.35],"type":"Point"}
+}

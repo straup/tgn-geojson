@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.433300,43.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2256394","tgn:1000001","tgn:2001702","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008850"],"id":2256394,"name:xx":"Coquille Point"}}
+{
+  "id": 2256394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256394",
+        "tgn:1000001",
+        "tgn:2001702",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256394,
+    "tgn:name":"Coquille Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.4333,43.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.850000,28.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7358547","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358547,"name:xx":"Delgados"}}
+{
+  "id": 7358547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358547",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358547,
+    "tgn:name":"Delgados",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.85,28.583333],"type":"Point"}
+}

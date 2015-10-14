@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.083300,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2250780","tgn:1000001","tgn:7012149","tgn:2002386","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2250780,"name:xx":"Colter Draw"}}
+{
+  "id": 2250780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250780",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002386",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250780,
+    "tgn:name":"Colter Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0833,44.0],"type":"Point"}
+}

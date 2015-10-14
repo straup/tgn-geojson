@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.166667,41.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7054102","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054102,"name:xx":"Lupetto"}}
+{
+  "id": 7054102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054102",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054102,
+    "tgn:name":"Lupetto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.166667,41.866667],"type":"Point"}
+}

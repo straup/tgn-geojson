@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.933300,31.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2764285","tgn:1000001","tgn:7012149","tgn:1002839","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2764285,"name:xx":"Wheelus Branch"}}
+{
+  "id": 2764285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764285",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002839",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764285,
+    "tgn:name":"Wheelus Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.9333,31.9333],"type":"Point"}
+}

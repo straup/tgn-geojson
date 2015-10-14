@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.616111,23.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7485790","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485790,"name:xx":"Longtushezi"}}
+{
+  "id": 7485790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485790",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485790,
+    "tgn:name":"Longtushezi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.616111,23.65],"type":"Point"}
+}

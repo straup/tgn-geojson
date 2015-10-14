@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.339488,23.205394]},"type":"Feature","properties":{"hierarchy":["tgn:7482250","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7482250,"name:xx":"Jiaoxiu Shan"}}
+{
+  "id": 7482250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482250",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482250,
+    "tgn:name":"Jiaoxiu Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.339488,23.205394],"type":"Point"}
+}

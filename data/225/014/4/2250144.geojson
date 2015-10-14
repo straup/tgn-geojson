@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.083300,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2250144","tgn:1000001","tgn:7012149","tgn:2002293","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2250144,"name:xx":"Collins Fork"}}
+{
+  "id": 2250144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250144",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002293",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250144,
+    "tgn:name":"Collins Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0833,38.6],"type":"Point"}
+}

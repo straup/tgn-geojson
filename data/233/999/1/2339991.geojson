@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.883300,45.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2339991","tgn:1000001","tgn:7012149","tgn:2000928","tgn:7007515","tgn:7029392"],"placetype":["aat:300008905"],"id":2339991,"name:xx":"Freese Bog"}}
+{
+  "id": 2339991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339991",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000928",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339991,
+    "tgn:name":"Freese Bog",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.8833,45.2],"type":"Point"}
+}

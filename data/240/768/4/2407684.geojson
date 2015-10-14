@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.333300,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2407684","tgn:1000001","tgn:7012149","tgn:2001077","tgn:7007521","tgn:7029392"],"placetype":["aat:300008761"],"id":2407684,"name:xx":"Hurley Ravine"}}
+{
+  "id": 2407684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407684",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001077",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407684,
+    "tgn:name":"Hurley Ravine",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.3333,44.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.333300,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2769229","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2769229,"name:xx":"Wiant Reservoir"}}
+{
+  "id": 2769229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769229",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769229,
+    "tgn:name":"Wiant Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3333,41.35],"type":"Point"}
+}

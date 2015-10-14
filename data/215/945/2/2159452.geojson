@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,36.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2159452","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2159452,"name:xx":"Bee Fork Creek"}}
+{
+  "id": 2159452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159452",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159452,
+    "tgn:name":"Bee Fork Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,36.9167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.433333,14.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7357221","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7357221,"name:xx":"Chirivichapa, Arroyo"}}
+{
+  "id": 7357221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357221",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357221,
+    "tgn:name":"Chirivichapa, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.433333,14.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.816700,46.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2339643","tgn:1000001","tgn:7012149","tgn:2001308","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2339643,"name:xx":"Fredrickson Coulee"}}
+{
+  "id": 2339643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339643",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001308",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339643,
+    "tgn:name":"Fredrickson Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8167,46.15],"type":"Point"}
+}

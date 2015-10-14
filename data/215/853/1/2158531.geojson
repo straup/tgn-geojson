@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.866700,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2158531","tgn:1000001","tgn:2124025","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300006075"],"id":2158531,"name:xx":"Beaverdam Ditch"}}
+{
+  "id": 2158531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158531",
+        "tgn:1000001",
+        "tgn:2124025",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158531,
+    "tgn:name":"Beaverdam Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.8667,39.0833],"type":"Point"}
+}

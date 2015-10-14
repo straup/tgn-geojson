@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.033300,39.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2402415","tgn:1000001","tgn:7012149","tgn:1002786","tgn:7007251","tgn:7029392"],"placetype":["aat:300386845"],"id":2402415,"name:xx":"Horton-Dutch Creek Settling Basin"}}
+{
+  "id": 2402415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402415",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002786",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402415,
+    "tgn:name":"Horton-Dutch Creek Settling Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0333,39.55],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.333300,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2335966","tgn:1000001","tgn:7012149","tgn:2001303","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2335966,"name:xx":"Fossil Spring"}}
+{
+  "id": 2335966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335966",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001303",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335966,
+    "tgn:name":"Fossil Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3333,45.2333],"type":"Point"}
+}

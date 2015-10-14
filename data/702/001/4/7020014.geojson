@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.866700,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7020014","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":7020014,"name:xx":"Richardson Spring"}}
+{
+  "id": 7020014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020014",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020014,
+    "tgn:name":"Richardson Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8667,41.0],"type":"Point"}
+}

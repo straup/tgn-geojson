@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.766700,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2769382","tgn:1000001","tgn:7012149","tgn:1002926","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2769382,"name:xx":"Wickman Millpond"}}
+{
+  "id": 2769382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769382",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002926",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769382,
+    "tgn:name":"Wickman Millpond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7667,41.5833],"type":"Point"}
+}

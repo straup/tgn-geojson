@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.505065,23.134373]},"type":"Feature","properties":{"hierarchy":["tgn:7479371","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7479371,"name:xx":"Yanshui Xi"}}
+{
+  "id": 7479371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479371",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479371,
+    "tgn:name":"Yanshui Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.505065,23.134373],"type":"Point"}
+}

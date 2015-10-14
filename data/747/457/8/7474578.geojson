@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.975603,23.353703]},"type":"Feature","properties":{"hierarchy":["tgn:7474578","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7474578,"name:xx":"Yun Feng"}}
+{
+  "id": 7474578,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474578",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474578,
+    "tgn:name":"Yun Feng",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.975603,23.353703],"type":"Point"}
+}

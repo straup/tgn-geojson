@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.300000,43.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7056650","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7056650,"name:xx":"Acuto, Monte"}}
+{
+  "id": 7056650,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056650",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056650,
+    "tgn:name":"Acuto, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.3,43.266667],"type":"Point"}
+}

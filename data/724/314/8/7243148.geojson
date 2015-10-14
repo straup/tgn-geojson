@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.927630,50.618914]},"type":"Feature","properties":{"hierarchy":["tgn:7243148","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243148,"name:xx":"La Plage"}}
+{
+  "id": 7243148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243148",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243148,
+    "tgn:name":"La Plage",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.92763,50.618914],"type":"Point"}
+}

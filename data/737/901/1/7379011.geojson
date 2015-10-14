@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.933333,29.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7379011","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379011,"name:xx":"Rancho Los Reyes"}}
+{
+  "id": 7379011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379011",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379011,
+    "tgn:name":"Rancho Los Reyes",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.933333,29.65],"type":"Point"}
+}

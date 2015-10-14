@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.450000,49.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7112156","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008791"],"id":7112156,"name:xx":"Rheinschanzinsel"}}
+{
+  "id": 7112156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112156",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112156,
+    "tgn:name":"Rheinschanzinsel",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.45,49.25],"type":"Point"}
+}

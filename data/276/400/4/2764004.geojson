@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.966700,46.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2764004","tgn:1000001","tgn:7012149","tgn:2001308","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2764004,"name:xx":"Wheeler Butte"}}
+{
+  "id": 2764004,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764004",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001308",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764004,
+    "tgn:name":"Wheeler Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9667,46.0333],"type":"Point"}
+}

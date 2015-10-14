@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.716700,42.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2253357","tgn:1000001","tgn:7013942","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008863"],"id":2253357,"name:xx":"Conway State Forest"}}
+{
+  "id": 2253357,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253357",
+        "tgn:1000001",
+        "tgn:7013942",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253357,
+    "tgn:name":"Conway State Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7167,42.4667],"type":"Point"}
+}

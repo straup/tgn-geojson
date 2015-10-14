@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.316667,26.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7377224","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377224,"name:xx":"La Ultima Agua"}}
+{
+  "id": 7377224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377224",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377224,
+    "tgn:name":"La Ultima Agua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.316667,26.35],"type":"Point"}
+}

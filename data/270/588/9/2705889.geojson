@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.850000,31.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2705889","tgn:2000858","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2705889,"name:xx":"Sutton Lake"}}
+{
+  "id": 2705889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705889",
+        "tgn:2000858",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705889,
+    "tgn:name":"Sutton Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.85,31.0333],"type":"Point"}
+}

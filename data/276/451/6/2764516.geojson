@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.966700,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2764516","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008746"],"id":2764516,"name:xx":"Whipple Cave"}}
+{
+  "id": 2764516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764516",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764516,
+    "tgn:name":"Whipple Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.9667,38.5],"type":"Point"}
+}

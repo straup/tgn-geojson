@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.633300,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2765534","tgn:1000001","tgn:7012149","tgn:2000472","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2765534,"name:xx":"White Canyon"}}
+{
+  "id": 2765534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765534",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000472",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765534,
+    "tgn:name":"White Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6333,42.0],"type":"Point"}
+}

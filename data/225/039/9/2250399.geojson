@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.200000,39.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2250399","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000250","tgn:7029392"],"placetype":["aat:300000390"],"id":2250399,"name:xx":"Colonel Sellers Mine"}}
+{
+  "id": 2250399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250399",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250399,
+    "tgn:name":"Colonel Sellers Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2,39.4167],"type":"Point"}
+}

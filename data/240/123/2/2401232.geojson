@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.250000,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2401232","tgn:1000001","tgn:1003037","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008791"],"id":2401232,"name:xx":"Horsehead Tump"}}
+{
+  "id": 2401232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401232",
+        "tgn:1000001",
+        "tgn:1003037",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401232,
+    "tgn:name":"Horsehead Tump",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.25,38.0333],"type":"Point"}
+}

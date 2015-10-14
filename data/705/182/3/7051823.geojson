@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.333333,37.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7051823","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300011692"],"id":7051823,"name:xx":"Il Faraglione"}}
+{
+  "id": 7051823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051823",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051823,
+    "tgn:name":"Il Faraglione",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.333333,37.983333],"type":"Point"}
+}

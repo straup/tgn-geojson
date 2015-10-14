@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.333333,41.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7050237","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008850"],"id":7050237,"name:xx":"Pietre Nere, Punta"}}
+{
+  "id": 7050237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050237",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050237,
+    "tgn:name":"Pietre Nere, Punta",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.333333,41.916667],"type":"Point"}
+}

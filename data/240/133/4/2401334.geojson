@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.166700,31.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2401334","tgn:1000001","tgn:7012149","tgn:2000883","tgn:7007256","tgn:7029392"],"placetype":["aat:300008706"],"id":2401334,"name:xx":"Horsepen Creek"}}
+{
+  "id": 2401334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401334",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000883",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401334,
+    "tgn:name":"Horsepen Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.1667,31.55],"type":"Point"}
+}

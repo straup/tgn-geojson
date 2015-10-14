@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.618681,51.396475]},"type":"Feature","properties":{"hierarchy":["tgn:7241571","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7241571,"name:xx":"Kleinebeek"}}
+{
+  "id": 7241571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241571",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241571,
+    "tgn:name":"Kleinebeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.618681,51.396475],"type":"Point"}
+}

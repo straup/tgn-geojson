@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.993395,23.753549]},"type":"Feature","properties":{"hierarchy":["tgn:7476834","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7476834,"name:xx":"Zhimao Shan Beifeng"}}
+{
+  "id": 7476834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476834",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476834,
+    "tgn:name":"Zhimao Shan Beifeng",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.993395,23.753549],"type":"Point"}
+}

@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-1.616667,53.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7029507","tgn:7002445","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008631","aat:300387179","aat:300387064","aat:300000771","aat:300387302"],"name:en":"West Yorkshire","id":7029507}}
+{
+  "id": 7029507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029507",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029507,
+    "tgn:name:en":"West Yorkshire",
+    "tgn:placetype":[
+        "aat:300008631",
+        "aat:300387179",
+        "aat:300387064",
+        "aat:300000771",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.616667,53.733333],"type":"Point"}
+}

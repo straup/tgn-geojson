@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.250000,16.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7356826","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356826,"name:xx":"Campo Alegre"}}
+{
+  "id": 7356826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356826",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356826,
+    "tgn:name":"Campo Alegre",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.25,16.966667],"type":"Point"}
+}

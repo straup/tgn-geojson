@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.866700,30.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2259884","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259884,"name:xx":"Coulee Portage"}}
+{
+  "id": 2259884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259884",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259884,
+    "tgn:name":"Coulee Portage",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.8667,30.2667],"type":"Point"}
+}

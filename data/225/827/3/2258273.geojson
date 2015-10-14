@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.216700,30.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2258273","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008347"],"id":2258273,"name:xx":"Cottage Hill Estates"}}
+{
+  "id": 2258273,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258273",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258273,
+    "tgn:name":"Cottage Hill Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2167,30.6333],"type":"Point"}
+}

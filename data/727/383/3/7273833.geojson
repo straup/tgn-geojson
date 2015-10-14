@@ -1,0 +1,27 @@
+{
+  "id": 7273833,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f239ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745012",
+        "gp:id":734517,
+        "qs:id":1,
+        "wof:id":101754717
+    },
+    "tgn:hierarchy":[
+        "tgn:7273833",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273833,
+    "tgn:name:nl":"Warmond",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5,52.2],"type":"Point"}
+}

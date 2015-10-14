@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.716700,39.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2706701","tgn:1000001","tgn:7012149","tgn:1002598","tgn:7007523","tgn:7029392"],"placetype":["aat:300008680"],"id":2706701,"name:xx":"Swan Pond"}}
+{
+  "id": 2706701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706701",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002598",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706701,
+    "tgn:name":"Swan Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7167,39.1],"type":"Point"}
+}

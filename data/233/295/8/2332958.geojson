@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.316700,46.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2332958","tgn:1000001","tgn:7012149","tgn:2001298","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2332958,"name:xx":"Flume Gulch"}}
+{
+  "id": 2332958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332958",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001298",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332958,
+    "tgn:name":"Flume Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.3167,46.4833],"type":"Point"}
+}

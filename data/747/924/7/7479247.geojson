@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.039444,22.701111]},"type":"Feature","properties":{"hierarchy":["tgn:7479247","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7479247,"name:xx":"Mugua Xi"}}
+{
+  "id": 7479247,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479247",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479247,
+    "tgn:name":"Mugua Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.039444,22.701111],"type":"Point"}
+}

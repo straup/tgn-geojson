@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.850000,23.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7367665","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367665,"name:xx":"El Potrero"}}
+{
+  "id": 7367665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367665",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367665,
+    "tgn:name":"El Potrero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.85,23.716667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.100000,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7354050","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354050,"name:xx":"Chamaybo"}}
+{
+  "id": 7354050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354050",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354050,
+    "tgn:name":"Chamaybo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.1,27.85],"type":"Point"}
+}

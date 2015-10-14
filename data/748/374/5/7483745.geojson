@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.417778,23.335278]},"type":"Feature","properties":{"hierarchy":["tgn:7483745","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483745,"name:xx":"Kanzitou Qiao"}}
+{
+  "id": 7483745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483745",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483745,
+    "tgn:name":"Kanzitou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.417778,23.335278],"type":"Point"}
+}

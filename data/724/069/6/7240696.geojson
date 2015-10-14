@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.238249,50.627649]},"type":"Feature","properties":{"hierarchy":["tgn:7240696","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240696,"name:xx":"Fauquez"}}
+{
+  "id": 7240696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240696",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240696,
+    "tgn:name":"Fauquez",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.238249,50.627649],"type":"Point"}
+}

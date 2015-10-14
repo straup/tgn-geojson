@@ -1,0 +1,25 @@
+{
+  "id": 5002261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:5002261",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":5002261,
+    "tgn:name":"Castel d'Asso",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300387315",
+        "aat:300008057",
+        "aat:300020471"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.016667,42.383333],"type":"Point"}
+}

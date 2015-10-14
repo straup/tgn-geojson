@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.766667,29.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7356322","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356322,"name:xx":"Chilicote"}}
+{
+  "id": 7356322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356322",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356322,
+    "tgn:name":"Chilicote",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.766667,29.05],"type":"Point"}
+}

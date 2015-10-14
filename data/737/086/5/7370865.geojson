@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,26.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7370865","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370865,"name:xx":"Huirivis, Cerro"}}
+{
+  "id": 7370865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370865",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370865,
+    "tgn:name":"Huirivis, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,26.833333],"type":"Point"}
+}

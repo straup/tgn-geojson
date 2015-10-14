@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.916700,33.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2764255","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000036","tgn:7029392"],"placetype":["aat:300008347"],"id":2764255,"name:xx":"Wheeling Crossroad"}}
+{
+  "id": 2764255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764255",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000036",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764255,
+    "tgn:name":"Wheeling Crossroad",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.9167,33.4],"type":"Point"}
+}

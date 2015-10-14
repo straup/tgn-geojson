@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.083300,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2335249","tgn:1000001","tgn:7012149","tgn:1002482","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2335249,"name:xx":"Fort Fizzle"}}
+{
+  "id": 2335249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335249",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002482",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335249,
+    "tgn:name":"Fort Fizzle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0833,40.4833],"type":"Point"}
+}

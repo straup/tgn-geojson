@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.366700,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2336982","tgn:1000001","tgn:7012149","tgn:2002372","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2336982,"name:xx":"Fourmile Draw"}}
+{
+  "id": 2336982,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336982",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002372",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336982,
+    "tgn:name":"Fourmile Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3667,41.5833],"type":"Point"}
+}

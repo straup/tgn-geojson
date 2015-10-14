@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.833300,40.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2339075","tgn:1000001","tgn:2001346","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300006075"],"id":2339075,"name:xx":"Franklin South Side Pump Canal"}}
+{
+  "id": 2339075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339075",
+        "tgn:1000001",
+        "tgn:2001346",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339075,
+    "tgn:name":"Franklin South Side Pump Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8333,40.0667],"type":"Point"}
+}

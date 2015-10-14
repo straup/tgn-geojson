@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.840548,24.518358]},"type":"Feature","properties":{"hierarchy":["tgn:7475588","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7475588,"name:xx":"Dong'ao Beixi Xikou"}}
+{
+  "id": 7475588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475588",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475588,
+    "tgn:name":"Dong'ao Beixi Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.840548,24.518358],"type":"Point"}
+}

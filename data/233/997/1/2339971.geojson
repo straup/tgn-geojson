@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.466700,33.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2339971","tgn:1000001","tgn:7012149","tgn:2001964","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2339971,"name:xx":"Freemound"}}
+{
+  "id": 2339971,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339971",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001964",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339971,
+    "tgn:name":"Freemound",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.4667,33.55],"type":"Point"}
+}

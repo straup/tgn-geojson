@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.483300,40.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2401447","tgn:1000001","tgn:7012149","tgn:2000220","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2401447,"name:xx":"Horseshoe Bend Draw"}}
+{
+  "id": 2401447,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401447",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000220",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401447,
+    "tgn:name":"Horseshoe Bend Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4833,40.4167],"type":"Point"}
+}

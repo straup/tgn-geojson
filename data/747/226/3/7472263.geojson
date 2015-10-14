@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.364800,22.731000]},"type":"Feature","properties":{"hierarchy":["tgn:7472263","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472263,"name:xx":"Cuipingyan"}}
+{
+  "id": 7472263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472263",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472263,
+    "tgn:name":"Cuipingyan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3648,22.731],"type":"Point"}
+}

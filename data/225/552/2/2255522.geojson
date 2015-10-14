@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.266700,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2255522","tgn:1000001","tgn:2001427","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008699"],"id":2255522,"name:xx":"Copeland Brook"}}
+{
+  "id": 2255522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255522",
+        "tgn:1000001",
+        "tgn:2001427",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255522,
+    "tgn:name":"Copeland Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2667,43.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.616700,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2150237","tgn:1000001","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300008706"],"id":2150237,"name:xx":"Bascomb Eldrige Creek"}}
+{
+  "id": 2150237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150237",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150237,
+    "tgn:name":"Bascomb Eldrige Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6167,36.5],"type":"Point"}
+}

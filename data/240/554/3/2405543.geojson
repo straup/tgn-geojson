@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.350000,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2405543","tgn:1000001","tgn:7012149","tgn:2002271","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2405543,"name:xx":"Hughes Fork"}}
+{
+  "id": 2405543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405543",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002271",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405543,
+    "tgn:name":"Hughes Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.35,38.9333],"type":"Point"}
+}

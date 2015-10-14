@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.666700,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2763292","tgn:1000001","tgn:7012149","tgn:2002113","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2763292,"name:xx":"Wet Fork Ty Hatch Creek"}}
+{
+  "id": 2763292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763292",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002113",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763292,
+    "tgn:name":"Wet Fork Ty Hatch Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6667,37.2333],"type":"Point"}
+}

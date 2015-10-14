@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.700000,39.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7055346","tgn:1003450","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055346,"name:xx":"Li Gretti"}}
+{
+  "id": 7055346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055346",
+        "tgn:1003450",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055346,
+    "tgn:name":"Li Gretti",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.7,39.9],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.133333,52.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7026515","tgn:7002445","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300387064","aat:300387145","aat:300387071"],"name:en":"Leicester","id":7026515}}
+{
+  "id": 7026515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026515",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026515,
+    "tgn:name:en":"Leicester",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387145",
+        "aat:300387071"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.133333,52.633333],"type":"Point"}
+}

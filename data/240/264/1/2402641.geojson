@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.800000,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2402641","tgn:1000001","tgn:7012149","tgn:2002376","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2402641,"name:xx":"Hot Foot Creek"}}
+{
+  "id": 2402641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002376",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402641,
+    "tgn:name":"Hot Foot Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.8,43.0833],"type":"Point"}
+}

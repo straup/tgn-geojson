@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.450000,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7175308","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175308,"name:xx":"Grifte"}}
+{
+  "id": 7175308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175308",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175308,
+    "tgn:name":"Grifte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.45,51.216667],"type":"Point"}
+}

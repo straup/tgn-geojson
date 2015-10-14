@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.182778,23.621111]},"type":"Feature","properties":{"hierarchy":["tgn:7485993","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7485993,"name:xx":"Shalun Qiao"}}
+{
+  "id": 7485993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485993",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485993,
+    "tgn:name":"Shalun Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.182778,23.621111],"type":"Point"}
+}

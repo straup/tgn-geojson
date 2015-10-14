@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.016667,28.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7350371","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350371,"name:xx":"Burro, Arroyo del"}}
+{
+  "id": 7350371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350371",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350371,
+    "tgn:name":"Burro, Arroyo del",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.016667,28.083333],"type":"Point"}
+}

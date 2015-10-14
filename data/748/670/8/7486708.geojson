@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.700000,23.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7486708","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7486708,"name:xx":"Lizheng Shi"}}
+{
+  "id": 7486708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486708",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486708,
+    "tgn:name":"Lizheng Shi",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.7,23.55],"type":"Point"}
+}

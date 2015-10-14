@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-82.416700,36.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2331496","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2331496,"name:xx":"Flattop Mountain Branch"}}
+{
+  "id": 2331496,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331496",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331496,
+    "tgn:name":"Flattop Mountain Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4167,36.0333],"type":"Point"}
+}

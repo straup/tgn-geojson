@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.050000,52.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7174082","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7174082,"name:xx":"Gro\u00df Leuthener See"}}
+{
+  "id": 7174082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174082",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174082,
+    "tgn:name":"Gro\u00df Leuthener See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.05,52.033333],"type":"Point"}
+}

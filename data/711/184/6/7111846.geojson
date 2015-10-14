@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.033333,49.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7111846","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7111846,"name:xx":"Rinnig-Graben"}}
+{
+  "id": 7111846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111846",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111846,
+    "tgn:name":"Rinnig-Graben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.033333,49.766667],"type":"Point"}
+}

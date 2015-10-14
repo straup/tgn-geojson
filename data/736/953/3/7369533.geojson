@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.450000,20.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7369533","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369533,"name:xx":"Huajomulco"}}
+{
+  "id": 7369533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369533",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369533,
+    "tgn:name":"Huajomulco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.45,20.1],"type":"Point"}
+}

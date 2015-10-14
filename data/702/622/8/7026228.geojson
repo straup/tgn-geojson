@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.700000,52.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7026228","tgn:7002445","tgn:1000003","tgn:7011901","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Emberton","id":7026228}}
+{
+  "id": 7026228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026228",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011901",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026228,
+    "tgn:name:en":"Emberton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.7,52.133333],"type":"Point"}
+}

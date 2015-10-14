@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.183333,54.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7115249","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300006163"],"id":7115249,"name:xx":"Osterfelder Koog"}}
+{
+  "id": 7115249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115249",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115249,
+    "tgn:name":"Osterfelder Koog",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.183333,54.383333],"type":"Point"}
+}

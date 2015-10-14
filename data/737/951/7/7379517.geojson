@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.966667,20.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7379517","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7379517,"name:xx":"Maroma, Punta"}}
+{
+  "id": 7379517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379517",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379517,
+    "tgn:name":"Maroma, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.966667,20.733333],"type":"Point"}
+}

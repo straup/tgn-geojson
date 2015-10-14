@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.966700,43.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2408718","tgn:1000001","tgn:7012149","tgn:2002326","tgn:7007922","tgn:7029392"],"placetype":["aat:300008347"],"id":2408718,"name:xx":"Hyde"}}
+{
+  "id": 2408718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408718",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002326",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408718,
+    "tgn:name":"Hyde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9667,43.0667],"type":"Point"}
+}

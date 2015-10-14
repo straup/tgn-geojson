@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.300000,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7248962","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248962,"name:xx":"Den Biesouchthof"}}
+{
+  "id": 7248962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248962",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248962,
+    "tgn:name":"Den Biesouchthof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.3,50.95],"type":"Point"}
+}

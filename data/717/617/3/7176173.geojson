@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.066667,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7176173","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7176173,"name:xx":"Gro\u00dfe Laine"}}
+{
+  "id": 7176173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176173",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176173,
+    "tgn:name":"Gro\u00dfe Laine",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.066667,47.6],"type":"Point"}
+}

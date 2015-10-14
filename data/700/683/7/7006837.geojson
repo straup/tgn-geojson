@@ -1,0 +1,29 @@
+{
+  "id": 7006837,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f01b8c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747351",
+        "gp:id":726928,
+        "wof:id":101751809
+    },
+    "tgn:hierarchy":[
+        "tgn:7006837",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006837,
+    "tgn:name":"s Hertogenbosch",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.316667,51.7],"type":"Point"}
+}

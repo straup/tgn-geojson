@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.050000,48.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7177969","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177969,"name:xx":"Hanissenhof"}}
+{
+  "id": 7177969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177969",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177969,
+    "tgn:name":"Hanissenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.05,48.0],"type":"Point"}
+}

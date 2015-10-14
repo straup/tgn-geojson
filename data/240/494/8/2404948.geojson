@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.583300,32.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2404948","tgn:1000001","tgn:7012149","tgn:1002769","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2404948,"name:xx":"Hudman Branch"}}
+{
+  "id": 2404948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404948",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002769",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404948,
+    "tgn:name":"Hudman Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5833,32.0],"type":"Point"}
+}

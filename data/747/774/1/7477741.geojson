@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.785110,25.018330]},"type":"Feature","properties":{"hierarchy":["tgn:7477741","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477741,"name:xx":"Xianeipinglin Shan"}}
+{
+  "id": 7477741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477741",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477741,
+    "tgn:name":"Xianeipinglin Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.78511,25.01833],"type":"Point"}
+}

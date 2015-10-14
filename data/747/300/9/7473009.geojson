@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.673688,24.760290]},"type":"Feature","properties":{"hierarchy":["tgn:7473009","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7473009,"name:xx":"Dijun Miao"}}
+{
+  "id": 7473009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473009",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473009,
+    "tgn:name":"Dijun Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.673688,24.76029],"type":"Point"}
+}

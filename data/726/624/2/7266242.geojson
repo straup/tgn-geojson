@@ -1,0 +1,27 @@
+{
+  "id": 7266242,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0e08a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754653",
+        "gp:id":729832,
+        "qs:id":9,
+        "wof:id":101808251
+    },
+    "tgn:hierarchy":[
+        "tgn:7266242",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266242,
+    "tgn:name:nl":"Heerle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.366667,51.516667],"type":"Point"}
+}

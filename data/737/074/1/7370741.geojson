@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.696667,26.903056]},"type":"Feature","properties":{"hierarchy":["tgn:7370741","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370741,"name:xx":"Huiricoba"}}
+{
+  "id": 7370741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370741",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370741,
+    "tgn:name":"Huiricoba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.696667,26.903056],"type":"Point"}
+}

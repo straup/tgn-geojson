@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-119.550000,38.516700]},"type":"Feature","properties":{"hierarchy":["tgn:7023207","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":7023207,"name:xx":"Slinkard Creek"}}
+{
+  "id": 7023207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023207",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023207,
+    "tgn:name":"Slinkard Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.55,38.5167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.266700,36.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2708572","tgn:1000001","tgn:7016172","tgn:2000109","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":2708572,"name:xx":"Sycamore Spring"}}
+{
+  "id": 2708572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708572",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000109",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708572,
+    "tgn:name":"Sycamore Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.2667,36.3167],"type":"Point"}
+}

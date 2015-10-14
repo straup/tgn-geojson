@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.495692,23.826753]},"type":"Feature","properties":{"hierarchy":["tgn:7472743","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472743,"name:xx":"Santiao Zhen Qiao"}}
+{
+  "id": 7472743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472743",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472743,
+    "tgn:name":"Santiao Zhen Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.495692,23.826753],"type":"Point"}
+}

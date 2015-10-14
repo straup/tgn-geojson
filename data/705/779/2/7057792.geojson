@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.683333,37.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7057792","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008850"],"id":7057792,"name:xx":"Armi, Capo dell'"}}
+{
+  "id": 7057792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057792",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057792,
+    "tgn:name":"Armi, Capo dell'",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.683333,37.95],"type":"Point"}
+}

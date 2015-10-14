@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.200000,38.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7057288","tgn:1000003","tgn:7003122","tgn:7003157","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057288,"name:xx":"Bafia"}}
+{
+  "id": 7057288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057288",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:7003157",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057288,
+    "tgn:name":"Bafia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.2,38.066667],"type":"Point"}
+}

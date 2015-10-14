@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.150000,22.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7364188","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364188,"name:xx":"El Ciudado"}}
+{
+  "id": 7364188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364188",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364188,
+    "tgn:name":"El Ciudado",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.15,22.4],"type":"Point"}
+}

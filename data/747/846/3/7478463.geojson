@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.486150,22.430469]},"type":"Feature","properties":{"hierarchy":["tgn:7478463","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7478463,"name:xx":"Qizi Ding"}}
+{
+  "id": 7478463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478463",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478463,
+    "tgn:name":"Qizi Ding",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.48615,22.430469],"type":"Point"}
+}

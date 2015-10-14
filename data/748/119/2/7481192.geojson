@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.612213,22.588630]},"type":"Feature","properties":{"hierarchy":["tgn:7481192","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481192,"name:xx":"Chishan"}}
+{
+  "id": 7481192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481192",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481192,
+    "tgn:name":"Chishan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.612213,22.58863],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.420556,22.927500]},"type":"Feature","properties":{"hierarchy":["tgn:7471389","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471389,"name:xx":"Zhoujie"}}
+{
+  "id": 7471389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471389",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471389,
+    "tgn:name":"Zhoujie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.420556,22.9275],"type":"Point"}
+}

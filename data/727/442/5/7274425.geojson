@@ -1,0 +1,25 @@
+{
+  "id": 7274425,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2743593",
+        "qs:id":3,
+        "wof:id":101855427
+    },
+    "tgn:hierarchy":[
+        "tgn:7274425",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7274425,
+    "tgn:name:nl":"Zwaagdijk-Oost",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.133333,52.7],"type":"Point"}
+}

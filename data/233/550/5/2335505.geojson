@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.950000,42.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2335505","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300011692"],"id":2335505,"name:xx":"Fort Rock"}}
+{
+  "id": 2335505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335505",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335505,
+    "tgn:name":"Fort Rock",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.95,42.9833],"type":"Point"}
+}

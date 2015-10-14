@@ -1,0 +1,27 @@
+{
+  "id": 7266775,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0f4f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754029",
+        "gp:id":730161,
+        "qs:id":9,
+        "wof:id":101809803
+    },
+    "tgn:hierarchy":[
+        "tgn:7266775",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266775,
+    "tgn:name:nl":"Hoek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.783333,51.316667],"type":"Point"}
+}

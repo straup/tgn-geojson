@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.533300,39.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2335816","tgn:1000001","tgn:1002218","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":2335816,"name:xx":"Fortyniner Gulch"}}
+{
+  "id": 2335816,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335816",
+        "tgn:1000001",
+        "tgn:1002218",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335816,
+    "tgn:name":"Fortyniner Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.5333,39.8],"type":"Point"}
+}

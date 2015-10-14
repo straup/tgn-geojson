@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.716700,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2409275","tgn:1000001","tgn:7012149","tgn:1002897","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2409275,"name:xx":"Ichter Hill"}}
+{
+  "id": 2409275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409275",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002897",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409275,
+    "tgn:name":"Ichter Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7167,46.2],"type":"Point"}
+}

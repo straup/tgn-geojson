@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-61.383000,16.383000]},"type":"Feature","properties":{"hierarchy":["tgn:7059219","tgn:1007250","tgn:7018313","tgn:1000001","tgn:7004545","tgn:7029392"],"placetype":["aat:300132317"],"id":7059219,"name:xx":"Sainte-Marguerite, Anse"}}
+{
+  "id": 7059219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059219",
+        "tgn:1007250",
+        "tgn:7018313",
+        "tgn:1000001",
+        "tgn:7004545",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059219,
+    "tgn:name":"Sainte-Marguerite, Anse",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.383,16.383],"type":"Point"}
+}

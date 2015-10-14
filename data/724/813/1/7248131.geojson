@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.179109,50.739093]},"type":"Feature","properties":{"hierarchy":["tgn:7248131","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248131,"name:xx":"Beert"}}
+{
+  "id": 7248131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248131",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248131,
+    "tgn:name":"Beert",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.179109,50.739093],"type":"Point"}
+}

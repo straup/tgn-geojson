@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.711900,23.765500]},"type":"Feature","properties":{"hierarchy":["tgn:7475926","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475926,"name:xx":"Niubutouzi"}}
+{
+  "id": 7475926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475926",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475926,
+    "tgn:name":"Niubutouzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7119,23.7655],"type":"Point"}
+}

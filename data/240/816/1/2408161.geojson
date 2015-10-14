@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.083300,46.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2408161","tgn:2000943","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008707"],"id":2408161,"name:xx":"Hurricane River"}}
+{
+  "id": 2408161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408161",
+        "tgn:2000943",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408161,
+    "tgn:name":"Hurricane River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0833,46.6],"type":"Point"}
+}

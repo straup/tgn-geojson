@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.800000,44.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2336605","tgn:1000001","tgn:2001705","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2336605,"name:xx":"Four O'Clock Lake"}}
+{
+  "id": 2336605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336605",
+        "tgn:1000001",
+        "tgn:2001705",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336605,
+    "tgn:name":"Four O'Clock Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8,44.3667],"type":"Point"}
+}

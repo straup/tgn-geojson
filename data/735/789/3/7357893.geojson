@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.550000,25.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7357893","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357893,"name:xx":"Ejido Las Rusias"}}
+{
+  "id": 7357893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357893",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357893,
+    "tgn:name":"Ejido Las Rusias",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.55,25.9],"type":"Point"}
+}

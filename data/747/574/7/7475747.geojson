@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.707700,23.931000]},"type":"Feature","properties":{"hierarchy":["tgn:7475747","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475747,"name:xx":"Dapi"}}
+{
+  "id": 7475747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475747",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475747,
+    "tgn:name":"Dapi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7077,23.931],"type":"Point"}
+}

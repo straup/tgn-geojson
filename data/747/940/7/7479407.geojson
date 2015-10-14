@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.205278,24.990278]},"type":"Feature","properties":{"hierarchy":["tgn:7479407","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7479407,"name:xx":"Doumen Pi"}}
+{
+  "id": 7479407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479407",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479407,
+    "tgn:name":"Doumen Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.205278,24.990278],"type":"Point"}
+}

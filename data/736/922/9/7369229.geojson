@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.916667,30.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7369229","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369229,"name:xx":"Guadalupe"}}
+{
+  "id": 7369229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369229",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369229,
+    "tgn:name":"Guadalupe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.916667,30.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.633279,22.590846]},"type":"Feature","properties":{"hierarchy":["tgn:7481329","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481329,"name:xx":"Taiwu Guozhong"}}
+{
+  "id": 7481329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481329",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481329,
+    "tgn:name":"Taiwu Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.633279,22.590846],"type":"Point"}
+}

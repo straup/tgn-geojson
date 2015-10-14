@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.033333,29.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7364262","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7364262,"name:xx":"El Hol\u00e1n"}}
+{
+  "id": 7364262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364262",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364262,
+    "tgn:name":"El Hol\u00e1n",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.033333,29.1],"type":"Point"}
+}

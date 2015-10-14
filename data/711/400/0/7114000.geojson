@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.133333,51.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7114000","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114000,"name:xx":"Ressen"}}
+{
+  "id": 7114000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114000",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114000,
+    "tgn:name":"Ressen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.133333,51.633333],"type":"Point"}
+}

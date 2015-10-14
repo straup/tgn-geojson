@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.466700,40.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2336644","tgn:1000001","tgn:7012149","tgn:2002123","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2336644,"name:xx":"Four Pools Spring"}}
+{
+  "id": 2336644,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336644",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002123",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336644,
+    "tgn:name":"Four Pools Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4667,40.8667],"type":"Point"}
+}

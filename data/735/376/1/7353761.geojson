@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.883333,25.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7353761","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7353761,"name:xx":"Azufrosa, Puerto de la"}}
+{
+  "id": 7353761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353761",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353761,
+    "tgn:name":"Azufrosa, Puerto de la",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.883333,25.833333],"type":"Point"}
+}

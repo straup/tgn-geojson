@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.683333,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7244291","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7244291,"name:xx":"Kelfs"}}
+{
+  "id": 7244291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244291",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244291,
+    "tgn:name":"Kelfs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.683333,50.95],"type":"Point"}
+}

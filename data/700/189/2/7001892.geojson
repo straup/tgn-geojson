@@ -1,0 +1,26 @@
+{
+  "id": 7001892,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001892",
+        "tgn:1000004",
+        "tgn:7002081",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001892,
+    "tgn:name":"Nanjing",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387253",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.7833,32.05],"type":"Point"}
+}

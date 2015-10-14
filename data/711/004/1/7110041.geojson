@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.633333,49.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7110041","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110041,"name:xx":"Rebbigshof"}}
+{
+  "id": 7110041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110041",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110041,
+    "tgn:name":"Rebbigshof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.633333,49.2],"type":"Point"}
+}

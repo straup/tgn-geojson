@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.566700,47.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2765224","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2765224,"name:xx":"Whistling Pig Creek"}}
+{
+  "id": 2765224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765224",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765224,
+    "tgn:name":"Whistling Pig Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.5667,47.8833],"type":"Point"}
+}

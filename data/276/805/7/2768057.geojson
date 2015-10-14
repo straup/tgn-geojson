@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,32.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2768057","tgn:1000001","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2768057,"name:xx":"Whiterock Canyon"}}
+{
+  "id": 2768057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768057",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768057,
+    "tgn:name":"Whiterock Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,32.6833],"type":"Point"}
+}

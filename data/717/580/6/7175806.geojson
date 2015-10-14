@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.316667,50.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7175806","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175806,"name:xx":"Gro\u00dfwenkheim"}}
+{
+  "id": 7175806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175806",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175806,
+    "tgn:name":"Gro\u00dfwenkheim",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.316667,50.266667],"type":"Point"}
+}

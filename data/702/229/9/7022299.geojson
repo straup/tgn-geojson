@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.433300,41.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7022299","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":7022299,"name:xx":"Appletree Hollow"}}
+{
+  "id": 7022299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022299",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022299,
+    "tgn:name":"Appletree Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4333,41.4667],"type":"Point"}
+}

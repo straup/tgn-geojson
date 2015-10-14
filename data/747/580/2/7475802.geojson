@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.853411,24.558355]},"type":"Feature","properties":{"hierarchy":["tgn:7475802","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475802,"name:xx":"Shahe"}}
+{
+  "id": 7475802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475802",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475802,
+    "tgn:name":"Shahe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.853411,24.558355],"type":"Point"}
+}

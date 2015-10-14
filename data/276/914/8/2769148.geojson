@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.800000,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2769148","tgn:1000001","tgn:7012149","tgn:2002188","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2769148,"name:xx":"Whitts Cave"}}
+{
+  "id": 2769148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769148",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002188",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769148,
+    "tgn:name":"Whitts Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8,36.9833],"type":"Point"}
+}

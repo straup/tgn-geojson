@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.983333,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7057804","tgn:7003139","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057804,"name:xx":"Arlena, Fosso d'"}}
+{
+  "id": 7057804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057804",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057804,
+    "tgn:name":"Arlena, Fosso d'",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.983333,42.6],"type":"Point"}
+}

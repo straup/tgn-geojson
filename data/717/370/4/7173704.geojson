@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.971111,49.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7173704","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7173704,"name:xx":"Gro\u00dfer Riedelstein"}}
+{
+  "id": 7173704,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173704",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173704,
+    "tgn:name":"Gro\u00dfer Riedelstein",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.971111,49.166667],"type":"Point"}
+}

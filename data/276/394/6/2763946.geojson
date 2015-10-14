@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.850000,46.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2763946","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2763946,"name:xx":"Wheelbarrow Creek"}}
+{
+  "id": 2763946,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763946",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763946,
+    "tgn:name":"Wheelbarrow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.85,46.5333],"type":"Point"}
+}

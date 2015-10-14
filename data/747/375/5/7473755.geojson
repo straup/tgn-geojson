@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.697686,24.785608]},"type":"Feature","properties":{"hierarchy":["tgn:7473755","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473755,"name:xx":"Huotankeng"}}
+{
+  "id": 7473755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473755",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473755,
+    "tgn:name":"Huotankeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.697686,24.785608],"type":"Point"}
+}

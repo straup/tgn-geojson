@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.600000,24.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7353841","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353841,"name:xx":"Chivo, Sierra del"}}
+{
+  "id": 7353841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353841",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353841,
+    "tgn:name":"Chivo, Sierra del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6,24.716667],"type":"Point"}
+}

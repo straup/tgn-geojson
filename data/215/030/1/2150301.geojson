@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.233300,31.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2150301","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000064","tgn:7029392"],"placetype":["aat:300008347"],"id":2150301,"name:xx":"Bashi"}}
+{
+  "id": 2150301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150301",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000064",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150301,
+    "tgn:name":"Bashi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2333,31.65],"type":"Point"}
+}

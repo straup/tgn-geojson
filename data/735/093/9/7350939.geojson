@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.850000,27.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7350939","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7350939,"name:xx":"Bajio El Gringo"}}
+{
+  "id": 7350939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350939",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350939,
+    "tgn:name":"Bajio El Gringo",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.85,27.766667],"type":"Point"}
+}

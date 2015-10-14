@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.916667,49.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7179769","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7179769,"name:xx":"Gr\u00fcnschacht"}}
+{
+  "id": 7179769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179769",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179769,
+    "tgn:name":"Gr\u00fcnschacht",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.916667,49.983333],"type":"Point"}
+}

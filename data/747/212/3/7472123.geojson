@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.567185,24.017270]},"type":"Feature","properties":{"hierarchy":["tgn:7472123","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387305"],"id":7472123,"name:xx":"Dongfu Kuangqu"}}
+{
+  "id": 7472123,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472123",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472123,
+    "tgn:name":"Dongfu Kuangqu",
+    "tgn:placetype":[
+        "aat:300387305"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.567185,24.01727],"type":"Point"}
+}

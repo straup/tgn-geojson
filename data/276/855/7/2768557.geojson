@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.066700,37.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2768557","tgn:1000001","tgn:7012149","tgn:2001228","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":2768557,"name:xx":"Whitewood Lake"}}
+{
+  "id": 2768557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768557",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001228",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768557,
+    "tgn:name":"Whitewood Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0667,37.6167],"type":"Point"}
+}

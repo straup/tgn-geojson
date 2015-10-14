@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.831389,24.862500]},"type":"Feature","properties":{"hierarchy":["tgn:7483390","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7483390,"name:xx":"Wuying Xi"}}
+{
+  "id": 7483390,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483390",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483390,
+    "tgn:name":"Wuying Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.831389,24.8625],"type":"Point"}
+}

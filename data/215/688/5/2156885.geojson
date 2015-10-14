@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-147.550000,68.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2156885","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008706"],"id":2156885,"name:xx":"Beaucoup Creek"}}
+{
+  "id": 2156885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156885",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156885,
+    "tgn:name":"Beaucoup Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-147.55,68.2],"type":"Point"}
+}

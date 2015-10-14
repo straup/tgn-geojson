@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.250000,25.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7371122","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371122,"name:xx":"Gordonices"}}
+{
+  "id": 7371122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371122",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371122,
+    "tgn:name":"Gordonices",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.25,25.633333],"type":"Point"}
+}

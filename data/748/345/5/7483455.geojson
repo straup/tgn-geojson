@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.475000,22.660556]},"type":"Feature","properties":{"hierarchy":["tgn:7483455","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483455,"name:xx":"Yugang Beiqiao"}}
+{
+  "id": 7483455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483455",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483455,
+    "tgn:name":"Yugang Beiqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.475,22.660556],"type":"Point"}
+}

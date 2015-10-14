@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.016700,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2251008","tgn:1000001","tgn:2001412","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347"],"id":2251008,"name:xx":"Columbus"}}
+{
+  "id": 2251008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251008",
+        "tgn:1000001",
+        "tgn:2001412",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251008,
+    "tgn:name":"Columbus",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0167,38.1],"type":"Point"}
+}

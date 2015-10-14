@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.283300,32.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2253176","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2253176,"name:xx":"Continental Divide Tank"}}
+{
+  "id": 2253176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253176",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253176,
+    "tgn:name":"Continental Divide Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2833,32.2167],"type":"Point"}
+}

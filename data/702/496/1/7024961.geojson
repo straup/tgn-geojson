@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.516667,52.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7024961","tgn:7002445","tgn:7008103","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7024961,"name:xx":"Millbrook","name:ang":"Melebroc"}}
+{
+  "id": 7024961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024961",
+        "tgn:7002445",
+        "tgn:7008103",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024961,
+    "tgn:name":"Millbrook",
+    "tgn:name:ang":"Melebroc",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.516667,52.033333],"type":"Point"}
+}

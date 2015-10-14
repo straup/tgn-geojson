@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.317222,23.726086]},"type":"Feature","properties":{"hierarchy":["tgn:7471889","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7471889,"name:xx":"Longyan"}}
+{
+  "id": 7471889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471889",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471889,
+    "tgn:name":"Longyan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.317222,23.726086],"type":"Point"}
+}

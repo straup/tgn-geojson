@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.666700,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2156075","tgn:1000001","tgn:7012149","tgn:2001821","tgn:7007713","tgn:7029392"],"placetype":["aat:300008761"],"id":2156075,"name:xx":"Bearcat Gulch"}}
+{
+  "id": 2156075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156075",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001821",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156075,
+    "tgn:name":"Bearcat Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.6667,44.0833],"type":"Point"}
+}

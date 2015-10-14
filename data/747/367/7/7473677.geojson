@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.270000,22.889167]},"type":"Feature","properties":{"hierarchy":["tgn:7473677","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473677,"name:xx":"Yinghou"}}
+{
+  "id": 7473677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473677",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473677,
+    "tgn:name":"Yinghou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.27,22.889167],"type":"Point"}
+}

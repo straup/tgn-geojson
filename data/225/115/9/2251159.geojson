@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.766700,36.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2251159","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000149","tgn:7029392"],"placetype":["aat:300008347"],"id":2251159,"name:xx":"Comal"}}
+{
+  "id": 2251159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251159",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251159,
+    "tgn:name":"Comal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.7667,36.2333],"type":"Point"}
+}

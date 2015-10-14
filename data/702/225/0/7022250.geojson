@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.666700,33.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7022250","tgn:1000001","tgn:7012149","tgn:2001442","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":7022250,"name:xx":"Zuni mines"}}
+{
+  "id": 7022250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022250",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001442",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022250,
+    "tgn:name":"Zuni mines",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.6667,33.8],"type":"Point"}
+}

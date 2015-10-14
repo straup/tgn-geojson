@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-110.183300,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2400705","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2400705,"name:xx":"Horse Pasture Canyon"}}
+{
+  "id": 2400705,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400705",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400705,
+    "tgn:name":"Horse Pasture Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.1833,37.0],"type":"Point"}
+}

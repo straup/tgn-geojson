@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.716700,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2762335","tgn:2000194","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2762335,"name:xx":"West Toll Gate Creek"}}
+{
+  "id": 2762335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762335",
+        "tgn:2000194",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762335,
+    "tgn:name":"West Toll Gate Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7167,39.6],"type":"Point"}
+}

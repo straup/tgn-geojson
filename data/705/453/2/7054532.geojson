@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.000000,45.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7054532","tgn:7003006","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054532,"name:xx":"Lo Stallone"}}
+{
+  "id": 7054532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054532",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054532,
+    "tgn:name":"Lo Stallone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.0,45.65],"type":"Point"}
+}

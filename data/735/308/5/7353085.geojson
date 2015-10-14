@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.383333,18.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7353085","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353085,"name:xx":"Amolac"}}
+{
+  "id": 7353085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353085",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353085,
+    "tgn:name":"Amolac",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.383333,18.05],"type":"Point"}
+}

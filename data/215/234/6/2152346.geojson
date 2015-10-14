@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.766700,24.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2152346","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2152346,"name:xx":"Bay Keys"}}
+{
+  "id": 2152346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152346",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152346,
+    "tgn:name":"Bay Keys",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7667,24.6333],"type":"Point"}
+}

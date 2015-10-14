@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.883300,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2150797","tgn:1000001","tgn:7012149","tgn:2000983","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2150797,"name:xx":"Bass Lake"}}
+{
+  "id": 2150797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150797",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000983",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150797,
+    "tgn:name":"Bass Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8833,43.45],"type":"Point"}
+}

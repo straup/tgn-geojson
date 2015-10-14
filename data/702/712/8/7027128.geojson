@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[18.250000,48.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7027128","tgn:1000003","tgn:7011765","tgn:7029392"],"placetype":["aat:300387064","aat:300236112"],"id":7027128,"name:xx":"Tren\u010diansky"}}
+{
+  "id": 7027128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027128",
+        "tgn:1000003",
+        "tgn:7011765",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027128,
+    "tgn:name":"Tren\u010diansky",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.25,48.833333],"type":"Point"}
+}

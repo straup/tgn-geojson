@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.850000,32.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330641","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008706"],"id":2330641,"name:xx":"Flat Cypress Creek"}}
+{
+  "id": 2330641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330641,
+    "tgn:name":"Flat Cypress Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.85,32.45],"type":"Point"}
+}

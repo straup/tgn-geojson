@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.250000,47.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2709775","tgn:1000001","tgn:7012149","tgn:7018871","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2709775,"name:xx":"Tahl Lake"}}
+{
+  "id": 2709775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2709775",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7018871",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2709775,
+    "tgn:name":"Tahl Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.25,47.5667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.183300,36.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2767899","tgn:1000001","tgn:7012149","tgn:7022201","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2767899,"name:xx":"Whitehurst, Lake"}}
+{
+  "id": 2767899,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767899",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022201",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767899,
+    "tgn:name":"Whitehurst, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1833,36.9],"type":"Point"}
+}

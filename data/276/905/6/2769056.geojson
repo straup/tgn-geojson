@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.983300,33.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769056","tgn:1000001","tgn:7012149","tgn:2000361","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2769056,"name:xx":"Whitten Creek"}}
+{
+  "id": 2769056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769056",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000361",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769056,
+    "tgn:name":"Whitten Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9833,33.4333],"type":"Point"}
+}

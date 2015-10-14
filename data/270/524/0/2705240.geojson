@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.733300,40.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2705240","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000187","tgn:7029392"],"placetype":["aat:300008761"],"id":2705240,"name:xx":"Superior Ravine"}}
+{
+  "id": 2705240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705240",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000187",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705240,
+    "tgn:name":"Superior Ravine",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.7333,40.1833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.607546,24.038700]},"type":"Feature","properties":{"hierarchy":["tgn:7472138","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7472138,"name:xx":"Dahan Jishu Xueyuan"}}
+{
+  "id": 7472138,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472138",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472138,
+    "tgn:name":"Dahan Jishu Xueyuan",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.607546,24.0387],"type":"Point"}
+}

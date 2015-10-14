@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.983300,35.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2257421","tgn:1000001","tgn:2001481","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2257421,"name:xx":"Cornwell Branch"}}
+{
+  "id": 2257421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257421",
+        "tgn:1000001",
+        "tgn:2001481",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257421,
+    "tgn:name":"Cornwell Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9833,35.1],"type":"Point"}
+}

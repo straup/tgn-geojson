@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.250000,34.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2256691","tgn:1000001","tgn:2001431","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2256691,"name:xx":"Cordova Tank"}}
+{
+  "id": 2256691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256691",
+        "tgn:1000001",
+        "tgn:2001431",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256691,
+    "tgn:name":"Cordova Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.25,34.5833],"type":"Point"}
+}

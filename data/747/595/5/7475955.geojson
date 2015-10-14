@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.814280,24.527404]},"type":"Feature","properties":{"hierarchy":["tgn:7475955","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475955,"name:xx":"Shagang Zhen"}}
+{
+  "id": 7475955,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475955",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475955,
+    "tgn:name":"Shagang Zhen",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.81428,24.527404],"type":"Point"}
+}

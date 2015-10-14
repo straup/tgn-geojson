@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.116700,51.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7023839","tgn:7002445","tgn:1000003","tgn:7008145","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7023839,"name:xx":"Epping Green"}}
+{
+  "id": 7023839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023839",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008145",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023839,
+    "tgn:name":"Epping Green",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1167,51.75],"type":"Point"}
+}

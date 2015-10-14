@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.095000,24.723333]},"type":"Feature","properties":{"hierarchy":["tgn:7473331","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7473331,"name:xx":"Xiagongguan"}}
+{
+  "id": 7473331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473331",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473331,
+    "tgn:name":"Xiagongguan",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.095,24.723333],"type":"Point"}
+}

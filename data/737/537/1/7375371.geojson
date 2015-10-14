@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.150000,25.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7375371","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375371,"name:xx":"Las Escobas"}}
+{
+  "id": 7375371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375371",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375371,
+    "tgn:name":"Las Escobas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.15,25.683333],"type":"Point"}
+}

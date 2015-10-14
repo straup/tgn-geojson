@@ -1,0 +1,23 @@
+{
+  "id": 7000429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000429",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000429,
+    "tgn:name:de":"Kokos-Inseln",
+    "tgn:name:en":"Cocos Islands",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300386853",
+        "aat:300387176",
+        "aat:300387117"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[96.8333,-12.1667],"type":"Point"}
+}

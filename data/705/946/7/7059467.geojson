@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.650000,53.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7059467","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7059467,"name:xx":"Altenwalder Heide"}}
+{
+  "id": 7059467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059467",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059467,
+    "tgn:name":"Altenwalder Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.65,53.816667],"type":"Point"}
+}

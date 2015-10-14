@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.483300,43.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2334211","tgn:1000001","tgn:7012149","tgn:1002986","tgn:7007568","tgn:7029392"],"placetype":["aat:300132316"],"id":2334211,"name:xx":"Forest Bay"}}
+{
+  "id": 2334211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334211",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002986",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334211,
+    "tgn:name":"Forest Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.4833,43.75],"type":"Point"}
+}

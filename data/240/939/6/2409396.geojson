@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.800000,47.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2409396","tgn:1000001","tgn:7012149","tgn:2001290","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2409396,"name:xx":"Idaho Gulch"}}
+{
+  "id": 2409396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409396",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001290",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409396,
+    "tgn:name":"Idaho Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.8,47.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.166000,42.166000]},"type":"Feature","properties":{"hierarchy":["tgn:7029651","tgn:1000003","tgn:7594273","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7029651,"name:xx":"Vivario"}}
+{
+  "id": 7029651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029651",
+        "tgn:1000003",
+        "tgn:7594273",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029651,
+    "tgn:name":"Vivario",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.166,42.166],"type":"Point"}
+}

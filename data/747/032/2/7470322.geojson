@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.460902,23.712231]},"type":"Feature","properties":{"hierarchy":["tgn:7470322","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470322,"name:xx":"Dazhuang"}}
+{
+  "id": 7470322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470322",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470322,
+    "tgn:name":"Dazhuang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.460902,23.712231],"type":"Point"}
+}

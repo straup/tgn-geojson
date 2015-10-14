@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.402222,24.467500]},"type":"Feature","properties":{"hierarchy":["tgn:7486147","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486147,"name:xx":"Manuoyuan"}}
+{
+  "id": 7486147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486147",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486147,
+    "tgn:name":"Manuoyuan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.402222,24.4675],"type":"Point"}
+}

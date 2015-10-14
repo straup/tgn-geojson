@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.783333,45.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7055410","tgn:1003505","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055410,"name:xx":"Poggioreale"}}
+{
+  "id": 7055410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055410",
+        "tgn:1003505",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055410,
+    "tgn:name":"Poggioreale",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.783333,45.683333],"type":"Point"}
+}

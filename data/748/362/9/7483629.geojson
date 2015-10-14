@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.456667,23.460000]},"type":"Feature","properties":{"hierarchy":["tgn:7483629","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7483629,"name:xx":"Furen Zhongxue"}}
+{
+  "id": 7483629,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483629",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483629,
+    "tgn:name":"Furen Zhongxue",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.456667,23.46],"type":"Point"}
+}

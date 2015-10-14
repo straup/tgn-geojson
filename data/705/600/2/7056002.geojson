@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.133333,45.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7056002","tgn:7003150","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7056002,"name:xx":"Stazione Milano San Cristoforo"}}
+{
+  "id": 7056002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056002",
+        "tgn:7003150",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056002,
+    "tgn:name":"Stazione Milano San Cristoforo",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.133333,45.45],"type":"Point"}
+}

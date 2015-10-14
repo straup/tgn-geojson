@@ -1,1 +1,28 @@
-{"geometry":{"type":"Point","coordinates":[24.821000,35.152000]},"type":"Feature","properties":{"hierarchy":["tgn:7024383","tgn:7002690","tgn:7012056","tgn:1000003","tgn:1000074","tgn:7029392"],"placetype":["aat:300386972","aat:300387007","aat:300000810","aat:300048808","aat:300020224","aat:300008746","aat:300386998","aat:300391489"],"id":7024383,"name:xx":"Kam\u00e1res Cave"}}
+{
+  "id": 7024383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024383",
+        "tgn:7002690",
+        "tgn:7012056",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024383,
+    "tgn:name":"Kam\u00e1res Cave",
+    "tgn:placetype":[
+        "aat:300386972",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300048808",
+        "aat:300020224",
+        "aat:300008746",
+        "aat:300386998",
+        "aat:300391489"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[24.821,35.152],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.900000,37.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7023285","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":7023285,"name:xx":"Lizard Head Creek"}}
+{
+  "id": 7023285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023285",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023285,
+    "tgn:name":"Lizard Head Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9,37.8],"type":"Point"}
+}

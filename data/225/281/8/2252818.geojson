@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.816700,30.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2252818","tgn:1000001","tgn:7012149","tgn:1002952","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2252818,"name:xx":"Connors Creek"}}
+{
+  "id": 2252818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252818",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002952",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252818,
+    "tgn:name":"Connors Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.8167,30.35],"type":"Point"}
+}

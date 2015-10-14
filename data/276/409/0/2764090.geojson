@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.583300,42.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2764090","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2764090,"name:xx":"Wheeler Hill"}}
+{
+  "id": 2764090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764090",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764090,
+    "tgn:name":"Wheeler Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.5833,42.35],"type":"Point"}
+}

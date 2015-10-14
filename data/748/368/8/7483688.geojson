@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.925556,24.980000]},"type":"Feature","properties":{"hierarchy":["tgn:7483688","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006958"],"id":7483688,"name:xx":"Huzi Bei"}}
+{
+  "id": 7483688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483688",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483688,
+    "tgn:name":"Huzi Bei",
+    "tgn:placetype":[
+        "aat:300006958"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.925556,24.98],"type":"Point"}
+}

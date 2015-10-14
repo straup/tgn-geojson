@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.466700,35.316700]},"type":"Feature","properties":{"hierarchy":["tgn:7022486","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022486,"name:xx":"Yellow Cow Tank"}}
+{
+  "id": 7022486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022486",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022486,
+    "tgn:name":"Yellow Cow Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4667,35.3167],"type":"Point"}
+}

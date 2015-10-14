@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.850000,35.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2154504","tgn:1000001","tgn:7012149","tgn:2001552","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2154504,"name:xx":"Bear Creek Lake W/S Lake Number Six"}}
+{
+  "id": 2154504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154504",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001552",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154504,
+    "tgn:name":"Bear Creek Lake W/S Lake Number Six",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.85,35.3833],"type":"Point"}
+}

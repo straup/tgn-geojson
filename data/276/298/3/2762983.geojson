@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.433300,43.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2762983","tgn:7019618","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008347"],"id":2762983,"name:xx":"Westmoreland Depot"}}
+{
+  "id": 2762983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762983",
+        "tgn:7019618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762983,
+    "tgn:name":"Westmoreland Depot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.4333,43.0],"type":"Point"}
+}

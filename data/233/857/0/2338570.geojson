@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.733300,32.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2338570","tgn:1000001","tgn:7012149","tgn:2000402","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2338570,"name:xx":"Frances Fountain Lake"}}
+{
+  "id": 2338570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338570",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000402",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338570,
+    "tgn:name":"Frances Fountain Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7333,32.55],"type":"Point"}
+}

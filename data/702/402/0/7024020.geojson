@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.583300,36.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7024020","tgn:7001242","tgn:1002098","tgn:1000205","tgn:7029392"],"placetype":["aat:300008347"],"id":7024020,"name:xx":"Bir Bou Rekba"}}
+{
+  "id": 7024020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024020",
+        "tgn:7001242",
+        "tgn:1002098",
+        "tgn:1000205",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024020,
+    "tgn:name":"Bir Bou Rekba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.5833,36.4333],"type":"Point"}
+}

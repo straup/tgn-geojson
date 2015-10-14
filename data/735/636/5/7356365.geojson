@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.533333,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7356365","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7356365,"name:xx":"Carmen, Ca\u00f1\u00f3n del"}}
+{
+  "id": 7356365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356365",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356365,
+    "tgn:name":"Carmen, Ca\u00f1\u00f3n del",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.533333,25.966667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.573766,22.520022]},"type":"Feature","properties":{"hierarchy":["tgn:7489234","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7489234,"name:xx":"Lundong Shequ"}}
+{
+  "id": 7489234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489234",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489234,
+    "tgn:name":"Lundong Shequ",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.573766,22.520022],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.312222,24.393611]},"type":"Feature","properties":{"hierarchy":["tgn:7488793","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7488793,"name:xx":"Gugang Hu"}}
+{
+  "id": 7488793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488793",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488793,
+    "tgn:name":"Gugang Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.312222,24.393611],"type":"Point"}
+}

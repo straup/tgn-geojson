@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.066667,21.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7361314","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361314,"name:xx":"El Copetillo"}}
+{
+  "id": 7361314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361314",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361314,
+    "tgn:name":"El Copetillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.066667,21.9],"type":"Point"}
+}

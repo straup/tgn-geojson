@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.616667,22.423611]},"type":"Feature","properties":{"hierarchy":["tgn:7489871","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489871,"name:xx":"Dachen'ercun"}}
+{
+  "id": 7489871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489871",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489871,
+    "tgn:name":"Dachen'ercun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.616667,22.423611],"type":"Point"}
+}

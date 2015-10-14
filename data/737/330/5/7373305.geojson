@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.800000,24.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7373305","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373305,"name:xx":"La Garita"}}
+{
+  "id": 7373305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373305",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373305,
+    "tgn:name":"La Garita",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8,24.333333],"type":"Point"}
+}

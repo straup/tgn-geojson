@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.716700,53.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7027877","tgn:7002445","tgn:1000003","tgn:7019054","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027877,"name:xx":"Garthorpe"}}
+{
+  "id": 7027877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027877",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019054",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027877,
+    "tgn:name":"Garthorpe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.7167,53.6667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.133300,42.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2407437","tgn:1000001","tgn:2001704","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2407437,"name:xx":"Huntley Spring"}}
+{
+  "id": 2407437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407437",
+        "tgn:1000001",
+        "tgn:2001704",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407437,
+    "tgn:name":"Huntley Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1333,42.35],"type":"Point"}
+}

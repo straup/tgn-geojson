@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.350000,31.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7021229","tgn:7002659","tgn:1000001","tgn:2000019","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7021229,"name:xx":"Feagins Creek"}}
+{
+  "id": 7021229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021229",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000019",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021229,
+    "tgn:name":"Feagins Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.35,31.4333],"type":"Point"}
+}

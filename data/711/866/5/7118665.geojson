@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.633333,52.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7118665","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7118665,"name:xx":"Pietzstall"}}
+{
+  "id": 7118665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118665",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118665,
+    "tgn:name":"Pietzstall",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.633333,52.616667],"type":"Point"}
+}

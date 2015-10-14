@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.166667,23.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7355791","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7355791,"name:xx":"Chico, R\u00edo"}}
+{
+  "id": 7355791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355791",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355791,
+    "tgn:name":"Chico, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.166667,23.083333],"type":"Point"}
+}

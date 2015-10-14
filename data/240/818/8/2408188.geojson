@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.300000,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2408188","tgn:1000001","tgn:2000952","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2408188,"name:xx":"Hursley Creek"}}
+{
+  "id": 2408188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408188",
+        "tgn:1000001",
+        "tgn:2000952",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408188,
+    "tgn:name":"Hursley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3,46.4],"type":"Point"}
+}

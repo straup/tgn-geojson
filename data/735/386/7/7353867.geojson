@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.783333,27.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7353867","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7353867,"name:xx":"Babano, R\u00edo"}}
+{
+  "id": 7353867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353867",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353867,
+    "tgn:name":"Babano, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.783333,27.9],"type":"Point"}
+}

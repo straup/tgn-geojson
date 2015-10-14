@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.643889,24.349444]},"type":"Feature","properties":{"hierarchy":["tgn:7483869","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7483869,"name:xx":"Dajia Nonggong"}}
+{
+  "id": 7483869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483869",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483869,
+    "tgn:name":"Dajia Nonggong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.643889,24.349444],"type":"Point"}
+}

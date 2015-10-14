@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.900000,26.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7367205","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367205,"name:xx":"Rancho El Portugal"}}
+{
+  "id": 7367205,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367205",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367205,
+    "tgn:name":"Rancho El Portugal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9,26.0],"type":"Point"}
+}

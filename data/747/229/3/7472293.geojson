@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.483259,23.831044]},"type":"Feature","properties":{"hierarchy":["tgn:7472293","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7472293,"name:xx":"Waichaoyang"}}
+{
+  "id": 7472293,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472293",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472293,
+    "tgn:name":"Waichaoyang",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.483259,23.831044],"type":"Point"}
+}

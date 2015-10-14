@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.337310,24.935218]},"type":"Feature","properties":{"hierarchy":["tgn:7470939","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470939,"name:xx":"Erjiajiu"}}
+{
+  "id": 7470939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470939",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470939,
+    "tgn:name":"Erjiajiu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.33731,24.935218],"type":"Point"}
+}

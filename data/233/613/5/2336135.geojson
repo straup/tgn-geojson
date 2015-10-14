@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.550000,25.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2336135","tgn:1000001","tgn:1002289","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2336135,"name:xx":"Foster Key"}}
+{
+  "id": 2336135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336135",
+        "tgn:1000001",
+        "tgn:1002289",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336135,
+    "tgn:name":"Foster Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.55,25.8833],"type":"Point"}
+}

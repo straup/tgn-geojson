@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.816667,22.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7356032","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008713"],"id":7356032,"name:xx":"Chijol, Canal del"}}
+{
+  "id": 7356032,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356032",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356032,
+    "tgn:name":"Chijol, Canal del",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.816667,22.25],"type":"Point"}
+}

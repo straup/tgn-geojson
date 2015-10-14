@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.983300,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2403187","tgn:1000001","tgn:7012149","tgn:2002177","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2403187,"name:xx":"House Lake"}}
+{
+  "id": 2403187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403187",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002177",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403187,
+    "tgn:name":"House Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9833,38.2833],"type":"Point"}
+}

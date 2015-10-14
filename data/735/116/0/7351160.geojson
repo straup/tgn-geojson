@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7351160","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7351160,"name:xx":"Arena, Lomas de"}}
+{
+  "id": 7351160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351160",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351160,
+    "tgn:name":"Arena, Lomas de",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,27.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.553221,23.779281]},"type":"Feature","properties":{"hierarchy":["tgn:7478179","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7478179,"name:xx":"Huzinei Ti"}}
+{
+  "id": 7478179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478179",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478179,
+    "tgn:name":"Huzinei Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.553221,23.779281],"type":"Point"}
+}

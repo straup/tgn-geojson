@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.183300,31.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2154653","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000100","tgn:7029392"],"placetype":["aat:300006191"],"id":2154653,"name:xx":"Bear Grass Tank"}}
+{
+  "id": 2154653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154653",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000100",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154653,
+    "tgn:name":"Bear Grass Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.1833,31.55],"type":"Point"}
+}

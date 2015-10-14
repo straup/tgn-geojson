@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-166.300000,53.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2157763","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2157763,"name:xx":"Beaver Inlet"}}
+{
+  "id": 2157763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157763",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157763,
+    "tgn:name":"Beaver Inlet",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-166.3,53.8167],"type":"Point"}
+}

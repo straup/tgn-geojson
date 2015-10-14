@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[148.516700,-17.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7024222","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008808"],"id":7024222,"name:xx":"Horseshoe Reef"}}
+{
+  "id": 7024222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024222",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024222,
+    "tgn:name":"Horseshoe Reef",
+    "tgn:placetype":[
+        "aat:300008808"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[148.5167,-17.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.883333,22.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7377537","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377537,"name:xx":"La Pedrera"}}
+{
+  "id": 7377537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377537",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377537,
+    "tgn:name":"La Pedrera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.883333,22.383333],"type":"Point"}
+}

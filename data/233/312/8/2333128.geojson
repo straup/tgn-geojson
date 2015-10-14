@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.350000,45.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2333128","tgn:1000001","tgn:7012149","tgn:1003044","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2333128,"name:xx":"Flying M Reservoir"}}
+{
+  "id": 2333128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333128",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003044",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333128,
+    "tgn:name":"Flying M Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.35,45.35],"type":"Point"}
+}

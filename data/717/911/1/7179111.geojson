@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.383333,49.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7179111","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7179111,"name:xx":"Hammer-Bach"}}
+{
+  "id": 7179111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179111",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179111,
+    "tgn:name":"Hammer-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.383333,49.516667],"type":"Point"}
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7006750,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f22cc4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745392",
+        "gp:id":734320,
+        "qs:id":3,
+        "wof:id":101839445
+    },
+    "tgn:hierarchy":[
+        "tgn:7006750",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009679",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006750,
+    "tgn:name:en":"Flushing",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.583333,51.45],"type":"Point"}
+}

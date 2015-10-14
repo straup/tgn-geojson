@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.233300,56.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2156876","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300008791"],"id":2156876,"name:xx":"Beauchamp Island"}}
+{
+  "id": 2156876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156876",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156876,
+    "tgn:name":"Beauchamp Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.2333,56.7167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.302222,23.382222]},"type":"Feature","properties":{"hierarchy":["tgn:7480036","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7480036,"name:xx":"Guizigang Fenxian"}}
+{
+  "id": 7480036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480036",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480036,
+    "tgn:name":"Guizigang Fenxian",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.302222,23.382222],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.266700,25.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2330188","tgn:1000001","tgn:7012149","tgn:1002314","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2330188,"name:xx":"Flamingo, Lake"}}
+{
+  "id": 2330188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330188",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002314",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330188,
+    "tgn:name":"Flamingo, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2667,25.8333],"type":"Point"}
+}

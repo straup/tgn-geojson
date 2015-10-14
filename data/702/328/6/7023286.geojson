@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.400000,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023286","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7023286,"name:xx":"Sauls Run"}}
+{
+  "id": 7023286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023286",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023286,
+    "tgn:name":"Sauls Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4,38.9833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.534722,22.496667]},"type":"Feature","properties":{"hierarchy":["tgn:7483920","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7483920,"name:xx":"Nanzhou Tangchang Xuzhichang"}}
+{
+  "id": 7483920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483920",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483920,
+    "tgn:name":"Nanzhou Tangchang Xuzhichang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.534722,22.496667],"type":"Point"}
+}

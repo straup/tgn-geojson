@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.016700,37.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7023708","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7023708,"name:xx":"Prater Branch"}}
+{
+  "id": 7023708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023708,
+    "tgn:name":"Prater Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0167,37.7333],"type":"Point"}
+}

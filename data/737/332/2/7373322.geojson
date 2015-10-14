@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.650000,29.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7373322","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7373322,"name:xx":"Rancho La Galera"}}
+{
+  "id": 7373322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373322",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373322,
+    "tgn:name":"Rancho La Galera",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.65,29.75],"type":"Point"}
+}

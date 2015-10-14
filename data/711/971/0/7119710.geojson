@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.350000,54.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7119710","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7119710,"name:xx":"Presenske"}}
+{
+  "id": 7119710,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119710",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119710,
+    "tgn:name":"Presenske",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.35,54.633333],"type":"Point"}
+}

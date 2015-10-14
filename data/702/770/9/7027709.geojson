@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.483300,52.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7027709","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027709,"name:xx":"Willesley"}}
+{
+  "id": 7027709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027709",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027709,
+    "tgn:name":"Willesley",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.4833,52.7333],"type":"Point"}
+}

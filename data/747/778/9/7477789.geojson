@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.229637,25.031837]},"type":"Feature","properties":{"hierarchy":["tgn:7477789","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477789,"name:xx":"Rongshukeng Pi"}}
+{
+  "id": 7477789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477789",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477789,
+    "tgn:name":"Rongshukeng Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.229637,25.031837],"type":"Point"}
+}

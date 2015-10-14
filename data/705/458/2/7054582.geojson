@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.838611,45.637500]},"type":"Feature","properties":{"hierarchy":["tgn:7054582","tgn:1003505","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054582,"name:xx":"L\u00f3ngera"}}
+{
+  "id": 7054582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054582",
+        "tgn:1003505",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054582,
+    "tgn:name":"L\u00f3ngera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.838611,45.6375],"type":"Point"}
+}

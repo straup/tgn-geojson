@@ -1,0 +1,27 @@
+{
+  "id": 7006966,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f15a1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750947",
+        "gp:id":731637,
+        "qs:id":3,
+        "wof:id":101807279
+    },
+    "tgn:hierarchy":[
+        "tgn:7006966",
+        "tgn:7003614",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006966,
+    "tgn:name:nl":"Meppel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.2,52.7],"type":"Point"}
+}

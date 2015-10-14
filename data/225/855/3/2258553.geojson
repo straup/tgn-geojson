@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.850000,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2258553","tgn:1000001","tgn:7012149","tgn:2000548","tgn:7007252","tgn:7029392"],"placetype":["aat:300006191"],"id":2258553,"name:xx":"Cottons Little Pine Lake"}}
+{
+  "id": 2258553,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258553",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000548",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258553,
+    "tgn:name":"Cottons Little Pine Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.85,39.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.216700,43.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2257341","tgn:1000001","tgn:7012149","tgn:2001716","tgn:7007708","tgn:7029392"],"placetype":["aat:300055621"],"id":2257341,"name:xx":"Cornpatch Prairie"}}
+{
+  "id": 2257341,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257341",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001716",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257341,
+    "tgn:name":"Cornpatch Prairie",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2167,43.7167],"type":"Point"}
+}

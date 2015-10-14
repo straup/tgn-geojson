@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.733300,35.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2402736","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2402736,"name:xx":"Hot Springs"}}
+{
+  "id": 2402736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402736",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402736,
+    "tgn:name":"Hot Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.7333,35.9833],"type":"Point"}
+}

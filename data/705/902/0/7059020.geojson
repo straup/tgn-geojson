@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.250000,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7059020","tgn:7003164","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300132315"],"id":7059020,"name:xx":"Biodola, Golfo della"}}
+{
+  "id": 7059020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059020",
+        "tgn:7003164",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059020,
+    "tgn:name":"Biodola, Golfo della",
+    "tgn:placetype":[
+        "aat:300132315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.25,42.8],"type":"Point"}
+}

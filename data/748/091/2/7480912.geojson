@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.502753,25.085224]},"type":"Feature","properties":{"hierarchy":["tgn:7480912","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480912,"name:xx":"Chongyang Qiao"}}
+{
+  "id": 7480912,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480912",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480912,
+    "tgn:name":"Chongyang Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.502753,25.085224],"type":"Point"}
+}

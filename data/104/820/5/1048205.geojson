@@ -1,0 +1,27 @@
+{
+  "id": 1048205,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f69476-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745195",
+        "gp:id":731989,
+        "qs:id":423091,
+        "wof:id":85798063
+    },
+    "tgn:hierarchy":[
+        "tgn:1048205",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048205,
+    "tgn:name":"Vreeswijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.0833,52.0167],"type":"Point"}
+}

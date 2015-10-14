@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.566667,24.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7473364","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7473364,"name:xx":"Diyidongxi Jun"}}
+{
+  "id": 7473364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473364",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473364,
+    "tgn:name":"Diyidongxi Jun",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.566667,24.083333],"type":"Point"}
+}

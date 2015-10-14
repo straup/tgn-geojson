@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.296389,22.962222]},"type":"Feature","properties":{"hierarchy":["tgn:7473096","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7473096,"name:xx":"Dicheng Qiao"}}
+{
+  "id": 7473096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473096",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473096,
+    "tgn:name":"Dicheng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.296389,22.962222],"type":"Point"}
+}

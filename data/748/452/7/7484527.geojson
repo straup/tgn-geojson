@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.644167,22.431389]},"type":"Feature","properties":{"hierarchy":["tgn:7484527","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484527,"name:xx":"Kabuliwalan Xi"}}
+{
+  "id": 7484527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484527",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484527,
+    "tgn:name":"Kabuliwalan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.644167,22.431389],"type":"Point"}
+}

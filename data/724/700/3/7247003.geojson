@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.433333,49.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7247003","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7247003,"name:xx":"Oremont, Bois d'"}}
+{
+  "id": 7247003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247003",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247003,
+    "tgn:name":"Oremont, Bois d'",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.433333,49.783333],"type":"Point"}
+}

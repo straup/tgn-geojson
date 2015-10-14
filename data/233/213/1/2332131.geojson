@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.933300,33.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2332131","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000036","tgn:7029392"],"placetype":["aat:300266640"],"id":2332131,"name:xx":"Flint Ridge"}}
+{
+  "id": 2332131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332131",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000036",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332131,
+    "tgn:name":"Flint Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.9333,33.45],"type":"Point"}
+}

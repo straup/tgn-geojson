@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.716667,25.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7352021","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7352021,"name:xx":"Arteaga, Sierra de"}}
+{
+  "id": 7352021,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352021",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352021,
+    "tgn:name":"Arteaga, Sierra de",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.716667,25.466667],"type":"Point"}
+}

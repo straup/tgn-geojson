@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.100000,38.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2769760","tgn:1000001","tgn:1003037","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008791"],"id":2769760,"name:xx":"Wight, Isle of"}}
+{
+  "id": 2769760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769760",
+        "tgn:1000001",
+        "tgn:1003037",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769760,
+    "tgn:name":"Wight, Isle of",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.1,38.3833],"type":"Point"}
+}

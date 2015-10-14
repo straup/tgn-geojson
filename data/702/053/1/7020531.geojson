@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.933300,35.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7020531","tgn:1000001","tgn:7012149","tgn:2001554","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7020531,"name:xx":"Wiggins Millpond"}}
+{
+  "id": 7020531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020531",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001554",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020531,
+    "tgn:name":"Wiggins Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9333,35.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.687222,24.695556]},"type":"Feature","properties":{"hierarchy":["tgn:7377728","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377728,"name:xx":"La P\u00edpima"}}
+{
+  "id": 7377728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377728",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377728,
+    "tgn:name":"La P\u00edpima",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.687222,24.695556],"type":"Point"}
+}

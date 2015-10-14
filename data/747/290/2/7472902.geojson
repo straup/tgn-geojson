@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.537890,23.633491]},"type":"Feature","properties":{"hierarchy":["tgn:7472902","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7472902,"name:xx":"Hengjiao Yugang"}}
+{
+  "id": 7472902,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472902",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472902,
+    "tgn:name":"Hengjiao Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.53789,23.633491],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.550000,41.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2408783","tgn:1000001","tgn:7013649","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300132348"],"id":2408783,"name:xx":"Hyde Park Shoals"}}
+{
+  "id": 2408783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408783",
+        "tgn:1000001",
+        "tgn:7013649",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408783,
+    "tgn:name":"Hyde Park Shoals",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.55,41.8],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,38.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2336421","tgn:1000001","tgn:7012149","tgn:7014097","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2336421,"name:xx":"Fountain Valley Reservoir Number 2"}}
+{
+  "id": 2336421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336421",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014097",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336421,
+    "tgn:name":"Fountain Valley Reservoir Number 2",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,38.7333],"type":"Point"}
+}

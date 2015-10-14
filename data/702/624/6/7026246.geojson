@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.700000,51.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7026246","tgn:7002445","tgn:1000003","tgn:7026243","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387092"],"name:en":"Bray","id":7026246}}
+{
+  "id": 7026246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026246",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026243",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026246,
+    "tgn:name:en":"Bray",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387092"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.7,51.5],"type":"Point"}
+}

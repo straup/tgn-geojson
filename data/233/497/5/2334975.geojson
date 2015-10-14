@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.783300,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2334975","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2334975,"name:xx":"Forlorn Hope Spring"}}
+{
+  "id": 2334975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334975",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334975,
+    "tgn:name":"Forlorn Hope Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.7833,35.7833],"type":"Point"}
+}

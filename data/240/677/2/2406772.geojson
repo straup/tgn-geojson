@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.583300,34.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2406772","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2406772,"name:xx":"Hunt Valley"}}
+{
+  "id": 2406772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406772",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406772,
+    "tgn:name":"Hunt Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.5833,34.5333],"type":"Point"}
+}

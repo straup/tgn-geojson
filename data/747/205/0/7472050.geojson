@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.150000,23.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7472050","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386871"],"id":7472050,"name:xx":"Wuqu Yanchang"}}
+{
+  "id": 7472050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472050",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472050,
+    "tgn:name":"Wuqu Yanchang",
+    "tgn:placetype":[
+        "aat:300386871"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.15,23.383333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.800000,46.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7053012","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008835"],"id":7053012,"name:xx":"Hochjoch Ferner"}}
+{
+  "id": 7053012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053012",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053012,
+    "tgn:name":"Hochjoch Ferner",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.8,46.783333],"type":"Point"}
+}

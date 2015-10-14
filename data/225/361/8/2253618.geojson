@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-78.833300,38.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2253618","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2253618,"name:xx":"Cook Lick Hollow"}}
+{
+  "id": 2253618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253618,
+    "tgn:name":"Cook Lick Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8333,38.7167],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.133333,52.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7027297","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027297,"name:ang":"Grantesdene"}}
+{
+  "id": 7027297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027297",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027297,
+    "tgn:name:ang":"Grantesdene",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.133333,52.183333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.535000,45.859167]},"type":"Feature","properties":{"hierarchy":["tgn:7053831","tgn:7002996","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053831,"name:xx":"Portobuffol\u00e8"}}
+{
+  "id": 7053831,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053831",
+        "tgn:7002996",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053831,
+    "tgn:name":"Portobuffol\u00e8",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.535,45.859167],"type":"Point"}
+}

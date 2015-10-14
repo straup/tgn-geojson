@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.366700,31.016700]},"type":"Feature","properties":{"hierarchy":["tgn:7021087","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706","aat:300008699"],"id":7021087,"name:xx":"Reedy Creek"}}
+{
+  "id": 7021087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021087",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021087,
+    "tgn:name":"Reedy Creek",
+    "tgn:placetype":[
+        "aat:300008706",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.3667,31.0167],"type":"Point"}
+}

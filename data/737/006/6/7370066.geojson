@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.366667,19.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7370066","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7370066,"name:xx":"Guarachanillo"}}
+{
+  "id": 7370066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370066",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370066,
+    "tgn:name":"Guarachanillo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.366667,19.816667],"type":"Point"}
+}

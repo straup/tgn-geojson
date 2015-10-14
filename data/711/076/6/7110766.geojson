@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.767500,49.082778]},"type":"Feature","properties":{"hierarchy":["tgn:7110766","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110766,"name:xx":"Rauhenbretzingen"}}
+{
+  "id": 7110766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110766",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110766,
+    "tgn:name":"Rauhenbretzingen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.7675,49.082778],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.333333,19.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7372495","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7372495,"name:xx":"La Junta"}}
+{
+  "id": 7372495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372495",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372495,
+    "tgn:name":"La Junta",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.333333,19.616667],"type":"Point"}
+}

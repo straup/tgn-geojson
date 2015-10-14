@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.783333,42.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7052815","tgn:7003171","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052815,"name:xx":"Monte San Giovanni in Sabina"}}
+{
+  "id": 7052815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052815",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052815,
+    "tgn:name":"Monte San Giovanni in Sabina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.783333,42.333333],"type":"Point"}
+}

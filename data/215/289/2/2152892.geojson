@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.800000,32.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2152892","tgn:1000001","tgn:7012149","tgn:2001130","tgn:7007522","tgn:7029392"],"placetype":["aat:300008680"],"id":2152892,"name:xx":"Beach Bluff Lake"}}
+{
+  "id": 2152892,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152892",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001130",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152892,
+    "tgn:name":"Beach Bluff Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8,32.5833],"type":"Point"}
+}

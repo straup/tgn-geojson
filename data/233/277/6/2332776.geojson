@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,39.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2332776","tgn:1000001","tgn:7012149","tgn:1002409","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":2332776,"name:xx":"Flowers Ridge"}}
+{
+  "id": 2332776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332776",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002409",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332776,
+    "tgn:name":"Flowers Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,39.7667],"type":"Point"}
+}

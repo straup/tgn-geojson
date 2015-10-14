@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.400000,44.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2405852","tgn:1000001","tgn:2001701","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2405852,"name:xx":"Hull-Oakes Log Pond"}}
+{
+  "id": 2405852,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405852",
+        "tgn:1000001",
+        "tgn:2001701",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405852,
+    "tgn:name":"Hull-Oakes Log Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.4,44.35],"type":"Point"}
+}

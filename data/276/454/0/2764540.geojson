@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.666700,43.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2764540","tgn:1000001","tgn:7012149","tgn:2000983","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2764540,"name:xx":"Whipple Lake"}}
+{
+  "id": 2764540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764540",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000983",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764540,
+    "tgn:name":"Whipple Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.6667,43.75],"type":"Point"}
+}

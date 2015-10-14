@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.666667,44.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7052703","tgn:1003428","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052703,"name:xx":"Pavone d'Alessandria"}}
+{
+  "id": 7052703,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052703",
+        "tgn:1003428",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052703,
+    "tgn:name":"Pavone d'Alessandria",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.666667,44.933333],"type":"Point"}
+}

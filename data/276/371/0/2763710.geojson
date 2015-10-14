@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.916700,32.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2763710","tgn:1000001","tgn:7012149","tgn:2000890","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2763710,"name:xx":"Wham"}}
+{
+  "id": 2763710,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763710",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000890",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763710,
+    "tgn:name":"Wham",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9167,32.6167],"type":"Point"}
+}

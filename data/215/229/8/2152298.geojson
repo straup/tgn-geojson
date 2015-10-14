@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.500000,40.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2152298","tgn:1000001","tgn:7012149","tgn:2000232","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2152298,"name:xx":"Bay Gulch"}}
+{
+  "id": 2152298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152298",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000232",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152298,
+    "tgn:name":"Bay Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5,40.3833],"type":"Point"}
+}

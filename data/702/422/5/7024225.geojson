@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[154.383300,-20.966700]},"type":"Feature","properties":{"hierarchy":["tgn:7024225","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008808"],"id":7024225,"name:xx":"Frederick Reefs"}}
+{
+  "id": 7024225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024225",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024225,
+    "tgn:name":"Frederick Reefs",
+    "tgn:placetype":[
+        "aat:300008808"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[154.3833,-20.9667],"type":"Point"}
+}

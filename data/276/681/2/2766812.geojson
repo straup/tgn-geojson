@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.300000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2766812","tgn:1000001","tgn:7012149","tgn:2000214","tgn:7007158","tgn:7029392"],"placetype":["aat:300008680"],"id":2766812,"name:xx":"White Owl Lake"}}
+{
+  "id": 2766812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766812",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000214",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766812,
+    "tgn:name":"White Owl Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.3,39.7333],"type":"Point"}
+}

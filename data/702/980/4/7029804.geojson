@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[47.813000,38.271000]},"type":"Feature","properties":{"hierarchy":["tgn:7029804","tgn:7029803","tgn:1000004","tgn:7000231","tgn:7029392"],"placetype":["aat:300386831"],"id":7029804,"name:xx":"Sabalan, Kohha-ye"}}
+{
+  "id": 7029804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029804",
+        "tgn:7029803",
+        "tgn:1000004",
+        "tgn:7000231",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029804,
+    "tgn:name":"Sabalan, Kohha-ye",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.813,38.271],"type":"Point"}
+}

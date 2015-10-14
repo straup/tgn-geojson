@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.683300,30.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2767719","tgn:1000001","tgn:7012149","tgn:2000885","tgn:7007256","tgn:7029392"],"placetype":["aat:300055621"],"id":2767719,"name:xx":"Whitehall Coteau"}}
+{
+  "id": 2767719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767719",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000885",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767719,
+    "tgn:name":"Whitehall Coteau",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6833,30.2667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.050000,38.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2760708","tgn:1000001","tgn:2000939","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2760708,"name:xx":"West Galloway"}}
+{
+  "id": 2760708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760708",
+        "tgn:1000001",
+        "tgn:2000939",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760708,
+    "tgn:name":"West Galloway",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.05,38.7833],"type":"Point"}
+}

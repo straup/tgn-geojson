@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.833300,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2768860","tgn:1000001","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300008706"],"id":2768860,"name:xx":"Whitney Creek"}}
+{
+  "id": 2768860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768860",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768860,
+    "tgn:name":"Whitney Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.8333,43.4],"type":"Point"}
+}

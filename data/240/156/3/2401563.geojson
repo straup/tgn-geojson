@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.100000,32.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2401563","tgn:1000001","tgn:2001435","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2401563,"name:xx":"Horseshoe Deposit"}}
+{
+  "id": 2401563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401563",
+        "tgn:1000001",
+        "tgn:2001435",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401563,
+    "tgn:name":"Horseshoe Deposit",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1,32.7667],"type":"Point"}
+}

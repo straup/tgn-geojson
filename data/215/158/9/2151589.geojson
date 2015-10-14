@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.016700,40.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2151589","tgn:1000001","tgn:7012149","tgn:1002715","tgn:7007568","tgn:7029392"],"placetype":["aat:300008850"],"id":2151589,"name:xx":"Battery, The"}}
+{
+  "id": 2151589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002715",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151589,
+    "tgn:name":"Battery, The",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0167,40.7],"type":"Point"}
+}

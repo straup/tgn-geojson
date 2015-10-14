@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.322879,23.053597]},"type":"Feature","properties":{"hierarchy":["tgn:7480106","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480106,"name:xx":"Shenkeng Qiao"}}
+{
+  "id": 7480106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480106",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480106,
+    "tgn:name":"Shenkeng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.322879,23.053597],"type":"Point"}
+}

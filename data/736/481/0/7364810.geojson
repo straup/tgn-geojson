@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.366667,26.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7364810","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7364810,"name:xx":"El Puerto"}}
+{
+  "id": 7364810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364810",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364810,
+    "tgn:name":"El Puerto",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.366667,26.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.350000,20.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7361149","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361149,"name:xx":"El Cabadero"}}
+{
+  "id": 7361149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361149",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361149,
+    "tgn:name":"El Cabadero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.35,20.766667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.383300,44.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7022648","tgn:1000001","tgn:7012149","tgn:2001717","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":7022648,"name:xx":"Cul De Sac Creek"}}
+{
+  "id": 7022648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022648",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001717",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022648,
+    "tgn:name":"Cul De Sac Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3833,44.2833],"type":"Point"}
+}

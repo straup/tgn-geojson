@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.666700,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2337525","tgn:1000001","tgn:1002189","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2337525,"name:xx":"Fowlers Fork"}}
+{
+  "id": 2337525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337525",
+        "tgn:1000001",
+        "tgn:1002189",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337525,
+    "tgn:name":"Fowlers Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6667,38.9167],"type":"Point"}
+}

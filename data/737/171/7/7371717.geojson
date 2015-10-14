@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.500000,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7371717","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7371717,"name:xx":"La Encantada, Sierra de"}}
+{
+  "id": 7371717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371717",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371717,
+    "tgn:name":"La Encantada, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.5,28.5],"type":"Point"}
+}

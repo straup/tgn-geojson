@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.266700,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2769367","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2769367,"name:xx":"Wickiup Spring"}}
+{
+  "id": 2769367,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769367",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769367,
+    "tgn:name":"Wickiup Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2667,42.6],"type":"Point"}
+}

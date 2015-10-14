@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.801241,25.146391]},"type":"Feature","properties":{"hierarchy":["tgn:7477850","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7477850,"name:xx":"Qidou Shan"}}
+{
+  "id": 7477850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477850",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477850,
+    "tgn:name":"Qidou Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.801241,25.146391],"type":"Point"}
+}

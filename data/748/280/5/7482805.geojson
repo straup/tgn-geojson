@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.615833,23.573333]},"type":"Feature","properties":{"hierarchy":["tgn:7482805","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7482805,"name:xx":"Ma'an Shan"}}
+{
+  "id": 7482805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482805",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482805,
+    "tgn:name":"Ma'an Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.615833,23.573333],"type":"Point"}
+}

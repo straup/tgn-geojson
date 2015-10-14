@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-163.716700,67.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2709771","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124014","tgn:7029392"],"placetype":["aat:300008798"],"id":2709771,"name:xx":"Tahinichok Mountains"}}
+{
+  "id": 2709771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2709771",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124014",
+        "tgn:7029392"
+    ],
+    "tgn:id":2709771,
+    "tgn:name":"Tahinichok Mountains",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-163.7167,67.6],"type":"Point"}
+}

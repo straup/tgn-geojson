@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.716667,53.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7179632","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300132316"],"id":7179632,"name:xx":"Hahnenpohl"}}
+{
+  "id": 7179632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179632",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179632,
+    "tgn:name":"Hahnenpohl",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.716667,53.316667],"type":"Point"}
+}

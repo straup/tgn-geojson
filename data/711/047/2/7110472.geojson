@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.266667,47.829722]},"type":"Feature","properties":{"hierarchy":["tgn:7110472","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7110472,"name:xx":"Haltepunkt Reicholzried"}}
+{
+  "id": 7110472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110472",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110472,
+    "tgn:name":"Haltepunkt Reicholzried",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.266667,47.829722],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.226389,24.806389]},"type":"Feature","properties":{"hierarchy":["tgn:7481938","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481938,"name:xx":"Cukeng Shan"}}
+{
+  "id": 7481938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481938",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481938,
+    "tgn:name":"Cukeng Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.226389,24.806389],"type":"Point"}
+}

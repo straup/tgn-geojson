@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-95.350000,33.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7021290","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021290,"name:xx":"Sulphur River"}}
+{
+  "id": 7021290,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021290",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021290,
+    "tgn:name":"Sulphur River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.35,33.3833],"type":"Point"}
+}

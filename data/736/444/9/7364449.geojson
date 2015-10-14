@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.750000,27.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7364449","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364449,"name:xx":"El Santo Cristo"}}
+{
+  "id": 7364449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364449",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364449,
+    "tgn:name":"El Santo Cristo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.75,27.4],"type":"Point"}
+}

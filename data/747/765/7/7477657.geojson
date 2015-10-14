@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.973900,24.999300]},"type":"Feature","properties":{"hierarchy":["tgn:7477657","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477657,"name:xx":"Longlin Shan"}}
+{
+  "id": 7477657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477657",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477657,
+    "tgn:name":"Longlin Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.9739,24.9993],"type":"Point"}
+}

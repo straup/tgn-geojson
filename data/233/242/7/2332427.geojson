@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.400000,32.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2332427","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000101","tgn:7029392"],"placetype":["aat:300006075"],"id":2332427,"name:xx":"Florence Canal"}}
+{
+  "id": 2332427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332427",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000101",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332427,
+    "tgn:name":"Florence Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4,32.9833],"type":"Point"}
+}

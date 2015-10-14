@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.900000,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2400865","tgn:1000001","tgn:2001481","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2400865,"name:xx":"Horse Ridge"}}
+{
+  "id": 2400865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400865",
+        "tgn:1000001",
+        "tgn:2001481",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400865,
+    "tgn:name":"Horse Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9,35.1333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.600000,22.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7366074","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366074,"name:xx":"Gallinas"}}
+{
+  "id": 7366074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366074",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366074,
+    "tgn:name":"Gallinas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6,22.033333],"type":"Point"}
+}

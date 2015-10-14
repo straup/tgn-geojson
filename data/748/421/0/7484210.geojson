@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.740000,24.348889]},"type":"Feature","properties":{"hierarchy":["tgn:7484210","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7484210,"name:xx":"Liyutan Tifang"}}
+{
+  "id": 7484210,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484210",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484210,
+    "tgn:name":"Liyutan Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.74,24.348889],"type":"Point"}
+}

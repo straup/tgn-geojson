@@ -1,0 +1,29 @@
+{
+  "id": 1000172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000172",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000172,
+    "tgn:name":"Libya",
+    "tgn:name:ar":"\u0627\u0644\u062c\u0627\u0647\u064a\u0631\u064b\u0629 \u0627 \u0639\u064b\u0631\u0628 \u0629\u064e \u0627 \u0628\u064c\u064e\u064e \u0629\u0650",
+    "tgn:name:en":"L\u012bbiy\u0101",
+    "tgn:name:es":"Jamahiriya \u00c1rabe Libia",
+    "tgn:name:fr":"Jamahiriya arabe libyenne",
+    "tgn:name:ru":"\u041b\u0438\u0432\u0438\u0439\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0414\u0436\u0430\u043c\u0430\u0445\u0438\u0440\u0438\u044f",
+    "tgn:name:zh":"\u963f\u62c9\u4f2f\u5229\u6bd4\u4e9a\u6c11\u4f17\u56fd",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.0,25.0],"type":"Point"}
+}

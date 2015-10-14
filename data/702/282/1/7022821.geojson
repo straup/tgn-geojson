@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.666700,36.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7022821","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":7022821,"name:xx":"Dobbs Hollow"}}
+{
+  "id": 7022821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022821",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022821,
+    "tgn:name":"Dobbs Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6667,36.6833],"type":"Point"}
+}

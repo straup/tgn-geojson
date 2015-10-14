@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.816700,35.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2334833","tgn:1000001","tgn:7012149","tgn:2001526","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2334833,"name:xx":"Fork Run"}}
+{
+  "id": 2334833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334833",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001526",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334833,
+    "tgn:name":"Fork Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.8167,35.0333],"type":"Point"}
+}

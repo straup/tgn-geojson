@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.209621,23.365800]},"type":"Feature","properties":{"hierarchy":["tgn:7470718","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470718,"name:xx":"Houjing"}}
+{
+  "id": 7470718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470718",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470718,
+    "tgn:name":"Houjing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.209621,23.3658],"type":"Point"}
+}

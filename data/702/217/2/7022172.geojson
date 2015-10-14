@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.433300,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7022172","tgn:2000942","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300007466"],"id":7022172,"name:xx":"Oscoda Indian Mission"}}
+{
+  "id": 7022172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022172",
+        "tgn:2000942",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022172,
+    "tgn:name":"Oscoda Indian Mission",
+    "tgn:placetype":[
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.4333,44.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.966667,41.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7053527","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300000206"],"id":7053527,"name:xx":"Pantanella"}}
+{
+  "id": 7053527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053527",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053527,
+    "tgn:name":"Pantanella",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.966667,41.133333],"type":"Point"}
+}

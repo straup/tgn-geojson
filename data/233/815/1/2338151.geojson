@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.216700,48.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2338151","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2338151,"name:xx":"Fox Peak"}}
+{
+  "id": 2338151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338151",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338151,
+    "tgn:name":"Fox Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.2167,48.0833],"type":"Point"}
+}

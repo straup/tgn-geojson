@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.300000,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2400461","tgn:1000001","tgn:7012149","tgn:2002299","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2400461,"name:xx":"Horse Hollow"}}
+{
+  "id": 2400461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400461",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002299",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400461,
+    "tgn:name":"Horse Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3,38.15],"type":"Point"}
+}

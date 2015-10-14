@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.600000,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2703382","tgn:1000001","tgn:7012149","tgn:1002943","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2703382,"name:xx":"Summit Creek"}}
+{
+  "id": 2703382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2703382",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002943",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2703382,
+    "tgn:name":"Summit Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.6,45.3333],"type":"Point"}
+}

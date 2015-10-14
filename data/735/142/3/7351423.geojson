@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.850000,20.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7351423","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351423,"name:xx":"Cacoma, Sierra"}}
+{
+  "id": 7351423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351423",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351423,
+    "tgn:name":"Cacoma, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.85,20.283333],"type":"Point"}
+}

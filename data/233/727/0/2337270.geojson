@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.400000,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2337270","tgn:1000001","tgn:7012149","tgn:2000928","tgn:7007515","tgn:7029392"],"placetype":["aat:300008905"],"id":2337270,"name:xx":"Fourth Pond Bog"}}
+{
+  "id": 2337270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337270",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000928",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337270,
+    "tgn:name":"Fourth Pond Bog",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.4,45.25],"type":"Point"}
+}

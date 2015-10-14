@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.883300,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2408922","tgn:1000001","tgn:7012149","tgn:1002871","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2408922,"name:xx":"Hyspot"}}
+{
+  "id": 2408922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408922",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002871",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408922,
+    "tgn:name":"Hyspot",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.8833,43.0833],"type":"Point"}
+}

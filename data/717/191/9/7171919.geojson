@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.316667,48.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7171919","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7171919,"name:xx":"Helsenwald"}}
+{
+  "id": 7171919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171919",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171919,
+    "tgn:name":"Helsenwald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.316667,48.183333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.661667,24.418333]},"type":"Feature","properties":{"hierarchy":["tgn:7473711","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473711,"name:xx":"Tianxin Li"}}
+{
+  "id": 7473711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473711",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473711,
+    "tgn:name":"Tianxin Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.661667,24.418333],"type":"Point"}
+}

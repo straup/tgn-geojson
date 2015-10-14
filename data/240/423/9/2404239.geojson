@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-153.600000,63.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2404239","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008680"],"id":2404239,"name:xx":"Hoyle, Lake"}}
+{
+  "id": 2404239,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404239",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404239,
+    "tgn:name":"Hoyle, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-153.6,63.15],"type":"Point"}
+}

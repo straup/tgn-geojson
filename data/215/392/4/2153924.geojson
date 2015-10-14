@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.516700,46.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2153924","tgn:1000001","tgn:2002245","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300266640"],"id":2153924,"name:xx":"Bear Cave Ridge"}}
+{
+  "id": 2153924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153924",
+        "tgn:1000001",
+        "tgn:2002245",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153924,
+    "tgn:name":"Bear Cave Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.5167,46.1833],"type":"Point"}
+}

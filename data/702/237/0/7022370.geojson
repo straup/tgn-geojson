@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,44.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7022370","tgn:1000001","tgn:7012149","tgn:2002381","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":7022370,"name:xx":"Big Goose and Beaver Ditch"}}
+{
+  "id": 7022370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022370",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002381",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022370,
+    "tgn:name":"Big Goose and Beaver Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,44.5833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.898889,22.348333]},"type":"Feature","properties":{"hierarchy":["tgn:7484919","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7484919,"name:xx":"Dawu Xiang Diyi Gongmu"}}
+{
+  "id": 7484919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484919",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484919,
+    "tgn:name":"Dawu Xiang Diyi Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.898889,22.348333],"type":"Point"}
+}

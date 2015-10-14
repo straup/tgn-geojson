@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.512500,23.858611]},"type":"Feature","properties":{"hierarchy":["tgn:7480808","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480808,"name:xx":"Sannongchang"}}
+{
+  "id": 7480808,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480808",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480808,
+    "tgn:name":"Sannongchang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5125,23.858611],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.500000,46.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2403309","tgn:1000001","tgn:7012149","tgn:1002594","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2403309,"name:xx":"Houser Creek"}}
+{
+  "id": 2403309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403309",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002594",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403309,
+    "tgn:name":"Houser Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5,46.7333],"type":"Point"}
+}

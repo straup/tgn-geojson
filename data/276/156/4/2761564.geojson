@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.383300,43.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2761564","tgn:1000001","tgn:7012149","tgn:2000471","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2761564,"name:xx":"West Parks Creek"}}
+{
+  "id": 2761564,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761564",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000471",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761564,
+    "tgn:name":"West Parks Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3833,43.5833],"type":"Point"}
+}

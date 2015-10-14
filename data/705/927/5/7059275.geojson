@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.183333,52.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7059275","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7059275,"name:xx":"Alter Linden-Berg"}}
+{
+  "id": 7059275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059275",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059275,
+    "tgn:name":"Alter Linden-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.183333,52.35],"type":"Point"}
+}

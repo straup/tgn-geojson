@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.100000,20.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7351018","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300386885"],"id":7351018,"name:xx":"Boca de Lima, Barra"}}
+{
+  "id": 7351018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351018",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351018,
+    "tgn:name":"Boca de Lima, Barra",
+    "tgn:placetype":[
+        "aat:300386885"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.1,20.583333],"type":"Point"}
+}

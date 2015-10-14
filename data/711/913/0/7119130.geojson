@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.883333,49.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7119130","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7119130,"name:xx":"Pichlberg"}}
+{
+  "id": 7119130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119130",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119130,
+    "tgn:name":"Pichlberg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.883333,49.783333],"type":"Point"}
+}

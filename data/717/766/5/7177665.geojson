@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.983333,51.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7177665","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177665,"name:xx":"Hagemann"}}
+{
+  "id": 7177665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177665",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177665,
+    "tgn:name":"Hagemann",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.983333,51.933333],"type":"Point"}
+}

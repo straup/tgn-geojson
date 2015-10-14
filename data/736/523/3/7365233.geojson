@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.883333,24.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7365233","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365233,"name:xx":"El Rancho Nuevo"}}
+{
+  "id": 7365233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365233",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365233,
+    "tgn:name":"El Rancho Nuevo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.883333,24.066667],"type":"Point"}
+}

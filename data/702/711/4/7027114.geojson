@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.633300,52.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7027114","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027114,"name:xx":"Pudleston"}}
+{
+  "id": 7027114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027114",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027114,
+    "tgn:name":"Pudleston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.6333,52.2333],"type":"Point"}
+}

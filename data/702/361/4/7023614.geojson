@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.083300,40.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7023614","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":7023614,"name:xx":"Oquirrh Hills Subdivision"}}
+{
+  "id": 7023614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023614",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023614,
+    "tgn:name":"Oquirrh Hills Subdivision",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0833,40.7],"type":"Point"}
+}

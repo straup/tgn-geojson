@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.033333,19.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7362078","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362078,"name:xx":"El Palmar de los Pelayo"}}
+{
+  "id": 7362078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362078",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362078,
+    "tgn:name":"El Palmar de los Pelayo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.033333,19.883333],"type":"Point"}
+}

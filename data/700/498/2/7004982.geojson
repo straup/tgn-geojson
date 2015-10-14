@@ -1,0 +1,30 @@
+{
+  "id": 7004982,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004982",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004982,
+    "tgn:name:de":"Dortmund",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387239",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387305",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387285",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.45,51.516667],"type":"Point"}
+}

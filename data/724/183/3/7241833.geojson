@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.519232,50.774886]},"type":"Feature","properties":{"hierarchy":["tgn:7241833","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241833,"name:xx":"Klein-Mal"}}
+{
+  "id": 7241833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241833",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241833,
+    "tgn:name":"Klein-Mal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.519232,50.774886],"type":"Point"}
+}

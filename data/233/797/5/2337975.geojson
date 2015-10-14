@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.816700,40.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2337975","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2337975,"name:xx":"Fox Hollow"}}
+{
+  "id": 2337975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337975",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337975,
+    "tgn:name":"Fox Hollow",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8167,40.5667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.450000,41.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2338518","tgn:1000001","tgn:7012149","tgn:1002682","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2338518,"name:xx":"Frame Cabin Run"}}
+{
+  "id": 2338518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338518",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002682",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338518,
+    "tgn:name":"Frame Cabin Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.45,41.2],"type":"Point"}
+}

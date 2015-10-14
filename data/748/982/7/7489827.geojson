@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.787760,24.389200]},"type":"Feature","properties":{"hierarchy":["tgn:7489827","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489827,"name:xx":"Shenshui"}}
+{
+  "id": 7489827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489827",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489827,
+    "tgn:name":"Shenshui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.78776,24.3892],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.933333,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7242838","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300005567"],"id":7242838,"name:xx":"Ch\u00e2teau de la Louveterie"}}
+{
+  "id": 7242838,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242838",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242838,
+    "tgn:name":"Ch\u00e2teau de la Louveterie",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.933333,50.583333],"type":"Point"}
+}

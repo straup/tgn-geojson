@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.166700,42.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2253442","tgn:1000001","tgn:7012149","tgn:1002423","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2253442,"name:xx":"Cook Brook"}}
+{
+  "id": 2253442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253442",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002423",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253442,
+    "tgn:name":"Cook Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1667,42.15],"type":"Point"}
+}

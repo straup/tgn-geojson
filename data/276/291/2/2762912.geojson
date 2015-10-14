@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.300000,45.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2762912","tgn:1000001","tgn:7012149","tgn:1002994","tgn:7007708","tgn:7029392"],"placetype":["aat:300008347"],"id":2762912,"name:xx":"Westimber"}}
+{
+  "id": 2762912,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762912",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002994",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762912,
+    "tgn:name":"Westimber",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.3,45.7],"type":"Point"}
+}

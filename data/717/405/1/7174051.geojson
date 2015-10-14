@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.566667,48.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7174051","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7174051,"name:xx":"Gr\u00fcn-Bach"}}
+{
+  "id": 7174051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174051",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174051,
+    "tgn:name":"Gr\u00fcn-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.566667,48.233333],"type":"Point"}
+}

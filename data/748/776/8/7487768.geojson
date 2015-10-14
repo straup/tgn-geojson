@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.542500,24.259444]},"type":"Feature","properties":{"hierarchy":["tgn:7487768","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487768,"name:xx":"Nanjian"}}
+{
+  "id": 7487768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487768",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487768,
+    "tgn:name":"Nanjian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5425,24.259444],"type":"Point"}
+}

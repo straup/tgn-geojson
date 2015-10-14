@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-167.083300,65.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2409720","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000079","tgn:7029392"],"placetype":["aat:300132316"],"id":2409720,"name:xx":"Ikpek Lagoon"}}
+{
+  "id": 2409720,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409720",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000079",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409720,
+    "tgn:name":"Ikpek Lagoon",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-167.0833,65.9],"type":"Point"}
+}

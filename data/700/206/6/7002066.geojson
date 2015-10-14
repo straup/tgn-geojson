@@ -1,0 +1,25 @@
+{
+  "id": 7002066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002066",
+        "tgn:1000004",
+        "tgn:1001290",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002066,
+    "tgn:name":"Harbin",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300008372",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[126.6833,45.75],"type":"Point"}
+}

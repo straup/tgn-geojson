@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.012778,24.132778]},"type":"Feature","properties":{"hierarchy":["tgn:7485002","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7485002,"name:xx":"Linwuju Meiyuan Huguansuo"}}
+{
+  "id": 7485002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485002",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485002,
+    "tgn:name":"Linwuju Meiyuan Huguansuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.012778,24.132778],"type":"Point"}
+}

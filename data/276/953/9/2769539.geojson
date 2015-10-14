@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.683300,44.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2769539","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2769539,"name:xx":"Widner Creek"}}
+{
+  "id": 2769539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769539",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769539,
+    "tgn:name":"Widner Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6833,44.8333],"type":"Point"}
+}

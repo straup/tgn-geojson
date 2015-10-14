@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.793992,50.277938]},"type":"Feature","properties":{"hierarchy":["tgn:7240632","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240632,"name:xx":"Fala\u00ebn"}}
+{
+  "id": 7240632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240632",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240632,
+    "tgn:name":"Fala\u00ebn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.793992,50.277938],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.550000,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2258325","tgn:1000001","tgn:7012149","tgn:2001389","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":2258325,"name:xx":"Cottier Creek"}}
+{
+  "id": 2258325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001389",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258325,
+    "tgn:name":"Cottier Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.55,40.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.033300,34.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2407283","tgn:1000001","tgn:2001477","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2407283,"name:xx":"Hunting Island Creek"}}
+{
+  "id": 2407283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407283",
+        "tgn:1000001",
+        "tgn:2001477",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407283,
+    "tgn:name":"Hunting Island Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0333,34.7],"type":"Point"}
+}

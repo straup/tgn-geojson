@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.450000,44.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2150430","tgn:1000001","tgn:7012149","tgn:2000926","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2150430,"name:xx":"Basin Falls Brook"}}
+{
+  "id": 2150430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150430",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000926",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150430,
+    "tgn:name":"Basin Falls Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.45,44.2833],"type":"Point"}
+}

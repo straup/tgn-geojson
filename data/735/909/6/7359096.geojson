@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.050000,15.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7359096","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300387057"],"id":7359096,"name:xx":"Colotepec, Boca"}}
+{
+  "id": 7359096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359096",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359096,
+    "tgn:name":"Colotepec, Boca",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.05,15.8],"type":"Point"}
+}

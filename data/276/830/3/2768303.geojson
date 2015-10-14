@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-79.883300,39.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2768303","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2768303,"name:xx":"Whites Run"}}
+{
+  "id": 2768303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768303",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768303,
+    "tgn:name":"Whites Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8833,39.6333],"type":"Point"}
+}

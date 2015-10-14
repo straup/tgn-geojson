@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.100000,41.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2708694","tgn:1000001","tgn:7012149","tgn:1002961","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2708694,"name:xx":"Sylva"}}
+{
+  "id": 2708694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708694",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002961",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708694,
+    "tgn:name":"Sylva",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1,41.6167],"type":"Point"}
+}

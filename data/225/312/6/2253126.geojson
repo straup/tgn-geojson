@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2253126","tgn:1000001","tgn:7012149","tgn:2001456","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2253126,"name:xx":"Contact Shaft"}}
+{
+  "id": 2253126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253126",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001456",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253126,
+    "tgn:name":"Contact Shaft",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,34.0833],"type":"Point"}
+}

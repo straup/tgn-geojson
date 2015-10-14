@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.650278,22.310556]},"type":"Feature","properties":{"hierarchy":["tgn:7488486","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488486,"name:xx":"Nanshihu"}}
+{
+  "id": 7488486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488486",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488486,
+    "tgn:name":"Nanshihu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.650278,22.310556],"type":"Point"}
+}

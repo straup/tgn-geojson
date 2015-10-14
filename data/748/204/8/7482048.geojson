@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.510260,22.543888]},"type":"Feature","properties":{"hierarchy":["tgn:7482048","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482048,"name:xx":"Shennong Gong"}}
+{
+  "id": 7482048,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482048",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482048,
+    "tgn:name":"Shennong Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.51026,22.543888],"type":"Point"}
+}

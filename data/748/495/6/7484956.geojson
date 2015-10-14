@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.548611,23.088056]},"type":"Feature","properties":{"hierarchy":["tgn:7484956","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484956,"name:xx":"Zhentoukeng"}}
+{
+  "id": 7484956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484956",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484956,
+    "tgn:name":"Zhentoukeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.548611,23.088056],"type":"Point"}
+}

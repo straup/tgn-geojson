@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.866700,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2255371","tgn:1000001","tgn:7012149","tgn:2002335","tgn:7007922","tgn:7029392"],"placetype":["aat:300008905"],"id":2255371,"name:xx":"Cooperstown Swamp"}}
+{
+  "id": 2255371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255371",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002335",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255371,
+    "tgn:name":"Cooperstown Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8667,44.25],"type":"Point"}
+}

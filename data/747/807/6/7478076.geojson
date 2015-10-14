@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.584500,23.892164]},"type":"Feature","properties":{"hierarchy":["tgn:7478076","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478076,"name:xx":"Zhanghua Qizhi Xuexiao"}}
+{
+  "id": 7478076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478076",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478076,
+    "tgn:name":"Zhanghua Qizhi Xuexiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5845,23.892164],"type":"Point"}
+}

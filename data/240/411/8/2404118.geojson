@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.800000,39.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2404118","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002710","tgn:7029392"],"placetype":["aat:300000390"],"id":2404118,"name:xx":"Howie Mine"}}
+{
+  "id": 2404118,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404118",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404118,
+    "tgn:name":"Howie Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8,39.4167],"type":"Point"}
+}

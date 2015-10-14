@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.964722,32.432778]},"type":"Feature","properties":{"hierarchy":["tgn:7374560","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374560,"name:xx":"Colonia La Catorce"}}
+{
+  "id": 7374560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374560",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374560,
+    "tgn:name":"Colonia La Catorce",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.964722,32.432778],"type":"Point"}
+}

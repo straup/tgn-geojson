@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.450000,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7021164","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021164,"name:xx":"Ruffner Branch"}}
+{
+  "id": 7021164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021164",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021164,
+    "tgn:name":"Ruffner Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.45,38.4833],"type":"Point"}
+}

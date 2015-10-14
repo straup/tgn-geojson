@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.183300,28.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2151432","tgn:1000001","tgn:7012149","tgn:1002881","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2151432,"name:xx":"Bath Lake"}}
+{
+  "id": 2151432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151432",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002881",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151432,
+    "tgn:name":"Bath Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1833,28.6333],"type":"Point"}
+}

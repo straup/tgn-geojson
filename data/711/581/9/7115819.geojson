@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.333333,49.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7115819","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300387200"],"id":7115819,"name:xx":"Oberwintersbach"}}
+{
+  "id": 7115819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115819",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115819,
+    "tgn:name":"Oberwintersbach",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.333333,49.85],"type":"Point"}
+}

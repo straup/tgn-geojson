@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.161097,51.262567]},"type":"Feature","properties":{"hierarchy":["tgn:7248743","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248743,"name:xx":"Bloempot"}}
+{
+  "id": 7248743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248743",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248743,
+    "tgn:name":"Bloempot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.161097,51.262567],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.833300,40.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2339998","tgn:1000001","tgn:7012149","tgn:1002387","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2339998,"name:xx":"Freestone"}}
+{
+  "id": 2339998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339998",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002387",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339998,
+    "tgn:name":"Freestone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8333,40.0],"type":"Point"}
+}

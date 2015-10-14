@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.816700,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2339318","tgn:1000001","tgn:7012149","tgn:2002266","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2339318,"name:xx":"Fravel Run"}}
+{
+  "id": 2339318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339318",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002266",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339318,
+    "tgn:name":"Fravel Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8167,38.9833],"type":"Point"}
+}

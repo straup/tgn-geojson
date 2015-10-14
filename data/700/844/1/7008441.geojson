@@ -1,0 +1,29 @@
+{
+  "id": 7008441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008441",
+        "tgn:1000003",
+        "tgn:7002889",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008441,
+    "tgn:name":"Toulouse",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300235540",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.4333,43.6167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.983300,41.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2761511","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2761511,"name:xx":"West Ogden"}}
+{
+  "id": 2761511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761511",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761511,
+    "tgn:name":"West Ogden",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9833,41.2167],"type":"Point"}
+}

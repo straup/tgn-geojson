@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.966700,41.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2402583","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008761"],"id":2402583,"name:xx":"Hossick Gulch"}}
+{
+  "id": 2402583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402583",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402583,
+    "tgn:name":"Hossick Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.9667,41.7167],"type":"Point"}
+}

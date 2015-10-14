@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.766700,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2337921","tgn:1000001","tgn:1002695","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300386831"],"id":2337921,"name:xx":"Fox Hill Range"}}
+{
+  "id": 2337921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337921",
+        "tgn:1000001",
+        "tgn:1002695",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337921,
+    "tgn:name":"Fox Hill Range",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7667,40.75],"type":"Point"}
+}

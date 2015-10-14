@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.166667,50.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7240499","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7240499,"name:xx":"Ferme de l' Esp\u00e9rance"}}
+{
+  "id": 7240499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240499",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240499,
+    "tgn:name":"Ferme de l' Esp\u00e9rance",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.166667,50.166667],"type":"Point"}
+}

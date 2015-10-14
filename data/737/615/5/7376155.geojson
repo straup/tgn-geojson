@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.333333,20.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7376155","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7376155,"name:xx":"Las Vigas, Sierra"}}
+{
+  "id": 7376155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376155",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376155,
+    "tgn:name":"Las Vigas, Sierra",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.333333,20.3],"type":"Point"}
+}

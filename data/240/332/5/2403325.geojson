@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.050000,29.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2403325","tgn:1000001","tgn:7012149","tgn:2002087","tgn:7007826","tgn:7029392"],"placetype":["aat:300008798"],"id":2403325,"name:xx":"Housetop Mountain"}}
+{
+  "id": 2403325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002087",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403325,
+    "tgn:name":"Housetop Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.05,29.4167],"type":"Point"}
+}

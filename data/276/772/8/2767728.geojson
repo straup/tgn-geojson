@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.466700,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2767728","tgn:1002538","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008850"],"id":2767728,"name:xx":"Whitehall Neck"}}
+{
+  "id": 2767728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767728",
+        "tgn:1002538",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767728,
+    "tgn:name":"Whitehall Neck",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.4667,39.25],"type":"Point"}
+}

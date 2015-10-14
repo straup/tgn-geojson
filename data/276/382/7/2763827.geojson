@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.100000,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2763827","tgn:1000001","tgn:7012149","tgn:1002512","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2763827,"name:xx":"Wheatfield"}}
+{
+  "id": 2763827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763827",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002512",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763827,
+    "tgn:name":"Wheatfield",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.1,40.55],"type":"Point"}
+}

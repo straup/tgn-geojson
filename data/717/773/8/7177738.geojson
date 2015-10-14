@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.416667,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7177738","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177738,"name:xx":"H\u00e4nscheid"}}
+{
+  "id": 7177738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177738",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177738,
+    "tgn:name":"H\u00e4nscheid",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.416667,50.833333],"type":"Point"}
+}

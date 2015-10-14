@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.366700,31.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2403623","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2403623,"name:xx":"Howard Draw"}}
+{
+  "id": 2403623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403623",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403623,
+    "tgn:name":"Howard Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.3667,31.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.600000,36.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2337599","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2337599,"name:xx":"Fox Branch"}}
+{
+  "id": 2337599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337599",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337599,
+    "tgn:name":"Fox Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6,36.6333],"type":"Point"}
+}

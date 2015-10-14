@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.066700,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2330005","tgn:1000001","tgn:7012149","tgn:2002295","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2330005,"name:xx":"Flag Run"}}
+{
+  "id": 2330005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330005",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002295",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330005,
+    "tgn:name":"Flag Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0667,39.2333],"type":"Point"}
+}

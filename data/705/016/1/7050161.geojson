@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.900000,45.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7050161","tgn:1003430","tgn:1000003","tgn:7003126","tgn:1000080","tgn:7029392"],"placetype":["aat:300008798"],"id":7050161,"name:xx":"La Tour Ronde"}}
+{
+  "id": 7050161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050161",
+        "tgn:1003430",
+        "tgn:1000003",
+        "tgn:7003126",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050161,
+    "tgn:name":"La Tour Ronde",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.9,45.85],"type":"Point"}
+}

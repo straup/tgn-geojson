@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.533333,51.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7241297","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7241297,"name:xx":"Lichtervelde"}}
+{
+  "id": 7241297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241297",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241297,
+    "tgn:name":"Lichtervelde",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.533333,51.166667],"type":"Point"}
+}

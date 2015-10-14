@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.133300,39.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7020780","tgn:1000001","tgn:1002539","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":7020780,"name:xx":"Rock Point"}}
+{
+  "id": 7020780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020780",
+        "tgn:1000001",
+        "tgn:1002539",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020780,
+    "tgn:name":"Rock Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1333,39.1333],"type":"Point"}
+}

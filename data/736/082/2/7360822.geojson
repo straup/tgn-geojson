@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.281944,32.283889]},"type":"Feature","properties":{"hierarchy":["tgn:7360822","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360822,"name:xx":"Ejido Cucapa Indigena"}}
+{
+  "id": 7360822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360822",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360822,
+    "tgn:name":"Ejido Cucapa Indigena",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.281944,32.283889],"type":"Point"}
+}

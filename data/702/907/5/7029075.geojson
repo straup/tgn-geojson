@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[35.200000,31.966000]},"type":"Feature","properties":{"hierarchy":["tgn:7029075","tgn:7016849","tgn:1000004","tgn:1000119","tgn:7029392"],"placetype":["aat:300008347","aat:300008375","aat:300387296"],"name:en":"Bir Zeit","id":7029075}}
+{
+  "id": 7029075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029075",
+        "tgn:7016849",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029075,
+    "tgn:name:en":"Bir Zeit",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.2,31.966],"type":"Point"}
+}

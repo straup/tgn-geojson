@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.516700,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2767944","tgn:7014651","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008706"],"id":2767944,"name:xx":"Whitemarsh Creek"}}
+{
+  "id": 2767944,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767944",
+        "tgn:7014651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767944,
+    "tgn:name":"Whitemarsh Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5167,38.8833],"type":"Point"}
+}

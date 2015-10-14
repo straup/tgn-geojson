@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.766700,46.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2253349","tgn:1000001","tgn:7012149","tgn:2000975","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2253349,"name:xx":"Conway Point"}}
+{
+  "id": 2253349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000975",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253349,
+    "tgn:name":"Conway Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.7667,46.8667],"type":"Point"}
+}

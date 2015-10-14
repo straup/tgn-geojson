@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.116700,41.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2256348","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008347"],"id":2256348,"name:xx":"Copperton"}}
+{
+  "id": 2256348,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256348",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256348,
+    "tgn:name":"Copperton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1167,41.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.350000,41.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2339717","tgn:1002716","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300008798"],"id":2339717,"name:xx":"Freebody Hill"}}
+{
+  "id": 2339717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339717",
+        "tgn:1002716",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339717,
+    "tgn:name":"Freebody Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.35,41.5],"type":"Point"}
+}

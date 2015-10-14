@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.233333,49.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7115497","tgn:1000003","tgn:7003684","tgn:7000084","tgn:7029392"],"placetype":["aat:300266640"],"id":7115497,"name:xx":"Osterberg"}}
+{
+  "id": 7115497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115497",
+        "tgn:1000003",
+        "tgn:7003684",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115497,
+    "tgn:name":"Osterberg",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.233333,49.216667],"type":"Point"}
+}

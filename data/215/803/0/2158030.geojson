@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.250000,41.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2158030","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2158030,"name:xx":"Beaver Peak"}}
+{
+  "id": 2158030,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158030",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158030,
+    "tgn:name":"Beaver Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.25,41.0667],"type":"Point"}
+}

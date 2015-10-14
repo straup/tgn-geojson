@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.083300,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2761173","tgn:1000001","tgn:2002106","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008905"],"id":2761173,"name:xx":"West Layton Marshes"}}
+{
+  "id": 2761173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761173",
+        "tgn:1000001",
+        "tgn:2002106",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761173,
+    "tgn:name":"West Layton Marshes",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0833,41.0333],"type":"Point"}
+}

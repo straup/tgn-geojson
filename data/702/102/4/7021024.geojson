@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-95.633300,43.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7021024","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021024,"name:xx":"Ocheyedan River"}}
+{
+  "id": 7021024,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021024",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021024,
+    "tgn:name":"Ocheyedan River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.6333,43.5333],"type":"Point"}
+}

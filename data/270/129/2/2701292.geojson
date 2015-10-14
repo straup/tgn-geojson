@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.966700,47.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2701292","tgn:1000001","tgn:2001014","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300132316"],"id":2701292,"name:xx":"Sugar Loaf Cove"}}
+{
+  "id": 2701292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2701292",
+        "tgn:1000001",
+        "tgn:2001014",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2701292,
+    "tgn:name":"Sugar Loaf Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9667,47.4833],"type":"Point"}
+}

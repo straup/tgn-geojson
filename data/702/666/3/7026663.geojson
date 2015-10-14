@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.352500,51.558333]},"type":"Feature","properties":{"hierarchy":["tgn:7026663","tgn:7002445","tgn:1000003","tgn:7019020","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Horton","id":7026663}}
+{
+  "id": 7026663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026663",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019020",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026663,
+    "tgn:name:en":"Horton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.3525,51.558333],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.183333,51.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7026401","tgn:7002445","tgn:1000003","tgn:7026382","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Brimpton","id":7026401}}
+{
+  "id": 7026401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026401",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026382",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026401,
+    "tgn:name:en":"Brimpton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.183333,51.366667],"type":"Point"}
+}

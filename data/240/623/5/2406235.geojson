@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.633300,44.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2406235","tgn:1000001","tgn:7012149","tgn:1002599","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2406235,"name:xx":"Humphrey Creek"}}
+{
+  "id": 2406235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406235",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002599",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406235,
+    "tgn:name":"Humphrey Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.6333,44.6667],"type":"Point"}
+}

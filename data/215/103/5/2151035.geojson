@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.400000,37.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2151035","tgn:2000660","tgn:1000001","tgn:7012149","tgn:7007254","tgn:7029392"],"placetype":["aat:300008680"],"id":2151035,"name:xx":"Bassola, Lake"}}
+{
+  "id": 2151035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151035",
+        "tgn:2000660",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151035,
+    "tgn:name":"Bassola, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.4,37.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.033333,50.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7113626","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7113626,"name:xx":"Rodenbach"}}
+{
+  "id": 7113626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113626",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113626,
+    "tgn:name":"Rodenbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.033333,50.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.466667,49.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7177712","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177712,"name:xx":"Hof Guntershausen"}}
+{
+  "id": 7177712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177712",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177712,
+    "tgn:name":"Hof Guntershausen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.466667,49.816667],"type":"Point"}
+}

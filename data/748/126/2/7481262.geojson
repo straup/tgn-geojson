@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.231220,23.451217]},"type":"Feature","properties":{"hierarchy":["tgn:7481262","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7481262,"name:xx":"Kanhou"}}
+{
+  "id": 7481262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481262",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481262,
+    "tgn:name":"Kanhou",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.23122,23.451217],"type":"Point"}
+}

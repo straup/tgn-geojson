@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.066700,41.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2765815","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2765815,"name:xx":"White Elephant Butte"}}
+{
+  "id": 2765815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765815",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765815,
+    "tgn:name":"White Elephant Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.0667,41.9],"type":"Point"}
+}

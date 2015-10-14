@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.033300,32.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2334372","tgn:1000001","tgn:7012149","tgn:2001160","tgn:7007522","tgn:7029392"],"placetype":["aat:300055621"],"id":2334372,"name:xx":"Forest Home Towhead"}}
+{
+  "id": 2334372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334372",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001160",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334372,
+    "tgn:name":"Forest Home Towhead",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0333,32.45],"type":"Point"}
+}

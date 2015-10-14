@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.433333,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7050969","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7050969,"name:xx":"Lama, Val di"}}
+{
+  "id": 7050969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050969",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050969,
+    "tgn:name":"Lama, Val di",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.433333,43.25],"type":"Point"}
+}

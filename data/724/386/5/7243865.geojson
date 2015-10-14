@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.493095,51.213358]},"type":"Feature","properties":{"hierarchy":["tgn:7243865","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7243865,"name:xx":"Immerseel"}}
+{
+  "id": 7243865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243865",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243865,
+    "tgn:name":"Immerseel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.493095,51.213358],"type":"Point"}
+}

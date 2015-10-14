@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.750000,18.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7356180","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356180,"name:xx":"Carlos A. Carrillo"}}
+{
+  "id": 7356180,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356180",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356180,
+    "tgn:name":"Carlos A. Carrillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.75,18.366667],"type":"Point"}
+}

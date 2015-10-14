@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.450000,42.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2769389","tgn:1000001","tgn:1002246","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2769389,"name:xx":"Wicks Corners"}}
+{
+  "id": 2769389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769389",
+        "tgn:1000001",
+        "tgn:1002246",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769389,
+    "tgn:name":"Wicks Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.45,42.95],"type":"Point"}
+}

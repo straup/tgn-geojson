@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-175.950000,51.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2409573","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409573,"name:xx":"Igitkin Point"}}
+{
+  "id": 2409573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409573",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409573,
+    "tgn:name":"Igitkin Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-175.95,51.9833],"type":"Point"}
+}

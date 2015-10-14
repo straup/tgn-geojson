@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.116667,40.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7051884","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051884,"name:xx":"Peschiera, Torrente"}}
+{
+  "id": 7051884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051884",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051884,
+    "tgn:name":"Peschiera, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.116667,40.05],"type":"Point"}
+}

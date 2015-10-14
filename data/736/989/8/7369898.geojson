@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.383333,25.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7369898","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369898,"name:xx":"Guamuchilito, Canal"}}
+{
+  "id": 7369898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369898",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369898,
+    "tgn:name":"Guamuchilito, Canal",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.383333,25.95],"type":"Point"}
+}

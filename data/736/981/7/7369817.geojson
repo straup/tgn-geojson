@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.466667,30.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7369817","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369817,"name:xx":"Garambuyo"}}
+{
+  "id": 7369817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369817",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369817,
+    "tgn:name":"Garambuyo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.466667,30.7],"type":"Point"}
+}

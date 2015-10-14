@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.300000,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7246647","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246647,"name:xx":"Dieu le Garde"}}
+{
+  "id": 7246647,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246647",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246647,
+    "tgn:name":"Dieu le Garde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3,50.583333],"type":"Point"}
+}

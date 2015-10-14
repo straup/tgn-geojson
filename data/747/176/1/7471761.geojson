@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.985271,24.256360]},"type":"Feature","properties":{"hierarchy":["tgn:7471761","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471761,"name:xx":"Chuanxing Shan"}}
+{
+  "id": 7471761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471761",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471761,
+    "tgn:name":"Chuanxing Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.985271,24.25636],"type":"Point"}
+}

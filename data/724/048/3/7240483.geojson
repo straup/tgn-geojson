@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.534292,51.470791]},"type":"Feature","properties":{"hierarchy":["tgn:7240483","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7240483,"name:xx":"Essen Duinen"}}
+{
+  "id": 7240483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240483",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240483,
+    "tgn:name":"Essen Duinen",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.534292,51.470791],"type":"Point"}
+}

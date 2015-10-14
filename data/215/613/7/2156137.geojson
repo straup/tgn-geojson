@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.416700,34.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156137","tgn:1000001","tgn:7012149","tgn:2001144","tgn:7007522","tgn:7029392"],"placetype":["aat:300008697"],"id":2156137,"name:xx":"Beard Spring"}}
+{
+  "id": 2156137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156137",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001144",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156137,
+    "tgn:name":"Beard Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.4167,34.7333],"type":"Point"}
+}

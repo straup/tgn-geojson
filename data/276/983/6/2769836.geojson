@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.583300,34.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2769836","tgn:1000001","tgn:7012149","tgn:2000359","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2769836,"name:xx":"Wikle Store"}}
+{
+  "id": 2769836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769836",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000359",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769836,
+    "tgn:name":"Wikle Store",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.5833,34.75],"type":"Point"}
+}

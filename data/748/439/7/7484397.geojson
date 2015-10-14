@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.596389,23.075278]},"type":"Feature","properties":{"hierarchy":["tgn:7484397","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484397,"name:xx":"Renfushan"}}
+{
+  "id": 7484397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484397",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484397,
+    "tgn:name":"Renfushan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.596389,23.075278],"type":"Point"}
+}

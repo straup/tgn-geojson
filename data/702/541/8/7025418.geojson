@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-4.083333,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7025418","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Bittadon","id":7025418}}
+{
+  "id": 7025418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025418",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025418,
+    "tgn:name:en":"Bittadon",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.083333,51.15],"type":"Point"}
+}

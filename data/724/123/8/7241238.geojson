@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.653621,50.481009]},"type":"Feature","properties":{"hierarchy":["tgn:7241238","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241238,"name:xx":"Le Calvaire"}}
+{
+  "id": 7241238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241238",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241238,
+    "tgn:name":"Le Calvaire",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.653621,50.481009],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.666700,43.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2408259","tgn:1000001","tgn:1002480","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008699"],"id":2408259,"name:xx":"Huse Brook"}}
+{
+  "id": 2408259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408259",
+        "tgn:1000001",
+        "tgn:1002480",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408259,
+    "tgn:name":"Huse Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.6667,43.0667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.232086,23.489840]},"type":"Feature","properties":{"hierarchy":["tgn:7488996","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488996,"name:xx":"Gulin Cun"}}
+{
+  "id": 7488996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488996",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488996,
+    "tgn:name":"Gulin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.232086,23.48984],"type":"Point"}
+}

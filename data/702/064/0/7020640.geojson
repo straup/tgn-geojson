@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.266700,45.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7020640","tgn:1000001","tgn:7012149","tgn:2001297","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":7020640,"name:xx":"Cow Creek"}}
+{
+  "id": 7020640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020640",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001297",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020640,
+    "tgn:name":"Cow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2667,45.3],"type":"Point"}
+}

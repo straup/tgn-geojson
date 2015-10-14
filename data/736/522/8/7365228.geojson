@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.016667,23.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7365228","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7365228,"name:xx":"El Rat\u00f3n"}}
+{
+  "id": 7365228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365228",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365228,
+    "tgn:name":"El Rat\u00f3n",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.016667,23.733333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.066700,33.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2256657","tgn:2001732","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008680"],"id":2256657,"name:xx":"Cordes Lake"}}
+{
+  "id": 2256657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256657",
+        "tgn:2001732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256657,
+    "tgn:name":"Cordes Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0667,33.4833],"type":"Point"}
+}

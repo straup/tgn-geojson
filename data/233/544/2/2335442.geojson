@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.366700,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2335442","tgn:1000001","tgn:2000935","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2335442,"name:xx":"Fort Pendleton"}}
+{
+  "id": 2335442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335442",
+        "tgn:1000001",
+        "tgn:2000935",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335442,
+    "tgn:name":"Fort Pendleton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3667,39.2833],"type":"Point"}
+}

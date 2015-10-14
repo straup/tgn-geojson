@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.917500,24.540833]},"type":"Feature","properties":{"hierarchy":["tgn:7364526","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7364526,"name:xx":"El Voladero"}}
+{
+  "id": 7364526,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364526",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364526,
+    "tgn:name":"El Voladero",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.9175,24.540833],"type":"Point"}
+}

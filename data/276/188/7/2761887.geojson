@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.450000,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2761887","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2761887,"name:xx":"West Reedley Ditch"}}
+{
+  "id": 2761887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761887",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761887,
+    "tgn:name":"West Reedley Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.45,36.6],"type":"Point"}
+}

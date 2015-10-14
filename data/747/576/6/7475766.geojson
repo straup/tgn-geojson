@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.595295,24.701589]},"type":"Feature","properties":{"hierarchy":["tgn:7475766","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7475766,"name:xx":"Hongzicun Shan"}}
+{
+  "id": 7475766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475766",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475766,
+    "tgn:name":"Hongzicun Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.595295,24.701589],"type":"Point"}
+}

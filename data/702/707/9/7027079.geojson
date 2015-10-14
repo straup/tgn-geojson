@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.716667,51.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7027079","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Llanwarne","id":7027079}}
+{
+  "id": 7027079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027079",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027079,
+    "tgn:name:en":"Llanwarne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.716667,51.95],"type":"Point"}
+}

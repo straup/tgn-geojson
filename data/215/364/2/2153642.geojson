@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.900000,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2153642","tgn:1000001","tgn:2124001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":2153642,"name:xx":"Bear Branch"}}
+{
+  "id": 2153642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153642",
+        "tgn:1000001",
+        "tgn:2124001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153642,
+    "tgn:name":"Bear Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9,39.0833],"type":"Point"}
+}

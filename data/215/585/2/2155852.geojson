@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2155852","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000191","tgn:7029392"],"placetype":["aat:300008761"],"id":2155852,"name:xx":"Bear Trap Gulch"}}
+{
+  "id": 2155852,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155852",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000191",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155852,
+    "tgn:name":"Bear Trap Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,40.55],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.166700,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2764206","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2764206,"name:xx":"Wheeler Spring"}}
+{
+  "id": 2764206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764206",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764206,
+    "tgn:name":"Wheeler Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.1667,41.2833],"type":"Point"}
+}

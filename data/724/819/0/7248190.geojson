@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.633333,49.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7248190","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7248190,"name:xx":"Ferme de la Belle Vue"}}
+{
+  "id": 7248190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248190",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248190,
+    "tgn:name":"Ferme de la Belle Vue",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.633333,49.7],"type":"Point"}
+}

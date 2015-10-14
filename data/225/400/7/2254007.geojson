@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.316700,35.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2254007","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300008697"],"id":2254007,"name:xx":"Cool Spring"}}
+{
+  "id": 2254007,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254007",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254007,
+    "tgn:name":"Cool Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3167,35.0],"type":"Point"}
+}

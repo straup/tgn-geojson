@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.883300,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765400","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2765400,"name:xx":"White Beech Hollow"}}
+{
+  "id": 2765400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765400",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765400,
+    "tgn:name":"White Beech Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8833,38.0833],"type":"Point"}
+}

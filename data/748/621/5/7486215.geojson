@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.500000,23.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7486215","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486215,"name:xx":"Niuxinwan"}}
+{
+  "id": 7486215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486215",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486215,
+    "tgn:name":"Niuxinwan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.5,23.583333],"type":"Point"}
+}

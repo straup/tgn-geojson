@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.859576,25.117815]},"type":"Feature","properties":{"hierarchy":["tgn:7477845","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477845,"name:xx":"Changren Qiao"}}
+{
+  "id": 7477845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477845",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477845,
+    "tgn:name":"Changren Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.859576,25.117815],"type":"Point"}
+}

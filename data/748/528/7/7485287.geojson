@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.692500,22.207500]},"type":"Feature","properties":{"hierarchy":["tgn:7485287","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485287,"name:xx":"Dingfenggang"}}
+{
+  "id": 7485287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485287",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485287,
+    "tgn:name":"Dingfenggang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6925,22.2075],"type":"Point"}
+}

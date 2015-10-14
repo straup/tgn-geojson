@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.783300,47.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2403506","tgn:1000001","tgn:7012149","tgn:7018871","tgn:7007920","tgn:7029392"],"placetype":["aat:300006191"],"id":2403506,"name:xx":"Howard A Hanson Reservoir"}}
+{
+  "id": 2403506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403506",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7018871",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403506,
+    "tgn:name":"Howard A Hanson Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7833,47.2667],"type":"Point"}
+}

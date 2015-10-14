@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.933300,43.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2252519","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2252519,"name:xx":"Conley Creek"}}
+{
+  "id": 2252519,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252519",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252519,
+    "tgn:name":"Conley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.9333,43.3333],"type":"Point"}
+}

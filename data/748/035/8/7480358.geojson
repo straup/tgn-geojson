@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.619444,23.991389]},"type":"Feature","properties":{"hierarchy":["tgn:7480358","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386996"],"id":7480358,"name:xx":"Hualian Xianzhengfu"}}
+{
+  "id": 7480358,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480358",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480358,
+    "tgn:name":"Hualian Xianzhengfu",
+    "tgn:placetype":[
+        "aat:300386996"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.619444,23.991389],"type":"Point"}
+}

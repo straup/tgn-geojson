@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.371636,23.946911]},"type":"Feature","properties":{"hierarchy":["tgn:7475400","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475400,"name:xx":"Wenjin Cun"}}
+{
+  "id": 7475400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475400",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475400,
+    "tgn:name":"Wenjin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.371636,23.946911],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.800000,39.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2337873","tgn:7016099","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2337873,"name:xx":"Fox Haven Estates"}}
+{
+  "id": 2337873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337873",
+        "tgn:7016099",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337873,
+    "tgn:name":"Fox Haven Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.8,39.4333],"type":"Point"}
+}

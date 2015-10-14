@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.610535,24.090428]},"type":"Feature","properties":{"hierarchy":["tgn:7471927","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7471927,"name:xx":"Jingmei Chezhan"}}
+{
+  "id": 7471927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471927",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471927,
+    "tgn:name":"Jingmei Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.610535,24.090428],"type":"Point"}
+}

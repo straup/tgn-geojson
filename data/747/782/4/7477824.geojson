@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.923204,25.128130]},"type":"Feature","properties":{"hierarchy":["tgn:7477824","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007741"],"id":7477824,"name:xx":"Bitou Jiao Dengta"}}
+{
+  "id": 7477824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477824",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477824,
+    "tgn:name":"Bitou Jiao Dengta",
+    "tgn:placetype":[
+        "aat:300007741"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.923204,25.12813],"type":"Point"}
+}

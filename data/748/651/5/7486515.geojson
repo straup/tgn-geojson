@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.799722,21.990278]},"type":"Feature","properties":{"hierarchy":["tgn:7486515","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486515,"name:xx":"Liangluan Xi"}}
+{
+  "id": 7486515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486515",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486515,
+    "tgn:name":"Liangluan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.799722,21.990278],"type":"Point"}
+}

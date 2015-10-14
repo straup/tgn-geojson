@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.934727,50.741185]},"type":"Feature","properties":{"hierarchy":["tgn:7241276","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241276,"name:xx":"La Basse Ville"}}
+{
+  "id": 7241276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241276",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241276,
+    "tgn:name":"La Basse Ville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.934727,50.741185],"type":"Point"}
+}

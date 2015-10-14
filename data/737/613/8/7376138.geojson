@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.333333,19.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7376138","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376138,"name:xx":"La Taberna"}}
+{
+  "id": 7376138,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376138",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376138,
+    "tgn:name":"La Taberna",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.333333,19.933333],"type":"Point"}
+}

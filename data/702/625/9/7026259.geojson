@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.700000,52.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7026259","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Liston","id":7026259}}
+{
+  "id": 7026259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026259",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026259,
+    "tgn:name:en":"Liston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.7,52.066667],"type":"Point"}
+}

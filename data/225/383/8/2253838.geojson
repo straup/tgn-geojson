@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.233300,43.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2253838","tgn:1000001","tgn:7012149","tgn:1002576","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2253838,"name:xx":"Cooks Lake"}}
+{
+  "id": 2253838,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253838",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002576",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253838,
+    "tgn:name":"Cooks Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2333,43.0333],"type":"Point"}
+}

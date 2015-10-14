@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.231667,24.056111]},"type":"Feature","properties":{"hierarchy":["tgn:7475409","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7475409,"name:xx":"Weishang Shan"}}
+{
+  "id": 7475409,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475409",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475409,
+    "tgn:name":"Weishang Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.231667,24.056111],"type":"Point"}
+}

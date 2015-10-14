@@ -1,0 +1,28 @@
+{
+  "id": 1000056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000056",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000056,
+    "tgn:name":"Per\u00fa",
+    "tgn:name:ar":"\u0628\u064a\u0631\u0648",
+    "tgn:name:en":"Peru",
+    "tgn:name:es":"Per\u00fa",
+    "tgn:name:fr":"P\u00e9rou",
+    "tgn:name:qwe":"Per\u00fa",
+    "tgn:name:ru":"\u041f\u0435\u0440\u0443",
+    "tgn:name:zh":"\u79d8\u9c81",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0,-10.0],"type":"Point"}
+}

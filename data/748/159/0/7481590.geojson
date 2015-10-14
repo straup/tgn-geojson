@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.641210,22.718708]},"type":"Feature","properties":{"hierarchy":["tgn:7481590","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7481590,"name:xx":"Zhuzilun"}}
+{
+  "id": 7481590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481590",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481590,
+    "tgn:name":"Zhuzilun",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.64121,22.718708],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.783300,42.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2769610","tgn:1000001","tgn:1002283","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2769610,"name:xx":"Wieber Drain"}}
+{
+  "id": 2769610,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769610",
+        "tgn:1000001",
+        "tgn:1002283",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769610,
+    "tgn:name":"Wieber Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7833,42.9833],"type":"Point"}
+}

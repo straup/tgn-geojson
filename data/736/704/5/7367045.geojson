@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.800000,29.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7367045","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367045,"name:xx":"Rancho El Robote"}}
+{
+  "id": 7367045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367045",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367045,
+    "tgn:name":"Rancho El Robote",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8,29.966667],"type":"Point"}
+}

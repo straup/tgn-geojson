@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.250000,27.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7369623","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008805"],"id":7369623,"name:xx":"Guaje, Llano del"}}
+{
+  "id": 7369623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369623",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369623,
+    "tgn:name":"Guaje, Llano del",
+    "tgn:placetype":[
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.25,27.2],"type":"Point"}
+}

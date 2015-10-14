@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.118000,53.685000]},"type":"Feature","properties":{"hierarchy":["tgn:7029966","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029966,"name:xx":"High Eggborough"}}
+{
+  "id": 7029966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029966",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029966,
+    "tgn:name":"High Eggborough",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.118,53.685],"type":"Point"}
+}

@@ -1,0 +1,23 @@
+{
+  "id": 7266234,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2754645"
+    },
+    "tgn:hierarchy":[
+        "tgn:7266234",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266234,
+    "tgn:name:nl":"Heerstraat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.833333,50.833333],"type":"Point"}
+}

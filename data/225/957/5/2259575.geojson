@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.916700,24.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2259575","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2259575,"name:xx":"Cottrell Key"}}
+{
+  "id": 2259575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259575",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259575,
+    "tgn:name":"Cottrell Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9167,24.6],"type":"Point"}
+}

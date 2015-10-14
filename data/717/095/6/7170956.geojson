@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.400000,48.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7170956","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7170956,"name:xx":"Herzogs-Hart"}}
+{
+  "id": 7170956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170956",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170956,
+    "tgn:name":"Herzogs-Hart",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.4,48.2],"type":"Point"}
+}

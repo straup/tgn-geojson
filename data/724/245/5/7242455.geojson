@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7242455","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7242455,"name:xx":"Kolenhof"}}
+{
+  "id": 7242455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242455",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242455,
+    "tgn:name":"Kolenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,51.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.050000,36.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2159618","tgn:1000001","tgn:7012149","tgn:2000183","tgn:7007157","tgn:7029392"],"placetype":["aat:300008697"],"id":2159618,"name:xx":"Bee Springs"}}
+{
+  "id": 2159618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000183",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159618,
+    "tgn:name":"Bee Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.05,36.8],"type":"Point"}
+}

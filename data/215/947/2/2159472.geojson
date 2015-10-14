@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.600000,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2159472","tgn:1000001","tgn:7012149","tgn:2002119","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2159472,"name:xx":"Bee Hives"}}
+{
+  "id": 2159472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159472",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002119",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159472,
+    "tgn:name":"Bee Hives",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.6,37.7],"type":"Point"}
+}

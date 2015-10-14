@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.850000,19.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7379377","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008773"],"id":7379377,"name:xx":"Los Corredores, Barranca"}}
+{
+  "id": 7379377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379377",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379377,
+    "tgn:name":"Los Corredores, Barranca",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.85,19.95],"type":"Point"}
+}

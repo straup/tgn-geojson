@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.600000,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7110469","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7110469,"name:xx":"Reichsb\u00fchl"}}
+{
+  "id": 7110469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110469",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110469,
+    "tgn:name":"Reichsb\u00fchl",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.6,50.883333],"type":"Point"}
+}

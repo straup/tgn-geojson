@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-117.350000,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2761937","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2761937,"name:xx":"West Riverside Canal"}}
+{
+  "id": 2761937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761937",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761937,
+    "tgn:name":"West Riverside Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.35,34.0333],"type":"Point"}
+}

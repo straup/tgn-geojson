@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.716700,36.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7020246","tgn:1000001","tgn:7012149","tgn:2001500","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7020246,"name:xx":"Brooks, Lake"}}
+{
+  "id": 7020246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020246",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001500",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020246,
+    "tgn:name":"Brooks, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7167,36.2333],"type":"Point"}
+}

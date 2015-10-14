@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.416700,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2769938","tgn:1000001","tgn:7012149","tgn:2000785","tgn:7007255","tgn:7029392"],"placetype":["aat:300132348"],"id":2769938,"name:xx":"Wilburn Bar"}}
+{
+  "id": 2769938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769938",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000785",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769938,
+    "tgn:name":"Wilburn Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4167,36.7333],"type":"Point"}
+}

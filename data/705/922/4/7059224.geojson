@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-78.916000,-8.083000]},"type":"Feature","properties":{"hierarchy":["tgn:7059224","tgn:1000660","tgn:1000002","tgn:1000056","tgn:7029392"],"placetype":["aat:300008347"],"id":7059224,"name:xx":"Galindo"}}
+{
+  "id": 7059224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059224",
+        "tgn:1000660",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059224,
+    "tgn:name":"Galindo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.916,-8.083],"type":"Point"}
+}

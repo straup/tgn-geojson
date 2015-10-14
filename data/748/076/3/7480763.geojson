@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.234722,24.841944]},"type":"Feature","properties":{"hierarchy":["tgn:7480763","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7480763,"name:xx":"Zhongxiao Xincun"}}
+{
+  "id": 7480763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480763",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480763,
+    "tgn:name":"Zhongxiao Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.234722,24.841944],"type":"Point"}
+}

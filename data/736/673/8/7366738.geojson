@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.750000,25.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7366738","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7366738,"name:xx":"Espinal, Pe\u00f1a el"}}
+{
+  "id": 7366738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366738",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366738,
+    "tgn:name":"Espinal, Pe\u00f1a el",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.75,25.116667],"type":"Point"}
+}

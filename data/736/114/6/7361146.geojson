@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.331944,24.243611]},"type":"Feature","properties":{"hierarchy":["tgn:7361146","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361146,"name:xx":"El Conchal"}}
+{
+  "id": 7361146,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361146",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361146,
+    "tgn:name":"El Conchal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.331944,24.243611],"type":"Point"}
+}

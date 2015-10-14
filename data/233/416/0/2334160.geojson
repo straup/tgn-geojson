@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.450000,39.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2334160","tgn:1000001","tgn:1002218","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2334160,"name:xx":"Foreman Creek"}}
+{
+  "id": 2334160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334160",
+        "tgn:1000001",
+        "tgn:1002218",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334160,
+    "tgn:name":"Foreman Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.45,39.5833],"type":"Point"}
+}

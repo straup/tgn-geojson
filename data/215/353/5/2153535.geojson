@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.683300,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2153535","tgn:1000001","tgn:2000272","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2153535,"name:xx":"Bear Bay"}}
+{
+  "id": 2153535,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153535",
+        "tgn:1000001",
+        "tgn:2000272",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153535,
+    "tgn:name":"Bear Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.6833,30.8],"type":"Point"}
+}

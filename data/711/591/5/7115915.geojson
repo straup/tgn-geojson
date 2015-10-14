@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.300000,51.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7115915","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115915,"name:xx":"Ovenhausen"}}
+{
+  "id": 7115915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115915",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115915,
+    "tgn:name":"Ovenhausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.3,51.783333],"type":"Point"}
+}

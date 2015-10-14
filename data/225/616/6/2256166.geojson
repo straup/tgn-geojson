@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.866700,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2256166","tgn:1000001","tgn:7012149","tgn:2002334","tgn:7007922","tgn:7029392"],"placetype":["aat:300008707"],"id":2256166,"name:xx":"Copper River"}}
+{
+  "id": 2256166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256166",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002334",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256166,
+    "tgn:name":"Copper River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8667,45.1833],"type":"Point"}
+}

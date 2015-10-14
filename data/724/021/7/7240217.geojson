@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.316667,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7240217","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006163"],"id":7240217,"name:xx":"Eikenbroekpolder"}}
+{
+  "id": 7240217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240217",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240217,
+    "tgn:name":"Eikenbroekpolder",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.316667,51.1],"type":"Point"}
+}

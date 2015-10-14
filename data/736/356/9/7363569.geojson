@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.000000,26.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7363569","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363569,"name:xx":"Rancho El Astillero"}}
+{
+  "id": 7363569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363569",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363569,
+    "tgn:name":"Rancho El Astillero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0,26.35],"type":"Point"}
+}

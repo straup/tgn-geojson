@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.900000,26.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7375186","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7375186,"name:xx":"Las Delicias, Sierra de"}}
+{
+  "id": 7375186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375186",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375186,
+    "tgn:name":"Las Delicias, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.9,26.25],"type":"Point"}
+}

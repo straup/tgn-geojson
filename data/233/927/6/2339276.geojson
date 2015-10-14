@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.883300,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2339276","tgn:1000001","tgn:7012149","tgn:1003021","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2339276,"name:xx":"Fraser Ditch"}}
+{
+  "id": 2339276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339276",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003021",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339276,
+    "tgn:name":"Fraser Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8833,40.7333],"type":"Point"}
+}

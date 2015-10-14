@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.083300,33.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2767498","tgn:1000001","tgn:7012149","tgn:2001456","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2767498,"name:xx":"White Tank"}}
+{
+  "id": 2767498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767498",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001456",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767498,
+    "tgn:name":"White Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0833,33.7],"type":"Point"}
+}

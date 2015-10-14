@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.933333,17.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7355613","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7355613,"name:xx":"Chichihua, R\u00edo"}}
+{
+  "id": 7355613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355613",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355613,
+    "tgn:name":"Chichihua, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.933333,17.016667],"type":"Point"}
+}

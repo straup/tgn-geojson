@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.033300,39.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7022800","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022800,"name:xx":"Rat Hole Ridge"}}
+{
+  "id": 7022800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022800",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022800,
+    "tgn:name":"Rat Hole Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0333,39.55],"type":"Point"}
+}

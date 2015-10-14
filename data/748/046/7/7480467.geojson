@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.184442,23.369898]},"type":"Feature","properties":{"hierarchy":["tgn:7480467","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7480467,"name:xx":"Liudongliao"}}
+{
+  "id": 7480467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480467",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480467,
+    "tgn:name":"Liudongliao",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.184442,23.369898],"type":"Point"}
+}

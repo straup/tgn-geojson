@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.783300,38.266700]},"type":"Feature","properties":{"hierarchy":["tgn:7021262","tgn:1000001","tgn:7012149","tgn:2002284","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021262,"name:xx":"Rader Run"}}
+{
+  "id": 7021262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021262",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002284",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021262,
+    "tgn:name":"Rader Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7833,38.2667],"type":"Point"}
+}

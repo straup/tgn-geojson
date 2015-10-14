@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.950000,38.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7050940","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050940,"name:xx":"Lamia"}}
+{
+  "id": 7050940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050940",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050940,
+    "tgn:name":"Lamia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.95,38.466667],"type":"Point"}
+}

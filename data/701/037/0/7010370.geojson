@@ -1,0 +1,27 @@
+{
+  "id": 7010370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010370",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019056",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010370,
+    "tgn:name":"Kingston-Upon-Hull",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.333333,53.716667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.531111,46.195556]},"type":"Feature","properties":{"hierarchy":["tgn:7053222","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053222,"name:xx":"Montemaggiore"}}
+{
+  "id": 7053222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053222",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053222,
+    "tgn:name":"Montemaggiore",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.531111,46.195556],"type":"Point"}
+}

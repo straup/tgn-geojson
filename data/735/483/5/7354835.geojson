@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.933333,19.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7354835","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354835,"name:xx":"Catmis"}}
+{
+  "id": 7354835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354835",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354835,
+    "tgn:name":"Catmis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.933333,19.883333],"type":"Point"}
+}

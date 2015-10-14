@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.200000,53.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7170573","tgn:1000003","tgn:7003673","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170573,"name:xx":"Hitscherberg"}}
+{
+  "id": 7170573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170573",
+        "tgn:1000003",
+        "tgn:7003673",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170573,
+    "tgn:name":"Hitscherberg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.2,53.433333],"type":"Point"}
+}

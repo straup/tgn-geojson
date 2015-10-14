@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.633300,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2400376","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300008798"],"id":2400376,"name:xx":"Horse Heaven Buttes"}}
+{
+  "id": 2400376,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400376",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400376,
+    "tgn:name":"Horse Heaven Buttes",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6333,40.7333],"type":"Point"}
+}

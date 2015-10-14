@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.916700,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7021046","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021046,"name:xx":"Spruce Lick"}}
+{
+  "id": 7021046,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021046",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021046,
+    "tgn:name":"Spruce Lick",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9167,38.0833],"type":"Point"}
+}

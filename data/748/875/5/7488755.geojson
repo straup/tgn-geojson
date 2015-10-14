@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.509444,23.419722]},"type":"Feature","properties":{"hierarchy":["tgn:7488755","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488755,"name:xx":"Longmen Cun"}}
+{
+  "id": 7488755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488755",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488755,
+    "tgn:name":"Longmen Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.509444,23.419722],"type":"Point"}
+}

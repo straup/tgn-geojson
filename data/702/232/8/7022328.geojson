@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-92.433300,36.416700]},"type":"Feature","properties":{"hierarchy":["tgn:7022328","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7022328,"name:xx":"Bald Dave"}}
+{
+  "id": 7022328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022328,
+    "tgn:name":"Bald Dave",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.4333,36.4167],"type":"Point"}
+}

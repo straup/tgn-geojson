@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.100000,40.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2254890","tgn:1000001","tgn:7012149","tgn:2002122","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2254890,"name:xx":"Coop Creek"}}
+{
+  "id": 2254890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254890",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002122",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254890,
+    "tgn:name":"Coop Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.1,40.65],"type":"Point"}
+}

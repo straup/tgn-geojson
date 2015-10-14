@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.866700,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2767812","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2767812,"name:xx":"Whitehorse Canyon"}}
+{
+  "id": 2767812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767812",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767812,
+    "tgn:name":"Whitehorse Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8667,41.7333],"type":"Point"}
+}

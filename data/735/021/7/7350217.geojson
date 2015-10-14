@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.302222,24.742500]},"type":"Feature","properties":{"hierarchy":["tgn:7350217","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350217,"name:xx":"Bacatame"}}
+{
+  "id": 7350217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350217",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350217,
+    "tgn:name":"Bacatame",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.302222,24.7425],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.133300,33.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2250728","tgn:2001729","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2250728,"name:xx":"Colston Branch"}}
+{
+  "id": 2250728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250728",
+        "tgn:2001729",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250728,
+    "tgn:name":"Colston Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1333,33.1833],"type":"Point"}
+}

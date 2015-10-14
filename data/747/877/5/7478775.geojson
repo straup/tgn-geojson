@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.925064,24.600200]},"type":"Feature","properties":{"hierarchy":["tgn:7478775","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478775,"name:xx":"Chongguidong Ding"}}
+{
+  "id": 7478775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478775",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478775,
+    "tgn:name":"Chongguidong Ding",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.925064,24.6002],"type":"Point"}
+}

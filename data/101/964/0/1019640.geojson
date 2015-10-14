@@ -1,0 +1,25 @@
+{
+  "id": 1019640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1019640",
+        "tgn:7006477",
+        "tgn:1001376",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1019640,
+    "tgn:name":"La Rioja",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387305"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.8333,-29.4333],"type":"Point"}
+}

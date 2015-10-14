@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-117.966700,47.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2337320","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2337320,"name:xx":"Fourth of July Lake"}}
+{
+  "id": 2337320,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337320",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337320,
+    "tgn:name":"Fourth of July Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.9667,47.25],"type":"Point"}
+}

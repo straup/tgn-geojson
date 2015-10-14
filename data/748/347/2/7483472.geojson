@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.476389,22.672222]},"type":"Feature","properties":{"hierarchy":["tgn:7483472","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7483472,"name:xx":"Chongde Xincun"}}
+{
+  "id": 7483472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483472",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483472,
+    "tgn:name":"Chongde Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.476389,22.672222],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7242534","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7242534,"name:xx":"Ferme de Lambercies"}}
+{
+  "id": 7242534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242534",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242534,
+    "tgn:name":"Ferme de Lambercies",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.1],"type":"Point"}
+}

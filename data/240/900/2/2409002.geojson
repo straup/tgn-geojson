@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-164.716700,61.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2409002","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000087","tgn:7029392"],"placetype":["aat:300008707"],"id":2409002,"name:xx":"Iaslaktoli River"}}
+{
+  "id": 2409002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409002",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000087",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409002,
+    "tgn:name":"Iaslaktoli River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-164.7167,61.9167],"type":"Point"}
+}

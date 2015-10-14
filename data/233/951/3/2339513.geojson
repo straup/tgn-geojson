@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.833300,38.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2339513","tgn:1000001","tgn:1002240","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2339513,"name:xx":"Fred Hollow"}}
+{
+  "id": 2339513,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339513",
+        "tgn:1000001",
+        "tgn:1002240",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339513,
+    "tgn:name":"Fred Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8333,38.2],"type":"Point"}
+}

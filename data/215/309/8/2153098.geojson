@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.850000,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2153098","tgn:1000001","tgn:7012149","tgn:1002519","tgn:7007706","tgn:7029392"],"placetype":["aat:300266640"],"id":2153098,"name:xx":"Beacon Ridge"}}
+{
+  "id": 2153098,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153098",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002519",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153098,
+    "tgn:name":"Beacon Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.85,40.3333],"type":"Point"}
+}

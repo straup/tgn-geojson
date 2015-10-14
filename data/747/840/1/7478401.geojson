@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.204411,25.077785]},"type":"Feature","properties":{"hierarchy":["tgn:7478401","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478401,"name:xx":"Daicuo"}}
+{
+  "id": 7478401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478401",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478401,
+    "tgn:name":"Daicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.204411,25.077785],"type":"Point"}
+}

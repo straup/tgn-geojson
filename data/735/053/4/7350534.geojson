@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.366667,19.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7350534","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350534,"name:xx":"Caballo, Cerro El"}}
+{
+  "id": 7350534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350534",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350534,
+    "tgn:name":"Caballo, Cerro El",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.366667,19.333333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.950000,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2764071","tgn:1000001","tgn:7012149","tgn:2000995","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2764071,"name:xx":"Wheeler Drain"}}
+{
+  "id": 2764071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764071",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000995",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764071,
+    "tgn:name":"Wheeler Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.95,43.5],"type":"Point"}
+}

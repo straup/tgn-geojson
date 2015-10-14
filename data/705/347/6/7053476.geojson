@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.433333,40.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7053476","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300132317"],"id":7053476,"name:xx":"Parata Grande, Cala"}}
+{
+  "id": 7053476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053476",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053476,
+    "tgn:name":"Parata Grande, Cala",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.433333,40.816667],"type":"Point"}
+}

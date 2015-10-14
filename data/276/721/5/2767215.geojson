@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.966700,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2767215","tgn:1000001","tgn:7012149","tgn:2002376","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2767215,"name:xx":"White Rock Pit Reservoir"}}
+{
+  "id": 2767215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767215",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002376",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767215,
+    "tgn:name":"White Rock Pit Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9667,41.7],"type":"Point"}
+}

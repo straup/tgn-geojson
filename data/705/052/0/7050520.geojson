@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.183333,41.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7050520","tgn:1000003","tgn:7003241","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7050520,"name:xx":"La Romana"}}
+{
+  "id": 7050520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050520",
+        "tgn:1000003",
+        "tgn:7003241",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050520,
+    "tgn:name":"La Romana",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.183333,41.616667],"type":"Point"}
+}

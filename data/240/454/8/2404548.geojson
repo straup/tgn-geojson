@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.300000,34.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2404548","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2404548,"name:xx":"Hubbell Draw"}}
+{
+  "id": 2404548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404548",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404548,
+    "tgn:name":"Hubbell Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3,34.45],"type":"Point"}
+}

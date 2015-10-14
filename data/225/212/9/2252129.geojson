@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.316700,55.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2252129","tgn:7006450","tgn:1000001","tgn:2124076","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":2252129,"name:xx":"Cone Island"}}
+{
+  "id": 2252129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252129",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124076",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252129,
+    "tgn:name":"Cone Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.3167,55.2333],"type":"Point"}
+}

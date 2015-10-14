@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.545958,24.707984]},"type":"Feature","properties":{"hierarchy":["tgn:7471749","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471749,"name:xx":"Quantoumu Shan"}}
+{
+  "id": 7471749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471749",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471749,
+    "tgn:name":"Quantoumu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.545958,24.707984],"type":"Point"}
+}

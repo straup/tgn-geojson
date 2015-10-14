@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.250000,35.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2406528","tgn:1000001","tgn:7012149","tgn:2001504","tgn:7007709","tgn:7029392"],"placetype":["aat:300008707"],"id":2406528,"name:xx":"Hungry River"}}
+{
+  "id": 2406528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406528",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001504",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406528,
+    "tgn:name":"Hungry River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.25,35.3833],"type":"Point"}
+}

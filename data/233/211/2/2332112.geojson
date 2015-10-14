@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.883300,33.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2332112","tgn:1000001","tgn:7012149","tgn:2000401","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2332112,"name:xx":"Flint Lake"}}
+{
+  "id": 2332112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332112",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000401",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332112,
+    "tgn:name":"Flint Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8833,33.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-79.883300,37.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156599","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008798"],"id":2156599,"name:xx":"Bearwallow Mountain"}}
+{
+  "id": 2156599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156599",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156599,
+    "tgn:name":"Bearwallow Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8833,37.7333],"type":"Point"}
+}

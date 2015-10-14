@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.066700,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2331587","tgn:1000001","tgn:7012149","tgn:2000516","tgn:7007251","tgn:7029392"],"placetype":["aat:300008706"],"id":2331587,"name:xx":"Flea Creek"}}
+{
+  "id": 2331587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331587",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000516",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331587,
+    "tgn:name":"Flea Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0667,40.7333],"type":"Point"}
+}

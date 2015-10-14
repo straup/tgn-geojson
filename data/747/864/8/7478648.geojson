@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.848467,24.596111]},"type":"Feature","properties":{"hierarchy":["tgn:7478648","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478648,"name:xx":"Su'ao Qiao"}}
+{
+  "id": 7478648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478648",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478648,
+    "tgn:name":"Su'ao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.848467,24.596111],"type":"Point"}
+}

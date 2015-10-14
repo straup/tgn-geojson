@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.033300,45.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2406980","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2406980,"name:xx":"Hunter Lake"}}
+{
+  "id": 2406980,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406980",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406980,
+    "tgn:name":"Hunter Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0333,45.8333],"type":"Point"}
+}

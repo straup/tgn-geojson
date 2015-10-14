@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.466700,33.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2400842","tgn:1000001","tgn:7012149","tgn:2001762","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2400842,"name:xx":"Horse Range Swamp"}}
+{
+  "id": 2400842,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400842",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001762",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400842,
+    "tgn:name":"Horse Range Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4667,33.4],"type":"Point"}
+}

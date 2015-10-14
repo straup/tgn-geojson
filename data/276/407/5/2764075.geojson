@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-158.033300,21.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2764075","tgn:1002483","tgn:7019080","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300008347"],"id":2764075,"name:xx":"Wheeler Field"}}
+{
+  "id": 2764075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764075",
+        "tgn:1002483",
+        "tgn:7019080",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764075,
+    "tgn:name":"Wheeler Field",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.0333,21.4833],"type":"Point"}
+}

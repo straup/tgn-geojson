@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.400000,46.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2767415","tgn:1000001","tgn:7012149","tgn:2002359","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2767415,"name:xx":"White Squaw Lake"}}
+{
+  "id": 2767415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767415",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002359",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767415,
+    "tgn:name":"White Squaw Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.4,46.1],"type":"Point"}
+}

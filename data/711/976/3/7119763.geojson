@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.600000,52.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7119763","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7119763,"name:xx":"Pl\u00f6tzensee"}}
+{
+  "id": 7119763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119763",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119763,
+    "tgn:name":"Pl\u00f6tzensee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.6,52.75],"type":"Point"}
+}

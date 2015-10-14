@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.163611,26.442778]},"type":"Feature","properties":{"hierarchy":["tgn:7367056","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7367056,"name:xx":"El P\u00edchul, Arroyo"}}
+{
+  "id": 7367056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367056",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367056,
+    "tgn:name":"El P\u00edchul, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.163611,26.442778],"type":"Point"}
+}

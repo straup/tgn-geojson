@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.100000,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2765089","tgn:1000001","tgn:2002105","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2765089,"name:xx":"Whisky Springs"}}
+{
+  "id": 2765089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765089",
+        "tgn:1000001",
+        "tgn:2002105",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765089,
+    "tgn:name":"Whisky Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.1,40.8833],"type":"Point"}
+}

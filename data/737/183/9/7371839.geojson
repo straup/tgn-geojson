@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.416667,28.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7371839","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7371839,"name:xx":"La Mula, Valle de"}}
+{
+  "id": 7371839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371839",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371839,
+    "tgn:name":"La Mula, Valle de",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.416667,28.2],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.583300,43.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2256743","tgn:1000001","tgn:7012149","tgn:2002349","tgn:7007922","tgn:7029392"],"placetype":["aat:300008761"],"id":2256743,"name:xx":"Core Hollow"}}
+{
+  "id": 2256743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256743",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002349",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256743,
+    "tgn:name":"Core Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5833,43.3333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.666700,47.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2335785","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2335785,"name:xx":"Fortymile Canyon"}}
+{
+  "id": 2335785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335785",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335785,
+    "tgn:name":"Fortymile Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6667,47.95],"type":"Point"}
+}

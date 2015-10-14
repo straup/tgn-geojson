@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.150000,24.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7359819","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008804"],"id":7359819,"name:xx":"Concepci\u00f3n, Pen\u00ednsula de"}}
+{
+  "id": 7359819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359819",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359819,
+    "tgn:name":"Concepci\u00f3n, Pen\u00ednsula de",
+    "tgn:placetype":[
+        "aat:300008804"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.15,24.083333],"type":"Point"}
+}

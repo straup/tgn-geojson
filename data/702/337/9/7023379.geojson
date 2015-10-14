@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.500000,45.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7023379","tgn:1000001","tgn:7012149","tgn:2001719","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":7023379,"name:xx":"Matlock Spring"}}
+{
+  "id": 7023379,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023379",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001719",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023379,
+    "tgn:name":"Matlock Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.5,45.05],"type":"Point"}
+}

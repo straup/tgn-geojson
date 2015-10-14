@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.216667,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7248280","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300386887"],"id":7248280,"name:xx":"Bergeise Heide"}}
+{
+  "id": 7248280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248280",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248280,
+    "tgn:name":"Bergeise Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.216667,51.266667],"type":"Point"}
+}

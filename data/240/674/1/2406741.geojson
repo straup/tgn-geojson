@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.683300,48.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2406741","tgn:1000001","tgn:2000462","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2406741,"name:xx":"Hunt Peak"}}
+{
+  "id": 2406741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406741",
+        "tgn:1000001",
+        "tgn:2000462",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406741,
+    "tgn:name":"Hunt Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.6833,48.55],"type":"Point"}
+}

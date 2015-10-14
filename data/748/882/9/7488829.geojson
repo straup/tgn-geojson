@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.498056,23.233056]},"type":"Feature","properties":{"hierarchy":["tgn:7488829","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7488829,"name:xx":"Liwenzi"}}
+{
+  "id": 7488829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488829",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488829,
+    "tgn:name":"Liwenzi",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.498056,23.233056],"type":"Point"}
+}

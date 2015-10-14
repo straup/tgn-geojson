@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.633333,30.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7375597","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375597,"name:xx":"Rancho La Pur\u00edsima"}}
+{
+  "id": 7375597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375597",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375597,
+    "tgn:name":"Rancho La Pur\u00edsima",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.633333,30.183333],"type":"Point"}
+}

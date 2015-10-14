@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.858611,24.900278]},"type":"Feature","properties":{"hierarchy":["tgn:7483376","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7483376,"name:xx":"Gengxin Suidao"}}
+{
+  "id": 7483376,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483376",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483376,
+    "tgn:name":"Gengxin Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.858611,24.900278],"type":"Point"}
+}

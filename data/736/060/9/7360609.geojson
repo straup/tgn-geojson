@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.400000,31.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7360609","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360609,"name:xx":"Cocospera, Sierra"}}
+{
+  "id": 7360609,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360609",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360609,
+    "tgn:name":"Cocospera, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4,31.1],"type":"Point"}
+}

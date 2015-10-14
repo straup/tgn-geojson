@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-21.750000,74.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7024595","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008795"],"id":7024595,"name:xx":"Hallebjergene"}}
+{
+  "id": 7024595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024595",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024595,
+    "tgn:name":"Hallebjergene",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-21.75,74.2333],"type":"Point"}
+}

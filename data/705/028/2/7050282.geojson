@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.333333,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7050282","tgn:1003450","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050282,"name:xx":"Pietrafitta"}}
+{
+  "id": 7050282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050282",
+        "tgn:1003450",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050282,
+    "tgn:name":"Pietrafitta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.333333,39.25],"type":"Point"}
+}

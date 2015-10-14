@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.222222,23.011389]},"type":"Feature","properties":{"hierarchy":["tgn:7486296","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7486296,"name:xx":"Kaiyuan Si"}}
+{
+  "id": 7486296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486296",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486296,
+    "tgn:name":"Kaiyuan Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.222222,23.011389],"type":"Point"}
+}

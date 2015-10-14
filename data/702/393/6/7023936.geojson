@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-6.200000,16.783000]},"type":"Feature","properties":{"hierarchy":["tgn:7023936","tgn:7023929","tgn:1000001","tgn:7004786","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7023936,"name:xx":"Saint Peter"}}
+{
+  "id": 7023936,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023936",
+        "tgn:7023929",
+        "tgn:1000001",
+        "tgn:7004786",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023936,
+    "tgn:name":"Saint Peter",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-6.2,16.783],"type":"Point"}
+}

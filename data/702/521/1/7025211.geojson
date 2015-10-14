@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.333333,53.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7025211","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025211,"name:ang":"Lunt"}}
+{
+  "id": 7025211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025211",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025211,
+    "tgn:name:ang":"Lunt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.333333,53.2],"type":"Point"}
+}

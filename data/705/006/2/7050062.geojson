@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.267500,45.015556]},"type":"Feature","properties":{"hierarchy":["tgn:7050062","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050062,"name:xx":"Mea"}}
+{
+  "id": 7050062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050062",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050062,
+    "tgn:name":"Mea",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.2675,45.015556],"type":"Point"}
+}

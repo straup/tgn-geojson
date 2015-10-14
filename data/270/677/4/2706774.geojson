@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.816700,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2706774","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2706774,"name:xx":"Swank Creek"}}
+{
+  "id": 2706774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706774",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706774,
+    "tgn:name":"Swank Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8167,41.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.434768,23.662385]},"type":"Feature","properties":{"hierarchy":["tgn:7486593","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7486593,"name:xx":"Matai'an Xi Qiao"}}
+{
+  "id": 7486593,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486593",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486593,
+    "tgn:name":"Matai'an Xi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.434768,23.662385],"type":"Point"}
+}

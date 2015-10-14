@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.150000,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2764280","tgn:2002131","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008798"],"id":2764280,"name:xx":"Wheelock Mountain"}}
+{
+  "id": 2764280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764280",
+        "tgn:2002131",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764280,
+    "tgn:name":"Wheelock Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.15,44.55],"type":"Point"}
+}

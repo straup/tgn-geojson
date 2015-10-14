@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.666667,47.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7173550","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008057"],"id":7173550,"name:xx":"Gr\u00fcneck"}}
+{
+  "id": 7173550,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173550",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173550,
+    "tgn:name":"Gr\u00fcneck",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.666667,47.766667],"type":"Point"}
+}

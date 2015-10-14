@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.383300,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2331375","tgn:1000001","tgn:7012149","tgn:7014160","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2331375,"name:xx":"Flatlick Branch"}}
+{
+  "id": 2331375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331375",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014160",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331375,
+    "tgn:name":"Flatlick Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3833,38.8833],"type":"Point"}
+}

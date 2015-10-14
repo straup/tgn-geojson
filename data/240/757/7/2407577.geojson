@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.266700,43.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2407577","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008850"],"id":2407577,"name:xx":"Hupper Point"}}
+{
+  "id": 2407577,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407577",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407577,
+    "tgn:name":"Hupper Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.2667,43.9333],"type":"Point"}
+}

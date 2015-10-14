@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.166667,16.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7375222","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375222,"name:xx":"Las Delicias"}}
+{
+  "id": 7375222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375222",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375222,
+    "tgn:name":"Las Delicias",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.166667,16.116667],"type":"Point"}
+}

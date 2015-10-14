@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-111.866700,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022764","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7022764,"name:xx":"Wolf Knoll"}}
+{
+  "id": 7022764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022764",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022764,
+    "tgn:name":"Wolf Knoll",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8667,37.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.331653,23.968209]},"type":"Feature","properties":{"hierarchy":["tgn:7474914","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7474914,"name:xx":"Haibu Xinshengdi Haiti"}}
+{
+  "id": 7474914,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474914",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474914,
+    "tgn:name":"Haibu Xinshengdi Haiti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.331653,23.968209],"type":"Point"}
+}

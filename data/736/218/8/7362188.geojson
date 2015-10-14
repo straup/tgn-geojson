@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.450000,19.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7362188","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362188,"name:xx":"El Lim\u00f3n"}}
+{
+  "id": 7362188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362188",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362188,
+    "tgn:name":"El Lim\u00f3n",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.45,19.3],"type":"Point"}
+}

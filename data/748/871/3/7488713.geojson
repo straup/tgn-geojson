@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.550000,25.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7488713","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488713,"name:xx":"Guibinguan"}}
+{
+  "id": 7488713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488713",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488713,
+    "tgn:name":"Guibinguan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.55,25.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.698889,24.653056]},"type":"Feature","properties":{"hierarchy":["tgn:7378077","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378077,"name:xx":"Las Colmenas"}}
+{
+  "id": 7378077,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378077",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378077,
+    "tgn:name":"Las Colmenas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.698889,24.653056],"type":"Point"}
+}

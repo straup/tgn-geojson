@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.805833,24.957222]},"type":"Feature","properties":{"hierarchy":["tgn:7488643","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488643,"name:xx":"Xiweiliao"}}
+{
+  "id": 7488643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488643",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488643,
+    "tgn:name":"Xiweiliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.805833,24.957222],"type":"Point"}
+}

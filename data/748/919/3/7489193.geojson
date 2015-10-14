@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.425250,25.052550]},"type":"Feature","properties":{"hierarchy":["tgn:7489193","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489193,"name:xx":"Yixue Cun"}}
+{
+  "id": 7489193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489193",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489193,
+    "tgn:name":"Yixue Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.42525,25.05255],"type":"Point"}
+}

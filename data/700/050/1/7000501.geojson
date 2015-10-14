@@ -1,0 +1,23 @@
+{
+  "id": 7000501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000501",
+        "tgn:7001242",
+        "tgn:7015047",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000501,
+    "tgn:name":"Lokoja",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.7333,7.8167],"type":"Point"}
+}

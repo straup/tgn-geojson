@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.350000,30.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2405961","tgn:1000001","tgn:7012149","tgn:1002691","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2405961,"name:xx":"Humble Club Lake"}}
+{
+  "id": 2405961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405961",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002691",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405961,
+    "tgn:name":"Humble Club Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.35,30.2167],"type":"Point"}
+}

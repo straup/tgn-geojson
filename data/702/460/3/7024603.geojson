@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[22.486667,40.173333]},"type":"Feature","properties":{"hierarchy":["tgn:7024603","tgn:7002715","tgn:7002729","tgn:1000003","tgn:1000074","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300387272"],"id":7024603,"name:xx":"Dion"}}
+{
+  "id": 7024603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024603",
+        "tgn:7002715",
+        "tgn:7002729",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024603,
+    "tgn:name":"Dion",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300387272"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[22.486667,40.173333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.316667,29.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7371379","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371379,"name:xx":"Hacienda Guadalupe"}}
+{
+  "id": 7371379,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371379",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371379,
+    "tgn:name":"Hacienda Guadalupe",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.316667,29.016667],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-81.033300,32.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7022337","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":7022337,"name:xx":"Barnwell Island"}}
+{
+  "id": 7022337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022337",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022337,
+    "tgn:name":"Barnwell Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0333,32.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.883333,25.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7355284","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7355284,"name:xx":"Cedrito, Sierra del"}}
+{
+  "id": 7355284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355284",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355284,
+    "tgn:name":"Cedrito, Sierra del",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.883333,25.266667],"type":"Point"}
+}

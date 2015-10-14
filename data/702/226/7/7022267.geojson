@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.316700,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7022267","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":7022267,"name:xx":"Upper Cow Lake"}}
+{
+  "id": 7022267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022267",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022267,
+    "tgn:name":"Upper Cow Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.3167,43.0833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-150.383300,60.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2409748","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2409748,"name:xx":"Ilerum Lake"}}
+{
+  "id": 2409748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409748",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409748,
+    "tgn:name":"Ilerum Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-150.3833,60.8333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.583300,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2250155","tgn:1000001","tgn:1002664","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008798"],"id":2250155,"name:xx":"Collins Hill"}}
+{
+  "id": 2250155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250155",
+        "tgn:1000001",
+        "tgn:1002664",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250155,
+    "tgn:name":"Collins Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5833,41.5833],"type":"Point"}
+}

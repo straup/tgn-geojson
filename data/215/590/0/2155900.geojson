@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.733300,40.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2155900","tgn:1000001","tgn:7012149","tgn:2000232","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2155900,"name:xx":"Bear Valley"}}
+{
+  "id": 2155900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155900",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000232",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155900,
+    "tgn:name":"Bear Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7333,40.4167],"type":"Point"}
+}

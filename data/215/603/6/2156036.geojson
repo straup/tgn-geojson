@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.733300,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2156036","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2156036,"name:xx":"Bear Wallow Spring"}}
+{
+  "id": 2156036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156036",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156036,
+    "tgn:name":"Bear Wallow Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.7333,45.2333],"type":"Point"}
+}

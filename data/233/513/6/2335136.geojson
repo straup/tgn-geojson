@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.933300,43.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2335136","tgn:1000001","tgn:7012149","tgn:2000656","tgn:7007253","tgn:7029392"],"placetype":["aat:300008863"],"id":2335136,"name:xx":"Fort Atkinson State Preserve"}}
+{
+  "id": 2335136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335136",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000656",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335136,
+    "tgn:name":"Fort Atkinson State Preserve",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9333,43.1333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.108889,23.090556]},"type":"Feature","properties":{"hierarchy":["tgn:7489967","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387200"],"id":7489967,"name:xx":"Shifen Cun"}}
+{
+  "id": 7489967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489967",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489967,
+    "tgn:name":"Shifen Cun",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.108889,23.090556],"type":"Point"}
+}

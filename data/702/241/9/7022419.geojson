@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.633300,34.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7022419","tgn:1000001","tgn:7016172","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022419,"name:xx":"Bogus Ridge"}}
+{
+  "id": 7022419,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022419",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022419,
+    "tgn:name":"Bogus Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.6333,34.85],"type":"Point"}
+}

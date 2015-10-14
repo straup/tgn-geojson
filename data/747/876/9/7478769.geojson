@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.921219,24.591486]},"type":"Feature","properties":{"hierarchy":["tgn:7478769","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478769,"name:xx":"Shangping Shan"}}
+{
+  "id": 7478769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478769",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478769,
+    "tgn:name":"Shangping Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.921219,24.591486],"type":"Point"}
+}

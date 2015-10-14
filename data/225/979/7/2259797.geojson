@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.883300,45.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2259797","tgn:1000001","tgn:7012149","tgn:2000486","tgn:7007250","tgn:7029392"],"placetype":["aat:300132348"],"id":2259797,"name:xx":"Cougar Rapids Bar"}}
+{
+  "id": 2259797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259797",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000486",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259797,
+    "tgn:name":"Cougar Rapids Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.8833,45.95],"type":"Point"}
+}

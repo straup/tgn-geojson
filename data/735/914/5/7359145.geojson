@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.583333,25.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7359145","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359145,"name:xx":"Dispensilla"}}
+{
+  "id": 7359145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359145",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359145,
+    "tgn:name":"Dispensilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.583333,25.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.316700,43.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2768066","tgn:1000001","tgn:7012149","tgn:2001716","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2768066,"name:xx":"Whiterock Creek"}}
+{
+  "id": 2768066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768066",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001716",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768066,
+    "tgn:name":"Whiterock Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3167,43.85],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,26.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7372249","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7372249,"name:xx":"La Joya"}}
+{
+  "id": 7372249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372249",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372249,
+    "tgn:name":"La Joya",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,26.566667],"type":"Point"}
+}

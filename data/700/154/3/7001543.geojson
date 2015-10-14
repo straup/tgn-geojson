@@ -1,0 +1,25 @@
+{
+  "id": 7001543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001543",
+        "tgn:1000004",
+        "tgn:7000198",
+        "tgn:1001894",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001543,
+    "tgn:name":"Indore",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[75.858722,22.716608],"type":"Point"}
+}

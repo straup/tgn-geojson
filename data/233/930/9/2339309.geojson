@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.033300,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2339309","tgn:1000001","tgn:7012149","tgn:1002877","tgn:7007706","tgn:7029392"],"placetype":["aat:300006191"],"id":2339309,"name:xx":"Frasure, Lake"}}
+{
+  "id": 2339309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339309",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002877",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339309,
+    "tgn:name":"Frasure, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0333,38.9167],"type":"Point"}
+}

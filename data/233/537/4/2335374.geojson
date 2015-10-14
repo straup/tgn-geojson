@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.550000,27.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2335374","tgn:1000001","tgn:1002479","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2335374,"name:xx":"Fort Lonely"}}
+{
+  "id": 2335374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335374",
+        "tgn:1000001",
+        "tgn:1002479",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335374,
+    "tgn:name":"Fort Lonely",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.55,27.6333],"type":"Point"}
+}

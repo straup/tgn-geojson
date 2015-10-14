@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.483300,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2405289","tgn:1000001","tgn:7012149","tgn:2001909","tgn:7007825","tgn:7029392"],"placetype":["aat:300008697"],"id":2405289,"name:xx":"Huffine Spring"}}
+{
+  "id": 2405289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405289",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001909",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405289,
+    "tgn:name":"Huffine Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4833,35.7833],"type":"Point"}
+}

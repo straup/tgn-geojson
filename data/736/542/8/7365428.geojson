@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.533333,24.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7365428","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7365428,"name:xx":"Tanque El Rayo"}}
+{
+  "id": 7365428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365428",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365428,
+    "tgn:name":"Tanque El Rayo",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.533333,24.35],"type":"Point"}
+}

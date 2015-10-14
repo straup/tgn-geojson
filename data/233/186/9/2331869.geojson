@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.950000,46.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2331869","tgn:1000001","tgn:7012149","tgn:2001290","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2331869,"name:xx":"Fletcher Gulch"}}
+{
+  "id": 2331869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331869",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001290",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331869,
+    "tgn:name":"Fletcher Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.95,46.9333],"type":"Point"}
+}

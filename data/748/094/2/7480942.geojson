@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.195000,23.815278]},"type":"Feature","properties":{"hierarchy":["tgn:7480942","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006137"],"id":7480942,"name:xx":"Xi Fangchaoti"}}
+{
+  "id": 7480942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480942",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480942,
+    "tgn:name":"Xi Fangchaoti",
+    "tgn:placetype":[
+        "aat:300006137"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.195,23.815278],"type":"Point"}
+}

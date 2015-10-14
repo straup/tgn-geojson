@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.816700,39.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2339461","tgn:1000001","tgn:7012149","tgn:1002296","tgn:7007157","tgn:7029392"],"placetype":["aat:300008347"],"id":2339461,"name:xx":"Fraziers Landing"}}
+{
+  "id": 2339461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339461",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002296",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339461,
+    "tgn:name":"Fraziers Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8167,39.0],"type":"Point"}
+}

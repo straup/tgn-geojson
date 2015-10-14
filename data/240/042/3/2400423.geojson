@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.416700,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2400423","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2400423,"name:xx":"Horse Hill Spring"}}
+{
+  "id": 2400423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400423,
+    "tgn:name":"Horse Hill Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.4167,42.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.783333,51.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7115147","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7115147,"name:xx":"Ochsen-Berge"}}
+{
+  "id": 7115147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115147",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115147,
+    "tgn:name":"Ochsen-Berge",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.783333,51.533333],"type":"Point"}
+}

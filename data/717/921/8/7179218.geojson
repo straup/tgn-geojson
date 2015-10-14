@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.383333,48.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7179218","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7179218,"name:xx":"Haberthal"}}
+{
+  "id": 7179218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179218",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179218,
+    "tgn:name":"Haberthal",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.383333,48.15],"type":"Point"}
+}

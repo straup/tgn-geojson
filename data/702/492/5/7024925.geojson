@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.516700,51.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7024925","tgn:7002445","tgn:7008103","tgn:7024924","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300000238"],"id":7024925,"name:xx":"Chalgrave Manor"}}
+{
+  "id": 7024925,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024925",
+        "tgn:7002445",
+        "tgn:7008103",
+        "tgn:7024924",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024925,
+    "tgn:name":"Chalgrave Manor",
+    "tgn:placetype":[
+        "aat:300000238"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.5167,51.9333],"type":"Point"}
+}

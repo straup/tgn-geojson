@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.650000,36.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2156415","tgn:1000001","tgn:7012149","tgn:2000850","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2156415,"name:xx":"Bearskin Hollow"}}
+{
+  "id": 2156415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156415",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000850",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156415,
+    "tgn:name":"Bearskin Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.65,36.8333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.316667,23.268889]},"type":"Feature","properties":{"hierarchy":["tgn:7479659","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479659,"name:xx":"Xinrong Zhongxue"}}
+{
+  "id": 7479659,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479659",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479659,
+    "tgn:name":"Xinrong Zhongxue",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.316667,23.268889],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.783300,37.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2402035","tgn:1000001","tgn:7012149","tgn:2002163","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2402035,"name:xx":"Horseshoe Pond"}}
+{
+  "id": 2402035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402035",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002163",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402035,
+    "tgn:name":"Horseshoe Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7833,37.6667],"type":"Point"}
+}

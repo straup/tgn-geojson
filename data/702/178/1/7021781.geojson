@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.050000,33.516700]},"type":"Feature","properties":{"hierarchy":["tgn:7021781","tgn:1000001","tgn:7012149","tgn:2001762","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021781,"name:xx":"Connor Pond"}}
+{
+  "id": 7021781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021781",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001762",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021781,
+    "tgn:name":"Connor Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.05,33.5167],"type":"Point"}
+}

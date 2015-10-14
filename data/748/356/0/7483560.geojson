@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.947222,24.853611]},"type":"Feature","properties":{"hierarchy":["tgn:7483560","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483560,"name:xx":"Xingang Niubu Qiao"}}
+{
+  "id": 7483560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483560",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483560,
+    "tgn:name":"Xingang Niubu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.947222,24.853611],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.650000,29.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2152252","tgn:1000001","tgn:7012149","tgn:2000908","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152252,"name:xx":"Bay Cocodrie"}}
+{
+  "id": 2152252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152252",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000908",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152252,
+    "tgn:name":"Bay Cocodrie",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.65,29.2333],"type":"Point"}
+}

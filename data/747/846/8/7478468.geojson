@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.498156,22.422597]},"type":"Feature","properties":{"hierarchy":["tgn:7478468","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7478468,"name:xx":"Shuilicun Tifang"}}
+{
+  "id": 7478468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478468",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478468,
+    "tgn:name":"Shuilicun Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.498156,22.422597],"type":"Point"}
+}

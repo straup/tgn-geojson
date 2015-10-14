@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.850000,42.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7050689","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050689,"name:xx":"Nora, Torrente"}}
+{
+  "id": 7050689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050689",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050689,
+    "tgn:name":"Nora, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.85,42.316667],"type":"Point"}
+}

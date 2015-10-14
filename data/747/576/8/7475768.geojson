@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.710434,24.630199]},"type":"Feature","properties":{"hierarchy":["tgn:7475768","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475768,"name:xx":"Xiaopizi"}}
+{
+  "id": 7475768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475768",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475768,
+    "tgn:name":"Xiaopizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.710434,24.630199],"type":"Point"}
+}

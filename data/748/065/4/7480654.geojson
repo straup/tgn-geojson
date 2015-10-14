@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.129500,23.361100]},"type":"Feature","properties":{"hierarchy":["tgn:7480654","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386885"],"id":7480654,"name:xx":"Fu Zhou"}}
+{
+  "id": 7480654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480654",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480654,
+    "tgn:name":"Fu Zhou",
+    "tgn:placetype":[
+        "aat:300386885"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.1295,23.3611],"type":"Point"}
+}

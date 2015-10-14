@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.200000,51.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7179339","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000745"],"id":7179339,"name:xx":"Hamme"}}
+{
+  "id": 7179339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179339",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179339,
+    "tgn:name":"Hamme",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.2,51.5],"type":"Point"}
+}

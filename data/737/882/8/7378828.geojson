@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.083333,28.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7378828","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378828,"name:xx":"Manzanilla, Cerro"}}
+{
+  "id": 7378828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378828",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378828,
+    "tgn:name":"Manzanilla, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.083333,28.383333],"type":"Point"}
+}

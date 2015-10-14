@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.883300,46.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2259671","tgn:1000001","tgn:7012149","tgn:1003042","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2259671,"name:xx":"Cougar Canyon"}}
+{
+  "id": 2259671,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259671",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003042",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259671,
+    "tgn:name":"Cougar Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8833,46.75],"type":"Point"}
+}

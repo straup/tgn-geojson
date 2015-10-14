@@ -1,0 +1,27 @@
+{
+  "id": 1000124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000124",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000124,
+    "tgn:name":"Al Kuwayt",
+    "tgn:name:ar":"\u0627 \u0649\u064b\u0648\u062a\u064b",
+    "tgn:name:en":"Kuwait",
+    "tgn:name:es":"Kuwait",
+    "tgn:name:fr":"Kowe\u00eft",
+    "tgn:name:nl":"Koeweit",
+    "tgn:name:ru":"\u041a\u0443\u0432\u0435\u0439\u0442",
+    "tgn:name:zh":"\u79d1\u5a01\u7279",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.75,29.5],"type":"Point"}
+}

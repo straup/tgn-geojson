@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.355249,51.072016]},"type":"Feature","properties":{"hierarchy":["tgn:7246885","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7246885,"name:xx":"Doomkerke"}}
+{
+  "id": 7246885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246885",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246885,
+    "tgn:name":"Doomkerke",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.355249,51.072016],"type":"Point"}
+}

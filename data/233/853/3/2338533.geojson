@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.483300,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2338533","tgn:2002142","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2338533,"name:xx":"Frames Draft"}}
+{
+  "id": 2338533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338533",
+        "tgn:2002142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338533,
+    "tgn:name":"Frames Draft",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.4833,38.1833],"type":"Point"}
+}

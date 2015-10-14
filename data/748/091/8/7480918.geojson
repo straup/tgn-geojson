@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.494057,25.141016]},"type":"Feature","properties":{"hierarchy":["tgn:7480918","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7480918,"name:xx":"Zhengzhan Xuexiao"}}
+{
+  "id": 7480918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480918",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480918,
+    "tgn:name":"Zhengzhan Xuexiao",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.494057,25.141016],"type":"Point"}
+}

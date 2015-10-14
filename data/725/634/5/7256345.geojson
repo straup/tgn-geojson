@@ -1,0 +1,25 @@
+{
+  "id": 7256345,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2759027",
+        "qs:id":7,
+        "wof:id":101839327
+    },
+    "tgn:hierarchy":[
+        "tgn:7256345",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7256345,
+    "tgn:name:nl":"Beugen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.933333,51.666667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-48.233300,61.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7024567","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008678"],"id":7024567,"name:xx":"Christian Havn"}}
+{
+  "id": 7024567,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024567",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024567,
+    "tgn:name":"Christian Havn",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-48.2333,61.2333],"type":"Point"}
+}

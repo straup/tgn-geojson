@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.600000,24.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7472254","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472254,"name:xx":"Cukengshe"}}
+{
+  "id": 7472254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472254",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472254,
+    "tgn:name":"Cukengshe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6,24.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.183300,48.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2252925","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300008850"],"id":2252925,"name:xx":"Conrad Point"}}
+{
+  "id": 2252925,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252925",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252925,
+    "tgn:name":"Conrad Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1833,48.0],"type":"Point"}
+}

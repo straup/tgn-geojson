@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.200000,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7118844","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7118844,"name:xx":"Polenz"}}
+{
+  "id": 7118844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118844",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118844,
+    "tgn:name":"Polenz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.2,51.033333],"type":"Point"}
+}

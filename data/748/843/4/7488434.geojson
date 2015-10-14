@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.612222,23.729722]},"type":"Feature","properties":{"hierarchy":["tgn:7488434","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488434,"name:xx":"Huben"}}
+{
+  "id": 7488434,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488434",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488434,
+    "tgn:name":"Huben",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.612222,23.729722],"type":"Point"}
+}

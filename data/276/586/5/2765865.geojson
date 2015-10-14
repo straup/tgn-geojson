@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.933300,58.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2765865","tgn:7006450","tgn:1000001","tgn:2124089","tgn:7012149","tgn:7029392"],"placetype":["aat:300008835"],"id":2765865,"name:xx":"White Glacier"}}
+{
+  "id": 2765865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765865",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124089",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765865,
+    "tgn:name":"White Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.9333,58.8],"type":"Point"}
+}

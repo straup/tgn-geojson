@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.016667,49.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7117621","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7117621,"name:xx":"\u00d6dfriedlhof"}}
+{
+  "id": 7117621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117621",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117621,
+    "tgn:name":"\u00d6dfriedlhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.016667,49.416667],"type":"Point"}
+}

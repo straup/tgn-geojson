@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.283333,28.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7356360","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7356360,"name:xx":"Rancho del Carmen"}}
+{
+  "id": 7356360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356360",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356360,
+    "tgn:name":"Rancho del Carmen",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.283333,28.116667],"type":"Point"}
+}

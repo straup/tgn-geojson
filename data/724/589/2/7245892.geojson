@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.902213,51.132300]},"type":"Feature","properties":{"hierarchy":["tgn:7245892","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7245892,"name:xx":"De Rietbos"}}
+{
+  "id": 7245892,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245892",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245892,
+    "tgn:name":"De Rietbos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.902213,51.1323],"type":"Point"}
+}

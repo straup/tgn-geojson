@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.436784,22.999233]},"type":"Feature","properties":{"hierarchy":["tgn:7480172","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480172,"name:xx":"Caoshan Sihao Qiao"}}
+{
+  "id": 7480172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480172",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480172,
+    "tgn:name":"Caoshan Sihao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.436784,22.999233],"type":"Point"}
+}

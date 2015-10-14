@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.433300,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2404084","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300266640"],"id":2404084,"name:xx":"Howells Ridge"}}
+{
+  "id": 2404084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404084,
+    "tgn:name":"Howells Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.4333,31.8833],"type":"Point"}
+}

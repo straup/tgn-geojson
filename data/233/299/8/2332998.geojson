@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.200000,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2332998","tgn:1000001","tgn:7012149","tgn:2000793","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2332998,"name:xx":"Flutter Creek"}}
+{
+  "id": 2332998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332998",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000793",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332998,
+    "tgn:name":"Flutter Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2,37.55],"type":"Point"}
+}

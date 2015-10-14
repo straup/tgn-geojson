@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.650000,37.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2768681","tgn:1000001","tgn:7012149","tgn:2002162","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2768681,"name:xx":"Whitleys Branch"}}
+{
+  "id": 2768681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768681",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002162",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768681,
+    "tgn:name":"Whitleys Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.65,37.25],"type":"Point"}
+}

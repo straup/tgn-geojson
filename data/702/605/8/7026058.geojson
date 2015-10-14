@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.200000,45.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7026058","tgn:7002871","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300387007"],"id":7026058,"name:xx":"Martres-de-Veyre"}}
+{
+  "id": 7026058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026058",
+        "tgn:7002871",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026058,
+    "tgn:name":"Martres-de-Veyre",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.2,45.6833],"type":"Point"}
+}

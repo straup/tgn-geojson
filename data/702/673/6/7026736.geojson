@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.050000,51.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7026736","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Southam","id":7026736}}
+{
+  "id": 7026736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026736",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026736,
+    "tgn:name:en":"Southam",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.05,51.933333],"type":"Point"}
+}

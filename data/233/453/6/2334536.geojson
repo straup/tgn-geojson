@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.033300,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2334536","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002710","tgn:7029392"],"placetype":["aat:300006075"],"id":2334536,"name:xx":"Forest Springs Lateral"}}
+{
+  "id": 2334536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334536",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334536,
+    "tgn:name":"Forest Springs Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0333,39.15],"type":"Point"}
+}

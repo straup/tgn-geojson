@@ -1,0 +1,23 @@
+{
+  "id": 7016849,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016849",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016849,
+    "tgn:name":"West Bank",
+    "tgn:name:de":"Westjordanland",
+    "tgn:name:en":"Ha-gadah Ha-ma'aravit",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387064",
+        "aat:300387139"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.25,31.6667],"type":"Point"}
+}

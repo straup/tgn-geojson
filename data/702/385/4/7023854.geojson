@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[4.700000,50.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7023854","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300006075"],"id":7023854,"name:xx":"Leuvense Vaart"}}
+{
+  "id": 7023854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023854",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023854,
+    "tgn:name":"Leuvense Vaart",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.7,50.8833],"type":"Point"}
+}

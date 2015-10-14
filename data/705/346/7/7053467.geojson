@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.550000,39.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7053467","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053467,"name:xx":"Pardu Atzei"}}
+{
+  "id": 7053467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053467",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053467,
+    "tgn:name":"Pardu Atzei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.55,39.633333],"type":"Point"}
+}

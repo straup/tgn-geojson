@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.966700,38.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2407694","tgn:1002338","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":2407694,"name:xx":"Hurlock Neck"}}
+{
+  "id": 2407694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407694",
+        "tgn:1002338",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407694,
+    "tgn:name":"Hurlock Neck",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9667,38.4333],"type":"Point"}
+}

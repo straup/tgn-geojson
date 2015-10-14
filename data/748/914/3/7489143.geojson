@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.637368,25.207930]},"type":"Feature","properties":{"hierarchy":["tgn:7489143","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489143,"name:xx":"Gongguanlun"}}
+{
+  "id": 7489143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489143",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489143,
+    "tgn:name":"Gongguanlun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.637368,25.20793],"type":"Point"}
+}

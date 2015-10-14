@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.750000,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2332558","tgn:1000001","tgn:7012149","tgn:2000225","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2332558,"name:xx":"Florida"}}
+{
+  "id": 2332558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332558",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000225",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332558,
+    "tgn:name":"Florida",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.75,37.2],"type":"Point"}
+}

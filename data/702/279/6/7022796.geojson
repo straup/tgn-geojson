@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-113.466700,42.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7022796","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7022796,"name:xx":"Raft River Valley"}}
+{
+  "id": 7022796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022796",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022796,
+    "tgn:name":"Raft River Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.4667,42.05],"type":"Point"}
+}

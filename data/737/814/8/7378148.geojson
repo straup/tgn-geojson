@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.350000,28.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7378148","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378148,"name:xx":"Rancho Las Parras"}}
+{
+  "id": 7378148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378148",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378148,
+    "tgn:name":"Rancho Las Parras",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.35,28.833333],"type":"Point"}
+}

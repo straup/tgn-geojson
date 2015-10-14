@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.316667,50.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7115847","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115847,"name:xx":"Oberwillscheid"}}
+{
+  "id": 7115847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115847",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115847,
+    "tgn:name":"Oberwillscheid",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.316667,50.616667],"type":"Point"}
+}

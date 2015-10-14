@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.500000,32.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2768481","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2768481,"name:xx":"Whitewash Canyon"}}
+{
+  "id": 2768481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768481",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768481,
+    "tgn:name":"Whitewash Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5,32.85],"type":"Point"}
+}

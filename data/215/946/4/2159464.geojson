@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.516700,31.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2159464","tgn:1000001","tgn:7012149","tgn:2002034","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2159464,"name:xx":"Bee Gum Tank"}}
+{
+  "id": 2159464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159464",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002034",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159464,
+    "tgn:name":"Bee Gum Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.5167,31.0167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.266700,44.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2332913","tgn:1002300","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008699"],"id":2332913,"name:xx":"Flume Brook"}}
+{
+  "id": 2332913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332913",
+        "tgn:1002300",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332913,
+    "tgn:name":"Flume Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2667,44.8667],"type":"Point"}
+}

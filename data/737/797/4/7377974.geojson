@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.750000,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7377974","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7377974,"name:xx":"Las Palmas, Valle de"}}
+{
+  "id": 7377974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377974",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377974,
+    "tgn:name":"Las Palmas, Valle de",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.75,32.4],"type":"Point"}
+}

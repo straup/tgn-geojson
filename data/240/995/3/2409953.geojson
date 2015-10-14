@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.433300,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2409953","tgn:1000001","tgn:2001705","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008347"],"id":2409953,"name:xx":"Imperial"}}
+{
+  "id": 2409953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409953",
+        "tgn:1000001",
+        "tgn:2001705",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409953,
+    "tgn:name":"Imperial",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.4333,43.7333],"type":"Point"}
+}

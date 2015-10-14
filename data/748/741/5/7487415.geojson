@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.143333,24.963333]},"type":"Feature","properties":{"hierarchy":["tgn:7487415","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487415,"name:xx":"Litouzhou"}}
+{
+  "id": 7487415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487415",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487415,
+    "tgn:name":"Litouzhou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.143333,24.963333],"type":"Point"}
+}

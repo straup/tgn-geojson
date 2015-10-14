@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.950000,39.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7021383","tgn:1000001","tgn:7012149","tgn:2002292","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021383,"name:xx":"Davis Run"}}
+{
+  "id": 7021383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021383",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002292",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021383,
+    "tgn:name":"Davis Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.95,39.2],"type":"Point"}
+}

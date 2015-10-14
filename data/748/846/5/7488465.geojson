@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.039142,22.919826]},"type":"Feature","properties":{"hierarchy":["tgn:7488465","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7488465,"name:xx":"Hongye Shan"}}
+{
+  "id": 7488465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488465",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488465,
+    "tgn:name":"Hongye Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.039142,22.919826],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.485833,24.573611]},"type":"Feature","properties":{"hierarchy":["tgn:7475159","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7475159,"name:xx":"Duowang Shan"}}
+{
+  "id": 7475159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475159",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475159,
+    "tgn:name":"Duowang Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.485833,24.573611],"type":"Point"}
+}

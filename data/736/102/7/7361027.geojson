@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.250000,28.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7361027","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361027,"name:xx":"El Combate"}}
+{
+  "id": 7361027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361027",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361027,
+    "tgn:name":"El Combate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.25,28.55],"type":"Point"}
+}

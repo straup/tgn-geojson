@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.816667,29.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7358063","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358063,"name:xx":"Ejido Modelo"}}
+{
+  "id": 7358063,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358063",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358063,
+    "tgn:name":"Ejido Modelo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.816667,29.85],"type":"Point"}
+}

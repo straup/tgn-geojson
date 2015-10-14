@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.450000,25.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7377038","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377038,"name:xx":"Rancho La Trinidad de Dur\u00ed"}}
+{
+  "id": 7377038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377038",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377038,
+    "tgn:name":"Rancho La Trinidad de Dur\u00ed",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.45,25.733333],"type":"Point"}
+}

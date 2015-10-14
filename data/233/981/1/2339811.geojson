@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.933300,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2339811","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2339811,"name:xx":"Freeman Butterfield"}}
+{
+  "id": 2339811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339811",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339811,
+    "tgn:name":"Freeman Butterfield",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9333,40.5],"type":"Point"}
+}

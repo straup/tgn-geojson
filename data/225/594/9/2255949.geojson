@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.016700,45.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2255949","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2255949,"name:xx":"Copper Gulch"}}
+{
+  "id": 2255949,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255949",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255949,
+    "tgn:name":"Copper Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.0167,45.45],"type":"Point"}
+}

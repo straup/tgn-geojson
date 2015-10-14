@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.866700,30.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2259868","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259868,"name:xx":"Coulee Datider"}}
+{
+  "id": 2259868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259868",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259868,
+    "tgn:name":"Coulee Datider",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.8667,30.3333],"type":"Point"}
+}

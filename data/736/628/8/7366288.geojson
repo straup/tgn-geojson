@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.016667,32.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7366288","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366288,"name:xx":"Rancho Escondido"}}
+{
+  "id": 7366288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366288",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366288,
+    "tgn:name":"Rancho Escondido",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.016667,32.433333],"type":"Point"}
+}

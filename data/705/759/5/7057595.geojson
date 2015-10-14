@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.733333,40.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7057595","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300386846"],"id":7057595,"name:xx":"Asino, Punta dell'"}}
+{
+  "id": 7057595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057595",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057595,
+    "tgn:name":"Asino, Punta dell'",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.733333,40.7],"type":"Point"}
+}

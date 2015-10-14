@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.533300,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2335028","tgn:7014651","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":2335028,"name:xx":"Forrest Branch"}}
+{
+  "id": 2335028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335028",
+        "tgn:7014651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335028,
+    "tgn:name":"Forrest Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5333,38.8833],"type":"Point"}
+}

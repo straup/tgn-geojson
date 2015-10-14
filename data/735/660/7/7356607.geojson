@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.416667,28.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7356607","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7356607,"name:xx":"Carretas, R\u00edo"}}
+{
+  "id": 7356607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356607",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356607,
+    "tgn:name":"Carretas, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.416667,28.116667],"type":"Point"}
+}

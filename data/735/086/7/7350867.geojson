@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.816667,18.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7350867","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350867,"name:xx":"Arbolillos"}}
+{
+  "id": 7350867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350867",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350867,
+    "tgn:name":"Arbolillos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.816667,18.816667],"type":"Point"}
+}

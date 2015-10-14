@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.766700,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2760028","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760028,"name:xx":"West Fork Navarre Creek"}}
+{
+  "id": 2760028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760028",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760028,
+    "tgn:name":"West Fork Navarre Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7667,43.8833],"type":"Point"}
+}

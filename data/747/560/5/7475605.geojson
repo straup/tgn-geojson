@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.795245,24.654296]},"type":"Feature","properties":{"hierarchy":["tgn:7475605","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475605,"name:xx":"Shagang Paishui"}}
+{
+  "id": 7475605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475605",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475605,
+    "tgn:name":"Shagang Paishui",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.795245,24.654296],"type":"Point"}
+}

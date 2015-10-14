@@ -1,0 +1,28 @@
+{
+  "id": 1048273,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f26662-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2743822",
+        "gp:id":735097,
+        "qs:id":3,
+        "wof:id":101839441
+    },
+    "tgn:hierarchy":[
+        "tgn:1048273",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009679",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048273,
+    "tgn:name:nl":"Zoutelande",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.483333,51.5],"type":"Point"}
+}

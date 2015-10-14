@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.100000,35.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2253447","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300008761"],"id":2253447,"name:xx":"Cook Canyon"}}
+{
+  "id": 2253447,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253447",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253447,
+    "tgn:name":"Cook Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1,35.2167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.083300,38.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2253739","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2253739,"name:xx":"Cookman Fork"}}
+{
+  "id": 2253739,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253739",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253739,
+    "tgn:name":"Cookman Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0833,38.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.400000,45.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7020151","tgn:1000001","tgn:2001815","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008680"],"id":7020151,"name:xx":"Stink Lakes"}}
+{
+  "id": 7020151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020151",
+        "tgn:1000001",
+        "tgn:2001815",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020151,
+    "tgn:name":"Stink Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.4,45.65],"type":"Point"}
+}

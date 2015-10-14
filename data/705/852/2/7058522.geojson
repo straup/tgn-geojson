@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.150000,44.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7058522","tgn:1000003","tgn:7003151","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058522,"name:xx":"Borgo Priolo"}}
+{
+  "id": 7058522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058522",
+        "tgn:1000003",
+        "tgn:7003151",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058522,
+    "tgn:name":"Borgo Priolo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.15,44.966667],"type":"Point"}
+}

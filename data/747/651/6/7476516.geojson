@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.690600,24.739000]},"type":"Feature","properties":{"hierarchy":["tgn:7476516","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7476516,"name:xx":"Jinda'an Pi"}}
+{
+  "id": 7476516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476516",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476516,
+    "tgn:name":"Jinda'an Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6906,24.739],"type":"Point"}
+}

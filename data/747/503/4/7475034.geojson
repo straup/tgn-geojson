@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.007222,24.727222]},"type":"Feature","properties":{"hierarchy":["tgn:7475034","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475034,"name:xx":"Youtian Cun"}}
+{
+  "id": 7475034,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475034",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475034,
+    "tgn:name":"Youtian Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.007222,24.727222],"type":"Point"}
+}

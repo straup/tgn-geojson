@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.543300,23.904500]},"type":"Feature","properties":{"hierarchy":["tgn:7472160","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472160,"name:xx":"Wufu Cun"}}
+{
+  "id": 7472160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472160",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472160,
+    "tgn:name":"Wufu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5433,23.9045],"type":"Point"}
+}

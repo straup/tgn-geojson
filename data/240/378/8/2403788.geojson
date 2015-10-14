@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.766700,30.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2403788","tgn:1000001","tgn:7012149","tgn:2002010","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2403788,"name:xx":"Howard Tank"}}
+{
+  "id": 2403788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403788",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002010",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403788,
+    "tgn:name":"Howard Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7667,30.65],"type":"Point"}
+}

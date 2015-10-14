@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.666667,47.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7117958","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7117958,"name:xx":"Oster Wald"}}
+{
+  "id": 7117958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117958",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117958,
+    "tgn:name":"Oster Wald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.666667,47.683333],"type":"Point"}
+}

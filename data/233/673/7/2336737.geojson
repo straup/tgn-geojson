@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.200000,34.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2336737","tgn:1000001","tgn:7016172","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2336737,"name:xx":"Fourche a Loupe Creek"}}
+{
+  "id": 2336737,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336737",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336737,
+    "tgn:name":"Fourche a Loupe Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.2,34.35],"type":"Point"}
+}

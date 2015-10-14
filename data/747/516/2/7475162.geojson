@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.866667,24.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7475162","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475162,"name:xx":"Touwu Xiang"}}
+{
+  "id": 7475162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475162",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475162,
+    "tgn:name":"Touwu Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.866667,24.566667],"type":"Point"}
+}

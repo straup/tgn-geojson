@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.900000,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2257891","tgn:1000001","tgn:2000687","tgn:7012149","tgn:7007254","tgn:7029392"],"placetype":["aat:300006191"],"id":2257891,"name:xx":"Corrigan Lake"}}
+{
+  "id": 2257891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257891",
+        "tgn:1000001",
+        "tgn:2000687",
+        "tgn:7012149",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257891,
+    "tgn:name":"Corrigan Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9,38.1667],"type":"Point"}
+}

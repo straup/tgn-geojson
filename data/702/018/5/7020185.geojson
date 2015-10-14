@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.633300,34.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7020185","tgn:1000001","tgn:2001485","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008905"],"id":7020185,"name:xx":"Briery Bay"}}
+{
+  "id": 7020185,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020185",
+        "tgn:1000001",
+        "tgn:2001485",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020185,
+    "tgn:name":"Briery Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6333,34.1],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.783300,24.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2331729","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2331729,"name:xx":"Fleming Key"}}
+{
+  "id": 2331729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331729",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331729,
+    "tgn:name":"Fleming Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7833,24.5667],"type":"Point"}
+}

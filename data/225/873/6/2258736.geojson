@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.550000,40.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2258736","tgn:1000001","tgn:7012149","tgn:2002115","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2258736,"name:xx":"Cottonwood Canyon"}}
+{
+  "id": 2258736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258736",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002115",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258736,
+    "tgn:name":"Cottonwood Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.55,40.9],"type":"Point"}
+}

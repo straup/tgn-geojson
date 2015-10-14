@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.233300,39.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2150667","tgn:1000001","tgn:7012149","tgn:2002275","tgn:7013961","tgn:7029392"],"placetype":["aat:300008347"],"id":2150667,"name:xx":"Basnettville"}}
+{
+  "id": 2150667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150667",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002275",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150667,
+    "tgn:name":"Basnettville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2333,39.5833],"type":"Point"}
+}

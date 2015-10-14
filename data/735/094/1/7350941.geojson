@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.450000,27.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7350941","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350941,"name:xx":"Baj\u00edo de Sasog\u00fc\u00edchic"}}
+{
+  "id": 7350941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350941",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350941,
+    "tgn:name":"Baj\u00edo de Sasog\u00fc\u00edchic",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.45,27.866667],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1002001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1002001",
+        "tgn:1000047",
+        "tgn:7002456",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1002001,
+    "tgn:name":"Roraima",
+    "tgn:placetype":[
+        "aat:300008631",
+        "aat:300008869",
+        "aat:300387064",
+        "aat:300000776",
+        "aat:300135982"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.0,1.0],"type":"Point"}
+}

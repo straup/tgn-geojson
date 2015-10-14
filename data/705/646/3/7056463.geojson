@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.800000,40.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7056463","tgn:7003005","tgn:7003014","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056463,"name:xx":"Mercatello"}}
+{
+  "id": 7056463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056463",
+        "tgn:7003005",
+        "tgn:7003014",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056463,
+    "tgn:name":"Mercatello",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.8,40.65],"type":"Point"}
+}

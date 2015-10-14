@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.766700,32.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2408249","tgn:1000001","tgn:2001435","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2408249,"name:xx":"Hurtt Tank"}}
+{
+  "id": 2408249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408249",
+        "tgn:1000001",
+        "tgn:2001435",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408249,
+    "tgn:name":"Hurtt Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.7667,32.6833],"type":"Point"}
+}

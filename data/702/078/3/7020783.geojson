@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.766700,38.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7020783","tgn:1000001","tgn:7016098","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":7020783,"name:xx":"Nelsons Run"}}
+{
+  "id": 7020783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020783",
+        "tgn:1000001",
+        "tgn:7016098",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020783,
+    "tgn:name":"Nelsons Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.7667,38.3333],"type":"Point"}
+}

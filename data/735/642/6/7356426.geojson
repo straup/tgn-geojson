@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.633333,31.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7356426","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300185707"],"id":7356426,"name:xx":"Cerro Prieto, Estero de"}}
+{
+  "id": 7356426,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356426",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356426,
+    "tgn:name":"Cerro Prieto, Estero de",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.633333,31.433333],"type":"Point"}
+}

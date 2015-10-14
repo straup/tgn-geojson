@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.316667,28.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7355300","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7355300,"name:xx":"Cebollita, Sierra de la"}}
+{
+  "id": 7355300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355300",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355300,
+    "tgn:name":"Cebollita, Sierra de la",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.316667,28.066667],"type":"Point"}
+}

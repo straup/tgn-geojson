@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-74.000000,41.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7022576","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":7022576,"name:xx":"Collaberg Mountain"}}
+{
+  "id": 7022576,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022576",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022576,
+    "tgn:name":"Collaberg Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0,41.2167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.383333,50.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7110306","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110306,"name:xx":"Rauschenhof"}}
+{
+  "id": 7110306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110306",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110306,
+    "tgn:name":"Rauschenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.383333,50.366667],"type":"Point"}
+}

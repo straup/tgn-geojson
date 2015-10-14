@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.283300,33.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7021740","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021740,"name:xx":"Ballington Pond"}}
+{
+  "id": 7021740,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021740",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021740,
+    "tgn:name":"Ballington Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2833,33.85],"type":"Point"}
+}

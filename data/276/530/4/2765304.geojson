@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.016700,38.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2765304","tgn:1000001","tgn:7012149","tgn:1002598","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2765304,"name:xx":"Whitcomb Branch"}}
+{
+  "id": 2765304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765304",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002598",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765304,
+    "tgn:name":"Whitcomb Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0167,38.9667],"type":"Point"}
+}

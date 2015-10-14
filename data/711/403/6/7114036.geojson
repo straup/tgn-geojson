@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.350000,51.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7114036","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7114036,"name:xx":"R\u00f6nhagen-Heide"}}
+{
+  "id": 7114036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114036",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114036,
+    "tgn:name":"R\u00f6nhagen-Heide",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.35,51.716667],"type":"Point"}
+}

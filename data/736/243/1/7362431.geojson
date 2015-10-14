@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.300000,28.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7362431","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362431,"name:xx":"Rancho El Macho"}}
+{
+  "id": 7362431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362431",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362431,
+    "tgn:name":"Rancho El Macho",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3,28.4],"type":"Point"}
+}

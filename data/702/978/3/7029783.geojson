@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.118000,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7029783","tgn:1000003","tgn:7002877","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466","aat:300006891"],"id":7029783,"name:xx":"Lisle"}}
+{
+  "id": 7029783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029783",
+        "tgn:1000003",
+        "tgn:7002877",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029783,
+    "tgn:name":"Lisle",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466",
+        "aat:300006891"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.118,47.85],"type":"Point"}
+}

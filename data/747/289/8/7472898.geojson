@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.556175,23.655931]},"type":"Feature","properties":{"hierarchy":["tgn:7472898","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7472898,"name:xx":"Tongliang Yugang"}}
+{
+  "id": 7472898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472898",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472898,
+    "tgn:name":"Tongliang Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.556175,23.655931],"type":"Point"}
+}

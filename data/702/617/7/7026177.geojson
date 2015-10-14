@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[0.966700,51.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7026177","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387238","aat:300387249"],"id":7026177,"name:ang":"Meresaila"}}
+{
+  "id": 7026177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026177",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026177,
+    "tgn:name:ang":"Meresaila",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387238",
+        "aat:300387249"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.9667,51.7833],"type":"Point"}
+}

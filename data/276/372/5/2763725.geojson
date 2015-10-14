@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.150000,28.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2763725","tgn:1000001","tgn:7012149","tgn:1002881","tgn:7007240","tgn:7029392"],"placetype":["aat:300008706"],"id":2763725,"name:xx":"Wharf Creek"}}
+{
+  "id": 2763725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002881",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763725,
+    "tgn:name":"Wharf Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.15,28.7333],"type":"Point"}
+}

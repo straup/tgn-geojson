@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.283300,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021905","tgn:1000001","tgn:7012149","tgn:2001217","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021905,"name:xx":"Mine La Motte Lake"}}
+{
+  "id": 7021905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021905",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001217",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021905,
+    "tgn:name":"Mine La Motte Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.2833,37.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.533333,40.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7055658","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055658,"name:xx":"Minore, Riu"}}
+{
+  "id": 7055658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055658",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055658,
+    "tgn:name":"Minore, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.533333,40.633333],"type":"Point"}
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7001923,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001923",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001828",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001923,
+    "tgn:name":"Sydney",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387235",
+        "aat:300387220",
+        "aat:300387318",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[151.1667,-33.9167],"type":"Point"}
+}

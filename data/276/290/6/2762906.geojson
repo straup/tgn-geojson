@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.100000,46.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2762906","tgn:1000001","tgn:7012149","tgn:1002418","tgn:7007920","tgn:7029392"],"placetype":["aat:300132316"],"id":2762906,"name:xx":"Westhaven Cove"}}
+{
+  "id": 2762906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762906",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002418",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762906,
+    "tgn:name":"Westhaven Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1,46.9],"type":"Point"}
+}

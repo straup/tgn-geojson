@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.133333,38.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7054799","tgn:7024841","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054799,"name:xx":"Ovile la Marina"}}
+{
+  "id": 7054799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054799",
+        "tgn:7024841",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054799,
+    "tgn:name":"Ovile la Marina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.133333,38.966667],"type":"Point"}
+}

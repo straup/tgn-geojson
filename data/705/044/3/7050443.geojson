@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.250000,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7050443","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300386846"],"id":7050443,"name:xx":"Massullo, Punta"}}
+{
+  "id": 7050443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050443",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050443,
+    "tgn:name":"Massullo, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.25,40.55],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1048257,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f27030-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744171",
+        "gp:id":15000567,
+        "qs:id":6,
+        "wof:id":101754869
+    },
+    "tgn:hierarchy":[
+        "tgn:1048257",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048257,
+    "tgn:name":"Wormerveer",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.7833,52.5],"type":"Point"}
+}

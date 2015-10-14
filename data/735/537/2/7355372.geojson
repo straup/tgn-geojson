@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.000000,32.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7355372","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355372,"name:xx":"Cheque N\u00famero"}}
+{
+  "id": 7355372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355372",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355372,
+    "tgn:name":"Cheque N\u00famero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.0,32.033333],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7018040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7018040",
+        "tgn:1000004",
+        "tgn:7005232",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7018040,
+    "tgn:name:en":"Canton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387253",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[113.3333,23.1333],"type":"Point"}
+}

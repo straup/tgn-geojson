@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.200000,40.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2158335","tgn:1000001","tgn:2000589","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300008347"],"id":2158335,"name:xx":"Beaverdale"}}
+{
+  "id": 2158335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158335",
+        "tgn:1000001",
+        "tgn:2000589",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158335,
+    "tgn:name":"Beaverdale",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2,40.8333],"type":"Point"}
+}

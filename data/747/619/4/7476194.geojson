@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.743500,23.864900]},"type":"Feature","properties":{"hierarchy":["tgn:7476194","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476194,"name:xx":"Dongtie"}}
+{
+  "id": 7476194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476194",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476194,
+    "tgn:name":"Dongtie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7435,23.8649],"type":"Point"}
+}

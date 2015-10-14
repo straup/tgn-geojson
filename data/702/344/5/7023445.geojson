@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.383300,30.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7023445","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008791"],"id":7023445,"name:xx":"South Rigolets Island"}}
+{
+  "id": 7023445,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023445",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023445,
+    "tgn:name":"South Rigolets Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.3833,30.35],"type":"Point"}
+}

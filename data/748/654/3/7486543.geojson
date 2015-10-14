@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.529825,24.418064]},"type":"Feature","properties":{"hierarchy":["tgn:7486543","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486543,"name:xx":"Labawan Xi"}}
+{
+  "id": 7486543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486543",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486543,
+    "tgn:name":"Labawan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.529825,24.418064],"type":"Point"}
+}

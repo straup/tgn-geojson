@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.216700,33.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2407874","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000036","tgn:7029392"],"placetype":["aat:300008706"],"id":2407874,"name:xx":"Hurricane Creek"}}
+{
+  "id": 2407874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407874",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000036",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407874,
+    "tgn:name":"Hurricane Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.2167,33.4833],"type":"Point"}
+}

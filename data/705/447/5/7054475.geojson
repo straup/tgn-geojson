@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.500000,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7054475","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054475,"name:xx":"Moneta, Monte"}}
+{
+  "id": 7054475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054475",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054475,
+    "tgn:name":"Moneta, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.5,41.25],"type":"Point"}
+}

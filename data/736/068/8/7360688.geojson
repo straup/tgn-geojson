@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.733333,30.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7360688","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7360688,"name:xx":"Copercuin, Sierra"}}
+{
+  "id": 7360688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360688",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360688,
+    "tgn:name":"Copercuin, Sierra",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.733333,30.416667],"type":"Point"}
+}

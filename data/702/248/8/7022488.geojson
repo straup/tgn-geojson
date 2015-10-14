@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.333300,34.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7022488","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022488,"name:xx":"Yonah Lake"}}
+{
+  "id": 7022488,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022488",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022488,
+    "tgn:name":"Yonah Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3333,34.6667],"type":"Point"}
+}

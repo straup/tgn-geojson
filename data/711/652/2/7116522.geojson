@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.733333,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7116522","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7116522,"name:xx":"Oberwald"}}
+{
+  "id": 7116522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116522",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116522,
+    "tgn:name":"Oberwald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.733333,51.233333],"type":"Point"}
+}

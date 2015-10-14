@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.883333,20.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7367786","tgn:1000001","tgn:7005593","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367786,"name:xx":"Ezequiel Montes"}}
+{
+  "id": 7367786,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367786",
+        "tgn:1000001",
+        "tgn:7005593",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367786,
+    "tgn:name":"Ezequiel Montes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.883333,20.666667],"type":"Point"}
+}

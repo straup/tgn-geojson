@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.666700,43.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2400050","tgn:1000001","tgn:2000458","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2400050,"name:xx":"Horse Creek"}}
+{
+  "id": 2400050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400050",
+        "tgn:1000001",
+        "tgn:2000458",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400050,
+    "tgn:name":"Horse Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6667,43.9],"type":"Point"}
+}

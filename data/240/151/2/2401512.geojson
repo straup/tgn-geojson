@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.233300,48.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2401512","tgn:1000001","tgn:7012149","tgn:2001295","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2401512,"name:xx":"Horseshoe Coulee"}}
+{
+  "id": 2401512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401512",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001295",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401512,
+    "tgn:name":"Horseshoe Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2333,48.85],"type":"Point"}
+}

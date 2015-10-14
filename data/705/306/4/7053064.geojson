@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.033333,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7053064","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008057"],"id":7053064,"name:xx":"Patamia"}}
+{
+  "id": 7053064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053064",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053064,
+    "tgn:name":"Patamia",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.033333,38.15],"type":"Point"}
+}

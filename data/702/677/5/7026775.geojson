@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.050000,51.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7026775","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026775,"name:xx":"Winstone"}}
+{
+  "id": 7026775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026775",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026775,
+    "tgn:name":"Winstone",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.05,51.7833],"type":"Point"}
+}

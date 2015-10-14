@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.116700,47.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023507","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008178","aat:300387324"],"id":7023507,"name:xx":"Muckleshoot Indian Reservation"}}
+{
+  "id": 7023507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023507",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023507,
+    "tgn:name":"Muckleshoot Indian Reservation",
+    "tgn:placetype":[
+        "aat:300008178",
+        "aat:300387324"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.1167,47.2333],"type":"Point"}
+}

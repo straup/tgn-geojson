@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.300000,24.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7369215","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387057"],"id":7369215,"name:xx":"Guadalupe, Boca de"}}
+{
+  "id": 7369215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369215",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369215,
+    "tgn:name":"Guadalupe, Boca de",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3,24.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.800000,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2156244","tgn:1000001","tgn:7012149","tgn:2001067","tgn:7007521","tgn:7029392"],"placetype":["aat:300008791"],"id":2156244,"name:xx":"Beargrease Island"}}
+{
+  "id": 2156244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156244",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001067",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156244,
+    "tgn:name":"Beargrease Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.8,47.85],"type":"Point"}
+}

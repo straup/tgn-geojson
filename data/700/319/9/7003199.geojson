@@ -1,0 +1,26 @@
+{
+  "id": 7003199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003199",
+        "tgn:7003026",
+        "tgn:1000003",
+        "tgn:1000062",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003199,
+    "tgn:name":"Linz",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387238",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387221",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.3,48.3167],"type":"Point"}
+}

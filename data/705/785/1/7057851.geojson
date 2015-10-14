@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.350000,44.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7057851","tgn:7003127","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057851,"name:xx":"Argelato"}}
+{
+  "id": 7057851,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057851",
+        "tgn:7003127",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057851,
+    "tgn:name":"Argelato",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.35,44.633333],"type":"Point"}
+}

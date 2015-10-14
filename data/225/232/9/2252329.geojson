@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.116700,33.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2252329","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2252329,"name:xx":"Congaree Gardens"}}
+{
+  "id": 2252329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252329",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252329,
+    "tgn:name":"Congaree Gardens",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1167,33.8833],"type":"Point"}
+}

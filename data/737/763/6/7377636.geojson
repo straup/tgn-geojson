@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.766667,30.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7377636","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377636,"name:xx":"Rancho Las Caba\u00f1as"}}
+{
+  "id": 7377636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377636",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377636,
+    "tgn:name":"Rancho Las Caba\u00f1as",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.766667,30.533333],"type":"Point"}
+}

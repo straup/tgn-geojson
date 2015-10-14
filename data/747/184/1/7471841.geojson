@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.742971,24.220149]},"type":"Feature","properties":{"hierarchy":["tgn:7471841","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7471841,"name:xx":"Juxing Shan"}}
+{
+  "id": 7471841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471841",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471841,
+    "tgn:name":"Juxing Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.742971,24.220149],"type":"Point"}
+}

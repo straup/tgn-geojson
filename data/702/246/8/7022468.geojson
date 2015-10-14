@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-98.966700,39.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022468","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022468,"name:xx":"Calumet Creek"}}
+{
+  "id": 7022468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022468",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022468,
+    "tgn:name":"Calumet Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.9667,39.9833],"type":"Point"}
+}

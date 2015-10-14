@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.933300,33.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2709056","tgn:1000001","tgn:7012149","tgn:2002017","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2709056,"name:xx":"T-O Creek"}}
+{
+  "id": 2709056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2709056",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002017",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2709056,
+    "tgn:name":"T-O Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9333,33.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.850000,33.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2331929","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002748","tgn:7029392"],"placetype":["aat:300006191"],"id":2331929,"name:xx":"Fletcher Retarding Basin"}}
+{
+  "id": 2331929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331929",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002748",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331929,
+    "tgn:name":"Fletcher Retarding Basin",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.85,33.8167],"type":"Point"}
+}

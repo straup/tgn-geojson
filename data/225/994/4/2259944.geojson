@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.616700,35.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2259944","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2259944,"name:xx":"Coulter Mountain"}}
+{
+  "id": 2259944,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259944",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259944,
+    "tgn:name":"Coulter Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6167,35.0],"type":"Point"}
+}

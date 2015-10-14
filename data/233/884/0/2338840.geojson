@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.750000,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2338840","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000185","tgn:7029392"],"placetype":["aat:300132451"],"id":2338840,"name:xx":"Frank and Bess Smithe Redwood Grove"}}
+{
+  "id": 2338840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338840",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000185",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338840,
+    "tgn:name":"Frank and Bess Smithe Redwood Grove",
+    "tgn:placetype":[
+        "aat:300132451"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.75,39.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.583333,23.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7366787","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366787,"name:xx":"El Plan"}}
+{
+  "id": 7366787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366787",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366787,
+    "tgn:name":"El Plan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.583333,23.416667],"type":"Point"}
+}

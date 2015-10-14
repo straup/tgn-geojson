@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.433333,42.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7054602","tgn:7003171","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054602,"name:xx":"Lombrica, Monte"}}
+{
+  "id": 7054602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054602",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054602,
+    "tgn:name":"Lombrica, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.433333,42.316667],"type":"Point"}
+}

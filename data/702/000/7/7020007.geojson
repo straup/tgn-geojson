@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-78.783300,39.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7020007","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7020007,"name:xx":"Little Allegheny Mountain"}}
+{
+  "id": 7020007,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020007",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020007,
+    "tgn:name":"Little Allegheny Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7833,39.75],"type":"Point"}
+}

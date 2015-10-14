@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.600000,50.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7249401","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7249401,"name:xx":"Monnaartbeek"}}
+{
+  "id": 7249401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249401",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249401,
+    "tgn:name":"Monnaartbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.6,50.866667],"type":"Point"}
+}

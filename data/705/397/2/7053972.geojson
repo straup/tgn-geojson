@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.050000,43.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7053972","tgn:1003471","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7053972,"name:xx":"Palente, Rio di"}}
+{
+  "id": 7053972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053972",
+        "tgn:1003471",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053972,
+    "tgn:name":"Palente, Rio di",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.05,43.2],"type":"Point"}
+}

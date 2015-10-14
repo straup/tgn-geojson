@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.300000,16.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7355947","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355947,"name:xx":"Calvario"}}
+{
+  "id": 7355947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355947",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355947,
+    "tgn:name":"Calvario",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.3,16.933333],"type":"Point"}
+}

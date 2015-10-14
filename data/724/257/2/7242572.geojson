@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.845494,50.559601]},"type":"Feature","properties":{"hierarchy":["tgn:7242572","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242572,"name:xx":"Les Bailles"}}
+{
+  "id": 7242572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242572",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242572,
+    "tgn:name":"Les Bailles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.845494,50.559601],"type":"Point"}
+}

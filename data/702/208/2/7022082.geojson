@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.033300,36.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7022082","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300055621","aat:300008761"],"id":7022082,"name:xx":"San Andreas Rift Zone"}}
+{
+  "id": 7022082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022082",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022082,
+    "tgn:name":"San Andreas Rift Zone",
+    "tgn:placetype":[
+        "aat:300055621",
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0333,36.45],"type":"Point"}
+}

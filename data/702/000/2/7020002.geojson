@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-91.650000,37.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7020002","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020002,"name:xx":"Current River"}}
+{
+  "id": 7020002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020002",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020002,
+    "tgn:name":"Current River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.65,37.45],"type":"Point"}
+}

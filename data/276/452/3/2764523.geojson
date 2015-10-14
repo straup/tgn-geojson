@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.283300,40.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2764523","tgn:1000001","tgn:1002184","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2764523,"name:xx":"Whipple Ditch"}}
+{
+  "id": 2764523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764523",
+        "tgn:1000001",
+        "tgn:1002184",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764523,
+    "tgn:name":"Whipple Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2833,40.45],"type":"Point"}
+}

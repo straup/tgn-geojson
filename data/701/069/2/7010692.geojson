@@ -1,0 +1,29 @@
+{
+  "id": 7010692,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010692",
+        "tgn:7002445",
+        "tgn:7019047",
+        "tgn:1000003",
+        "tgn:7029505",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010692,
+    "tgn:name:en":"Sheffield",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300387305",
+        "aat:300387235",
+        "aat:300387220",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.5,53.366667],"type":"Point"}
+}

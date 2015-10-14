@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.276389,23.361667]},"type":"Feature","properties":{"hierarchy":["tgn:7484193","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7484193,"name:xx":"Wujiancuo Qiao"}}
+{
+  "id": 7484193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484193",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484193,
+    "tgn:name":"Wujiancuo Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.276389,23.361667],"type":"Point"}
+}

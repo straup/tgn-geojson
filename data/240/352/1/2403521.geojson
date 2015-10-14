@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.866700,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2403521","tgn:1000001","tgn:7012149","tgn:2000809","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2403521,"name:xx":"Howard Branch"}}
+{
+  "id": 2403521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403521",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000809",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403521,
+    "tgn:name":"Howard Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8667,38.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.200000,44.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2702315","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132316"],"id":2702315,"name:xx":"Sullivan Harbor"}}
+{
+  "id": 2702315,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702315",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702315,
+    "tgn:name":"Sullivan Harbor",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.2,44.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.450000,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2760124","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2760124,"name:xx":"West Fork Plattin Creek"}}
+{
+  "id": 2760124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760124",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760124,
+    "tgn:name":"West Fork Plattin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.45,37.9833],"type":"Point"}
+}

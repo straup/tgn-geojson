@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.766700,47.016700]},"type":"Feature","properties":{"hierarchy":["tgn:7023591","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":7023591,"name:xx":"Noseeum Lake"}}
+{
+  "id": 7023591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023591",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023591,
+    "tgn:name":"Noseeum Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7667,47.0167],"type":"Point"}
+}

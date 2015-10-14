@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.600000,31.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2258249","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000102","tgn:7029392"],"placetype":["aat:300006191"],"id":2258249,"name:xx":"Cott Tank"}}
+{
+  "id": 2258249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258249",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000102",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258249,
+    "tgn:name":"Cott Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6,31.4833],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.066667,52.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7028208","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Weston","id":7028208}}
+{
+  "id": 7028208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028208",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028208,
+    "tgn:name:en":"Weston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.066667,52.8],"type":"Point"}
+}

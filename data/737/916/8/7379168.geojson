@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.200000,19.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7379168","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379168,"name:xx":"Mezcalitos"}}
+{
+  "id": 7379168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379168",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379168,
+    "tgn:name":"Mezcalitos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.2,19.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.133300,34.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2403355","tgn:1000001","tgn:7012149","tgn:2000437","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2403355,"name:xx":"Houston Branch"}}
+{
+  "id": 2403355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403355",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000437",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403355,
+    "tgn:name":"Houston Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1333,34.7],"type":"Point"}
+}

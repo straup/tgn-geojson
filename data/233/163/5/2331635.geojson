@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.066700,42.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2331635","tgn:1000001","tgn:7012149","tgn:1002875","tgn:7007568","tgn:7029392"],"placetype":["aat:300132316"],"id":2331635,"name:xx":"Fleet Cove"}}
+{
+  "id": 2331635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331635",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002875",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331635,
+    "tgn:name":"Fleet Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0667,42.3833],"type":"Point"}
+}

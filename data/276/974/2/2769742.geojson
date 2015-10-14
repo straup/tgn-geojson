@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.283300,44.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2769742","tgn:7013349","tgn:1000001","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2769742,"name:xx":"Wiggler Spring"}}
+{
+  "id": 2769742,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769742",
+        "tgn:7013349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769742,
+    "tgn:name":"Wiggler Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2833,44.6167],"type":"Point"}
+}

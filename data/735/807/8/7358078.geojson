@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.850000,15.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7358078","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7358078,"name:xx":"Cuztepeques, Valle de"}}
+{
+  "id": 7358078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358078",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358078,
+    "tgn:name":"Cuztepeques, Valle de",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.85,15.916667],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-80.050000,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2768286","tgn:7013272","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300387099","aat:300132348"],"id":2768286,"name:xx":"Whites Ripple"}}
+{
+  "id": 2768286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768286",
+        "tgn:7013272",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768286,
+    "tgn:name":"Whites Ripple",
+    "tgn:placetype":[
+        "aat:300387099",
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.05,40.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.016667,19.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7368044","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7368044,"name:xx":"Grande de Morelia, R\u00edo"}}
+{
+  "id": 7368044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368044",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368044,
+    "tgn:name":"Grande de Morelia, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.016667,19.933333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.950000,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7246151","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7246151,"name:xx":"De Vicogne"}}
+{
+  "id": 7246151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246151",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246151,
+    "tgn:name":"De Vicogne",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.95,51.233333],"type":"Point"}
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1000047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000047",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000047,
+    "tgn:name:ar":"\u0627\u0628\u064b\u0631\u0627\u0632\u064b\u064a",
+    "tgn:name:de":"Brasilien",
+    "tgn:name:en":"Brazil",
+    "tgn:name:es":"Brasil",
+    "tgn:name:fr":"Br\u00e9sil",
+    "tgn:name:it":"Brasile",
+    "tgn:name:nl":"Brazili\u00eb",
+    "tgn:name:pt":"Brasil",
+    "tgn:name:ru":"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+    "tgn:name:zh":"\u5df4\u897f",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-55.0,-10.0],"type":"Point"}
+}

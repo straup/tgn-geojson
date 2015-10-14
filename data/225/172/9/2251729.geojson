@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-93.033300,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2251729","tgn:1000001","tgn:7012149","tgn:2001256","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300006036"],"id":2251729,"name:xx":"Compton"}}
+{
+  "id": 2251729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251729",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001256",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251729,
+    "tgn:name":"Compton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300006036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0333,37.2333],"type":"Point"}
+}

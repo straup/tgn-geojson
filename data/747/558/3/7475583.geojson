@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.842996,24.566725]},"type":"Feature","properties":{"hierarchy":["tgn:7475583","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7475583,"name:xx":"Yongle Zhan"}}
+{
+  "id": 7475583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475583",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475583,
+    "tgn:name":"Yongle Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.842996,24.566725],"type":"Point"}
+}

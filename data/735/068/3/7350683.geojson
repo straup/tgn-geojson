@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.800000,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7350683","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350683,"name:xx":"Bagre, Cerro"}}
+{
+  "id": 7350683,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350683",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350683,
+    "tgn:name":"Bagre, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8,32.1],"type":"Point"}
+}

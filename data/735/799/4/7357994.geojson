@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,28.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7357994","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357994,"name:xx":"Curz de San Isidro"}}
+{
+  "id": 7357994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357994",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357994,
+    "tgn:name":"Curz de San Isidro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,28.316667],"type":"Point"}
+}

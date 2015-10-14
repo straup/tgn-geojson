@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.583333,29.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7364470","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364470,"name:xx":"Rancho Fern\u00e1ndez"}}
+{
+  "id": 7364470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364470",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364470,
+    "tgn:name":"Rancho Fern\u00e1ndez",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.583333,29.716667],"type":"Point"}
+}

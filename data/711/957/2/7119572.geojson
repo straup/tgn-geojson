@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.750000,48.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7119572","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7119572,"name:xx":"Pf\u00f6rrerhof"}}
+{
+  "id": 7119572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119572",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119572,
+    "tgn:name":"Pf\u00f6rrerhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.75,48.383333],"type":"Point"}
+}

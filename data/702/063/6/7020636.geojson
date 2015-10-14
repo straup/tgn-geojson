@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.933300,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7020636","tgn:1000001","tgn:7012149","tgn:2001296","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":7020636,"name:xx":"K Canal"}}
+{
+  "id": 7020636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020636",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001296",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020636,
+    "tgn:name":"K Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9333,48.35],"type":"Point"}
+}

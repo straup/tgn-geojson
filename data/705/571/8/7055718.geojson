@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.283333,40.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7055718","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300185707"],"id":7055718,"name:xx":"Levante, Bocca di"}}
+{
+  "id": 7055718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055718",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055718,
+    "tgn:name":"Levante, Bocca di",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.283333,40.833333],"type":"Point"}
+}

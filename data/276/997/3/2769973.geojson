@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.333300,44.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2769973","tgn:1000001","tgn:1002415","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300132316"],"id":2769973,"name:xx":"Wilcox Bay"}}
+{
+  "id": 2769973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769973",
+        "tgn:1000001",
+        "tgn:1002415",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769973,
+    "tgn:name":"Wilcox Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.3333,44.7],"type":"Point"}
+}

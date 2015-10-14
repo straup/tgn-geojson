@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.400000,27.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7363107","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363107,"name:xx":"Rancho El Espiritu"}}
+{
+  "id": 7363107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363107",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363107,
+    "tgn:name":"Rancho El Espiritu",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.4,27.766667],"type":"Point"}
+}

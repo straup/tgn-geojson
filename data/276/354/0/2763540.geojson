@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-123.983300,40.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2763540","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":2763540,"name:xx":"Whale Gulch"}}
+{
+  "id": 2763540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763540",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763540,
+    "tgn:name":"Whale Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.9833,40.0],"type":"Point"}
+}

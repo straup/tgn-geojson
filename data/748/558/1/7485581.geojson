@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.483611,24.152500]},"type":"Feature","properties":{"hierarchy":["tgn:7485581","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7485581,"name:xx":"Quanzhoucuo"}}
+{
+  "id": 7485581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485581",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485581,
+    "tgn:name":"Quanzhoucuo",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.483611,24.1525],"type":"Point"}
+}

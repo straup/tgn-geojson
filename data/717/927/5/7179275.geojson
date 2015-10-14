@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.800000,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7179275","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7179275,"name:xx":"Gschwendt"}}
+{
+  "id": 7179275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179275",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179275,
+    "tgn:name":"Gschwendt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.8,47.75],"type":"Point"}
+}

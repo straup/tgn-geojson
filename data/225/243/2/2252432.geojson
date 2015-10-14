@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,33.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2252432","tgn:2001732","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2252432,"name:xx":"Conifer"}}
+{
+  "id": 2252432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252432",
+        "tgn:2001732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252432,
+    "tgn:name":"Conifer",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,33.15],"type":"Point"}
+}

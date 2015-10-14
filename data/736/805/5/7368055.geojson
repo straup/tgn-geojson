@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.583333,29.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7368055","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368055,"name:xx":"Grande, Sierra"}}
+{
+  "id": 7368055,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368055",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368055,
+    "tgn:name":"Grande, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.583333,29.333333],"type":"Point"}
+}

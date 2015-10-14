@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.783333,41.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7054386","tgn:7004595","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054386,"name:xx":"Pagliara"}}
+{
+  "id": 7054386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054386",
+        "tgn:7004595",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054386,
+    "tgn:name":"Pagliara",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.783333,41.066667],"type":"Point"}
+}

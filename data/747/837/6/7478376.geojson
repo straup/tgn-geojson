@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.579630,23.776366]},"type":"Feature","properties":{"hierarchy":["tgn:7478376","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478376,"name:xx":"Banqiaotou"}}
+{
+  "id": 7478376,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478376",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478376,
+    "tgn:name":"Banqiaotou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.57963,23.776366],"type":"Point"}
+}

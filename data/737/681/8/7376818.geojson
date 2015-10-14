@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.950000,27.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7376818","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376818,"name:xx":"Las Lunas"}}
+{
+  "id": 7376818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376818",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376818,
+    "tgn:name":"Las Lunas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.95,27.116667],"type":"Point"}
+}

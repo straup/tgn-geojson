@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.216700,36.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2335959","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300266640"],"id":2335959,"name:xx":"Fossil Ridge"}}
+{
+  "id": 2335959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335959",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335959,
+    "tgn:name":"Fossil Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.2167,36.4333],"type":"Point"}
+}

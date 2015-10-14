@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.886423,25.060534]},"type":"Feature","properties":{"hierarchy":["tgn:7477837","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7477837,"name:xx":"Tudigong Ling"}}
+{
+  "id": 7477837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477837",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477837,
+    "tgn:name":"Tudigong Ling",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.886423,25.060534],"type":"Point"}
+}

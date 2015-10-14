@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.533300,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2338239","tgn:1000001","tgn:7012149","tgn:2000801","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2338239,"name:xx":"Fox Run"}}
+{
+  "id": 2338239,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338239",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000801",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338239,
+    "tgn:name":"Fox Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.5333,37.2],"type":"Point"}
+}

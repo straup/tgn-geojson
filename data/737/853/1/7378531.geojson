@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.800000,28.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7378531","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378531,"name:xx":"Las Cuchillas, Cerro"}}
+{
+  "id": 7378531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378531",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378531,
+    "tgn:name":"Las Cuchillas, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8,28.966667],"type":"Point"}
+}

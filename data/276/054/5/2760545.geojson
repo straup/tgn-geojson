@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.433300,39.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2760545","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2760545,"name:xx":"West Fork Turman Creek"}}
+{
+  "id": 2760545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760545",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760545,
+    "tgn:name":"West Fork Turman Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.4333,39.2667],"type":"Point"}
+}

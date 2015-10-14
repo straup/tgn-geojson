@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.033300,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7022774","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":7022774,"name:xx":"Wounded Man Creek"}}
+{
+  "id": 7022774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022774",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022774,
+    "tgn:name":"Wounded Man Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0333,45.2333],"type":"Point"}
+}

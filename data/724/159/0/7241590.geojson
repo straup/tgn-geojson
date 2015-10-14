@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.850000,50.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7241590","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7241590,"name:xx":"Ligne, Ruisseau de"}}
+{
+  "id": 7241590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241590",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241590,
+    "tgn:name":"Ligne, Ruisseau de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.85,50.7],"type":"Point"}
+}

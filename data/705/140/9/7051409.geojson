@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.400000,43.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7051409","tgn:7003163","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051409,"name:xx":"La Chiocciola"}}
+{
+  "id": 7051409,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051409",
+        "tgn:7003163",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051409,
+    "tgn:name":"La Chiocciola",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.4,43.7],"type":"Point"}
+}

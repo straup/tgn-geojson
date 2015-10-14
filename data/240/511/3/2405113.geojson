@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.100000,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2405113","tgn:1000001","tgn:7012149","tgn:2001907","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347"],"id":2405113,"name:xx":"Hudsonburg"}}
+{
+  "id": 2405113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405113",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001907",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405113,
+    "tgn:name":"Hudsonburg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1,36.1333],"type":"Point"}
+}

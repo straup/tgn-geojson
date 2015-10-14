@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.866667,52.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7115771","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008901"],"id":7115771,"name:xx":"\u00d6hrenbruch"}}
+{
+  "id": 7115771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115771",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115771,
+    "tgn:name":"\u00d6hrenbruch",
+    "tgn:placetype":[
+        "aat:300008901"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.866667,52.383333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.500000,41.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2767773","tgn:1000001","tgn:2001350","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008680"],"id":2767773,"name:xx":"Whitehead Lake"}}
+{
+  "id": 2767773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767773",
+        "tgn:1000001",
+        "tgn:2001350",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767773,
+    "tgn:name":"Whitehead Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.5,41.9167],"type":"Point"}
+}

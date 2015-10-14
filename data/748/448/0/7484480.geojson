@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.712500,24.286111]},"type":"Feature","properties":{"hierarchy":["tgn:7484480","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7484480,"name:xx":"Jiushe Ti"}}
+{
+  "id": 7484480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484480",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484480,
+    "tgn:name":"Jiushe Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7125,24.286111],"type":"Point"}
+}

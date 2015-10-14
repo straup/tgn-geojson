@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.716700,30.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2152176","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300132316"],"id":2152176,"name:xx":"Bay A'Bot"}}
+{
+  "id": 2152176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152176",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152176,
+    "tgn:name":"Bay A'Bot",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7167,30.3],"type":"Point"}
+}

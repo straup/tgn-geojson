@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.416667,44.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7055514","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008760"],"id":7055514,"name:xx":"Po, Delta del"}}
+{
+  "id": 7055514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055514",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055514,
+    "tgn:name":"Po, Delta del",
+    "tgn:placetype":[
+        "aat:300008760"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.416667,44.95],"type":"Point"}
+}

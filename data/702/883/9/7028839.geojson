@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.933333,53.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7028839","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028839,"name:xx":"East Cottingwith"}}
+{
+  "id": 7028839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028839",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028839,
+    "tgn:name":"East Cottingwith",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.933333,53.866667],"type":"Point"}
+}

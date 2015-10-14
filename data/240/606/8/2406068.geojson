@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.366700,40.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2406068","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000187","tgn:7029392"],"placetype":["aat:300008798"],"id":2406068,"name:xx":"Humbug Summit"}}
+{
+  "id": 2406068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406068",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000187",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406068,
+    "tgn:name":"Humbug Summit",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3667,40.1],"type":"Point"}
+}

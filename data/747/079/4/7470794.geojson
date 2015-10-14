@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.596943,23.737479]},"type":"Feature","properties":{"hierarchy":["tgn:7470794","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7470794,"name:xx":"Xiqian Shan"}}
+{
+  "id": 7470794,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470794",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470794,
+    "tgn:name":"Xiqian Shan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.596943,23.737479],"type":"Point"}
+}

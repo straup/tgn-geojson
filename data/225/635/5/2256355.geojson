@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.850000,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2256355","tgn:1000001","tgn:7012149","tgn:1002557","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2256355,"name:xx":"Coppes Ditch"}}
+{
+  "id": 2256355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256355",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002557",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256355,
+    "tgn:name":"Coppes Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.85,41.3833],"type":"Point"}
+}

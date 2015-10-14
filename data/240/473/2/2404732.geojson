@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.866700,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2404732","tgn:1000001","tgn:1002222","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2404732,"name:xx":"Huckleberry Drain"}}
+{
+  "id": 2404732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404732",
+        "tgn:1000001",
+        "tgn:1002222",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404732,
+    "tgn:name":"Huckleberry Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8667,42.1833],"type":"Point"}
+}

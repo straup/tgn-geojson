@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.833300,41.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2761591","tgn:1000001","tgn:1002712","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008798"],"id":2761591,"name:xx":"West Peak"}}
+{
+  "id": 2761591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761591",
+        "tgn:1000001",
+        "tgn:1002712",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761591,
+    "tgn:name":"West Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8333,41.55],"type":"Point"}
+}

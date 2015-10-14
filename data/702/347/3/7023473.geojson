@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-90.250000,38.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7023473","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023473,"name:xx":"Morrison Hollow"}}
+{
+  "id": 7023473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023473,
+    "tgn:name":"Morrison Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.25,38.05],"type":"Point"}
+}

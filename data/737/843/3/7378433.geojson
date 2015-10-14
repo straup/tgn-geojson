@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.415000,24.918056]},"type":"Feature","properties":{"hierarchy":["tgn:7378433","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378433,"name:xx":"La Pirinola"}}
+{
+  "id": 7378433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378433",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378433,
+    "tgn:name":"La Pirinola",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.415,24.918056],"type":"Point"}
+}

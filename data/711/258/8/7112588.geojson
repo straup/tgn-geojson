@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.183333,51.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7112588","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7112588,"name:xx":"Rhedaer Bach"}}
+{
+  "id": 7112588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112588",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112588,
+    "tgn:name":"Rhedaer Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.183333,51.966667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.900000,39.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2332893","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":2332893,"name:xx":"Flu Knoll Reservoir"}}
+{
+  "id": 2332893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332893",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332893,
+    "tgn:name":"Flu Knoll Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9,39.9833],"type":"Point"}
+}

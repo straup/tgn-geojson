@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.683300,41.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7021581","tgn:1000001","tgn:7012149","tgn:1002357","tgn:7007706","tgn:7029392"],"placetype":["aat:300008678"],"id":7021581,"name:xx":"Saddler Sailing Basin"}}
+{
+  "id": 7021581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021581",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002357",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021581,
+    "tgn:name":"Saddler Sailing Basin",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6833,41.45],"type":"Point"}
+}

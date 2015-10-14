@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.533056,23.163333]},"type":"Feature","properties":{"hierarchy":["tgn:7483258","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483258,"name:xx":"Mazhuhu Qiao"}}
+{
+  "id": 7483258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483258",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483258,
+    "tgn:name":"Mazhuhu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.533056,23.163333],"type":"Point"}
+}

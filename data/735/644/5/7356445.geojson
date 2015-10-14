@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.816667,22.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7356445","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356445,"name:xx":"Cerro Prieto"}}
+{
+  "id": 7356445,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356445",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356445,
+    "tgn:name":"Cerro Prieto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.816667,22.816667],"type":"Point"}
+}

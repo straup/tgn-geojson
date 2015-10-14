@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,51.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7244481","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7244481,"name:xx":"Schans van Lauwershoek"}}
+{
+  "id": 7244481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244481",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244481,
+    "tgn:name":"Schans van Lauwershoek",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,51.133333],"type":"Point"}
+}

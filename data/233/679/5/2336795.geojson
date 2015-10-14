@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-74.700000,43.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2336795","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2336795,"name:xx":"Fourmile Brook"}}
+{
+  "id": 2336795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336795",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336795,
+    "tgn:name":"Fourmile Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7,43.3667],"type":"Point"}
+}

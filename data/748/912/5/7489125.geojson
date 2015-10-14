@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.421667,23.435000]},"type":"Feature","properties":{"hierarchy":["tgn:7489125","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489125,"name:xx":"Neixizhou"}}
+{
+  "id": 7489125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489125",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489125,
+    "tgn:name":"Neixizhou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.421667,23.435],"type":"Point"}
+}

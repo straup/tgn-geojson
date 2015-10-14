@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.455182,25.032368]},"type":"Feature","properties":{"hierarchy":["tgn:7471480","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7471480,"name:xx":"Xinhai Daqiao"}}
+{
+  "id": 7471480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471480",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471480,
+    "tgn:name":"Xinhai Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.455182,25.032368],"type":"Point"}
+}

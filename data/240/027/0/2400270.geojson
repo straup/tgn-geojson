@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.366700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2400270","tgn:1000001","tgn:2000197","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2400270,"name:xx":"Horse Creek Reservoir Inlet Ditch"}}
+{
+  "id": 2400270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400270",
+        "tgn:1000001",
+        "tgn:2000197",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400270,
+    "tgn:name":"Horse Creek Reservoir Inlet Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.3667,38.1833],"type":"Point"}
+}

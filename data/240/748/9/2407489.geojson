@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.766700,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2407489","tgn:1000001","tgn:2000923","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008798"],"id":2407489,"name:xx":"Hunts Hill"}}
+{
+  "id": 2407489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407489",
+        "tgn:1000001",
+        "tgn:2000923",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407489,
+    "tgn:name":"Hunts Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.7667,44.25],"type":"Point"}
+}

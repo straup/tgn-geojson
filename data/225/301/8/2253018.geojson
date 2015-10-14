@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.633300,39.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2253018","tgn:1000001","tgn:7012149","tgn:1002921","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2253018,"name:xx":"Consolidated Virginia Shaft"}}
+{
+  "id": 2253018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253018",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002921",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253018,
+    "tgn:name":"Consolidated Virginia Shaft",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.6333,39.3],"type":"Point"}
+}

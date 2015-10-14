@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.049478,51.028923]},"type":"Feature","properties":{"hierarchy":["tgn:7244708","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7244708,"name:xx":"Appels Veir"}}
+{
+  "id": 7244708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244708",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244708,
+    "tgn:name":"Appels Veir",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.049478,51.028923],"type":"Point"}
+}

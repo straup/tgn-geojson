@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.233300,30.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2702087","tgn:1000001","tgn:2000260","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2702087,"name:xx":"Suggs Head"}}
+{
+  "id": 2702087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702087",
+        "tgn:1000001",
+        "tgn:2000260",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702087,
+    "tgn:name":"Suggs Head",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2333,30.4667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.500000,25.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7350486","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7350486,"name:xx":"Biznaga, Ca\u00f1\u00f3n de la"}}
+{
+  "id": 7350486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350486",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350486,
+    "tgn:name":"Biznaga, Ca\u00f1\u00f3n de la",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.5,25.733333],"type":"Point"}
+}

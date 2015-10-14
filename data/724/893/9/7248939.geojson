@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.619023,51.177551]},"type":"Feature","properties":{"hierarchy":["tgn:7248939","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7248939,"name:xx":"Fort van Broechem"}}
+{
+  "id": 7248939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248939",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248939,
+    "tgn:name":"Fort van Broechem",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.619023,51.177551],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.551389,23.970000]},"type":"Feature","properties":{"hierarchy":["tgn:7480332","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7480332,"name:xx":"Junren Gongmu"}}
+{
+  "id": 7480332,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480332",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480332,
+    "tgn:name":"Junren Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.551389,23.97],"type":"Point"}
+}

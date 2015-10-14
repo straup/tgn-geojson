@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.850000,22.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7367893","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7367893,"name:xx":"Fanfarr\u00f3n, Cerro"}}
+{
+  "id": 7367893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367893",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367893,
+    "tgn:name":"Fanfarr\u00f3n, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.85,22.083333],"type":"Point"}
+}

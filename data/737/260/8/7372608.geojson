@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.066667,29.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7372608","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372608,"name:xx":"Rancho La Estancia"}}
+{
+  "id": 7372608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372608",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372608,
+    "tgn:name":"Rancho La Estancia",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.066667,29.833333],"type":"Point"}
+}

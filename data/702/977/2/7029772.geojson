@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.050000,43.516000]},"type":"Feature","properties":{"hierarchy":["tgn:7029772","tgn:7002878","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300000642","aat:300007466"],"id":7029772,"name:xx":"Sorde-l'Abbaye"}}
+{
+  "id": 7029772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029772",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029772,
+    "tgn:name":"Sorde-l'Abbaye",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000642",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.05,43.516],"type":"Point"}
+}

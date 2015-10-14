@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.250000,46.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2768768","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2768768,"name:xx":"Whitman, Lake"}}
+{
+  "id": 2768768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768768",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768768,
+    "tgn:name":"Whitman, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.25,46.95],"type":"Point"}
+}

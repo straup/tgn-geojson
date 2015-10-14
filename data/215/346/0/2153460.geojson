@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.133300,47.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2153460","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2153460,"name:xx":"Beane Creek"}}
+{
+  "id": 2153460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153460",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153460,
+    "tgn:name":"Beane Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.1333,47.0333],"type":"Point"}
+}

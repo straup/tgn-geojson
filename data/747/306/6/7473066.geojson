@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.683333,25.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7473066","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473066,"name:xx":"Wudubei"}}
+{
+  "id": 7473066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473066",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473066,
+    "tgn:name":"Wudubei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.683333,25.083333],"type":"Point"}
+}

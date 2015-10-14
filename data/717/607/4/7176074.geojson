@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.450000,51.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7176074","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7176074,"name:xx":"Gro\u00df-Teich"}}
+{
+  "id": 7176074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176074",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176074,
+    "tgn:name":"Gro\u00df-Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.45,51.283333],"type":"Point"}
+}

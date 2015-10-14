@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.183300,42.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2331340","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2331340,"name:xx":"Flatiron Mountain"}}
+{
+  "id": 2331340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331340",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331340,
+    "tgn:name":"Flatiron Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1833,42.1333],"type":"Point"}
+}

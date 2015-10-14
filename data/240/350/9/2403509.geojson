@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.333300,34.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2403509","tgn:1000001","tgn:7012149","tgn:2001524","tgn:7007709","tgn:7029392"],"placetype":["aat:300132316"],"id":2403509,"name:xx":"Howard Bay"}}
+{
+  "id": 2403509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403509",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001524",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403509,
+    "tgn:name":"Howard Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3333,34.55],"type":"Point"}
+}

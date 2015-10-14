@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.600000,39.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2767434","tgn:1002172","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008697"],"id":2767434,"name:xx":"White Sulpher Springs"}}
+{
+  "id": 2767434,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767434",
+        "tgn:1002172",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767434,
+    "tgn:name":"White Sulpher Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6,39.95],"type":"Point"}
+}

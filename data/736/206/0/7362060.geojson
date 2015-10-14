@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.716667,25.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7362060","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362060,"name:xx":"Rancho El Palmito"}}
+{
+  "id": 7362060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362060",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362060,
+    "tgn:name":"Rancho El Palmito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.716667,25.55],"type":"Point"}
+}

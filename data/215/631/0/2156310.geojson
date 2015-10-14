@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.000000,35.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2156310","tgn:1000001","tgn:7012149","tgn:2001851","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2156310,"name:xx":"Bearpen Branch"}}
+{
+  "id": 2156310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156310",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001851",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156310,
+    "tgn:name":"Bearpen Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0,35.7667],"type":"Point"}
+}

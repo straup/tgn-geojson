@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.966667,28.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7361147","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361147,"name:xx":"El Caballito"}}
+{
+  "id": 7361147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361147",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361147,
+    "tgn:name":"El Caballito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.966667,28.05],"type":"Point"}
+}

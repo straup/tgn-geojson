@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.191169,25.014191]},"type":"Feature","properties":{"hierarchy":["tgn:7474296","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474296,"name:xx":"Yuemei Li"}}
+{
+  "id": 7474296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474296",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474296,
+    "tgn:name":"Yuemei Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.191169,25.014191],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.133333,27.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7354089","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7354089,"name:xx":"Chorrera, Sierra la"}}
+{
+  "id": 7354089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354089",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354089,
+    "tgn:name":"Chorrera, Sierra la",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.133333,27.516667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-152.000000,64.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2258102","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008707"],"id":2258102,"name:xx":"Cosna River"}}
+{
+  "id": 2258102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258102",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258102,
+    "tgn:name":"Cosna River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-152.0,64.4],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.250000,24.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7363168","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363168,"name:xx":"El Mezquite"}}
+{
+  "id": 7363168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363168",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363168,
+    "tgn:name":"El Mezquite",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.25,24.9],"type":"Point"}
+}

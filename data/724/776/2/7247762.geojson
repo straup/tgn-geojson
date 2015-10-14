@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.882822,50.834694]},"type":"Feature","properties":{"hierarchy":["tgn:7247762","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247762,"name:xx":"Breissem"}}
+{
+  "id": 7247762,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247762",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247762,
+    "tgn:name":"Breissem",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.882822,50.834694],"type":"Point"}
+}

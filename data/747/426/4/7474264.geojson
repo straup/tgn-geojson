@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.366667,22.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7474264","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7474264,"name:xx":"Ding Shan"}}
+{
+  "id": 7474264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474264",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474264,
+    "tgn:name":"Ding Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.366667,22.35],"type":"Point"}
+}

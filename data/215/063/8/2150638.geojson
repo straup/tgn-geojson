@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.350000,35.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2150638","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300008697"],"id":2150638,"name:xx":"Basket Spring"}}
+{
+  "id": 2150638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150638",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150638,
+    "tgn:name":"Basket Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.35,35.9],"type":"Point"}
+}

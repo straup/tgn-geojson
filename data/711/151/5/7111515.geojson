@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.600000,53.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7111515","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7111515,"name:xx":"Rossower Heide"}}
+{
+  "id": 7111515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111515",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111515,
+    "tgn:name":"Rossower Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.6,53.083333],"type":"Point"}
+}

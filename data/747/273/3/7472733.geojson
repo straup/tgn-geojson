@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.369030,23.985997]},"type":"Feature","properties":{"hierarchy":["tgn:7472733","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7472733,"name:xx":"Lunjiao Paishuigou"}}
+{
+  "id": 7472733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472733",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472733,
+    "tgn:name":"Lunjiao Paishuigou",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.36903,23.985997],"type":"Point"}
+}

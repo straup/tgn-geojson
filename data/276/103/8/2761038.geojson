@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.900000,44.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2761038","tgn:1000001","tgn:1002284","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2761038,"name:xx":"West Kilns"}}
+{
+  "id": 2761038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761038",
+        "tgn:1000001",
+        "tgn:1002284",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761038,
+    "tgn:name":"West Kilns",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9,44.4333],"type":"Point"}
+}

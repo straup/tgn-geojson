@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.566667,25.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7489726","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489726,"name:xx":"Bojiacun"}}
+{
+  "id": 7489726,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489726",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489726,
+    "tgn:name":"Bojiacun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.566667,25.0],"type":"Point"}
+}

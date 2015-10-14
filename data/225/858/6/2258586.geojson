@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-115.866700,40.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2258586","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300387017"],"id":2258586,"name:xx":"Cottonwood"}}
+{
+  "id": 2258586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258586",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258586,
+    "tgn:name":"Cottonwood",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300387017"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8667,40.6333],"type":"Point"}
+}

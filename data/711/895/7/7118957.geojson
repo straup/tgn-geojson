@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.266667,51.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7118957","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118957,"name:xx":"Persel"}}
+{
+  "id": 7118957,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118957",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118957,
+    "tgn:name":"Persel",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.266667,51.683333],"type":"Point"}
+}

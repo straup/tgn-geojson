@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.583300,39.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2152885","tgn:1000001","tgn:7012149","tgn:1002838","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2152885,"name:xx":"Bea Run"}}
+{
+  "id": 2152885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152885",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002838",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152885,
+    "tgn:name":"Bea Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5833,39.65],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-84.816700,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2255251","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2255251,"name:xx":"Cooper Run"}}
+{
+  "id": 2255251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255251",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255251,
+    "tgn:name":"Cooper Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8167,39.2833],"type":"Point"}
+}

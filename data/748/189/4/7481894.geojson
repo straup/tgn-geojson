@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.508806,22.546690]},"type":"Feature","properties":{"hierarchy":["tgn:7481894","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481894,"name:xx":"Minzhi Xi"}}
+{
+  "id": 7481894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481894",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481894,
+    "tgn:name":"Minzhi Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.508806,22.54669],"type":"Point"}
+}

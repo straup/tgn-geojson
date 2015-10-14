@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.050000,53.351000]},"type":"Feature","properties":{"hierarchy":["tgn:7028135","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028135,"name:xx":"Stewton"}}
+{
+  "id": 7028135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028135",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028135,
+    "tgn:name":"Stewton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.05,53.351],"type":"Point"}
+}

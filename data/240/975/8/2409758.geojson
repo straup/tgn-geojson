@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-153.600000,59.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2409758","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2409758,"name:xx":"Iliamna Bay"}}
+{
+  "id": 2409758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409758",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409758,
+    "tgn:name":"Iliamna Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-153.6,59.6333],"type":"Point"}
+}

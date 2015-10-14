@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.580000,51.641667]},"type":"Feature","properties":{"hierarchy":["tgn:7174317","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7174317,"name:xx":"Bahnhof Gro\u00df K\u00f6lzig"}}
+{
+  "id": 7174317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174317",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174317,
+    "tgn:name":"Bahnhof Gro\u00df K\u00f6lzig",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.58,51.641667],"type":"Point"}
+}

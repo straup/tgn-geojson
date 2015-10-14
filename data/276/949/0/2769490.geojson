@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.516700,39.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2769490","tgn:1000001","tgn:7012149","tgn:2000215","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2769490,"name:xx":"Wideawake"}}
+{
+  "id": 2769490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769490",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000215",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769490,
+    "tgn:name":"Wideawake",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.5167,39.85],"type":"Point"}
+}

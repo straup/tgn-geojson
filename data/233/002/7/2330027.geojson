@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.300000,25.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2330027","tgn:1000001","tgn:7012149","tgn:1002314","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2330027,"name:xx":"Flagami"}}
+{
+  "id": 2330027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330027",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002314",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330027,
+    "tgn:name":"Flagami",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3,25.75],"type":"Point"}
+}

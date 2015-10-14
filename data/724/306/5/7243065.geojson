@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.666667,50.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7243065","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243065,"name:xx":"Les Croisettes"}}
+{
+  "id": 7243065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243065",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243065,
+    "tgn:name":"Les Croisettes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.666667,50.55],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.050000,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2336298","tgn:1000001","tgn:7012149","tgn:1002659","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2336298,"name:xx":"Foulk Run"}}
+{
+  "id": 2336298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336298",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002659",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336298,
+    "tgn:name":"Foulk Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.05,41.4833],"type":"Point"}
+}

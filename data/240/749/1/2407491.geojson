@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.833300,42.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2407491","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008791"],"id":2407491,"name:xx":"Hunts Island"}}
+{
+  "id": 2407491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407491",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407491,
+    "tgn:name":"Hunts Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8333,42.8833],"type":"Point"}
+}

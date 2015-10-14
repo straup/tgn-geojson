@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.136328,50.675807]},"type":"Feature","properties":{"hierarchy":["tgn:7246811","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246811,"name:xx":"Croly"}}
+{
+  "id": 7246811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246811",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246811,
+    "tgn:name":"Croly",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.136328,50.675807],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.766700,46.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2252822","tgn:1000001","tgn:2002241","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2252822,"name:xx":"Connors Gulch"}}
+{
+  "id": 2252822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252822",
+        "tgn:1000001",
+        "tgn:2002241",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252822,
+    "tgn:name":"Connors Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7667,46.2333],"type":"Point"}
+}

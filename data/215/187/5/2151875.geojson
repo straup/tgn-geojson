@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.633300,35.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2151875","tgn:1000001","tgn:7012149","tgn:2001451","tgn:7007566","tgn:7029392"],"placetype":["aat:300008798"],"id":2151875,"name:xx":"Battleship Rock"}}
+{
+  "id": 2151875,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151875",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001451",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151875,
+    "tgn:name":"Battleship Rock",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6333,35.8167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.283300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2336483","tgn:1000001","tgn:7012149","tgn:1002350","tgn:7007157","tgn:7029392"],"placetype":["aat:300008798"],"id":2336483,"name:xx":"Four Cornered Peak"}}
+{
+  "id": 2336483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336483",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002350",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336483,
+    "tgn:name":"Four Cornered Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.2833,38.85],"type":"Point"}
+}

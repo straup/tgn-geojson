@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7116046","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116046,"name:xx":"Oberwidmais"}}
+{
+  "id": 7116046,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116046",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116046,
+    "tgn:name":"Oberwidmais",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,48.35],"type":"Point"}
+}

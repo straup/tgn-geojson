@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.416700,45.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2402463","tgn:1000001","tgn:2001261","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2402463,"name:xx":"Hoshow Coulee"}}
+{
+  "id": 2402463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402463",
+        "tgn:1000001",
+        "tgn:2001261",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402463,
+    "tgn:name":"Hoshow Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4167,45.8833],"type":"Point"}
+}

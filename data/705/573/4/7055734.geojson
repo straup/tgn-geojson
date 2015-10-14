@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.400000,41.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7055734","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055734,"name:xx":"Lettica, Colle"}}
+{
+  "id": 7055734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055734",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055734,
+    "tgn:name":"Lettica, Colle",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.4,41.933333],"type":"Point"}
+}

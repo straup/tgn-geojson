@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.716700,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2765059","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300266640"],"id":2765059,"name:xx":"Whisky Ridge"}}
+{
+  "id": 2765059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765059",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765059,
+    "tgn:name":"Whisky Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7167,40.0333],"type":"Point"}
+}

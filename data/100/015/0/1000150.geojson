@@ -1,0 +1,28 @@
+{
+  "id": 1000150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000150",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000150,
+    "tgn:name:ar":"\u0628\u0648\u062c\u0633\u0648\u0627\u0646\u0627",
+    "tgn:name:de":"Botswana",
+    "tgn:name:en":"Botswana",
+    "tgn:name:es":"Botswana",
+    "tgn:name:fr":"Botswana",
+    "tgn:name:ru":"\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+    "tgn:name:zh":"\u535a\u8328\u74e6\u7eb3",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235119"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[24.0,-22.0],"type":"Point"}
+}

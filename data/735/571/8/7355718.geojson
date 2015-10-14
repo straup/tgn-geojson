@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.633333,31.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7355718","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7355718,"name:xx":"Cerezo, Arroyo"}}
+{
+  "id": 7355718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355718",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355718,
+    "tgn:name":"Cerezo, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.633333,31.866667],"type":"Point"}
+}

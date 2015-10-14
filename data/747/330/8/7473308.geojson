@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.538106,24.971059]},"type":"Feature","properties":{"hierarchy":["tgn:7473308","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7473308,"name:xx":"Chongguang N\u00fczhong"}}
+{
+  "id": 7473308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473308",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473308,
+    "tgn:name":"Chongguang N\u00fczhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.538106,24.971059],"type":"Point"}
+}

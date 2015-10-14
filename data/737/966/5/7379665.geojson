@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383333,20.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7379665","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7379665,"name:xx":"Los Di\u00e1bolos"}}
+{
+  "id": 7379665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379665",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379665,
+    "tgn:name":"Los Di\u00e1bolos",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.383333,20.566667],"type":"Point"}
+}

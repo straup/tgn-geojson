@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.916667,45.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7054785","tgn:7003150","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054785,"name:xx":"Ozzero"}}
+{
+  "id": 7054785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054785",
+        "tgn:7003150",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054785,
+    "tgn:name":"Ozzero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.916667,45.366667],"type":"Point"}
+}

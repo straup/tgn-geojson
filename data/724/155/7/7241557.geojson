@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.717595,51.226266]},"type":"Feature","properties":{"hierarchy":["tgn:7241557","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241557,"name:xx":"Kleineheide"}}
+{
+  "id": 7241557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241557",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241557,
+    "tgn:name":"Kleineheide",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.717595,51.226266],"type":"Point"}
+}

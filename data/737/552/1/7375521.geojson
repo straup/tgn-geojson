@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.033333,24.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7375521","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375521,"name:xx":"Liebres"}}
+{
+  "id": 7375521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375521",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375521,
+    "tgn:name":"Liebres",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.033333,24.9],"type":"Point"}
+}

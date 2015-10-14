@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.950000,29.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7371226","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371226,"name:xx":"Rancho Hacebuche"}}
+{
+  "id": 7371226,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371226",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371226,
+    "tgn:name":"Rancho Hacebuche",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.95,29.8],"type":"Point"}
+}

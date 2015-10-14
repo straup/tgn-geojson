@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.616700,40.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2157715","tgn:1000001","tgn:7012149","tgn:1002504","tgn:7007251","tgn:7029392"],"placetype":["aat:300006075"],"id":2157715,"name:xx":"Beaver Ditch Number 2"}}
+{
+  "id": 2157715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157715",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002504",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157715,
+    "tgn:name":"Beaver Ditch Number 2",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6167,40.9],"type":"Point"}
+}

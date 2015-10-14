@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.083333,47.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7171229","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7171229,"name:xx":"Hengelesweiher"}}
+{
+  "id": 7171229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171229",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171229,
+    "tgn:name":"Hengelesweiher",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.083333,47.666667],"type":"Point"}
+}

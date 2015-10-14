@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.500000,27.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7370612","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370612,"name:xx":"Guayavo"}}
+{
+  "id": 7370612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370612",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370612,
+    "tgn:name":"Guayavo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5,27.583333],"type":"Point"}
+}

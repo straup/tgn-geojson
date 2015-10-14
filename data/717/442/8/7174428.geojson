@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.850000,50.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7174428","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7174428,"name:xx":"Groloch-Bach"}}
+{
+  "id": 7174428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174428",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174428,
+    "tgn:name":"Groloch-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.85,50.05],"type":"Point"}
+}

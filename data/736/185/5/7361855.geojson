@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.369444,24.422222]},"type":"Feature","properties":{"hierarchy":["tgn:7361855","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361855,"name:xx":"El Capule"}}
+{
+  "id": 7361855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361855",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361855,
+    "tgn:name":"El Capule",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.369444,24.422222],"type":"Point"}
+}

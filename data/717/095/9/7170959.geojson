@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.300000,53.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7170959","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7170959,"name:xx":"Herzogen Wald"}}
+{
+  "id": 7170959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170959",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170959,
+    "tgn:name":"Herzogen Wald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,53.5],"type":"Point"}
+}

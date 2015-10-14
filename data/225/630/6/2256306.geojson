@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.183300,34.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2256306","tgn:1000001","tgn:7012149","tgn:2001761","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2256306,"name:xx":"Coppermine Branch"}}
+{
+  "id": 2256306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256306",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001761",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256306,
+    "tgn:name":"Coppermine Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1833,34.8333],"type":"Point"}
+}

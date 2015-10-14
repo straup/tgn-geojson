@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.700000,27.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2250651","tgn:1000001","tgn:7012149","tgn:2001977","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2250651,"name:xx":"Colorado Tank"}}
+{
+  "id": 2250651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001977",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250651,
+    "tgn:name":"Colorado Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.7,27.9],"type":"Point"}
+}

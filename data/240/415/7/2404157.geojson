@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.700000,41.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2404157","tgn:1000001","tgn:7012149","tgn:7014612","tgn:7007568","tgn:7029392"],"placetype":["aat:300006191"],"id":2404157,"name:xx":"Howlands Lake"}}
+{
+  "id": 2404157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404157",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014612",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404157,
+    "tgn:name":"Howlands Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7,41.1833],"type":"Point"}
+}

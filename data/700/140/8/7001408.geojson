@@ -1,0 +1,24 @@
+{
+  "id": 7001408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001408",
+        "tgn:7000249",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001408,
+    "tgn:name":"Tel Megiddo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300000835",
+        "aat:300008389"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.1833,32.5833],"type":"Point"}
+}

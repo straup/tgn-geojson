@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.833333,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7051413","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7051413,"name:xx":"Lachesos, Monte"}}
+{
+  "id": 7051413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051413",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051413,
+    "tgn:name":"Lachesos, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.833333,40.55],"type":"Point"}
+}

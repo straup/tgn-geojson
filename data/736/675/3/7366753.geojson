@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383333,19.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7366753","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7366753,"name:xx":"El Rinc\u00f3n"}}
+{
+  "id": 7366753,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366753",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366753,
+    "tgn:name":"El Rinc\u00f3n",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.383333,19.45],"type":"Point"}
+}

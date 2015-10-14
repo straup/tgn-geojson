@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.683300,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2403126","tgn:7014651","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300132316"],"id":2403126,"name:xx":"House Creek"}}
+{
+  "id": 2403126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403126",
+        "tgn:7014651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403126,
+    "tgn:name":"House Creek",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.6833,38.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.883300,46.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7020410","tgn:1000001","tgn:2001573","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300006191"],"id":7020410,"name:xx":"Williams Reservoir"}}
+{
+  "id": 7020410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020410",
+        "tgn:1000001",
+        "tgn:2001573",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020410,
+    "tgn:name":"Williams Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8833,46.6],"type":"Point"}
+}

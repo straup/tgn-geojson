@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.466700,36.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2767243","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2767243,"name:xx":"White Rock Spring"}}
+{
+  "id": 2767243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767243",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767243,
+    "tgn:name":"White Rock Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.4667,36.1667],"type":"Point"}
+}

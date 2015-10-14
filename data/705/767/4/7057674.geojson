@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.366667,46.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7057674","tgn:1003478","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008680"],"id":7057674,"name:xx":"Busin Inferiore, Lago"}}
+{
+  "id": 7057674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057674",
+        "tgn:1003478",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057674,
+    "tgn:name":"Busin Inferiore, Lago",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.366667,46.35],"type":"Point"}
+}

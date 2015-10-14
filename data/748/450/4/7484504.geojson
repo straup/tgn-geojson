@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.606389,23.113611]},"type":"Feature","properties":{"hierarchy":["tgn:7484504","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7484504,"name:xx":"Zhongxing Guoxiao"}}
+{
+  "id": 7484504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484504",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484504,
+    "tgn:name":"Zhongxing Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.606389,23.113611],"type":"Point"}
+}

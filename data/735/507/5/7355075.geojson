@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.650000,29.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7355075","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355075,"name:xx":"Ch\u00e1vez, Sierra de"}}
+{
+  "id": 7355075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355075",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355075,
+    "tgn:name":"Ch\u00e1vez, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.65,29.283333],"type":"Point"}
+}

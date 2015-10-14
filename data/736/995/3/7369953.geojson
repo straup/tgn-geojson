@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.450000,30.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7369953","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7369953,"name:xx":"Hueco, Cerro"}}
+{
+  "id": 7369953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369953",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369953,
+    "tgn:name":"Hueco, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.45,30.883333],"type":"Point"}
+}

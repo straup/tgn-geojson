@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.983300,41.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2409839","tgn:1000001","tgn:7012149","tgn:1002961","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2409839,"name:xx":"Illinois Mountain"}}
+{
+  "id": 2409839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409839",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002961",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409839,
+    "tgn:name":"Illinois Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9833,41.7167],"type":"Point"}
+}

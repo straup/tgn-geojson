@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.050000,37.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2401100","tgn:1000001","tgn:7012149","tgn:2000816","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2401100,"name:xx":"Horseapple Creek"}}
+{
+  "id": 2401100,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401100",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000816",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401100,
+    "tgn:name":"Horseapple Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.05,37.1],"type":"Point"}
+}

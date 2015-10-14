@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.416700,32.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2156699","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000056","tgn:7029392"],"placetype":["aat:300006191"],"id":2156699,"name:xx":"Beasleys Pond"}}
+{
+  "id": 2156699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156699",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156699,
+    "tgn:name":"Beasleys Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4167,32.2167],"type":"Point"}
+}

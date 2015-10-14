@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-82.266700,36.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7022776","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022776,"name:xx":"Deck Ridge"}}
+{
+  "id": 7022776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022776",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022776,
+    "tgn:name":"Deck Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2667,36.5833],"type":"Point"}
+}

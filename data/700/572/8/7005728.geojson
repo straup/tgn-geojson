@@ -1,0 +1,27 @@
+{
+  "id": 7005728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005728",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005728,
+    "tgn:name":"Pinerolo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387240",
+        "aat:300387308",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387267"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.35,44.883333],"type":"Point"}
+}

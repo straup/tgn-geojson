@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[2.500000,45.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7023819","tgn:1000003","tgn:7001095","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7023819,"name:xx":"Bort-les-Orgues"}}
+{
+  "id": 7023819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023819",
+        "tgn:1000003",
+        "tgn:7001095",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023819,
+    "tgn:name":"Bort-les-Orgues",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.5,45.4],"type":"Point"}
+}

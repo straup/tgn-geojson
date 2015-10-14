@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.233300,34.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7021765","tgn:1000001","tgn:7012149","tgn:2001758","tgn:7007712","tgn:7029392"],"placetype":["aat:300008680"],"id":7021765,"name:xx":"Smokey Lake"}}
+{
+  "id": 7021765,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021765",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001758",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021765,
+    "tgn:name":"Smokey Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.2333,34.1],"type":"Point"}
+}

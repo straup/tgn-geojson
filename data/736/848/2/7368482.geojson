@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.316667,23.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7368482","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368482,"name:xx":"Guadalupana, Cerro la"}}
+{
+  "id": 7368482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368482",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368482,
+    "tgn:name":"Guadalupana, Cerro la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.316667,23.883333],"type":"Point"}
+}

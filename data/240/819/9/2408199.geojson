@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.216700,32.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2408199","tgn:1000001","tgn:7012149","tgn:1002492","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2408199,"name:xx":"Hurst Creek"}}
+{
+  "id": 2408199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408199",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002492",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408199,
+    "tgn:name":"Hurst Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.2167,32.95],"type":"Point"}
+}

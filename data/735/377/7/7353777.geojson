@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.250000,29.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7353777","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7353777,"name:xx":"Antonias, Ca\u00f1\u00f3n de las"}}
+{
+  "id": 7353777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353777",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353777,
+    "tgn:name":"Antonias, Ca\u00f1\u00f3n de las",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.25,29.433333],"type":"Point"}
+}

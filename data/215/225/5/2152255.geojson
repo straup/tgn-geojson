@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.666700,29.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2152255","tgn:1000001","tgn:7012149","tgn:2000908","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152255,"name:xx":"Bay Coon Road"}}
+{
+  "id": 2152255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152255",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000908",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152255,
+    "tgn:name":"Bay Coon Road",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6667,29.15],"type":"Point"}
+}

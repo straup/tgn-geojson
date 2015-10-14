@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.183300,37.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2407074","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014004","tgn:7029392"],"placetype":["aat:300008761"],"id":2407074,"name:xx":"Hunter Valley"}}
+{
+  "id": 2407074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407074",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014004",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407074,
+    "tgn:name":"Hunter Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.1833,37.5833],"type":"Point"}
+}

@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[32.592000,25.727000]},"type":"Feature","properties":{"hierarchy":["tgn:7023807","tgn:7001242","tgn:7016833","tgn:7001334","tgn:7029392"],"placetype":["aat:300000810","aat:300387004","aat:300008767","aat:300005926"],"name:en":"Queens, Valley of the","id":7023807}}
+{
+  "id": 7023807,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023807",
+        "tgn:7001242",
+        "tgn:7016833",
+        "tgn:7001334",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023807,
+    "tgn:name:en":"Queens, Valley of the",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300387004",
+        "aat:300008767",
+        "aat:300005926"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.592,25.727],"type":"Point"}
+}

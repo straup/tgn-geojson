@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.733300,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7021401","tgn:1000001","tgn:7012149","tgn:2002110","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":7021401,"name:xx":"Oak Springs"}}
+{
+  "id": 7021401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021401",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002110",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021401,
+    "tgn:name":"Oak Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7333,39.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.473791,25.021483]},"type":"Feature","properties":{"hierarchy":["tgn:7480936","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7480936,"name:xx":"Wusheng Gong"}}
+{
+  "id": 7480936,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480936",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480936,
+    "tgn:name":"Wusheng Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.473791,25.021483],"type":"Point"}
+}

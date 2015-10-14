@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.383300,34.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2256585","tgn:1000001","tgn:7012149","tgn:2001755","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2256585,"name:xx":"Corbitts Millpond"}}
+{
+  "id": 2256585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256585",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001755",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256585,
+    "tgn:name":"Corbitts Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3833,34.1833],"type":"Point"}
+}

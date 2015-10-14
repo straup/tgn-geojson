@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.233300,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7022925","tgn:1000001","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008707"],"id":7022925,"name:xx":"East Branch Chagrin River"}}
+{
+  "id": 7022925,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022925",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022925,
+    "tgn:name":"East Branch Chagrin River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2333,41.5833],"type":"Point"}
+}

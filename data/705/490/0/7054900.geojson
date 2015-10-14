@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.516667,43.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7054900","tgn:7003164","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008777"],"id":7054900,"name:xx":"Molino, Poggio del"}}
+{
+  "id": 7054900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054900",
+        "tgn:7003164",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054900,
+    "tgn:name":"Molino, Poggio del",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.516667,43.016667],"type":"Point"}
+}

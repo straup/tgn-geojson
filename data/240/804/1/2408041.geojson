@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.166700,25.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2408041","tgn:1000001","tgn:7012149","tgn:1002314","tgn:7007240","tgn:7029392"],"placetype":["aat:300008678"],"id":2408041,"name:xx":"Hurricane Harbor"}}
+{
+  "id": 2408041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408041",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002314",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408041,
+    "tgn:name":"Hurricane Harbor",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1667,25.6833],"type":"Point"}
+}

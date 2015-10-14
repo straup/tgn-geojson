@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.990164,24.642434]},"type":"Feature","properties":{"hierarchy":["tgn:7478318","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478318,"name:xx":"Qiedongfu Shan"}}
+{
+  "id": 7478318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478318",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478318,
+    "tgn:name":"Qiedongfu Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.990164,24.642434],"type":"Point"}
+}

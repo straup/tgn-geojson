@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.733333,50.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7025605","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Ilsington","id":7025605}}
+{
+  "id": 7025605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025605",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025605,
+    "tgn:name:en":"Ilsington",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.733333,50.566667],"type":"Point"}
+}

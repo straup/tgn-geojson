@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.533300,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2761398","tgn:1000001","tgn:7012149","tgn:2000217","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":2761398,"name:xx":"West Mountain"}}
+{
+  "id": 2761398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000217",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761398,
+    "tgn:name":"West Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.5333,38.6],"type":"Point"}
+}

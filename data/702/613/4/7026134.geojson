@@ -1,1 +1,26 @@
-{"geometry":{"type":"Point","coordinates":[25.800000,36.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7026134","tgn:7011270","tgn:7002674","tgn:1000003","tgn:7010717","tgn:1000074","tgn:7029392"],"placetype":["aat:300019276","aat:300008347","aat:300000810","aat:300167671","aat:300387315"],"id":7026134,"name:xx":"Markiani"}}
+{
+  "id": 7026134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026134",
+        "tgn:7011270",
+        "tgn:7002674",
+        "tgn:1000003",
+        "tgn:7010717",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026134,
+    "tgn:name":"Markiani",
+    "tgn:placetype":[
+        "aat:300019276",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.8,36.8],"type":"Point"}
+}

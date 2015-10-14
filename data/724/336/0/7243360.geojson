@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.321632,51.189663]},"type":"Feature","properties":{"hierarchy":["tgn:7243360","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7243360,"name:xx":"Fort van Kruibeke"}}
+{
+  "id": 7243360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243360",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243360,
+    "tgn:name":"Fort van Kruibeke",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.321632,51.189663],"type":"Point"}
+}

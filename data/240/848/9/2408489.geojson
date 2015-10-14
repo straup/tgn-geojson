@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.866700,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2408489","tgn:1000001","tgn:2000923","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2408489,"name:xx":"Hutchinson Pond"}}
+{
+  "id": 2408489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408489",
+        "tgn:1000001",
+        "tgn:2000923",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408489,
+    "tgn:name":"Hutchinson Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.8667,44.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.250000,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2769085","tgn:1000001","tgn:2001326","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":2769085,"name:xx":"Whittier Creek"}}
+{
+  "id": 2769085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769085",
+        "tgn:1000001",
+        "tgn:2001326",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769085,
+    "tgn:name":"Whittier Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.25,41.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-134.566700,58.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2151714","tgn:7006450","tgn:1000001","tgn:2124089","tgn:7012149","tgn:7029392"],"placetype":["aat:300008835"],"id":2151714,"name:xx":"Battle Glacier"}}
+{
+  "id": 2151714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151714",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124089",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151714,
+    "tgn:name":"Battle Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-134.5667,58.7167],"type":"Point"}
+}

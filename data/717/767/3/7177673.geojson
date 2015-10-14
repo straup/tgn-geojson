@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.450000,51.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7177673","tgn:1000003","tgn:7003689","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177673,"name:xx":"Gunzelhof"}}
+{
+  "id": 7177673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177673",
+        "tgn:1000003",
+        "tgn:7003689",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177673,
+    "tgn:name":"Gunzelhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.45,51.166667],"type":"Point"}
+}

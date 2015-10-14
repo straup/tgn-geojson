@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.033333,18.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7352661","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352661,"name:xx":"Amatl\u00e1n"}}
+{
+  "id": 7352661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352661",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352661,
+    "tgn:name":"Amatl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.033333,18.966667],"type":"Point"}
+}

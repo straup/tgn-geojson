@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.569964,24.256777]},"type":"Feature","properties":{"hierarchy":["tgn:7471200","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7471200,"name:xx":"Erzi Shan"}}
+{
+  "id": 7471200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471200",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471200,
+    "tgn:name":"Erzi Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.569964,24.256777],"type":"Point"}
+}

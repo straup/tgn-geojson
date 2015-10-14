@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.450000,18.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7376460","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7376460,"name:xx":"La Sabana"}}
+{
+  "id": 7376460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376460",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376460,
+    "tgn:name":"La Sabana",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.45,18.833333],"type":"Point"}
+}

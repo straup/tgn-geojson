@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.222500,24.900833]},"type":"Feature","properties":{"hierarchy":["tgn:7481004","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481004,"name:xx":"Dengtan He"}}
+{
+  "id": 7481004,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481004",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481004,
+    "tgn:name":"Dengtan He",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2225,24.900833],"type":"Point"}
+}

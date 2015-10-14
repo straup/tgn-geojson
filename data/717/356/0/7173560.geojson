@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.213889,52.867500]},"type":"Feature","properties":{"hierarchy":["tgn:7173560","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7173560,"name:xx":"Bahnhof Gr\u00fcneberg"}}
+{
+  "id": 7173560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173560",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173560,
+    "tgn:name":"Bahnhof Gr\u00fcneberg",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.213889,52.8675],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.378333,24.457500]},"type":"Feature","properties":{"hierarchy":["tgn:7486262","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486262,"name:xx":"Xialan"}}
+{
+  "id": 7486262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486262",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486262,
+    "tgn:name":"Xialan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.378333,24.4575],"type":"Point"}
+}

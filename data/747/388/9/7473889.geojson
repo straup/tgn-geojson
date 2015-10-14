@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.605300,23.855400]},"type":"Feature","properties":{"hierarchy":["tgn:7473889","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473889,"name:xx":"Dongyuan Li"}}
+{
+  "id": 7473889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473889",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473889,
+    "tgn:name":"Dongyuan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6053,23.8554],"type":"Point"}
+}

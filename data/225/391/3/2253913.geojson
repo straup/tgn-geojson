@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.216700,43.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2253913","tgn:1000001","tgn:7012149","tgn:2002386","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2253913,"name:xx":"Cooks Spring"}}
+{
+  "id": 2253913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253913",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002386",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253913,
+    "tgn:name":"Cooks Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2167,43.9833],"type":"Point"}
+}

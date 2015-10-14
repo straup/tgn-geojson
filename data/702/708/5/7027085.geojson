@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.883300,52.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7027085","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7027085,"name:xx":"Upper Lye"}}
+{
+  "id": 7027085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027085",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027085,
+    "tgn:name":"Upper Lye",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.8833,52.2833],"type":"Point"}
+}

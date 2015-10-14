@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.957170,23.470019]},"type":"Feature","properties":{"hierarchy":["tgn:7474829","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"name:en":"Yu, Mount","id":7474829}}
+{
+  "id": 7474829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474829",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474829,
+    "tgn:name:en":"Yu, Mount",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.95717,23.470019],"type":"Point"}
+}

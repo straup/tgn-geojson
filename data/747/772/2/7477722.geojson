@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.623210,23.580422]},"type":"Feature","properties":{"hierarchy":["tgn:7477722","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7477722,"name:xx":"Tianjun Dian"}}
+{
+  "id": 7477722,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477722",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477722,
+    "tgn:name":"Tianjun Dian",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.62321,23.580422],"type":"Point"}
+}

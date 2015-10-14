@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.950000,25.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7370713","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7370713,"name:xx":"Gloria"}}
+{
+  "id": 7370713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370713",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370713,
+    "tgn:name":"Gloria",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.95,25.716667],"type":"Point"}
+}

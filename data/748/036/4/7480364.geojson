@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.630853,24.405330]},"type":"Feature","properties":{"hierarchy":["tgn:7480364","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7480364,"name:xx":"Kuinosishe"}}
+{
+  "id": 7480364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480364",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480364,
+    "tgn:name":"Kuinosishe",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.630853,24.40533],"type":"Point"}
+}

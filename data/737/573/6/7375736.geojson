@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.333333,14.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7375736","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375736,"name:xx":"Las Tinajas"}}
+{
+  "id": 7375736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375736",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375736,
+    "tgn:name":"Las Tinajas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.333333,14.716667],"type":"Point"}
+}

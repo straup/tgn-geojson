@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.766667,15.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7359691","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359691,"name:xx":"Dolores Jaltenango"}}
+{
+  "id": 7359691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359691",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359691,
+    "tgn:name":"Dolores Jaltenango",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.766667,15.883333],"type":"Point"}
+}

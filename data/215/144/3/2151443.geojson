@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.350000,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2151443","tgn:1000001","tgn:7012149","tgn:1003005","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2151443,"name:xx":"Batham Drain"}}
+{
+  "id": 2151443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151443",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003005",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151443,
+    "tgn:name":"Batham Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.35,42.1833],"type":"Point"}
+}

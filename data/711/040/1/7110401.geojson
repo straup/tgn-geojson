@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.466667,50.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7110401","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7110401,"name:xx":"Purschensteiner Wald"}}
+{
+  "id": 7110401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110401",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110401,
+    "tgn:name":"Purschensteiner Wald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.466667,50.633333],"type":"Point"}
+}

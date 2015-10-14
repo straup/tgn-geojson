@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.050000,46.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2336324","tgn:1000001","tgn:7012149","tgn:1003042","tgn:7007920","tgn:7029392"],"placetype":["aat:300266640"],"id":2336324,"name:xx":"Foundation Ridge"}}
+{
+  "id": 2336324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336324",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003042",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336324,
+    "tgn:name":"Foundation Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.05,46.5167],"type":"Point"}
+}

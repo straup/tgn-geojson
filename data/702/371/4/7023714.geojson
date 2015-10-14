@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-70.966700,43.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7023714","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7023714,"name:xx":"Province Mountain"}}
+{
+  "id": 7023714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023714",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023714,
+    "tgn:name":"Province Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.9667,43.6667],"type":"Point"}
+}

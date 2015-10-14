@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.250000,45.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2406894","tgn:1000001","tgn:1002270","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2406894,"name:xx":"Hunter Creek"}}
+{
+  "id": 2406894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406894",
+        "tgn:1000001",
+        "tgn:1002270",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406894,
+    "tgn:name":"Hunter Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.25,45.0],"type":"Point"}
+}

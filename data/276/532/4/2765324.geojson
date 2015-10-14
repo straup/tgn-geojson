@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.733300,45.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2765324","tgn:2002240","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008791"],"id":2765324,"name:xx":"Whitcomb Island"}}
+{
+  "id": 2765324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765324",
+        "tgn:2002240",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765324,
+    "tgn:name":"Whitcomb Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.7333,45.8667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.900000,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7053025","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008680"],"id":7053025,"name:xx":"Gurrida, Lago"}}
+{
+  "id": 7053025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053025",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053025,
+    "tgn:name":"Gurrida, Lago",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.9,37.85],"type":"Point"}
+}

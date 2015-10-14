@@ -1,0 +1,27 @@
+{
+  "id": 7007833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007833",
+        "tgn:1000003",
+        "tgn:7024122",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007833,
+    "tgn:name:en":"Warsaw",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.0,52.25],"type":"Point"}
+}

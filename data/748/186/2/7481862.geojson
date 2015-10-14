@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.286667,24.615556]},"type":"Feature","properties":{"hierarchy":["tgn:7481862","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008697"],"id":7481862,"name:xx":"Xiuluan Wenquan"}}
+{
+  "id": 7481862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481862",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481862,
+    "tgn:name":"Xiuluan Wenquan",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.286667,24.615556],"type":"Point"}
+}

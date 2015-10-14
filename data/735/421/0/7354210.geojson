@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.100000,20.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7354210","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7354210,"name:xx":"Chan Halal"}}
+{
+  "id": 7354210,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354210",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354210,
+    "tgn:name":"Chan Halal",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1,20.966667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.900000,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7366890","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7366890,"name:xx":"Espumilla, Arroyo"}}
+{
+  "id": 7366890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366890",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366890,
+    "tgn:name":"Espumilla, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.9,29.4],"type":"Point"}
+}

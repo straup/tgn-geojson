@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.516700,44.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2768780","tgn:1000001","tgn:7012149","tgn:2002381","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2768780,"name:xx":"Whitmeyer Creek"}}
+{
+  "id": 2768780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768780",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002381",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768780,
+    "tgn:name":"Whitmeyer Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.5167,44.75],"type":"Point"}
+}

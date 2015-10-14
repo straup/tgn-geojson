@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.066667,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7056350","tgn:7003137","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056350,"name:xx":"Oiano"}}
+{
+  "id": 7056350,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056350",
+        "tgn:7003137",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056350,
+    "tgn:name":"Oiano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.066667,42.25],"type":"Point"}
+}

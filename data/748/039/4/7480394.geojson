@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.724856,24.421239]},"type":"Feature","properties":{"hierarchy":["tgn:7480394","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480394,"name:xx":"Xuantang Xi"}}
+{
+  "id": 7480394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480394",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480394,
+    "tgn:name":"Xuantang Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.724856,24.421239],"type":"Point"}
+}

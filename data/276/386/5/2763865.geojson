@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.416700,37.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2763865","tgn:1000001","tgn:7012149","tgn:2001203","tgn:7007523","tgn:7029392"],"placetype":["aat:300055621"],"id":2763865,"name:xx":"Wheatland Prairie"}}
+{
+  "id": 2763865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763865",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001203",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763865,
+    "tgn:name":"Wheatland Prairie",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4167,37.9333],"type":"Point"}
+}

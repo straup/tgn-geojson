@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.533300,36.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2761230","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300266640"],"id":2761230,"name:xx":"West Longwell Ridge"}}
+{
+  "id": 2761230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761230",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761230,
+    "tgn:name":"West Longwell Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5333,36.3333],"type":"Point"}
+}

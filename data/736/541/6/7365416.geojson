@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.083333,25.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7365416","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300004792"],"id":7365416,"name:xx":"Cuadrilla de tramo Encantada"}}
+{
+  "id": 7365416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365416",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365416,
+    "tgn:name":"Cuadrilla de tramo Encantada",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.083333,25.283333],"type":"Point"}
+}

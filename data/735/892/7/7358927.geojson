@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.400000,26.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7358927","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7358927,"name:xx":"Rancho Crist\u00f3bal"}}
+{
+  "id": 7358927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358927",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358927,
+    "tgn:name":"Rancho Crist\u00f3bal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4,26.283333],"type":"Point"}
+}

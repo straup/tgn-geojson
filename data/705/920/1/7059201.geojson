@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[40.016000,-3.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7059201","tgn:7001242","tgn:7593770","tgn:1000169","tgn:7029392"],"placetype":["aat:300008347","aat:300008057"],"id":7059201,"name:xx":"Gede Ruins"}}
+{
+  "id": 7059201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059201",
+        "tgn:7001242",
+        "tgn:7593770",
+        "tgn:1000169",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059201,
+    "tgn:name":"Gede Ruins",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[40.016,-3.3],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.316700,41.416700]},"type":"Feature","properties":{"hierarchy":["tgn:7022709","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":7022709,"name:xx":"Wheatgrass Hollow"}}
+{
+  "id": 7022709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022709",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022709,
+    "tgn:name":"Wheatgrass Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3167,41.4167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.866667,19.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7363290","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363290,"name:xx":"El Cerro del Derramadero"}}
+{
+  "id": 7363290,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363290",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363290,
+    "tgn:name":"El Cerro del Derramadero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.866667,19.45],"type":"Point"}
+}

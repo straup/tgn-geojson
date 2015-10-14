@@ -1,0 +1,25 @@
+{
+  "id": 7270242,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2750442",
+        "qs:id":3,
+        "wof:id":101809735
+    },
+    "tgn:hierarchy":[
+        "tgn:7270242",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7270242,
+    "tgn:name:nl":"Neerkant",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.866667,51.366667],"type":"Point"}
+}

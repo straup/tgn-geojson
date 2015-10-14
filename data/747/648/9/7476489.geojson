@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.641056,24.692884]},"type":"Feature","properties":{"hierarchy":["tgn:7476489","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7476489,"name:xx":"Dingcukeng Xi"}}
+{
+  "id": 7476489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476489",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476489,
+    "tgn:name":"Dingcukeng Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.641056,24.692884],"type":"Point"}
+}

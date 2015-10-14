@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.431953,23.055676]},"type":"Feature","properties":{"hierarchy":["tgn:7480273","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480273,"name:xx":"Longzinei"}}
+{
+  "id": 7480273,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480273",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480273,
+    "tgn:name":"Longzinei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.431953,23.055676],"type":"Point"}
+}

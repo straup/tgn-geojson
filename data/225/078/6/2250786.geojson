@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.016700,32.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2250786","tgn:1000001","tgn:7006451","tgn:2000094","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":2250786,"name:xx":"Colter Spring"}}
+{
+  "id": 2250786,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250786",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000094",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250786,
+    "tgn:name":"Colter Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0167,32.7],"type":"Point"}
+}

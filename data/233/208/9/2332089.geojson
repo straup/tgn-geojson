@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.483300,36.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2332089","tgn:1000001","tgn:7012149","tgn:2002180","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2332089,"name:xx":"Flint Hill"}}
+{
+  "id": 2332089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332089",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002180",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332089,
+    "tgn:name":"Flint Hill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.4833,36.7833],"type":"Point"}
+}

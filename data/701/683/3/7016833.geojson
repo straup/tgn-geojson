@@ -1,0 +1,32 @@
+{
+  "id": 7016833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016833",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016833,
+    "tgn:name":"Mi\u1e63r",
+    "tgn:name:ar":"\u0645\u0650\u0635\u0652",
+    "tgn:name:de":"\u00c4gypten",
+    "tgn:name:en":"Egypt",
+    "tgn:name:es":"Egipto",
+    "tgn:name:fr":"\u00c9gypte",
+    "tgn:name:ru":"\u0415\u0433\u0438\u043f\u0435\u0442",
+    "tgn:name:zh":"\u57c3\u53ca",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387053",
+        "aat:300387174",
+        "aat:300387136",
+        "aat:300235119",
+        "aat:300235101"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[30.0,27.0],"type":"Point"}
+}

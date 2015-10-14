@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.216700,37.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2702317","tgn:1000001","tgn:7012149","tgn:2001190","tgn:7007523","tgn:7029392"],"placetype":["aat:300008798"],"id":2702317,"name:xx":"Sullivan Hill"}}
+{
+  "id": 2702317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702317",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001190",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702317,
+    "tgn:name":"Sullivan Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2167,37.7667],"type":"Point"}
+}

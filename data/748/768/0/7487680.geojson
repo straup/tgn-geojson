@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.021389,24.645000]},"type":"Feature","properties":{"hierarchy":["tgn:7487680","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487680,"name:xx":"Liuliao"}}
+{
+  "id": 7487680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487680",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487680,
+    "tgn:name":"Liuliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.021389,24.645],"type":"Point"}
+}

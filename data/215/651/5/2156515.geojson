@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.016700,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2156515","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2156515,"name:xx":"Beartrap Hollow"}}
+{
+  "id": 2156515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156515",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156515,
+    "tgn:name":"Beartrap Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0167,41.0833],"type":"Point"}
+}

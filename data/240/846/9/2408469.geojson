@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.083300,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2408469","tgn:1000001","tgn:7012149","tgn:2000555","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2408469,"name:xx":"Hutchinson Ditch"}}
+{
+  "id": 2408469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408469",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000555",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408469,
+    "tgn:name":"Hutchinson Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.0833,38.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.950000,24.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7350269","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350269,"name:xx":"Aire, Monte del"}}
+{
+  "id": 7350269,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350269",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350269,
+    "tgn:name":"Aire, Monte del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.95,24.45],"type":"Point"}
+}

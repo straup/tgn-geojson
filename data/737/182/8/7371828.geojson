@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.733333,23.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7371828","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7371828,"name:xx":"La Muralla"}}
+{
+  "id": 7371828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371828",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371828,
+    "tgn:name":"La Muralla",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.733333,23.1],"type":"Point"}
+}

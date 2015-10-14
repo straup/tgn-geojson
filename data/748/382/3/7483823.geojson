@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.578333,22.411944]},"type":"Feature","properties":{"hierarchy":["tgn:7483823","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7483823,"name:xx":"Pingnan Gongyequ"}}
+{
+  "id": 7483823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483823",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483823,
+    "tgn:name":"Pingnan Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.578333,22.411944],"type":"Point"}
+}

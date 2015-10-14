@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.116700,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2256216","tgn:1000001","tgn:7012149","tgn:2000820","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2256216,"name:xx":"Copperas Branch"}}
+{
+  "id": 2256216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256216",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000820",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256216,
+    "tgn:name":"Copperas Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1167,37.6],"type":"Point"}
+}

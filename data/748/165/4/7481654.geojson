@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.168056,24.989444]},"type":"Feature","properties":{"hierarchy":["tgn:7481654","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7481654,"name:xx":"Dalun Shan"}}
+{
+  "id": 7481654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481654",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481654,
+    "tgn:name":"Dalun Shan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.168056,24.989444],"type":"Point"}
+}

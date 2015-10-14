@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.650000,28.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2253400","tgn:1000001","tgn:1002473","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2253400,"name:xx":"Cooglers Beach"}}
+{
+  "id": 2253400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253400",
+        "tgn:1000001",
+        "tgn:1002473",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253400,
+    "tgn:name":"Cooglers Beach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.65,28.55],"type":"Point"}
+}

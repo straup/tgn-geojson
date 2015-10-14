@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.833333,25.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7372039","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372039,"name:xx":"Rancho La Muralla"}}
+{
+  "id": 7372039,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372039",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372039,
+    "tgn:name":"Rancho La Muralla",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.833333,25.316667],"type":"Point"}
+}

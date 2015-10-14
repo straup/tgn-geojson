@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.883300,33.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2334588","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000036","tgn:7029392"],"placetype":["aat:300008347"],"id":2334588,"name:xx":"Forestdale by the Brook"}}
+{
+  "id": 2334588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334588",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000036",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334588,
+    "tgn:name":"Forestdale by the Brook",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8833,33.6],"type":"Point"}
+}

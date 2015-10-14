@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.483300,44.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7021352","tgn:1000001","tgn:7012149","tgn:2001064","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":7021352,"name:xx":"DuBon Lake"}}
+{
+  "id": 7021352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021352",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001064",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021352,
+    "tgn:name":"DuBon Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4833,44.45],"type":"Point"}
+}

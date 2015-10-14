@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.800000,34.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2250577","tgn:1000001","tgn:7012149","tgn:2001456","tgn:7007566","tgn:7029392"],"placetype":["aat:300008699"],"id":2250577,"name:xx":"Colorado, Ca\u00f1oncito"}}
+{
+  "id": 2250577,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250577",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001456",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250577,
+    "tgn:name":"Colorado, Ca\u00f1oncito",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8,34.2667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.666700,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2150224","tgn:1000001","tgn:7012149","tgn:2000485","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2150224,"name:xx":"Basco Lake"}}
+{
+  "id": 2150224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150224",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000485",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150224,
+    "tgn:name":"Basco Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6667,43.05],"type":"Point"}
+}

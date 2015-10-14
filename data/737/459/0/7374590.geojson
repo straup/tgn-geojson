@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,26.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7374590","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008679"],"id":7374590,"name:xx":"La Bolsita, Estero"}}
+{
+  "id": 7374590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374590",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374590,
+    "tgn:name":"La Bolsita, Estero",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,26.35],"type":"Point"}
+}

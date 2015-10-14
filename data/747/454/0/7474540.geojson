@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.496111,25.000278]},"type":"Feature","properties":{"hierarchy":["tgn:7474540","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474540,"name:xx":"Yonghe Shi"}}
+{
+  "id": 7474540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474540",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474540,
+    "tgn:name":"Yonghe Shi",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.496111,25.000278],"type":"Point"}
+}

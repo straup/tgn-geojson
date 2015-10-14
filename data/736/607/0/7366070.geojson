@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.000000,31.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7366070","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7366070,"name:xx":"Gallinas, Cerro"}}
+{
+  "id": 7366070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366070",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366070,
+    "tgn:name":"Gallinas, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0,31.216667],"type":"Point"}
+}

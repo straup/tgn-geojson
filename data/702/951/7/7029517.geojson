@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[20.813000,48.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7029517","tgn:7027133","tgn:1000003","tgn:7011765","tgn:7029392"],"placetype":["aat:300008347"],"id":7029517,"name:xx":"Spi\u0161sk\u00e9 Vlachy"}}
+{
+  "id": 7029517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029517",
+        "tgn:7027133",
+        "tgn:1000003",
+        "tgn:7011765",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029517,
+    "tgn:name":"Spi\u0161sk\u00e9 Vlachy",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.813,48.95],"type":"Point"}
+}

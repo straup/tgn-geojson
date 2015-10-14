@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.235273,23.464728]},"type":"Feature","properties":{"hierarchy":["tgn:7481718","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7481718,"name:xx":"Chunqiu Wumiao"}}
+{
+  "id": 7481718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481718",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481718,
+    "tgn:name":"Chunqiu Wumiao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.235273,23.464728],"type":"Point"}
+}

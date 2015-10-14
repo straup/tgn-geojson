@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.300000,30.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7377827","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377827,"name:xx":"Rancho La Plama de B\u00e9jar"}}
+{
+  "id": 7377827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377827",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377827,
+    "tgn:name":"Rancho La Plama de B\u00e9jar",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3,30.05],"type":"Point"}
+}

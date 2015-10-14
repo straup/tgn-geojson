@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.466667,26.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7351769","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351769,"name:xx":"Arroyo del Agua"}}
+{
+  "id": 7351769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351769",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351769,
+    "tgn:name":"Arroyo del Agua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.466667,26.183333],"type":"Point"}
+}

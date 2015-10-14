@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.166700,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7022834","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7022834,"name:xx":"Rito Hondo Reservoir"}}
+{
+  "id": 7022834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022834",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022834,
+    "tgn:name":"Rito Hondo Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1667,37.8833],"type":"Point"}
+}

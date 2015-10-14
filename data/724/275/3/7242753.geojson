@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.425470,50.617402]},"type":"Feature","properties":{"hierarchy":["tgn:7242753","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242753,"name:xx":"Les Cahottes"}}
+{
+  "id": 7242753,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242753",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242753,
+    "tgn:name":"Les Cahottes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.42547,50.617402],"type":"Point"}
+}

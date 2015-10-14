@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.454934,23.121557]},"type":"Feature","properties":{"hierarchy":["tgn:7480293","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7480293,"name:xx":"Yujing"}}
+{
+  "id": 7480293,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480293",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480293,
+    "tgn:name":"Yujing",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.454934,23.121557],"type":"Point"}
+}

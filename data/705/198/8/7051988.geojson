@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.216667,45.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7051988","tgn:1003510","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051988,"name:xx":"Mottalciata"}}
+{
+  "id": 7051988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051988",
+        "tgn:1003510",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051988,
+    "tgn:name":"Mottalciata",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.216667,45.5],"type":"Point"}
+}

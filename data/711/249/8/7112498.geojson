@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.150000,48.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7112498","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7112498,"name:xx":"R\u00f6hlinger Sechta"}}
+{
+  "id": 7112498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112498",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112498,
+    "tgn:name":"R\u00f6hlinger Sechta",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.15,48.916667],"type":"Point"}
+}

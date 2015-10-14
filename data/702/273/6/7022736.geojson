@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.650000,40.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7022736","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300008706"],"id":7022736,"name:xx":"Deadhorse Creek"}}
+{
+  "id": 7022736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022736",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022736,
+    "tgn:name":"Deadhorse Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.65,40.3],"type":"Point"}
+}

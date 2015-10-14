@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.150000,38.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2335022","tgn:1000001","tgn:7012149","tgn:1002350","tgn:7007157","tgn:7029392"],"placetype":["aat:300008680"],"id":2335022,"name:xx":"Forni Lake"}}
+{
+  "id": 2335022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335022",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002350",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335022,
+    "tgn:name":"Forni Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.15,38.8],"type":"Point"}
+}

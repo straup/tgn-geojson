@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[22.649600,40.475278]},"type":"Feature","properties":{"hierarchy":["tgn:7024735","tgn:7001395","tgn:1000003","tgn:1000074","tgn:7029392"],"placetype":["aat:300008699"],"id":7024735,"name:xx":"Aliakmon Potamos"}}
+{
+  "id": 7024735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024735",
+        "tgn:7001395",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024735,
+    "tgn:name":"Aliakmon Potamos",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[22.6496,40.475278],"type":"Point"}
+}

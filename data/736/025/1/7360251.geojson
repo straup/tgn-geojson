@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.950000,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7360251","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360251,"name:xx":"Conisaca, Cerro"}}
+{
+  "id": 7360251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360251",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360251,
+    "tgn:name":"Conisaca, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.95,26.7],"type":"Point"}
+}

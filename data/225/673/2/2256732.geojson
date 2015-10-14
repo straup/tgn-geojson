@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.316700,45.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2256732","tgn:1000001","tgn:2000951","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2256732,"name:xx":"Cordwood Point"}}
+{
+  "id": 2256732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256732",
+        "tgn:1000001",
+        "tgn:2000951",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256732,
+    "tgn:name":"Cordwood Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3167,45.65],"type":"Point"}
+}

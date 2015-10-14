@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.250000,51.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7119908","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7119908,"name:xx":"Prengershof"}}
+{
+  "id": 7119908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119908",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119908,
+    "tgn:name":"Prengershof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.25,51.816667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.466667,49.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7176476","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7176476,"name:xx":"Hahnenbach"}}
+{
+  "id": 7176476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176476",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176476,
+    "tgn:name":"Hahnenbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.466667,49.783333],"type":"Point"}
+}

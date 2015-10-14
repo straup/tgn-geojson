@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.283300,39.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2765157","tgn:1000001","tgn:7012149","tgn:2002161","tgn:7007919","tgn:7029392"],"placetype":["aat:300266640"],"id":2765157,"name:xx":"Whisson Ridge"}}
+{
+  "id": 2765157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765157",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002161",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765157,
+    "tgn:name":"Whisson Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.2833,39.1667],"type":"Point"}
+}

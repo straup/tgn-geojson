@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-56.500000,74.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7024496","tgn:7593552","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008804"],"name:en":"Upper Nugssuak Peninsula","id":7024496}}
+{
+  "id": 7024496,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024496",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024496,
+    "tgn:name:en":"Upper Nugssuak Peninsula",
+    "tgn:placetype":[
+        "aat:300008804"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-56.5,74.2],"type":"Point"}
+}

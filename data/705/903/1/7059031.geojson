@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.183333,45.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7059031","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7059031,"name:xx":"Albaron di Sea"}}
+{
+  "id": 7059031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059031",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059031,
+    "tgn:name":"Albaron di Sea",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.183333,45.333333],"type":"Point"}
+}

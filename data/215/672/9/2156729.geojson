@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.200000,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2156729","tgn:1000001","tgn:7012149","tgn:1002835","tgn:7007706","tgn:7029392"],"placetype":["aat:300266640"],"id":2156729,"name:xx":"Beath Ridge"}}
+{
+  "id": 2156729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156729",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002835",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156729,
+    "tgn:name":"Beath Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2,39.2833],"type":"Point"}
+}

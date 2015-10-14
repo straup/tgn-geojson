@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.050000,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2762142","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000240","tgn:7029392"],"placetype":["aat:300008706"],"id":2762142,"name:xx":"West Snowmass Creek"}}
+{
+  "id": 2762142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762142,
+    "tgn:name":"West Snowmass Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.05,39.15],"type":"Point"}
+}

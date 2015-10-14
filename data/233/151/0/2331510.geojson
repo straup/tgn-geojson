@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.050000,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2331510","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300006075"],"id":2331510,"name:xx":"Flatville Drainage Ditch"}}
+{
+  "id": 2331510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331510",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331510,
+    "tgn:name":"Flatville Drainage Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.05,40.25],"type":"Point"}
+}

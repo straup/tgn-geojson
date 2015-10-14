@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.750000,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2332738","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2332738,"name:xx":"Flowerfield Creek"}}
+{
+  "id": 2332738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332738",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332738,
+    "tgn:name":"Flowerfield Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.75,42.1],"type":"Point"}
+}

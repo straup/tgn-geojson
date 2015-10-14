@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-147.500000,60.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7022252","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":7022252,"name:xx":"Unakwik Point"}}
+{
+  "id": 7022252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022252",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022252,
+    "tgn:name":"Unakwik Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-147.5,60.8833],"type":"Point"}
+}

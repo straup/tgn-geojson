@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.266700,40.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2158320","tgn:1000001","tgn:1002294","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2158320,"name:xx":"Beaver Valley"}}
+{
+  "id": 2158320,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158320",
+        "tgn:1000001",
+        "tgn:1002294",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158320,
+    "tgn:name":"Beaver Valley",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2667,40.9167],"type":"Point"}
+}

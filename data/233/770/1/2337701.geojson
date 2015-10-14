@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-176.083300,52.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2337701","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2337701,"name:xx":"Fox Creek"}}
+{
+  "id": 2337701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337701",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337701,
+    "tgn:name":"Fox Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-176.0833,52.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.253217,50.231495]},"type":"Feature","properties":{"hierarchy":["tgn:7240889","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7240889,"name:xx":"Folie, Bois de la"}}
+{
+  "id": 7240889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240889",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240889,
+    "tgn:name":"Folie, Bois de la",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.253217,50.231495],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.016700,48.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2409274","tgn:1000001","tgn:7012149","tgn:2001312","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2409274,"name:xx":"Ichpair Creek"}}
+{
+  "id": 2409274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409274",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001312",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409274,
+    "tgn:name":"Ichpair Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0167,48.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.900000,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156413","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300132451"],"id":2156413,"name:xx":"Bearskin Grove"}}
+{
+  "id": 2156413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156413",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156413,
+    "tgn:name":"Bearskin Grove",
+    "tgn:placetype":[
+        "aat:300132451"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9,36.7333],"type":"Point"}
+}

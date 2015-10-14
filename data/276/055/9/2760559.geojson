@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.466700,44.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2760559","tgn:1000001","tgn:7012149","tgn:2002379","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2760559,"name:xx":"West Fork Twin Creek"}}
+{
+  "id": 2760559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760559",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002379",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760559,
+    "tgn:name":"West Fork Twin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.4667,44.3667],"type":"Point"}
+}

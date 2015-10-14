@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.601389,23.710000]},"type":"Feature","properties":{"hierarchy":["tgn:7486037","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7486037,"name:xx":"Yaogou Qiao"}}
+{
+  "id": 7486037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486037",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486037,
+    "tgn:name":"Yaogou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.601389,23.71],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.000000,40.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7054838","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054838,"name:xx":"Moltone, Monte"}}
+{
+  "id": 7054838,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054838",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054838,
+    "tgn:name":"Moltone, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.0,40.733333],"type":"Point"}
+}

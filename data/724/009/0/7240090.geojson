@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.100000,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7240090","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7240090,"name:xx":"Ekelbos"}}
+{
+  "id": 7240090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240090",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240090,
+    "tgn:name":"Ekelbos",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.1,51.033333],"type":"Point"}
+}

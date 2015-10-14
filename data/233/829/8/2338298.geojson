@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.350000,34.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2338298","tgn:1000001","tgn:2001741","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006075"],"id":2338298,"name:xx":"Fox Swamp Canal"}}
+{
+  "id": 2338298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338298",
+        "tgn:1000001",
+        "tgn:2001741",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338298,
+    "tgn:name":"Fox Swamp Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.35,34.3833],"type":"Point"}
+}

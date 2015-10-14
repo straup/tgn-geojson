@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.783300,35.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2251070","tgn:1000001","tgn:7012149","tgn:7022246","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2251070,"name:xx":"Colverts Lake"}}
+{
+  "id": 2251070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251070",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022246",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251070,
+    "tgn:name":"Colverts Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7833,35.9333],"type":"Point"}
+}

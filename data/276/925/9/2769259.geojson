@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.933300,35.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2769259","tgn:1000001","tgn:7016172","tgn:2000123","tgn:7012149","tgn:7029392"],"placetype":["aat:300008347"],"id":2769259,"name:xx":"Wick Mill"}}
+{
+  "id": 2769259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769259",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000123",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769259,
+    "tgn:name":"Wick Mill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9333,35.15],"type":"Point"}
+}

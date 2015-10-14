@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.233300,40.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2332830","tgn:1000001","tgn:1002282","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2332830,"name:xx":"Floyd Ditch"}}
+{
+  "id": 2332830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332830",
+        "tgn:1000001",
+        "tgn:1002282",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332830,
+    "tgn:name":"Floyd Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2333,40.2833],"type":"Point"}
+}

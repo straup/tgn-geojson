@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.700000,35.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2768341","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2768341,"name:xx":"Whiteside Creek"}}
+{
+  "id": 2768341,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768341",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768341,
+    "tgn:name":"Whiteside Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7,35.45],"type":"Point"}
+}

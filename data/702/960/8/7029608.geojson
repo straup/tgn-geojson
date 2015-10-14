@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[44.965000,31.983000]},"type":"Feature","properties":{"hierarchy":["tgn:7029608","tgn:7002590","tgn:1000004","tgn:1000118","tgn:7029392"],"placetype":["aat:300008347","aat:300387007","aat:300000810","aat:300008389"],"id":7029608,"name:xx":"Al Bahriyat"}}
+{
+  "id": 7029608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029608",
+        "tgn:7002590",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029608,
+    "tgn:name":"Al Bahriyat",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300008389"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[44.965,31.983],"type":"Point"}
+}

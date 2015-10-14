@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.416700,45.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2767682","tgn:1000001","tgn:7012149","tgn:2002353","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2767682,"name:xx":"Whitefish Creek"}}
+{
+  "id": 2767682,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767682",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002353",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767682,
+    "tgn:name":"Whitefish Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4167,45.8833],"type":"Point"}
+}

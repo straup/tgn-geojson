@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.400000,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2761570","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2761570,"name:xx":"West Pass Creek"}}
+{
+  "id": 2761570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761570",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761570,
+    "tgn:name":"West Pass Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.4,43.8833],"type":"Point"}
+}

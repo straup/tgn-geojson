@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.916700,33.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2257461","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300008347"],"id":2257461,"name:xx":"Corona Village"}}
+{
+  "id": 2257461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257461",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257461,
+    "tgn:name":"Corona Village",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9167,33.3167],"type":"Point"}
+}

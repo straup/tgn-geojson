@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.594004,23.456881]},"type":"Feature","properties":{"hierarchy":["tgn:7487310","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487310,"name:xx":"Minhe Cun"}}
+{
+  "id": 7487310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487310",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487310,
+    "tgn:name":"Minhe Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.594004,23.456881],"type":"Point"}
+}

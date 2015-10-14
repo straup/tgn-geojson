@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.366667,18.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7373908","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373908,"name:xx":"La Guayabilla"}}
+{
+  "id": 7373908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373908",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373908,
+    "tgn:name":"La Guayabilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.366667,18.983333],"type":"Point"}
+}

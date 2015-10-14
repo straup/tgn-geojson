@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.816700,40.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2250319","tgn:1000001","tgn:7012149","tgn:1002974","tgn:7007251","tgn:7029392"],"placetype":["aat:300008699"],"id":2250319,"name:xx":"Collison Branch"}}
+{
+  "id": 2250319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250319",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002974",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250319,
+    "tgn:name":"Collison Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8167,40.1833],"type":"Point"}
+}

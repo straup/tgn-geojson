@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.600000,42.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2337056","tgn:1000001","tgn:7012149","tgn:2001715","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2337056,"name:xx":"Fourmile Point"}}
+{
+  "id": 2337056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337056",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001715",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337056,
+    "tgn:name":"Fourmile Point",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.6,42.8833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.816700,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2150652","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":2150652,"name:xx":"Baskin Reservoir"}}
+{
+  "id": 2150652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150652",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150652,
+    "tgn:name":"Baskin Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8167,40.7333],"type":"Point"}
+}

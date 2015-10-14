@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.400000,37.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2150710","tgn:1000001","tgn:7012149","tgn:2000227","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2150710,"name:xx":"Bass Canyon"}}
+{
+  "id": 2150710,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150710",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000227",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150710,
+    "tgn:name":"Bass Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4,37.7167],"type":"Point"}
+}

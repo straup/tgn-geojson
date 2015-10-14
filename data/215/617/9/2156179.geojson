@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.583300,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2156179","tgn:7014651","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008905"],"id":2156179,"name:xx":"Beards Creek Marsh"}}
+{
+  "id": 2156179,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156179",
+        "tgn:7014651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156179,
+    "tgn:name":"Beards Creek Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5833,38.9333],"type":"Point"}
+}

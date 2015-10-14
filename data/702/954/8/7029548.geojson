@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-3.033300,53.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7029548","tgn:7002445","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300387064","aat:300000778","aat:300387071"],"name:en":"Blackpool","id":7029548}}
+{
+  "id": 7029548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029548",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029548,
+    "tgn:name:en":"Blackpool",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000778",
+        "aat:300387071"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.0333,53.7833],"type":"Point"}
+}

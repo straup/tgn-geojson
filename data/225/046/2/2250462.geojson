@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.566700,34.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2250462","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000044","tgn:7029392"],"placetype":["aat:300008347"],"id":2250462,"name:xx":"Colonial Hills"}}
+{
+  "id": 2250462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250462",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250462,
+    "tgn:name":"Colonial Hills",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5667,34.75],"type":"Point"}
+}

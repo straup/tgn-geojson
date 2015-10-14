@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.266667,40.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7051535","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008678"],"id":7051535,"name:xx":"Napoli, Porto di"}}
+{
+  "id": 7051535,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051535",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051535,
+    "tgn:name":"Napoli, Porto di",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.266667,40.833333],"type":"Point"}
+}

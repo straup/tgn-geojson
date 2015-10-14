@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.083300,41.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2258047","tgn:1002201","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008791"],"id":2258047,"name:xx":"Corys Island"}}
+{
+  "id": 2258047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258047",
+        "tgn:1002201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258047,
+    "tgn:name":"Corys Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0833,41.5],"type":"Point"}
+}

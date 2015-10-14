@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.583300,37.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2334974","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2334974,"name:xx":"Forlorn Hope Mine"}}
+{
+  "id": 2334974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334974",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334974,
+    "tgn:name":"Forlorn Hope Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5833,37.9167],"type":"Point"}
+}

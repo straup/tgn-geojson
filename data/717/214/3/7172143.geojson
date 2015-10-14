@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.250000,54.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7172143","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7172143,"name:xx":"Helmschen Bach"}}
+{
+  "id": 7172143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172143",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172143,
+    "tgn:name":"Helmschen Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.25,54.016667],"type":"Point"}
+}

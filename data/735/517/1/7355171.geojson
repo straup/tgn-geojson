@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.583333,21.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7355171","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300343547"],"id":7355171,"name:xx":"Chen Cimen, Cenote"}}
+{
+  "id": 7355171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355171",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355171,
+    "tgn:name":"Chen Cimen, Cenote",
+    "tgn:placetype":[
+        "aat:300343547"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.583333,21.35],"type":"Point"}
+}

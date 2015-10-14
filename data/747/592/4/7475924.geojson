@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.702248,23.768655]},"type":"Feature","properties":{"hierarchy":["tgn:7475924","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7475924,"name:xx":"Zhushan Nongcun Gongyequ"}}
+{
+  "id": 7475924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475924",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475924,
+    "tgn:name":"Zhushan Nongcun Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.702248,23.768655],"type":"Point"}
+}

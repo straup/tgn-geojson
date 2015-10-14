@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.819085,24.627530]},"type":"Feature","properties":{"hierarchy":["tgn:7478833","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7478833,"name:xx":"Longde Gongyequ"}}
+{
+  "id": 7478833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478833",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478833,
+    "tgn:name":"Longde Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.819085,24.62753],"type":"Point"}
+}

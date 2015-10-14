@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.900000,49.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7249019","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7249019,"name:xx":"Chevaudos, Bois de"}}
+{
+  "id": 7249019,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249019",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249019,
+    "tgn:name":"Chevaudos, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,49.95],"type":"Point"}
+}

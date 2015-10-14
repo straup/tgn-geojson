@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.050000,30.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7378501","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378501,"name:xx":"Las Cuevitas"}}
+{
+  "id": 7378501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378501",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378501,
+    "tgn:name":"Las Cuevitas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.05,30.433333],"type":"Point"}
+}

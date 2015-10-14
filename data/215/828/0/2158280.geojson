@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.150000,46.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2158280","tgn:1000001","tgn:1002293","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008699"],"id":2158280,"name:xx":"Beaver Slough"}}
+{
+  "id": 2158280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158280",
+        "tgn:1000001",
+        "tgn:1002293",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158280,
+    "tgn:name":"Beaver Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.15,46.1333],"type":"Point"}
+}

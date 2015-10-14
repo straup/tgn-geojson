@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.050000,18.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7351633","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351633,"name:xx":"San Vicente Boquer\u00f3n"}}
+{
+  "id": 7351633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351633",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351633,
+    "tgn:name":"San Vicente Boquer\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.05,18.283333],"type":"Point"}
+}

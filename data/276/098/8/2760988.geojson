@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.816700,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2760988","tgn:1002201","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008905"],"id":2760988,"name:xx":"West Island Marshes"}}
+{
+  "id": 2760988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760988",
+        "tgn:1002201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760988,
+    "tgn:name":"West Island Marshes",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8167,41.5833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.766667,19.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7374691","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374691,"name:xx":"La Mesa"}}
+{
+  "id": 7374691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374691",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374691,
+    "tgn:name":"La Mesa",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.766667,19.7],"type":"Point"}
+}

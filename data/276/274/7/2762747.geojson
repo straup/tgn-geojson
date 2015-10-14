@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.300000,32.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2762747","tgn:1000001","tgn:7012149","tgn:2001110","tgn:7007522","tgn:7029392"],"placetype":["aat:300008347"],"id":2762747,"name:xx":"Western Hills"}}
+{
+  "id": 2762747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762747",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001110",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762747,
+    "tgn:name":"Western Hills",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3,32.25],"type":"Point"}
+}

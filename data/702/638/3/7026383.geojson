@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.200000,51.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7026383","tgn:7002445","tgn:1000003","tgn:7026382","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Aldworth","id":7026383}}
+{
+  "id": 7026383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026383",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026382",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026383,
+    "tgn:name:en":"Aldworth",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.2,51.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-121.133300,39.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7023468","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":7023468,"name:xx":"Mooreville Ridge"}}
+{
+  "id": 7023468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023468",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023468,
+    "tgn:name":"Mooreville Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1333,39.5833],"type":"Point"}
+}

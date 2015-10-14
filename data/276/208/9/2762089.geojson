@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.166700,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2762089","tgn:1000001","tgn:7012149","tgn:1003003","tgn:7007251","tgn:7029392"],"placetype":["aat:300006075"],"id":2762089,"name:xx":"West Side Diversion Ditch"}}
+{
+  "id": 2762089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762089",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003003",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762089,
+    "tgn:name":"West Side Diversion Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1667,38.4833],"type":"Point"}
+}

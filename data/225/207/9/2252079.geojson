@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.416700,42.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2252079","tgn:1000001","tgn:7012149","tgn:1002423","tgn:7007568","tgn:7029392"],"placetype":["aat:300008761"],"id":2252079,"name:xx":"Condon Hollow"}}
+{
+  "id": 2252079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252079",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002423",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252079,
+    "tgn:name":"Condon Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.4167,42.2],"type":"Point"}
+}

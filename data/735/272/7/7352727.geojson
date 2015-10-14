@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.850000,19.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7352727","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352727,"name:xx":"Atlacomulco, Cerro"}}
+{
+  "id": 7352727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352727",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352727,
+    "tgn:name":"Atlacomulco, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.85,19.8],"type":"Point"}
+}

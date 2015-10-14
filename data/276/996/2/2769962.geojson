@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.916700,35.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2769962","tgn:1000001","tgn:7012149","tgn:2001497","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2769962,"name:xx":"Wilcat Branch"}}
+{
+  "id": 2769962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769962",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001497",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769962,
+    "tgn:name":"Wilcat Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9167,35.25],"type":"Point"}
+}

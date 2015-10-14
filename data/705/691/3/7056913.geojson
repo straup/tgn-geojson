@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.050000,37.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7056913","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056913,"name:xx":"Belice Sinistro, Fiume"}}
+{
+  "id": 7056913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056913",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056913,
+    "tgn:name":"Belice Sinistro, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.05,37.766667],"type":"Point"}
+}

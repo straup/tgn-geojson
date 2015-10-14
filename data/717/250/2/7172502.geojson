@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.283333,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7172502","tgn:1000003","tgn:7003689","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7172502,"name:xx":"Heye-Berg"}}
+{
+  "id": 7172502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172502",
+        "tgn:1000003",
+        "tgn:7003689",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172502,
+    "tgn:name":"Heye-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.283333,51.1],"type":"Point"}
+}

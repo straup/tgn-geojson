@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.661503,24.001430]},"type":"Feature","properties":{"hierarchy":["tgn:7474536","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474536,"name:xx":"Tiancuozi"}}
+{
+  "id": 7474536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474536",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474536,
+    "tgn:name":"Tiancuozi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.661503,24.00143],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-158.683300,56.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2333708","tgn:7006450","tgn:1000001","tgn:7030517","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2333708,"name:xx":"Foot Bay"}}
+{
+  "id": 2333708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333708",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7030517",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333708,
+    "tgn:name":"Foot Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.6833,56.0333],"type":"Point"}
+}

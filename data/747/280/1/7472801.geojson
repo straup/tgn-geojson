@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.094722,23.351111]},"type":"Feature","properties":{"hierarchy":["tgn:7472801","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008761"],"id":7472801,"name:xx":"Wusaikuo"}}
+{
+  "id": 7472801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472801",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472801,
+    "tgn:name":"Wusaikuo",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.094722,23.351111],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.350000,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2402465","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008347"],"id":2402465,"name:xx":"Hoskin"}}
+{
+  "id": 2402465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402465",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402465,
+    "tgn:name":"Hoskin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.35,41.7],"type":"Point"}
+}

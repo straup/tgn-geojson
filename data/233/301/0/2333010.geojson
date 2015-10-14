@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.133300,31.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2333010","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000064","tgn:7029392"],"placetype":["aat:300008699"],"id":2333010,"name:xx":"Fly Branch"}}
+{
+  "id": 2333010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333010",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000064",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333010,
+    "tgn:name":"Fly Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1333,31.5833],"type":"Point"}
+}

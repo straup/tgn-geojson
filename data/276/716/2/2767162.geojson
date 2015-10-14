@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-79.483300,39.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2767162","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2767162,"name:xx":"White Rock Glade"}}
+{
+  "id": 2767162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767162",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767162,
+    "tgn:name":"White Rock Glade",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.4833,39.5833],"type":"Point"}
+}

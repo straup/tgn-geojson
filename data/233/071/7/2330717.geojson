@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-133.333300,55.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2330717","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300008791"],"id":2330717,"name:xx":"Flat Island"}}
+{
+  "id": 2330717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330717",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330717,
+    "tgn:name":"Flat Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-133.3333,55.9167],"type":"Point"}
+}

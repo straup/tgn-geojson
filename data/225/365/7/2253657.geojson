@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.850000,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2253657","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2253657,"name:xx":"Cook Pond"}}
+{
+  "id": 2253657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253657",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253657,
+    "tgn:name":"Cook Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.85,42.2833],"type":"Point"}
+}

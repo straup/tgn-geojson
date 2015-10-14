@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.616667,51.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7175855","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7175855,"name:xx":"Gro\u00dfes Holz"}}
+{
+  "id": 7175855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175855",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175855,
+    "tgn:name":"Gro\u00dfes Holz",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.616667,51.633333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.300000,45.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2250936","tgn:1000001","tgn:2001776","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300006191"],"id":2250936,"name:xx":"Columbia Road Reservoir"}}
+{
+  "id": 2250936,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250936",
+        "tgn:1000001",
+        "tgn:2001776",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250936,
+    "tgn:name":"Columbia Road Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.3,45.6667],"type":"Point"}
+}

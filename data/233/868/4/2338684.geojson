@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.500000,45.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2338684","tgn:1000001","tgn:7012149","tgn:2001275","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2338684,"name:xx":"Francis Walbert Ditch"}}
+{
+  "id": 2338684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338684",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001275",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338684,
+    "tgn:name":"Francis Walbert Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5,45.85],"type":"Point"}
+}

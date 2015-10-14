@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.000000,52.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7113706","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7113706,"name:xx":"Riehe"}}
+{
+  "id": 7113706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113706",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113706,
+    "tgn:name":"Riehe",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.0,52.033333],"type":"Point"}
+}

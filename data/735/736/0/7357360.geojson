@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.250000,22.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7357360","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357360,"name:xx":"Cuisillo"}}
+{
+  "id": 7357360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357360",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357360,
+    "tgn:name":"Cuisillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.25,22.383333],"type":"Point"}
+}

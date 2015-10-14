@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.716667,17.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7370216","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7370216,"name:xx":"J\u00e1ltipan"}}
+{
+  "id": 7370216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370216",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370216,
+    "tgn:name":"J\u00e1ltipan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.716667,17.983333],"type":"Point"}
+}

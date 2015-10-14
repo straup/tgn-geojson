@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.018056,24.921389]},"type":"Feature","properties":{"hierarchy":["tgn:7470676","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470676,"name:xx":"Qingbu Cun"}}
+{
+  "id": 7470676,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470676",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470676,
+    "tgn:name":"Qingbu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.018056,24.921389],"type":"Point"}
+}

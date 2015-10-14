@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-132.150000,55.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2762683","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000088","tgn:7029392"],"placetype":["aat:300008791"],"id":2762683,"name:xx":"Westerly Island"}}
+{
+  "id": 2762683,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762683",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000088",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762683,
+    "tgn:name":"Westerly Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-132.15,55.9],"type":"Point"}
+}

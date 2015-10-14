@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.350000,20.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7376486","tgn:1000001","tgn:7005593","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376486,"name:xx":"Lo de Casas"}}
+{
+  "id": 7376486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376486",
+        "tgn:1000001",
+        "tgn:7005593",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376486,
+    "tgn:name":"Lo de Casas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.35,20.466667],"type":"Point"}
+}

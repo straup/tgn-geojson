@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.036850,50.661991]},"type":"Feature","properties":{"hierarchy":["tgn:7243580","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243580,"name:xx":"Maire Bois"}}
+{
+  "id": 7243580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243580",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243580,
+    "tgn:name":"Maire Bois",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.03685,50.661991],"type":"Point"}
+}

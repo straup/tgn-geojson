@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.738611,22.052500]},"type":"Feature","properties":{"hierarchy":["tgn:7485714","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485714,"name:xx":"Maolanyi"}}
+{
+  "id": 7485714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485714",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485714,
+    "tgn:name":"Maolanyi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.738611,22.0525],"type":"Point"}
+}

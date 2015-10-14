@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[4.533300,18.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7023865","tgn:7001242","tgn:7029392"],"placetype":["aat:300387091"],"id":7023865,"name:xx":"Ti-n-Amzi"}}
+{
+  "id": 7023865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023865",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023865,
+    "tgn:name":"Ti-n-Amzi",
+    "tgn:placetype":[
+        "aat:300387091"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5333,18.3333],"type":"Point"}
+}

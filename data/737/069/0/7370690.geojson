@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.900000,21.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7370690","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370690,"name:xx":"Gogorr\u00f3n"}}
+{
+  "id": 7370690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370690",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370690,
+    "tgn:name":"Gogorr\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9,21.833333],"type":"Point"}
+}

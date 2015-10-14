@@ -1,0 +1,29 @@
+{
+  "id": 7006875,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f20c94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2746331",
+        "gp:id":733859,
+        "qs:id":7,
+        "wof:id":101809879
+    },
+    "tgn:hierarchy":[
+        "tgn:7006875",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006875,
+    "tgn:name:nl":"Tiel",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.433333,51.883333],"type":"Point"}
+}

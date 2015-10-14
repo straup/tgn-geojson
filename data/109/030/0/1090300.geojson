@@ -1,0 +1,28 @@
+{
+  "id": 1090300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1090300",
+        "tgn:1000484",
+        "tgn:7001242",
+        "tgn:1000168",
+        "tgn:7029392"
+    ],
+    "tgn:id":1090300,
+    "tgn:name":"Abidjan",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387265",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300120599",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.0167,5.3167],"type":"Point"}
+}

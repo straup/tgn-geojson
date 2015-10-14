@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.900000,33.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2768254","tgn:1000001","tgn:7012149","tgn:2000412","tgn:7007248","tgn:7029392"],"placetype":["aat:300008798"],"id":2768254,"name:xx":"Whites Mound"}}
+{
+  "id": 2768254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768254",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000412",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768254,
+    "tgn:name":"Whites Mound",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9,33.3],"type":"Point"}
+}

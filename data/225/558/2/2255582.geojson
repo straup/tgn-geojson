@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.533300,40.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2255582","tgn:1000001","tgn:2000198","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300266640"],"id":2255582,"name:xx":"Copeland Moraine"}}
+{
+  "id": 2255582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255582",
+        "tgn:1000001",
+        "tgn:2000198",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255582,
+    "tgn:name":"Copeland Moraine",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.5333,40.2167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.725198,24.641193]},"type":"Feature","properties":{"hierarchy":["tgn:7476037","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7476037,"name:xx":"Xiao Pi"}}
+{
+  "id": 7476037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476037",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476037,
+    "tgn:name":"Xiao Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.725198,24.641193],"type":"Point"}
+}

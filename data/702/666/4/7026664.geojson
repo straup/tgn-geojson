@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.400000,51.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7026664","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Huntley","id":7026664}}
+{
+  "id": 7026664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026664",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026664,
+    "tgn:name:en":"Huntley",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.4,51.866667],"type":"Point"}
+}

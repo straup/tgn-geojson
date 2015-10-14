@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.633333,18.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7368085","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368085,"name:xx":"Jolotl\u00e1n"}}
+{
+  "id": 7368085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368085",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368085,
+    "tgn:name":"Jolotl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.633333,18.916667],"type":"Point"}
+}

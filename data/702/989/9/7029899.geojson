@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-2.533333,54.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7029899","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029899,"name:xx":"Burton in Lonsdale","name:ang":"Borctune"}}
+{
+  "id": 7029899,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029899",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029899,
+    "tgn:name":"Burton in Lonsdale",
+    "tgn:name:ang":"Borctune",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.533333,54.133333],"type":"Point"}
+}

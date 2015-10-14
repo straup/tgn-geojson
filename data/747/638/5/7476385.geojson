@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.666137,23.891377]},"type":"Feature","properties":{"hierarchy":["tgn:7476385","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7476385,"name:xx":"Taitang Qiedongjiao Nongchang"}}
+{
+  "id": 7476385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476385",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476385,
+    "tgn:name":"Taitang Qiedongjiao Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.666137,23.891377],"type":"Point"}
+}

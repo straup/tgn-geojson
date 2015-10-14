@@ -1,0 +1,23 @@
+{
+  "id": 1112277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1112277",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1112277,
+    "tgn:name":"I\u00f3nion P\u00e9lagos",
+    "tgn:name:de":"Ionisches Meer",
+    "tgn:name:en":"Ionian Sea",
+    "tgn:name:fr":"Ionienne, Mer",
+    "tgn:name:it":"Ionio, Mar",
+    "tgn:name:la":"Mare Ionium",
+    "tgn:placetype":[
+        "aat:300008694"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[19.0,39.0],"type":"Point"}
+}

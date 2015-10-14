@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.116400,22.754400]},"type":"Feature","properties":{"hierarchy":["tgn:7474735","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474735,"name:xx":"Yongle Li"}}
+{
+  "id": 7474735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474735",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474735,
+    "tgn:name":"Yongle Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.1164,22.7544],"type":"Point"}
+}

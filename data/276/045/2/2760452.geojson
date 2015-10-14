@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.316700,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2760452","tgn:1000001","tgn:7012149","tgn:2002180","tgn:7007919","tgn:7029392"],"placetype":["aat:300008707"],"id":2760452,"name:xx":"West Fork Stinking River"}}
+{
+  "id": 2760452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760452",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002180",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760452,
+    "tgn:name":"West Fork Stinking River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3167,36.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.233300,40.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2253285","tgn:1000001","tgn:7012149","tgn:1002625","tgn:7007706","tgn:7029392"],"placetype":["aat:300006075"],"id":2253285,"name:xx":"Converse Ditch"}}
+{
+  "id": 2253285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253285",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002625",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253285,
+    "tgn:name":"Converse Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2333,40.05],"type":"Point"}
+}

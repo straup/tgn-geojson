@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.466667,50.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7246949","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246949,"name:xx":"Carr\u00e9"}}
+{
+  "id": 7246949,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246949",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246949,
+    "tgn:name":"Carr\u00e9",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.466667,50.116667],"type":"Point"}
+}

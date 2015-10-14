@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.553084,24.953621]},"type":"Feature","properties":{"hierarchy":["tgn:7472660","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7472660,"name:xx":"Qingtan Guoxiao"}}
+{
+  "id": 7472660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472660",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472660,
+    "tgn:name":"Qingtan Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.553084,24.953621],"type":"Point"}
+}

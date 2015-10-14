@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.568647,24.169193]},"type":"Feature","properties":{"hierarchy":["tgn:7472214","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7472214,"name:xx":"Buluowan"}}
+{
+  "id": 7472214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472214",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472214,
+    "tgn:name":"Buluowan",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.568647,24.169193],"type":"Point"}
+}

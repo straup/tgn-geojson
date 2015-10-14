@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.466667,24.212222]},"type":"Feature","properties":{"hierarchy":["tgn:7486021","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7486021,"name:xx":"Xibao Shan"}}
+{
+  "id": 7486021,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486021",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486021,
+    "tgn:name":"Xibao Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.466667,24.212222],"type":"Point"}
+}

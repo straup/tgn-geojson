@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.983333,24.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7489552","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7489552,"name:xx":"Niaozui Shan"}}
+{
+  "id": 7489552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489552",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489552,
+    "tgn:name":"Niaozui Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.983333,24.466667],"type":"Point"}
+}

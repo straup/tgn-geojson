@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.650000,43.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7050241","tgn:1000003","tgn:7003141","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7050241,"name:xx":"Pietravecchia, Mont"}}
+{
+  "id": 7050241,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050241",
+        "tgn:1000003",
+        "tgn:7003141",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050241,
+    "tgn:name":"Pietravecchia, Mont",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.65,43.983333],"type":"Point"}
+}

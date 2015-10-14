@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.533300,35.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2763964","tgn:1000001","tgn:7016172","tgn:2000123","tgn:7012149","tgn:7029392"],"placetype":["aat:300132348"],"id":2763964,"name:xx":"Wheeler Bar"}}
+{
+  "id": 2763964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763964",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000123",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763964,
+    "tgn:name":"Wheeler Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5333,35.3833],"type":"Point"}
+}

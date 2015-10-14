@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.783333,30.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7359108","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7359108,"name:xx":"Colorados, Ojos"}}
+{
+  "id": 7359108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359108",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359108,
+    "tgn:name":"Colorados, Ojos",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.783333,30.283333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.316667,20.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7358080","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358080,"name:xx":"Cuzam\u00e1"}}
+{
+  "id": 7358080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358080",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358080,
+    "tgn:name":"Cuzam\u00e1",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.316667,20.733333],"type":"Point"}
+}

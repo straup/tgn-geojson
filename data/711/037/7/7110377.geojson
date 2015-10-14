@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.116667,49.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7110377","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7110377,"name:xx":"Raitler"}}
+{
+  "id": 7110377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110377",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110377,
+    "tgn:name":"Raitler",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.116667,49.066667],"type":"Point"}
+}

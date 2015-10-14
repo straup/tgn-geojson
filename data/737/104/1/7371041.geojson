@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.300000,28.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7371041","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371041,"name:xx":"Gumimar"}}
+{
+  "id": 7371041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371041",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371041,
+    "tgn:name":"Gumimar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3,28.183333],"type":"Point"}
+}

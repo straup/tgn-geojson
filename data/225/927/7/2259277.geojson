@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.950000,44.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2259277","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300008178"],"id":2259277,"name:xx":"Cottonwood Natural Area"}}
+{
+  "id": 2259277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259277",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259277,
+    "tgn:name":"Cottonwood Natural Area",
+    "tgn:placetype":[
+        "aat:300008178"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.95,44.9667],"type":"Point"}
+}

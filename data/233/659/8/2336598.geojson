@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.366700,30.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2336598","tgn:1000001","tgn:7012149","tgn:2000906","tgn:7007256","tgn:7029392"],"placetype":["aat:300008905"],"id":2336598,"name:xx":"Four Mile Marsh"}}
+{
+  "id": 2336598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336598",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000906",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336598,
+    "tgn:name":"Four Mile Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3667,30.3833],"type":"Point"}
+}

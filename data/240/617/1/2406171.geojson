@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.283300,35.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2406171","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000175","tgn:7029392"],"placetype":["aat:300008761"],"id":2406171,"name:xx":"Hump Hollow"}}
+{
+  "id": 2406171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406171",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000175",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406171,
+    "tgn:name":"Hump Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2833,35.6167],"type":"Point"}
+}

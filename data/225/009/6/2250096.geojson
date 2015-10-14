@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.533300,46.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2250096","tgn:1000001","tgn:2001265","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2250096,"name:xx":"Collins Creek"}}
+{
+  "id": 2250096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250096",
+        "tgn:1000001",
+        "tgn:2001265",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250096,
+    "tgn:name":"Collins Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5333,46.0],"type":"Point"}
+}

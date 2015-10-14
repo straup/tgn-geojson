@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.733300,50.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7026827","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7026827,"name:xx":"Crow Hill Top"}}
+{
+  "id": 7026827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026827",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026827,
+    "tgn:name":"Crow Hill Top",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.7333,50.8333],"type":"Point"}
+}

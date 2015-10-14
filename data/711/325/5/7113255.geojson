@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.616667,47.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7113255","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7113255,"name:xx":"Rieselsberg"}}
+{
+  "id": 7113255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113255",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113255,
+    "tgn:name":"Rieselsberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.616667,47.616667],"type":"Point"}
+}

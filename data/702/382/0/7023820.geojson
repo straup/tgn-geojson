@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-5.316700,7.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7023820","tgn:7001242","tgn:1000536","tgn:1000168","tgn:7029392"],"placetype":["aat:300008347"],"id":7023820,"name:xx":"Botro"}}
+{
+  "id": 7023820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023820",
+        "tgn:7001242",
+        "tgn:1000536",
+        "tgn:1000168",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023820,
+    "tgn:name":"Botro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.3167,7.85],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.350000,32.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7020658","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008674","aat:300008699"],"id":7020658,"name:xx":"Dorcheat, Bayou"}}
+{
+  "id": 7020658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020658",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020658,
+    "tgn:name":"Dorcheat, Bayou",
+    "tgn:placetype":[
+        "aat:300008674",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.35,32.5],"type":"Point"}
+}

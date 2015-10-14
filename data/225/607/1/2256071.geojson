@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.150000,39.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2256071","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000250","tgn:7029392"],"placetype":["aat:300008798"],"id":2256071,"name:xx":"Copper Mountain"}}
+{
+  "id": 2256071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256071",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256071,
+    "tgn:name":"Copper Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.15,39.4667],"type":"Point"}
+}

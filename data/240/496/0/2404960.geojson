@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.783300,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2404960","tgn:1000001","tgn:7012149","tgn:1002423","tgn:7007568","tgn:7029392"],"placetype":["aat:300132316"],"id":2404960,"name:xx":"Hudson Anch"}}
+{
+  "id": 2404960,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404960",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002423",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404960,
+    "tgn:name":"Hudson Anch",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7833,42.2833],"type":"Point"}
+}

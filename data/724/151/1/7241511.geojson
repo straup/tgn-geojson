@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.266667,50.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7241511","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7241511,"name:xx":"Leeghof"}}
+{
+  "id": 7241511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241511",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241511,
+    "tgn:name":"Leeghof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.266667,50.8],"type":"Point"}
+}

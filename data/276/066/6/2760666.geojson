@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.950000,48.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2760666","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008707"],"id":2760666,"name:xx":"West Fork Yaak River"}}
+{
+  "id": 2760666,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760666",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760666,
+    "tgn:name":"West Fork Yaak River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.95,48.9],"type":"Point"}
+}

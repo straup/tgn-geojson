@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.686522,24.749579]},"type":"Feature","properties":{"hierarchy":["tgn:7488898","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488898,"name:xx":"Hudong Cun"}}
+{
+  "id": 7488898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488898",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488898,
+    "tgn:name":"Hudong Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.686522,24.749579],"type":"Point"}
+}

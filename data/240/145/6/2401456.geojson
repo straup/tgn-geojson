@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.133300,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2401456","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300008680"],"id":2401456,"name:xx":"Horseshoe Bend, The"}}
+{
+  "id": 2401456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401456",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401456,
+    "tgn:name":"Horseshoe Bend, The",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1333,41.2833],"type":"Point"}
+}

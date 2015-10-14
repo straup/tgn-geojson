@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.196006,50.940476]},"type":"Feature","properties":{"hierarchy":["tgn:7249961","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7249961,"name:xx":"Paddebroeken"}}
+{
+  "id": 7249961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249961",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249961,
+    "tgn:name":"Paddebroeken",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.196006,50.940476],"type":"Point"}
+}

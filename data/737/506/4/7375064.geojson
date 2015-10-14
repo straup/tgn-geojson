@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.816667,26.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7375064","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375064,"name:xx":"Rancho Lechuguillal"}}
+{
+  "id": 7375064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375064",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375064,
+    "tgn:name":"Rancho Lechuguillal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.816667,26.583333],"type":"Point"}
+}

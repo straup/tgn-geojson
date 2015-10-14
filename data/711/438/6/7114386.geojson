@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.800000,47.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7114386","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300011692"],"id":7114386,"name:xx":"Riederstein"}}
+{
+  "id": 7114386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114386",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114386,
+    "tgn:name":"Riederstein",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.8,47.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.100000,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2253593","tgn:1000001","tgn:1002243","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2253593,"name:xx":"Cook Lake"}}
+{
+  "id": 2253593,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253593",
+        "tgn:1000001",
+        "tgn:1002243",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253593,
+    "tgn:name":"Cook Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1,42.0],"type":"Point"}
+}

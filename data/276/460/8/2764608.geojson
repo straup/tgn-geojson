@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.233300,37.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2764608","tgn:1000001","tgn:2000202","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2764608,"name:xx":"Whippoorwill Reservoir"}}
+{
+  "id": 2764608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764608",
+        "tgn:1000001",
+        "tgn:2000202",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764608,
+    "tgn:name":"Whippoorwill Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2333,37.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.750000,19.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7369527","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369527,"name:xx":"Huaj\u00fambaro"}}
+{
+  "id": 7369527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369527",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369527,
+    "tgn:name":"Huaj\u00fambaro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.75,19.683333],"type":"Point"}
+}

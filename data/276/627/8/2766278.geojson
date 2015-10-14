@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.266700,48.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2766278","tgn:1000001","tgn:7012149","tgn:2002248","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2766278,"name:xx":"White Man Creek"}}
+{
+  "id": 2766278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766278",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002248",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766278,
+    "tgn:name":"White Man Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.2667,48.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.183300,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2332536","tgn:1000001","tgn:7012149","tgn:2001449","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2332536,"name:xx":"Florentino Tank"}}
+{
+  "id": 2332536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332536",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001449",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332536,
+    "tgn:name":"Florentino Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.1833,36.9833],"type":"Point"}
+}

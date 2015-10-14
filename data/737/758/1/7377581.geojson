@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.333333,17.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7377581","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7377581,"name:xx":"La Pastora, Cerro"}}
+{
+  "id": 7377581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377581",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377581,
+    "tgn:name":"La Pastora, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.333333,17.0],"type":"Point"}
+}

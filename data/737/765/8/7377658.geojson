@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.033333,21.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7377658","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377658,"name:xx":"La Ventanilla"}}
+{
+  "id": 7377658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377658",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377658,
+    "tgn:name":"La Ventanilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.033333,21.766667],"type":"Point"}
+}

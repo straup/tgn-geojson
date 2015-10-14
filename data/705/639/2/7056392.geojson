@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.000000,45.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7056392","tgn:1003510","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056392,"name:xx":"Occhieppo Superiore"}}
+{
+  "id": 7056392,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056392",
+        "tgn:1003510",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056392,
+    "tgn:name":"Occhieppo Superiore",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.0,45.566667],"type":"Point"}
+}

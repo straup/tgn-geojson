@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-145.333300,66.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7023695","tgn:1000001","tgn:7029392"],"placetype":["aat:300008707"],"id":7023695,"name:xx":"Porcupine River"}}
+{
+  "id": 7023695,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023695",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023695,
+    "tgn:name":"Porcupine River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.3333,66.5833],"type":"Point"}
+}

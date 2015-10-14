@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.600000,51.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7110027","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110027,"name:xx":"Reiherhof"}}
+{
+  "id": 7110027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110027",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110027,
+    "tgn:name":"Reiherhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.6,51.283333],"type":"Point"}
+}

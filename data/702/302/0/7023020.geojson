@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.666700,41.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023020","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023020,"name:xx":"Saint Martin Creek"}}
+{
+  "id": 7023020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023020",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023020,
+    "tgn:name":"Saint Martin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6667,41.9833],"type":"Point"}
+}

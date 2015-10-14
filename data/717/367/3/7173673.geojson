@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.216667,51.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7173673","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7173673,"name:xx":"Gro\u00dfer Sau-Berg"}}
+{
+  "id": 7173673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173673",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173673,
+    "tgn:name":"Gro\u00dfer Sau-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.216667,51.666667],"type":"Point"}
+}

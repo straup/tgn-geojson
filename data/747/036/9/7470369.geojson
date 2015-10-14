@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.235556,23.730833]},"type":"Feature","properties":{"hierarchy":["tgn:7470369","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470369,"name:xx":"Huzinei"}}
+{
+  "id": 7470369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470369",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470369,
+    "tgn:name":"Huzinei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.235556,23.730833],"type":"Point"}
+}

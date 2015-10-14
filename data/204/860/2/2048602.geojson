@@ -1,0 +1,26 @@
+{
+  "id": 2048602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2048602",
+        "tgn:1000001",
+        "tgn:1003023",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2048602,
+    "tgn:name":"Salisbury",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387308",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.5833,38.35],"type":"Point"}
+}

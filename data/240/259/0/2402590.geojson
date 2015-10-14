@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.783300,36.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2402590","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2402590,"name:xx":"Hosteen Tso Wash"}}
+{
+  "id": 2402590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402590",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402590,
+    "tgn:name":"Hosteen Tso Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7833,36.9333],"type":"Point"}
+}

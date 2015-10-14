@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.016700,34.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2768194","tgn:1000001","tgn:2001740","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2768194,"name:xx":"Whites Crossroads"}}
+{
+  "id": 2768194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768194",
+        "tgn:1000001",
+        "tgn:2001740",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768194,
+    "tgn:name":"Whites Crossroads",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0167,34.15],"type":"Point"}
+}

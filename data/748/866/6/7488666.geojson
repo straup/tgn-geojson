@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.358996,22.679140]},"type":"Feature","properties":{"hierarchy":["tgn:7488666","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488666,"name:xx":"Nanshibu"}}
+{
+  "id": 7488666,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488666",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488666,
+    "tgn:name":"Nanshibu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.358996,22.67914],"type":"Point"}
+}

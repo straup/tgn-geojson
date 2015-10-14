@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.060833,24.810278]},"type":"Feature","properties":{"hierarchy":["tgn:7481482","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481482,"name:xx":"Shuikengzi"}}
+{
+  "id": 7481482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481482",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481482,
+    "tgn:name":"Shuikengzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.060833,24.810278],"type":"Point"}
+}

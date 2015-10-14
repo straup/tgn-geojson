@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.550000,30.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7354131","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7354131,"name:xx":"Rancho Casa de Piedra"}}
+{
+  "id": 7354131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354131",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354131,
+    "tgn:name":"Rancho Casa de Piedra",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.55,30.6],"type":"Point"}
+}

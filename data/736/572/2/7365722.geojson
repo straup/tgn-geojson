@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.800000,27.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7365722","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365722,"name:xx":"El Recodo"}}
+{
+  "id": 7365722,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365722",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365722,
+    "tgn:name":"El Recodo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8,27.933333],"type":"Point"}
+}

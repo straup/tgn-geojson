@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.366667,45.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7055006","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7055006,"name:xx":"Lis, Colle del"}}
+{
+  "id": 7055006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055006",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055006,
+    "tgn:name":"Lis, Colle del",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.366667,45.183333],"type":"Point"}
+}

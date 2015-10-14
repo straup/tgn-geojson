@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.933333,26.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7362216","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362216,"name:xx":"Rancho El Desmonte"}}
+{
+  "id": 7362216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362216",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362216,
+    "tgn:name":"Rancho El Desmonte",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.933333,26.616667],"type":"Point"}
+}

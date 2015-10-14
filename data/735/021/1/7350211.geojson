@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.700000,27.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7350211","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7350211,"name:xx":"Agiampaco"}}
+{
+  "id": 7350211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350211",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350211,
+    "tgn:name":"Agiampaco",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7,27.183333],"type":"Point"}
+}

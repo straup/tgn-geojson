@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.350000,33.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2337668","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2337668,"name:xx":"Fox Canyon Tank Number Two"}}
+{
+  "id": 2337668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337668",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337668,
+    "tgn:name":"Fox Canyon Tank Number Two",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.35,33.9167],"type":"Point"}
+}

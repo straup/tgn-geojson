@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.359943,22.668008]},"type":"Feature","properties":{"hierarchy":["tgn:7487033","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487033,"name:xx":"Mengli"}}
+{
+  "id": 7487033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487033",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487033,
+    "tgn:name":"Mengli",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.359943,22.668008],"type":"Point"}
+}

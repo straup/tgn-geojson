@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.322500,24.015000]},"type":"Feature","properties":{"hierarchy":["tgn:7482611","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482611,"name:xx":"Heliu"}}
+{
+  "id": 7482611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482611",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482611,
+    "tgn:name":"Heliu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.3225,24.015],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.600000,19.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7353441","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353441,"name:xx":"Buenavista Tomatlan, Cerro"}}
+{
+  "id": 7353441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353441",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353441,
+    "tgn:name":"Buenavista Tomatlan, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6,19.15],"type":"Point"}
+}

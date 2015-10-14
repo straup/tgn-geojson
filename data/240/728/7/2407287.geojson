@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.266700,33.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2407287","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000057","tgn:7029392"],"placetype":["aat:300008347"],"id":2407287,"name:xx":"Hunting Ridge"}}
+{
+  "id": 2407287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407287",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000057",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407287,
+    "tgn:name":"Hunting Ridge",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2667,33.5333],"type":"Point"}
+}

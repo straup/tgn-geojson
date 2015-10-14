@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.183333,51.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7118551","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7118551,"name:xx":"Pandel-Bach"}}
+{
+  "id": 7118551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118551",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118551,
+    "tgn:name":"Pandel-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.183333,51.85],"type":"Point"}
+}

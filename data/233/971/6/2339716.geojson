@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.300000,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339716","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000184","tgn:7029392"],"placetype":["aat:300006191"],"id":2339716,"name:xx":"Freebe Reservoir"}}
+{
+  "id": 2339716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339716",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000184",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339716,
+    "tgn:name":"Freebe Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3,40.75],"type":"Point"}
+}

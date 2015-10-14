@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.233300,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2402254","tgn:1000001","tgn:2001702","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2402254,"name:xx":"Horsfall Lake"}}
+{
+  "id": 2402254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402254",
+        "tgn:1000001",
+        "tgn:2001702",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402254,
+    "tgn:name":"Horsfall Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.2333,43.45],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.966667,19.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7376022","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7376022,"name:xx":"La Resolana"}}
+{
+  "id": 7376022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376022",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376022,
+    "tgn:name":"La Resolana",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.966667,19.65],"type":"Point"}
+}

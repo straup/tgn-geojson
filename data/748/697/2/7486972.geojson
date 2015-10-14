@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.430000,23.279722]},"type":"Feature","properties":{"hierarchy":["tgn:7486972","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486972,"name:xx":"Lin'an Cun"}}
+{
+  "id": 7486972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486972",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486972,
+    "tgn:name":"Lin'an Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.43,23.279722],"type":"Point"}
+}

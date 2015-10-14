@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.066700,48.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2250945","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300000390"],"id":2250945,"name:xx":"Columbia Tungsten Mine"}}
+{
+  "id": 2250945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250945",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250945,
+    "tgn:name":"Columbia Tungsten Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0667,48.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.083300,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022396","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":7022396,"name:xx":"Black Pine Spring"}}
+{
+  "id": 7022396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022396",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022396,
+    "tgn:name":"Black Pine Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0833,42.1],"type":"Point"}
+}

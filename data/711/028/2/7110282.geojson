@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.933333,49.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7110282","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008761"],"id":7110282,"name:xx":"Rautal"}}
+{
+  "id": 7110282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110282",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110282,
+    "tgn:name":"Rautal",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.933333,49.25],"type":"Point"}
+}

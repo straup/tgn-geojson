@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.733333,19.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7362878","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362878,"name:xx":"El Mentidero"}}
+{
+  "id": 7362878,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362878",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362878,
+    "tgn:name":"El Mentidero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.733333,19.366667],"type":"Point"}
+}

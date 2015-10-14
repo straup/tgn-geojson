@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.883300,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2762144","tgn:1000001","tgn:2001261","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2762144,"name:xx":"West Soap Creek"}}
+{
+  "id": 2762144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762144",
+        "tgn:1000001",
+        "tgn:2001261",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762144,
+    "tgn:name":"West Soap Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.8833,45.1833],"type":"Point"}
+}

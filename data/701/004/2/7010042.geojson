@@ -1,0 +1,28 @@
+{
+  "id": 7010042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010042",
+        "tgn:1000003",
+        "tgn:7001097",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010042,
+    "tgn:name:de":"Dunkirchen",
+    "tgn:name:en":"Dunkirk",
+    "tgn:name:fr":"Dunkerque",
+    "tgn:name:nl":"Duinkerke",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.3833,51.0333],"type":"Point"}
+}

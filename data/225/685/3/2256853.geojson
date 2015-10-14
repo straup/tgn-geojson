@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.033300,30.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2256853","tgn:1000001","tgn:7012149","tgn:2000912","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2256853,"name:xx":"Corkern Lake"}}
+{
+  "id": 2256853,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256853",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000912",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256853,
+    "tgn:name":"Corkern Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0333,30.6833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.283300,31.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2152434","tgn:1000001","tgn:7012149","tgn:2000392","tgn:7007248","tgn:7029392"],"placetype":["aat:300386845"],"id":2152434,"name:xx":"Bay Pole Sink"}}
+{
+  "id": 2152434,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152434",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000392",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152434,
+    "tgn:name":"Bay Pole Sink",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2833,31.1167],"type":"Point"}
+}

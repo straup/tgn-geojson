@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.800000,16.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7379300","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7379300,"name:xx":"Miahuatl\u00e1n, R\u00edo"}}
+{
+  "id": 7379300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379300",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379300,
+    "tgn:name":"Miahuatl\u00e1n, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.8,16.45],"type":"Point"}
+}

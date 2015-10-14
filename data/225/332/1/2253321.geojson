@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.800000,46.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2253321","tgn:1000001","tgn:7012149","tgn:2000975","tgn:7007520","tgn:7029392"],"placetype":["aat:300132316"],"id":2253321,"name:xx":"Conway Bay"}}
+{
+  "id": 2253321,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253321",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000975",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253321,
+    "tgn:name":"Conway Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8,46.8833],"type":"Point"}
+}

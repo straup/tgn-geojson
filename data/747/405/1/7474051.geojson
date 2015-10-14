@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.263611,22.766111]},"type":"Feature","properties":{"hierarchy":["tgn:7474051","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474051,"name:xx":"Zixin Cun"}}
+{
+  "id": 7474051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474051",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474051,
+    "tgn:name":"Zixin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.263611,22.766111],"type":"Point"}
+}

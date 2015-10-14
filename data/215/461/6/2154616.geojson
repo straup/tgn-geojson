@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.450000,37.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2154616","tgn:1000001","tgn:2000772","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2154616,"name:xx":"Bear Fork"}}
+{
+  "id": 2154616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154616",
+        "tgn:1000001",
+        "tgn:2000772",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154616,
+    "tgn:name":"Bear Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.45,37.5167],"type":"Point"}
+}

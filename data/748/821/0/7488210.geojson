@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.998016,24.364777]},"type":"Feature","properties":{"hierarchy":["tgn:7488210","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7488210,"name:xx":"Nankeng Shan"}}
+{
+  "id": 7488210,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488210",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488210,
+    "tgn:name":"Nankeng Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.998016,24.364777],"type":"Point"}
+}

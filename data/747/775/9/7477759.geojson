@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.138874,25.016738]},"type":"Feature","properties":{"hierarchy":["tgn:7477759","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7477759,"name:xx":"Xinpozhuang"}}
+{
+  "id": 7477759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477759",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477759,
+    "tgn:name":"Xinpozhuang",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.138874,25.016738],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.150000,39.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2339953","tgn:1000001","tgn:7012149","tgn:1002662","tgn:7007706","tgn:7029392"],"placetype":["aat:300055621"],"id":2339953,"name:xx":"Freemans Prairie"}}
+{
+  "id": 2339953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339953",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002662",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339953,
+    "tgn:name":"Freemans Prairie",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.15,39.9333],"type":"Point"}
+}

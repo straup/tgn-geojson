@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.566667,43.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7051797","tgn:7003163","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051797,"name:xx":"Il Palazzo"}}
+{
+  "id": 7051797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051797",
+        "tgn:7003163",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051797,
+    "tgn:name":"Il Palazzo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.566667,43.883333],"type":"Point"}
+}

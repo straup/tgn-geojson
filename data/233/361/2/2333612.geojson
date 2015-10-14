@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.633300,42.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2333612","tgn:1000001","tgn:7012149","tgn:2002376","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2333612,"name:xx":"Fontennelle Mountain"}}
+{
+  "id": 2333612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333612",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002376",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333612,
+    "tgn:name":"Fontennelle Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6333,42.4],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.830963,24.678300]},"type":"Feature","properties":{"hierarchy":["tgn:7470417","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470417,"name:xx":"Jialiwan"}}
+{
+  "id": 7470417,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470417",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470417,
+    "tgn:name":"Jialiwan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.830963,24.6783],"type":"Point"}
+}

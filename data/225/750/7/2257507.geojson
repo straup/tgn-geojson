@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.716700,42.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2257507","tgn:1000001","tgn:7012149","tgn:2001709","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2257507,"name:xx":"Corporation Rim"}}
+{
+  "id": 2257507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257507",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001709",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257507,
+    "tgn:name":"Corporation Rim",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.7167,42.7833],"type":"Point"}
+}

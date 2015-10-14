@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.800000,42.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2150116","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2150116,"name:xx":"Barton Reservoir"}}
+{
+  "id": 2150116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150116",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150116,
+    "tgn:name":"Barton Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8,42.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.816667,54.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7177087","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7177087,"name:xx":"Hardebek-Brokenlander Au"}}
+{
+  "id": 7177087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177087",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177087,
+    "tgn:name":"Hardebek-Brokenlander Au",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.816667,54.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.600000,53.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7116654","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116654,"name:xx":"Osau"}}
+{
+  "id": 7116654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116654",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116654,
+    "tgn:name":"Osau",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.6,53.95],"type":"Point"}
+}

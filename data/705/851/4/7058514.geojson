@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,41.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7058514","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058514,"name:xx":"Borgo Sabotino"}}
+{
+  "id": 7058514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058514",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058514,
+    "tgn:name":"Borgo Sabotino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,41.416667],"type":"Point"}
+}

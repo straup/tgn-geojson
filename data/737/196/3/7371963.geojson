@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.050000,26.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7371963","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7371963,"name:xx":"Laja, Sierra de la"}}
+{
+  "id": 7371963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371963",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371963,
+    "tgn:name":"Laja, Sierra de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.05,26.883333],"type":"Point"}
+}

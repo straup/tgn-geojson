@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.966700,45.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7020347","tgn:1000001","tgn:2001260","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7020347,"name:xx":"Excelsior Lode Mine"}}
+{
+  "id": 7020347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020347",
+        "tgn:1000001",
+        "tgn:2001260",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020347,
+    "tgn:name":"Excelsior Lode Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.9667,45.1333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.521690,25.280485]},"type":"Feature","properties":{"hierarchy":["tgn:7470165","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470165,"name:xx":"Xiayuankeng"}}
+{
+  "id": 7470165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470165",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470165,
+    "tgn:name":"Xiayuankeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.52169,25.280485],"type":"Point"}
+}

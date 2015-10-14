@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.333300,43.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2158104","tgn:2001423","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2158104,"name:xx":"Beaver Pond"}}
+{
+  "id": 2158104,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158104",
+        "tgn:2001423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158104,
+    "tgn:name":"Beaver Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.3333,43.8],"type":"Point"}
+}

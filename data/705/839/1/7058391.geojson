@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.350000,45.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7058391","tgn:7002996","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058391,"name:xx":"Borgo Zanetti"}}
+{
+  "id": 7058391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058391",
+        "tgn:7002996",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058391,
+    "tgn:name":"Borgo Zanetti",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.35,45.983333],"type":"Point"}
+}

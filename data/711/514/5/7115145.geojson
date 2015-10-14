@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.550000,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7115145","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115145,"name:xx":"Ochsenbruch"}}
+{
+  "id": 7115145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115145",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115145,
+    "tgn:name":"Ochsenbruch",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.55,50.733333],"type":"Point"}
+}

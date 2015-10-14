@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.750000,39.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2401406","tgn:1000001","tgn:7012149","tgn:1002350","tgn:7007157","tgn:7029392"],"placetype":["aat:300132348"],"id":2401406,"name:xx":"Horseshoe Bar"}}
+{
+  "id": 2401406,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401406",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002350",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401406,
+    "tgn:name":"Horseshoe Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.75,39.0],"type":"Point"}
+}

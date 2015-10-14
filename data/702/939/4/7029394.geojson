@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[0.416000,48.516000]},"type":"Feature","properties":{"hierarchy":["tgn:7029394","tgn:7002872","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7029394,"name:xx":"Bur\u00e9"}}
+{
+  "id": 7029394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029394",
+        "tgn:7002872",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029394,
+    "tgn:name":"Bur\u00e9",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.416,48.516],"type":"Point"}
+}

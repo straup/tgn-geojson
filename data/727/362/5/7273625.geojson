@@ -1,0 +1,25 @@
+{
+  "id": 7273625,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2744333",
+        "qs:id":5,
+        "wof:id":101809759
+    },
+    "tgn:hierarchy":[
+        "tgn:7273625",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273625,
+    "tgn:name:nl":"Wintelre",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.333333,51.45],"type":"Point"}
+}

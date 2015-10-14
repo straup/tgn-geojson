@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.266667,51.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7117713","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117713,"name:xx":"Osthellermark"}}
+{
+  "id": 7117713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117713",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117713,
+    "tgn:name":"Osthellermark",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.266667,51.95],"type":"Point"}
+}

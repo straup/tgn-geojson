@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.516700,36.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2151158","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300266640"],"id":2151158,"name:xx":"Bat Ridge"}}
+{
+  "id": 2151158,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151158",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151158,
+    "tgn:name":"Bat Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5167,36.8667],"type":"Point"}
+}

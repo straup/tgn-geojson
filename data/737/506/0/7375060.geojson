@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.566667,20.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7375060","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300386885"],"id":7375060,"name:xx":"Lechuguillas, Barra de"}}
+{
+  "id": 7375060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375060",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375060,
+    "tgn:name":"Lechuguillas, Barra de",
+    "tgn:placetype":[
+        "aat:300386885"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.566667,20.0],"type":"Point"}
+}

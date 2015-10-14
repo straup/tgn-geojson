@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.200000,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7055780","tgn:1003510","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055780,"name:xx":"Leri"}}
+{
+  "id": 7055780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055780",
+        "tgn:1003510",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055780,
+    "tgn:name":"Leri",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.2,45.25],"type":"Point"}
+}

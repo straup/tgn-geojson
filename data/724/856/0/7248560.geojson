@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.835952,51.129864]},"type":"Feature","properties":{"hierarchy":["tgn:7248560","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248560,"name:xx":"Biesbrughoek"}}
+{
+  "id": 7248560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248560",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248560,
+    "tgn:name":"Biesbrughoek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.835952,51.129864],"type":"Point"}
+}

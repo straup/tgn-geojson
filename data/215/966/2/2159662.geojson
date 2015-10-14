@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.400000,34.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2159662","tgn:1000001","tgn:2001485","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2159662,"name:xx":"Bee Tree Ridge"}}
+{
+  "id": 2159662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159662",
+        "tgn:1000001",
+        "tgn:2001485",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159662,
+    "tgn:name":"Bee Tree Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4,34.2333],"type":"Point"}
+}

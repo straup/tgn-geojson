@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.483300,35.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2404989","tgn:1000001","tgn:7012149","tgn:2001448","tgn:7007566","tgn:7029392"],"placetype":["aat:300006075"],"id":2404989,"name:xx":"Hudson Canal"}}
+{
+  "id": 2404989,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404989",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001448",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404989,
+    "tgn:name":"Hudson Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.4833,35.2333],"type":"Point"}
+}

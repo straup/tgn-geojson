@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.050000,29.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2403572","tgn:1000001","tgn:2000270","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008706"],"id":2403572,"name:xx":"Howard Creek"}}
+{
+  "id": 2403572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403572",
+        "tgn:1000001",
+        "tgn:2000270",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403572,
+    "tgn:name":"Howard Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.05,29.9],"type":"Point"}
+}

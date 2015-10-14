@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.828611,22.914444]},"type":"Feature","properties":{"hierarchy":["tgn:7483267","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7483267,"name:xx":"Wanshanshen Chi"}}
+{
+  "id": 7483267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483267",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483267,
+    "tgn:name":"Wanshanshen Chi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.828611,22.914444],"type":"Point"}
+}

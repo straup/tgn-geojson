@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.666667,50.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7243544","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243544,"name:xx":"Malaise"}}
+{
+  "id": 7243544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243544",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243544,
+    "tgn:name":"Malaise",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.666667,50.766667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.783300,41.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2704192","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300011692"],"id":2704192,"name:xx":"Sunken Ledge"}}
+{
+  "id": 2704192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704192",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704192,
+    "tgn:name":"Sunken Ledge",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.7833,41.6333],"type":"Point"}
+}

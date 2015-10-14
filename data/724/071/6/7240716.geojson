@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.900000,50.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7240716","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7240716,"name:xx":"Firmandes, Bois des"}}
+{
+  "id": 7240716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240716",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240716,
+    "tgn:name":"Firmandes, Bois des",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,50.15],"type":"Point"}
+}

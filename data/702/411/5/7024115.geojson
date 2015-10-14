@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[18.000000,54.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7024115","tgn:1000003","tgn:7006366","tgn:7029392"],"placetype":["aat:300387064","aat:300235112"],"id":7024115,"name:xx":"Pomorskie"}}
+{
+  "id": 7024115,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024115",
+        "tgn:1000003",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024115,
+    "tgn:name":"Pomorskie",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300235112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.0,54.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.550000,29.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7353292","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353292,"name:xx":"Buenavista"}}
+{
+  "id": 7353292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353292",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353292,
+    "tgn:name":"Buenavista",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.55,29.7],"type":"Point"}
+}

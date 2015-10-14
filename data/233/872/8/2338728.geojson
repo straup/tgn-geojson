@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.283300,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2338728","tgn:7019618","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300266640"],"id":2338728,"name:xx":"Franconia Mountain Range"}}
+{
+  "id": 2338728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338728",
+        "tgn:7019618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338728,
+    "tgn:name":"Franconia Mountain Range",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2833,42.8],"type":"Point"}
+}

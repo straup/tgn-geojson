@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.616700,48.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7020096","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":7020096,"name:xx":"Hardscrabble Creek"}}
+{
+  "id": 7020096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020096",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020096,
+    "tgn:name":"Hardscrabble Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.6167,48.6],"type":"Point"}
+}

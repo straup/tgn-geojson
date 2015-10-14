@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.866667,30.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7372618","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372618,"name:xx":"La Estancia"}}
+{
+  "id": 7372618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372618",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372618,
+    "tgn:name":"La Estancia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.866667,30.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.050000,47.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2255245","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300266640"],"id":2255245,"name:xx":"Cooper Ridge"}}
+{
+  "id": 2255245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255245",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255245,
+    "tgn:name":"Cooper Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.05,47.9667],"type":"Point"}
+}

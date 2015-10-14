@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.766667,48.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7177675","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008057"],"id":7177675,"name:xx":"Ruine G\u00fcnzelburg"}}
+{
+  "id": 7177675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177675",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177675,
+    "tgn:name":"Ruine G\u00fcnzelburg",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.766667,48.4],"type":"Point"}
+}

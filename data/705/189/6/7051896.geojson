@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.400000,40.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7051896","tgn:7003248","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051896,"name:xx":"Pescara, Canale"}}
+{
+  "id": 7051896,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051896",
+        "tgn:7003248",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051896,
+    "tgn:name":"Pescara, Canale",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.4,40.833333],"type":"Point"}
+}

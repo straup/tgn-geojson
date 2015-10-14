@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.450000,27.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7371136","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7371136,"name:xx":"Gosogachic, Arroyo"}}
+{
+  "id": 7371136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371136",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371136,
+    "tgn:name":"Gosogachic, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.45,27.266667],"type":"Point"}
+}

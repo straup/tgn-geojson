@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.733300,29.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2760697","tgn:1000001","tgn:7012149","tgn:2002060","tgn:7007826","tgn:7029392"],"placetype":["aat:300008707"],"id":2760697,"name:xx":"West Frio River"}}
+{
+  "id": 2760697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760697",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002060",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760697,
+    "tgn:name":"West Frio River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.7333,29.9833],"type":"Point"}
+}

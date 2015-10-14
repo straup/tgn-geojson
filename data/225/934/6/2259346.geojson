@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-151.750000,60.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2259346","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2259346,"name:xx":"Cottonwood Slough"}}
+{
+  "id": 2259346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259346",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259346,
+    "tgn:name":"Cottonwood Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-151.75,60.9833],"type":"Point"}
+}

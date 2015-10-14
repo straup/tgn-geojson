@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.033300,42.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2252180","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2252180,"name:xx":"Cone Ridge"}}
+{
+  "id": 2252180,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252180",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252180,
+    "tgn:name":"Cone Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0333,42.9],"type":"Point"}
+}

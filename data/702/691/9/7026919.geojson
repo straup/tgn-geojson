@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.200000,51.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7026919","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026919,"name:xx":"Popham"}}
+{
+  "id": 7026919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026919",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026919,
+    "tgn:name":"Popham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.2,51.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.716700,38.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2335758","tgn:1000001","tgn:7012149","tgn:2000234","tgn:7007158","tgn:7029392"],"placetype":["aat:300000390"],"id":2335758,"name:xx":"Forty-five Ninety Mine"}}
+{
+  "id": 2335758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335758",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000234",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335758,
+    "tgn:name":"Forty-five Ninety Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7167,38.3333],"type":"Point"}
+}

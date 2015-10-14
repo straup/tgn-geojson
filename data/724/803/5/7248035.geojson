@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.504201,50.621225]},"type":"Feature","properties":{"hierarchy":["tgn:7248035","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7248035,"name:xx":"Beclers"}}
+{
+  "id": 7248035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248035",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248035,
+    "tgn:name":"Beclers",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.504201,50.621225],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.169416,50.810422]},"type":"Feature","properties":{"hierarchy":["tgn:7243335","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7243335,"name:xx":"Kruishoek"}}
+{
+  "id": 7243335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243335",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243335,
+    "tgn:name":"Kruishoek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.169416,50.810422],"type":"Point"}
+}

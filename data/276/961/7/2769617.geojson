@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.816700,34.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2769617","tgn:1000001","tgn:7012149","tgn:2001752","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2769617,"name:xx":"Wiedemann Pond"}}
+{
+  "id": 2769617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769617",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001752",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769617,
+    "tgn:name":"Wiedemann Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8167,34.2333],"type":"Point"}
+}

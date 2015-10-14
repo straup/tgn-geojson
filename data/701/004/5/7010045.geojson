@@ -1,0 +1,25 @@
+{
+  "id": 7010045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010045",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019068",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010045,
+    "tgn:name:en":"Hartlepool",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.2125,54.686111],"type":"Point"}
+}

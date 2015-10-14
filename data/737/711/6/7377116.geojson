@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.516667,29.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7377116","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377116,"name:xx":"Rancho La Pe\u00f1a"}}
+{
+  "id": 7377116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377116",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377116,
+    "tgn:name":"Rancho La Pe\u00f1a",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.516667,29.55],"type":"Point"}
+}

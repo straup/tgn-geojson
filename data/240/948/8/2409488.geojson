@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.883300,44.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2409488","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2409488,"name:xx":"Idler Lakes"}}
+{
+  "id": 2409488,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409488",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409488,
+    "tgn:name":"Idler Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8833,44.9167],"type":"Point"}
+}

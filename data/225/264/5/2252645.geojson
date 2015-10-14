@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.350000,35.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2252645","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2252645,"name:xx":"Connelly Mountain"}}
+{
+  "id": 2252645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252645",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252645,
+    "tgn:name":"Connelly Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.35,35.3667],"type":"Point"}
+}

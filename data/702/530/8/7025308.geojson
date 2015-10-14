@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.433333,53.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7025308","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025308,"name:ang":"Winefeld"}}
+{
+  "id": 7025308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025308",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025308,
+    "tgn:name:ang":"Winefeld",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.433333,53.083333],"type":"Point"}
+}

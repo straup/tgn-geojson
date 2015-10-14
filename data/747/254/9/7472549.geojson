@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.217778,24.309722]},"type":"Feature","properties":{"hierarchy":["tgn:7472549","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7472549,"name:xx":"Zhuilun Shan"}}
+{
+  "id": 7472549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472549",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472549,
+    "tgn:name":"Zhuilun Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.217778,24.309722],"type":"Point"}
+}

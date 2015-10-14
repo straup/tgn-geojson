@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.400000,32.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2259620","tgn:1000001","tgn:7012149","tgn:2000894","tgn:7007256","tgn:7029392"],"placetype":["aat:300008798"],"id":2259620,"name:xx":"Couchanda Hill"}}
+{
+  "id": 2259620,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259620",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000894",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259620,
+    "tgn:name":"Couchanda Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4,32.0],"type":"Point"}
+}

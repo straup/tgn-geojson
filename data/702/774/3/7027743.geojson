@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.250000,53.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7027743","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"East Barkwith","id":7027743}}
+{
+  "id": 7027743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027743",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027743,
+    "tgn:name:en":"East Barkwith",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.25,53.316667],"type":"Point"}
+}

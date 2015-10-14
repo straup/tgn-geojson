@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.583333,27.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7351285","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351285,"name:xx":"Bojute, Cerro"}}
+{
+  "id": 7351285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351285",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351285,
+    "tgn:name":"Bojute, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.583333,27.3],"type":"Point"}
+}

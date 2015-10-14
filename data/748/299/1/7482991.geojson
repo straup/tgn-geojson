@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.179167,23.667778]},"type":"Feature","properties":{"hierarchy":["tgn:7482991","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7482991,"name:xx":"Lincuo Guoxiao"}}
+{
+  "id": 7482991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482991",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482991,
+    "tgn:name":"Lincuo Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.179167,23.667778],"type":"Point"}
+}

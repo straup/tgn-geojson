@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.233333,18.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7359733","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7359733,"name:xx":"Coalcom\u00e1n, R\u00edo de"}}
+{
+  "id": 7359733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359733",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359733,
+    "tgn:name":"Coalcom\u00e1n, R\u00edo de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.233333,18.233333],"type":"Point"}
+}

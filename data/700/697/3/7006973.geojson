@@ -1,0 +1,30 @@
+{
+  "id": 7006973,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0381a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759633",
+        "gp:id":727378,
+        "qs:id":2,
+        "wof:id":101751879
+    },
+    "tgn:hierarchy":[
+        "tgn:7006973",
+        "tgn:7003614",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006973,
+    "tgn:name:nl":"Assen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.55,53.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.442374,23.869900]},"type":"Feature","properties":{"hierarchy":["tgn:7472026","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472026,"name:xx":"Wuzhuangzi Qiao"}}
+{
+  "id": 7472026,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472026",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472026,
+    "tgn:name":"Wuzhuangzi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.442374,23.8699],"type":"Point"}
+}

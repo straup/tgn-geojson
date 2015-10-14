@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.775459,24.647167]},"type":"Feature","properties":{"hierarchy":["tgn:7474731","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474731,"name:xx":"Yongmei Cun"}}
+{
+  "id": 7474731,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474731",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474731,
+    "tgn:name":"Yongmei Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.775459,24.647167],"type":"Point"}
+}

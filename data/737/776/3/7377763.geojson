@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.633333,25.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7377763","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377763,"name:xx":"Rancho La Verdolaga"}}
+{
+  "id": 7377763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377763",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377763,
+    "tgn:name":"Rancho La Verdolaga",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.633333,25.25],"type":"Point"}
+}

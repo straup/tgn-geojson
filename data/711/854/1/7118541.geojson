@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.233333,51.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7118541","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7118541,"name:xx":"Panitz"}}
+{
+  "id": 7118541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118541",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118541,
+    "tgn:name":"Panitz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.233333,51.25],"type":"Point"}
+}

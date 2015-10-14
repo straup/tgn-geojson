@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.233300,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2157619","tgn:1000001","tgn:2000466","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2157619,"name:xx":"Beaver Dam Creek"}}
+{
+  "id": 2157619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157619",
+        "tgn:1000001",
+        "tgn:2000466",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157619,
+    "tgn:name":"Beaver Dam Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.2333,42.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.466700,59.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2336250","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7019760","tgn:7029392"],"placetype":["aat:300008798"],"id":2336250,"name:xx":"Foster, Mount"}}
+{
+  "id": 2336250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336250",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019760",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336250,
+    "tgn:name":"Foster, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.4667,59.7833],"type":"Point"}
+}

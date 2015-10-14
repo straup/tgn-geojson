@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.116667,20.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7357185","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7357185,"name:xx":"Chiveros"}}
+{
+  "id": 7357185,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357185",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357185,
+    "tgn:name":"Chiveros",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.116667,20.766667],"type":"Point"}
+}

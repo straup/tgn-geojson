@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.066667,19.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7369978","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369978,"name:xx":"Huaxcaleca"}}
+{
+  "id": 7369978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369978",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369978,
+    "tgn:name":"Huaxcaleca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.066667,19.25],"type":"Point"}
+}

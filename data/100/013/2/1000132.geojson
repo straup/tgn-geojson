@@ -1,0 +1,29 @@
+{
+  "id": 1000132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000132",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000132,
+    "tgn:name":"Nep\u0101l",
+    "tgn:name:ar":"\u0647 \u0628\u064f\u0627\u0644",
+    "tgn:name:en":"Nepal",
+    "tgn:name:es":"Nepal",
+    "tgn:name:fr":"N\u00e9pal",
+    "tgn:name:ne":"\u0928\u0947\u092a\u093e\u0932",
+    "tgn:name:ru":"\u041d\u0435\u043f\u0430\u043b",
+    "tgn:name:zh":"\u5c3c\u6cca\u5c14",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[84.0,28.0],"type":"Point"}
+}

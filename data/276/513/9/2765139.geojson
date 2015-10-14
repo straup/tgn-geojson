@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.250000,31.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2765139","tgn:1000001","tgn:7012149","tgn:2000911","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2765139,"name:xx":"Whispering Pines Estates"}}
+{
+  "id": 2765139,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765139",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000911",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765139,
+    "tgn:name":"Whispering Pines Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.25,31.15],"type":"Point"}
+}

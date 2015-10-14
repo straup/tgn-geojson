@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.600000,41.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2150940","tgn:1000001","tgn:7012149","tgn:1002918","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2150940,"name:xx":"Bass Station"}}
+{
+  "id": 2150940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150940",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002918",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150940,
+    "tgn:name":"Bass Station",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.6,41.1833],"type":"Point"}
+}

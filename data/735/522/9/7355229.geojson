@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.916667,17.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7355229","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355229,"name:xx":"Cantaritos, Cerro"}}
+{
+  "id": 7355229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355229",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355229,
+    "tgn:name":"Cantaritos, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.916667,17.533333],"type":"Point"}
+}

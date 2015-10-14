@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.206944,23.767500]},"type":"Feature","properties":{"hierarchy":["tgn:7480956","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480956,"name:xx":"Sishi'erdong"}}
+{
+  "id": 7480956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480956",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480956,
+    "tgn:name":"Sishi'erdong",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.206944,23.7675],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.066700,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2253573","tgn:2002138","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2253573,"name:xx":"Cook Hollow"}}
+{
+  "id": 2253573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253573",
+        "tgn:2002138",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253573,
+    "tgn:name":"Cook Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0667,37.85],"type":"Point"}
+}

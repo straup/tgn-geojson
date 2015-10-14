@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.200000,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2252235","tgn:1000001","tgn:1002840","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008850"],"id":2252235,"name:xx":"Cones Point"}}
+{
+  "id": 2252235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252235",
+        "tgn:1000001",
+        "tgn:1002840",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252235,
+    "tgn:name":"Cones Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2,43.45],"type":"Point"}
+}

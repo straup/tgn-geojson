@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.116700,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2405353","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2405353,"name:xx":"Huffstetler Pond"}}
+{
+  "id": 2405353,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405353",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405353,
+    "tgn:name":"Huffstetler Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1167,33.9833],"type":"Point"}
+}

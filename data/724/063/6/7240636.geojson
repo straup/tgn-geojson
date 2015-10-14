@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.260324,50.664471]},"type":"Feature","properties":{"hierarchy":["tgn:7240636","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240636,"name:xx":"Faimes"}}
+{
+  "id": 7240636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240636",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240636,
+    "tgn:name":"Faimes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.260324,50.664471],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.500000,28.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7377697","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7377697,"name:xx":"La Soledad, Arroyo"}}
+{
+  "id": 7377697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377697",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377697,
+    "tgn:name":"La Soledad, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.5,28.8],"type":"Point"}
+}

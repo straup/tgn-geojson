@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.216700,36.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2334452","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008761"],"id":2334452,"name:xx":"Forest Lake Wash"}}
+{
+  "id": 2334452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334452",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334452,
+    "tgn:name":"Forest Lake Wash",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.2167,36.3667],"type":"Point"}
+}

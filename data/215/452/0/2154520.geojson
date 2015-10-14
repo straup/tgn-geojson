@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.950000,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2154520","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300266640"],"id":2154520,"name:xx":"Bear Creek Ridge"}}
+{
+  "id": 2154520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154520",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154520,
+    "tgn:name":"Bear Creek Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.95,40.55],"type":"Point"}
+}

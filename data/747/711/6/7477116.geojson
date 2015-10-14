@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.945000,25.020200]},"type":"Feature","properties":{"hierarchy":["tgn:7477116","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477116,"name:xx":"Neihe Daqiao"}}
+{
+  "id": 7477116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477116",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477116,
+    "tgn:name":"Neihe Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.945,25.0202],"type":"Point"}
+}

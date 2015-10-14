@@ -1,0 +1,29 @@
+{
+  "id": 1000236,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000236",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000236,
+    "tgn:name:ar":"\u062b\u0648\u0641\u0627 \u0648\u064b",
+    "tgn:name:en":"Tuvalu",
+    "tgn:name:es":"Tuvalu",
+    "tgn:name:fr":"Tuvalu",
+    "tgn:name:ru":"\u0422\u0443\u0432\u0430\u043b\u0443",
+    "tgn:name:tvl":"Tuvalu",
+    "tgn:name:zh":"\u56fe\u74e6\u5362",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235119"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[178.0,-8.0],"type":"Point"}
+}

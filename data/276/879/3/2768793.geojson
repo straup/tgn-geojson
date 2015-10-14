@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.033300,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2768793","tgn:1000001","tgn:2002109","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300386837"],"id":2768793,"name:xx":"Whitmore Arch"}}
+{
+  "id": 2768793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768793",
+        "tgn:1000001",
+        "tgn:2002109",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768793,
+    "tgn:name":"Whitmore Arch",
+    "tgn:placetype":[
+        "aat:300386837"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0333,38.1333],"type":"Point"}
+}

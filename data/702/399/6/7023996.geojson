@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[21.616700,32.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7023996","tgn:7000606","tgn:7001242","tgn:1000172","tgn:7029392"],"placetype":["aat:300008347","aat:300000810"],"id":7023996,"name:xx":"Massah"}}
+{
+  "id": 7023996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023996",
+        "tgn:7000606",
+        "tgn:7001242",
+        "tgn:1000172",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023996,
+    "tgn:name":"Massah",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.6167,32.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.016667,32.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7363839","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7363839,"name:xx":"El Barb\u00f3n"}}
+{
+  "id": 7363839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363839",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363839,
+    "tgn:name":"El Barb\u00f3n",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.016667,32.05],"type":"Point"}
+}

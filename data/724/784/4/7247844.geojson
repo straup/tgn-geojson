@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.933333,49.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7247844","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7247844,"name:xx":"Chenais, Bois"}}
+{
+  "id": 7247844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247844",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247844,
+    "tgn:name":"Chenais, Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.933333,49.85],"type":"Point"}
+}

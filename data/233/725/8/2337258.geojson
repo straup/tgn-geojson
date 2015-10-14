@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.383300,47.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2337258","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2337258,"name:xx":"Fourth Of July Creek"}}
+{
+  "id": 2337258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337258",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337258,
+    "tgn:name":"Fourth Of July Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3833,47.8],"type":"Point"}
+}

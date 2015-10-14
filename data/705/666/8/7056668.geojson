@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.416667,42.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7056668","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056668,"name:xx":"Acquaviva, Fosso"}}
+{
+  "id": 7056668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056668",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056668,
+    "tgn:name":"Acquaviva, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.416667,42.766667],"type":"Point"}
+}

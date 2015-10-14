@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.864207,25.034160]},"type":"Feature","properties":{"hierarchy":["tgn:7477099","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7477099,"name:xx":"Pinglin Xi"}}
+{
+  "id": 7477099,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477099",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477099,
+    "tgn:name":"Pinglin Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.864207,25.03416],"type":"Point"}
+}

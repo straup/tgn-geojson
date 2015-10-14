@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.833300,29.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2258356","tgn:1000001","tgn:7012149","tgn:1002251","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2258356,"name:xx":"Cotton Bayou"}}
+{
+  "id": 2258356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258356",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002251",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258356,
+    "tgn:name":"Cotton Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.8333,29.8333],"type":"Point"}
+}

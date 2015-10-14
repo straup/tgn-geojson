@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.000000,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7020066","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":7020066,"name:xx":"LeClair Brook"}}
+{
+  "id": 7020066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020066",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020066,
+    "tgn:name":"LeClair Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0,44.0333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.250000,18.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7359960","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7359960,"name:xx":"Conejo, Laguna"}}
+{
+  "id": 7359960,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359960",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359960,
+    "tgn:name":"Conejo, Laguna",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.25,18.9],"type":"Point"}
+}

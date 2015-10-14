@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.616700,52.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7027044","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027044,"name:xx":"Felton"}}
+{
+  "id": 7027044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027044",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027044,
+    "tgn:name":"Felton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.6167,52.1333],"type":"Point"}
+}

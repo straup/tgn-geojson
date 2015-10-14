@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.900000,38.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7021200","tgn:1000001","tgn:7012149","tgn:2002277","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021200,"name:xx":"Daves Branch"}}
+{
+  "id": 7021200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021200",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002277",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021200,
+    "tgn:name":"Daves Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9,38.7],"type":"Point"}
+}

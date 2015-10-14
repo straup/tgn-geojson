@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.116667,30.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7374020","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374020,"name:xx":"La Guitarra"}}
+{
+  "id": 7374020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374020",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374020,
+    "tgn:name":"La Guitarra",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.116667,30.366667],"type":"Point"}
+}

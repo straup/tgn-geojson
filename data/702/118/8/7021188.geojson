@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.050000,38.016700]},"type":"Feature","properties":{"hierarchy":["tgn:7021188","tgn:1000001","tgn:7012149","tgn:2002272","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021188,"name:xx":"Road Branch"}}
+{
+  "id": 7021188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021188",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002272",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021188,
+    "tgn:name":"Road Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.05,38.0167],"type":"Point"}
+}

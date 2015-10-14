@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.166700,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2769873","tgn:1002716","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300055621"],"id":2769873,"name:xx":"Wilbour Woods"}}
+{
+  "id": 2769873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769873",
+        "tgn:1002716",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769873,
+    "tgn:name":"Wilbour Woods",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.1667,41.4833],"type":"Point"}
+}

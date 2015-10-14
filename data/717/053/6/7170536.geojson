@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.766667,47.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7170536","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7170536,"name:xx":"Henschenberg"}}
+{
+  "id": 7170536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170536",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170536,
+    "tgn:name":"Henschenberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.766667,47.7],"type":"Point"}
+}

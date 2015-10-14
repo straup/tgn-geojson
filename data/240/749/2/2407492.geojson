@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.850000,42.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2407492","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008706"],"id":2407492,"name:xx":"Hunts Island Creek"}}
+{
+  "id": 2407492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407492",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407492,
+    "tgn:name":"Hunts Island Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.85,42.8833],"type":"Point"}
+}

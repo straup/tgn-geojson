@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.650000,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2401154","tgn:1000001","tgn:7012149","tgn:2000809","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2401154,"name:xx":"Horseford Creek"}}
+{
+  "id": 2401154,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401154",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000809",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401154,
+    "tgn:name":"Horseford Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.65,38.1833],"type":"Point"}
+}

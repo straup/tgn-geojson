@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.666700,51.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7025058","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300000238","aat:300008187"],"id":7025058,"name:ang":"Hucheham"}}
+{
+  "id": 7025058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025058",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025058,
+    "tgn:name:ang":"Hucheham",
+    "tgn:placetype":[
+        "aat:300000238",
+        "aat:300008187"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.6667,51.5333],"type":"Point"}
+}

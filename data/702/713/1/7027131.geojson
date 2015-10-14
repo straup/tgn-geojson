@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[19.500000,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7027131","tgn:1000003","tgn:7011765","tgn:7029392"],"placetype":["aat:300387064","aat:300236112"],"id":7027131,"name:xx":"Banskobystrick\u00fd"}}
+{
+  "id": 7027131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027131",
+        "tgn:1000003",
+        "tgn:7011765",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027131,
+    "tgn:name":"Banskobystrick\u00fd",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[19.5,48.5],"type":"Point"}
+}

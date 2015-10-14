@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.638863,23.598800]},"type":"Feature","properties":{"hierarchy":["tgn:7476627","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476627,"name:xx":"Daohuotou"}}
+{
+  "id": 7476627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476627",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476627,
+    "tgn:name":"Daohuotou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.638863,23.5988],"type":"Point"}
+}

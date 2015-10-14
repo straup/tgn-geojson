@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.783300,42.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2337416","tgn:1000001","tgn:1003029","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2337416,"name:xx":"Fowler Brook"}}
+{
+  "id": 2337416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337416",
+        "tgn:1000001",
+        "tgn:1003029",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337416,
+    "tgn:name":"Fowler Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7833,42.7333],"type":"Point"}
+}

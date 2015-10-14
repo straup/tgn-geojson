@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.833300,30.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2151235","tgn:1000001","tgn:7012149","tgn:2000912","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2151235,"name:xx":"Bateman Lake"}}
+{
+  "id": 2151235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151235",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000912",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151235,
+    "tgn:name":"Bateman Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8333,30.7833],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7006624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7006624",
+        "tgn:7006642",
+        "tgn:1000003",
+        "tgn:7006540",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006624,
+    "tgn:name":"Tartu",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387222",
+        "aat:300387302",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[26.745,58.366],"type":"Point"}
+}

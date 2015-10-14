@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.150000,42.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2336984","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300386845"],"id":2336984,"name:xx":"Fourmile Flat Quarry"}}
+{
+  "id": 2336984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336984",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336984,
+    "tgn:name":"Fourmile Flat Quarry",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.15,42.4333],"type":"Point"}
+}

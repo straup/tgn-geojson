@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.316700,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2334369","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2334369,"name:xx":"Forest Home Reservoir Number 4"}}
+{
+  "id": 2334369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334369",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334369,
+    "tgn:name":"Forest Home Reservoir Number 4",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3167,38.35],"type":"Point"}
+}

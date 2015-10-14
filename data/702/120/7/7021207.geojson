@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.116700,37.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7021207","tgn:1000001","tgn:7012149","tgn:2002278","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021207,"name:xx":"Spruce Branch"}}
+{
+  "id": 7021207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021207",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002278",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021207,
+    "tgn:name":"Spruce Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1167,37.2833],"type":"Point"}
+}

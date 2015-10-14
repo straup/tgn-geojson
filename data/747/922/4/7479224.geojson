@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.459444,23.462778]},"type":"Feature","properties":{"hierarchy":["tgn:7479224","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479224,"name:xx":"Liren N\u00fczhong"}}
+{
+  "id": 7479224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479224",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479224,
+    "tgn:name":"Liren N\u00fczhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.459444,23.462778],"type":"Point"}
+}

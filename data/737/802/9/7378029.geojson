@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.483333,26.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7378029","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378029,"name:xx":"Rancho La Playa"}}
+{
+  "id": 7378029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378029",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378029,
+    "tgn:name":"Rancho La Playa",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.483333,26.783333],"type":"Point"}
+}

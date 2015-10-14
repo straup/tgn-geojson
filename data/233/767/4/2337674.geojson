@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.316700,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2337674","tgn:1000001","tgn:7012149","tgn:2002264","tgn:7013961","tgn:7029392"],"placetype":["aat:300008746"],"id":2337674,"name:xx":"Fox Cave"}}
+{
+  "id": 2337674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337674",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002264",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337674,
+    "tgn:name":"Fox Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3167,38.0333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.466667,25.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7362998","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362998,"name:xx":"Rancho El Espeso"}}
+{
+  "id": 7362998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362998",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362998,
+    "tgn:name":"Rancho El Espeso",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.466667,25.933333],"type":"Point"}
+}

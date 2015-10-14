@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.533300,37.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2257959","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014005","tgn:7029392"],"placetype":["aat:300266640"],"id":2257959,"name:xx":"Corte Madera Ridge"}}
+{
+  "id": 2257959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257959",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257959,
+    "tgn:name":"Corte Madera Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5333,37.9167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.050000,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2156863","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000176","tgn:7029392"],"placetype":["aat:300008347"],"id":2156863,"name:xx":"Beau-O-Rama"}}
+{
+  "id": 2156863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156863",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000176",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156863,
+    "tgn:name":"Beau-O-Rama",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.05,36.1333],"type":"Point"}
+}

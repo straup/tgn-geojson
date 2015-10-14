@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.816667,18.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7375491","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7375491,"name:xx":"Limoncillas, Arroyo"}}
+{
+  "id": 7375491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375491",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375491,
+    "tgn:name":"Limoncillas, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.816667,18.033333],"type":"Point"}
+}

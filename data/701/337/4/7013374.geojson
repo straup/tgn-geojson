@@ -1,0 +1,25 @@
+{
+  "id": 7013374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013374",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7018871",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013374,
+    "tgn:name":"Bellevue",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387512",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.1833,47.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.500000,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2256279","tgn:1000001","tgn:7012149","tgn:2002372","tgn:7007923","tgn:7029392"],"placetype":["aat:300000390"],"id":2256279,"name:xx":"Copperbelt Mine"}}
+{
+  "id": 2256279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256279",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002372",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256279,
+    "tgn:name":"Copperbelt Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5,42.5833],"type":"Point"}
+}

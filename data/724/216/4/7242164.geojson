@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.916667,50.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7242164","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7242164,"name:xx":"Lekkerboterbeek"}}
+{
+  "id": 7242164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242164",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242164,
+    "tgn:name":"Lekkerboterbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.916667,50.9],"type":"Point"}
+}

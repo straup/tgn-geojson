@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.551600,22.853400]},"type":"Feature","properties":{"hierarchy":["tgn:7470832","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470832,"name:xx":"Jiuxue"}}
+{
+  "id": 7470832,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470832",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470832,
+    "tgn:name":"Jiuxue",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5516,22.8534],"type":"Point"}
+}

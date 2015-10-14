@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.616700,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2256815","tgn:1000001","tgn:7012149","tgn:2001765","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2256815,"name:xx":"Corinth"}}
+{
+  "id": 2256815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256815",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001765",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256815,
+    "tgn:name":"Corinth",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6167,34.0833],"type":"Point"}
+}

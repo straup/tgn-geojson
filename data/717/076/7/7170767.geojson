@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.816667,48.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7170767","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7170767,"name:xx":"Hennensberger Holz"}}
+{
+  "id": 7170767,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170767",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170767,
+    "tgn:name":"Hennensberger Holz",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.816667,48.583333],"type":"Point"}
+}

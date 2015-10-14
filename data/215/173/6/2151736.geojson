@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.216700,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2151736","tgn:1000001","tgn:7012149","tgn:2002358","tgn:7007922","tgn:7029392"],"placetype":["aat:300008791"],"id":2151736,"name:xx":"Battle Island"}}
+{
+  "id": 2151736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151736",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002358",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151736,
+    "tgn:name":"Battle Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2167,43.45],"type":"Point"}
+}

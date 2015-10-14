@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.575410,23.667284]},"type":"Feature","properties":{"hierarchy":["tgn:7476536","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7476536,"name:xx":"Weiling Gong"}}
+{
+  "id": 7476536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476536",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476536,
+    "tgn:name":"Weiling Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.57541,23.667284],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[26.600000,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7023904","tgn:1001053","tgn:1000004","tgn:7018451","tgn:1000144","tgn:7029392"],"placetype":["aat:300008850"],"id":7023904,"name:xx":"Teke Burnu"}}
+{
+  "id": 7023904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023904",
+        "tgn:1001053",
+        "tgn:1000004",
+        "tgn:7018451",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023904,
+    "tgn:name":"Teke Burnu",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[26.6,38.0833],"type":"Point"}
+}

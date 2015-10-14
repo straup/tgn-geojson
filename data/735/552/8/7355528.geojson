@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.683333,28.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7355528","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355528,"name:xx":"Centro Calles"}}
+{
+  "id": 7355528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355528",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355528,
+    "tgn:name":"Centro Calles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.683333,28.55],"type":"Point"}
+}

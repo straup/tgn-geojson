@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.366700,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7022643","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347","aat:300387210"],"id":7022643,"name:xx":"Crossland"}}
+{
+  "id": 7022643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022643",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022643,
+    "tgn:name":"Crossland",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387210"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.3667,36.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.350289,25.123444]},"type":"Feature","properties":{"hierarchy":["tgn:7489629","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489629,"name:xx":"Ruiping Cun"}}
+{
+  "id": 7489629,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489629",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489629,
+    "tgn:name":"Ruiping Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.350289,25.123444],"type":"Point"}
+}

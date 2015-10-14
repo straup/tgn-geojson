@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.216700,32.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2252135","tgn:1000001","tgn:7012149","tgn:2000429","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2252135,"name:xx":"Cone Lake"}}
+{
+  "id": 2252135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252135",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000429",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252135,
+    "tgn:name":"Cone Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2167,32.0667],"type":"Point"}
+}

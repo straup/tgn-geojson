@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.083333,31.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7374305","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7374305,"name:xx":"La Biznaga, Cerro de"}}
+{
+  "id": 7374305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374305",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374305,
+    "tgn:name":"La Biznaga, Cerro de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.083333,31.6],"type":"Point"}
+}

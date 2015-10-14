@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.512686,23.585724]},"type":"Feature","properties":{"hierarchy":["tgn:7472906","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008804"],"id":7472906,"name:xx":"Haishu Qitou"}}
+{
+  "id": 7472906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472906",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472906,
+    "tgn:name":"Haishu Qitou",
+    "tgn:placetype":[
+        "aat:300008804"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.512686,23.585724],"type":"Point"}
+}

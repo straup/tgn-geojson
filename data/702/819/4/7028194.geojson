@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.550000,53.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7028194","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Welbourn","id":7028194}}
+{
+  "id": 7028194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028194",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028194,
+    "tgn:name:en":"Welbourn",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.55,53.066667],"type":"Point"}
+}

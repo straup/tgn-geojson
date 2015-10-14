@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.800000,51.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7026332","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Steeple","id":7026332}}
+{
+  "id": 7026332,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026332",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026332,
+    "tgn:name:en":"Steeple",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.8,51.683333],"type":"Point"}
+}

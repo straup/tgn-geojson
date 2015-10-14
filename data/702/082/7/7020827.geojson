@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.083300,35.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7020827","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000162","tgn:7029392"],"placetype":["aat:300008347"],"id":7020827,"name:xx":"Sand Gap"}}
+{
+  "id": 7020827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020827",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000162",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020827,
+    "tgn:name":"Sand Gap",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0833,35.7167],"type":"Point"}
+}

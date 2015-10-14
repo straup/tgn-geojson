@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-7.600000,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7029637","tgn:7002829","tgn:1000003","tgn:7002786","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347"],"id":7029637,"name:es":"Puertomar\u00edn"}}
+{
+  "id": 7029637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029637",
+        "tgn:7002829",
+        "tgn:1000003",
+        "tgn:7002786",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029637,
+    "tgn:name:es":"Puertomar\u00edn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-7.6,42.8],"type":"Point"}
+}

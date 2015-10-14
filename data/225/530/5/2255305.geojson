@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.450000,31.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2255305","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000034","tgn:7029392"],"placetype":["aat:300008905"],"id":2255305,"name:xx":"Coopers Bay"}}
+{
+  "id": 2255305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255305",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000034",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255305,
+    "tgn:name":"Coopers Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.45,31.0333],"type":"Point"}
+}

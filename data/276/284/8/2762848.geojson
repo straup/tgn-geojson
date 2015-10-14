@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.750000,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2762848","tgn:1000001","tgn:7012149","tgn:2000639","tgn:7007253","tgn:7029392"],"placetype":["aat:300008347"],"id":2762848,"name:xx":"Westfield"}}
+{
+  "id": 2762848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762848",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000639",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762848,
+    "tgn:name":"Westfield",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.75,41.7],"type":"Point"}
+}

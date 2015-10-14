@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.733333,29.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7363709","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363709,"name:xx":"Rancho El Gavil\u00e1n"}}
+{
+  "id": 7363709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363709",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363709,
+    "tgn:name":"Rancho El Gavil\u00e1n",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.733333,29.433333],"type":"Point"}
+}

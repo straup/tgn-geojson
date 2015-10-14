@@ -1,0 +1,25 @@
+{
+  "id": 1019088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1019088",
+        "tgn:7593620",
+        "tgn:1000001",
+        "tgn:7004787",
+        "tgn:7029392"
+    ],
+    "tgn:id":1019088,
+    "tgn:name":"Port of Spain",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.5167,10.6333],"type":"Point"}
+}

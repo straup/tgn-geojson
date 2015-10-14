@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.833300,43.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2764932","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300008905"],"id":2764932,"name:xx":"Whiskey Spring Vly"}}
+{
+  "id": 2764932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764932",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764932,
+    "tgn:name":"Whiskey Spring Vly",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.8333,43.4667],"type":"Point"}
+}

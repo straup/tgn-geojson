@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.666700,36.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2763307","tgn:1000001","tgn:7012149","tgn:2001255","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2763307,"name:xx":"Wet Hollow"}}
+{
+  "id": 2763307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763307",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001255",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763307,
+    "tgn:name":"Wet Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6667,36.9333],"type":"Point"}
+}

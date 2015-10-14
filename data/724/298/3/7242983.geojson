@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.633333,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7242983","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242983,"name:xx":"Langerode"}}
+{
+  "id": 7242983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242983",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242983,
+    "tgn:name":"Langerode",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.633333,50.833333],"type":"Point"}
+}

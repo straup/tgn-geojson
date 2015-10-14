@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.833333,49.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7171343","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7171343,"name:xx":"Hilsig"}}
+{
+  "id": 7171343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171343",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171343,
+    "tgn:name":"Hilsig",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.833333,49.633333],"type":"Point"}
+}

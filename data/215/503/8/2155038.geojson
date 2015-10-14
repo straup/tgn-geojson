@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.400000,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2155038","tgn:1000001","tgn:7012149","tgn:2000224","tgn:7007158","tgn:7029392"],"placetype":["aat:300008680"],"id":2155038,"name:xx":"Bear Lake"}}
+{
+  "id": 2155038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155038",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000224",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155038,
+    "tgn:name":"Bear Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4,39.2833],"type":"Point"}
+}

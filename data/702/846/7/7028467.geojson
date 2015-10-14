@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.950000,52.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7028467","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028467,"name:xx":"Hoe"}}
+{
+  "id": 7028467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028467",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028467,
+    "tgn:name":"Hoe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.95,52.7],"type":"Point"}
+}

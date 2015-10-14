@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.266700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2406186","tgn:1000001","tgn:2001704","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008791"],"id":2406186,"name:xx":"Hump Rock"}}
+{
+  "id": 2406186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406186",
+        "tgn:1000001",
+        "tgn:2001704",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406186,
+    "tgn:name":"Hump Rock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.2667,42.0333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.483333,52.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7111943","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7111943,"name:xx":"Rhinsm\u00fchler Heide"}}
+{
+  "id": 7111943,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111943",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111943,
+    "tgn:name":"Rhinsm\u00fchler Heide",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.483333,52.666667],"type":"Point"}
+}

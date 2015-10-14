@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.166667,20.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7363112","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363112,"name:xx":"El Esp\u00edritu"}}
+{
+  "id": 7363112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363112",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363112,
+    "tgn:name":"El Esp\u00edritu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.166667,20.566667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-153.316700,61.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2409574","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2409574,"name:xx":"Igitna River"}}
+{
+  "id": 2409574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409574",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409574,
+    "tgn:name":"Igitna River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-153.3167,61.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.716700,44.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2704343","tgn:1000001","tgn:7012149","tgn:2002336","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2704343,"name:xx":"Sunny Vale Lake"}}
+{
+  "id": 2704343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704343",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002336",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704343,
+    "tgn:name":"Sunny Vale Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.7167,44.9333],"type":"Point"}
+}

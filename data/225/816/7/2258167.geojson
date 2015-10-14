@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.883300,33.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2258167","tgn:1000001","tgn:2001093","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300006191"],"id":2258167,"name:xx":"Costilow Lake"}}
+{
+  "id": 2258167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258167",
+        "tgn:1000001",
+        "tgn:2001093",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258167,
+    "tgn:name":"Costilow Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8833,33.4333],"type":"Point"}
+}

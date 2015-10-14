@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.365556,19.353333]},"type":"Feature","properties":{"hierarchy":["tgn:7370995","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7370995,"name:xx":"Estaci\u00f3n Huixquilucan"}}
+{
+  "id": 7370995,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370995",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370995,
+    "tgn:name":"Estaci\u00f3n Huixquilucan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.365556,19.353333],"type":"Point"}
+}

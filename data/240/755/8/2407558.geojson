@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.766700,41.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2407558","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":2407558,"name:xx":"Huntsville Reservoir"}}
+{
+  "id": 2407558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407558",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407558,
+    "tgn:name":"Huntsville Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7667,41.2333],"type":"Point"}
+}

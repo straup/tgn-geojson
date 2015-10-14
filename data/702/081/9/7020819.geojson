@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-88.833300,34.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7020819","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020819,"name:xx":"Hatchie River"}}
+{
+  "id": 7020819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020819",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020819,
+    "tgn:name":"Hatchie River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.8333,34.55],"type":"Point"}
+}

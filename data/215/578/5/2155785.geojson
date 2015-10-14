@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2155785","tgn:1000001","tgn:7012149","tgn:1002406","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2155785,"name:xx":"Bear Swamp Ditch"}}
+{
+  "id": 2155785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155785",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002406",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155785,
+    "tgn:name":"Bear Swamp Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,43.0833],"type":"Point"}
+}

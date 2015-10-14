@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.803720,24.644691]},"type":"Feature","properties":{"hierarchy":["tgn:7489900","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489900,"name:xx":"Buchengdi"}}
+{
+  "id": 7489900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489900",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489900,
+    "tgn:name":"Buchengdi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.80372,24.644691],"type":"Point"}
+}

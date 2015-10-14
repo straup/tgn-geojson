@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.283333,47.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7170877","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7170877,"name:xx":"Himmel Schrofen"}}
+{
+  "id": 7170877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170877",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170877,
+    "tgn:name":"Himmel Schrofen",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.283333,47.366667],"type":"Point"}
+}

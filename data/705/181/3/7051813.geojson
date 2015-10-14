@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.600000,44.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7051813","tgn:7003131","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051813,"name:xx":"Illica"}}
+{
+  "id": 7051813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051813",
+        "tgn:7003131",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051813,
+    "tgn:name":"Illica",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.6,44.566667],"type":"Point"}
+}

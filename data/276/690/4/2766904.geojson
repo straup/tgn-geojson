@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.016700,35.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2766904","tgn:1000001","tgn:7012149","tgn:2001506","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2766904,"name:xx":"White Plains"}}
+{
+  "id": 2766904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766904",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001506",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766904,
+    "tgn:name":"White Plains",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0167,35.45],"type":"Point"}
+}

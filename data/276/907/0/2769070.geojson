@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.850000,34.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769070","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000051","tgn:7029392"],"placetype":["aat:300008697"],"id":2769070,"name:xx":"Whitten Spring"}}
+{
+  "id": 2769070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769070",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000051",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769070,
+    "tgn:name":"Whitten Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.85,34.4333],"type":"Point"}
+}

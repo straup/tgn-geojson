@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-0.304790,51.488802]},"type":"Feature","properties":{"hierarchy":["tgn:7028244","tgn:7002445","tgn:7018913","tgn:1000003","tgn:7008136","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300000745"],"name:en":"Hanwell","id":7028244}}
+{
+  "id": 7028244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028244",
+        "tgn:7002445",
+        "tgn:7018913",
+        "tgn:1000003",
+        "tgn:7008136",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028244,
+    "tgn:name:en":"Hanwell",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.30479,51.488802],"type":"Point"}
+}

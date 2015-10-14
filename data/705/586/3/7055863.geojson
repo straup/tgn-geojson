@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.183333,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7055863","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055863,"name:xx":"Pizi, Monti"}}
+{
+  "id": 7055863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055863",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055863,
+    "tgn:name":"Pizi, Monti",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.183333,41.95],"type":"Point"}
+}

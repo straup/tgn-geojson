@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.350000,26.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7350679","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350679,"name:xx":"Bagueaso"}}
+{
+  "id": 7350679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350679",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350679,
+    "tgn:name":"Bagueaso",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.35,26.833333],"type":"Point"}
+}

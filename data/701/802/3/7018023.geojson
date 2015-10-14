@@ -1,0 +1,27 @@
+{
+  "id": 7018023,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7018023",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001160",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":7018023,
+    "tgn:name":"Vicksburg",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008375",
+        "aat:300387250",
+        "aat:300387302",
+        "aat:300387287",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8667,32.35],"type":"Point"}
+}

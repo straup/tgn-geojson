@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.250000,33.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2405589","tgn:1000001","tgn:7012149","tgn:2001750","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2405589,"name:xx":"Hughes Landing"}}
+{
+  "id": 2405589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001750",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405589,
+    "tgn:name":"Hughes Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.25,33.8833],"type":"Point"}
+}

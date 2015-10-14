@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.233333,41.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7057745","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057745,"name:xx":"Bufola, Canale della"}}
+{
+  "id": 7057745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057745",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057745,
+    "tgn:name":"Bufola, Canale della",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.233333,41.6],"type":"Point"}
+}

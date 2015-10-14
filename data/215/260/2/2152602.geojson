@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.650000,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2152602","tgn:1000001","tgn:7012149","tgn:2000794","tgn:7007255","tgn:7029392"],"placetype":["aat:300008680"],"id":2152602,"name:xx":"Bayles Pond"}}
+{
+  "id": 2152602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152602",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000794",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152602,
+    "tgn:name":"Bayles Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.65,37.3333],"type":"Point"}
+}

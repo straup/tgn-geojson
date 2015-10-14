@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,25.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7360696","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008773"],"id":7360696,"name:xx":"Copalquin, Quebrada de"}}
+{
+  "id": 7360696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360696",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360696,
+    "tgn:name":"Copalquin, Quebrada de",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,25.45],"type":"Point"}
+}

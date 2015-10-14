@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.750000,42.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2760821","tgn:1000001","tgn:7012149","tgn:2001398","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":2760821,"name:xx":"West Hat Creek"}}
+{
+  "id": 2760821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760821",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001398",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760821,
+    "tgn:name":"West Hat Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.75,42.6833],"type":"Point"}
+}

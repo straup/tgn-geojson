@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.783300,39.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2251494","tgn:1000001","tgn:1002189","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347"],"id":2251494,"name:xx":"Commissary Corner"}}
+{
+  "id": 2251494,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251494",
+        "tgn:1000001",
+        "tgn:1002189",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251494,
+    "tgn:name":"Commissary Corner",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7833,39.0],"type":"Point"}
+}

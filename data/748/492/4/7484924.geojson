@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.887222,22.372778]},"type":"Feature","properties":{"hierarchy":["tgn:7484924","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7484924,"name:xx":"Daniaowan Shan"}}
+{
+  "id": 7484924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484924",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484924,
+    "tgn:name":"Daniaowan Shan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.887222,22.372778],"type":"Point"}
+}

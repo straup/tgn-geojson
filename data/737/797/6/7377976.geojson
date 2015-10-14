@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.400000,32.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7377976","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377976,"name:xx":"Rancho Las Palmas"}}
+{
+  "id": 7377976,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377976",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377976,
+    "tgn:name":"Rancho Las Palmas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.4,32.666667],"type":"Point"}
+}

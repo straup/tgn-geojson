@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.916667,51.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7112953","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000745"],"id":7112953,"name:xx":"R\u00f6dlinghausen"}}
+{
+  "id": 7112953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112953",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112953,
+    "tgn:name":"R\u00f6dlinghausen",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.916667,51.933333],"type":"Point"}
+}

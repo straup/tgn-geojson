@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.233300,37.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2334824","tgn:1000001","tgn:2002261","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300266640"],"id":2334824,"name:xx":"Fork Ridge"}}
+{
+  "id": 2334824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334824",
+        "tgn:1000001",
+        "tgn:2002261",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334824,
+    "tgn:name":"Fork Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2333,37.95],"type":"Point"}
+}

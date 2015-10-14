@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[27.416700,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7024377","tgn:1001410","tgn:1000004","tgn:7018451","tgn:1000144","tgn:7029392"],"placetype":["aat:300008795"],"name:en":"Mount Nemrut","id":7024377}}
+{
+  "id": 7024377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024377",
+        "tgn:1001410",
+        "tgn:1000004",
+        "tgn:7018451",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024377,
+    "tgn:name:en":"Mount Nemrut",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[27.4167,38.9333],"type":"Point"}
+}

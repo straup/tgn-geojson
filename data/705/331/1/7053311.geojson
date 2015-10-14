@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.916667,43.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7053311","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7053311,"name:xx":"Canale Maestro della Chiana"}}
+{
+  "id": 7053311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053311",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053311,
+    "tgn:name":"Canale Maestro della Chiana",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.916667,43.1],"type":"Point"}
+}

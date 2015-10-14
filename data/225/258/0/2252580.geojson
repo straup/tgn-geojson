@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.416700,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2252580","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002706","tgn:7029392"],"placetype":["aat:300008761"],"id":2252580,"name:xx":"Conn Valley"}}
+{
+  "id": 2252580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252580",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252580,
+    "tgn:name":"Conn Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4167,38.5],"type":"Point"}
+}

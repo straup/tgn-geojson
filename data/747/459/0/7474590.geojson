@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.350000,23.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7474590","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474590,"name:xx":"Yuli Zhen"}}
+{
+  "id": 7474590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474590",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474590,
+    "tgn:name":"Yuli Zhen",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.35,23.383333],"type":"Point"}
+}

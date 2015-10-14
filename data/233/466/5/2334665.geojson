@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.850000,48.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2334665","tgn:1000001","tgn:2001262","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2334665,"name:xx":"Forgey Creek"}}
+{
+  "id": 2334665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334665",
+        "tgn:1000001",
+        "tgn:2001262",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334665,
+    "tgn:name":"Forgey Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.85,48.6833],"type":"Point"}
+}

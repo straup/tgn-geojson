@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.600000,40.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7052749","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008680"],"id":7052749,"name:xx":"Monticchio, Laghi di"}}
+{
+  "id": 7052749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052749",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052749,
+    "tgn:name":"Monticchio, Laghi di",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.6,40.933333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.166667,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7050486","tgn:7003131","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050486,"name:xx":"La Strada"}}
+{
+  "id": 7050486,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050486",
+        "tgn:7003131",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050486,
+    "tgn:name":"La Strada",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.166667,44.55],"type":"Point"}
+}

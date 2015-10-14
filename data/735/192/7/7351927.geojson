@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.550000,17.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7351927","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351927,"name:xx":"Arroyo Negro"}}
+{
+  "id": 7351927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351927",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351927,
+    "tgn:name":"Arroyo Negro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.55,17.683333],"type":"Point"}
+}

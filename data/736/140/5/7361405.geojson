@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.833333,23.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7361405","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361405,"name:xx":"El Calabazal"}}
+{
+  "id": 7361405,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361405",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361405,
+    "tgn:name":"El Calabazal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.833333,23.75],"type":"Point"}
+}

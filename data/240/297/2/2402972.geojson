@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.316700,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2402972","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000246","tgn:7029392"],"placetype":["aat:300008697"],"id":2402972,"name:xx":"Houghland Hill Spring"}}
+{
+  "id": 2402972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402972",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000246",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402972,
+    "tgn:name":"Houghland Hill Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3167,38.1],"type":"Point"}
+}

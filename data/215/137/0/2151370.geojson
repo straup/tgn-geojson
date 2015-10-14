@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.633300,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2151370","tgn:1000001","tgn:7012149","tgn:2001764","tgn:7007712","tgn:7029392"],"placetype":["aat:300008707"],"id":2151370,"name:xx":"Bates Old River"}}
+{
+  "id": 2151370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151370",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001764",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151370,
+    "tgn:name":"Bates Old River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.6333,33.7833],"type":"Point"}
+}

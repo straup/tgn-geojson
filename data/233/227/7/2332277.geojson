@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.666700,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2332277","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2332277,"name:xx":"Flohr Creek"}}
+{
+  "id": 2332277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332277",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332277,
+    "tgn:name":"Flohr Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6667,41.1],"type":"Point"}
+}

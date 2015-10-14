@@ -1,0 +1,27 @@
+{
+  "id": 7264403,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0fdf4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753686",
+        "gp:id":730337,
+        "qs:id":7,
+        "wof:id":101855289
+    },
+    "tgn:hierarchy":[
+        "tgn:7264403",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264403,
+    "tgn:name:nl":"Hoogland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.366667,52.183333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.175556,23.607500]},"type":"Feature","properties":{"hierarchy":["tgn:7482842","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482842,"name:xx":"Dinghu Erhao Qiao"}}
+{
+  "id": 7482842,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482842",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482842,
+    "tgn:name":"Dinghu Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.175556,23.6075],"type":"Point"}
+}

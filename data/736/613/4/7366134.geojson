@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.316667,18.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7366134","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366134,"name:xx":"El Remanso"}}
+{
+  "id": 7366134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366134",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366134,
+    "tgn:name":"El Remanso",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.316667,18.1],"type":"Point"}
+}

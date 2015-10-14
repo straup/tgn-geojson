@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.083300,48.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2403301","tgn:1000001","tgn:7012149","tgn:2001277","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2403301,"name:xx":"Houseman Hill"}}
+{
+  "id": 2403301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403301",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001277",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403301,
+    "tgn:name":"Houseman Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0833,48.7],"type":"Point"}
+}

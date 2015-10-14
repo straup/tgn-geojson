@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.433300,45.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769854","tgn:1000001","tgn:7012149","tgn:2000928","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2769854,"name:xx":"Wilber Brook"}}
+{
+  "id": 2769854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769854",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000928",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769854,
+    "tgn:name":"Wilber Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.4333,45.4333],"type":"Point"}
+}

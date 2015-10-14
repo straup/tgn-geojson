@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.183300,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021210","tgn:1000001","tgn:7012149","tgn:2002278","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021210,"name:xx":"Sugar Camp Branch"}}
+{
+  "id": 7021210,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021210",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002278",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021210,
+    "tgn:name":"Sugar Camp Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1833,37.5],"type":"Point"}
+}

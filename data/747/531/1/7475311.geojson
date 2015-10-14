@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.459167,24.107222]},"type":"Feature","properties":{"hierarchy":["tgn:7475311","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475311,"name:xx":"Caogang"}}
+{
+  "id": 7475311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475311",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475311,
+    "tgn:name":"Caogang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.459167,24.107222],"type":"Point"}
+}

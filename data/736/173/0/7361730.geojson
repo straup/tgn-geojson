@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.083333,30.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7361730","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361730,"name:xx":"Rancho El Juanero"}}
+{
+  "id": 7361730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361730",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361730,
+    "tgn:name":"Rancho El Juanero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.083333,30.716667],"type":"Point"}
+}

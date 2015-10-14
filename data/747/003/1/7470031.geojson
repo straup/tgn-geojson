@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.733471,23.806648]},"type":"Feature","properties":{"hierarchy":["tgn:7470031","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470031,"name:xx":"Zhongyang Li"}}
+{
+  "id": 7470031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470031",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470031,
+    "tgn:name":"Zhongyang Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.733471,23.806648],"type":"Point"}
+}

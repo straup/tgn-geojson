@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-167.450000,60.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2409717","tgn:7006450","tgn:2000069","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409717,"name:xx":"Ikook Point"}}
+{
+  "id": 2409717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409717",
+        "tgn:7006450",
+        "tgn:2000069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409717,
+    "tgn:name":"Ikook Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-167.45,60.2],"type":"Point"}
+}

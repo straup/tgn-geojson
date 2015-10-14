@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.233300,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2709834","tgn:1000001","tgn:7012149","tgn:2001109","tgn:7007522","tgn:7029392"],"placetype":["aat:300132348"],"id":2709834,"name:xx":"Tail Of The Square Handkerchief Shoal"}}
+{
+  "id": 2709834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2709834",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001109",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2709834,
+    "tgn:name":"Tail Of The Square Handkerchief Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2333,30.2333],"type":"Point"}
+}

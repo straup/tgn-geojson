@@ -1,0 +1,29 @@
+{
+  "id": 7013051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013051",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005804",
+        "tgn:1008205",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013051,
+    "tgn:name:en":"Montreal",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387284",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.6,45.5],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7258317,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0474c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759286",
+        "gp:id":727542,
+        "qs:id":7,
+        "wof:id":101809489
+    },
+    "tgn:hierarchy":[
+        "tgn:7258317",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7258317,
+    "tgn:name:nl":"Beesel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.033333,51.266667],"type":"Point"}
+}

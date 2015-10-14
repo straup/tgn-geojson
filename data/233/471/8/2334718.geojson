@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.900000,43.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2334718","tgn:1000001","tgn:7012149","tgn:2000926","tgn:7007515","tgn:7029392"],"placetype":["aat:300008798"],"id":2334718,"name:xx":"Fork Hill"}}
+{
+  "id": 2334718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334718",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000926",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334718,
+    "tgn:name":"Fork Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.9,43.8333],"type":"Point"}
+}

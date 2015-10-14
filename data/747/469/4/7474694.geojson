@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.333333,23.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7474694","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474694,"name:xx":"Duolong Qiao"}}
+{
+  "id": 7474694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474694",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474694,
+    "tgn:name":"Duolong Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.333333,23.066667],"type":"Point"}
+}

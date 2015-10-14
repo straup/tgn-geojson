@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.116667,22.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7352141","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352141,"name:xx":"Altamira, Cerro"}}
+{
+  "id": 7352141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352141",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352141,
+    "tgn:name":"Altamira, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.116667,22.25],"type":"Point"}
+}

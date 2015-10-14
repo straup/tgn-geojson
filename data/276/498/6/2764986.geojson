@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.350000,45.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2764986","tgn:1000001","tgn:2000950","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2764986,"name:xx":"Whisky Creek"}}
+{
+  "id": 2764986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764986",
+        "tgn:1000001",
+        "tgn:2000950",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764986,
+    "tgn:name":"Whisky Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.35,45.2167],"type":"Point"}
+}

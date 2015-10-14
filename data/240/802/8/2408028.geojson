@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-113.300000,37.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2408028","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2408028,"name:xx":"Hurricane Fault"}}
+{
+  "id": 2408028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408028",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408028,
+    "tgn:name":"Hurricane Fault",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3,37.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.566667,50.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7173396","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7173396,"name:xx":"Gro\u00dfrechtenbach"}}
+{
+  "id": 7173396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173396",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173396,
+    "tgn:name":"Gro\u00dfrechtenbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.566667,50.516667],"type":"Point"}
+}

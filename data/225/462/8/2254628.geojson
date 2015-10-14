@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.316700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2254628","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002706","tgn:7029392"],"placetype":["aat:300008791"],"id":2254628,"name:xx":"Coon Island"}}
+{
+  "id": 2254628,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254628",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254628,
+    "tgn:name":"Coon Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3167,38.1833],"type":"Point"}
+}

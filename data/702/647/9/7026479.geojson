@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.466667,51.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7026479","tgn:7002445","tgn:1000003","tgn:7008168","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"West Challow","id":7026479}}
+{
+  "id": 7026479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026479",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008168",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026479,
+    "tgn:name:en":"West Challow",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.466667,51.583333],"type":"Point"}
+}

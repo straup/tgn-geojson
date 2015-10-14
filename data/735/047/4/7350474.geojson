@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.483333,15.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7350474","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008679"],"id":7350474,"name:xx":"Blanca, Laguna"}}
+{
+  "id": 7350474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350474",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350474,
+    "tgn:name":"Blanca, Laguna",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.483333,15.983333],"type":"Point"}
+}

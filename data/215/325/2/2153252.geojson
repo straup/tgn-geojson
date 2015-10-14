@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.950000,46.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2153252","tgn:2000919","tgn:1000001","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2153252,"name:xx":"Beam Pond"}}
+{
+  "id": 2153252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153252",
+        "tgn:2000919",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153252,
+    "tgn:name":"Beam Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.95,46.6333],"type":"Point"}
+}

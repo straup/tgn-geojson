@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.283300,37.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2404937","tgn:1000001","tgn:7012149","tgn:1002647","tgn:7007919","tgn:7029392"],"placetype":["aat:300008706"],"id":2404937,"name:xx":"Hudgins Creek"}}
+{
+  "id": 2404937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404937",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002647",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404937,
+    "tgn:name":"Hudgins Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2833,37.45],"type":"Point"}
+}

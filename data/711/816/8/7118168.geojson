@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.500000,50.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7118168","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7118168,"name:xx":"Obersch\u00f6mbach"}}
+{
+  "id": 7118168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118168",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118168,
+    "tgn:name":"Obersch\u00f6mbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.5,50.433333],"type":"Point"}
+}

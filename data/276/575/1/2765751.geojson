@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.933300,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2765751","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2765751,"name:xx":"White Deer Canyon"}}
+{
+  "id": 2765751,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765751",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765751,
+    "tgn:name":"White Deer Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9333,34.3333],"type":"Point"}
+}

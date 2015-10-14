@@ -1,0 +1,25 @@
+{
+  "id": 5004203,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:5004203",
+        "tgn:7000839",
+        "tgn:1000004",
+        "tgn:1000112",
+        "tgn:7029392"
+    ],
+    "tgn:id":5004203,
+    "tgn:name":"Politiko",
+    "tgn:placetype":[
+        "aat:300235115",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300387305",
+        "aat:300387272",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[33.2333,35.0167],"type":"Point"}
+}

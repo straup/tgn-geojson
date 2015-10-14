@@ -1,0 +1,28 @@
+{
+  "id": 2007072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2007072",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000102",
+        "tgn:7029392"
+    ],
+    "tgn:id":2007072,
+    "tgn:name":"Nogales",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387270",
+        "aat:300387291",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9333,31.3333],"type":"Point"}
+}

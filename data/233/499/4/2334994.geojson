@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.550000,42.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2334994","tgn:1000001","tgn:2000466","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008746"],"id":2334994,"name:xx":"Formation Cave"}}
+{
+  "id": 2334994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334994",
+        "tgn:1000001",
+        "tgn:2000466",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334994,
+    "tgn:name":"Formation Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.55,42.6833],"type":"Point"}
+}

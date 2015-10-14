@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.200000,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2403730","tgn:1000001","tgn:7012149","tgn:2000220","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2403730,"name:xx":"Howard Place"}}
+{
+  "id": 2403730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403730",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000220",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403730,
+    "tgn:name":"Howard Place",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2,40.4833],"type":"Point"}
+}

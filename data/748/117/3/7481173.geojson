@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.663200,22.569100]},"type":"Feature","properties":{"hierarchy":["tgn:7481173","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481173,"name:xx":"Jiaxing"}}
+{
+  "id": 7481173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481173",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481173,
+    "tgn:name":"Jiaxing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6632,22.5691],"type":"Point"}
+}

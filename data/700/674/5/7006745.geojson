@@ -1,0 +1,27 @@
+{
+  "id": 7006745,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1ec0a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747117",
+        "gp:id":733433,
+        "qs:id":6,
+        "wof:id":101809825
+    },
+    "tgn:hierarchy":[
+        "tgn:7006745",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006745,
+    "tgn:name:nl":"Sluis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.383333,51.316667],"type":"Point"}
+}

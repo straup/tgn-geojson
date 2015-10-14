@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.016700,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2403470","tgn:1000001","tgn:7012149","tgn:2002384","tgn:7007923","tgn:7029392"],"placetype":["aat:300266640"],"id":2403470,"name:xx":"Hovermale Ridge"}}
+{
+  "id": 2403470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403470",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002384",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403470,
+    "tgn:name":"Hovermale Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0167,43.8833],"type":"Point"}
+}

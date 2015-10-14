@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-143.683300,69.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2404630","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008706"],"id":2404630,"name:xx":"Hubley Creek"}}
+{
+  "id": 2404630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404630",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404630,
+    "tgn:name":"Hubley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-143.6833,69.3],"type":"Point"}
+}

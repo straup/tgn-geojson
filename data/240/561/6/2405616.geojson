@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.366700,32.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2405616","tgn:1000001","tgn:7012149","tgn:2000344","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2405616,"name:xx":"Hughes Prong"}}
+{
+  "id": 2405616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405616",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000344",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405616,
+    "tgn:name":"Hughes Prong",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3667,32.65],"type":"Point"}
+}

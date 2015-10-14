@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.900000,39.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7023092","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":7023092,"name:xx":"Sawmill Ravine"}}
+{
+  "id": 7023092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023092",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023092,
+    "tgn:name":"Sawmill Ravine",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.9,39.6667],"type":"Point"}
+}

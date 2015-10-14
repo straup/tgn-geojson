@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.320833,23.330556]},"type":"Feature","properties":{"hierarchy":["tgn:7484165","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7484165,"name:xx":"Piliao Pi"}}
+{
+  "id": 7484165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484165",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484165,
+    "tgn:name":"Piliao Pi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.320833,23.330556],"type":"Point"}
+}

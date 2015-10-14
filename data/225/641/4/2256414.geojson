@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.650000,47.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2256414","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2256414,"name:xx":"Cora Creek"}}
+{
+  "id": 2256414,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256414",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256414,
+    "tgn:name":"Cora Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.65,47.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.050000,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2763063","tgn:1000001","tgn:7012149","tgn:2001281","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2763063,"name:xx":"Westover Gulch"}}
+{
+  "id": 2763063,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763063",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001281",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763063,
+    "tgn:name":"Westover Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.05,46.4],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.183300,38.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2405460","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008699"],"id":2405460,"name:xx":"Hughes Branch"}}
+{
+  "id": 2405460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405460",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405460,
+    "tgn:name":"Hughes Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1833,38.6333],"type":"Point"}
+}

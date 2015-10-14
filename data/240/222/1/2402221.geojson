@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,37.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2402221","tgn:1000001","tgn:7012149","tgn:2000218","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":2402221,"name:xx":"Horsethief Mountain"}}
+{
+  "id": 2402221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402221",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000218",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402221,
+    "tgn:name":"Horsethief Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,37.9],"type":"Point"}
+}

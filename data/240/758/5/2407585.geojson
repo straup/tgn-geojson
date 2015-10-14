@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.533300,41.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2407585","tgn:1000001","tgn:1002664","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2407585,"name:xx":"Hurd Brook"}}
+{
+  "id": 2407585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407585",
+        "tgn:1000001",
+        "tgn:1002664",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407585,
+    "tgn:name":"Hurd Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5333,41.5167],"type":"Point"}
+}

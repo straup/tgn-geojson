@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.883300,52.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7027583","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027583,"name:xx":"Halstead"}}
+{
+  "id": 7027583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027583",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027583,
+    "tgn:name":"Halstead",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.8833,52.65],"type":"Point"}
+}

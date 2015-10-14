@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.266700,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338717","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2338717,"name:xx":"Franco Reservoir"}}
+{
+  "id": 2338717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338717",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338717,
+    "tgn:name":"Franco Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.2667,41.3333],"type":"Point"}
+}

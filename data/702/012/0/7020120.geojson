@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.533300,43.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7020120","tgn:1000001","tgn:2001786","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300000390"],"id":7020120,"name:xx":"Victory Number 1 Prospect Mine"}}
+{
+  "id": 7020120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020120",
+        "tgn:1000001",
+        "tgn:2001786",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020120,
+    "tgn:name":"Victory Number 1 Prospect Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.5333,43.7833],"type":"Point"}
+}

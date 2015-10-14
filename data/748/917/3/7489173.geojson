@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.440086,23.961589]},"type":"Feature","properties":{"hierarchy":["tgn:7489173","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489173,"name:xx":"Yimincun"}}
+{
+  "id": 7489173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489173",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489173,
+    "tgn:name":"Yimincun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.440086,23.961589],"type":"Point"}
+}

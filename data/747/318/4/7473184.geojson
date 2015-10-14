@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.624300,24.665900]},"type":"Feature","properties":{"hierarchy":["tgn:7473184","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473184,"name:xx":"Tianfu Cun"}}
+{
+  "id": 7473184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473184",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473184,
+    "tgn:name":"Tianfu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6243,24.6659],"type":"Point"}
+}

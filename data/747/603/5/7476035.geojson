@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.715704,24.633633]},"type":"Feature","properties":{"hierarchy":["tgn:7476035","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7476035,"name:xx":"Dajin Guoxiao"}}
+{
+  "id": 7476035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476035",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476035,
+    "tgn:name":"Dajin Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.715704,24.633633],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.597778,24.389722]},"type":"Feature","properties":{"hierarchy":["tgn:7483309","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483309,"name:xx":"Tianxinzi Diyihao Qiao"}}
+{
+  "id": 7483309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483309",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483309,
+    "tgn:name":"Tianxinzi Diyihao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.597778,24.389722],"type":"Point"}
+}

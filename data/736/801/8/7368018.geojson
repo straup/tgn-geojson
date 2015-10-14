@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.883333,21.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7368018","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7368018,"name:xx":"El Salto"}}
+{
+  "id": 7368018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368018",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368018,
+    "tgn:name":"El Salto",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.883333,21.533333],"type":"Point"}
+}

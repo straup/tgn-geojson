@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.466667,27.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7369256","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7369256,"name:xx":"Hornos, Arroyo"}}
+{
+  "id": 7369256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369256",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369256,
+    "tgn:name":"Hornos, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.466667,27.516667],"type":"Point"}
+}

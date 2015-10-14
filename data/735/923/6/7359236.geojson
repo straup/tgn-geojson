@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.366667,26.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7359236","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7359236,"name:xx":"Divisadoras, Lomas"}}
+{
+  "id": 7359236,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359236",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359236,
+    "tgn:name":"Divisadoras, Lomas",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.366667,26.883333],"type":"Point"}
+}

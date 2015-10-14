@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.166700,36.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2769132","tgn:1000001","tgn:7012149","tgn:2002173","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2769132,"name:xx":"Whittles Millpond"}}
+{
+  "id": 2769132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002173",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769132,
+    "tgn:name":"Whittles Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.1667,36.7833],"type":"Point"}
+}

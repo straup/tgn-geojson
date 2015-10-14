@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.433300,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2157652","tgn:1000001","tgn:7012149","tgn:2002375","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2157652,"name:xx":"Beaver Dam Ditch"}}
+{
+  "id": 2157652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157652",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002375",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157652,
+    "tgn:name":"Beaver Dam Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4333,41.1],"type":"Point"}
+}

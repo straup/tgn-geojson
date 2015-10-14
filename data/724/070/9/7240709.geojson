@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.783585,50.464198]},"type":"Feature","properties":{"hierarchy":["tgn:7240709","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7240709,"name:xx":"Flache, Bois de la"}}
+{
+  "id": 7240709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240709",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240709,
+    "tgn:name":"Flache, Bois de la",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.783585,50.464198],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.150000,44.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2339674","tgn:1000001","tgn:7012149","tgn:2001077","tgn:7007521","tgn:7029392"],"placetype":["aat:300008761"],"id":2339674,"name:xx":"Free Coulee"}}
+{
+  "id": 2339674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339674",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001077",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339674,
+    "tgn:name":"Free Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.15,44.3833],"type":"Point"}
+}

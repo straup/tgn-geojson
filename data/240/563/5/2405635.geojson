@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.000000,34.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2405635","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000027","tgn:7029392"],"placetype":["aat:300008699"],"id":2405635,"name:xx":"Hughes Spring Branch"}}
+{
+  "id": 2405635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405635",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000027",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405635,
+    "tgn:name":"Hughes Spring Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0,34.0],"type":"Point"}
+}

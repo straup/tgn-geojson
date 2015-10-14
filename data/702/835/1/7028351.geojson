@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.067000,52.584000]},"type":"Feature","properties":{"hierarchy":["tgn:7028351","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028351,"name:xx":"Crownthorpe"}}
+{
+  "id": 7028351,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028351",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028351,
+    "tgn:name":"Crownthorpe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.067,52.584],"type":"Point"}
+}

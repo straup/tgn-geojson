@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.800000,54.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7175860","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7175860,"name:xx":"Gro\u00dfes Gehege"}}
+{
+  "id": 7175860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175860",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175860,
+    "tgn:name":"Gro\u00dfes Gehege",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.8,54.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.033300,41.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2152072","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2152072,"name:xx":"Bawling Calf Reservoir"}}
+{
+  "id": 2152072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152072",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152072,
+    "tgn:name":"Bawling Calf Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.0333,41.3],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7005859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005859",
+        "tgn:7017434",
+        "tgn:1000001",
+        "tgn:7004643",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005859,
+    "tgn:name":"San Juan",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300006909",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.1333,18.4833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.450000,32.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2405182","tgn:1000001","tgn:7012149","tgn:2000878","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2405182,"name:xx":"Huey Branch"}}
+{
+  "id": 2405182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405182",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000878",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405182,
+    "tgn:name":"Huey Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.45,32.4333],"type":"Point"}
+}

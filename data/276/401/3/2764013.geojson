@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.133300,45.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2764013","tgn:1000001","tgn:7012149","tgn:1002554","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2764013,"name:xx":"Wheeler Canyon"}}
+{
+  "id": 2764013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764013",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002554",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764013,
+    "tgn:name":"Wheeler Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1333,45.75],"type":"Point"}
+}

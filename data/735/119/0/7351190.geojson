@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.633333,20.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7351190","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351190,"name:xx":"Bocas"}}
+{
+  "id": 7351190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351190",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351190,
+    "tgn:name":"Bocas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.633333,20.866667],"type":"Point"}
+}

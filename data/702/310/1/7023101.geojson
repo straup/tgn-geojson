@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-91.433300,36.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7023101","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023101,"name:xx":"Schremmer Hollow"}}
+{
+  "id": 7023101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023101,
+    "tgn:name":"Schremmer Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4333,36.4833],"type":"Point"}
+}

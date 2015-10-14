@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.416667,51.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7173489","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7173489,"name:xx":"Gro\u00dfer Schlo\u00df-Teich"}}
+{
+  "id": 7173489,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173489",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173489,
+    "tgn:name":"Gro\u00dfer Schlo\u00df-Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.416667,51.366667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.937500,21.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7360360","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360360,"name:xx":"Dzonot-Ak\u00e9"}}
+{
+  "id": 7360360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360360",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360360,
+    "tgn:name":"Dzonot-Ak\u00e9",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9375,21.233333],"type":"Point"}
+}

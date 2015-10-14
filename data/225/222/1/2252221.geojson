@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.766700,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2252221","tgn:1000001","tgn:1002225","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008680"],"id":2252221,"name:xx":"Conemaugh Lake"}}
+{
+  "id": 2252221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252221",
+        "tgn:1000001",
+        "tgn:1002225",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252221,
+    "tgn:name":"Conemaugh Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7667,40.3333],"type":"Point"}
+}

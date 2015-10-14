@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.800000,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2335516","tgn:1000001","tgn:7012149","tgn:1002494","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2335516,"name:xx":"Fort Run"}}
+{
+  "id": 2335516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335516",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002494",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335516,
+    "tgn:name":"Fort Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8,40.3333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.966700,33.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330855","tgn:1000001","tgn:7012149","tgn:2001983","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2330855,"name:xx":"Flat Prairie"}}
+{
+  "id": 2330855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330855",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001983",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330855,
+    "tgn:name":"Flat Prairie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.9667,33.45],"type":"Point"}
+}

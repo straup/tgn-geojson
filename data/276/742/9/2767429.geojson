@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.216700,34.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2767429","tgn:2001466","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2767429,"name:xx":"White Store Lake"}}
+{
+  "id": 2767429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767429",
+        "tgn:2001466",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767429,
+    "tgn:name":"White Store Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2167,34.8833],"type":"Point"}
+}

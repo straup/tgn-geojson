@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.761770,24.641020]},"type":"Feature","properties":{"hierarchy":["tgn:7478664","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478664,"name:xx":"Yuan Shan"}}
+{
+  "id": 7478664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478664",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478664,
+    "tgn:name":"Yuan Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.76177,24.64102],"type":"Point"}
+}

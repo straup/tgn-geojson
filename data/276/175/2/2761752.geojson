@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.650000,35.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2761752","tgn:1000001","tgn:7012149","tgn:2002051","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2761752,"name:xx":"West Prong Alamocitos Creek"}}
+{
+  "id": 2761752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761752",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002051",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761752,
+    "tgn:name":"West Prong Alamocitos Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.65,35.35],"type":"Point"}
+}

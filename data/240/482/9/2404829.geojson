@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.966700,34.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2404829","tgn:1000001","tgn:7012149","tgn:2000446","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2404829,"name:xx":"Huckleberry Pond"}}
+{
+  "id": 2404829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404829",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000446",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404829,
+    "tgn:name":"Huckleberry Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9667,34.8833],"type":"Point"}
+}

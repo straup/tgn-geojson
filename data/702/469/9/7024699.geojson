@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[5.316700,51.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7024699","tgn:1000003","tgn:7029392"],"placetype":["aat:300008699"],"name:nl":"Aa","id":7024699,"name:de":"Aa"}}
+{
+  "id": 7024699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024699",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024699,
+    "tgn:name:de":"Aa",
+    "tgn:name:nl":"Aa",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3167,51.6833],"type":"Point"}
+}

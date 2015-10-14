@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.100000,29.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7379826","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379826,"name:xx":"Rancho Los Estrellas"}}
+{
+  "id": 7379826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379826",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379826,
+    "tgn:name":"Rancho Los Estrellas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1,29.866667],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-80.150000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2404865","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2404865,"name:xx":"Huckleberry Run"}}
+{
+  "id": 2404865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404865",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404865,
+    "tgn:name":"Huckleberry Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.15,39.7333],"type":"Point"}
+}

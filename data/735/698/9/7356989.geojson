@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.833333,27.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7356989","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7356989,"name:xx":"Campo Las Mayas"}}
+{
+  "id": 7356989,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356989",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356989,
+    "tgn:name":"Campo Las Mayas",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.833333,27.016667],"type":"Point"}
+}

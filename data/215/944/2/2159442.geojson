@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.200000,47.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2159442","tgn:1000001","tgn:7012149","tgn:2001284","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2159442,"name:xx":"Bee Ditch"}}
+{
+  "id": 2159442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159442",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001284",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159442,
+    "tgn:name":"Bee Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2,47.45],"type":"Point"}
+}

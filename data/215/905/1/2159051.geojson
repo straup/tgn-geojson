@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.700000,30.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2159051","tgn:1000001","tgn:7012149","tgn:2000291","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2159051,"name:xx":"Becton Pond"}}
+{
+  "id": 2159051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159051",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000291",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159051,
+    "tgn:name":"Becton Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7,30.6333],"type":"Point"}
+}

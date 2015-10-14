@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.416667,42.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7051137","tgn:7003171","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008767"],"id":7051137,"name:xx":"Nera, Gola del"}}
+{
+  "id": 7051137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051137",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051137,
+    "tgn:name":"Nera, Gola del",
+    "tgn:placetype":[
+        "aat:300008767"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.416667,42.433333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.566700,38.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2407312","tgn:1000001","tgn:7012149","tgn:2001614","tgn:7007706","tgn:7029392"],"placetype":["aat:300008706"],"id":2407312,"name:xx":"Huntingcamp Creek"}}
+{
+  "id": 2407312,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407312",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001614",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407312,
+    "tgn:name":"Huntingcamp Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5667,38.9],"type":"Point"}
+}

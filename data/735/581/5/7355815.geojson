@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.533333,21.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7355815","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355815,"name:xx":"Cerrito Colorado"}}
+{
+  "id": 7355815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355815",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355815,
+    "tgn:name":"Cerrito Colorado",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.533333,21.65],"type":"Point"}
+}

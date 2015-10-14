@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.600000,29.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7021343","tgn:1000001","tgn:2000261","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300132316"],"id":7021343,"name:xx":"Sulphur Springs Cove"}}
+{
+  "id": 7021343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021343",
+        "tgn:1000001",
+        "tgn:2000261",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021343,
+    "tgn:name":"Sulphur Springs Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6,29.95],"type":"Point"}
+}

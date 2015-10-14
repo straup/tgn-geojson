@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.300000,25.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7376520","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7376520,"name:xx":"Rancho Las Lajas"}}
+{
+  "id": 7376520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376520",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376520,
+    "tgn:name":"Rancho Las Lajas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3,25.55],"type":"Point"}
+}

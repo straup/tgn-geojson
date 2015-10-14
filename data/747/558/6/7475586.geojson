@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.875943,24.599822]},"type":"Feature","properties":{"hierarchy":["tgn:7475586","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7475586,"name:xx":"Zhongzheng Jungang"}}
+{
+  "id": 7475586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475586",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475586,
+    "tgn:name":"Zhongzheng Jungang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.875943,24.599822],"type":"Point"}
+}

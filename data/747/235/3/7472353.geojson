@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.616667,24.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7472353","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472353,"name:xx":"Wuri Xiang"}}
+{
+  "id": 7472353,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472353",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472353,
+    "tgn:name":"Wuri Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.616667,24.083333],"type":"Point"}
+}

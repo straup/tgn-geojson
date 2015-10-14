@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.458889,24.485833]},"type":"Feature","properties":{"hierarchy":["tgn:7482522","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132316"],"id":7482522,"name:xx":"Xubai Wan"}}
+{
+  "id": 7482522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482522",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482522,
+    "tgn:name":"Xubai Wan",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.458889,24.485833],"type":"Point"}
+}

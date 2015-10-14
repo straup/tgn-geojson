@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.738056,24.809722]},"type":"Feature","properties":{"hierarchy":["tgn:7356689","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356689,"name:xx":"Chacala"}}
+{
+  "id": 7356689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356689",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356689,
+    "tgn:name":"Chacala",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.738056,24.809722],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.583000,51.433000]},"type":"Feature","properties":{"hierarchy":["tgn:7028240","tgn:7002445","tgn:1000003","tgn:7008175","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7028240,"name:xx":"Bishopsgate"}}
+{
+  "id": 7028240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028240",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008175",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028240,
+    "tgn:name":"Bishopsgate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.583,51.433],"type":"Point"}
+}

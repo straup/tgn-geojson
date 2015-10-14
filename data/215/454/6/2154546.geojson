@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.583300,37.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2154546","tgn:1000001","tgn:7012149","tgn:2000225","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2154546,"name:xx":"Bear Creek and Pine River Ditch"}}
+{
+  "id": 2154546,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154546",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000225",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154546,
+    "tgn:name":"Bear Creek and Pine River Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5833,37.2667],"type":"Point"}
+}

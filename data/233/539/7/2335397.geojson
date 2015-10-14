@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.516700,42.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2335397","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2335397,"name:xx":"Fort Meadow Reservoir"}}
+{
+  "id": 2335397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335397",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335397,
+    "tgn:name":"Fort Meadow Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.5167,42.3667],"type":"Point"}
+}

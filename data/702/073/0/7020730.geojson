@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-114.366700,46.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7020730","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7020730,"name:xx":"Sky Pilot Mountain"}}
+{
+  "id": 7020730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020730",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020730,
+    "tgn:name":"Sky Pilot Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3667,46.4333],"type":"Point"}
+}

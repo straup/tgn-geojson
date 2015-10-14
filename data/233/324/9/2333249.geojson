@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.800000,34.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2333249","tgn:1000001","tgn:7012149","tgn:2000430","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2333249,"name:xx":"Fodder Creek"}}
+{
+  "id": 2333249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333249",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000430",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333249,
+    "tgn:name":"Fodder Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.8,34.8667],"type":"Point"}
+}

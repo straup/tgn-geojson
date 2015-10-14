@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.866700,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2339159","tgn:1000001","tgn:7012149","tgn:1002809","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2339159,"name:xx":"Franks Ditch"}}
+{
+  "id": 2339159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339159",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002809",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339159,
+    "tgn:name":"Franks Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8667,38.25],"type":"Point"}
+}

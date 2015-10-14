@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.116667,18.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7355042","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355042,"name:xx":"Canoa Verde"}}
+{
+  "id": 7355042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355042",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355042,
+    "tgn:name":"Canoa Verde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.116667,18.95],"type":"Point"}
+}

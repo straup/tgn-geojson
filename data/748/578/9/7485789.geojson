@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.620000,23.656389]},"type":"Feature","properties":{"hierarchy":["tgn:7485789","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485789,"name:xx":"Wangtian"}}
+{
+  "id": 7485789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485789",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485789,
+    "tgn:name":"Wangtian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.62,23.656389],"type":"Point"}
+}

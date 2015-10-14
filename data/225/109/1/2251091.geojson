@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.583300,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2251091","tgn:1002808","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300008699"],"id":2251091,"name:xx":"Colvin Brook"}}
+{
+  "id": 2251091,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251091",
+        "tgn:1002808",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251091,
+    "tgn:name":"Colvin Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.5833,41.7333],"type":"Point"}
+}

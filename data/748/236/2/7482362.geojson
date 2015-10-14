@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.490556,23.449167]},"type":"Feature","properties":{"hierarchy":["tgn:7482362","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482362,"name:xx":"Zhuangnei"}}
+{
+  "id": 7482362,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482362",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482362,
+    "tgn:name":"Zhuangnei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.490556,23.449167],"type":"Point"}
+}

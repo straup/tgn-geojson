@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.383300,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2407431","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008798"],"id":2407431,"name:xx":"Huntley Mountain"}}
+{
+  "id": 2407431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407431",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407431,
+    "tgn:name":"Huntley Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3833,41.35],"type":"Point"}
+}

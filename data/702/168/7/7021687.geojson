@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.083300,34.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7021687","tgn:1000001","tgn:2001740","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021687,"name:xx":"Harolds Mill Pond"}}
+{
+  "id": 7021687,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021687",
+        "tgn:1000001",
+        "tgn:2001740",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021687,
+    "tgn:name":"Harolds Mill Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0833,34.25],"type":"Point"}
+}

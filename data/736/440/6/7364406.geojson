@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.916667,19.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7364406","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364406,"name:xx":"El Vig\u00eda"}}
+{
+  "id": 7364406,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364406",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364406,
+    "tgn:name":"El Vig\u00eda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.916667,19.05],"type":"Point"}
+}

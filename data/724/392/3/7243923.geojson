@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.200000,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7243923","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7243923,"name:xx":"Jachtbeek"}}
+{
+  "id": 7243923,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243923",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243923,
+    "tgn:name":"Jachtbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.2,51.15],"type":"Point"}
+}

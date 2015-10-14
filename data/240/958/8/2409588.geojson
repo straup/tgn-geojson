@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-160.316700,59.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2409588","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2409588,"name:xx":"Igmiumanik River"}}
+{
+  "id": 2409588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409588",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409588,
+    "tgn:name":"Igmiumanik River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-160.3167,59.5833],"type":"Point"}
+}

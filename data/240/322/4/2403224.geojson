@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.550000,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2403224","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2403224,"name:xx":"House Pond"}}
+{
+  "id": 2403224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403224",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403224,
+    "tgn:name":"House Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.55,40.8833],"type":"Point"}
+}

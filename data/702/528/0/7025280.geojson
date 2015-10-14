@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.783300,53.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7025280","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025280,"name:ang":"Presteclive"}}
+{
+  "id": 7025280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025280",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025280,
+    "tgn:name:ang":"Presteclive",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.7833,53.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.966700,37.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2408835","tgn:1000001","tgn:7012149","tgn:2002273","tgn:7013961","tgn:7029392"],"placetype":["aat:300006191"],"id":2408835,"name:xx":"Hyer Lake"}}
+{
+  "id": 2408835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408835",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002273",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408835,
+    "tgn:name":"Hyer Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9667,37.95],"type":"Point"}
+}

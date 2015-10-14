@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.169722,22.990833]},"type":"Feature","properties":{"hierarchy":["tgn:7482781","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7482781,"name:xx":"Anping Qu"}}
+{
+  "id": 7482781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482781",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482781,
+    "tgn:name":"Anping Qu",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.169722,22.990833],"type":"Point"}
+}

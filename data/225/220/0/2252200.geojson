@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.516700,36.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2252200","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300008706"],"id":2252200,"name:xx":"Conejo Creek"}}
+{
+  "id": 2252200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252200",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252200,
+    "tgn:name":"Conejo Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.5167,36.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.733300,42.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2408457","tgn:1000001","tgn:7012149","tgn:2000490","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2408457,"name:xx":"Hutchinson Canyon"}}
+{
+  "id": 2408457,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408457",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000490",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408457,
+    "tgn:name":"Hutchinson Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.7333,42.55],"type":"Point"}
+}

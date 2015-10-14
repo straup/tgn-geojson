@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.816700,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2335149","tgn:1000001","tgn:2000200","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2335149,"name:xx":"Fort Big Spring"}}
+{
+  "id": 2335149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335149",
+        "tgn:1000001",
+        "tgn:2000200",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335149,
+    "tgn:name":"Fort Big Spring",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.8167,38.9333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.816700,40.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2769297","tgn:1000001","tgn:7012149","tgn:1003047","tgn:7007710","tgn:7029392"],"placetype":["aat:300008798"],"id":2769297,"name:xx":"Wickersham Hill"}}
+{
+  "id": 2769297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769297",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003047",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769297,
+    "tgn:name":"Wickersham Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.8167,40.1333],"type":"Point"}
+}

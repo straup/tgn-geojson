@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.916667,51.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7241007","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241007,"name:xx":"Fort"}}
+{
+  "id": 7241007,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241007",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241007,
+    "tgn:name":"Fort",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.916667,51.066667],"type":"Point"}
+}

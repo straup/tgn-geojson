@@ -1,0 +1,24 @@
+{
+  "id": 1101998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1101998",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005801",
+        "tgn:7029392"
+    ],
+    "tgn:id":1101998,
+    "tgn:name":"L'Anse-aux-Meadows National Historic Park",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300262953",
+        "aat:300386977"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-55.5333,51.6],"type":"Point"}
+}

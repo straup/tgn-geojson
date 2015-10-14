@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.333333,15.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7375325","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375325,"name:xx":"Libertad Calera"}}
+{
+  "id": 7375325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375325",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375325,
+    "tgn:name":"Libertad Calera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.333333,15.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.883333,52.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7175176","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175176,"name:xx":"Grovern"}}
+{
+  "id": 7175176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175176",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175176,
+    "tgn:name":"Grovern",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.883333,52.5],"type":"Point"}
+}

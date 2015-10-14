@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.116667,21.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7378562","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378562,"name:xx":"Mangas"}}
+{
+  "id": 7378562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378562",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378562,
+    "tgn:name":"Mangas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.116667,21.65],"type":"Point"}
+}

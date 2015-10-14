@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.383333,24.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7378014","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378014,"name:xx":"Rancho La Polvareda"}}
+{
+  "id": 7378014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378014",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378014,
+    "tgn:name":"Rancho La Polvareda",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.383333,24.766667],"type":"Point"}
+}

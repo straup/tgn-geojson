@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.397229,22.485273]},"type":"Feature","properties":{"hierarchy":["tgn:7470016","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470016,"name:xx":"Zhongyun"}}
+{
+  "id": 7470016,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470016",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470016,
+    "tgn:name":"Zhongyun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.397229,22.485273],"type":"Point"}
+}

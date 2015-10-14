@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.457222,23.421389]},"type":"Feature","properties":{"hierarchy":["tgn:7483754","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7483754,"name:xx":"Niuchoubu Gongmu"}}
+{
+  "id": 7483754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483754",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483754,
+    "tgn:name":"Niuchoubu Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.457222,23.421389],"type":"Point"}
+}

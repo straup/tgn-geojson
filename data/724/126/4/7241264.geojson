@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.083333,50.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7241264","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7241264,"name:xx":"Le B\u00e2timent"}}
+{
+  "id": 7241264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241264",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241264,
+    "tgn:name":"Le B\u00e2timent",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.083333,50.333333],"type":"Point"}
+}

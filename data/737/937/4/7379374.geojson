@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.966667,21.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7379374","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379374,"name:xx":"Los Coyoles"}}
+{
+  "id": 7379374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379374",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379374,
+    "tgn:name":"Los Coyoles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.966667,21.45],"type":"Point"}
+}

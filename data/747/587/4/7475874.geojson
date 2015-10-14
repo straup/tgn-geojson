@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.704927,24.746100]},"type":"Feature","properties":{"hierarchy":["tgn:7475874","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475874,"name:xx":"Sici Qiao"}}
+{
+  "id": 7475874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475874",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475874,
+    "tgn:name":"Sici Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.704927,24.7461],"type":"Point"}
+}

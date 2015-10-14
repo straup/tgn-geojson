@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.433333,18.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7379014","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7379014,"name:xx":"Los Reyes"}}
+{
+  "id": 7379014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379014",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379014,
+    "tgn:name":"Los Reyes",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.433333,18.883333],"type":"Point"}
+}

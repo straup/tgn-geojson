@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.783333,19.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7374236","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374236,"name:xx":"La Manzanilla"}}
+{
+  "id": 7374236,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374236",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374236,
+    "tgn:name":"La Manzanilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.783333,19.266667],"type":"Point"}
+}

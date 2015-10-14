@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.000000,53.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7118387","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300006075"],"id":7118387,"name:xx":"Polzowkanal"}}
+{
+  "id": 7118387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118387",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118387,
+    "tgn:name":"Polzowkanal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.0,53.133333],"type":"Point"}
+}

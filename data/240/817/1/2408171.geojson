@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.016700,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2408171","tgn:1000001","tgn:7012149","tgn:2000446","tgn:7007248","tgn:7029392"],"placetype":["aat:300008761"],"id":2408171,"name:xx":"Hurricane Valley"}}
+{
+  "id": 2408171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000446",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408171,
+    "tgn:name":"Hurricane Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0167,34.6833],"type":"Point"}
+}

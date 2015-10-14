@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.550000,40.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2337540","tgn:1000001","tgn:1002205","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008347"],"id":2337540,"name:xx":"Fowlerston"}}
+{
+  "id": 2337540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337540",
+        "tgn:1000001",
+        "tgn:1002205",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337540,
+    "tgn:name":"Fowlerston",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.55,40.2667],"type":"Point"}
+}

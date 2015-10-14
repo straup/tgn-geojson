@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.150000,31.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7351550","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7351550,"name:xx":"Rancho Banori"}}
+{
+  "id": 7351550,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351550",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351550,
+    "tgn:name":"Rancho Banori",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.15,31.583333],"type":"Point"}
+}

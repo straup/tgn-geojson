@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.471944,24.062222]},"type":"Feature","properties":{"hierarchy":["tgn:7363677","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363677,"name:xx":"El Azafr\u00e1n, Cerro"}}
+{
+  "id": 7363677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363677",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363677,
+    "tgn:name":"El Azafr\u00e1n, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.471944,24.062222],"type":"Point"}
+}

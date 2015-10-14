@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.166700,32.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2333563","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000059","tgn:7029392"],"placetype":["aat:300008699"],"id":2333563,"name:xx":"Folsum Branch"}}
+{
+  "id": 2333563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333563",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000059",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333563,
+    "tgn:name":"Folsum Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1667,32.8],"type":"Point"}
+}

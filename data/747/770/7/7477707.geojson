@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.660093,23.584773]},"type":"Feature","properties":{"hierarchy":["tgn:7477707","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477707,"name:xx":"Huxi Qiao"}}
+{
+  "id": 7477707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477707",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477707,
+    "tgn:name":"Huxi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.660093,23.584773],"type":"Point"}
+}

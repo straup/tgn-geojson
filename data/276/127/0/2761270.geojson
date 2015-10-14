@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.766700,37.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2761270","tgn:1002132","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008791"],"id":2761270,"name:xx":"West Marsh Tump"}}
+{
+  "id": 2761270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761270",
+        "tgn:1002132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761270,
+    "tgn:name":"West Marsh Tump",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7667,37.8],"type":"Point"}
+}

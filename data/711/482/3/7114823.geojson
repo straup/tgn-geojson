@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.950000,51.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7114823","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7114823,"name:xx":"Osterholz"}}
+{
+  "id": 7114823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114823",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114823,
+    "tgn:name":"Osterholz",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.95,51.833333],"type":"Point"}
+}

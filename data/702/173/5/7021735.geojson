@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.183300,34.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7021735","tgn:1000001","tgn:7012149","tgn:2001754","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021735,"name:xx":"Boyd Millpond"}}
+{
+  "id": 7021735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021735",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001754",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021735,
+    "tgn:name":"Boyd Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1833,34.45],"type":"Point"}
+}

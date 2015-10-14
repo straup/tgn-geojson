@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.480984,23.244219]},"type":"Feature","properties":{"hierarchy":["tgn:7480894","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480894,"name:xx":"Yankeng"}}
+{
+  "id": 7480894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480894",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480894,
+    "tgn:name":"Yankeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.480984,23.244219],"type":"Point"}
+}

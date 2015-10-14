@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.483333,29.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7363009","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7363009,"name:xx":"El Cedroso, Arroyo"}}
+{
+  "id": 7363009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363009",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363009,
+    "tgn:name":"El Cedroso, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.483333,29.666667],"type":"Point"}
+}

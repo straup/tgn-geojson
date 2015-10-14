@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.597500,23.963611]},"type":"Feature","properties":{"hierarchy":["tgn:7480336","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7480336,"name:xx":"Dongchang"}}
+{
+  "id": 7480336,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480336",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480336,
+    "tgn:name":"Dongchang",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5975,23.963611],"type":"Point"}
+}

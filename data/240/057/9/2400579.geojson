@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.200000,37.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2400579","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2400579,"name:xx":"Horse Lick Creek"}}
+{
+  "id": 2400579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400579",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400579,
+    "tgn:name":"Horse Lick Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2,37.4833],"type":"Point"}
+}

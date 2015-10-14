@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.483300,41.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2764057","tgn:1000001","tgn:7012149","tgn:2002117","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2764057,"name:xx":"Wheeler Creek"}}
+{
+  "id": 2764057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764057",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002117",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764057,
+    "tgn:name":"Wheeler Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4833,41.4167],"type":"Point"}
+}

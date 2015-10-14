@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.370830,22.332565]},"type":"Feature","properties":{"hierarchy":["tgn:7478277","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478277,"name:xx":"Shuixing Gong"}}
+{
+  "id": 7478277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478277",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478277,
+    "tgn:name":"Shuixing Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.37083,22.332565],"type":"Point"}
+}

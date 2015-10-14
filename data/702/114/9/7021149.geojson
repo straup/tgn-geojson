@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.533300,38.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7021149","tgn:1000001","tgn:7012149","tgn:2002268","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021149,"name:xx":"Laurel Run"}}
+{
+  "id": 7021149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021149",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002268",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021149,
+    "tgn:name":"Laurel Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5333,38.7167],"type":"Point"}
+}

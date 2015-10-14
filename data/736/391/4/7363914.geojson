@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.133333,29.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7363914","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363914,"name:xx":"Rancho El Choro"}}
+{
+  "id": 7363914,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363914",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363914,
+    "tgn:name":"Rancho El Choro",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.133333,29.35],"type":"Point"}
+}

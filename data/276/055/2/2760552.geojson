@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.966700,48.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2760552","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2760552,"name:xx":"West Fork Twentymile Creek"}}
+{
+  "id": 2760552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760552",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760552,
+    "tgn:name":"West Fork Twentymile Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.9667,48.7667],"type":"Point"}
+}

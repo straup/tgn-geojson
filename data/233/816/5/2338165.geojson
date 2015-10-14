@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.850000,43.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2338165","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008850"],"id":2338165,"name:xx":"Fox Point"}}
+{
+  "id": 2338165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338165",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338165,
+    "tgn:name":"Fox Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.85,43.1167],"type":"Point"}
+}

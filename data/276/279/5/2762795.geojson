@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-177.700000,51.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2762795","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2762795,"name:xx":"Western Point"}}
+{
+  "id": 2762795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762795",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762795,
+    "tgn:name":"Western Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-177.7,51.7],"type":"Point"}
+}

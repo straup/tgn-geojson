@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.116667,52.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7059964","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7059964,"name:xx":"Altenhude"}}
+{
+  "id": 7059964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059964",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059964,
+    "tgn:name":"Altenhude",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.116667,52.983333],"type":"Point"}
+}

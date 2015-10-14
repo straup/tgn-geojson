@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.283333,41.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7057865","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057865,"name:xx":"Budasa, Riu"}}
+{
+  "id": 7057865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057865",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057865,
+    "tgn:name":"Budasa, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.283333,41.1],"type":"Point"}
+}

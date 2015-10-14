@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.351324,23.918530]},"type":"Feature","properties":{"hierarchy":["tgn:7474909","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7474909,"name:xx":"Fangyuan Gongyequ"}}
+{
+  "id": 7474909,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474909",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474909,
+    "tgn:name":"Fangyuan Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.351324,23.91853],"type":"Point"}
+}

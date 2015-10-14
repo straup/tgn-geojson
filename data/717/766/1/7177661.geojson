@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.866667,48.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7177661","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177661,"name:xx":"Hagen"}}
+{
+  "id": 7177661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177661",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177661,
+    "tgn:name":"Hagen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.866667,48.383333],"type":"Point"}
+}

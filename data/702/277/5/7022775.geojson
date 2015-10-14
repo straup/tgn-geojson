@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.283300,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7022775","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":7022775,"name:xx":"Wrigley Springs Reservoir"}}
+{
+  "id": 7022775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022775",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022775,
+    "tgn:name":"Wrigley Springs Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.2833,39.0833],"type":"Point"}
+}

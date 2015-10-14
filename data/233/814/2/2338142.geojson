@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.700000,48.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338142","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2338142,"name:xx":"Fox Mountain"}}
+{
+  "id": 2338142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338142,
+    "tgn:name":"Fox Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.7,48.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.481029,26.376133]},"type":"Feature","properties":{"hierarchy":["tgn:7473894","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7473894,"name:xx":"Zhongzhu Dao"}}
+{
+  "id": 7473894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473894",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473894,
+    "tgn:name":"Zhongzhu Dao",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.481029,26.376133],"type":"Point"}
+}

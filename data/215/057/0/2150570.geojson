@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.516700,34.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2150570","tgn:1000001","tgn:7012149","tgn:2000403","tgn:7007248","tgn:7029392"],"placetype":["aat:300386845"],"id":2150570,"name:xx":"Basin, The"}}
+{
+  "id": 2150570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150570",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000403",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150570,
+    "tgn:name":"Basin, The",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5167,34.4],"type":"Point"}
+}

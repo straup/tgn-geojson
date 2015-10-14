@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.933333,49.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7116975","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116975,"name:xx":"Oberthierwasen"}}
+{
+  "id": 7116975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116975",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116975,
+    "tgn:name":"Oberthierwasen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.933333,49.666667],"type":"Point"}
+}

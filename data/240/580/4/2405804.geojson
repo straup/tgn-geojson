@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.266700,47.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2405804","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2405804,"name:xx":"Hull Creek"}}
+{
+  "id": 2405804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405804",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405804,
+    "tgn:name":"Hull Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2667,47.7167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.483300,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2152666","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014475","tgn:7029392"],"placetype":["aat:300008699"],"id":2152666,"name:xx":"Bayo, Arroyo"}}
+{
+  "id": 2152666,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152666",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014475",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152666,
+    "tgn:name":"Bayo, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4833,37.3333],"type":"Point"}
+}

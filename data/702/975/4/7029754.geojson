@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.389000,44.783000]},"type":"Feature","properties":{"hierarchy":["tgn:7029754","tgn:1000003","tgn:7002885","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"name:fr":"Saint-Alban-sur-Limagnole","id":7029754}}
+{
+  "id": 7029754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029754",
+        "tgn:1000003",
+        "tgn:7002885",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029754,
+    "tgn:name:fr":"Saint-Alban-sur-Limagnole",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.389,44.783],"type":"Point"}
+}

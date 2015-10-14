@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.162500,24.936111]},"type":"Feature","properties":{"hierarchy":["tgn:7479857","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7479857,"name:xx":"Zhuangcuo"}}
+{
+  "id": 7479857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479857",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479857,
+    "tgn:name":"Zhuangcuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.1625,24.936111],"type":"Point"}
+}

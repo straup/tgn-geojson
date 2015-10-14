@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.955172,24.713590]},"type":"Feature","properties":{"hierarchy":["tgn:7478145","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478145,"name:xx":"Wanmakengshan Ding"}}
+{
+  "id": 7478145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478145",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478145,
+    "tgn:name":"Wanmakengshan Ding",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.955172,24.71359],"type":"Point"}
+}

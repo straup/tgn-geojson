@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.610833,39.160278]},"type":"Feature","properties":{"hierarchy":["tgn:7052243","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052243,"name:xx":"Perdaxius"}}
+{
+  "id": 7052243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052243",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052243,
+    "tgn:name":"Perdaxius",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.610833,39.160278],"type":"Point"}
+}

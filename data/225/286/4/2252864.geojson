@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.800000,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2252864","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2252864,"name:xx":"Conover Gulch"}}
+{
+  "id": 2252864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252864",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252864,
+    "tgn:name":"Conover Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8,42.5833],"type":"Point"}
+}

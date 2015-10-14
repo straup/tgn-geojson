@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.628056,22.495556]},"type":"Feature","properties":{"hierarchy":["tgn:7475384","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475384,"name:xx":"Wenle Cun"}}
+{
+  "id": 7475384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475384",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475384,
+    "tgn:name":"Wenle Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.628056,22.495556],"type":"Point"}
+}

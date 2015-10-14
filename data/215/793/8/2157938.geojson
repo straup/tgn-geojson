@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.883300,47.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2157938","tgn:1000001","tgn:7012149","tgn:2001029","tgn:7007521","tgn:7029392"],"placetype":["aat:300006191"],"id":2157938,"name:xx":"Beaver Lodge Impoundment"}}
+{
+  "id": 2157938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157938",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001029",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157938,
+    "tgn:name":"Beaver Lodge Impoundment",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.8833,47.6833],"type":"Point"}
+}

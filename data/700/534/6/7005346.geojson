@@ -1,0 +1,25 @@
+{
+  "id": 7005346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005346",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005346,
+    "tgn:name:ar":"\u0628 \u064a\u064e\u0632",
+    "tgn:name:en":"Belize",
+    "tgn:name:es":"Belice",
+    "tgn:name:fr":"Belize",
+    "tgn:name:ru":"\u0411\u0435\u043b\u0438\u0437",
+    "tgn:name:zh":"\u4f2f\u5229\u5179",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.75,17.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.750000,38.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2760360","tgn:1000001","tgn:1002273","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2760360,"name:xx":"West Fork Silver Creek"}}
+{
+  "id": 2760360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760360",
+        "tgn:1000001",
+        "tgn:1002273",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760360,
+    "tgn:name":"West Fork Silver Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.75,38.5833],"type":"Point"}
+}

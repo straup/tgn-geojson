@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.950000,51.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7029290","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Andoversford","id":7029290}}
+{
+  "id": 7029290,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029290",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029290,
+    "tgn:name:en":"Andoversford",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.95,51.866667],"type":"Point"}
+}

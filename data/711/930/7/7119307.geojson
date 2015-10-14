@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.366667,52.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7119307","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7119307,"name:xx":"Poggenpohlssand"}}
+{
+  "id": 7119307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119307",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119307,
+    "tgn:name":"Poggenpohlssand",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.366667,52.95],"type":"Point"}
+}

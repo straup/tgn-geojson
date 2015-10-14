@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.314406,23.772726]},"type":"Feature","properties":{"hierarchy":["tgn:7474656","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7474656,"name:xx":"Datong Nongchang"}}
+{
+  "id": 7474656,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474656",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474656,
+    "tgn:name":"Datong Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.314406,23.772726],"type":"Point"}
+}

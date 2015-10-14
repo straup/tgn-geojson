@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.483300,34.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2150011","tgn:1000001","tgn:7012149","tgn:2001460","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2150011,"name:xx":"Bartolo Trick Tank"}}
+{
+  "id": 2150011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150011",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001460",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150011,
+    "tgn:name":"Bartolo Trick Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4833,34.6333],"type":"Point"}
+}

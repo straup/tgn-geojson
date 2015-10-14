@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.400000,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7351692","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7351692,"name:xx":"Cajerachic, Arroyo"}}
+{
+  "id": 7351692,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351692",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351692,
+    "tgn:name":"Cajerachic, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4,26.7],"type":"Point"}
+}

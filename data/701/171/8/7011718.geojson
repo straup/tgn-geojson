@@ -1,0 +1,25 @@
+{
+  "id": 7011718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011718",
+        "tgn:7593916",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011718,
+    "tgn:name:cs":"Opava",
+    "tgn:name:de":"Troppau",
+    "tgn:name:en":"Opava",
+    "tgn:name:pl":"Opawa",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.9167,49.9667],"type":"Point"}
+}

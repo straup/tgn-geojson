@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.000000,38.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7021988","tgn:1000001","tgn:7012149","tgn:2002116","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":7021988,"name:xx":"South Fork Box Creek"}}
+{
+  "id": 7021988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021988",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002116",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021988,
+    "tgn:name":"South Fork Box Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.0,38.4],"type":"Point"}
+}

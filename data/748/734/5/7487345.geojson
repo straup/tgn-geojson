@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.272192,25.092100]},"type":"Feature","properties":{"hierarchy":["tgn:7487345","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487345,"name:xx":"Kengkou Cun"}}
+{
+  "id": 7487345,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487345",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487345,
+    "tgn:name":"Kengkou Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.272192,25.0921],"type":"Point"}
+}

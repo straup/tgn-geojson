@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.083300,35.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7020726","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000162","tgn:7029392"],"placetype":["aat:300008761"],"id":7020726,"name:xx":"Mocassin Hollow"}}
+{
+  "id": 7020726,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020726",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000162",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020726,
+    "tgn:name":"Mocassin Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0833,35.5333],"type":"Point"}
+}

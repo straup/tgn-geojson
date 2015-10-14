@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[18.050000,40.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7053272","tgn:1003468","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053272,"name:xx":"Magliano"}}
+{
+  "id": 7053272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053272",
+        "tgn:1003468",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053272,
+    "tgn:name":"Magliano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.05,40.333333],"type":"Point"}
+}

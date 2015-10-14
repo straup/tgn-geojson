@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.483300,35.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2403113","tgn:1000001","tgn:7012149","tgn:2001526","tgn:7007709","tgn:7029392"],"placetype":["aat:300132316"],"id":2403113,"name:xx":"House Cove"}}
+{
+  "id": 2403113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403113",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001526",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403113,
+    "tgn:name":"House Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4833,35.2833],"type":"Point"}
+}

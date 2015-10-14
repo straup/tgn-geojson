@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.666667,54.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7059958","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7059958,"name:xx":"Altenjahn"}}
+{
+  "id": 7059958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059958",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059958,
+    "tgn:name":"Altenjahn",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.666667,54.05],"type":"Point"}
+}

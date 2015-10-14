@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.133300,37.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2332222","tgn:1000001","tgn:7012149","tgn:2002278","tgn:7013961","tgn:7029392"],"placetype":["aat:300266640"],"id":2332222,"name:xx":"Flippins Ridge"}}
+{
+  "id": 2332222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332222",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002278",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332222,
+    "tgn:name":"Flippins Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1333,37.3667],"type":"Point"}
+}

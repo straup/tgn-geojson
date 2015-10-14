@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.233300,45.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2405708","tgn:1000001","tgn:7012149","tgn:2002337","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2405708,"name:xx":"Huigen Lake"}}
+{
+  "id": 2405708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002337",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405708,
+    "tgn:name":"Huigen Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2333,45.2833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[148.450000,-17.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7024221","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008679"],"id":7024221,"name:xx":"Horseshoe Lagoon"}}
+{
+  "id": 7024221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024221",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024221,
+    "tgn:name":"Horseshoe Lagoon",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[148.45,-17.8333],"type":"Point"}
+}

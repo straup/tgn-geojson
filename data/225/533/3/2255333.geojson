@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.533300,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2255333","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2255333,"name:xx":"Coopers Hollow"}}
+{
+  "id": 2255333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255333",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255333,
+    "tgn:name":"Coopers Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5333,38.1667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[35.016000,31.433000]},"type":"Feature","properties":{"hierarchy":["tgn:7029079","tgn:7016849","tgn:1000004","tgn:1000119","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029079,"name:xx":"\u02bbOtni'el"}}
+{
+  "id": 7029079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029079",
+        "tgn:7016849",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029079,
+    "tgn:name":"\u02bbOtni'el",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.016,31.433],"type":"Point"}
+}

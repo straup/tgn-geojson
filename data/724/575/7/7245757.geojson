@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.066667,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7245757","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7245757,"name:xx":"Clouse"}}
+{
+  "id": 7245757,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245757",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245757,
+    "tgn:name":"Clouse",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.066667,50.6],"type":"Point"}
+}

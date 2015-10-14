@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.216700,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2159996","tgn:1000001","tgn:7012149","tgn:1002612","tgn:7007710","tgn:7029392"],"placetype":["aat:300008680"],"id":2159996,"name:xx":"Beech Lake"}}
+{
+  "id": 2159996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159996",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002612",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159996,
+    "tgn:name":"Beech Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2167,41.35],"type":"Point"}
+}

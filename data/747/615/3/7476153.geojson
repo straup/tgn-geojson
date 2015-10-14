@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.936280,24.699633]},"type":"Feature","properties":{"hierarchy":["tgn:7476153","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476153,"name:xx":"Xiping"}}
+{
+  "id": 7476153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476153",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476153,
+    "tgn:name":"Xiping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.93628,24.699633],"type":"Point"}
+}

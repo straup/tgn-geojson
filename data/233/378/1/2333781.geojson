@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,37.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2333781","tgn:1000001","tgn:7012149","tgn:2001247","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2333781,"name:xx":"Footlog Hollow"}}
+{
+  "id": 2333781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333781",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001247",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333781,
+    "tgn:name":"Footlog Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,37.3667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.000000,42.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7056383","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7056383,"name:xx":"Ocri, Monte d'"}}
+{
+  "id": 7056383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056383",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056383,
+    "tgn:name":"Ocri, Monte d'",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.0,42.616667],"type":"Point"}
+}

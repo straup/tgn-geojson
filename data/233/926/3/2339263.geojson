@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.766700,48.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2339263","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2339263,"name:xx":"Franzwa Creek"}}
+{
+  "id": 2339263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339263",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339263,
+    "tgn:name":"Franzwa Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7667,48.2333],"type":"Point"}
+}

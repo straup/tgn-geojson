@@ -1,0 +1,26 @@
+{
+  "id": 7001410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001410",
+        "tgn:7000249",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001410,
+    "tgn:name:en":"Nazareth",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387222",
+        "aat:300008375",
+        "aat:300387285",
+        "aat:300008459",
+        "aat:300387291",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.3,32.7],"type":"Point"}
+}

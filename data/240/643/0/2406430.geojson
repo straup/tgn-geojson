@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.783300,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2406430","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2406430,"name:xx":"Hungry Creek"}}
+{
+  "id": 2406430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406430",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406430,
+    "tgn:name":"Hungry Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7833,42.7],"type":"Point"}
+}

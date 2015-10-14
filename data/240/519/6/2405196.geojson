@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.050000,36.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2405196","tgn:1000001","tgn:2000783","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2405196,"name:xx":"Huff Branch"}}
+{
+  "id": 2405196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405196",
+        "tgn:1000001",
+        "tgn:2000783",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405196,
+    "tgn:name":"Huff Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.05,36.7167],"type":"Point"}
+}

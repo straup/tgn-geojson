@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.983300,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2407512","tgn:1000001","tgn:7012149","tgn:1002730","tgn:7007919","tgn:7029392"],"placetype":["aat:300008850"],"id":2407512,"name:xx":"Hunts Point"}}
+{
+  "id": 2407512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407512",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002730",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407512,
+    "tgn:name":"Hunts Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9833,37.2333],"type":"Point"}
+}

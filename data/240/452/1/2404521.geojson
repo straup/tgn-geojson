@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.566700,44.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2404521","tgn:1000001","tgn:7012149","tgn:2001712","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2404521,"name:xx":"Hubbards Draw"}}
+{
+  "id": 2404521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404521",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001712",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404521,
+    "tgn:name":"Hubbards Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.5667,44.6333],"type":"Point"}
+}

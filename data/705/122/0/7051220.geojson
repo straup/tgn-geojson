@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[18.233333,40.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7051220","tgn:1003468","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051220,"name:xx":"Martignano"}}
+{
+  "id": 7051220,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051220",
+        "tgn:1003468",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051220,
+    "tgn:name":"Martignano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.233333,40.233333],"type":"Point"}
+}

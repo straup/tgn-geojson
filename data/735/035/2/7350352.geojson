@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.550000,29.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7350352","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7350352,"name:xx":"Burros, Ca\u00f1\u00f3n de los"}}
+{
+  "id": 7350352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350352",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350352,
+    "tgn:name":"Burros, Ca\u00f1\u00f3n de los",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.55,29.183333],"type":"Point"}
+}

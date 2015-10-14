@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.683300,41.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2762813","tgn:1000001","tgn:7012149","tgn:1002928","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2762813,"name:xx":"Western Star"}}
+{
+  "id": 2762813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762813",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002928",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762813,
+    "tgn:name":"Western Star",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6833,41.0167],"type":"Point"}
+}

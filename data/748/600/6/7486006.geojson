@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.330556,24.049167]},"type":"Feature","properties":{"hierarchy":["tgn:7486006","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7486006,"name:xx":"Chaitian Shan"}}
+{
+  "id": 7486006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486006",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486006,
+    "tgn:name":"Chaitian Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.330556,24.049167],"type":"Point"}
+}

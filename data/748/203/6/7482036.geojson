@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.554172,22.557961]},"type":"Feature","properties":{"hierarchy":["tgn:7482036","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7482036,"name:xx":"Beishipou"}}
+{
+  "id": 7482036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482036",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482036,
+    "tgn:name":"Beishipou",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.554172,22.557961],"type":"Point"}
+}

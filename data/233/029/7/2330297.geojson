@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.516700,41.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2330297","tgn:1002165","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008680"],"id":2330297,"name:xx":"Flashy Pond"}}
+{
+  "id": 2330297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330297",
+        "tgn:1002165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330297,
+    "tgn:name":"Flashy Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.5167,41.6],"type":"Point"}
+}

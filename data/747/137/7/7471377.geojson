@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.661389,22.275278]},"type":"Feature","properties":{"hierarchy":["tgn:7471377","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471377,"name:xx":"Fang Shan"}}
+{
+  "id": 7471377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471377",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471377,
+    "tgn:name":"Fang Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.661389,22.275278],"type":"Point"}
+}

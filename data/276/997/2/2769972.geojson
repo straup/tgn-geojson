@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.450000,31.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2769972","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000065","tgn:7029392"],"placetype":["aat:300132348"],"id":2769972,"name:xx":"Wilcox Bar"}}
+{
+  "id": 2769972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769972",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000065",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769972,
+    "tgn:name":"Wilcox Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.45,31.9333],"type":"Point"}
+}

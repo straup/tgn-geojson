@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.831944,16.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7367300","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367300,"name:xx":"El Rosario de Torres"}}
+{
+  "id": 7367300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367300",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367300,
+    "tgn:name":"El Rosario de Torres",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.831944,16.216667],"type":"Point"}
+}

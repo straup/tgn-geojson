@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.283333,43.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7051289","tgn:7003166","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7051289,"name:xx":"Stazione Marittima"}}
+{
+  "id": 7051289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051289",
+        "tgn:7003166",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051289,
+    "tgn:name":"Stazione Marittima",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.283333,43.55],"type":"Point"}
+}

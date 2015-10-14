@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.543611,23.241389]},"type":"Feature","properties":{"hierarchy":["tgn:7483524","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300004792"],"id":7483524,"name:xx":"Zhongzheng Lou"}}
+{
+  "id": 7483524,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483524",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483524,
+    "tgn:name":"Zhongzheng Lou",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.543611,23.241389],"type":"Point"}
+}

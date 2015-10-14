@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.216667,26.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7376668","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7376668,"name:xx":"Loera, R\u00edo de los"}}
+{
+  "id": 7376668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376668",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376668,
+    "tgn:name":"Loera, R\u00edo de los",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.216667,26.616667],"type":"Point"}
+}

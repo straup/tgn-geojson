@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.150000,43.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2702338","tgn:1000001","tgn:2000458","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2702338,"name:xx":"Sullivan Lake"}}
+{
+  "id": 2702338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702338",
+        "tgn:1000001",
+        "tgn:2000458",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702338,
+    "tgn:name":"Sullivan Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.15,43.3],"type":"Point"}
+}

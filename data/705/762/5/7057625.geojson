@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.866667,46.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7057625","tgn:1003488","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057625,"name:xx":"Arzenutto"}}
+{
+  "id": 7057625,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057625",
+        "tgn:1003488",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057625,
+    "tgn:name":"Arzenutto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.866667,46.016667],"type":"Point"}
+}

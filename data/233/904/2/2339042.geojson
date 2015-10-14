@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-106.483300,32.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2339042","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":2339042,"name:xx":"Franklin Mountains"}}
+{
+  "id": 2339042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339042",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339042,
+    "tgn:name":"Franklin Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4833,32.0],"type":"Point"}
+}

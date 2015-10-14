@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.616667,52.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7119090","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7119090,"name:xx":"Pohlitzer See"}}
+{
+  "id": 7119090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119090",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119090,
+    "tgn:name":"Pohlitzer See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.616667,52.183333],"type":"Point"}
+}

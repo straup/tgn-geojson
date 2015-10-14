@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.950000,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2151212","tgn:1000001","tgn:7012149","tgn:2000821","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2151212,"name:xx":"Bate Lick Branch"}}
+{
+  "id": 2151212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151212",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000821",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151212,
+    "tgn:name":"Bate Lick Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.95,37.55],"type":"Point"}
+}

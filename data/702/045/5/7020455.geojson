@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.600000,48.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7020455","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":7020455,"name:xx":"Rogers, Lake"}}
+{
+  "id": 7020455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020455,
+    "tgn:name":"Rogers, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6,48.05],"type":"Point"}
+}

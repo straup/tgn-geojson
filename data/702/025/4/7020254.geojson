@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.766700,38.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7020254","tgn:1000001","tgn:7012149","tgn:2000809","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7020254,"name:xx":"Steele Branch"}}
+{
+  "id": 7020254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020254",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000809",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020254,
+    "tgn:name":"Steele Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.7667,38.0],"type":"Point"}
+}

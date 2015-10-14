@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.333300,35.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2406306","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008699"],"id":2406306,"name:xx":"Humpy Wash"}}
+{
+  "id": 2406306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406306",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406306,
+    "tgn:name":"Humpy Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3333,35.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.640278,23.606389]},"type":"Feature","properties":{"hierarchy":["tgn:7483058","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483058,"name:xx":"Sanbuwan"}}
+{
+  "id": 7483058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483058",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483058,
+    "tgn:name":"Sanbuwan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.640278,23.606389],"type":"Point"}
+}

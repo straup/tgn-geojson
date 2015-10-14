@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.316667,50.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7242073","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242073,"name:xx":"La Guenette"}}
+{
+  "id": 7242073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242073",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242073,
+    "tgn:name":"La Guenette",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.316667,50.566667],"type":"Point"}
+}

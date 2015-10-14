@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.016667,20.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7356962","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356962,"name:xx":"Chaczink\u00edn"}}
+{
+  "id": 7356962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356962",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356962,
+    "tgn:name":"Chaczink\u00edn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.016667,20.15],"type":"Point"}
+}

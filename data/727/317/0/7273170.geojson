@@ -1,0 +1,27 @@
+{
+  "id": 7273170,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f2457e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744780",
+        "gp:id":734645,
+        "qs:id":8,
+        "wof:id":101855389
+    },
+    "tgn:hierarchy":[
+        "tgn:7273170",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273170,
+    "tgn:name:nl":"Westendorp",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.416667,51.95],"type":"Point"}
+}

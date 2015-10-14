@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.450000,33.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2767776","tgn:2001726","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2767776,"name:xx":"Whitehead Pond"}}
+{
+  "id": 2767776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767776",
+        "tgn:2001726",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767776,
+    "tgn:name":"Whitehead Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.45,33.45],"type":"Point"}
+}

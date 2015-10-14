@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.213785,25.103366]},"type":"Feature","properties":{"hierarchy":["tgn:7477149","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7477149,"name:xx":"Miaobu"}}
+{
+  "id": 7477149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477149",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477149,
+    "tgn:name":"Miaobu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.213785,25.103366],"type":"Point"}
+}

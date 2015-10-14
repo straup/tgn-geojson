@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.666700,37.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2762000","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002656","tgn:7029392"],"placetype":["aat:300006075"],"id":2762000,"name:xx":"West San Juan Drain Number One"}}
+{
+  "id": 2762000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762000",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002656",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762000,
+    "tgn:name":"West San Juan Drain Number One",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.6667,37.0833],"type":"Point"}
+}

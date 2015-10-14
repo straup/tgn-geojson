@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.956934,24.671153]},"type":"Feature","properties":{"hierarchy":["tgn:7476146","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476146,"name:xx":"Longlangding"}}
+{
+  "id": 7476146,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476146",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476146,
+    "tgn:name":"Longlangding",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.956934,24.671153],"type":"Point"}
+}

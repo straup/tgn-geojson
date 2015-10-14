@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.778215,24.601240]},"type":"Feature","properties":{"hierarchy":["tgn:7476447","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7476447,"name:xx":"Longkeng Guoxiao"}}
+{
+  "id": 7476447,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476447",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476447,
+    "tgn:name":"Longkeng Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.778215,24.60124],"type":"Point"}
+}

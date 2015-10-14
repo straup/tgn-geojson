@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.516667,24.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7487996","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487996,"name:xx":"Xiushancun"}}
+{
+  "id": 7487996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487996",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487996,
+    "tgn:name":"Xiushancun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.516667,24.983333],"type":"Point"}
+}

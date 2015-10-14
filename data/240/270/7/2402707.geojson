@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.033300,44.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2402707","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2402707,"name:xx":"Hot Spring Creek"}}
+{
+  "id": 2402707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402707",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402707,
+    "tgn:name":"Hot Spring Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.0333,44.6333],"type":"Point"}
+}

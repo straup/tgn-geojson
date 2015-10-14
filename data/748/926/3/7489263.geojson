@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.834038,24.365479]},"type":"Feature","properties":{"hierarchy":["tgn:7489263","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489263,"name:xx":"Neishuangkeng"}}
+{
+  "id": 7489263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489263",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489263,
+    "tgn:name":"Neishuangkeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.834038,24.365479],"type":"Point"}
+}

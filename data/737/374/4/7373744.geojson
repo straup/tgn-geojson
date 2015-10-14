@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.050000,24.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7373744","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373744,"name:xx":"La Granja"}}
+{
+  "id": 7373744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373744",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373744,
+    "tgn:name":"La Granja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.05,24.566667],"type":"Point"}
+}

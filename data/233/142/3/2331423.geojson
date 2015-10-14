@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.050000,43.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2331423","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2331423,"name:xx":"Flatrock Mountain"}}
+{
+  "id": 2331423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331423,
+    "tgn:name":"Flatrock Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.05,43.6667],"type":"Point"}
+}

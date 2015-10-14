@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.883300,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2760212","tgn:1000001","tgn:2000459","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760212,"name:xx":"West Fork Reservoir Creek"}}
+{
+  "id": 2760212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760212",
+        "tgn:1000001",
+        "tgn:2000459",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760212,
+    "tgn:name":"West Fork Reservoir Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8833,44.0],"type":"Point"}
+}

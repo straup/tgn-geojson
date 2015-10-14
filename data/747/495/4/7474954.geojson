@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.318193,23.503900]},"type":"Feature","properties":{"hierarchy":["tgn:7474954","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474954,"name:xx":"Wanbei Cun"}}
+{
+  "id": 7474954,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474954",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474954,
+    "tgn:name":"Wanbei Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.318193,23.5039],"type":"Point"}
+}

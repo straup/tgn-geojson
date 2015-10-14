@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.793973,25.102960]},"type":"Feature","properties":{"hierarchy":["tgn:7477407","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477407,"name:xx":"Kengzinei Qiao"}}
+{
+  "id": 7477407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477407",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477407,
+    "tgn:name":"Kengzinei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.793973,25.10296],"type":"Point"}
+}

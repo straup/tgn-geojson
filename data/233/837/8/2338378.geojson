@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.316700,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2338378","tgn:1000001","tgn:7012149","tgn:1002441","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2338378,"name:xx":"Foxhunter Lane"}}
+{
+  "id": 2338378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338378",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002441",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338378,
+    "tgn:name":"Foxhunter Lane",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3167,39.2333],"type":"Point"}
+}

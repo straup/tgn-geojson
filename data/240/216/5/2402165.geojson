@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.033300,41.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2402165","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008798"],"id":2402165,"name:xx":"Horsethief Butte"}}
+{
+  "id": 2402165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402165,
+    "tgn:name":"Horsethief Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.0333,41.6667],"type":"Point"}
+}

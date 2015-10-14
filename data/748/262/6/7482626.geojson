@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.557500,23.671111]},"type":"Feature","properties":{"hierarchy":["tgn:7482626","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482626,"name:xx":"Duirong Qiao"}}
+{
+  "id": 7482626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482626",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482626,
+    "tgn:name":"Duirong Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5575,23.671111],"type":"Point"}
+}

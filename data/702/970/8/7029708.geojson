@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[106.250000,29.283000]},"type":"Feature","properties":{"hierarchy":["tgn:7029708","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029708,"name:xx":"Jiangjin Shi"}}
+{
+  "id": 7029708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029708",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029708,
+    "tgn:name":"Jiangjin Shi",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[106.25,29.283],"type":"Point"}
+}

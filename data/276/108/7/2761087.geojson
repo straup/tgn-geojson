@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.800000,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2761087","tgn:1000001","tgn:7019178","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300006191"],"id":2761087,"name:xx":"West Lake"}}
+{
+  "id": 2761087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761087",
+        "tgn:1000001",
+        "tgn:7019178",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761087,
+    "tgn:name":"West Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.8,41.0333],"type":"Point"}
+}

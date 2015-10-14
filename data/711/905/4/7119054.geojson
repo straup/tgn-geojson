@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.416667,47.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7119054","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7119054,"name:xx":"Point Filz"}}
+{
+  "id": 7119054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119054",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119054,
+    "tgn:name":"Point Filz",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.416667,47.816667],"type":"Point"}
+}

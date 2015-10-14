@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.300000,35.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2407296","tgn:1000001","tgn:7012149","tgn:2001530","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2407296,"name:xx":"Hunting Run"}}
+{
+  "id": 2407296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407296",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001530",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407296,
+    "tgn:name":"Hunting Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3,35.6833],"type":"Point"}
+}

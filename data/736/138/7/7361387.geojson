@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.583333,20.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7361387","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361387,"name:xx":"El Jacal"}}
+{
+  "id": 7361387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361387",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361387,
+    "tgn:name":"El Jacal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.583333,20.266667],"type":"Point"}
+}

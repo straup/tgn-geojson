@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.066667,21.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7379243","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379243,"name:xx":"M\u00e1rgaro"}}
+{
+  "id": 7379243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379243",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379243,
+    "tgn:name":"M\u00e1rgaro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.066667,21.35],"type":"Point"}
+}

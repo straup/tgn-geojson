@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-91.366700,36.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7021222","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7021222,"name:xx":"South Fork James Creek"}}
+{
+  "id": 7021222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021222",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021222,
+    "tgn:name":"South Fork James Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.3667,36.4833],"type":"Point"}
+}

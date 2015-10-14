@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.050000,35.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2155191","tgn:1000001","tgn:7012149","tgn:2001491","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2155191,"name:xx":"Bear Marsh Branch"}}
+{
+  "id": 2155191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155191",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001491",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155191,
+    "tgn:name":"Bear Marsh Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.05,35.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.250000,46.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2150477","tgn:1000001","tgn:7012149","tgn:2001281","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2150477,"name:xx":"Basin Millsite"}}
+{
+  "id": 2150477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001281",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150477,
+    "tgn:name":"Basin Millsite",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.25,46.2667],"type":"Point"}
+}

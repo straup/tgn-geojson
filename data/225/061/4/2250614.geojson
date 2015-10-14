@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.416700,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2250614","tgn:1000001","tgn:7012149","tgn:2000224","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2250614,"name:xx":"Colorado Gulch"}}
+{
+  "id": 2250614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250614",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000224",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250614,
+    "tgn:name":"Colorado Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4167,39.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.398955,22.483946]},"type":"Feature","properties":{"hierarchy":["tgn:7478455","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7478455,"name:xx":"Linyuan Zhongpaishuigou"}}
+{
+  "id": 7478455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478455",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478455,
+    "tgn:name":"Linyuan Zhongpaishuigou",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.398955,22.483946],"type":"Point"}
+}

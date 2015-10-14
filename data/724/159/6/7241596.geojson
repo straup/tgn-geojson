@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.284628,51.066739]},"type":"Feature","properties":{"hierarchy":["tgn:7241596","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7241596,"name:xx":"Fort van Liezele"}}
+{
+  "id": 7241596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241596",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241596,
+    "tgn:name":"Fort van Liezele",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.284628,51.066739],"type":"Point"}
+}

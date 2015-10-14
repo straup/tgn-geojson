@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[3.150000,50.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7024709","tgn:1000003","tgn:7001097","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024709,"name:xx":"Annappes"}}
+{
+  "id": 7024709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024709",
+        "tgn:1000003",
+        "tgn:7001097",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024709,
+    "tgn:name":"Annappes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.15,50.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.616700,29.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2153150","tgn:1000001","tgn:7012149","tgn:1002567","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2153150,"name:xx":"Beakman Lake"}}
+{
+  "id": 2153150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153150",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002567",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153150,
+    "tgn:name":"Beakman Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6167,29.1167],"type":"Point"}
+}

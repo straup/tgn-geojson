@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.550000,37.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2331693","tgn:1000001","tgn:7012149","tgn:2000837","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2331693,"name:xx":"Fleming Branch"}}
+{
+  "id": 2331693,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331693",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000837",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331693,
+    "tgn:name":"Fleming Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.55,37.2667],"type":"Point"}
+}

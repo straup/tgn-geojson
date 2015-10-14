@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.415750,25.061613]},"type":"Feature","properties":{"hierarchy":["tgn:7480923","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300004792"],"id":7480923,"name:xx":"Taishan Shoufeizhan"}}
+{
+  "id": 7480923,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480923",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480923,
+    "tgn:name":"Taishan Shoufeizhan",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.41575,25.061613],"type":"Point"}
+}

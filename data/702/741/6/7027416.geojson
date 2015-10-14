@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-3.483333,42.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7027416","tgn:7007088","tgn:1000003","tgn:7009604","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027416,"name:xx":"Zalduendo"}}
+{
+  "id": 7027416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027416",
+        "tgn:7007088",
+        "tgn:1000003",
+        "tgn:7009604",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027416,
+    "tgn:name":"Zalduendo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.483333,42.35],"type":"Point"}
+}

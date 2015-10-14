@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.347424,23.314323]},"type":"Feature","properties":{"hierarchy":["tgn:7486540","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486540,"name:xx":"Lehe Li"}}
+{
+  "id": 7486540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486540",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486540,
+    "tgn:name":"Lehe Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.347424,23.314323],"type":"Point"}
+}

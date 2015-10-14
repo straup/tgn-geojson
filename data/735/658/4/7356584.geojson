@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.450000,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7356584","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7356584,"name:xx":"Chinacos, Arroyo"}}
+{
+  "id": 7356584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356584",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356584,
+    "tgn:name":"Chinacos, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.45,26.266667],"type":"Point"}
+}

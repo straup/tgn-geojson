@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.216667,45.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7050287","tgn:1000003","tgn:7003151","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050287,"name:xx":"Pietra dei Giorgi"}}
+{
+  "id": 7050287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050287",
+        "tgn:1000003",
+        "tgn:7003151",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050287,
+    "tgn:name":"Pietra dei Giorgi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.216667,45.016667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.383056,52.143611]},"type":"Feature","properties":{"hierarchy":["tgn:7114707","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7114707,"name:xx":"Bahnhof Ochtmersleben"}}
+{
+  "id": 7114707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114707",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114707,
+    "tgn:name":"Bahnhof Ochtmersleben",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.383056,52.143611],"type":"Point"}
+}

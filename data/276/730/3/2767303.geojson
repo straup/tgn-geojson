@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.383300,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2767303","tgn:1000001","tgn:7012149","tgn:2002128","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2767303,"name:xx":"White Roost Canyon"}}
+{
+  "id": 2767303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767303",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002128",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767303,
+    "tgn:name":"White Roost Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3833,38.4833],"type":"Point"}
+}

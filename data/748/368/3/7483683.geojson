@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.916389,24.958056]},"type":"Feature","properties":{"hierarchy":["tgn:7483683","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483683,"name:xx":"Shawan"}}
+{
+  "id": 7483683,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483683",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483683,
+    "tgn:name":"Shawan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.916389,24.958056],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.700000,17.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7356874","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356874,"name:xx":"Chacarr\u00f3n"}}
+{
+  "id": 7356874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356874",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356874,
+    "tgn:name":"Chacarr\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.7,17.733333],"type":"Point"}
+}

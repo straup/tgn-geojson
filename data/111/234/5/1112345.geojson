@@ -1,0 +1,19 @@
+{
+  "id": 1112345,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1112345",
+        "tgn:1000001",
+        "tgn:7004624",
+        "tgn:7029392"
+    ],
+    "tgn:id":1112345,
+    "tgn:name":"Bataban\u00f3, Golfo de",
+    "tgn:placetype":[
+        "aat:300132315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5,22.25],"type":"Point"}
+}

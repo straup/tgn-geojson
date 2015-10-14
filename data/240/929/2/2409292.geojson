@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-134.166700,58.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2409292","tgn:7006450","tgn:1000001","tgn:2124089","tgn:7012149","tgn:7029392"],"placetype":["aat:300386845"],"id":2409292,"name:xx":"Icy Basin"}}
+{
+  "id": 2409292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409292",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124089",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409292,
+    "tgn:name":"Icy Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-134.1667,58.6333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.033333,28.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7378741","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378741,"name:xx":"Rancho Los Puertos"}}
+{
+  "id": 7378741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378741",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378741,
+    "tgn:name":"Rancho Los Puertos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.033333,28.816667],"type":"Point"}
+}

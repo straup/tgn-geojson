@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.033300,33.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2157150","tgn:1000001","tgn:7012149","tgn:2002078","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2157150,"name:xx":"Beaver Canyon"}}
+{
+  "id": 2157150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157150",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002078",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157150,
+    "tgn:name":"Beaver Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.0333,33.2833],"type":"Point"}
+}

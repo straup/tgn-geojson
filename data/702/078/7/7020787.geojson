@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.916700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7020787","tgn:1000001","tgn:1002902","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300132316"],"id":7020787,"name:xx":"Rock Creek"}}
+{
+  "id": 7020787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020787",
+        "tgn:1000001",
+        "tgn:1002902",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020787,
+    "tgn:name":"Rock Creek",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9167,38.1833],"type":"Point"}
+}

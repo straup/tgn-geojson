@@ -1,0 +1,21 @@
+{
+  "id": 2223456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2223456",
+        "tgn:1000001",
+        "tgn:2002107",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2223456,
+    "tgn:name":"Cart Hollow Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9833,40.5],"type":"Point"}
+}

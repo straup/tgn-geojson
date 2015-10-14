@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.766700,30.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2158399","tgn:2000001","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2158399,"name:xx":"Beaverdam Creek"}}
+{
+  "id": 2158399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158399",
+        "tgn:2000001",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158399,
+    "tgn:name":"Beaverdam Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.7667,30.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.850000,31.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2402305","tgn:7002659","tgn:1000001","tgn:2000017","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2402305,"name:xx":"Horton Branch"}}
+{
+  "id": 2402305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402305",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000017",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402305,
+    "tgn:name":"Horton Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.85,31.3667],"type":"Point"}
+}

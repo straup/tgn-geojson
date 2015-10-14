@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.283300,37.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2761505","tgn:1002138","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008347"],"id":2761505,"name:xx":"West Oakland"}}
+{
+  "id": 2761505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761505",
+        "tgn:1002138",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761505,
+    "tgn:name":"West Oakland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2833,37.8],"type":"Point"}
+}

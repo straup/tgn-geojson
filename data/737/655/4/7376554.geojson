@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.583333,18.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7376554","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376554,"name:xx":"Las Juntas de Poturo"}}
+{
+  "id": 7376554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376554",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376554,
+    "tgn:name":"Las Juntas de Poturo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.583333,18.666667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.400000,48.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2253294","tgn:1000001","tgn:7012149","tgn:2001295","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2253294,"name:xx":"Converse Reservoir"}}
+{
+  "id": 2253294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253294",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001295",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253294,
+    "tgn:name":"Converse Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4,48.2833],"type":"Point"}
+}

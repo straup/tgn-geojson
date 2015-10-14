@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.400000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2336436","tgn:1002137","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008697"],"id":2336436,"name:xx":"Fountaindale Spring"}}
+{
+  "id": 2336436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336436",
+        "tgn:1002137",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336436,
+    "tgn:name":"Fountaindale Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4,39.7333],"type":"Point"}
+}

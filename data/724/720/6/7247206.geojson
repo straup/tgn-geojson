@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.683333,50.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7247206","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7247206,"name:xx":"Champelle, Bois de"}}
+{
+  "id": 7247206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247206",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247206,
+    "tgn:name":"Champelle, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.683333,50.216667],"type":"Point"}
+}

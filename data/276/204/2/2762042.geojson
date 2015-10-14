@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.500000,42.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2762042","tgn:1000001","tgn:7012149","tgn:1002423","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2762042,"name:xx":"West Settlement Creek"}}
+{
+  "id": 2762042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762042",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002423",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762042,
+    "tgn:name":"West Settlement Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.5,42.2167],"type":"Point"}
+}

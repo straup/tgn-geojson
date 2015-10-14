@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.000000,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2330648","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2330648,"name:xx":"Flat Draw Reservoir"}}
+{
+  "id": 2330648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330648",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330648,
+    "tgn:name":"Flat Draw Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0,41.05],"type":"Point"}
+}

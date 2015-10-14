@@ -1,1 +1,25 @@
-{"geometry":{"type":"Point","coordinates":[21.816667,40.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7029602","tgn:7002726","tgn:7002715","tgn:1000003","tgn:1000074","tgn:7029392"],"placetype":["aat:300008347","aat:300387007","aat:300000810","aat:300008389","aat:300008372"],"id":7029602,"name:xx":"Aian\u00ed"}}
+{
+  "id": 7029602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029602",
+        "tgn:7002726",
+        "tgn:7002715",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029602,
+    "tgn:name":"Aian\u00ed",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300008389",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.816667,40.166667],"type":"Point"}
+}

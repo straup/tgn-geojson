@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.716700,32.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2150746","tgn:2001731","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008850"],"id":2150746,"name:xx":"Bass Head"}}
+{
+  "id": 2150746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150746",
+        "tgn:2001731",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150746,
+    "tgn:name":"Bass Head",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7167,32.15],"type":"Point"}
+}

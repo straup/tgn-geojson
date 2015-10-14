@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.916667,54.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7174999","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7174999,"name:xx":"Gro\u00df Gr\u00f6dersby"}}
+{
+  "id": 7174999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174999",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174999,
+    "tgn:name":"Gro\u00df Gr\u00f6dersby",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.916667,54.633333],"type":"Point"}
+}

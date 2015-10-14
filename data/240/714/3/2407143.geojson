@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.133300,41.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2407143","tgn:1002201","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2407143,"name:xx":"Hunters Hill"}}
+{
+  "id": 2407143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407143",
+        "tgn:1002201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407143,
+    "tgn:name":"Hunters Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.1333,41.8],"type":"Point"}
+}

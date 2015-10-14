@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.050000,43.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2764247","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2764247,"name:xx":"Wheelertown"}}
+{
+  "id": 2764247,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764247",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764247,
+    "tgn:name":"Wheelertown",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.05,43.3833],"type":"Point"}
+}

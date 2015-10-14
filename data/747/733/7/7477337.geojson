@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.173650,25.078531]},"type":"Feature","properties":{"hierarchy":["tgn:7477337","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477337,"name:xx":"Xucuogang Erhao Qiao"}}
+{
+  "id": 7477337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477337",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477337,
+    "tgn:name":"Xucuogang Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.17365,25.078531],"type":"Point"}
+}

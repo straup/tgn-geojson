@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.033300,43.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2156848","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2156848,"name:xx":"Beaty Creek"}}
+{
+  "id": 2156848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156848",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156848,
+    "tgn:name":"Beaty Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.0333,43.4333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.033333,17.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7351752","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351752,"name:xx":"Arroyo el Triunfo"}}
+{
+  "id": 7351752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351752",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351752,
+    "tgn:name":"Arroyo el Triunfo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.033333,17.716667],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-3.083333,52.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7027168","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027168,"name:xx":"Whitney-on-Wye"}}
+{
+  "id": 7027168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027168",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027168,
+    "tgn:name":"Whitney-on-Wye",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.083333,52.116667],"type":"Point"}
+}

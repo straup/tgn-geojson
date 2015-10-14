@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.776944,24.354722]},"type":"Feature","properties":{"hierarchy":["tgn:7482119","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7482119,"name:xx":"Gufeng Suidao"}}
+{
+  "id": 7482119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482119",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482119,
+    "tgn:name":"Gufeng Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.776944,24.354722],"type":"Point"}
+}

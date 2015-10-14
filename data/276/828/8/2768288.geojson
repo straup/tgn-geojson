@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.716700,26.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2768288","tgn:1000001","tgn:1002289","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008707"],"id":2768288,"name:xx":"Whites River"}}
+{
+  "id": 2768288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768288",
+        "tgn:1000001",
+        "tgn:1002289",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768288,
+    "tgn:name":"Whites River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7167,26.0],"type":"Point"}
+}

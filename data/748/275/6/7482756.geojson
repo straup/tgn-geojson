@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.763056,24.794167]},"type":"Feature","properties":{"hierarchy":["tgn:7482756","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482756,"name:xx":"Chaiwei Qiao"}}
+{
+  "id": 7482756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482756",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482756,
+    "tgn:name":"Chaiwei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.763056,24.794167],"type":"Point"}
+}

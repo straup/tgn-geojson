@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.482538,23.917625]},"type":"Feature","properties":{"hierarchy":["tgn:7476796","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7476796,"name:xx":"Mingde Shan"}}
+{
+  "id": 7476796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476796",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476796,
+    "tgn:name":"Mingde Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.482538,23.917625],"type":"Point"}
+}

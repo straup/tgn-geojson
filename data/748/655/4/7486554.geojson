@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.358898,23.753742]},"type":"Feature","properties":{"hierarchy":["tgn:7486554","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486554,"name:xx":"Gangzibei"}}
+{
+  "id": 7486554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486554",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486554,
+    "tgn:name":"Gangzibei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.358898,23.753742],"type":"Point"}
+}

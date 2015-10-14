@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.333300,42.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2409473","tgn:1000001","tgn:7012149","tgn:7014318","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2409473,"name:xx":"Ideuma Brook"}}
+{
+  "id": 2409473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014318",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409473,
+    "tgn:name":"Ideuma Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3333,42.4],"type":"Point"}
+}

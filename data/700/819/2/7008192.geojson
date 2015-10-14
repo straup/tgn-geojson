@@ -1,0 +1,24 @@
+{
+  "id": 7008192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008192",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008192,
+    "tgn:name":"Bayonne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387284",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.4667,43.5],"type":"Point"}
+}

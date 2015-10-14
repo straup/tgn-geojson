@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.843623,50.378418]},"type":"Feature","properties":{"hierarchy":["tgn:7243421","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243421,"name:xx":"La Sib\u00e9rie"}}
+{
+  "id": 7243421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243421",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243421,
+    "tgn:name":"La Sib\u00e9rie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.843623,50.378418],"type":"Point"}
+}

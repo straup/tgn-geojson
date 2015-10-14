@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.466667,16.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7364924","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364924,"name:xx":"Floripes"}}
+{
+  "id": 7364924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364924",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364924,
+    "tgn:name":"Floripes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.466667,16.583333],"type":"Point"}
+}

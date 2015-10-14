@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.176600,23.406700]},"type":"Feature","properties":{"hierarchy":["tgn:7481079","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481079,"name:xx":"Tuanjie Qiao"}}
+{
+  "id": 7481079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481079",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481079,
+    "tgn:name":"Tuanjie Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.1766,23.4067],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.658333,24.296389]},"type":"Feature","properties":{"hierarchy":["tgn:7484306","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7484306,"name:xx":"Sikuaicuo Hengti"}}
+{
+  "id": 7484306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484306",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484306,
+    "tgn:name":"Sikuaicuo Hengti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.658333,24.296389],"type":"Point"}
+}

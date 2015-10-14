@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.850000,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2255459","tgn:1000001","tgn:1002295","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008680"],"id":2255459,"name:xx":"Copacia Lake"}}
+{
+  "id": 2255459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255459",
+        "tgn:1000001",
+        "tgn:1002295",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255459,
+    "tgn:name":"Copacia Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.85,40.8833],"type":"Point"}
+}

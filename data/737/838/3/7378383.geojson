@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.833333,25.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7378383","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300132339"],"id":7378383,"name:xx":"La Zarca, Meseta de"}}
+{
+  "id": 7378383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378383",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378383,
+    "tgn:name":"La Zarca, Meseta de",
+    "tgn:placetype":[
+        "aat:300132339"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.833333,25.833333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-102.766700,36.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7020800","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7020800,"name:xx":"Gallinas Canon"}}
+{
+  "id": 7020800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020800",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020800,
+    "tgn:name":"Gallinas Canon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.7667,36.9333],"type":"Point"}
+}

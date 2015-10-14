@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.383300,44.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2406683","tgn:1000001","tgn:2002366","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2406683,"name:xx":"Hunt Godfrey Canal"}}
+{
+  "id": 2406683,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406683",
+        "tgn:1000001",
+        "tgn:2002366",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406683,
+    "tgn:name":"Hunt Godfrey Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3833,44.8333],"type":"Point"}
+}

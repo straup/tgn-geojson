@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.833300,34.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2252690","tgn:1000001","tgn:2000299","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2252690,"name:xx":"Conner Lake"}}
+{
+  "id": 2252690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252690",
+        "tgn:1000001",
+        "tgn:2000299",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252690,
+    "tgn:name":"Conner Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8333,34.1],"type":"Point"}
+}

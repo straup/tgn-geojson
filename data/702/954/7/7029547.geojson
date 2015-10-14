@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[43.457000,36.774000]},"type":"Feature","properties":{"hierarchy":["tgn:7029547","tgn:1001215","tgn:1000004","tgn:1000118","tgn:7001784","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Shaykhan","id":7029547}}
+{
+  "id": 7029547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029547",
+        "tgn:1001215",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:7001784",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029547,
+    "tgn:name:en":"Shaykhan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[43.457,36.774],"type":"Point"}
+}

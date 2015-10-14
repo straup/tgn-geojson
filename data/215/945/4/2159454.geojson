@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.066700,31.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2159454","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2159454,"name:xx":"Bee Gum Branch"}}
+{
+  "id": 2159454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159454",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159454,
+    "tgn:name":"Bee Gum Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0667,31.5833],"type":"Point"}
+}

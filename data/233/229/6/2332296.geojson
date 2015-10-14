@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.600000,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2332296","tgn:1000001","tgn:7016098","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008706"],"id":2332296,"name:xx":"Flood Creek"}}
+{
+  "id": 2332296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332296",
+        "tgn:1000001",
+        "tgn:7016098",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332296,
+    "tgn:name":"Flood Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.6,38.2333],"type":"Point"}
+}

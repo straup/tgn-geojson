@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[35.166000,31.883000]},"type":"Feature","properties":{"hierarchy":["tgn:7029065","tgn:7016849","tgn:1000004","tgn:1000119","tgn:7029392"],"placetype":["aat:300008347","aat:300000874"],"name:en":"Beituniya","id":7029065}}
+{
+  "id": 7029065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029065",
+        "tgn:7016849",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029065,
+    "tgn:name:en":"Beituniya",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000874"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.166,31.883],"type":"Point"}
+}

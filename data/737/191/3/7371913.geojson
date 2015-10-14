@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.850000,21.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7371913","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371913,"name:xx":"La Calle"}}
+{
+  "id": 7371913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371913",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371913,
+    "tgn:name":"La Calle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.85,21.283333],"type":"Point"}
+}

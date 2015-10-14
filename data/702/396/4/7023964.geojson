@@ -1,1 +1,25 @@
-{"geometry":{"type":"Point","coordinates":[6.166667,51.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7023964","tgn:1000003","tgn:7003622","tgn:7016845","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"name:nl":"Velden","id":7023964}}
+{
+  "id": 7023964,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2745717",
+        "wof:id":101809597
+    },
+    "tgn:hierarchy":[
+        "tgn:7023964",
+        "tgn:1000003",
+        "tgn:7003622",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023964,
+    "tgn:name:nl":"Velden",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.166667,51.416667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-144.900000,69.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2761582","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008706"],"id":2761582,"name:xx":"West Patuk Creek"}}
+{
+  "id": 2761582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761582",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761582,
+    "tgn:name":"West Patuk Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-144.9,69.1],"type":"Point"}
+}

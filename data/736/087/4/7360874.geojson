@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.550000,19.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7360874","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360874,"name:xx":"Cofrad\u00eda del Rosario"}}
+{
+  "id": 7360874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360874",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360874,
+    "tgn:name":"Cofrad\u00eda del Rosario",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.55,19.766667],"type":"Point"}
+}

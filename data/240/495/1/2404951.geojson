@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-76.466700,36.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2404951","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300006075"],"id":2404951,"name:xx":"Hudnell Ditch"}}
+{
+  "id": 2404951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404951",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404951,
+    "tgn:name":"Hudnell Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4667,36.7],"type":"Point"}
+}

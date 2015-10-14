@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.350000,25.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7351142","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351142,"name:xx":"Baj\u00edos del Tarahumar"}}
+{
+  "id": 7351142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351142",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351142,
+    "tgn:name":"Baj\u00edos del Tarahumar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.35,25.6],"type":"Point"}
+}

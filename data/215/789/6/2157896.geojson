@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.433300,43.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2157896","tgn:1000001","tgn:7012149","tgn:2001835","tgn:7007713","tgn:7029392"],"placetype":["aat:300006191"],"id":2157896,"name:xx":"Beaver Lake"}}
+{
+  "id": 2157896,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157896",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001835",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157896,
+    "tgn:name":"Beaver Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.4333,43.0],"type":"Point"}
+}

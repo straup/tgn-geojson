@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.650000,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7366043","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300387086"],"id":7366043,"name:xx":"El Tecucure, Estero"}}
+{
+  "id": 7366043,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366043",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366043,
+    "tgn:name":"El Tecucure, Estero",
+    "tgn:placetype":[
+        "aat:300387086"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.65,26.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.550000,19.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7379551","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300387027"],"id":7379551,"name:xx":"Los Tejones"}}
+{
+  "id": 7379551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379551",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379551,
+    "tgn:name":"Los Tejones",
+    "tgn:placetype":[
+        "aat:300387027"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.55,19.516667],"type":"Point"}
+}

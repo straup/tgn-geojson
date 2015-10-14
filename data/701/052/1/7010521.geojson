@@ -1,0 +1,25 @@
+{
+  "id": 7010521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010521",
+        "tgn:1000003",
+        "tgn:1000468",
+        "tgn:7006278",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010521,
+    "tgn:name:hu":"Szombathely",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387235",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.6333,47.2333],"type":"Point"}
+}

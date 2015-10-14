@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.366700,34.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2152636","tgn:1000001","tgn:7012149","tgn:2001955","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2152636,"name:xx":"Baylor Lake"}}
+{
+  "id": 2152636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152636",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001955",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152636,
+    "tgn:name":"Baylor Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.3667,34.4667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.100000,23.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7361699","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361699,"name:xx":"El Canelo"}}
+{
+  "id": 7361699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361699",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361699,
+    "tgn:name":"El Canelo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.1,23.45],"type":"Point"}
+}

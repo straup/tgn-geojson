@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.583300,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7020206","tgn:1000001","tgn:7012149","tgn:2000789","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7020206,"name:xx":"Aker Branch"}}
+{
+  "id": 7020206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020206",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000789",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020206,
+    "tgn:name":"Aker Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5833,37.4333],"type":"Point"}
+}

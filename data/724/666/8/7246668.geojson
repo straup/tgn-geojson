@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.483333,51.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7246668","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7246668,"name:xx":"Boterlaar"}}
+{
+  "id": 7246668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246668",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246668,
+    "tgn:name":"Boterlaar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.483333,51.2],"type":"Point"}
+}

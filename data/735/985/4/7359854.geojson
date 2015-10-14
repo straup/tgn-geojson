@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.733333,24.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7359854","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7359854,"name:xx":"Don Pancho, Isla de"}}
+{
+  "id": 7359854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359854",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359854,
+    "tgn:name":"Don Pancho, Isla de",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.733333,24.133333],"type":"Point"}
+}

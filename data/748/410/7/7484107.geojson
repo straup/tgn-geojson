@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.527500,22.409167]},"type":"Feature","properties":{"hierarchy":["tgn:7484107","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7484107,"name:xx":"Wenzi Guoxiao"}}
+{
+  "id": 7484107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484107",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484107,
+    "tgn:name":"Wenzi Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5275,22.409167],"type":"Point"}
+}

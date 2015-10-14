@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.683300,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2332984","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008905"],"id":2332984,"name:xx":"Flurcum Swamp"}}
+{
+  "id": 2332984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332984",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332984,
+    "tgn:name":"Flurcum Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.6833,42.5833],"type":"Point"}
+}

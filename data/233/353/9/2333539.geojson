@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.650000,45.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2333539","tgn:1000001","tgn:2001011","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008791"],"id":2333539,"name:xx":"Folsom Island"}}
+{
+  "id": 2333539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333539",
+        "tgn:1000001",
+        "tgn:2001011",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333539,
+    "tgn:name":"Folsom Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.65,45.3833],"type":"Point"}
+}

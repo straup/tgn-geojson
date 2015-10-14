@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.992105,24.179882]},"type":"Feature","properties":{"hierarchy":["tgn:7489730","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489730,"name:xx":"Bo'ai Cun"}}
+{
+  "id": 7489730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489730",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489730,
+    "tgn:name":"Bo'ai Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.992105,24.179882],"type":"Point"}
+}

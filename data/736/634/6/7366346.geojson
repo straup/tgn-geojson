@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.566667,26.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7366346","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366346,"name:xx":"El Pe\u00f1asco"}}
+{
+  "id": 7366346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366346",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366346,
+    "tgn:name":"El Pe\u00f1asco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.566667,26.133333],"type":"Point"}
+}

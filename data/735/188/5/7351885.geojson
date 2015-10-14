@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,29.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7351885","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7351885,"name:xx":"Borrega, Puerto de la"}}
+{
+  "id": 7351885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351885",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351885,
+    "tgn:name":"Borrega, Puerto de la",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,29.116667],"type":"Point"}
+}

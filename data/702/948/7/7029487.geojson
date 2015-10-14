@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[34.593000,49.716000]},"type":"Feature","properties":{"hierarchy":["tgn:7029487","tgn:1000003","tgn:7011666","tgn:7006660","tgn:7029392"],"placetype":["aat:300008347"],"id":7029487,"name:xx":"Gavrontsy"}}
+{
+  "id": 7029487,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029487",
+        "tgn:1000003",
+        "tgn:7011666",
+        "tgn:7006660",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029487,
+    "tgn:name":"Gavrontsy",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[34.593,49.716],"type":"Point"}
+}

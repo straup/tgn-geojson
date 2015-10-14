@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.516700,32.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2256190","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000101","tgn:7029392"],"placetype":["aat:300008697"],"id":2256190,"name:xx":"Copper Springs"}}
+{
+  "id": 2256190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256190",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000101",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256190,
+    "tgn:name":"Copper Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5167,32.7333],"type":"Point"}
+}

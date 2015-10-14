@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.766700,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2252952","tgn:1000001","tgn:2000465","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2252952,"name:xx":"Conroy Lateral"}}
+{
+  "id": 2252952,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252952",
+        "tgn:1000001",
+        "tgn:2000465",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252952,
+    "tgn:name":"Conroy Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7667,43.5],"type":"Point"}
+}

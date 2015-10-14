@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.203707,23.464731]},"type":"Feature","properties":{"hierarchy":["tgn:7475406","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7475406,"name:xx":"Weitan Cun"}}
+{
+  "id": 7475406,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475406",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475406,
+    "tgn:name":"Weitan Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.203707,23.464731],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.200000,21.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7374869","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374869,"name:xx":"La Mezquituta"}}
+{
+  "id": 7374869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374869",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374869,
+    "tgn:name":"La Mezquituta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.2,21.233333],"type":"Point"}
+}

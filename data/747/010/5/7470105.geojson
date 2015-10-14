@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.181111,23.500556]},"type":"Feature","properties":{"hierarchy":["tgn:7470105","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470105,"name:xx":"Hanziliao"}}
+{
+  "id": 7470105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470105",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470105,
+    "tgn:name":"Hanziliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.181111,23.500556],"type":"Point"}
+}

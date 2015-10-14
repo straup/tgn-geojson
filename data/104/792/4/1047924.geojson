@@ -1,0 +1,27 @@
+{
+  "id": 1047924,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14732-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751429",
+        "gp:id":731410,
+        "qs:id":6,
+        "wof:id":101806201
+    },
+    "tgn:hierarchy":[
+        "tgn:1047924",
+        "tgn:1000003",
+        "tgn:7003613",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047924,
+    "tgn:name:nl":"Loppersum",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.75,53.333333],"type":"Point"}
+}

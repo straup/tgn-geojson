@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.966667,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7246267","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7246267,"name:xx":"Borch\u00eane, Bois de"}}
+{
+  "id": 7246267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246267",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246267,
+    "tgn:name":"Borch\u00eane, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.966667,50.583333],"type":"Point"}
+}

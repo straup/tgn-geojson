@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.650000,38.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7056391","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056391,"name:xx":"Occhio"}}
+{
+  "id": 7056391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056391",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056391,
+    "tgn:name":"Occhio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.65,38.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-160.333300,55.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2337926","tgn:7030515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2337926,"name:xx":"Fox Hole"}}
+{
+  "id": 2337926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337926",
+        "tgn:7030515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337926,
+    "tgn:name":"Fox Hole",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-160.3333,55.3333],"type":"Point"}
+}

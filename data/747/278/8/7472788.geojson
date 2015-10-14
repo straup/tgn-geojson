@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.010649,24.615590]},"type":"Feature","properties":{"hierarchy":["tgn:7472788","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472788,"name:xx":"Wushezui"}}
+{
+  "id": 7472788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472788",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472788,
+    "tgn:name":"Wushezui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.010649,24.61559],"type":"Point"}
+}

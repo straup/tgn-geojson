@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.483300,34.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2761437","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000039","tgn:7029392"],"placetype":["aat:300008746"],"id":2761437,"name:xx":"West Mud Cave"}}
+{
+  "id": 2761437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761437",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000039",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761437,
+    "tgn:name":"West Mud Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.4833,34.35],"type":"Point"}
+}

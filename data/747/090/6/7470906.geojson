@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.902400,24.558360]},"type":"Feature","properties":{"hierarchy":["tgn:7470906","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470906,"name:xx":"Erhu"}}
+{
+  "id": 7470906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470906",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470906,
+    "tgn:name":"Erhu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.9024,24.55836],"type":"Point"}
+}

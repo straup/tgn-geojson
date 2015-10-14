@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.566667,49.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7172085","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7172085,"name:xx":"Herresthalerhof"}}
+{
+  "id": 7172085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172085",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172085,
+    "tgn:name":"Herresthalerhof",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.566667,49.75],"type":"Point"}
+}

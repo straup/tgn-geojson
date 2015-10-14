@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.333333,25.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7376510","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387032","aat:300008699"],"id":7376510,"name:xx":"Las Lajitas, Arroyo"}}
+{
+  "id": 7376510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376510",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376510,
+    "tgn:name":"Las Lajitas, Arroyo",
+    "tgn:placetype":[
+        "aat:300387032",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.333333,25.183333],"type":"Point"}
+}

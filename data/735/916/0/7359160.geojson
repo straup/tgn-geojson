@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.950000,21.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7359160","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359160,"name:xx":"Cruz de Mar\u00edn"}}
+{
+  "id": 7359160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359160",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359160,
+    "tgn:name":"Cruz de Mar\u00edn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.95,21.666667],"type":"Point"}
+}

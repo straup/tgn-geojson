@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.400000,43.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7051592","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7051592,"name:xx":"Stazione di Murlo"}}
+{
+  "id": 7051592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051592",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051592,
+    "tgn:name":"Stazione di Murlo",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.4,43.116667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.330607,23.037202]},"type":"Feature","properties":{"hierarchy":["tgn:7480298","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7480298,"name:xx":"Lengshui Pi"}}
+{
+  "id": 7480298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480298",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480298,
+    "tgn:name":"Lengshui Pi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.330607,23.037202],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.000000,37.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2337824","tgn:1000001","tgn:7012149","tgn:2000796","tgn:7007255","tgn:7029392"],"placetype":["aat:300008798"],"id":2337824,"name:xx":"Fox Den Hill"}}
+{
+  "id": 2337824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337824",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000796",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337824,
+    "tgn:name":"Fox Den Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0,37.4667],"type":"Point"}
+}

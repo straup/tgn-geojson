@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.566700,37.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2402959","tgn:1000001","tgn:7012149","tgn:2000218","tgn:7007158","tgn:7029392"],"placetype":["aat:300000390"],"id":2402959,"name:xx":"Hough Mine"}}
+{
+  "id": 2402959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402959",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000218",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402959,
+    "tgn:name":"Hough Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5667,37.9667],"type":"Point"}
+}

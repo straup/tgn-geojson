@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.433300,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2339407","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000191","tgn:7029392"],"placetype":["aat:300055621"],"id":2339407,"name:xx":"Frazier Gardens"}}
+{
+  "id": 2339407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339407",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000191",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339407,
+    "tgn:name":"Frazier Gardens",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.4333,40.0333],"type":"Point"}
+}

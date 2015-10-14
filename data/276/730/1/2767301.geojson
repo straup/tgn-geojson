@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.050000,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2767301","tgn:1000001","tgn:7012149","tgn:2002111","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2767301,"name:xx":"White Rocks Wash"}}
+{
+  "id": 2767301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767301",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002111",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767301,
+    "tgn:name":"White Rocks Wash",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.05,37.6],"type":"Point"}
+}

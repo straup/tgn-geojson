@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.250000,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7021764","tgn:1000001","tgn:7012149","tgn:2001758","tgn:7007712","tgn:7029392"],"placetype":["aat:300386853"],"id":7021764,"name:xx":"Pee Dee Islands"}}
+{
+  "id": 7021764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021764",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001758",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021764,
+    "tgn:name":"Pee Dee Islands",
+    "tgn:placetype":[
+        "aat:300386853"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.25,34.0833],"type":"Point"}
+}

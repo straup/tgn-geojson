@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.733300,45.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2408212","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2408212,"name:xx":"Hurst Lake"}}
+{
+  "id": 2408212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408212",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408212,
+    "tgn:name":"Hurst Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7333,45.5],"type":"Point"}
+}

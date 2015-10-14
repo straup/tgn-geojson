@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-108.333300,35.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7022191","tgn:1000001","tgn:7012149","tgn:7019676","tgn:7007566","tgn:7029392"],"placetype":["aat:300008347","aat:300387324"],"id":7022191,"name:xx":"Zuni Indian Reservation"}}
+{
+  "id": 7022191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022191",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019676",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022191,
+    "tgn:name":"Zuni Indian Reservation",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387324"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3333,35.25],"type":"Point"}
+}

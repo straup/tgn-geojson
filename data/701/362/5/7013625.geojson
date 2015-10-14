@@ -1,0 +1,27 @@
+{
+  "id": 7013625,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013625",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001492",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013625,
+    "tgn:name":"Durham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387270",
+        "aat:300387299"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8833,35.9833],"type":"Point"}
+}

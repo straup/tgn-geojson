@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.933300,39.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2151837","tgn:1000001","tgn:7012149","tgn:2000214","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2151837,"name:xx":"Battlement Creek"}}
+{
+  "id": 2151837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151837",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000214",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151837,
+    "tgn:name":"Battlement Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9333,39.3667],"type":"Point"}
+}

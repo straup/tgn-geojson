@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-121.100000,35.620000]},"type":"Feature","properties":{"hierarchy":["tgn:7024652","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002863","tgn:7029392"],"placetype":["aat:300387241","aat:300000241"],"id":7024652,"name:xx":"Rancho San Simeon"}}
+{
+  "id": 7024652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024652",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002863",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024652,
+    "tgn:name":"Rancho San Simeon",
+    "tgn:placetype":[
+        "aat:300387241",
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1,35.62],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.966667,27.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7350503","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300132316"],"id":7350503,"name:xx":"Bacochibampo, Ensenada de"}}
+{
+  "id": 7350503,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350503",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350503,
+    "tgn:name":"Bacochibampo, Ensenada de",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.966667,27.916667],"type":"Point"}
+}

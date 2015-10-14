@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.950000,39.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2256905","tgn:1000001","tgn:7012149","tgn:1002885","tgn:7007251","tgn:7029392"],"placetype":["aat:300266640"],"id":2256905,"name:xx":"Corley Ridge"}}
+{
+  "id": 2256905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256905",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002885",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256905,
+    "tgn:name":"Corley Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.95,39.2667],"type":"Point"}
+}

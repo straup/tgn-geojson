@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.916700,43.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2404440","tgn:1000001","tgn:7012149","tgn:2000964","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2404440,"name:xx":"Hubbard Drain"}}
+{
+  "id": 2404440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404440",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000964",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404440,
+    "tgn:name":"Hubbard Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9167,43.8333],"type":"Point"}
+}

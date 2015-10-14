@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.309400,22.704100]},"type":"Feature","properties":{"hierarchy":["tgn:7487828","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487828,"name:xx":"Hongnan Li"}}
+{
+  "id": 7487828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487828",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487828,
+    "tgn:name":"Hongnan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3094,22.7041],"type":"Point"}
+}

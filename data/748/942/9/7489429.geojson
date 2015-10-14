@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.576389,24.290278]},"type":"Feature","properties":{"hierarchy":["tgn:7489429","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489429,"name:xx":"Guoxing Li"}}
+{
+  "id": 7489429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489429",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489429,
+    "tgn:name":"Guoxing Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.576389,24.290278],"type":"Point"}
+}

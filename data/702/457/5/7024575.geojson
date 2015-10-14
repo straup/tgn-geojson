@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-66.083300,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7024575","tgn:7005685","tgn:1000001","tgn:7005802","tgn:7029392"],"placetype":["aat:300008347","aat:300265612"],"id":7024575,"name:xx":"Hebron"}}
+{
+  "id": 7024575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024575",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7005802",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024575,
+    "tgn:name":"Hebron",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.0833,43.8833],"type":"Point"}
+}

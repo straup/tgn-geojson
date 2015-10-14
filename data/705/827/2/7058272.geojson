@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.583333,41.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7058272","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7058272,"name:xx":"Annamunna, Monte"}}
+{
+  "id": 7058272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058272",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058272,
+    "tgn:name":"Annamunna, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.583333,41.916667],"type":"Point"}
+}

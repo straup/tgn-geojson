@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.488889,24.017778]},"type":"Feature","properties":{"hierarchy":["tgn:7471064","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471064,"name:xx":"Xingou"}}
+{
+  "id": 7471064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471064",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471064,
+    "tgn:name":"Xingou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.488889,24.017778],"type":"Point"}
+}

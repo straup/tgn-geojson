@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.161389,23.158056]},"type":"Feature","properties":{"hierarchy":["tgn:7479643","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479643,"name:xx":"Xifangyuanshuai Miao"}}
+{
+  "id": 7479643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479643",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479643,
+    "tgn:name":"Xifangyuanshuai Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.161389,23.158056],"type":"Point"}
+}

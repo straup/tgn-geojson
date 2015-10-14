@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.766700,44.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2333928","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2333928,"name:xx":"Ford Creek"}}
+{
+  "id": 2333928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333928",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333928,
+    "tgn:name":"Ford Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7667,44.75],"type":"Point"}
+}

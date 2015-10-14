@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.733300,46.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2158680","tgn:1000001","tgn:7012149","tgn:2000972","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2158680,"name:xx":"Beavertown Lakes"}}
+{
+  "id": 2158680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158680",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000972",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158680,
+    "tgn:name":"Beavertown Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7333,46.5667],"type":"Point"}
+}

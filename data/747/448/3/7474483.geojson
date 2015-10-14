@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.533056,23.437778]},"type":"Feature","properties":{"hierarchy":["tgn:7474483","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008713"],"id":7474483,"name:xx":"Wang'an Gangdao"}}
+{
+  "id": 7474483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474483",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474483,
+    "tgn:name":"Wang'an Gangdao",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.533056,23.437778],"type":"Point"}
+}

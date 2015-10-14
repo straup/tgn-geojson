@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.300000,23.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7363530","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7363530,"name:xx":"El Garraf\u00f3n"}}
+{
+  "id": 7363530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363530",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363530,
+    "tgn:name":"El Garraf\u00f3n",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.3,23.5],"type":"Point"}
+}

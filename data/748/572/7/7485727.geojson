@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.752500,22.095000]},"type":"Feature","properties":{"hierarchy":["tgn:7485727","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7485727,"name:xx":"Damei Xi"}}
+{
+  "id": 7485727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485727",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485727,
+    "tgn:name":"Damei Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7525,22.095],"type":"Point"}
+}

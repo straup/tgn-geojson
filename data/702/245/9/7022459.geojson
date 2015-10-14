@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.816700,38.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7022459","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7022459,"name:xx":"Butchers Run"}}
+{
+  "id": 7022459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022459",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022459,
+    "tgn:name":"Butchers Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8167,38.8],"type":"Point"}
+}

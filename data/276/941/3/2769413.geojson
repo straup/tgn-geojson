@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-75.683300,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2769413","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008706"],"id":2769413,"name:xx":"Wicomico Creek"}}
+{
+  "id": 2769413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769413",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769413,
+    "tgn:name":"Wicomico Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6833,38.2833],"type":"Point"}
+}

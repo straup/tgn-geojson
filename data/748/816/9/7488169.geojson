@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.314444,22.924167]},"type":"Feature","properties":{"hierarchy":["tgn:7488169","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488169,"name:xx":"Luoxianliao"}}
+{
+  "id": 7488169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488169",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488169,
+    "tgn:name":"Luoxianliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.314444,22.924167],"type":"Point"}
+}

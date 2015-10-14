@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.300000,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2335951","tgn:1000001","tgn:2001702","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008850"],"id":2335951,"name:xx":"Fossil Point"}}
+{
+  "id": 2335951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335951",
+        "tgn:1000001",
+        "tgn:2001702",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335951,
+    "tgn:name":"Fossil Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.3,43.35],"type":"Point"}
+}

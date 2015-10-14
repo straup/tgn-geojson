@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.483333,27.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7362446","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7362446,"name:xx":"El Lobo, Arroyo"}}
+{
+  "id": 7362446,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362446",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362446,
+    "tgn:name":"El Lobo, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.483333,27.266667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.466667,45.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7057101","tgn:1003459","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057101,"name:xx":"Barbana nel Collio"}}
+{
+  "id": 7057101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057101",
+        "tgn:1003459",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057101,
+    "tgn:name":"Barbana nel Collio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.466667,45.983333],"type":"Point"}
+}

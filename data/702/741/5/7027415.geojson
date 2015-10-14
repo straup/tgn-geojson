@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.316700,51.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7027415","tgn:7002445","tgn:1000003","tgn:7008153","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027415,"name:xx":"Statenborough"}}
+{
+  "id": 7027415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027415",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008153",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027415,
+    "tgn:name":"Statenborough",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.3167,51.25],"type":"Point"}
+}

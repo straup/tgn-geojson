@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.283300,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2334078","tgn:1000001","tgn:7012149","tgn:2000276","tgn:7007240","tgn:7029392"],"placetype":["aat:300132316"],"id":2334078,"name:xx":"Fords Arm"}}
+{
+  "id": 2334078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334078",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000276",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334078,
+    "tgn:name":"Fords Arm",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2833,30.5],"type":"Point"}
+}

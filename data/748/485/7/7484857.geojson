@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.729722,23.132778]},"type":"Feature","properties":{"hierarchy":["tgn:7484857","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484857,"name:xx":"Taluoliu Xi"}}
+{
+  "id": 7484857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484857",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484857,
+    "tgn:name":"Taluoliu Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.729722,23.132778],"type":"Point"}
+}

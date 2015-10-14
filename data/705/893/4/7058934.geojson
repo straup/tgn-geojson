@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.733333,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7058934","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7058934,"name:xx":"Boceno, Monte"}}
+{
+  "id": 7058934,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058934",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058934,
+    "tgn:name":"Boceno, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.733333,42.8],"type":"Point"}
+}

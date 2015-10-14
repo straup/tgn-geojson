@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.266667,51.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7115033","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115033,"name:xx":"Osterhof"}}
+{
+  "id": 7115033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115033",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115033,
+    "tgn:name":"Osterhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.266667,51.8],"type":"Point"}
+}

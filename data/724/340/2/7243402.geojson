@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.826302,50.725104]},"type":"Feature","properties":{"hierarchy":["tgn:7243402","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243402,"name:xx":"Lathuy"}}
+{
+  "id": 7243402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243402",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243402,
+    "tgn:name":"Lathuy",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.826302,50.725104],"type":"Point"}
+}

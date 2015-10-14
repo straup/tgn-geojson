@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.183300,47.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2767474","tgn:1000001","tgn:7012149","tgn:2001283","tgn:7007524","tgn:7029392"],"placetype":["aat:300008850"],"id":2767474,"name:xx":"White Swan Point"}}
+{
+  "id": 2767474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767474",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001283",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767474,
+    "tgn:name":"White Swan Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1833,47.8],"type":"Point"}
+}

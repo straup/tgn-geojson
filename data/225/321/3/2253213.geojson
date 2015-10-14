@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-72.016700,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2253213","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008707"],"id":2253213,"name:xx":"Contoocook River"}}
+{
+  "id": 2253213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253213",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253213,
+    "tgn:name":"Contoocook River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.0167,42.8],"type":"Point"}
+}

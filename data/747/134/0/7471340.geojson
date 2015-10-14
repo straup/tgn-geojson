@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.539722,22.038056]},"type":"Feature","properties":{"hierarchy":["tgn:7471340","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7471340,"name:xx":"Fan Shan"}}
+{
+  "id": 7471340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471340",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471340,
+    "tgn:name":"Fan Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.539722,22.038056],"type":"Point"}
+}

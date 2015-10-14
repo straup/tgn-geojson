@@ -1,0 +1,27 @@
+{
+  "id": 7006836,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1d1ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747910",
+        "gp:id":733063,
+        "qs:id":9,
+        "wof:id":101754587
+    },
+    "tgn:hierarchy":[
+        "tgn:7006836",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006836,
+    "tgn:name:nl":"Rosmalen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.366667,51.716667],"type":"Point"}
+}

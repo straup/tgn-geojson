@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.416667,23.342222]},"type":"Feature","properties":{"hierarchy":["tgn:7483746","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483746,"name:xx":"Chunhui Qiao"}}
+{
+  "id": 7483746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483746",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483746,
+    "tgn:name":"Chunhui Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.416667,23.342222],"type":"Point"}
+}

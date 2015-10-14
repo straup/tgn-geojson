@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.400000,40.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7050518","tgn:1003450","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7050518,"name:xx":"La Rotondella"}}
+{
+  "id": 7050518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050518",
+        "tgn:1003450",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050518,
+    "tgn:name":"La Rotondella",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.4,40.016667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.873000,24.487700]},"type":"Feature","properties":{"hierarchy":["tgn:7486679","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7486679,"name:xx":"Bajiaodong Shan"}}
+{
+  "id": 7486679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486679",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486679,
+    "tgn:name":"Bajiaodong Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.873,24.4877],"type":"Point"}
+}

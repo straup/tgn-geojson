@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.750000,46.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2768803","tgn:1000001","tgn:2001575","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300008706"],"id":2768803,"name:xx":"Whitmore Creek"}}
+{
+  "id": 2768803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768803",
+        "tgn:1000001",
+        "tgn:2001575",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768803,
+    "tgn:name":"Whitmore Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.75,46.1333],"type":"Point"}
+}

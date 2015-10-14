@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.333300,35.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2332745","tgn:1000001","tgn:7012149","tgn:2001509","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2332745,"name:xx":"Flowers"}}
+{
+  "id": 2332745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332745",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001509",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332745,
+    "tgn:name":"Flowers",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3333,35.65],"type":"Point"}
+}

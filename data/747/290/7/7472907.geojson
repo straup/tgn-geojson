@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.509307,23.584485]},"type":"Feature","properties":{"hierarchy":["tgn:7472907","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472907,"name:xx":"Baimatan"}}
+{
+  "id": 7472907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472907",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472907,
+    "tgn:name":"Baimatan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.509307,23.584485],"type":"Point"}
+}

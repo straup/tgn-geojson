@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.450000,19.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7368386","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7368386,"name:xx":"Herrero, Punta"}}
+{
+  "id": 7368386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368386",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368386,
+    "tgn:name":"Herrero, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.45,19.283333],"type":"Point"}
+}

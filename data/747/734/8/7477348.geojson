@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.192301,25.061398]},"type":"Feature","properties":{"hierarchy":["tgn:7477348","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477348,"name:xx":"Daxing Gongshang"}}
+{
+  "id": 7477348,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477348",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477348,
+    "tgn:name":"Daxing Gongshang",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.192301,25.061398],"type":"Point"}
+}

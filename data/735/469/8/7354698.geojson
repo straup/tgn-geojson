@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.800000,29.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7354698","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7354698,"name:xx":"Rancho Chupadero del Caballo"}}
+{
+  "id": 7354698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354698",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354698,
+    "tgn:name":"Rancho Chupadero del Caballo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.8,29.383333],"type":"Point"}
+}

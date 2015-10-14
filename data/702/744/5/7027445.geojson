@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-0.966667,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7027445","tgn:7001165","tgn:1000003","tgn:7002793","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300008372"],"id":7027445,"name:xx":"Chera"}}
+{
+  "id": 7027445,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027445",
+        "tgn:7001165",
+        "tgn:1000003",
+        "tgn:7002793",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027445,
+    "tgn:name":"Chera",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.966667,39.6],"type":"Point"}
+}

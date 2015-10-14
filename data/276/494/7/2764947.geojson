@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.533300,40.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2764947","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300006191"],"id":2764947,"name:xx":"Whiskeyton Reservoir"}}
+{
+  "id": 2764947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764947",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764947,
+    "tgn:name":"Whiskeyton Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5333,40.5833],"type":"Point"}
+}

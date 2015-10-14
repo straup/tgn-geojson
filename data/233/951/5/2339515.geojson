@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.866700,35.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2339515","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300008697"],"id":2339515,"name:xx":"Fred Jackson Spring"}}
+{
+  "id": 2339515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339515",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339515,
+    "tgn:name":"Fred Jackson Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.8667,35.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.400000,47.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2404533","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2404533,"name:xx":"Hubbart Peak"}}
+{
+  "id": 2404533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404533",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404533,
+    "tgn:name":"Hubbart Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4,47.9167],"type":"Point"}
+}

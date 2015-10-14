@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[25.892587,36.831993]},"type":"Feature","properties":{"hierarchy":["tgn:7024362","tgn:7011270","tgn:7002674","tgn:1000003","tgn:7010717","tgn:1000074","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300167671"],"id":7024362,"name:xx":"Arkessini"}}
+{
+  "id": 7024362,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024362",
+        "tgn:7011270",
+        "tgn:7002674",
+        "tgn:1000003",
+        "tgn:7010717",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024362,
+    "tgn:name":"Arkessini",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.892587,36.831993],"type":"Point"}
+}

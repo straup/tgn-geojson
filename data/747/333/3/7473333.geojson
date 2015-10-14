@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.073889,24.970833]},"type":"Feature","properties":{"hierarchy":["tgn:7473333","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7473333,"name:xx":"Dongming Qiao"}}
+{
+  "id": 7473333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473333",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473333,
+    "tgn:name":"Dongming Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.073889,24.970833],"type":"Point"}
+}

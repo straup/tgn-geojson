@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.600000,25.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7367995","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7367995,"name:xx":"Jococa, Cerro de la"}}
+{
+  "id": 7367995,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367995",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367995,
+    "tgn:name":"Jococa, Cerro de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6,25.866667],"type":"Point"}
+}

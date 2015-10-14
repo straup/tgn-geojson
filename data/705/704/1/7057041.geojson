@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.950000,42.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7057041","tgn:7009084","tgn:7003001","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057041,"name:xx":"Baricelle, Fiume"}}
+{
+  "id": 7057041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057041",
+        "tgn:7009084",
+        "tgn:7003001",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057041,
+    "tgn:name":"Baricelle, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.95,42.466667],"type":"Point"}
+}

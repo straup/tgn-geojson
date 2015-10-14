@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.833333,28.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7377307","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7377307,"name:xx":"Laureles, Arroyo"}}
+{
+  "id": 7377307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377307",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377307,
+    "tgn:name":"Laureles, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.833333,28.666667],"type":"Point"}
+}

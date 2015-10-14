@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2158174","tgn:1000001","tgn:7012149","tgn:2002291","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2158174,"name:xx":"Beaver Pond Run"}}
+{
+  "id": 2158174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158174",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002291",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158174,
+    "tgn:name":"Beaver Pond Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,38.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.886748,50.771120]},"type":"Feature","properties":{"hierarchy":["tgn:7240288","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7240288,"name:xx":"Elst"}}
+{
+  "id": 7240288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240288",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240288,
+    "tgn:name":"Elst",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.886748,50.77112],"type":"Point"}
+}

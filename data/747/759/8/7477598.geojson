@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.202505,25.075910]},"type":"Feature","properties":{"hierarchy":["tgn:7477598","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477598,"name:xx":"Hudi Pi"}}
+{
+  "id": 7477598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477598",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477598,
+    "tgn:name":"Hudi Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.202505,25.07591],"type":"Point"}
+}

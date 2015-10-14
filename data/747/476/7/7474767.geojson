@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.200000,23.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7474767","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7474767,"name:xx":"Wanxing Paishuilu"}}
+{
+  "id": 7474767,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474767",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474767,
+    "tgn:name":"Wanxing Paishuilu",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2,23.566667],"type":"Point"}
+}

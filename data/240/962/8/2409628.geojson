@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-159.466700,66.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2409628","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124014","tgn:7029392"],"placetype":["aat:300008707"],"id":2409628,"name:xx":"Ikagoak River"}}
+{
+  "id": 2409628,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409628",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124014",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409628,
+    "tgn:name":"Ikagoak River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-159.4667,66.9],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.433300,35.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2159869","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2159869,"name:xx":"Beech Flats Prong"}}
+{
+  "id": 2159869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159869",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159869,
+    "tgn:name":"Beech Flats Prong",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.4333,35.6],"type":"Point"}
+}

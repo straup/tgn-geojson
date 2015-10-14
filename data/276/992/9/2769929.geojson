@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.533300,34.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2769929","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002608","tgn:7029392"],"placetype":["aat:300008699"],"id":2769929,"name:xx":"Wilbur Wash"}}
+{
+  "id": 2769929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769929",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769929,
+    "tgn:name":"Wilbur Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.5333,34.2667],"type":"Point"}
+}

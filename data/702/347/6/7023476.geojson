@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-110.700000,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7023476","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7023476,"name:xx":"Moslander Reservoir"}}
+{
+  "id": 7023476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023476",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023476,
+    "tgn:name":"Moslander Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.7,41.0833],"type":"Point"}
+}

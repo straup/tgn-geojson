@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.213889,24.874444]},"type":"Feature","properties":{"hierarchy":["tgn:7480579","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480579,"name:xx":"Meilidu Qiao"}}
+{
+  "id": 7480579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480579",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480579,
+    "tgn:name":"Meilidu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.213889,24.874444],"type":"Point"}
+}

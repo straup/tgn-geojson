@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,27.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7375079","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7375079,"name:xx":"Leche, Laguna de la"}}
+{
+  "id": 7375079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375079",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375079,
+    "tgn:name":"Leche, Laguna de la",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,27.233333],"type":"Point"}
+}

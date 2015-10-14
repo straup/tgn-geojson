@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.733300,53.816700]},"type":"Feature","properties":{"hierarchy":["tgn:7027483","tgn:7002445","tgn:1000003","tgn:7008154","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027483,"name:xx":"Newsham"}}
+{
+  "id": 7027483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027483",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008154",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027483,
+    "tgn:name":"Newsham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.7333,53.8167],"type":"Point"}
+}

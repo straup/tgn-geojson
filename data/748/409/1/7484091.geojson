@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.635000,22.315556]},"type":"Feature","properties":{"hierarchy":["tgn:7484091","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7484091,"name:xx":"Sanliuqihao Qiao"}}
+{
+  "id": 7484091,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484091",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484091,
+    "tgn:name":"Sanliuqihao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.635,22.315556],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.466700,37.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2335475","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002859","tgn:7029392"],"placetype":["aat:300008791"],"id":2335475,"name:xx":"Fort Point Rock"}}
+{
+  "id": 2335475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335475",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002859",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335475,
+    "tgn:name":"Fort Point Rock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4667,37.8],"type":"Point"}
+}

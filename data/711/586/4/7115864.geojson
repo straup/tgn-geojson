@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.600000,48.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7115864","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115864,"name:xx":"Ober-Wies"}}
+{
+  "id": 7115864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115864",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115864,
+    "tgn:name":"Ober-Wies",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.6,48.183333],"type":"Point"}
+}

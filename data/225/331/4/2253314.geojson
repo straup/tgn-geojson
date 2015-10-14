@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.333300,25.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2253314","tgn:1000001","tgn:7012149","tgn:1002314","tgn:7007240","tgn:7029392"],"placetype":["aat:300008850"],"id":2253314,"name:xx":"Convoy Point"}}
+{
+  "id": 2253314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253314",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002314",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253314,
+    "tgn:name":"Convoy Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3333,25.45],"type":"Point"}
+}

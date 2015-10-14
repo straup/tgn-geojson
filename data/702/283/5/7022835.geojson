@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.283300,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7022835","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":7022835,"name:xx":"Ritter Hollow"}}
+{
+  "id": 7022835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022835",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022835,
+    "tgn:name":"Ritter Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2833,37.5],"type":"Point"}
+}

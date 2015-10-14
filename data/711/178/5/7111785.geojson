@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.133333,48.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7111785","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7111785,"name:xx":"Rohrhardsberg"}}
+{
+  "id": 7111785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111785",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111785,
+    "tgn:name":"Rohrhardsberg",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.133333,48.133333],"type":"Point"}
+}

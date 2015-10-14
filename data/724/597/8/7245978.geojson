@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.250000,50.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7245978","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7245978,"name:xx":"Ferme de Bonipr\u00e9"}}
+{
+  "id": 7245978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245978",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245978,
+    "tgn:name":"Ferme de Bonipr\u00e9",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.25,50.0],"type":"Point"}
+}

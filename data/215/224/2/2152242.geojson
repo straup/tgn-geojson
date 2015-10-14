@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.650000,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2152242","tgn:1000001","tgn:7012149","tgn:2000891","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152242,"name:xx":"Bay Chicot"}}
+{
+  "id": 2152242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152242",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000891",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152242,
+    "tgn:name":"Bay Chicot",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.65,29.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.400000,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2334361","tgn:1000001","tgn:7012149","tgn:1002451","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2334361,"name:xx":"Forest Hills Lake"}}
+{
+  "id": 2334361,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334361",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002451",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334361,
+    "tgn:name":"Forest Hills Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4,37.7],"type":"Point"}
+}

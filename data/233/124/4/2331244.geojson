@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.133300,42.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2331244","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2331244,"name:xx":"Flat Top Reservoir"}}
+{
+  "id": 2331244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331244",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331244,
+    "tgn:name":"Flat Top Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.1333,42.4333],"type":"Point"}
+}

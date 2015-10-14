@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.666667,48.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7111440","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7111440,"name:xx":"Riebelberg"}}
+{
+  "id": 7111440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111440",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111440,
+    "tgn:name":"Riebelberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.666667,48.216667],"type":"Point"}
+}

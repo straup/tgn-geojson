@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.333300,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2762189","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2762189,"name:xx":"West Spring Creek"}}
+{
+  "id": 2762189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762189",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762189,
+    "tgn:name":"West Spring Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3333,41.05],"type":"Point"}
+}

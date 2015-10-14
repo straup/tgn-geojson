@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.651389,23.513056]},"type":"Feature","properties":{"hierarchy":["tgn:7483107","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483107,"name:xx":"Zhiniao Shan"}}
+{
+  "id": 7483107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483107",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483107,
+    "tgn:name":"Zhiniao Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.651389,23.513056],"type":"Point"}
+}

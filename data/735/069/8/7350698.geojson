@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.500000,30.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7350698","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350698,"name:xx":"Badeguachi"}}
+{
+  "id": 7350698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350698",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350698,
+    "tgn:name":"Badeguachi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.5,30.9],"type":"Point"}
+}

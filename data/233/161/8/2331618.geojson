@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.783300,44.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2331618","tgn:1000001","tgn:2001701","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2331618,"name:xx":"Fleece Ridge"}}
+{
+  "id": 2331618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331618",
+        "tgn:1000001",
+        "tgn:2001701",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331618,
+    "tgn:name":"Fleece Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.7833,44.3333],"type":"Point"}
+}

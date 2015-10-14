@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.866700,35.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2258557","tgn:1000001","tgn:7012149","tgn:2001520","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2258557,"name:xx":"Cottonstone Mountain"}}
+{
+  "id": 2258557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258557",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001520",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258557,
+    "tgn:name":"Cottonstone Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8667,35.4],"type":"Point"}
+}

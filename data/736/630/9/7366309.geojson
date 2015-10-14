@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.816667,30.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7366309","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366309,"name:xx":"Escondida"}}
+{
+  "id": 7366309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366309",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366309,
+    "tgn:name":"Escondida",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.816667,30.516667],"type":"Point"}
+}

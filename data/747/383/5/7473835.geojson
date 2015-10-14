@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.339032,25.046997]},"type":"Feature","properties":{"hierarchy":["tgn:7473835","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473835,"name:xx":"Yuanlinkeng"}}
+{
+  "id": 7473835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473835",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473835,
+    "tgn:name":"Yuanlinkeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.339032,25.046997],"type":"Point"}
+}

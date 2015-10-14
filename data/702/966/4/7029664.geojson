@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-2.562306,42.430288]},"type":"Feature","properties":{"hierarchy":["tgn:7029664","tgn:7002827","tgn:1000003","tgn:7002789","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347"],"id":7029664,"name:es":"Navarrete"}}
+{
+  "id": 7029664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029664",
+        "tgn:7002827",
+        "tgn:1000003",
+        "tgn:7002789",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029664,
+    "tgn:name:es":"Navarrete",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.562306,42.430288],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,27.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7358119","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7358119,"name:xx":"Cusarare, R\u00edo de"}}
+{
+  "id": 7358119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358119",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358119,
+    "tgn:name":"Cusarare, R\u00edo de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,27.5],"type":"Point"}
+}

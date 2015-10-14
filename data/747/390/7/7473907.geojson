@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.581608,24.827010]},"type":"Feature","properties":{"hierarchy":["tgn:7473907","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7473907,"name:xx":"Xikeng Huguansuo"}}
+{
+  "id": 7473907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473907",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473907,
+    "tgn:name":"Xikeng Huguansuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.581608,24.82701],"type":"Point"}
+}

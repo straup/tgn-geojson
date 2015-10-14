@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.866700,28.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2257509","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2257509,"name:xx":"Corpus Christi, Lake"}}
+{
+  "id": 2257509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257509",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257509,
+    "tgn:name":"Corpus Christi, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.8667,28.0333],"type":"Point"}
+}

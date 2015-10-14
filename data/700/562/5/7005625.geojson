@@ -1,0 +1,24 @@
+{
+  "id": 7005625,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005625",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005625,
+    "tgn:name:de":"Salzgitter",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387302",
+        "aat:300387294"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3333,52.2167],"type":"Point"}
+}

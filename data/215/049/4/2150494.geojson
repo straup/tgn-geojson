@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.133300,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2150494","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2150494,"name:xx":"Basin Patch Spring"}}
+{
+  "id": 2150494,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150494",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150494,
+    "tgn:name":"Basin Patch Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1333,42.25],"type":"Point"}
+}

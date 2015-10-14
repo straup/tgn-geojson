@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.683300,30.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2401027","tgn:1000001","tgn:7012149","tgn:2002010","tgn:7007826","tgn:7029392"],"placetype":["aat:300008697"],"id":2401027,"name:xx":"Horse Thief Spring"}}
+{
+  "id": 2401027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401027",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002010",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401027,
+    "tgn:name":"Horse Thief Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.6833,30.7],"type":"Point"}
+}

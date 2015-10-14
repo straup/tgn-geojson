@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.016700,48.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2150923","tgn:1000001","tgn:7012149","tgn:2001295","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2150923,"name:xx":"Bass Reservoir"}}
+{
+  "id": 2150923,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150923",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001295",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150923,
+    "tgn:name":"Bass Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0167,48.05],"type":"Point"}
+}

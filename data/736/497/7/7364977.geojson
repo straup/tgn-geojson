@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.416667,20.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7364977","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364977,"name:xx":"El Quemado"}}
+{
+  "id": 7364977,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364977",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364977,
+    "tgn:name":"El Quemado",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.416667,20.783333],"type":"Point"}
+}

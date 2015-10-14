@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.239171,25.012386]},"type":"Feature","properties":{"hierarchy":["tgn:7477755","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477755,"name:xx":"Dabu Pi"}}
+{
+  "id": 7477755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477755",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477755,
+    "tgn:name":"Dabu Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.239171,25.012386],"type":"Point"}
+}

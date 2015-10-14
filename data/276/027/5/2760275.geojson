@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.283300,45.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2760275","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760275,"name:xx":"West Fork Sage Creek"}}
+{
+  "id": 2760275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760275",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760275,
+    "tgn:name":"West Fork Sage Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2833,45.2],"type":"Point"}
+}

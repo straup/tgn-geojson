@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-154.700000,66.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2151904","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008707"],"id":2151904,"name:xx":"Batza River"}}
+{
+  "id": 2151904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151904",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151904,
+    "tgn:name":"Batza River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-154.7,66.0333],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7001246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001246",
+        "tgn:7001242",
+        "tgn:7016752",
+        "tgn:1000798",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001246,
+    "tgn:name":"Oran",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.6333,35.75],"type":"Point"}
+}

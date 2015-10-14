@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.101944,23.405556]},"type":"Feature","properties":{"hierarchy":["tgn:7487509","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487509,"name:xx":"Miyasang Xi"}}
+{
+  "id": 7487509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487509",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487509,
+    "tgn:name":"Miyasang Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.101944,23.405556],"type":"Point"}
+}

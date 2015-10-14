@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-75.266700,41.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7020648","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020648,"name:xx":"Delaware River"}}
+{
+  "id": 7020648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020648",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020648,
+    "tgn:name":"Delaware River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.2667,41.9333],"type":"Point"}
+}

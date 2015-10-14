@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.750000,38.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2407691","tgn:1000001","tgn:7012149","tgn:1002368","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2407691,"name:xx":"Hurleyville"}}
+{
+  "id": 2407691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407691",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002368",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407691,
+    "tgn:name":"Hurleyville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.75,38.6333],"type":"Point"}
+}

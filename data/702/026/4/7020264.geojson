@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.983300,35.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7020264","tgn:1000001","tgn:7012149","tgn:2001503","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7020264,"name:xx":"Waynesville Reservoir"}}
+{
+  "id": 7020264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020264",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001503",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020264,
+    "tgn:name":"Waynesville Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9833,35.4],"type":"Point"}
+}

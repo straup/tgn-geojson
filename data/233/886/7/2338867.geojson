@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.800000,43.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2338867","tgn:1000001","tgn:7012149","tgn:2000933","tgn:7007515","tgn:7029392"],"placetype":["aat:300008791"],"id":2338867,"name:xx":"Frankfort Island"}}
+{
+  "id": 2338867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338867",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000933",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338867,
+    "tgn:name":"Frankfort Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8,43.1],"type":"Point"}
+}

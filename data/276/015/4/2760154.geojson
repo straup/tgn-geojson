@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.350000,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2760154","tgn:1000001","tgn:7012149","tgn:2001315","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760154,"name:xx":"West Fork Pompeys Pillar Creek"}}
+{
+  "id": 2760154,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760154",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001315",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760154,
+    "tgn:name":"West Fork Pompeys Pillar Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.35,46.2],"type":"Point"}
+}

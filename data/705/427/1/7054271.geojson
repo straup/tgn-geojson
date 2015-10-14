@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.500000,38.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7054271","tgn:1000003","tgn:7003122","tgn:7003157","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7054271,"name:xx":"Stazione Ponte Schiavo"}}
+{
+  "id": 7054271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054271",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:7003157",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054271,
+    "tgn:name":"Stazione Ponte Schiavo",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.5,38.083333],"type":"Point"}
+}

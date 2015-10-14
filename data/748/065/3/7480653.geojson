@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.137464,23.292037]},"type":"Feature","properties":{"hierarchy":["tgn:7480653","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300386871"],"id":7480653,"name:xx":"Wangyegang Yanqu"}}
+{
+  "id": 7480653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480653",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480653,
+    "tgn:name":"Wangyegang Yanqu",
+    "tgn:placetype":[
+        "aat:300386871"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.137464,23.292037],"type":"Point"}
+}

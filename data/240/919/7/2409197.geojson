@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.383300,43.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2409197","tgn:1000001","tgn:7012149","tgn:2000471","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2409197,"name:xx":"Ice Springs"}}
+{
+  "id": 2409197,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409197",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000471",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409197,
+    "tgn:name":"Ice Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3833,43.4833],"type":"Point"}
+}

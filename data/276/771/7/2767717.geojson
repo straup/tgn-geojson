@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.816700,29.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2767717","tgn:1000001","tgn:7012149","tgn:2000897","tgn:7007256","tgn:7029392"],"placetype":["aat:300006075"],"id":2767717,"name:xx":"Whitehall Canal"}}
+{
+  "id": 2767717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767717",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000897",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767717,
+    "tgn:name":"Whitehall Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8167,29.85],"type":"Point"}
+}

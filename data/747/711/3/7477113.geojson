@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.988936,25.016542]},"type":"Feature","properties":{"hierarchy":["tgn:7477113","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477113,"name:xx":"Fulian Guoxiao"}}
+{
+  "id": 7477113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477113",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477113,
+    "tgn:name":"Fulian Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.988936,25.016542],"type":"Point"}
+}

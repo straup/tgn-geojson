@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.285022,51.003149]},"type":"Feature","properties":{"hierarchy":["tgn:7241759","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241759,"name:xx":"Linde"}}
+{
+  "id": 7241759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241759",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241759,
+    "tgn:name":"Linde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.285022,51.003149],"type":"Point"}
+}

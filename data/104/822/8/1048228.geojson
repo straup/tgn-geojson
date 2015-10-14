@@ -1,0 +1,28 @@
+{
+  "id": 1048228,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f2420e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744839",
+        "gp:id":734598,
+        "qs:id":9,
+        "wof:id":101809775
+    },
+    "tgn:hierarchy":[
+        "tgn:1048228",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009815",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048228,
+    "tgn:name:nl":"Wemeldinge",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.0,51.516667],"type":"Point"}
+}

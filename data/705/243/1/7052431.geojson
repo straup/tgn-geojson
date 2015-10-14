@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.633333,42.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7052431","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052431,"name:xx":"Montonari"}}
+{
+  "id": 7052431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052431",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052431,
+    "tgn:name":"Montonari",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.633333,42.783333],"type":"Point"}
+}

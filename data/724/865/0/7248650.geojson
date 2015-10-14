@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.000000,51.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7248650","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7248650,"name:xx":"Blekerijbeek"}}
+{
+  "id": 7248650,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248650",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248650,
+    "tgn:name":"Blekerijbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.0,51.116667],"type":"Point"}
+}

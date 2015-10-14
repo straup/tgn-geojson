@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.433333,24.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7363904","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7363904,"name:xx":"El Chorro"}}
+{
+  "id": 7363904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363904",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363904,
+    "tgn:name":"El Chorro",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.433333,24.283333],"type":"Point"}
+}

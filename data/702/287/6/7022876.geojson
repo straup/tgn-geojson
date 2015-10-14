@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.150000,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:7022876","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":7022876,"name:xx":"Rocky Ford Reservoir"}}
+{
+  "id": 7022876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022876",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022876,
+    "tgn:name":"Rocky Ford Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.15,38.1667],"type":"Point"}
+}

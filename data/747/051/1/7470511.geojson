@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.467610,23.954273]},"type":"Feature","properties":{"hierarchy":["tgn:7470511","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470511,"name:xx":"Waisikuaicuo"}}
+{
+  "id": 7470511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470511",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470511,
+    "tgn:name":"Waisikuaicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.46761,23.954273],"type":"Point"}
+}

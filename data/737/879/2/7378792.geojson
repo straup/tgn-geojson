@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.183333,29.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7378792","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378792,"name:xx":"Los Carneros"}}
+{
+  "id": 7378792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378792",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378792,
+    "tgn:name":"Los Carneros",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.183333,29.55],"type":"Point"}
+}

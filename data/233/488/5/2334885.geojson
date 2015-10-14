@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.900000,43.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2334885","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2334885,"name:xx":"Forked Horn Springs"}}
+{
+  "id": 2334885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334885",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334885,
+    "tgn:name":"Forked Horn Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.9,43.15],"type":"Point"}
+}

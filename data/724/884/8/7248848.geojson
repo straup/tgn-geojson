@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.466667,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7248848","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7248848,"name:xx":"Ferme du Bois Saint-Jean"}}
+{
+  "id": 7248848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248848",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248848,
+    "tgn:name":"Ferme du Bois Saint-Jean",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.466667,50.583333],"type":"Point"}
+}

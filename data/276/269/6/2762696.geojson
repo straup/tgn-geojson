@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.433300,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2762696","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002859","tgn:7029392"],"placetype":["aat:300008347"],"id":2762696,"name:xx":"Western Addition"}}
+{
+  "id": 2762696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762696",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002859",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762696,
+    "tgn:name":"Western Addition",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4333,37.7833],"type":"Point"}
+}

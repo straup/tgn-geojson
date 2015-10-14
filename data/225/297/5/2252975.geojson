@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.566700,36.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2252975","tgn:1000001","tgn:7012149","tgn:2001912","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2252975,"name:xx":"Conservation League Lake"}}
+{
+  "id": 2252975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252975",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001912",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252975,
+    "tgn:name":"Conservation League Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5667,36.5167],"type":"Point"}
+}

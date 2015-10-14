@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.900000,32.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2331398","tgn:1000001","tgn:7012149","tgn:2000397","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2331398,"name:xx":"Flatrock Creek"}}
+{
+  "id": 2331398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000397",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331398,
+    "tgn:name":"Flatrock Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9,32.5667],"type":"Point"}
+}

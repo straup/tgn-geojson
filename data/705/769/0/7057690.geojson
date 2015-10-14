@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.466667,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7057690","tgn:7004595","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7057690,"name:xx":"Burrano, Monte"}}
+{
+  "id": 7057690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057690",
+        "tgn:7004595",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057690,
+    "tgn:name":"Burrano, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.466667,41.05],"type":"Point"}
+}

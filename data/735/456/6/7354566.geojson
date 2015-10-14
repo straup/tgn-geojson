@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.883333,31.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7354566","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7354566,"name:xx":"Casita, Arroyo la"}}
+{
+  "id": 7354566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354566",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354566,
+    "tgn:name":"Casita, Arroyo la",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.883333,31.0],"type":"Point"}
+}

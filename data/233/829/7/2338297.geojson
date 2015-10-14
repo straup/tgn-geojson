@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.950000,33.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338297","tgn:2001732","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2338297,"name:xx":"Fox Swamp"}}
+{
+  "id": 2338297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338297",
+        "tgn:2001732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338297,
+    "tgn:name":"Fox Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.95,33.3333],"type":"Point"}
+}

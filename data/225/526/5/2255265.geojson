@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.016700,42.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2255265","tgn:1000001","tgn:7012149","tgn:2001715","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2255265,"name:xx":"Cooper Spring"}}
+{
+  "id": 2255265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255265",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001715",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255265,
+    "tgn:name":"Cooper Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.0167,42.5667],"type":"Point"}
+}

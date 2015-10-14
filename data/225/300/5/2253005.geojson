@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.683300,48.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2253005","tgn:1000001","tgn:2002243","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300000390"],"id":2253005,"name:xx":"Consolidated Mines"}}
+{
+  "id": 2253005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253005",
+        "tgn:1000001",
+        "tgn:2002243",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253005,
+    "tgn:name":"Consolidated Mines",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.6833,48.0333],"type":"Point"}
+}

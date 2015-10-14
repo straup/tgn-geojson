@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-93.000000,48.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7022798","tgn:1000001","tgn:7029392"],"placetype":["aat:300008680"],"id":7022798,"name:xx":"Rainy Lake"}}
+{
+  "id": 7022798,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022798",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022798,
+    "tgn:name":"Rainy Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0,48.6333],"type":"Point"}
+}

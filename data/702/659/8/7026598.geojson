@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.361389,51.450833]},"type":"Feature","properties":{"hierarchy":["tgn:7026598","tgn:7002445","tgn:1000003","tgn:7019020","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Cold Ashton","id":7026598}}
+{
+  "id": 7026598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026598",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019020",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026598,
+    "tgn:name:en":"Cold Ashton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.361389,51.450833],"type":"Point"}
+}

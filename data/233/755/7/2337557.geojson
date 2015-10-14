@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.566700,41.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2337557","tgn:1000001","tgn:7012149","tgn:1002926","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2337557,"name:xx":"Fowlwood Brook"}}
+{
+  "id": 2337557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337557",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002926",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337557,
+    "tgn:name":"Fowlwood Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.5667,41.6167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.916700,46.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2336647","tgn:1000001","tgn:7012149","tgn:2001284","tgn:7007524","tgn:7029392"],"placetype":["aat:300008347"],"id":2336647,"name:xx":"Four Range"}}
+{
+  "id": 2336647,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336647",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001284",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336647,
+    "tgn:name":"Four Range",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9167,46.5667],"type":"Point"}
+}

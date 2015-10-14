@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.083300,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2404136","tgn:1000001","tgn:7012149","tgn:1002633","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2404136,"name:xx":"Howland Ditch"}}
+{
+  "id": 2404136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404136",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002633",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404136,
+    "tgn:name":"Howland Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0833,39.8833],"type":"Point"}
+}

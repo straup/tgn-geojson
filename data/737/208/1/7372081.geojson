@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.883333,20.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7372081","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372081,"name:xx":"La Ca\u00f1ada"}}
+{
+  "id": 7372081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372081",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372081,
+    "tgn:name":"La Ca\u00f1ada",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.883333,20.416667],"type":"Point"}
+}

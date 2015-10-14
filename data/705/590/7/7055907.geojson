@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.733333,46.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7055907","tgn:7002991","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7055907,"name:xx":"Oregone, Passo dell'"}}
+{
+  "id": 7055907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055907",
+        "tgn:7002991",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055907,
+    "tgn:name":"Oregone, Passo dell'",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.733333,46.633333],"type":"Point"}
+}

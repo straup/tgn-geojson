@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.500000,33.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2769872","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000057","tgn:7029392"],"placetype":["aat:300006191"],"id":2769872,"name:xx":"Wilborn Lake"}}
+{
+  "id": 2769872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769872",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000057",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769872,
+    "tgn:name":"Wilborn Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5,33.65],"type":"Point"}
+}

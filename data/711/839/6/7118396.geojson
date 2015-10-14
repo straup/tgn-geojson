@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.300000,51.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7118396","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7118396,"name:xx":"Polzen"}}
+{
+  "id": 7118396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118396",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118396,
+    "tgn:name":"Polzen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.3,51.716667],"type":"Point"}
+}

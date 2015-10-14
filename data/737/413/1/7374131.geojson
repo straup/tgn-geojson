@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.350000,20.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7374131","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374131,"name:xx":"La Colonia de Villa Fuerte"}}
+{
+  "id": 7374131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374131",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374131,
+    "tgn:name":"La Colonia de Villa Fuerte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.35,20.516667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.616700,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2335823","tgn:1000001","tgn:7012149","tgn:2002055","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2335823,"name:xx":"Fortyone Tank"}}
+{
+  "id": 2335823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335823",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002055",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335823,
+    "tgn:name":"Fortyone Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6167,30.2333],"type":"Point"}
+}

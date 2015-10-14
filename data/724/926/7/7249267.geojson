@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.750000,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7249267","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7249267,"name:xx":"Niemandshoek"}}
+{
+  "id": 7249267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249267",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249267,
+    "tgn:name":"Niemandshoek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.75,51.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.876514,24.701183]},"type":"Feature","properties":{"hierarchy":["tgn:7477973","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477973,"name:xx":"Longshan Luqiao"}}
+{
+  "id": 7477973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477973",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477973,
+    "tgn:name":"Longshan Luqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.876514,24.701183],"type":"Point"}
+}

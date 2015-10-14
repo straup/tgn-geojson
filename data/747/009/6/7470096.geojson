@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.373586,23.679663]},"type":"Feature","properties":{"hierarchy":["tgn:7470096","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470096,"name:xx":"Haoshou"}}
+{
+  "id": 7470096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470096",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470096,
+    "tgn:name":"Haoshou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.373586,23.679663],"type":"Point"}
+}

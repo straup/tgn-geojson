@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.350000,32.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2335968","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2335968,"name:xx":"Fossil Tank"}}
+{
+  "id": 2335968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335968",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335968,
+    "tgn:name":"Fossil Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.35,32.85],"type":"Point"}
+}

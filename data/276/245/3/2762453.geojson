@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.983300,44.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2762453","tgn:1000001","tgn:7012149","tgn:1002990","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2762453,"name:xx":"West Vidler Creek"}}
+{
+  "id": 2762453,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762453",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002990",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762453,
+    "tgn:name":"West Vidler Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.9833,44.9333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.300000,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2155965","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300386845"],"id":2155965,"name:xx":"Bear Wallow"}}
+{
+  "id": 2155965,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155965",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155965,
+    "tgn:name":"Bear Wallow",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3,40.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.611700,22.713500]},"type":"Feature","properties":{"hierarchy":["tgn:7481615","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008631"],"id":7481615,"name:xx":"Ailiao Kaikengqu"}}
+{
+  "id": 7481615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481615",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481615,
+    "tgn:name":"Ailiao Kaikengqu",
+    "tgn:placetype":[
+        "aat:300008631"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6117,22.7135],"type":"Point"}
+}

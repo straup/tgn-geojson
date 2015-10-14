@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.133333,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7350498","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300185707"],"id":7350498,"name:xx":"Bacorehuis, Estero de"}}
+{
+  "id": 7350498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350498",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350498,
+    "tgn:name":"Bacorehuis, Estero de",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.133333,26.266667],"type":"Point"}
+}

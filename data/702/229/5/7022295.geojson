@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-82.666700,36.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022295","tgn:1000001","tgn:7029392"],"placetype":["aat:300386831","aat:300386832"],"id":7022295,"name:xx":"Appalachian Mountains"}}
+{
+  "id": 7022295,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022295",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022295,
+    "tgn:name":"Appalachian Mountains",
+    "tgn:placetype":[
+        "aat:300386831",
+        "aat:300386832"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6667,36.0],"type":"Point"}
+}

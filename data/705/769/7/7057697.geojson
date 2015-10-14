@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.016667,42.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7057697","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057697,"name:xx":"Buriano, Rio di"}}
+{
+  "id": 7057697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057697",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057697,
+    "tgn:name":"Buriano, Rio di",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.016667,42.85],"type":"Point"}
+}

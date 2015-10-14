@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.916667,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7179982","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300011692"],"id":7179982,"name:xx":"Fuchssteine"}}
+{
+  "id": 7179982,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179982",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179982,
+    "tgn:name":"Fuchssteine",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.916667,50.6],"type":"Point"}
+}

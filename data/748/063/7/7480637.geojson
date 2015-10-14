@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.202924,23.365009]},"type":"Feature","properties":{"hierarchy":["tgn:7480637","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7480637,"name:xx":"Dishi Gongmu"}}
+{
+  "id": 7480637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480637",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480637,
+    "tgn:name":"Dishi Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.202924,23.365009],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.300000,49.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7176208","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7176208,"name:xx":"Grettstadter Graben"}}
+{
+  "id": 7176208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176208",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176208,
+    "tgn:name":"Grettstadter Graben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,49.983333],"type":"Point"}
+}

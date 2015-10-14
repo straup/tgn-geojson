@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.133333,18.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7352817","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300387086"],"id":7352817,"name:xx":"Alt\u00f3n, Laguna"}}
+{
+  "id": 7352817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352817",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352817,
+    "tgn:name":"Alt\u00f3n, Laguna",
+    "tgn:placetype":[
+        "aat:300387086"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.133333,18.516667],"type":"Point"}
+}

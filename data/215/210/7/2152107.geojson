@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.300000,40.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2152107","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008706"],"id":2152107,"name:xx":"Baxter Creek"}}
+{
+  "id": 2152107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152107",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152107,
+    "tgn:name":"Baxter Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3,40.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.600000,40.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2402378","tgn:1000001","tgn:2001419","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2402378,"name:xx":"Horton Mercury Mine"}}
+{
+  "id": 2402378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402378",
+        "tgn:1000001",
+        "tgn:2001419",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402378,
+    "tgn:name":"Horton Mercury Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6,40.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.166700,34.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2158554","tgn:1000001","tgn:2001740","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2158554,"name:xx":"Beaverdam Millpond"}}
+{
+  "id": 2158554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158554",
+        "tgn:1000001",
+        "tgn:2001740",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158554,
+    "tgn:name":"Beaverdam Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1667,34.3833],"type":"Point"}
+}

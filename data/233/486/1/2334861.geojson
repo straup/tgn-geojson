@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.800000,40.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2334861","tgn:1000001","tgn:7012149","tgn:1002978","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2334861,"name:xx":"Forked Branch"}}
+{
+  "id": 2334861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334861",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002978",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334861,
+    "tgn:name":"Forked Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8,40.7],"type":"Point"}
+}

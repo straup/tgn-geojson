@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.150000,29.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2405963","tgn:1000001","tgn:1002198","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300132316"],"id":2405963,"name:xx":"Humble Cut"}}
+{
+  "id": 2405963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405963",
+        "tgn:1000001",
+        "tgn:1002198",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405963,
+    "tgn:name":"Humble Cut",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.15,29.2],"type":"Point"}
+}

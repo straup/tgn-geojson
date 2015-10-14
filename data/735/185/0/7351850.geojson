@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.483333,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7351850","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7351850,"name:xx":"Barbechitos, Arroyo de"}}
+{
+  "id": 7351850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351850",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351850,
+    "tgn:name":"Barbechitos, Arroyo de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.483333,26.266667],"type":"Point"}
+}

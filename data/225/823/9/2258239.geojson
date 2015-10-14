@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.000000,41.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2258239","tgn:1002201","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008707"],"id":2258239,"name:xx":"Cotley River"}}
+{
+  "id": 2258239,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258239",
+        "tgn:1002201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258239,
+    "tgn:name":"Cotley River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0,41.8333],"type":"Point"}
+}

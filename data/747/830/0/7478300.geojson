@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.477066,22.496827]},"type":"Feature","properties":{"hierarchy":["tgn:7478300","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478300,"name:xx":"Gangdong Daqiao"}}
+{
+  "id": 7478300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478300",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478300,
+    "tgn:name":"Gangdong Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.477066,22.496827],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-121.600000,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022660","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022660,"name:xx":"Van Brimmer Canal"}}
+{
+  "id": 7022660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022660",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022660,
+    "tgn:name":"Van Brimmer Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6,42.0],"type":"Point"}
+}

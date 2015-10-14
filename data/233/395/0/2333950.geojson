@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.100000,43.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2333950","tgn:1000001","tgn:7012149","tgn:2002377","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2333950,"name:xx":"Ford Draw"}}
+{
+  "id": 2333950,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333950",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002377",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333950,
+    "tgn:name":"Ford Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.1,43.4333],"type":"Point"}
+}

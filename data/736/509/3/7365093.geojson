@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.250000,15.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7365093","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365093,"name:xx":"El Raizal"}}
+{
+  "id": 7365093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365093",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365093,
+    "tgn:name":"El Raizal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.25,15.883333],"type":"Point"}
+}

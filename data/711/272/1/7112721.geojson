@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.900000,48.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7112721","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300011692"],"id":7112721,"name:xx":"Roggenstein"}}
+{
+  "id": 7112721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112721",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112721,
+    "tgn:name":"Roggenstein",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.9,48.65],"type":"Point"}
+}

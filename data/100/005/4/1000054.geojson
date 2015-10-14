@@ -1,0 +1,27 @@
+{
+  "id": 1000054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000054",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000054,
+    "tgn:name:ar":"\u063a \u0627\u064e\u0646\u0627",
+    "tgn:name:en":"Guyana",
+    "tgn:name:es":"Guyana",
+    "tgn:name:fr":"Guyana",
+    "tgn:name:ru":"\u0413\u0430\u0439\u0430\u043d\u0430",
+    "tgn:name:zh":"\u572d\u4e9a\u90a3",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-59.0,5.0],"type":"Point"}
+}

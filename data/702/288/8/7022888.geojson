@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-84.800000,40.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022888","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022888,"name:xx":"Elson Ditch"}}
+{
+  "id": 7022888,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022888",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022888,
+    "tgn:name":"Elson Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8,40.1],"type":"Point"}
+}

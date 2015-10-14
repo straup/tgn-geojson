@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.400000,34.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7021631","tgn:2001725","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7021631,"name:xx":"Reid Creek"}}
+{
+  "id": 7021631,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021631",
+        "tgn:2001725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021631,
+    "tgn:name":"Reid Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4,34.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.650000,47.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7175795","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175795,"name:xx":"Grezhausen"}}
+{
+  "id": 7175795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175795",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175795,
+    "tgn:name":"Grezhausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.65,47.966667],"type":"Point"}
+}

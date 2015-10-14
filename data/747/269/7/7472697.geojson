@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.806777,23.829156]},"type":"Feature","properties":{"hierarchy":["tgn:7472697","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472697,"name:xx":"Dongjiao"}}
+{
+  "id": 7472697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472697",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472697,
+    "tgn:name":"Dongjiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.806777,23.829156],"type":"Point"}
+}

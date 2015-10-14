@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.633333,25.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7474969","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474969,"name:xx":"Wanli Xiang"}}
+{
+  "id": 7474969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474969",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474969,
+    "tgn:name":"Wanli Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.633333,25.183333],"type":"Point"}
+}

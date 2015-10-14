@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.633333,27.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7353736","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7353736,"name:xx":"Rancho Buenos A\u00edres"}}
+{
+  "id": 7353736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353736",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353736,
+    "tgn:name":"Rancho Buenos A\u00edres",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.633333,27.233333],"type":"Point"}
+}

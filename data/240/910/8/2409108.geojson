@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.000000,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2409108","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000187","tgn:7029392"],"placetype":["aat:300008706"],"id":2409108,"name:xx":"Ice Creek"}}
+{
+  "id": 2409108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409108",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000187",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409108,
+    "tgn:name":"Ice Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0,39.7],"type":"Point"}
+}

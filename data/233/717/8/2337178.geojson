@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.283300,32.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2337178","tgn:1000001","tgn:7012149","tgn:2000436","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2337178,"name:xx":"Fourth Branch"}}
+{
+  "id": 2337178,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000436",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337178,
+    "tgn:name":"Fourth Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2833,32.9],"type":"Point"}
+}

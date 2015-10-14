@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.566700,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2406167","tgn:1000001","tgn:2001797","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":2406167,"name:xx":"Hump Creek"}}
+{
+  "id": 2406167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406167",
+        "tgn:1000001",
+        "tgn:2001797",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406167,
+    "tgn:name":"Hump Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.5667,44.5],"type":"Point"}
+}

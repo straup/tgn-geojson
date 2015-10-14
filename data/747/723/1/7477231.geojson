@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.644885,23.601149]},"type":"Feature","properties":{"hierarchy":["tgn:7477231","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300132316"],"id":7477231,"name:xx":"Hongluozhao Wan"}}
+{
+  "id": 7477231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477231",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477231,
+    "tgn:name":"Hongluozhao Wan",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.644885,23.601149],"type":"Point"}
+}

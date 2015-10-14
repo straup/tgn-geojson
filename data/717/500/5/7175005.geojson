@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.816667,51.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7175005","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175005,"name:xx":"Gro\u00dfgr\u00e4fendorf"}}
+{
+  "id": 7175005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175005",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175005,
+    "tgn:name":"Gro\u00dfgr\u00e4fendorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.816667,51.4],"type":"Point"}
+}

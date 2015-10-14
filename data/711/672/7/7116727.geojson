@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.650000,53.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7116727","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7116727,"name:xx":"Oetzendorf"}}
+{
+  "id": 7116727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116727",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116727,
+    "tgn:name":"Oetzendorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.65,53.05],"type":"Point"}
+}

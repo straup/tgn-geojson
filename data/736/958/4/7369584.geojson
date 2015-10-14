@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.650000,20.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7369584","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369584,"name:xx":"Kabah"}}
+{
+  "id": 7369584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369584",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369584,
+    "tgn:name":"Kabah",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.65,20.283333],"type":"Point"}
+}

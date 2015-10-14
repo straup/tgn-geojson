@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.150000,48.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7178341","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7178341,"name:xx":"Hader"}}
+{
+  "id": 7178341,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178341",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178341,
+    "tgn:name":"Hader",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.15,48.6],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-72.916700,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2332283","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2332283,"name:xx":"Flood Brook"}}
+{
+  "id": 2332283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332283",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332283,
+    "tgn:name":"Flood Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.9167,43.25],"type":"Point"}
+}

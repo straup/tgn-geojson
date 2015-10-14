@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.450000,54.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7172584","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7172584,"name:xx":"Helligbek"}}
+{
+  "id": 7172584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172584",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172584,
+    "tgn:name":"Helligbek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.45,54.616667],"type":"Point"}
+}

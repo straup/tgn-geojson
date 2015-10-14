@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.183300,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2253538","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":2253538,"name:xx":"Cook Gulch"}}
+{
+  "id": 2253538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253538",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253538,
+    "tgn:name":"Cook Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1833,40.2333],"type":"Point"}
+}

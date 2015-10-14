@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.950000,53.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7111744","tgn:1000003","tgn:7003673","tgn:7000084","tgn:7029392"],"placetype":["aat:300008713"],"id":7111744,"name:xx":"Ro\u00dfkanal"}}
+{
+  "id": 7111744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111744",
+        "tgn:1000003",
+        "tgn:7003673",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111744,
+    "tgn:name":"Ro\u00dfkanal",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.95,53.516667],"type":"Point"}
+}

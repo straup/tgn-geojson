@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.483300,38.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2335117","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2335117,"name:xx":"Forsyth Valley"}}
+{
+  "id": 2335117,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335117",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335117,
+    "tgn:name":"Forsyth Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4833,38.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.400000,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2336429","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2336429,"name:xx":"Fountain of Youth Spring"}}
+{
+  "id": 2336429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336429",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336429,
+    "tgn:name":"Fountain of Youth Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.4,37.3333],"type":"Point"}
+}

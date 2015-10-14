@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.300000,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2401934","tgn:1000001","tgn:7012149","tgn:2001713","tgn:7007708","tgn:7029392"],"placetype":["aat:300000390"],"id":2401934,"name:xx":"Horseshoe Lode"}}
+{
+  "id": 2401934,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401934",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001713",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401934,
+    "tgn:name":"Horseshoe Lode",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.3,42.6667],"type":"Point"}
+}

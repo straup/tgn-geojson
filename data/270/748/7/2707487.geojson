@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.566700,29.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2707487","tgn:2000256","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2707487,"name:xx":"Sweet Water Lake"}}
+{
+  "id": 2707487,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2707487",
+        "tgn:2000256",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2707487,
+    "tgn:name":"Sweet Water Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5667,29.8833],"type":"Point"}
+}

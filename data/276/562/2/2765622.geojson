@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.616700,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765622","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2765622,"name:xx":"White Cloud Peaks"}}
+{
+  "id": 2765622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765622",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765622,
+    "tgn:name":"White Cloud Peaks",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6167,44.0833],"type":"Point"}
+}

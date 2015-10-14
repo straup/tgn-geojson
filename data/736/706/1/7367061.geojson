@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,30.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7367061","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367061,"name:xx":"Rancho El Picacho"}}
+{
+  "id": 7367061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367061",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367061,
+    "tgn:name":"Rancho El Picacho",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,30.75],"type":"Point"}
+}

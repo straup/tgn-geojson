@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.566700,45.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2406558","tgn:1000001","tgn:2001785","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":2406558,"name:xx":"Hunkpapa Creek"}}
+{
+  "id": 2406558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406558",
+        "tgn:1000001",
+        "tgn:2001785",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406558,
+    "tgn:name":"Hunkpapa Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.5667,45.85],"type":"Point"}
+}

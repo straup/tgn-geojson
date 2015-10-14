@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.100000,45.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7052725","tgn:7005611","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052725,"name:xx":"Montiglio"}}
+{
+  "id": 7052725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052725",
+        "tgn:7005611",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052725,
+    "tgn:name":"Montiglio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.1,45.066667],"type":"Point"}
+}

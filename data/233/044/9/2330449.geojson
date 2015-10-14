@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.600000,47.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2330449","tgn:1000001","tgn:7012149","tgn:2001282","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2330449,"name:xx":"Flat Coulee"}}
+{
+  "id": 2330449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330449",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001282",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330449,
+    "tgn:name":"Flat Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6,47.35],"type":"Point"}
+}

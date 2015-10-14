@@ -1,0 +1,24 @@
+{
+  "id": 1023280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1023280",
+        "tgn:1001941",
+        "tgn:1000047",
+        "tgn:7002458",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1023280,
+    "tgn:name":"Uruguaiana",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-57.0833,-29.75],"type":"Point"}
+}

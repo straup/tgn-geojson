@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.200000,36.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2338192","tgn:1000001","tgn:7012149","tgn:2001541","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2338192,"name:xx":"Fox Pond"}}
+{
+  "id": 2338192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338192",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001541",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338192,
+    "tgn:name":"Fox Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2,36.2833],"type":"Point"}
+}

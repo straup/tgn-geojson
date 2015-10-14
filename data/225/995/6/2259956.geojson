@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.166700,34.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2259956","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2259956,"name:xx":"Coulter Tank"}}
+{
+  "id": 2259956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259956",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259956,
+    "tgn:name":"Coulter Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.1667,34.3833],"type":"Point"}
+}

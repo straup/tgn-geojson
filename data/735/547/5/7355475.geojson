@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.483333,18.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7355475","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355475,"name:xx":"Caporal, Cerro del"}}
+{
+  "id": 7355475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355475",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355475,
+    "tgn:name":"Caporal, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.483333,18.733333],"type":"Point"}
+}

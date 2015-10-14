@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.232296,50.848790]},"type":"Feature","properties":{"hierarchy":["tgn:7248240","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248240,"name:xx":"Begijnenborre"}}
+{
+  "id": 7248240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248240",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248240,
+    "tgn:name":"Begijnenborre",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.232296,50.84879],"type":"Point"}
+}

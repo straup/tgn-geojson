@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.450000,37.516700]},"type":"Feature","properties":{"hierarchy":["tgn:7021855","tgn:2001171","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021855,"name:xx":"Logue Lake"}}
+{
+  "id": 7021855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021855",
+        "tgn:2001171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021855,
+    "tgn:name":"Logue Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.45,37.5167],"type":"Point"}
+}

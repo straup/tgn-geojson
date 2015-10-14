@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.316700,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2152805","tgn:1000001","tgn:2000599","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300006191"],"id":2152805,"name:xx":"Bays Branch Lake"}}
+{
+  "id": 2152805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152805",
+        "tgn:1000001",
+        "tgn:2000599",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152805,
+    "tgn:name":"Bays Branch Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.3167,41.7],"type":"Point"}
+}

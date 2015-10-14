@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.766700,41.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2763904","tgn:1000001","tgn:1002712","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300132348"],"id":2763904,"name:xx":"Wheaton Reef"}}
+{
+  "id": 2763904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763904",
+        "tgn:1000001",
+        "tgn:1002712",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763904,
+    "tgn:name":"Wheaton Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7667,41.2333],"type":"Point"}
+}

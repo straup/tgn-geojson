@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.833333,54.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7114689","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300006163"],"id":7114689,"name:xx":"Ockholmer Koog"}}
+{
+  "id": 7114689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114689",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114689,
+    "tgn:name":"Ockholmer Koog",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.833333,54.683333],"type":"Point"}
+}

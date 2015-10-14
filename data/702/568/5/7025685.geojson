@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.966700,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7025685","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025685,"name:xx":"Patchole"}}
+{
+  "id": 7025685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025685",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025685,
+    "tgn:name":"Patchole",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.9667,51.15],"type":"Point"}
+}

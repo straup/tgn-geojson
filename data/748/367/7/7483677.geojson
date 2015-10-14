@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.901389,24.941111]},"type":"Feature","properties":{"hierarchy":["tgn:7483677","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7483677,"name:xx":"Daxi Yugang"}}
+{
+  "id": 7483677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483677",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483677,
+    "tgn:name":"Daxi Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.901389,24.941111],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.750000,43.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2408571","tgn:1000001","tgn:7012149","tgn:2000471","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2408571,"name:xx":"Hutton Creek"}}
+{
+  "id": 2408571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408571",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000471",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408571,
+    "tgn:name":"Hutton Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.75,43.5333],"type":"Point"}
+}

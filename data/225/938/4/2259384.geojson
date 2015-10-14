@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.166700,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2259384","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000246","tgn:7029392"],"placetype":["aat:300008697"],"id":2259384,"name:xx":"Cottonwood Spring"}}
+{
+  "id": 2259384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259384",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000246",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259384,
+    "tgn:name":"Cottonwood Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.1667,38.1333],"type":"Point"}
+}

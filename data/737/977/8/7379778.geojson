@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.850000,15.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7379778","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300132316"],"id":7379778,"name:xx":"Mascalco, Bah\u00eda"}}
+{
+  "id": 7379778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379778",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379778,
+    "tgn:name":"Mascalco, Bah\u00eda",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.85,15.85],"type":"Point"}
+}

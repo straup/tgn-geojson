@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.582500,23.820833]},"type":"Feature","properties":{"hierarchy":["tgn:7480615","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480615,"name:xx":"Dishi'erhao Qiao"}}
+{
+  "id": 7480615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480615",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480615,
+    "tgn:name":"Dishi'erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5825,23.820833],"type":"Point"}
+}

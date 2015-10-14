@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.883333,42.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7056810","tgn:7003171","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056810,"name:xx":"Belmonte in Sabina"}}
+{
+  "id": 7056810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056810",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056810,
+    "tgn:name":"Belmonte in Sabina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.883333,42.316667],"type":"Point"}
+}

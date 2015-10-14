@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.366700,35.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023477","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":7023477,"name:xx":"Mosley Creek"}}
+{
+  "id": 7023477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023477,
+    "tgn:name":"Mosley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3667,35.2333],"type":"Point"}
+}

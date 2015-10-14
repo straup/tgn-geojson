@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.916667,51.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7116603","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7116603,"name:xx":"Ottergraben"}}
+{
+  "id": 7116603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116603",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116603,
+    "tgn:name":"Ottergraben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.916667,51.883333],"type":"Point"}
+}

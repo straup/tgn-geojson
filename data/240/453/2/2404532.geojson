@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-73.216700,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2404532","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2404532,"name:xx":"Hubbardton River"}}
+{
+  "id": 2404532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404532,
+    "tgn:name":"Hubbardton River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2167,43.7333],"type":"Point"}
+}

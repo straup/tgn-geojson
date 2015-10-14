@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.406805,23.772326]},"type":"Feature","properties":{"hierarchy":["tgn:7472203","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7472203,"name:xx":"Erlun Guozhong"}}
+{
+  "id": 7472203,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472203",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472203,
+    "tgn:name":"Erlun Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.406805,23.772326],"type":"Point"}
+}

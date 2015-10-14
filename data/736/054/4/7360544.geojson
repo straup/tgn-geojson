@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.550000,20.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7360544","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360544,"name:xx":"Ecatl\u00e1n"}}
+{
+  "id": 7360544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360544",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360544,
+    "tgn:name":"Ecatl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.55,20.05],"type":"Point"}
+}

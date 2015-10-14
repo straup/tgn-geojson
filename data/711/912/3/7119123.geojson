@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.466667,51.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7119123","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7119123,"name:xx":"Pickaer-Berg"}}
+{
+  "id": 7119123,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119123",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119123,
+    "tgn:name":"Pickaer-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.466667,51.066667],"type":"Point"}
+}

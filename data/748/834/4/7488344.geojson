@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.500000,23.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7488344","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7488344,"name:xx":"Guanzi Ling"}}
+{
+  "id": 7488344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488344",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488344,
+    "tgn:name":"Guanzi Ling",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5,23.35],"type":"Point"}
+}

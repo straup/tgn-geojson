@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.916667,49.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7114121","tgn:1000003","tgn:7003684","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114121,"name:xx":"Rockershausen"}}
+{
+  "id": 7114121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114121",
+        "tgn:1000003",
+        "tgn:7003684",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114121,
+    "tgn:name":"Rockershausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.916667,49.25],"type":"Point"}
+}

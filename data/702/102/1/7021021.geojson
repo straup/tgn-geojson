@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-103.983300,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7021021","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7021021,"name:xx":"North Fork Beaver Dam Creek"}}
+{
+  "id": 7021021,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021021",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021021,
+    "tgn:name":"North Fork Beaver Dam Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9833,45.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.796111,24.855000]},"type":"Feature","properties":{"hierarchy":["tgn:7483386","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483386,"name:xx":"Ji'an Gong"}}
+{
+  "id": 7483386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483386",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483386,
+    "tgn:name":"Ji'an Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.796111,24.855],"type":"Point"}
+}

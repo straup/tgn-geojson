@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.500000,53.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7172329","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008750"],"id":7172329,"name:xx":"Herrenhus D\u00fcnen"}}
+{
+  "id": 7172329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172329",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172329,
+    "tgn:name":"Herrenhus D\u00fcnen",
+    "tgn:placetype":[
+        "aat:300008750"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.5,53.75],"type":"Point"}
+}

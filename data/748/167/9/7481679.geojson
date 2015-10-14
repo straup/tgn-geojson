@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.263056,24.724722]},"type":"Feature","properties":{"hierarchy":["tgn:7481679","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481679,"name:xx":"Tieling Qiao"}}
+{
+  "id": 7481679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481679",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481679,
+    "tgn:name":"Tieling Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.263056,24.724722],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.070833,24.497222]},"type":"Feature","properties":{"hierarchy":["tgn:7488339","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"name:en":"Lu Chang, Mount","id":7488339}}
+{
+  "id": 7488339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488339",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488339,
+    "tgn:name:en":"Lu Chang, Mount",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.070833,24.497222],"type":"Point"}
+}

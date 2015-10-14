@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.383300,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2257833","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008699"],"id":2257833,"name:xx":"Corral Wash"}}
+{
+  "id": 2257833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257833",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257833,
+    "tgn:name":"Corral Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.3833,38.8833],"type":"Point"}
+}

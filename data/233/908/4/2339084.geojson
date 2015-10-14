@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.533300,44.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2339084","tgn:1000001","tgn:7012149","tgn:7013941","tgn:7007568","tgn:7029392"],"placetype":["aat:300008863"],"id":2339084,"name:xx":"Franklin State Forest Number Nine"}}
+{
+  "id": 2339084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013941",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339084,
+    "tgn:name":"Franklin State Forest Number Nine",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.5333,44.6833],"type":"Point"}
+}

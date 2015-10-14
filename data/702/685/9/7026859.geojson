@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.600000,50.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7026859","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008863"],"id":7026859,"name:xx":"Gritnam Wood"}}
+{
+  "id": 7026859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026859",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026859,
+    "tgn:name":"Gritnam Wood",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.6,50.85],"type":"Point"}
+}

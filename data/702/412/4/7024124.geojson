@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[18.000000,50.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7024124","tgn:1000003","tgn:7006366","tgn:7029392"],"placetype":["aat:300387064","aat:300235112"],"id":7024124,"name:xx":"Opolskie"}}
+{
+  "id": 7024124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024124",
+        "tgn:1000003",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024124,
+    "tgn:name":"Opolskie",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300235112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.0,50.5],"type":"Point"}
+}

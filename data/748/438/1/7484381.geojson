@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.664167,22.265833]},"type":"Feature","properties":{"hierarchy":["tgn:7484381","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7484381,"name:xx":"Fangshan Yihao Suidao"}}
+{
+  "id": 7484381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484381",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484381,
+    "tgn:name":"Fangshan Yihao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.664167,22.265833],"type":"Point"}
+}

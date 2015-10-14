@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.650000,42.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2706651","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2706651,"name:xx":"Swan Lake Valley"}}
+{
+  "id": 2706651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706651,
+    "tgn:name":"Swan Lake Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.65,42.35],"type":"Point"}
+}

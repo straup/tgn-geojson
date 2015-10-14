@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.733333,47.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7177430","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177430,"name:xx":"Hagenbach"}}
+{
+  "id": 7177430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177430",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177430,
+    "tgn:name":"Hagenbach",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.733333,47.583333],"type":"Point"}
+}

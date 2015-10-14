@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.766667,25.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7376954","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7376954,"name:xx":"La Parida, Arroyo"}}
+{
+  "id": 7376954,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376954",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376954,
+    "tgn:name":"La Parida, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.766667,25.1],"type":"Point"}
+}

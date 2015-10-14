@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.450000,31.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023355","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023355,"name:xx":"South Fork Hay Hollow"}}
+{
+  "id": 7023355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023355",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023355,
+    "tgn:name":"South Fork Hay Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.45,31.9833],"type":"Point"}
+}

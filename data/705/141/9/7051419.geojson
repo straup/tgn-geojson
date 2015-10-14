@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.616667,41.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7051419","tgn:7003135","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051419,"name:xx":"Lacerno, Torrente"}}
+{
+  "id": 7051419,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051419",
+        "tgn:7003135",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051419,
+    "tgn:name":"Lacerno, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.616667,41.733333],"type":"Point"}
+}

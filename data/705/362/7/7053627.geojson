@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.366667,44.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7053627","tgn:7003134","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053627,"name:xx":"Monteduro"}}
+{
+  "id": 7053627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053627",
+        "tgn:7003134",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053627,
+    "tgn:name":"Monteduro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.366667,44.416667],"type":"Point"}
+}

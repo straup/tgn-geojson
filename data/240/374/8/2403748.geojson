@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.366700,42.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2403748","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300006075"],"id":2403748,"name:xx":"Howard Prairie Canal"}}
+{
+  "id": 2403748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403748",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403748,
+    "tgn:name":"Howard Prairie Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3667,42.15],"type":"Point"}
+}

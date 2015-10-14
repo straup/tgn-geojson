@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.233300,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2152136","tgn:1000001","tgn:7012149","tgn:1002920","tgn:7007568","tgn:7029392"],"placetype":["aat:300006191"],"id":2152136,"name:xx":"Baxter Lake"}}
+{
+  "id": 2152136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152136",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002920",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152136,
+    "tgn:name":"Baxter Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.2333,42.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.250000,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2761387","tgn:1000001","tgn:1002601","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008347"],"id":2761387,"name:xx":"West Morris"}}
+{
+  "id": 2761387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761387",
+        "tgn:1000001",
+        "tgn:1002601",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761387,
+    "tgn:name":"West Morris",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.25,41.6833],"type":"Point"}
+}

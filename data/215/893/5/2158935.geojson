@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.900000,37.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2158935","tgn:1000001","tgn:7012149","tgn:2002175","tgn:7007919","tgn:7029392"],"placetype":["aat:300266640"],"id":2158935,"name:xx":"Becknors Ridge"}}
+{
+  "id": 2158935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158935",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002175",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158935,
+    "tgn:name":"Becknors Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.9,37.75],"type":"Point"}
+}

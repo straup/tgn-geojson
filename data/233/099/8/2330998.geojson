@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.666700,39.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2330998","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2330998,"name:xx":"Flat Rock Mesa"}}
+{
+  "id": 2330998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330998",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330998,
+    "tgn:name":"Flat Rock Mesa",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.6667,39.5333],"type":"Point"}
+}

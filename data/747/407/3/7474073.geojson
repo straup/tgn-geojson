@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.568218,23.768229]},"type":"Feature","properties":{"hierarchy":["tgn:7474073","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474073,"name:xx":"Dongxing"}}
+{
+  "id": 7474073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474073",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474073,
+    "tgn:name":"Dongxing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.568218,23.768229],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.400000,52.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7170993","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7170993,"name:xx":"Hengstlage"}}
+{
+  "id": 7170993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170993",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170993,
+    "tgn:name":"Hengstlage",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.4,52.483333],"type":"Point"}
+}

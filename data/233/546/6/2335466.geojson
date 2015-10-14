@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.650000,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2335466","tgn:1000001","tgn:1002359","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008850"],"id":2335466,"name:xx":"Fort Point"}}
+{
+  "id": 2335466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335466",
+        "tgn:1000001",
+        "tgn:1002359",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335466,
+    "tgn:name":"Fort Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.65,42.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.766700,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2254869","tgn:1000001","tgn:7012149","tgn:2000984","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2254869,"name:xx":"Coonskin Creek"}}
+{
+  "id": 2254869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254869",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000984",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254869,
+    "tgn:name":"Coonskin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7667,43.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-51.033300,63.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7024498","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300386846"],"id":7024498,"name:xx":"Nuussuaq"}}
+{
+  "id": 7024498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024498",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024498,
+    "tgn:name":"Nuussuaq",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-51.0333,63.45],"type":"Point"}
+}

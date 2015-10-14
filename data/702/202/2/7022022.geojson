@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.683300,37.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022022","tgn:1000001","tgn:7012149","tgn:1002336","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022022,"name:xx":"Colemans Lake"}}
+{
+  "id": 7022022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022022",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002336",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022022,
+    "tgn:name":"Colemans Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6833,37.1],"type":"Point"}
+}

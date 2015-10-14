@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.200000,33.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2339074","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000063","tgn:7029392"],"placetype":["aat:300132348"],"id":2339074,"name:xx":"Franklin Shoals"}}
+{
+  "id": 2339074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339074",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339074,
+    "tgn:name":"Franklin Shoals",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.2,33.6167],"type":"Point"}
+}

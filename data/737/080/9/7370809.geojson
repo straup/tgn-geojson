@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.366667,16.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7370809","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370809,"name:xx":"Jerusal\u00e9m"}}
+{
+  "id": 7370809,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370809",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370809,
+    "tgn:name":"Jerusal\u00e9m",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.366667,16.166667],"type":"Point"}
+}

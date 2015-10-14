@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.666667,43.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7056295","tgn:1003471","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056295,"name:xx":"Pilocco, Fosso"}}
+{
+  "id": 7056295,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056295",
+        "tgn:1003471",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056295,
+    "tgn:name":"Pilocco, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.666667,43.383333],"type":"Point"}
+}

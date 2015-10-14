@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.916700,35.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2338594","tgn:1000001","tgn:7012149","tgn:2001770","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2338594,"name:xx":"Frances, Lake"}}
+{
+  "id": 2338594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338594",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001770",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338594,
+    "tgn:name":"Frances, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9167,35.0333],"type":"Point"}
+}

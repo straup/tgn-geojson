@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.333300,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2251196","tgn:1000001","tgn:2001638","tgn:7012149","tgn:7007707","tgn:7029392"],"placetype":["aat:300008798"],"id":2251196,"name:xx":"Comanche Hill"}}
+{
+  "id": 2251196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251196",
+        "tgn:1000001",
+        "tgn:2001638",
+        "tgn:7012149",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251196,
+    "tgn:name":"Comanche Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.3333,34.6833],"type":"Point"}
+}

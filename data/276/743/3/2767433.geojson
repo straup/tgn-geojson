@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.450000,36.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2767433","tgn:1000001","tgn:7012149","tgn:2001865","tgn:7007825","tgn:7029392"],"placetype":["aat:300008697"],"id":2767433,"name:xx":"White Sulfur Spring"}}
+{
+  "id": 2767433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001865",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767433,
+    "tgn:name":"White Sulfur Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.45,36.3],"type":"Point"}
+}

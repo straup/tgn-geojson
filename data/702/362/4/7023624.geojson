@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.500000,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7023624","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":7023624,"name:xx":"Oxbow Creek"}}
+{
+  "id": 7023624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023624",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023624,
+    "tgn:name":"Oxbow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.5,45.25],"type":"Point"}
+}

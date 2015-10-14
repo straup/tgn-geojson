@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.500000,15.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7360037","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360037,"name:xx":"Cubilete, Cerro"}}
+{
+  "id": 7360037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360037",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360037,
+    "tgn:name":"Cubilete, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5,15.283333],"type":"Point"}
+}

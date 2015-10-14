@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.829648,50.775110]},"type":"Feature","properties":{"hierarchy":["tgn:7241432","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241432,"name:xx":"L'\u00c9cluse"}}
+{
+  "id": 7241432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241432",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241432,
+    "tgn:name":"L'\u00c9cluse",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.829648,50.77511],"type":"Point"}
+}

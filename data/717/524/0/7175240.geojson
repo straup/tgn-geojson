@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.616667,53.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7175240","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7175240,"name:xx":"Gro\u00dfd\u00f6llner See"}}
+{
+  "id": 7175240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175240",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175240,
+    "tgn:name":"Gro\u00dfd\u00f6llner See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.616667,53.0],"type":"Point"}
+}

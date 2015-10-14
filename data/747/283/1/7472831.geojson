@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.690000,24.932300]},"type":"Feature","properties":{"hierarchy":["tgn:7472831","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472831,"name:xx":"Dunan Qiao"}}
+{
+  "id": 7472831,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472831",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472831,
+    "tgn:name":"Dunan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.69,24.9323],"type":"Point"}
+}

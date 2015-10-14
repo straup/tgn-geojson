@@ -1,0 +1,29 @@
+{
+  "id": 1000160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000160",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000160,
+    "tgn:name:ar":"\u0628\u0646\u0646",
+    "tgn:name:en":"Benin",
+    "tgn:name:es":"B\u00e9nin",
+    "tgn:name:fr":"Benin",
+    "tgn:name:ru":"\u0411\u0435\u043d\u0438\u043d",
+    "tgn:name:zh":"\u8d1d\u5b81",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235096",
+        "aat:300135982"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.25,9.5],"type":"Point"}
+}

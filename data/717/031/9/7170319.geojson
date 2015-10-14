@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.033333,53.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7170319","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7170319,"name:xx":"Hepstedter Weiden"}}
+{
+  "id": 7170319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170319",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170319,
+    "tgn:name":"Hepstedter Weiden",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.033333,53.266667],"type":"Point"}
+}

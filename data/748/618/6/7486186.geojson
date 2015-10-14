@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.760600,24.537700]},"type":"Feature","properties":{"hierarchy":["tgn:7486186","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7486186,"name:xx":"Lankan Shan"}}
+{
+  "id": 7486186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486186",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486186,
+    "tgn:name":"Lankan Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7606,24.5377],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.411389,22.910556]},"type":"Feature","properties":{"hierarchy":["tgn:7473698","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473698,"name:xx":"Yanshuibu"}}
+{
+  "id": 7473698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473698",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473698,
+    "tgn:name":"Yanshuibu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.411389,22.910556],"type":"Point"}
+}

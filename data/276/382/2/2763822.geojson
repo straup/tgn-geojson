@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.683300,35.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2763822","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2763822,"name:xx":"Wheat Swamp Creek"}}
+{
+  "id": 2763822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763822",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763822,
+    "tgn:name":"Wheat Swamp Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6833,35.3667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.033300,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2407387","tgn:1000001","tgn:7012149","tgn:2001394","tgn:7007525","tgn:7029392"],"placetype":["aat:300008697"],"id":2407387,"name:xx":"Huntington Springs"}}
+{
+  "id": 2407387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407387",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001394",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407387,
+    "tgn:name":"Huntington Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0333,41.7],"type":"Point"}
+}

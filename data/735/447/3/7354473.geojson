@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.166667,26.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7354473","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354473,"name:xx":"Arroyo Chapote"}}
+{
+  "id": 7354473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354473",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354473,
+    "tgn:name":"Arroyo Chapote",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.166667,26.25],"type":"Point"}
+}

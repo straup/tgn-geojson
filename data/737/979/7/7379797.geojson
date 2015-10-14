@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.383333,26.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7379797","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379797,"name:xx":"Rancho Martinez"}}
+{
+  "id": 7379797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379797",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379797,
+    "tgn:name":"Rancho Martinez",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.383333,26.116667],"type":"Point"}
+}

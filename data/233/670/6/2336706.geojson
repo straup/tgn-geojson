@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.800000,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2336706","tgn:1000001","tgn:2002367","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2336706,"name:xx":"Four-4 Line Camp Reservoir"}}
+{
+  "id": 2336706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336706",
+        "tgn:1000001",
+        "tgn:2002367",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336706,
+    "tgn:name":"Four-4 Line Camp Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.8,43.8833],"type":"Point"}
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1112376,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1112376",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":1112376,
+    "tgn:name":"Finskij Zaliv",
+    "tgn:name:de":"Finnischer Meerbusen",
+    "tgn:name:en":"Gulf of Finland",
+    "tgn:name:es":"Finlandia, Golfo de",
+    "tgn:name:fi":"Suomen Lahti",
+    "tgn:placetype":[
+        "aat:300132315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[27.0,60.0],"type":"Point"}
+}

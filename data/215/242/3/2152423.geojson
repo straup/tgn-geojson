@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.983300,35.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2152423","tgn:1000001","tgn:7012149","tgn:2001488","tgn:7007709","tgn:7029392"],"placetype":["aat:300008850"],"id":2152423,"name:xx":"Bay Point"}}
+{
+  "id": 2152423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001488",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152423,
+    "tgn:name":"Bay Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9833,35.85],"type":"Point"}
+}

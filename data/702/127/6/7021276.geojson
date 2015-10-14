@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-81.716700,36.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7021276","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7021276,"name:xx":"Stone Mountain"}}
+{
+  "id": 7021276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021276",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021276,
+    "tgn:name":"Stone Mountain",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7167,36.4333],"type":"Point"}
+}

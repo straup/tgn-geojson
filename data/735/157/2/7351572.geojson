@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.900000,30.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7351572","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351572,"name:xx":"Bandera, Cerro de la"}}
+{
+  "id": 7351572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351572",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351572,
+    "tgn:name":"Bandera, Cerro de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9,30.233333],"type":"Point"}
+}

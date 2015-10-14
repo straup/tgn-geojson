@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.150000,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2769704","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000039","tgn:7029392"],"placetype":["aat:300008761"],"id":2769704,"name:xx":"Wiggins Hollow"}}
+{
+  "id": 2769704,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769704",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000039",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769704,
+    "tgn:name":"Wiggins Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.15,34.3333],"type":"Point"}
+}

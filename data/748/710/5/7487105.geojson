@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.943463,24.503573]},"type":"Feature","properties":{"hierarchy":["tgn:7487105","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7487105,"name:xx":"Baguali Shan"}}
+{
+  "id": 7487105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487105",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487105,
+    "tgn:name":"Baguali Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.943463,24.503573],"type":"Point"}
+}

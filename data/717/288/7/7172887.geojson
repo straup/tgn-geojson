@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.083333,50.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7172887","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172887,"name:xx":"Grenzhof"}}
+{
+  "id": 7172887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172887",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172887,
+    "tgn:name":"Grenzhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.083333,50.716667],"type":"Point"}
+}

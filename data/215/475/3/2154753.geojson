@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.116700,44.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2154753","tgn:1000001","tgn:7012149","tgn:2002381","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2154753,"name:xx":"Bear Gulch"}}
+{
+  "id": 2154753,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154753",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002381",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154753,
+    "tgn:name":"Bear Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1167,44.6333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.450000,16.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7371277","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371277,"name:xx":"Ibarra"}}
+{
+  "id": 7371277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371277",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371277,
+    "tgn:name":"Ibarra",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.45,16.6],"type":"Point"}
+}

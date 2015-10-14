@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-74.633300,45.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7023021","tgn:1000001","tgn:7029392"],"placetype":["aat:300008707"],"id":7023021,"name:xx":"Saint Regis River"}}
+{
+  "id": 7023021,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023021",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023021,
+    "tgn:name":"Saint Regis River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.6333,45.0],"type":"Point"}
+}

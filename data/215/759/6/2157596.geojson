@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.050000,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2157596","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000023","tgn:7029392"],"placetype":["aat:300008699"],"id":2157596,"name:xx":"Beaver Dam Branch"}}
+{
+  "id": 2157596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157596",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000023",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157596,
+    "tgn:name":"Beaver Dam Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.05,32.4],"type":"Point"}
+}

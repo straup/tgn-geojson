@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.750000,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2762530","tgn:1000001","tgn:1002724","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300011692"],"id":2762530,"name:xx":"West Willies"}}
+{
+  "id": 2762530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762530",
+        "tgn:1000001",
+        "tgn:1002724",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762530,
+    "tgn:name":"West Willies",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.75,42.25],"type":"Point"}
+}

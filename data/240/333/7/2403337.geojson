@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.250000,36.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2403337","tgn:1000001","tgn:7016172","tgn:2000115","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2403337,"name:xx":"Housman Creek"}}
+{
+  "id": 2403337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403337",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000115",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403337,
+    "tgn:name":"Housman Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.25,36.3833],"type":"Point"}
+}

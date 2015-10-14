@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.200000,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7052721","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7052721,"name:xx":"Montillo, Serra"}}
+{
+  "id": 7052721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052721",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052721,
+    "tgn:name":"Montillo, Serra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.2,41.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.866667,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7246884","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7246884,"name:xx":"Doormansbeek"}}
+{
+  "id": 7246884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246884",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246884,
+    "tgn:name":"Doormansbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.866667,50.883333],"type":"Point"}
+}

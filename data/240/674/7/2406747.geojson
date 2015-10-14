@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.200000,42.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2406747","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2406747,"name:xx":"Hunt Pond"}}
+{
+  "id": 2406747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406747",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406747,
+    "tgn:name":"Hunt Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2,42.9333],"type":"Point"}
+}

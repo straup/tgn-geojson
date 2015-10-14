@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.416700,32.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2764641","tgn:1000001","tgn:7012149","tgn:2000415","tgn:7007248","tgn:7029392"],"placetype":["aat:300008850"],"id":2764641,"name:xx":"Whirligig Point"}}
+{
+  "id": 2764641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000415",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764641,
+    "tgn:name":"Whirligig Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4167,32.7833],"type":"Point"}
+}

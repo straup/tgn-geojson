@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.150000,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7111510","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7111510,"name:xx":"Ro\u00dfschenkels"}}
+{
+  "id": 7111510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111510",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111510,
+    "tgn:name":"Ro\u00dfschenkels",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.15,47.85],"type":"Point"}
+}

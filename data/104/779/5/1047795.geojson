@@ -1,0 +1,27 @@
+{
+  "id": 1047795,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0c672-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755434",
+        "gp:id":729457,
+        "qs:id":8,
+        "wof:id":101808515
+    },
+    "tgn:hierarchy":[
+        "tgn:1047795",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047795,
+    "tgn:name:nl":"Gorinchem",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.966667,51.833333],"type":"Point"}
+}

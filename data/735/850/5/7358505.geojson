@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.283333,22.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7358505","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358505,"name:xx":"Derramaderos"}}
+{
+  "id": 7358505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358505",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358505,
+    "tgn:name":"Derramaderos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.283333,22.5],"type":"Point"}
+}

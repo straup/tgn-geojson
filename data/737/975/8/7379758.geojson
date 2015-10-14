@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.795000,24.358333]},"type":"Feature","properties":{"hierarchy":["tgn:7379758","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379758,"name:xx":"Milpillas"}}
+{
+  "id": 7379758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379758",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379758,
+    "tgn:name":"Milpillas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.795,24.358333],"type":"Point"}
+}

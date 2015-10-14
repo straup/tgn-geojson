@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.516700,35.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2158547","tgn:1000001","tgn:7012149","tgn:2001548","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2158547,"name:xx":"Beaverdam Lake"}}
+{
+  "id": 2158547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158547",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001548",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158547,
+    "tgn:name":"Beaverdam Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.5167,35.8],"type":"Point"}
+}

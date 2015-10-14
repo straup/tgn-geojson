@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.333300,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2408295","tgn:1002153","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2408295,"name:xx":"Huskins Run"}}
+{
+  "id": 2408295,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408295",
+        "tgn:1002153",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408295,
+    "tgn:name":"Huskins Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3333,40.75],"type":"Point"}
+}

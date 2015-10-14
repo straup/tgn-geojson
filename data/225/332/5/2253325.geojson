@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.050000,42.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2253325","tgn:1000001","tgn:7012149","tgn:1002603","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2253325,"name:xx":"Conway Cohoctah Union Drain"}}
+{
+  "id": 2253325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002603",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253325,
+    "tgn:name":"Conway Cohoctah Union Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.05,42.75],"type":"Point"}
+}

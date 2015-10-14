@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.950000,38.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2156823","tgn:1000001","tgn:7012149","tgn:1002938","tgn:7007252","tgn:7029392"],"placetype":["aat:300266640"],"id":2156823,"name:xx":"Beatty Ridge"}}
+{
+  "id": 2156823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156823",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002938",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156823,
+    "tgn:name":"Beatty Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.95,38.8],"type":"Point"}
+}

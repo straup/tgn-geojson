@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.800000,50.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7248681","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248681,"name:xx":"Blauwe Schuur"}}
+{
+  "id": 7248681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248681",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248681,
+    "tgn:name":"Blauwe Schuur",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.8,50.816667],"type":"Point"}
+}

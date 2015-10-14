@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.633300,35.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2259533","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300132316"],"id":2259533,"name:xx":"Cottonwood Valley Cove"}}
+{
+  "id": 2259533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259533",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259533,
+    "tgn:name":"Cottonwood Valley Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6333,35.4667],"type":"Point"}
+}

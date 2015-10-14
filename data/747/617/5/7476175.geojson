@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.749603,23.812070]},"type":"Feature","properties":{"hierarchy":["tgn:7476175","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476175,"name:xx":"Shanzijiao"}}
+{
+  "id": 7476175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476175",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476175,
+    "tgn:name":"Shanzijiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.749603,23.81207],"type":"Point"}
+}

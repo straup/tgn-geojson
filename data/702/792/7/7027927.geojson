@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.666667,52.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7027927","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Hougham","id":7027927}}
+{
+  "id": 7027927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027927",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027927,
+    "tgn:name:en":"Hougham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.666667,52.983333],"type":"Point"}
+}

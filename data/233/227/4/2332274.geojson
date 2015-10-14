@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.700000,43.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2332274","tgn:1000001","tgn:7012149","tgn:1002440","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2332274,"name:xx":"Floe, The"}}
+{
+  "id": 2332274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332274",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002440",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332274,
+    "tgn:name":"Floe, The",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7,43.3833],"type":"Point"}
+}

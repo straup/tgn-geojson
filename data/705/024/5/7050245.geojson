@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.350000,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7050245","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7050245,"name:xx":"Pietra Spada, Passo di"}}
+{
+  "id": 7050245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050245",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050245,
+    "tgn:name":"Pietra Spada, Passo di",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.35,38.5],"type":"Point"}
+}

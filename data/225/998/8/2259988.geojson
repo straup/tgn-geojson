@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.016700,40.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2259988","tgn:1000001","tgn:7012149","tgn:1002612","tgn:7007710","tgn:7029392"],"placetype":["aat:300266640"],"id":2259988,"name:xx":"Council Crest"}}
+{
+  "id": 2259988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259988",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002612",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259988,
+    "tgn:name":"Council Crest",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0167,40.9833],"type":"Point"}
+}

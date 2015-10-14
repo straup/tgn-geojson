@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.583333,48.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7175306","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7175306,"name:xx":"Grilla Bach"}}
+{
+  "id": 7175306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175306",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175306,
+    "tgn:name":"Grilla Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.583333,48.75],"type":"Point"}
+}

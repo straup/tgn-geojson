@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.933333,22.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7365213","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007836"],"id":7365213,"name:xx":"Puente Empalme Tam\u00f3s"}}
+{
+  "id": 7365213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365213",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365213,
+    "tgn:name":"Puente Empalme Tam\u00f3s",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.933333,22.2],"type":"Point"}
+}

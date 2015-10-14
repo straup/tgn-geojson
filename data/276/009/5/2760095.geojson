@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.800000,45.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2760095","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760095,"name:xx":"West Fork Peasley Creek"}}
+{
+  "id": 2760095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760095",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760095,
+    "tgn:name":"West Fork Peasley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8,45.9],"type":"Point"}
+}

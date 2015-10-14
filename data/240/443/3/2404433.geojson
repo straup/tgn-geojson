@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.950000,32.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2404433","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2404433,"name:xx":"Hubbard Creek Lake"}}
+{
+  "id": 2404433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404433,
+    "tgn:name":"Hubbard Creek Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.95,32.8167],"type":"Point"}
+}

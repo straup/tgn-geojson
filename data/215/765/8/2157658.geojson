@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.400000,46.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2157658","tgn:1000001","tgn:7012149","tgn:2001289","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2157658,"name:xx":"Beaver Dam Gulch"}}
+{
+  "id": 2157658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157658",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001289",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157658,
+    "tgn:name":"Beaver Dam Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4,46.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.520500,23.992200]},"type":"Feature","properties":{"hierarchy":["tgn:7477803","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7477803,"name:xx":"Shanba"}}
+{
+  "id": 7477803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477803",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477803,
+    "tgn:name":"Shanba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5205,23.9922],"type":"Point"}
+}

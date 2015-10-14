@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.500000,19.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7379956","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7379956,"name:xx":"Mata Agua"}}
+{
+  "id": 7379956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379956",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379956,
+    "tgn:name":"Mata Agua",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.5,19.033333],"type":"Point"}
+}

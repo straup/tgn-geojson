@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.366700,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023656","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7023656,"name:xx":"Penson Knob"}}
+{
+  "id": 7023656,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023656",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023656,
+    "tgn:name":"Penson Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3667,34.9833],"type":"Point"}
+}

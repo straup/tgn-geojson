@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.472600,23.823300]},"type":"Feature","properties":{"hierarchy":["tgn:7472294","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7472294,"name:xx":"Shuiwei Tifang"}}
+{
+  "id": 7472294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472294",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472294,
+    "tgn:name":"Shuiwei Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4726,23.8233],"type":"Point"}
+}

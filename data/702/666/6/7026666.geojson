@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.500000,51.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7026666","tgn:7002445","tgn:1000003","tgn:7019020","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026666,"name:xx":"Itchington"}}
+{
+  "id": 7026666,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026666",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019020",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026666,
+    "tgn:name":"Itchington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.5,51.5833],"type":"Point"}
+}

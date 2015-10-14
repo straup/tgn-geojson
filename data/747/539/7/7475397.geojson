@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.520833,22.410833]},"type":"Feature","properties":{"hierarchy":["tgn:7475397","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475397,"name:xx":"Wenzi"}}
+{
+  "id": 7475397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475397",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475397,
+    "tgn:name":"Wenzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.520833,22.410833],"type":"Point"}
+}

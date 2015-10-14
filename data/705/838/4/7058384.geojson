@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.650000,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7058384","tgn:7005126","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300006909"],"id":7058384,"name:xx":"Forte Bormida"}}
+{
+  "id": 7058384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058384",
+        "tgn:7005126",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058384,
+    "tgn:name":"Forte Bormida",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.65,44.9],"type":"Point"}
+}

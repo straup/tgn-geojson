@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-160.500000,56.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2339175","tgn:7030515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2339175,"name:xx":"Franks Lagoon"}}
+{
+  "id": 2339175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339175",
+        "tgn:7030515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339175,
+    "tgn:name":"Franks Lagoon",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-160.5,56.05],"type":"Point"}
+}

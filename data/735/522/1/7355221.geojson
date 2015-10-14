@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.850000,26.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7355221","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355221,"name:xx":"Cantera, Cerro"}}
+{
+  "id": 7355221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355221",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355221,
+    "tgn:name":"Cantera, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.85,26.166667],"type":"Point"}
+}

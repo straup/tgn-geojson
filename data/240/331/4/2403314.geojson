@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.683300,48.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2403314","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2403314,"name:xx":"Houser Peak"}}
+{
+  "id": 2403314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403314",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403314,
+    "tgn:name":"Houser Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.6833,48.25],"type":"Point"}
+}

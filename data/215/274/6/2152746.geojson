@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.850000,30.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2152746","tgn:1000001","tgn:7012149","tgn:2000905","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2152746,"name:xx":"Bayou Paquet Estates"}}
+{
+  "id": 2152746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152746",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000905",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152746,
+    "tgn:name":"Bayou Paquet Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.85,30.2833],"type":"Point"}
+}

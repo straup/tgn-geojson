@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.066667,16.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7354310","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354310,"name:xx":"Chapahuana"}}
+{
+  "id": 7354310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354310",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354310,
+    "tgn:name":"Chapahuana",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.066667,16.333333],"type":"Point"}
+}

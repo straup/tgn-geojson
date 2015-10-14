@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.658719,22.527667]},"type":"Feature","properties":{"hierarchy":["tgn:7486081","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486081,"name:xx":"Laishe Xi"}}
+{
+  "id": 7486081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486081",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486081,
+    "tgn:name":"Laishe Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.658719,22.527667],"type":"Point"}
+}

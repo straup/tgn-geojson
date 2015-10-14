@@ -1,0 +1,25 @@
+{
+  "id": 7002575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002575",
+        "tgn:7000188",
+        "tgn:1000004",
+        "tgn:1000105",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002575,
+    "tgn:name":"Chittagong",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[91.8333,22.3333],"type":"Point"}
+}

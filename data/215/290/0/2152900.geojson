@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.866700,41.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2152900","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2152900,"name:xx":"Beach Brook"}}
+{
+  "id": 2152900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152900",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152900,
+    "tgn:name":"Beach Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8667,41.9333],"type":"Point"}
+}

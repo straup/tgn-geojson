@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.950000,53.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7117829","tgn:1000003","tgn:7003673","tgn:7000084","tgn:7029392"],"placetype":["aat:300008678"],"id":7117829,"name:xx":"Oderhafen"}}
+{
+  "id": 7117829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117829",
+        "tgn:1000003",
+        "tgn:7003673",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117829,
+    "tgn:name":"Oderhafen",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.95,53.516667],"type":"Point"}
+}

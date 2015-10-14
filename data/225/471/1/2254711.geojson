@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.383300,31.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2254711","tgn:2000295","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2254711,"name:xx":"Coon Pond"}}
+{
+  "id": 2254711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254711",
+        "tgn:2000295",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254711,
+    "tgn:name":"Coon Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3833,31.35],"type":"Point"}
+}

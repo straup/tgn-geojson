@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.433333,51.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7027218","tgn:7002445","tgn:1000003","tgn:7008145","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Flamstead","id":7027218}}
+{
+  "id": 7027218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027218",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008145",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027218,
+    "tgn:name:en":"Flamstead",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.433333,51.816667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-70.900000,42.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2406727","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300011692"],"id":2406727,"name:xx":"Hunt Ledge"}}
+{
+  "id": 2406727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406727",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406727,
+    "tgn:name":"Hunt Ledge",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.9,42.3],"type":"Point"}
+}

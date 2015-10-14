@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.800000,52.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7027097","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027097,"name:xx":"Monkland"}}
+{
+  "id": 7027097,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027097",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027097,
+    "tgn:name":"Monkland",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.8,52.2167],"type":"Point"}
+}

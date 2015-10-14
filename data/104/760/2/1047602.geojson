@@ -1,0 +1,27 @@
+{
+  "id": 1047602,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0285c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759931",
+        "gp:id":727117,
+        "qs:id":6,
+        "wof:id":101807327
+    },
+    "tgn:hierarchy":[
+        "tgn:1047602",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047602,
+    "tgn:name:nl":"Akersloot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.733333,52.566667],"type":"Point"}
+}

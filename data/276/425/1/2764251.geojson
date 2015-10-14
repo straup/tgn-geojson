@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.833300,45.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2764251","tgn:1000001","tgn:7012149","tgn:1002554","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2764251,"name:xx":"Wheelhouse Pond"}}
+{
+  "id": 2764251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764251",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002554",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764251,
+    "tgn:name":"Wheelhouse Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8333,45.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-79.883300,41.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2762068","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2762068,"name:xx":"West Shreve Run"}}
+{
+  "id": 2762068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762068",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762068,
+    "tgn:name":"West Shreve Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8833,41.85],"type":"Point"}
+}

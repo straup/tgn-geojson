@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.283300,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2151814","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2151814,"name:xx":"Battle Spring Number Two"}}
+{
+  "id": 2151814,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151814",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151814,
+    "tgn:name":"Battle Spring Number Two",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.2833,40.25],"type":"Point"}
+}

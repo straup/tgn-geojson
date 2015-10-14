@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.966667,20.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7376932","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7376932,"name:xx":"La Partida"}}
+{
+  "id": 7376932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376932",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376932,
+    "tgn:name":"La Partida",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.966667,20.616667],"type":"Point"}
+}

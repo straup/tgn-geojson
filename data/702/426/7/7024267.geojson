@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-3.000000,48.000000]},"type":"Feature","properties":{"name:en":"Brittany","hierarchy":["tgn:7024267","tgn:1000003","tgn:7029392"],"name:br":"Breiz","placetype":["aat:300387178","aat:300310709","aat:300387137","aat:300000774"],"name:fr":"Bretagne","name:la":"Britannia minor","id":7024267}}
+{
+  "id": 7024267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024267",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024267,
+    "tgn:name:br":"Breiz",
+    "tgn:name:en":"Brittany",
+    "tgn:name:fr":"Bretagne",
+    "tgn:name:la":"Britannia minor",
+    "tgn:placetype":[
+        "aat:300387178",
+        "aat:300310709",
+        "aat:300387137",
+        "aat:300000774"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.0,48.0],"type":"Point"}
+}

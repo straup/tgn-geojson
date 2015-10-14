@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.483300,35.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2330458","tgn:1000001","tgn:7012149","tgn:2001526","tgn:7007709","tgn:7029392"],"placetype":["aat:300132316"],"id":2330458,"name:xx":"Flat Cove"}}
+{
+  "id": 2330458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330458",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001526",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330458,
+    "tgn:name":"Flat Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4833,35.2833],"type":"Point"}
+}

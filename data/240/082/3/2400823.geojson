@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.716700,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2400823","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2400823,"name:xx":"Horse Ranch Creek"}}
+{
+  "id": 2400823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400823",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400823,
+    "tgn:name":"Horse Ranch Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7167,43.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.583300,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2153297","tgn:1000001","tgn:7012149","tgn:2000926","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2153297,"name:xx":"Bean Brook"}}
+{
+  "id": 2153297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153297",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000926",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153297,
+    "tgn:name":"Bean Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.5833,44.55],"type":"Point"}
+}

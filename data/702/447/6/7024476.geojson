@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-54.816700,69.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7024476","tgn:7593552","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300132316"],"id":7024476,"name:xx":"Nordre Laksebugt"}}
+{
+  "id": 7024476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024476",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024476,
+    "tgn:name":"Nordre Laksebugt",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-54.8167,69.6333],"type":"Point"}
+}

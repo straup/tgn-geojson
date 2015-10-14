@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-78.716700,34.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7022472","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7022472,"name:xx":"Camp Swamp"}}
+{
+  "id": 7022472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022472",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022472,
+    "tgn:name":"Camp Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7167,34.05],"type":"Point"}
+}

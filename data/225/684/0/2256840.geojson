@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.566700,48.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2256840","tgn:1000001","tgn:7012149","tgn:2000969","tgn:7007520","tgn:7029392"],"placetype":["aat:300008791"],"id":2256840,"name:xx":"Cork Island"}}
+{
+  "id": 2256840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256840",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000969",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256840,
+    "tgn:name":"Cork Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5667,48.15],"type":"Point"}
+}

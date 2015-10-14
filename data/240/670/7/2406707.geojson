@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-162.233300,54.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2406707","tgn:7030515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":2406707,"name:xx":"Hunt Island"}}
+{
+  "id": 2406707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406707",
+        "tgn:7030515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406707,
+    "tgn:name":"Hunt Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-162.2333,54.75],"type":"Point"}
+}

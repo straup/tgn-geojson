@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-75.383300,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2768962","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":2768962,"name:xx":"Whiton Ditch"}}
+{
+  "id": 2768962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768962",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768962,
+    "tgn:name":"Whiton Ditch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3833,38.2833],"type":"Point"}
+}

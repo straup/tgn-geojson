@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,43.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7056894","tgn:1003483","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056894,"name:xx":"Bellisio di Sopra"}}
+{
+  "id": 7056894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056894",
+        "tgn:1003483",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056894,
+    "tgn:name":"Bellisio di Sopra",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,43.533333],"type":"Point"}
+}

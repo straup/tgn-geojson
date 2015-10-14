@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.616700,33.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2336253","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000062","tgn:7029392"],"placetype":["aat:300132348"],"id":2336253,"name:xx":"Fosters Bar"}}
+{
+  "id": 2336253,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336253",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000062",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336253,
+    "tgn:name":"Fosters Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6167,33.0333],"type":"Point"}
+}

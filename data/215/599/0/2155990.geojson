@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.383300,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2155990","tgn:1000001","tgn:7012149","tgn:2001713","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2155990,"name:xx":"Bear Wallow Creek"}}
+{
+  "id": 2155990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155990",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001713",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155990,
+    "tgn:name":"Bear Wallow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.3833,42.1833],"type":"Point"}
+}

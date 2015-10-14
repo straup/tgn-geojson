@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.767619,25.142229]},"type":"Feature","properties":{"hierarchy":["tgn:7482221","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7482221,"name:xx":"Zhongzheng Qu"}}
+{
+  "id": 7482221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482221",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482221,
+    "tgn:name":"Zhongzheng Qu",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.767619,25.142229],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[15.500000,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7052211","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198","aat:300265612"],"id":7052211,"name:xx":"Isole Tremiti"}}
+{
+  "id": 7052211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052211",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052211,
+    "tgn:name":"Isole Tremiti",
+    "tgn:placetype":[
+        "aat:300387198",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.5,42.1],"type":"Point"}
+}

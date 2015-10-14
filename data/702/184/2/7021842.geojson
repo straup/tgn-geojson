@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.533300,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7021842","tgn:1002158","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021842,"name:xx":"Vandalia Lake"}}
+{
+  "id": 7021842,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021842",
+        "tgn:1002158",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021842,
+    "tgn:name":"Vandalia Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.5333,39.2333],"type":"Point"}
+}

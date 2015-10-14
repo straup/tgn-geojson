@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.350000,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2250133","tgn:1000001","tgn:7012149","tgn:1002396","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2250133,"name:xx":"Collins Ditch Arm Number Three"}}
+{
+  "id": 2250133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250133",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002396",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250133,
+    "tgn:name":"Collins Ditch Arm Number Three",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.35,41.05],"type":"Point"}
+}

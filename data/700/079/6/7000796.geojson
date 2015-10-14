@@ -1,0 +1,27 @@
+{
+  "id": 7000796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000796",
+        "tgn:7000790",
+        "tgn:7001242",
+        "tgn:1000167",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000796,
+    "tgn:name":"Conakry",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387298",
+        "aat:300387219",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-13.7167,9.5167],"type":"Point"}
+}

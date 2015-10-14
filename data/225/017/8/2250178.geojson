@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.783300,34.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2250178","tgn:1000001","tgn:7012149","tgn:2000401","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2250178,"name:xx":"Collins Lake"}}
+{
+  "id": 2250178,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000401",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250178,
+    "tgn:name":"Collins Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7833,34.0667],"type":"Point"}
+}

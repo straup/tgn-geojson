@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.416667,29.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7361708","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361708,"name:xx":"Rancho El Campo de G\u00f3mez"}}
+{
+  "id": 7361708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361708",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361708,
+    "tgn:name":"Rancho El Campo de G\u00f3mez",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.416667,29.3],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7005802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005802",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005802,
+    "tgn:name:de":"Neuschottland",
+    "tgn:name:es":"Nueva Escocia",
+    "tgn:name:fr":"Nouvelle \u00c9cosse",
+    "tgn:name:la":"Nova Scotia",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300000774",
+        "aat:300008804"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-63.0,45.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.033300,36.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2761921","tgn:1000001","tgn:7012149","tgn:2001970","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2761921,"name:xx":"West Rita Blanca Creek"}}
+{
+  "id": 2761921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761921",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001970",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761921,
+    "tgn:name":"West Rita Blanca Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0333,36.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.816700,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2158172","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000167","tgn:7029392"],"placetype":["aat:300008798"],"id":2158172,"name:xx":"Beaver Pond Mountain"}}
+{
+  "id": 2158172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158172",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000167",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158172,
+    "tgn:name":"Beaver Pond Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.8167,34.8],"type":"Point"}
+}

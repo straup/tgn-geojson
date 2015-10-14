@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.750000,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2402986","tgn:1000001","tgn:7013942","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2402986,"name:xx":"Houghton Brook"}}
+{
+  "id": 2402986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402986",
+        "tgn:1000001",
+        "tgn:7013942",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402986,
+    "tgn:name":"Houghton Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.75,42.6333],"type":"Point"}
+}

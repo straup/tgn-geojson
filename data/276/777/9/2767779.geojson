@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.600000,31.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2767779","tgn:1000001","tgn:7006451","tgn:2000091","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":2767779,"name:xx":"Whitehead Ridge"}}
+{
+  "id": 2767779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767779",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000091",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767779,
+    "tgn:name":"Whitehead Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.6,31.75],"type":"Point"}
+}

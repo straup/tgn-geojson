@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.383300,33.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2408811","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2408811,"name:xx":"Hyder Valley"}}
+{
+  "id": 2408811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408811",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408811,
+    "tgn:name":"Hyder Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3833,33.15],"type":"Point"}
+}

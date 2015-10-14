@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.516700,44.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2700285","tgn:1000001","tgn:2001816","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300006191"],"id":2700285,"name:xx":"Sturgis Reservoirs"}}
+{
+  "id": 2700285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700285",
+        "tgn:1000001",
+        "tgn:2001816",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700285,
+    "tgn:name":"Sturgis Reservoirs",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.5167,44.35],"type":"Point"}
+}

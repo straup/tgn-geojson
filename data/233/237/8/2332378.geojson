@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.233300,46.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2332378","tgn:1000001","tgn:2001012","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2332378,"name:xx":"Flora Lake"}}
+{
+  "id": 2332378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332378",
+        "tgn:1000001",
+        "tgn:2001012",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332378,
+    "tgn:name":"Flora Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.2333,46.9667],"type":"Point"}
+}

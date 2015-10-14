@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.200000,20.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7358776","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358776,"name:xx":"El Aguacate"}}
+{
+  "id": 7358776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358776",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358776,
+    "tgn:name":"El Aguacate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.2,20.7],"type":"Point"}
+}

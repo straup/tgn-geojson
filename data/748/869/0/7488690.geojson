@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.223611,23.171944]},"type":"Feature","properties":{"hierarchy":["tgn:7488690","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7488690,"name:xx":"Guijian Shan"}}
+{
+  "id": 7488690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488690",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488690,
+    "tgn:name":"Guijian Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.223611,23.171944],"type":"Point"}
+}

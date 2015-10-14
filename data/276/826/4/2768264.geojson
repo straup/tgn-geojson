@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.150000,46.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2768264","tgn:1000001","tgn:7012149","tgn:1003042","tgn:7007920","tgn:7029392"],"placetype":["aat:300386845"],"id":2768264,"name:xx":"Whites Pocket"}}
+{
+  "id": 2768264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768264",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003042",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768264,
+    "tgn:name":"Whites Pocket",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.15,46.5],"type":"Point"}
+}

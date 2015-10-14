@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.050000,25.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7364975","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364975,"name:xx":"Rancho El Quemado"}}
+{
+  "id": 7364975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364975",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364975,
+    "tgn:name":"Rancho El Quemado",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.05,25.133333],"type":"Point"}
+}

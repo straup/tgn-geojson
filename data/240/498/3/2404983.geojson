@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.300000,31.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2404983","tgn:1000001","tgn:7012149","tgn:1002830","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2404983,"name:xx":"Hudson Branch"}}
+{
+  "id": 2404983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404983",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002830",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404983,
+    "tgn:name":"Hudson Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.3,31.0],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-87.516700,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7022469","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008678"],"id":7022469,"name:xx":"Calumet Harbor"}}
+{
+  "id": 7022469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022469",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022469,
+    "tgn:name":"Calumet Harbor",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.5167,41.7333],"type":"Point"}
+}

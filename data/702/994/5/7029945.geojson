@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-70.000000,18.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7029945","tgn:7014206","tgn:7029392"],"placetype":["aat:300055621"],"id":7029945,"name:xx":"Bermuda Triangle"}}
+{
+  "id": 7029945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029945",
+        "tgn:7014206",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029945,
+    "tgn:name":"Bermuda Triangle",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.0,18.0],"type":"Point"}
+}

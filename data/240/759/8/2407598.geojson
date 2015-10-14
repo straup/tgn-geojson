@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.300000,46.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2407598","tgn:1000001","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2407598,"name:xx":"Hurd Creek"}}
+{
+  "id": 2407598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407598",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407598,
+    "tgn:name":"Hurd Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3,46.1833],"type":"Point"}
+}

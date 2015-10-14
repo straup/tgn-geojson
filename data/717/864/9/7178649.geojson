@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.950000,53.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7178649","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7178649,"name:xx":"Hammerich"}}
+{
+  "id": 7178649,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178649",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178649,
+    "tgn:name":"Hammerich",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.95,53.5],"type":"Point"}
+}

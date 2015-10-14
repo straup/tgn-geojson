@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.818083,24.731941]},"type":"Feature","properties":{"hierarchy":["tgn:7478942","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478942,"name:xx":"Nanyan Si"}}
+{
+  "id": 7478942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478942",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478942,
+    "tgn:name":"Nanyan Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.818083,24.731941],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-111.016700,36.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2763395","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2763395,"name:xx":"Wetherill Canyon"}}
+{
+  "id": 2763395,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763395",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763395,
+    "tgn:name":"Wetherill Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0167,36.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.950000,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2763260","tgn:1000001","tgn:7012149","tgn:1002368","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2763260,"name:xx":"Wet And Dry Branch"}}
+{
+  "id": 2763260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763260",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002368",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763260,
+    "tgn:name":"Wet And Dry Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.95,38.75],"type":"Point"}
+}

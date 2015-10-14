@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.966667,48.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7175243","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7175243,"name:xx":"Gro\u00dfer Dobel"}}
+{
+  "id": 7175243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175243",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175243,
+    "tgn:name":"Gro\u00dfer Dobel",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.966667,48.033333],"type":"Point"}
+}

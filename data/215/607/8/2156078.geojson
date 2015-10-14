@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.833300,41.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2156078","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008798"],"id":2156078,"name:xx":"Bearcat Mountain"}}
+{
+  "id": 2156078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156078",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156078,
+    "tgn:name":"Bearcat Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8333,41.7833],"type":"Point"}
+}

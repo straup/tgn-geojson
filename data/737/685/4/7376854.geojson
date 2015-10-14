@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.550000,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7376854","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376854,"name:xx":"La Papa"}}
+{
+  "id": 7376854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376854",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376854,
+    "tgn:name":"La Papa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.55,25.966667],"type":"Point"}
+}

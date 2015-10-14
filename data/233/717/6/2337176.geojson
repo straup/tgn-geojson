@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.900000,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2337176","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2337176,"name:xx":"Fourth Bottom Hollow"}}
+{
+  "id": 2337176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337176",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337176,
+    "tgn:name":"Fourth Bottom Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9,41.4833],"type":"Point"}
+}

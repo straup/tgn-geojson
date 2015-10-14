@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.226944,23.612500]},"type":"Feature","properties":{"hierarchy":["tgn:7485986","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485986,"name:xx":"Xiaocuo"}}
+{
+  "id": 7485986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485986",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485986,
+    "tgn:name":"Xiaocuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.226944,23.6125],"type":"Point"}
+}

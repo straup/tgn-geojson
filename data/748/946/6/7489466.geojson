@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.251111,24.996944]},"type":"Feature","properties":{"hierarchy":["tgn:7489466","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489466,"name:xx":"Neiding Li"}}
+{
+  "id": 7489466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489466",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489466,
+    "tgn:name":"Neiding Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.251111,24.996944],"type":"Point"}
+}

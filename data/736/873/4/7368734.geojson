@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.711111,24.653333]},"type":"Feature","properties":{"hierarchy":["tgn:7368734","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368734,"name:xx":"Higueras de Achota"}}
+{
+  "id": 7368734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368734",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368734,
+    "tgn:name":"Higueras de Achota",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.711111,24.653333],"type":"Point"}
+}

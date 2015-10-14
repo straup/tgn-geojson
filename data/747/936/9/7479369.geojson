@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.466572,23.141595]},"type":"Feature","properties":{"hierarchy":["tgn:7479369","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7479369,"name:xx":"Zhongzheng Qiao"}}
+{
+  "id": 7479369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479369",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479369,
+    "tgn:name":"Zhongzheng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.466572,23.141595],"type":"Point"}
+}

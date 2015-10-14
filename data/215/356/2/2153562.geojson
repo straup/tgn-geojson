@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.383300,31.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2153562","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2153562,"name:xx":"Bear Belly Strand"}}
+{
+  "id": 2153562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153562",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153562,
+    "tgn:name":"Bear Belly Strand",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3833,31.0167],"type":"Point"}
+}

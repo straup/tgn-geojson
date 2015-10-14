@@ -1,0 +1,23 @@
+{
+  "id": 1024301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1024301",
+        "tgn:7002636",
+        "tgn:1000730",
+        "tgn:1000002",
+        "tgn:1000055",
+        "tgn:7029392"
+    ],
+    "tgn:id":1024301,
+    "tgn:name":"Pozo Colorado",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-58.9667,-23.4667],"type":"Point"}
+}

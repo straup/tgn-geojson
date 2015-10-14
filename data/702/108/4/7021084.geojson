@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.816700,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7021084","tgn:1000001","tgn:2002262","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021084,"name:xx":"Turkey Run"}}
+{
+  "id": 7021084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021084",
+        "tgn:1000001",
+        "tgn:2002262",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021084,
+    "tgn:name":"Turkey Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8167,38.9333],"type":"Point"}
+}

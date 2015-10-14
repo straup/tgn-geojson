@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.700000,25.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7360854","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360854,"name:xx":"Cordoncitos"}}
+{
+  "id": 7360854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360854",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360854,
+    "tgn:name":"Cordoncitos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.7,25.05],"type":"Point"}
+}

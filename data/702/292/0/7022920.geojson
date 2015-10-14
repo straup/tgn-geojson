@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.483300,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7022920","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":7022920,"name:xx":"Rye Coulee"}}
+{
+  "id": 7022920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022920",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022920,
+    "tgn:name":"Rye Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4833,47.75],"type":"Point"}
+}

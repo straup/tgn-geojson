@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.530000,24.264167]},"type":"Feature","properties":{"hierarchy":["tgn:7484039","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006676"],"id":7484039,"name:xx":"Haijun Yiyuan"}}
+{
+  "id": 7484039,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484039",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484039,
+    "tgn:name":"Haijun Yiyuan",
+    "tgn:placetype":[
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.53,24.264167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.775224,25.041053]},"type":"Feature","properties":{"hierarchy":["tgn:7489968","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7489968,"name:xx":"Shifen Chezhan"}}
+{
+  "id": 7489968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489968",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489968,
+    "tgn:name":"Shifen Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.775224,25.041053],"type":"Point"}
+}

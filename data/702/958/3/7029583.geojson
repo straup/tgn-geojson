@@ -1,1 +1,25 @@
-{"geometry":{"type":"Point","coordinates":[45.815000,15.001000]},"type":"Feature","properties":{"hierarchy":["tgn:7029583","tgn:1000139","tgn:7004363","tgn:1000004","tgn:7000261","tgn:7029392"],"placetype":["aat:300008347","aat:300387007","aat:300000810","aat:300167671","aat:300007148"],"id":7029583,"name:xx":"Timna\u02bb"}}
+{
+  "id": 7029583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029583",
+        "tgn:1000139",
+        "tgn:7004363",
+        "tgn:1000004",
+        "tgn:7000261",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029583,
+    "tgn:name":"Timna\u02bb",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300007148"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.815,15.001],"type":"Point"}
+}

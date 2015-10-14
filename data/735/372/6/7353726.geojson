@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.450000,19.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7353726","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353726,"name:xx":"Buen Pa\u00eds"}}
+{
+  "id": 7353726,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353726",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353726,
+    "tgn:name":"Buen Pa\u00eds",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.45,19.333333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.733300,25.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2764618","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2764618,"name:xx":"Whipray Keys"}}
+{
+  "id": 2764618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764618,
+    "tgn:name":"Whipray Keys",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7333,25.05],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.421667,26.875833]},"type":"Feature","properties":{"hierarchy":["tgn:7369903","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7369903,"name:xx":"Rancho Guam\u00fachil de los Ochoas"}}
+{
+  "id": 7369903,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369903",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369903,
+    "tgn:name":"Rancho Guam\u00fachil de los Ochoas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.421667,26.875833],"type":"Point"}
+}

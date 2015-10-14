@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.700000,35.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2404060","tgn:1000001","tgn:7012149","tgn:2001499","tgn:7007709","tgn:7029392"],"placetype":["aat:300008905"],"id":2404060,"name:xx":"Howell Swamp"}}
+{
+  "id": 2404060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404060",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001499",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404060,
+    "tgn:name":"Howell Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7,35.5833],"type":"Point"}
+}

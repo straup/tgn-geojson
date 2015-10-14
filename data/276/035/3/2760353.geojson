@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.316700,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2760353","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760353,"name:xx":"West Fork Shoofly Creek"}}
+{
+  "id": 2760353,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760353",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760353,
+    "tgn:name":"West Fork Shoofly Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.3167,42.6667],"type":"Point"}
+}

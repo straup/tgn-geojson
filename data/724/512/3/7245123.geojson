@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.266667,50.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7245123","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300005567"],"id":7245123,"name:xx":"Ch\u00e2teau Barbier"}}
+{
+  "id": 7245123,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245123",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245123,
+    "tgn:name":"Ch\u00e2teau Barbier",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.266667,50.316667],"type":"Point"}
+}

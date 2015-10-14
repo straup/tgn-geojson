@@ -1,0 +1,27 @@
+{
+  "id": 7000862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000862",
+        "tgn:1000825",
+        "tgn:7001242",
+        "tgn:1000206",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000862,
+    "tgn:name":"Kampala",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387272",
+        "aat:300387270",
+        "aat:300387285",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.5833,0.3167],"type":"Point"}
+}

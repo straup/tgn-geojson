@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.398350,25.015844]},"type":"Feature","properties":{"hierarchy":["tgn:7480820","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480820,"name:xx":"Guanghua Qiao"}}
+{
+  "id": 7480820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480820",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480820,
+    "tgn:name":"Guanghua Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.39835,25.015844],"type":"Point"}
+}

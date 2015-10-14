@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.850000,54.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7029355","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Skirpenbeck","id":7029355}}
+{
+  "id": 7029355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029355",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029355,
+    "tgn:name:en":"Skirpenbeck",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.85,54.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.183300,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2404047","tgn:1000001","tgn:7012149","tgn:2002387","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2404047,"name:xx":"Howell Reservoir"}}
+{
+  "id": 2404047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404047",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002387",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404047,
+    "tgn:name":"Howell Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.1833,43.7333],"type":"Point"}
+}

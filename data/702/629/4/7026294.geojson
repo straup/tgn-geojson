@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.866667,53.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7026294","tgn:7002443","tgn:1000003","tgn:7019007","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Worthenbury","id":7026294}}
+{
+  "id": 7026294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026294",
+        "tgn:7002443",
+        "tgn:1000003",
+        "tgn:7019007",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026294,
+    "tgn:name:en":"Worthenbury",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.866667,53.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.400000,25.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7373186","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7373186,"name:xx":"La Palma, Arroyo"}}
+{
+  "id": 7373186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373186",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373186,
+    "tgn:name":"La Palma, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4,25.183333],"type":"Point"}
+}

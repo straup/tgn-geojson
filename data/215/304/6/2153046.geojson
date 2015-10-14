@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.616700,39.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2153046","tgn:7016099","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2153046,"name:xx":"Beacon Hill"}}
+{
+  "id": 2153046,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153046",
+        "tgn:7016099",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153046,
+    "tgn:name":"Beacon Hill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.6167,39.4667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.683333,50.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7119014","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008746"],"id":7119014,"name:xx":"Prinzenh\u00f6hle"}}
+{
+  "id": 7119014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119014",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119014,
+    "tgn:name":"Prinzenh\u00f6hle",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.683333,50.633333],"type":"Point"}
+}

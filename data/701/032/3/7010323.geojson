@@ -1,0 +1,24 @@
+{
+  "id": 7010323,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010323",
+        "tgn:1000004",
+        "tgn:7017317",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010323,
+    "tgn:name":"Vologda",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[39.9167,59.1667],"type":"Point"}
+}

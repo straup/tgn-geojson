@@ -1,0 +1,28 @@
+{
+  "id": 7006840,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0e7e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754447",
+        "gp:id":729968,
+        "qs:id":1,
+        "wof:id":101751805
+    },
+    "tgn:hierarchy":[
+        "tgn:7006840",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006840,
+    "tgn:name:nl":"Helmond",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.666667,51.483333],"type":"Point"}
+}

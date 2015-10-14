@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.700000,18.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7353770","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7353770,"name:xx":"Azueta"}}
+{
+  "id": 7353770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353770",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353770,
+    "tgn:name":"Azueta",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.7,18.083333],"type":"Point"}
+}

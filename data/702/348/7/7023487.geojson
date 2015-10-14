@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-71.216700,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7023487","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":7023487,"name:xx":"Mount Hope Bay"}}
+{
+  "id": 7023487,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023487",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023487,
+    "tgn:name":"Mount Hope Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2167,41.6833],"type":"Point"}
+}

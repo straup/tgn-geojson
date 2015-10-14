@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.250000,42.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7056218","tgn:7003139","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056218,"name:xx":"Pisciarello, Rio"}}
+{
+  "id": 7056218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056218",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056218,
+    "tgn:name":"Pisciarello, Rio",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.25,42.383333],"type":"Point"}
+}

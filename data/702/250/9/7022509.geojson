@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-71.450000,41.566700]},"type":"Feature","properties":{"hierarchy":["tgn:7022509","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300008850"],"id":7022509,"name:xx":"Cedar Tree Point"}}
+{
+  "id": 7022509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022509",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022509,
+    "tgn:name":"Cedar Tree Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.45,41.5667],"type":"Point"}
+}

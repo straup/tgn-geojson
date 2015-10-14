@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.833333,29.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7355027","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355027,"name:xx":"Ca\u00f1\u00f3n de Navarrete, Sierra del"}}
+{
+  "id": 7355027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355027",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355027,
+    "tgn:name":"Ca\u00f1\u00f3n de Navarrete, Sierra del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.833333,29.966667],"type":"Point"}
+}

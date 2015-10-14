@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.716667,47.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7113961","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7113961,"name:xx":"Riedle"}}
+{
+  "id": 7113961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113961",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113961,
+    "tgn:name":"Riedle",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.716667,47.65],"type":"Point"}
+}

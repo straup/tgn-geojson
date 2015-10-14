@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-2.000000,53.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7029884","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029884,"name:xx":"Low Bradley","name:ang":"Bradelei"}}
+{
+  "id": 7029884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029884",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029884,
+    "tgn:name":"Low Bradley",
+    "tgn:name:ang":"Bradelei",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.0,53.916667],"type":"Point"}
+}

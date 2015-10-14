@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.150000,52.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7112803","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7112803,"name:xx":"Rietzergrenze"}}
+{
+  "id": 7112803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112803",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112803,
+    "tgn:name":"Rietzergrenze",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.15,52.216667],"type":"Point"}
+}

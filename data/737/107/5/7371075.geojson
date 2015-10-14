@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.816667,24.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7371075","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7371075,"name:xx":"Jes\u00fas Maria, Puerto de"}}
+{
+  "id": 7371075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371075",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371075,
+    "tgn:name":"Jes\u00fas Maria, Puerto de",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.816667,24.833333],"type":"Point"}
+}

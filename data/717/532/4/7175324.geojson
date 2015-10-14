@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.000000,47.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7175324","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7175324,"name:xx":"Grie\u00df-Wald"}}
+{
+  "id": 7175324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175324",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175324,
+    "tgn:name":"Grie\u00df-Wald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.0,47.483333],"type":"Point"}
+}

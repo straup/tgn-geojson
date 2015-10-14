@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.679160,24.210560]},"type":"Feature","properties":{"hierarchy":["tgn:7471943","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7471943,"name:xx":"Shisanhao Suidao"}}
+{
+  "id": 7471943,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471943",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471943,
+    "tgn:name":"Shisanhao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.67916,24.21056],"type":"Point"}
+}

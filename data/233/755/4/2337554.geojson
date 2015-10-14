@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.333300,39.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2337554","tgn:1000001","tgn:7012149","tgn:2002267","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2337554,"name:xx":"Fowlkes Run"}}
+{
+  "id": 2337554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337554",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002267",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337554,
+    "tgn:name":"Fowlkes Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3333,39.25],"type":"Point"}
+}

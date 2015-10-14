@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.400000,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2254790","tgn:1000001","tgn:1002191","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008746"],"id":2254790,"name:xx":"Cooney Cavern"}}
+{
+  "id": 2254790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254790",
+        "tgn:1000001",
+        "tgn:1002191",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254790,
+    "tgn:name":"Cooney Cavern",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.4,31.8833],"type":"Point"}
+}

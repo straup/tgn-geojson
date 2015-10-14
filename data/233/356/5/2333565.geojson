@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-118.166700,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2333565","tgn:1000001","tgn:2001419","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":2333565,"name:xx":"Foltz"}}
+{
+  "id": 2333565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333565",
+        "tgn:1000001",
+        "tgn:2001419",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333565,
+    "tgn:name":"Foltz",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1667,40.2333],"type":"Point"}
+}

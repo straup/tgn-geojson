@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.400000,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2331359","tgn:1000001","tgn:7012149","tgn:2001304","tgn:7007524","tgn:7029392"],"placetype":["aat:300266640"],"id":2331359,"name:xx":"Flatiron Ridge"}}
+{
+  "id": 2331359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331359",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001304",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331359,
+    "tgn:name":"Flatiron Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.4,47.6],"type":"Point"}
+}

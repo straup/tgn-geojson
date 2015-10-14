@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.150000,39.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7020779","tgn:1000001","tgn:1002539","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":7020779,"name:xx":"Piney Point"}}
+{
+  "id": 7020779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020779",
+        "tgn:1000001",
+        "tgn:1002539",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020779,
+    "tgn:name":"Piney Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.15,39.1333],"type":"Point"}
+}

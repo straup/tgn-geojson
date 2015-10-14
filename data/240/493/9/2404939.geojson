@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.016700,35.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2404939","tgn:1000001","tgn:7012149","tgn:2001872","tgn:7007825","tgn:7029392"],"placetype":["aat:300008697"],"id":2404939,"name:xx":"Hudiburg Spring"}}
+{
+  "id": 2404939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404939",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001872",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404939,
+    "tgn:name":"Hudiburg Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.0167,35.2833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.533333,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7171755","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7171755,"name:xx":"Hirschauer-Bach"}}
+{
+  "id": 7171755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171755",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171755,
+    "tgn:name":"Hirschauer-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.533333,47.85],"type":"Point"}
+}

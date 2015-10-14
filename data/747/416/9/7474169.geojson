@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.485816,25.261492]},"type":"Feature","properties":{"hierarchy":["tgn:7474169","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7474169,"name:xx":"Shanzhuku Xiakeng"}}
+{
+  "id": 7474169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474169",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474169,
+    "tgn:name":"Shanzhuku Xiakeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.485816,25.261492],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.766700,46.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2151895","tgn:1000001","tgn:7012149","tgn:2000973","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2151895,"name:xx":"Batty Doe Lake"}}
+{
+  "id": 2151895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151895",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000973",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151895,
+    "tgn:name":"Batty Doe Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7667,46.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.251944,20.485278]},"type":"Feature","properties":{"hierarchy":["tgn:7372658","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372658,"name:xx":"La Labor de Valtierra"}}
+{
+  "id": 7372658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372658",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372658,
+    "tgn:name":"La Labor de Valtierra",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.251944,20.485278],"type":"Point"}
+}

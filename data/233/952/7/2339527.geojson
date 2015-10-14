@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.883300,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2339527","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000242","tgn:7029392"],"placetype":["aat:300008761"],"id":2339527,"name:xx":"Fred Rohr Gulch"}}
+{
+  "id": 2339527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339527",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000242",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339527,
+    "tgn:name":"Fred Rohr Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.8833,38.35],"type":"Point"}
+}

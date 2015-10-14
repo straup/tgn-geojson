@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.216700,38.116700]},"type":"Feature","properties":{"hierarchy":["tgn:7021323","tgn:1000001","tgn:7012149","tgn:2002287","tgn:7013961","tgn:7029392"],"placetype":["aat:300008746"],"id":7021323,"name:xx":"Poor Farm Cave"}}
+{
+  "id": 7021323,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021323",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002287",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021323,
+    "tgn:name":"Poor Farm Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2167,38.1167],"type":"Point"}
+}

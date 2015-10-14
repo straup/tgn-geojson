@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.033300,42.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2408791","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2408791,"name:xx":"Hyde Reservoir"}}
+{
+  "id": 2408791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408791",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408791,
+    "tgn:name":"Hyde Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0333,42.4333],"type":"Point"}
+}

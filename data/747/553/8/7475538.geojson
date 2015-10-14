@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.794926,24.661366]},"type":"Feature","properties":{"hierarchy":["tgn:7475538","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475538,"name:xx":"Beibu"}}
+{
+  "id": 7475538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475538",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475538,
+    "tgn:name":"Beibu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.794926,24.661366],"type":"Point"}
+}

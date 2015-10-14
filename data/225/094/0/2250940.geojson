@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.600000,29.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2250940","tgn:1000001","tgn:2000262","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008697"],"id":2250940,"name:xx":"Columbia Spring"}}
+{
+  "id": 2250940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250940",
+        "tgn:1000001",
+        "tgn:2000262",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250940,
+    "tgn:name":"Columbia Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6,29.85],"type":"Point"}
+}

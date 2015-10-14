@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.800000,33.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2257335","tgn:1000001","tgn:7012149","tgn:2000398","tgn:7007248","tgn:7029392"],"placetype":["aat:300008798"],"id":2257335,"name:xx":"Cornish Mountain"}}
+{
+  "id": 2257335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257335",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000398",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257335,
+    "tgn:name":"Cornish Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.8,33.6667],"type":"Point"}
+}

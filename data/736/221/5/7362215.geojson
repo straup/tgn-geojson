@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.183333,20.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7362215","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362215,"name:xx":"El Desp\u00ed"}}
+{
+  "id": 7362215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362215",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362215,
+    "tgn:name":"El Desp\u00ed",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.183333,20.366667],"type":"Point"}
+}

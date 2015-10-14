@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.783333,53.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7175074","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7175074,"name:xx":"Grimmsmoor"}}
+{
+  "id": 7175074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175074",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175074,
+    "tgn:name":"Grimmsmoor",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.783333,53.166667],"type":"Point"}
+}

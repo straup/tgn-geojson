@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.016700,38.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2766861","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008706"],"id":2766861,"name:xx":"White Pine Creek"}}
+{
+  "id": 2766861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766861",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766861,
+    "tgn:name":"White Pine Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0167,38.6167],"type":"Point"}
+}

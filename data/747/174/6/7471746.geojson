@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.472500,24.153889]},"type":"Feature","properties":{"hierarchy":["tgn:7471746","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471746,"name:xx":"Quancuo Cun"}}
+{
+  "id": 7471746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471746",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471746,
+    "tgn:name":"Quancuo Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4725,24.153889],"type":"Point"}
+}

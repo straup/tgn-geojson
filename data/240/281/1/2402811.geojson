@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.800000,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2402811","tgn:2002143","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2402811,"name:xx":"Hot Springs Run"}}
+{
+  "id": 2402811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402811",
+        "tgn:2002143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402811,
+    "tgn:name":"Hot Springs Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8,37.9833],"type":"Point"}
+}

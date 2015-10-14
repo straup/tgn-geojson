@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.216667,54.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7110337","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110337,"name:xx":"Rambin"}}
+{
+  "id": 7110337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110337",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110337,
+    "tgn:name":"Rambin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.216667,54.35],"type":"Point"}
+}

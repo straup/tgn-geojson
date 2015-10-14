@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.100000,47.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7024713","tgn:1000003","tgn:7002875","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024713,"name:xx":"Argenteuil-sur-Arman\u00e7on"}}
+{
+  "id": 7024713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024713",
+        "tgn:1000003",
+        "tgn:7002875",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024713,
+    "tgn:name":"Argenteuil-sur-Arman\u00e7on",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.1,47.7667],"type":"Point"}
+}

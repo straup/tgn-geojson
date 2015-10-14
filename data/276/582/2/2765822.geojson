@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.516700,31.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2765822","tgn:1000001","tgn:7012149","tgn:2002031","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2765822,"name:xx":"White Elephant Tank"}}
+{
+  "id": 2765822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765822",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002031",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765822,
+    "tgn:name":"White Elephant Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.5167,31.9833],"type":"Point"}
+}

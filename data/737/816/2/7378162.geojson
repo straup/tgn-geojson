@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.566667,27.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7378162","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378162,"name:xx":"Rancho Las Papas"}}
+{
+  "id": 7378162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378162",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378162,
+    "tgn:name":"Rancho Las Papas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.566667,27.833333],"type":"Point"}
+}

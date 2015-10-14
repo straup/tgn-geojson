@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.545311,24.173278]},"type":"Feature","properties":{"hierarchy":["tgn:7487714","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7487714,"name:xx":"Liufang Qiao"}}
+{
+  "id": 7487714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487714",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487714,
+    "tgn:name":"Liufang Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.545311,24.173278],"type":"Point"}
+}

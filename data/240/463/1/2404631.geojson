@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-143.733300,69.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2404631","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008835"],"id":2404631,"name:xx":"Hubley Glacier"}}
+{
+  "id": 2404631,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404631",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404631,
+    "tgn:name":"Hubley Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-143.7333,69.2833],"type":"Point"}
+}

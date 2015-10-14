@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.390278,19.829167]},"type":"Feature","properties":{"hierarchy":["tgn:7354872","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7354872,"name:xx":"Ca\u00f1edo"}}
+{
+  "id": 7354872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354872",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354872,
+    "tgn:name":"Ca\u00f1edo",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.390278,19.829167],"type":"Point"}
+}

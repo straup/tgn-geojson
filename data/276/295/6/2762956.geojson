@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.633300,46.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2762956","tgn:1000001","tgn:7012149","tgn:2001047","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2762956,"name:xx":"Westman Lake"}}
+{
+  "id": 2762956,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762956",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001047",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762956,
+    "tgn:name":"Westman Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.6333,46.1833],"type":"Point"}
+}

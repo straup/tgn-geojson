@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.300000,46.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7058015","tgn:1003478","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7058015,"name:xx":"Albrunpass"}}
+{
+  "id": 7058015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058015",
+        "tgn:1003478",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058015,
+    "tgn:name":"Albrunpass",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.3,46.383333],"type":"Point"}
+}

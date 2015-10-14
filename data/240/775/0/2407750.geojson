@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.616700,32.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2407750","tgn:1000001","tgn:7012149","tgn:2000895","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2407750,"name:xx":"Hurricane Bayou"}}
+{
+  "id": 2407750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407750",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000895",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407750,
+    "tgn:name":"Hurricane Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.6167,32.4833],"type":"Point"}
+}

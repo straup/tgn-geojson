@@ -1,0 +1,27 @@
+{
+  "id": 1048131,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1fa56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2746839",
+        "gp:id":733605,
+        "qs:id":3,
+        "wof:id":101837859
+    },
+    "tgn:hierarchy":[
+        "tgn:1048131",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048131,
+    "tgn:name:nl":"Staphorst",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.2,52.65],"type":"Point"}
+}

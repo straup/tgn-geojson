@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.933333,22.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7470891","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7470891,"name:xx":"Erlu Qiao"}}
+{
+  "id": 7470891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470891",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470891,
+    "tgn:name":"Erlu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.933333,22.533333],"type":"Point"}
+}

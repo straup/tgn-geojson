@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.161111,24.962778]},"type":"Feature","properties":{"hierarchy":["tgn:7482013","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482013,"name:xx":"Suangtangwu"}}
+{
+  "id": 7482013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482013",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482013,
+    "tgn:name":"Suangtangwu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.161111,24.962778],"type":"Point"}
+}

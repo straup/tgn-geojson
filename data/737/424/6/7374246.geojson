@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.433333,28.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7374246","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374246,"name:xx":"Rancho La Manga"}}
+{
+  "id": 7374246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374246",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374246,
+    "tgn:name":"Rancho La Manga",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.433333,28.85],"type":"Point"}
+}

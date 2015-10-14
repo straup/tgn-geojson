@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.133300,32.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2257467","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002858","tgn:7029392"],"placetype":["aat:300008791"],"id":2257467,"name:xx":"Coronado Cays"}}
+{
+  "id": 2257467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257467",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002858",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257467,
+    "tgn:name":"Coronado Cays",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.1333,32.6167],"type":"Point"}
+}

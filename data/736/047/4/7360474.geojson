@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.250000,30.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7360474","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7360474,"name:xx":"Rancho Cuesta Blanca"}}
+{
+  "id": 7360474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360474",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360474,
+    "tgn:name":"Rancho Cuesta Blanca",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.25,30.083333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.750000,29.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7379559","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379559,"name:xx":"Rancho Los Cuates"}}
+{
+  "id": 7379559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379559",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379559,
+    "tgn:name":"Rancho Los Cuates",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.75,29.466667],"type":"Point"}
+}

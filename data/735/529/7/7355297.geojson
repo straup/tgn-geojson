@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.216667,21.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7355297","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300132325"],"id":7355297,"name:xx":"Ceboruco, Volcan"}}
+{
+  "id": 7355297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355297",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355297,
+    "tgn:name":"Ceboruco, Volcan",
+    "tgn:placetype":[
+        "aat:300132325"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.216667,21.166667],"type":"Point"}
+}

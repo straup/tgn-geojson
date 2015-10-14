@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.633333,51.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7117253","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7117253,"name:xx":"Othe"}}
+{
+  "id": 7117253,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117253",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117253,
+    "tgn:name":"Othe",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.633333,51.016667],"type":"Point"}
+}

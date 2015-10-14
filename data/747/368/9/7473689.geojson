@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.439722,24.070833]},"type":"Feature","properties":{"hierarchy":["tgn:7473689","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473689,"name:xx":"Yancuo"}}
+{
+  "id": 7473689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473689",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473689,
+    "tgn:name":"Yancuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.439722,24.070833],"type":"Point"}
+}

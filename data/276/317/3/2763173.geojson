@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.850000,37.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2763173","tgn:1000001","tgn:1002902","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":2763173,"name:xx":"Westward Point"}}
+{
+  "id": 2763173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763173",
+        "tgn:1000001",
+        "tgn:1002902",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763173,
+    "tgn:name":"Westward Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.85,37.9167],"type":"Point"}
+}

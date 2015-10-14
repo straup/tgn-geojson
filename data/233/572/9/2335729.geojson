@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.100000,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2335729","tgn:1000001","tgn:2001419","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008746"],"id":2335729,"name:xx":"Forty Five Cave"}}
+{
+  "id": 2335729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335729",
+        "tgn:1000001",
+        "tgn:2001419",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335729,
+    "tgn:name":"Forty Five Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1,40.5],"type":"Point"}
+}

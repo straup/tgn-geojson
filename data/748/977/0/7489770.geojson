@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.761151,25.145329]},"type":"Feature","properties":{"hierarchy":["tgn:7489770","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489770,"name:xx":"Dashawan"}}
+{
+  "id": 7489770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489770",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489770,
+    "tgn:name":"Dashawan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.761151,25.145329],"type":"Point"}
+}

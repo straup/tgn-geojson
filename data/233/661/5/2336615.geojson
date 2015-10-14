@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.816700,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2336615","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000184","tgn:7029392"],"placetype":["aat:300008697"],"id":2336615,"name:xx":"Four Pine Spring"}}
+{
+  "id": 2336615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336615",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000184",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336615,
+    "tgn:name":"Four Pine Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8167,40.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.100000,20.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7372732","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7372732,"name:xx":"La Orde\u00f1a"}}
+{
+  "id": 7372732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372732",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372732,
+    "tgn:name":"La Orde\u00f1a",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.1,20.833333],"type":"Point"}
+}

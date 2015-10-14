@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.900000,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2404269","tgn:1000001","tgn:1002601","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008905"],"id":2404269,"name:xx":"Hoyt Hayes Swamp"}}
+{
+  "id": 2404269,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404269",
+        "tgn:1000001",
+        "tgn:1002601",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404269,
+    "tgn:name":"Hoyt Hayes Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.9,41.95],"type":"Point"}
+}

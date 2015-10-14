@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-20.083300,76.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7024561","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300011692"],"id":7024561,"name:xx":"Christian Sk\u00e6r"}}
+{
+  "id": 7024561,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024561",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024561,
+    "tgn:name":"Christian Sk\u00e6r",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-20.0833,76.3333],"type":"Point"}
+}

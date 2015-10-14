@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.083300,33.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2762635","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2762635,"name:xx":"Westcliff Estates"}}
+{
+  "id": 2762635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762635",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762635,
+    "tgn:name":"Westcliff Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0833,33.9167],"type":"Point"}
+}

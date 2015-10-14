@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.616700,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2408696","tgn:1000001","tgn:7012149","tgn:2000839","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2408696,"name:xx":"Hyatts Fork"}}
+{
+  "id": 2408696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408696",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000839",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408696,
+    "tgn:name":"Hyatts Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6167,37.2],"type":"Point"}
+}

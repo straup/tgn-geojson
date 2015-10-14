@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.733300,42.166700]},"type":"Feature","properties":{"hierarchy":["tgn:7022436","tgn:1000001","tgn:7019982","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":7022436,"name:xx":"Brickyard Brook"}}
+{
+  "id": 7022436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022436",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022436,
+    "tgn:name":"Brickyard Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7333,42.1667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.383300,37.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2330071","tgn:1000001","tgn:7012149","tgn:2001211","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2330071,"name:xx":"Flagmire Hollow"}}
+{
+  "id": 2330071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330071",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001211",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330071,
+    "tgn:name":"Flagmire Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.3833,37.5833],"type":"Point"}
+}

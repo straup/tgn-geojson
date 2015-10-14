@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.849429,23.298343]},"type":"Feature","properties":{"hierarchy":["tgn:7486544","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486544,"name:xx":"Labasaba Xi"}}
+{
+  "id": 7486544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486544",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486544,
+    "tgn:name":"Labasaba Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.849429,23.298343],"type":"Point"}
+}

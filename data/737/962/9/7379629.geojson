@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.950000,25.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7379629","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379629,"name:xx":"Rancho Los Tepozares"}}
+{
+  "id": 7379629,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379629",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379629,
+    "tgn:name":"Rancho Los Tepozares",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.95,25.133333],"type":"Point"}
+}

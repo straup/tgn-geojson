@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.910000,22.831389]},"type":"Feature","properties":{"hierarchy":["tgn:7483266","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483266,"name:xx":"Alan Shan"}}
+{
+  "id": 7483266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483266",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483266,
+    "tgn:name":"Alan Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.91,22.831389],"type":"Point"}
+}

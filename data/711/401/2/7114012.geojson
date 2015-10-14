@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.033333,48.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7114012","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114012,"name:xx":"Reschh\u00f6fe"}}
+{
+  "id": 7114012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114012",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114012,
+    "tgn:name":"Reschh\u00f6fe",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.033333,48.133333],"type":"Point"}
+}

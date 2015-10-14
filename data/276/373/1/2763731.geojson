@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-172.316700,52.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2763731","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2763731,"name:xx":"Wharf Point"}}
+{
+  "id": 2763731,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763731",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763731,
+    "tgn:name":"Wharf Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-172.3167,52.35],"type":"Point"}
+}

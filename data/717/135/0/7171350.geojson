@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.950000,49.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7171350","tgn:1000003","tgn:7003684","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7171350,"name:xx":"Hilschbach"}}
+{
+  "id": 7171350,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171350",
+        "tgn:1000003",
+        "tgn:7003684",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171350,
+    "tgn:name":"Hilschbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.95,49.316667],"type":"Point"}
+}

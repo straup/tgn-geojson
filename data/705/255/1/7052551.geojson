@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.606111,45.613056]},"type":"Feature","properties":{"hierarchy":["tgn:7052551","tgn:7003006","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052551,"name:xx":"Isiata"}}
+{
+  "id": 7052551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052551",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052551,
+    "tgn:name":"Isiata",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.606111,45.613056],"type":"Point"}
+}

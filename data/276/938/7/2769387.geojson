@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.833300,37.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2769387","tgn:1000001","tgn:7012149","tgn:2001236","tgn:7007523","tgn:7029392"],"placetype":["aat:300008746"],"id":2769387,"name:xx":"Wicks Cave"}}
+{
+  "id": 2769387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769387",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001236",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769387,
+    "tgn:name":"Wicks Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8333,37.4667],"type":"Point"}
+}

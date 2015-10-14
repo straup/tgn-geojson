@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.823333,24.375000]},"type":"Feature","properties":{"hierarchy":["tgn:7351354","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351354,"name:xx":"Cachaqua"}}
+{
+  "id": 7351354,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351354",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351354,
+    "tgn:name":"Cachaqua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.823333,24.375],"type":"Point"}
+}

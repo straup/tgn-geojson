@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.316700,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2256342","tgn:1000001","tgn:2001485","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2256342,"name:xx":"Coppersmith Branch"}}
+{
+  "id": 2256342,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256342",
+        "tgn:1000001",
+        "tgn:2001485",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256342,
+    "tgn:name":"Coppersmith Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3167,34.3333],"type":"Point"}
+}

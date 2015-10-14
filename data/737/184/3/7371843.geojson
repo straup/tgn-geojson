@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.550000,29.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7371843","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371843,"name:xx":"La Mula"}}
+{
+  "id": 7371843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371843",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371843,
+    "tgn:name":"La Mula",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.55,29.15],"type":"Point"}
+}

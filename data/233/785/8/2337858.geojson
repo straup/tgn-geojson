@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.600000,38.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2337858","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000185","tgn:7029392"],"placetype":["aat:300008761"],"id":2337858,"name:xx":"Fox Gulch"}}
+{
+  "id": 2337858,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337858",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000185",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337858,
+    "tgn:name":"Fox Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.6,38.8333],"type":"Point"}
+}

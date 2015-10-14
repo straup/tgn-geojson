@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.666700,43.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2335886","tgn:1000001","tgn:7012149","tgn:2001709","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2335886,"name:xx":"Foss Spring"}}
+{
+  "id": 2335886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335886",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001709",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335886,
+    "tgn:name":"Foss Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.6667,43.85],"type":"Point"}
+}

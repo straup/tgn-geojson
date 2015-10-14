@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.516667,19.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7359441","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359441,"name:xx":"Cuanajo"}}
+{
+  "id": 7359441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359441",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359441,
+    "tgn:name":"Cuanajo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.516667,19.483333],"type":"Point"}
+}

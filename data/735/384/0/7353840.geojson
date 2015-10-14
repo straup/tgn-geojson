@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.050000,18.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7353840","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353840,"name:xx":"Chivoj\u00e1"}}
+{
+  "id": 7353840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353840",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353840,
+    "tgn:name":"Chivoj\u00e1",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.05,18.716667],"type":"Point"}
+}

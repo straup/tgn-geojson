@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[151.950000,-17.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7024217","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008713"],"id":7024217,"name:xx":"Herald Passage"}}
+{
+  "id": 7024217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024217",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024217,
+    "tgn:name":"Herald Passage",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[151.95,-17.3833],"type":"Point"}
+}

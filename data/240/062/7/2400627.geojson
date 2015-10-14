@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.033300,39.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2400627","tgn:1000001","tgn:7012149","tgn:2000230","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":2400627,"name:xx":"Horse Mountain"}}
+{
+  "id": 2400627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400627",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000230",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400627,
+    "tgn:name":"Horse Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0333,39.3167],"type":"Point"}
+}

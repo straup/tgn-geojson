@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.800000,43.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7058621","tgn:1003432","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058621,"name:xx":"Altidona"}}
+{
+  "id": 7058621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058621",
+        "tgn:1003432",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058621,
+    "tgn:name":"Altidona",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.8,43.1],"type":"Point"}
+}

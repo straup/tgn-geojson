@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.733300,30.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2152675","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300006075"],"id":2152675,"name:xx":"Bayou Berard Canal"}}
+{
+  "id": 2152675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152675",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152675,
+    "tgn:name":"Bayou Berard Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7333,30.25],"type":"Point"}
+}

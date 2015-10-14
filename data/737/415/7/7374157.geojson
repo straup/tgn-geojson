@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.916667,29.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7374157","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374157,"name:xx":"Laguna Do\u00f1a Carmen"}}
+{
+  "id": 7374157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374157",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374157,
+    "tgn:name":"Laguna Do\u00f1a Carmen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.916667,29.95],"type":"Point"}
+}

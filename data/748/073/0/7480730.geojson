@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.408590,23.003545]},"type":"Feature","properties":{"hierarchy":["tgn:7480730","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480730,"name:xx":"Lizikeng"}}
+{
+  "id": 7480730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480730",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480730,
+    "tgn:name":"Lizikeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.40859,23.003545],"type":"Point"}
+}

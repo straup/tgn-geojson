@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.083300,36.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2408826","tgn:1000001","tgn:7012149","tgn:1002550","tgn:7007157","tgn:7029392"],"placetype":["aat:300008347"],"id":2408826,"name:xx":"Hydril"}}
+{
+  "id": 2408826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408826",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002550",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408826,
+    "tgn:name":"Hydril",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.0833,36.0],"type":"Point"}
+}

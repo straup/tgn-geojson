@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.320855,24.751199]},"type":"Feature","properties":{"hierarchy":["tgn:7486533","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486533,"name:xx":"Neikuihui"}}
+{
+  "id": 7486533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486533",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486533,
+    "tgn:name":"Neikuihui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.320855,24.751199],"type":"Point"}
+}

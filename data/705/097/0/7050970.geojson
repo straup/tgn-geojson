@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.166667,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7050970","tgn:7003162","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050970,"name:xx":"Lama, Torrente"}}
+{
+  "id": 7050970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050970",
+        "tgn:7003162",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050970,
+    "tgn:name":"Lama, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.166667,43.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.000000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2409422","tgn:1000001","tgn:2000201","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2409422,"name:xx":"Idaho Springs"}}
+{
+  "id": 2409422,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409422",
+        "tgn:1000001",
+        "tgn:2000201",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409422,
+    "tgn:name":"Idaho Springs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.0,39.7333],"type":"Point"}
+}

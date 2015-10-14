@@ -1,0 +1,25 @@
+{
+  "id": 7012580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012580",
+        "tgn:7011438",
+        "tgn:1000004",
+        "tgn:7006646",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012580,
+    "tgn:name:en":"Baku",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[49.8833,40.3667],"type":"Point"}
+}

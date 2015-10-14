@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.918056,22.463889]},"type":"Feature","properties":{"hierarchy":["tgn:7484910","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484910,"name:xx":"Taifan Xi"}}
+{
+  "id": 7484910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484910",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484910,
+    "tgn:name":"Taifan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.918056,22.463889],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.200000,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2252605","tgn:1000001","tgn:7012149","tgn:2000927","tgn:7007515","tgn:7029392"],"placetype":["aat:300266640"],"id":2252605,"name:xx":"Connecticut Ridge"}}
+{
+  "id": 2252605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252605",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000927",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252605,
+    "tgn:name":"Connecticut Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.2,45.3333],"type":"Point"}
+}

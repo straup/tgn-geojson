@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.119167,23.501944]},"type":"Feature","properties":{"hierarchy":["tgn:7482571","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7482571,"name:xx":"Beigang Xi Tifang"}}
+{
+  "id": 7482571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482571",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482571,
+    "tgn:name":"Beigang Xi Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.119167,23.501944],"type":"Point"}
+}

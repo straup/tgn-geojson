@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.002500,39.166944]},"type":"Feature","properties":{"hierarchy":["tgn:7050735","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300000206"],"id":7050735,"name:xx":"Tanca Nissa"}}
+{
+  "id": 7050735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050735",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050735,
+    "tgn:name":"Tanca Nissa",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.0025,39.166944],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.766700,40.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2151221","tgn:1000001","tgn:2001415","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2151221,"name:xx":"Bateman Canyon"}}
+{
+  "id": 2151221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151221",
+        "tgn:1000001",
+        "tgn:2001415",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151221,
+    "tgn:name":"Bateman Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7667,40.4167],"type":"Point"}
+}

@@ -1,1 +1,25 @@
-{"geometry":{"type":"Point","coordinates":[9.722596,44.785131]},"type":"Feature","properties":{"hierarchy":["tgn:7023993","tgn:7003132","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300387277","aat:300008347","aat:300000810","aat:300167671","aat:300020533"],"id":7023993,"name:xx":"Velleia"}}
+{
+  "id": 7023993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023993",
+        "tgn:7003132",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023993,
+    "tgn:name":"Velleia",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300020533"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.722596,44.785131],"type":"Point"}
+}

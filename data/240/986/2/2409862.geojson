@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.566700,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2409862","tgn:1000001","tgn:7012149","tgn:2002373","tgn:7007923","tgn:7029392"],"placetype":["aat:300266640"],"id":2409862,"name:xx":"Ilo Ridge"}}
+{
+  "id": 2409862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409862",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002373",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409862,
+    "tgn:name":"Ilo Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5667,43.8833],"type":"Point"}
+}

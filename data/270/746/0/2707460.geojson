@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-112.916700,43.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2707460","tgn:1000001","tgn:2000463","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":2707460,"name:xx":"Sweet Sage"}}
+{
+  "id": 2707460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2707460",
+        "tgn:1000001",
+        "tgn:2000463",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2707460,
+    "tgn:name":"Sweet Sage",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.9167,43.8167],"type":"Point"}
+}

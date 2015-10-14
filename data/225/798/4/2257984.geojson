@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.533300,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2257984","tgn:1000001","tgn:7012149","tgn:2000835","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2257984,"name:xx":"Cortland Fork"}}
+{
+  "id": 2257984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257984",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000835",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257984,
+    "tgn:name":"Cortland Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.5333,37.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.416667,21.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7355743","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355743,"name:xx":"Caracol"}}
+{
+  "id": 7355743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355743",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355743,
+    "tgn:name":"Caracol",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.416667,21.25],"type":"Point"}
+}

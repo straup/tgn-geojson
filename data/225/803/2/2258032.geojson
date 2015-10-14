@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.216700,43.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2258032","tgn:1000001","tgn:7012149","tgn:7014600","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2258032,"name:xx":"Cory Hill"}}
+{
+  "id": 2258032,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258032",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014600",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258032,
+    "tgn:name":"Cory Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.2167,43.1333],"type":"Point"}
+}

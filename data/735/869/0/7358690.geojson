@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.533333,16.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7358690","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358690,"name:xx":"Desenga\u00f1o"}}
+{
+  "id": 7358690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358690",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358690,
+    "tgn:name":"Desenga\u00f1o",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.533333,16.666667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.533900,24.692200]},"type":"Feature","properties":{"hierarchy":["tgn:7476218","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7476218,"name:xx":"Songluo Hu"}}
+{
+  "id": 7476218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476218",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476218,
+    "tgn:name":"Songluo Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5339,24.6922],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7017993,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f10150-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753557",
+        "gp:id":730399,
+        "qs:id":3,
+        "wof:id":101807003
+    },
+    "tgn:hierarchy":[
+        "tgn:7017993",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017993,
+    "tgn:name:nl":"Houten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.166667,52.033333],"type":"Point"}
+}

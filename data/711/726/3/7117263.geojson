@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.416667,51.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7117263","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117263,"name:xx":"Ostwig"}}
+{
+  "id": 7117263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117263",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117263,
+    "tgn:name":"Ostwig",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.416667,51.366667],"type":"Point"}
+}

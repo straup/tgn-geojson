@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.900000,42.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2762475","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2762475,"name:xx":"West Wachusett Brook"}}
+{
+  "id": 2762475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762475",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762475,
+    "tgn:name":"West Wachusett Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.9,42.4833],"type":"Point"}
+}

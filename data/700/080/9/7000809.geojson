@@ -1,0 +1,27 @@
+{
+  "id": 7000809,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000809",
+        "tgn:7001242",
+        "tgn:7017576",
+        "tgn:1000193",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000809,
+    "tgn:name":"Johannesburg",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300387305",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[28.0333,-26.1667],"type":"Point"}
+}

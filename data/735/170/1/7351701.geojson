@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.533333,24.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7351701","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7351701,"name:xx":"Caiminitos, Derramadero de los"}}
+{
+  "id": 7351701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351701",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351701,
+    "tgn:name":"Caiminitos, Derramadero de los",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.533333,24.5],"type":"Point"}
+}

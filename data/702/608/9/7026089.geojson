@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[2.450000,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7026089","tgn:1000003","tgn:7002885","tgn:1000070","tgn:7029392"],"placetype":["aat:300008795"],"id":7026089,"name:xx":"Canigou"}}
+{
+  "id": 7026089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026089",
+        "tgn:1000003",
+        "tgn:7002885",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026089,
+    "tgn:name":"Canigou",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.45,42.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.650000,27.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7356449","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7356449,"name:xx":"Carpa, Arroyo de la"}}
+{
+  "id": 7356449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356449",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356449,
+    "tgn:name":"Carpa, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.65,27.333333],"type":"Point"}
+}

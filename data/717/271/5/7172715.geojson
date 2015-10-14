@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.416667,54.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7172715","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300266571"],"id":7172715,"name:xx":"Hever River"}}
+{
+  "id": 7172715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172715",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172715,
+    "tgn:name":"Hever River",
+    "tgn:placetype":[
+        "aat:300266571"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.416667,54.416667],"type":"Point"}
+}

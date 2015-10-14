@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.612821,24.170970]},"type":"Feature","properties":{"hierarchy":["tgn:7472218","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472218,"name:xx":"Wujianwu"}}
+{
+  "id": 7472218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472218",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472218,
+    "tgn:name":"Wujianwu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.612821,24.17097],"type":"Point"}
+}

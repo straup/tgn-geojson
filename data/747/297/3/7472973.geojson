@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.492666,23.160202]},"type":"Feature","properties":{"hierarchy":["tgn:7472973","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472973,"name:xx":"Dongxiyan"}}
+{
+  "id": 7472973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472973",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472973,
+    "tgn:name":"Dongxiyan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.492666,23.160202],"type":"Point"}
+}

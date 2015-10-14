@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.783300,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2256889","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2256889,"name:xx":"Corless Spring"}}
+{
+  "id": 2256889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256889",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256889,
+    "tgn:name":"Corless Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7833,43.35],"type":"Point"}
+}

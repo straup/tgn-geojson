@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.933300,34.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7023812","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023812,"name:xx":"North Fork Palomino Canyon"}}
+{
+  "id": 7023812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023812",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023812,
+    "tgn:name":"North Fork Palomino Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9333,34.35],"type":"Point"}
+}

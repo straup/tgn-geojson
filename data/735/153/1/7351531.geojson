@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.300000,30.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7351531","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7351531,"name:xx":"Rancho del Cadul\u00edn"}}
+{
+  "id": 7351531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351531",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351531,
+    "tgn:name":"Rancho del Cadul\u00edn",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3,30.266667],"type":"Point"}
+}

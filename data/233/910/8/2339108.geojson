@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.700000,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2339108","tgn:1000001","tgn:7012149","tgn:2002195","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2339108,"name:xx":"Franklins Pit"}}
+{
+  "id": 2339108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339108",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002195",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339108,
+    "tgn:name":"Franklins Pit",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.7,36.85],"type":"Point"}
+}

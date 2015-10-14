@@ -1,0 +1,27 @@
+{
+  "id": 7001725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001725",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001725,
+    "tgn:name:ar":"\u0633\u0648\u0627\u0632\u064b \u064a\u064e\u062f",
+    "tgn:name:en":"Swaziland",
+    "tgn:name:es":"Swazilandia",
+    "tgn:name:fr":"Swaziland",
+    "tgn:name:ru":"\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434",
+    "tgn:name:ss":"eSwatini",
+    "tgn:name:zh":"\u65af\u5a01\u58eb\u5170",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[31.5,-26.5],"type":"Point"}
+}

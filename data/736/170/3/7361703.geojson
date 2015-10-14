@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.850000,30.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7361703","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361703,"name:xx":"Rancho El Canario"}}
+{
+  "id": 7361703,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361703",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361703,
+    "tgn:name":"Rancho El Canario",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.85,30.033333],"type":"Point"}
+}

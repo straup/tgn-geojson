@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.683300,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2258111","tgn:1000001","tgn:7012149","tgn:2000183","tgn:7007157","tgn:7029392"],"placetype":["aat:300386831"],"id":2258111,"name:xx":"Coso Range"}}
+{
+  "id": 2258111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258111",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000183",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258111,
+    "tgn:name":"Coso Range",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.6833,36.1333],"type":"Point"}
+}

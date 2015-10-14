@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.617719,23.952510]},"type":"Feature","properties":{"hierarchy":["tgn:7488926","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488926,"name:xx":"Hushuikeng"}}
+{
+  "id": 7488926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488926",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488926,
+    "tgn:name":"Hushuikeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.617719,23.95251],"type":"Point"}
+}

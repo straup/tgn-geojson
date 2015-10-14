@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.718103,24.974923]},"type":"Feature","properties":{"hierarchy":["tgn:7473464","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7473464,"name:xx":"Huoshaoliao Shan"}}
+{
+  "id": 7473464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473464",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473464,
+    "tgn:name":"Huoshaoliao Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.718103,24.974923],"type":"Point"}
+}

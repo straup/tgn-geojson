@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.050000,50.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7112054","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7112054,"name:xx":"Rohrbach"}}
+{
+  "id": 7112054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112054",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112054,
+    "tgn:name":"Rohrbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.05,50.316667],"type":"Point"}
+}

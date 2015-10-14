@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.700000,42.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2252241","tgn:1000001","tgn:7012149","tgn:1002604","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2252241,"name:xx":"Conesus Creek"}}
+{
+  "id": 2252241,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252241",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002604",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252241,
+    "tgn:name":"Conesus Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7,42.8333],"type":"Point"}
+}

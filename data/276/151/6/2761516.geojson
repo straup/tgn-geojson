@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.200000,28.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2761516","tgn:1000001","tgn:2001936","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2761516,"name:xx":"West Olmos Creek"}}
+{
+  "id": 2761516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761516",
+        "tgn:1000001",
+        "tgn:2001936",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761516,
+    "tgn:name":"West Olmos Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.2,28.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.700000,48.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7171389","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7171389,"name:xx":"Hervetsweiler"}}
+{
+  "id": 7171389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171389",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171389,
+    "tgn:name":"Hervetsweiler",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.7,48.0],"type":"Point"}
+}

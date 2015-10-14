@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.216700,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2158651","tgn:1000001","tgn:7012149","tgn:2002192","tgn:7007919","tgn:7029392"],"placetype":["aat:300008706"],"id":2158651,"name:xx":"Beaverpond Creek"}}
+{
+  "id": 2158651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002192",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158651,
+    "tgn:name":"Beaverpond Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2167,37.2333],"type":"Point"}
+}

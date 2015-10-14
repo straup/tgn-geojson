@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.666700,55.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2252622","tgn:7006450","tgn:1000001","tgn:2124076","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2252622,"name:xx":"Connell Lake"}}
+{
+  "id": 2252622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252622",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124076",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252622,
+    "tgn:name":"Connell Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.6667,55.4167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.333300,48.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2255886","tgn:1000001","tgn:7012149","tgn:7014510","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2255886,"name:xx":"Copper Creek"}}
+{
+  "id": 2255886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255886",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014510",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255886,
+    "tgn:name":"Copper Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3333,48.55],"type":"Point"}
+}

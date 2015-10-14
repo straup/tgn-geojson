@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.444722,44.935278]},"type":"Feature","properties":{"hierarchy":["tgn:7055065","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055065,"name:xx":"Polesine Camerini"}}
+{
+  "id": 7055065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055065",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055065,
+    "tgn:name":"Polesine Camerini",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.444722,44.935278],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.745499,24.702273]},"type":"Feature","properties":{"hierarchy":["tgn:7476657","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476657,"name:xx":"Dingpou"}}
+{
+  "id": 7476657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476657",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476657,
+    "tgn:name":"Dingpou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.745499,24.702273],"type":"Point"}
+}

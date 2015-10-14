@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.983300,32.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2702155","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000101","tgn:7029392"],"placetype":["aat:300008699"],"id":2702155,"name:xx":"Suizo Wash"}}
+{
+  "id": 2702155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702155",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000101",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702155,
+    "tgn:name":"Suizo Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9833,32.6],"type":"Point"}
+}

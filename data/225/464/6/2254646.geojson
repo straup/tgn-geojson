@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.883300,26.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2254646","tgn:1000001","tgn:7012149","tgn:1002582","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2254646,"name:xx":"Coon Key"}}
+{
+  "id": 2254646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254646",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002582",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254646,
+    "tgn:name":"Coon Key",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8833,26.4],"type":"Point"}
+}

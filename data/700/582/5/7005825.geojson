@@ -1,0 +1,25 @@
+{
+  "id": 7005825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005825",
+        "tgn:1000508",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005825,
+    "tgn:name":"Arequipa",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.55,-16.4],"type":"Point"}
+}

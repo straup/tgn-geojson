@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.450000,36.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2156779","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000176","tgn:7029392"],"placetype":["aat:300008699"],"id":2156779,"name:xx":"Beatty Branch"}}
+{
+  "id": 2156779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156779",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000176",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156779,
+    "tgn:name":"Beatty Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.45,36.0],"type":"Point"}
+}

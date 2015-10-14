@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.100000,49.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7170660","tgn:1000003","tgn:7003684","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170660,"name:xx":"Kolonie Hingersberg"}}
+{
+  "id": 7170660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170660",
+        "tgn:1000003",
+        "tgn:7003684",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170660,
+    "tgn:name":"Kolonie Hingersberg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.1,49.366667],"type":"Point"}
+}

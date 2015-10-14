@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.600000,35.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2150101","tgn:1000001","tgn:7012149","tgn:7022542","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347"],"id":2150101,"name:xx":"Barton Mill"}}
+{
+  "id": 2150101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022542",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150101,
+    "tgn:name":"Barton Mill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6,35.5167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.683333,22.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7486088","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486088,"name:xx":"Laiyi Xiang"}}
+{
+  "id": 7486088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486088",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486088,
+    "tgn:name":"Laiyi Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.683333,22.5],"type":"Point"}
+}

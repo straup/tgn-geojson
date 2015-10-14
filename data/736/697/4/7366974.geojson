@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.016667,22.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7366974","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366974,"name:xx":"El Peral"}}
+{
+  "id": 7366974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366974",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366974,
+    "tgn:name":"El Peral",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.016667,22.983333],"type":"Point"}
+}

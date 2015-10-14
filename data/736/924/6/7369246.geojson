@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.033333,31.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7369246","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7369246,"name:xx":"Hoya, Cerro la"}}
+{
+  "id": 7369246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369246",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369246,
+    "tgn:name":"Hoya, Cerro la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.033333,31.266667],"type":"Point"}
+}

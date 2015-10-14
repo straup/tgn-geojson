@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.166700,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2760219","tgn:1000001","tgn:7014090","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008706"],"id":2760219,"name:xx":"West Fork Ridge Creek"}}
+{
+  "id": 2760219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760219",
+        "tgn:1000001",
+        "tgn:7014090",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760219,
+    "tgn:name":"West Fork Ridge Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1667,40.25],"type":"Point"}
+}

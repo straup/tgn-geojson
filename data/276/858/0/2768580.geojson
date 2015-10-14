@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.550000,35.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2768580","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002857","tgn:7029392"],"placetype":["aat:300008697"],"id":2768580,"name:xx":"Whitfield Spring"}}
+{
+  "id": 2768580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768580",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768580,
+    "tgn:name":"Whitfield Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.55,35.55],"type":"Point"}
+}

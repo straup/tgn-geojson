@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.483333,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7057600","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057600,"name:xx":"Asinarco, Fosso dell'"}}
+{
+  "id": 7057600,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057600",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057600,
+    "tgn:name":"Asinarco, Fosso dell'",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.483333,42.7],"type":"Point"}
+}

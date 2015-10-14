@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.350000,24.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7373389","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7373389,"name:xx":"Lalate, Arroyo"}}
+{
+  "id": 7373389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373389",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373389,
+    "tgn:name":"Lalate, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.35,24.983333],"type":"Point"}
+}

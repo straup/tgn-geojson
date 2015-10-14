@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.816700,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2339793","tgn:1000001","tgn:7012149","tgn:2002333","tgn:7007922","tgn:7029392"],"placetype":["aat:300008347"],"id":2339793,"name:xx":"Freeman"}}
+{
+  "id": 2339793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339793",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002333",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339793,
+    "tgn:name":"Freeman",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.8167,45.3333],"type":"Point"}
+}

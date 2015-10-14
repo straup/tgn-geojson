@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.285248,51.294254]},"type":"Feature","properties":{"hierarchy":["tgn:7241500","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7241500,"name:xx":"Fort Liefkenshoek"}}
+{
+  "id": 7241500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241500",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241500,
+    "tgn:name":"Fort Liefkenshoek",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.285248,51.294254],"type":"Point"}
+}

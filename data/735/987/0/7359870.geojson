@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.033333,20.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7359870","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359870,"name:xx":"Cuautepec"}}
+{
+  "id": 7359870,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359870",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359870,
+    "tgn:name":"Cuautepec",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.033333,20.35],"type":"Point"}
+}

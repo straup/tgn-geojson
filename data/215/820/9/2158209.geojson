@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.233300,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2158209","tgn:1000001","tgn:7012149","tgn:2001721","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2158209,"name:xx":"Beaver Ridge"}}
+{
+  "id": 2158209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158209",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001721",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158209,
+    "tgn:name":"Beaver Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2333,45.1833],"type":"Point"}
+}

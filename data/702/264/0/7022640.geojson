@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-71.800000,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7022640","tgn:1000001","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":7022640,"name:xx":"Crooked Brook"}}
+{
+  "id": 7022640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022640",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022640,
+    "tgn:name":"Crooked Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.8,41.7],"type":"Point"}
+}

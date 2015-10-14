@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.816700,51.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7024808","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300387092"],"id":7024808,"name:ang":"Cresselai"}}
+{
+  "id": 7024808,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024808",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024808,
+    "tgn:name:ang":"Cresselai",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387092"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.8167,51.8833],"type":"Point"}
+}

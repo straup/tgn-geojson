@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.616700,50.966700]},"type":"Feature","properties":{"hierarchy":["tgn:7025412","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300386886"],"id":7025412,"name:xx":"Bickham Moor"}}
+{
+  "id": 7025412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025412",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025412,
+    "tgn:name":"Bickham Moor",
+    "tgn:placetype":[
+        "aat:300386886"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.6167,50.9667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.100000,41.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339951","tgn:1002165","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008680"],"id":2339951,"name:xx":"Freemans Pond"}}
+{
+  "id": 2339951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339951",
+        "tgn:1002165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339951,
+    "tgn:name":"Freemans Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.1,41.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.256389,45.418333]},"type":"Feature","properties":{"hierarchy":["tgn:7058090","tgn:7003006","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7058090,"name:xx":"Brenta, Naviglio"}}
+{
+  "id": 7058090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058090",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058090,
+    "tgn:name":"Brenta, Naviglio",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.256389,45.418333],"type":"Point"}
+}

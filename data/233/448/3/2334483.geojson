@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.466700,42.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2334483","tgn:1000001","tgn:1002724","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2334483,"name:xx":"Forest Park"}}
+{
+  "id": 2334483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334483",
+        "tgn:1000001",
+        "tgn:1002724",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334483,
+    "tgn:name":"Forest Park",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.4667,42.0833],"type":"Point"}
+}

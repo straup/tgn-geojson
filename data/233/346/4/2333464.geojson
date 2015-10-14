@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.400000,35.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2333464","tgn:1000001","tgn:7012149","tgn:2001486","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2333464,"name:xx":"Folley Branch"}}
+{
+  "id": 2333464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333464",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001486",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333464,
+    "tgn:name":"Folley Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4,35.25],"type":"Point"}
+}

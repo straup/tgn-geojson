@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.966667,21.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7366910","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366910,"name:xx":"El Trapichillo"}}
+{
+  "id": 7366910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366910",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366910,
+    "tgn:name":"El Trapichillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.966667,21.566667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.607778,22.360833]},"type":"Feature","properties":{"hierarchy":["tgn:7483822","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483822,"name:xx":"Fangliao Luqiao"}}
+{
+  "id": 7483822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483822",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483822,
+    "tgn:name":"Fangliao Luqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.607778,22.360833],"type":"Point"}
+}

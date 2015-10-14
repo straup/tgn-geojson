@@ -1,0 +1,28 @@
+{
+  "id": 7006928,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1ee6c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747034",
+        "gp:id":733474,
+        "qs:id":9,
+        "wof:id":101808443
+    },
+    "tgn:hierarchy":[
+        "tgn:7006928",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006928,
+    "tgn:name:nl":"Soest",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3,52.183333],"type":"Point"}
+}

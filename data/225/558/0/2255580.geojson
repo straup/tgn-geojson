@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.566700,31.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2255580","tgn:1000001","tgn:2000866","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2255580,"name:xx":"Copeland Landing"}}
+{
+  "id": 2255580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255580",
+        "tgn:1000001",
+        "tgn:2000866",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255580,
+    "tgn:name":"Copeland Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.5667,31.8333],"type":"Point"}
+}

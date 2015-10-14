@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.166700,27.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2407728","tgn:1000001","tgn:1002479","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008706"],"id":2407728,"name:xx":"Hurrah Creek"}}
+{
+  "id": 2407728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407728",
+        "tgn:1000001",
+        "tgn:1002479",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407728,
+    "tgn:name":"Hurrah Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1667,27.7167],"type":"Point"}
+}

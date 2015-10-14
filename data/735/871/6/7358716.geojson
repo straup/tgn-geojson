@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.066667,20.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7358716","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7358716,"name:xx":"Derrumbadero, Arroyo"}}
+{
+  "id": 7358716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358716",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358716,
+    "tgn:name":"Derrumbadero, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.066667,20.133333],"type":"Point"}
+}

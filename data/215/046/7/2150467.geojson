@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.800000,45.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2150467","tgn:1000001","tgn:7012149","tgn:2001293","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2150467,"name:xx":"Basin Lake"}}
+{
+  "id": 2150467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150467",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001293",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150467,
+    "tgn:name":"Basin Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8,45.0833],"type":"Point"}
+}

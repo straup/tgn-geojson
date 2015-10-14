@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,50.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7240886","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7240886,"name:xx":"Ferme la Folie"}}
+{
+  "id": 7240886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240886",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240886,
+    "tgn:name":"Ferme la Folie",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,50.333333],"type":"Point"}
+}

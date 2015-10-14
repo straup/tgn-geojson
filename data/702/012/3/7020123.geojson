@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.033300,48.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7020123","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":7020123,"name:xx":"Kings Canyon"}}
+{
+  "id": 7020123,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020123",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020123,
+    "tgn:name":"Kings Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0333,48.3833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.633300,46.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2336150","tgn:1000001","tgn:7012149","tgn:2000975","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2336150,"name:xx":"Foster Lake"}}
+{
+  "id": 2336150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336150",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000975",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336150,
+    "tgn:name":"Foster Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6333,46.45],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.129722,24.896389]},"type":"Feature","properties":{"hierarchy":["tgn:7480399","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480399,"name:xx":"Pengcuo"}}
+{
+  "id": 7480399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480399",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480399,
+    "tgn:name":"Pengcuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.129722,24.896389],"type":"Point"}
+}

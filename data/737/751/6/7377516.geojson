@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.250000,20.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7377516","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377516,"name:xx":"La \u00darsula"}}
+{
+  "id": 7377516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377516",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377516,
+    "tgn:name":"La \u00darsula",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.25,20.7],"type":"Point"}
+}

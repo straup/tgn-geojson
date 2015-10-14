@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-71.616700,42.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7022168","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300386994","aat:300008347"],"id":7022168,"name:xx":"Fort Devens"}}
+{
+  "id": 7022168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022168",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022168,
+    "tgn:name":"Fort Devens",
+    "tgn:placetype":[
+        "aat:300386994",
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.6167,42.5333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.000000,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2336616","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002566","tgn:7029392"],"placetype":["aat:300008347"],"id":2336616,"name:xx":"Four Pines"}}
+{
+  "id": 2336616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336616",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336616,
+    "tgn:name":"Four Pines",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.0,39.6],"type":"Point"}
+}

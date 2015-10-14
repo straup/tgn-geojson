@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.083300,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2252532","tgn:1000001","tgn:7012149","tgn:2002273","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2252532,"name:xx":"Conley Hollow"}}
+{
+  "id": 2252532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002273",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252532,
+    "tgn:name":"Conley Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0833,37.8833],"type":"Point"}
+}

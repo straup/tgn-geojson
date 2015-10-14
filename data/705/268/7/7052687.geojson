@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.583333,46.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7052687","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7052687,"name:xx":"Grosser Schafkopf"}}
+{
+  "id": 7052687,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052687",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052687,
+    "tgn:name":"Grosser Schafkopf",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.583333,46.85],"type":"Point"}
+}

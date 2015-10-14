@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.050000,45.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2764313","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300386845"],"id":2764313,"name:xx":"Whestphal Basin"}}
+{
+  "id": 2764313,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764313",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764313,
+    "tgn:name":"Whestphal Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.05,45.7667],"type":"Point"}
+}

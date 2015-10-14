@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.666700,42.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2335407","tgn:1000001","tgn:7013942","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2335407,"name:xx":"Fort Morris"}}
+{
+  "id": 2335407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335407",
+        "tgn:1000001",
+        "tgn:7013942",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335407,
+    "tgn:name":"Fort Morris",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.6667,42.65],"type":"Point"}
+}

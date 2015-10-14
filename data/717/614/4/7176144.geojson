@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.966667,52.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7176144","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7176144,"name:xx":"Gro\u00dfe M\u00fchleuhase"}}
+{
+  "id": 7176144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176144",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176144,
+    "tgn:name":"Gro\u00dfe M\u00fchleuhase",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.966667,52.7],"type":"Point"}
+}

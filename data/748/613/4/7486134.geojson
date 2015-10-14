@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.772530,23.978028]},"type":"Feature","properties":{"hierarchy":["tgn:7486134","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486134,"name:xx":"Malinkeng"}}
+{
+  "id": 7486134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486134",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486134,
+    "tgn:name":"Malinkeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.77253,23.978028],"type":"Point"}
+}

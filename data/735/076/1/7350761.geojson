@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.666667,25.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7350761","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350761,"name:xx":"Blanco, Cerro"}}
+{
+  "id": 7350761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350761",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350761,
+    "tgn:name":"Blanco, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.666667,25.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.416667,18.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7371542","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7371542,"name:xx":"La Defensa"}}
+{
+  "id": 7371542,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371542",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371542,
+    "tgn:name":"La Defensa",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.416667,18.7],"type":"Point"}
+}

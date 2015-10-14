@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.150000,37.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7023098","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":7023098,"name:xx":"Schoolhouse Draw"}}
+{
+  "id": 7023098,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023098",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023098,
+    "tgn:name":"Schoolhouse Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.15,37.75],"type":"Point"}
+}

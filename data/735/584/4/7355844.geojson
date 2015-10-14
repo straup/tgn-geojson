@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.450000,22.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7355844","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7355844,"name:xx":"Calles, Presa"}}
+{
+  "id": 7355844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355844",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355844,
+    "tgn:name":"Calles, Presa",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.45,22.15],"type":"Point"}
+}

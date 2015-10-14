@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-147.683300,61.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2769299","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2769299,"name:xx":"Wickersham, Mount"}}
+{
+  "id": 2769299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769299",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769299,
+    "tgn:name":"Wickersham, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-147.6833,61.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.133333,30.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7363775","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363775,"name:xx":"Rancho El Morado"}}
+{
+  "id": 7363775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363775",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363775,
+    "tgn:name":"Rancho El Morado",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.133333,30.1],"type":"Point"}
+}

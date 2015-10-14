@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.754349,24.298728]},"type":"Feature","properties":{"hierarchy":["tgn:7480390","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7480390,"name:xx":"Heping Chezhan"}}
+{
+  "id": 7480390,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480390",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480390,
+    "tgn:name":"Heping Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.754349,24.298728],"type":"Point"}
+}

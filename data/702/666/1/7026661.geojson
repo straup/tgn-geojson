@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-2.583300,51.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7026661","tgn:7002445","tgn:7019018","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7026661,"name:ang":"Horefelle"}}
+{
+  "id": 7026661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026661",
+        "tgn:7002445",
+        "tgn:7019018",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026661,
+    "tgn:name:ang":"Horefelle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.5833,51.4833],"type":"Point"}
+}

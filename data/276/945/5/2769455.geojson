@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.050000,40.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2769455","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2769455,"name:xx":"Wide Hollow"}}
+{
+  "id": 2769455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769455,
+    "tgn:name":"Wide Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.05,40.45],"type":"Point"}
+}

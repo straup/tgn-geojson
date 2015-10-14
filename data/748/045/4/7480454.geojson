@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.356694,23.139850]},"type":"Feature","properties":{"hierarchy":["tgn:7480454","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7480454,"name:xx":"Dabei Shan"}}
+{
+  "id": 7480454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480454",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480454,
+    "tgn:name":"Dabei Shan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.356694,23.13985],"type":"Point"}
+}

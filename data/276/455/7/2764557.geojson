@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.300000,44.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2764557","tgn:1002300","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300266640"],"id":2764557,"name:xx":"Whipple Ridge"}}
+{
+  "id": 2764557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764557",
+        "tgn:1002300",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764557,
+    "tgn:name":"Whipple Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.3,44.9833],"type":"Point"}
+}

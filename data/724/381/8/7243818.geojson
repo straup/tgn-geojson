@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.150000,50.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7243818","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7243818,"name:xx":"Ferme du Jambon"}}
+{
+  "id": 7243818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243818",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243818,
+    "tgn:name":"Ferme du Jambon",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.15,50.65],"type":"Point"}
+}

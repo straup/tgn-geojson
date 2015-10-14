@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.083300,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2404352","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000173","tgn:7029392"],"placetype":["aat:300008761"],"id":2404352,"name:xx":"Hub Hollow"}}
+{
+  "id": 2404352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404352",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000173",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404352,
+    "tgn:name":"Hub Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.0833,35.7833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.700000,39.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2159653","tgn:1000001","tgn:7012149","tgn:2002268","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2159653,"name:xx":"Bee Tree Hollow"}}
+{
+  "id": 2159653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159653",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002268",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159653,
+    "tgn:name":"Bee Tree Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7,39.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.766700,48.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2703481","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2703481,"name:xx":"Summit Lake"}}
+{
+  "id": 2703481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2703481",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2703481,
+    "tgn:name":"Summit Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7667,48.0333],"type":"Point"}
+}

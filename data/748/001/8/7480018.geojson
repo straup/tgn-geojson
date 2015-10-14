@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.411176,23.216013]},"type":"Feature","properties":{"hierarchy":["tgn:7480018","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480018,"name:xx":"Miaohoukeng"}}
+{
+  "id": 7480018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480018",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480018,
+    "tgn:name":"Miaohoukeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.411176,23.216013],"type":"Point"}
+}

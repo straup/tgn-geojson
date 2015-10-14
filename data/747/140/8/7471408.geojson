@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.713921,23.987249]},"type":"Feature","properties":{"hierarchy":["tgn:7471408","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471408,"name:xx":"Xiakanzih"}}
+{
+  "id": 7471408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471408",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471408,
+    "tgn:name":"Xiakanzih",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.713921,23.987249],"type":"Point"}
+}

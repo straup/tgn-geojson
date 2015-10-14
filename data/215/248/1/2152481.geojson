@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.783300,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2152481","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2152481,"name:xx":"Bay State Company Bog Reservoir"}}
+{
+  "id": 2152481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152481",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152481,
+    "tgn:name":"Bay State Company Bog Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.7833,41.95],"type":"Point"}
+}

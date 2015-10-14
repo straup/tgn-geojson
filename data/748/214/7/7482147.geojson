@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.808333,24.455833]},"type":"Feature","properties":{"hierarchy":["tgn:7482147","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482147,"name:xx":"Dazhong Miao"}}
+{
+  "id": 7482147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482147",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482147,
+    "tgn:name":"Dazhong Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.808333,24.455833],"type":"Point"}
+}

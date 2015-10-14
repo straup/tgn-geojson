@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.266667,44.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7053992","tgn:7003163","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053992,"name:xx":"Montecarelli"}}
+{
+  "id": 7053992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053992",
+        "tgn:7003163",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053992,
+    "tgn:name":"Montecarelli",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.266667,44.05],"type":"Point"}
+}

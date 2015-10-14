@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.133333,48.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7113056","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7113056,"name:xx":"Reuten Bach"}}
+{
+  "id": 7113056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113056",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113056,
+    "tgn:name":"Reuten Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.133333,48.016667],"type":"Point"}
+}

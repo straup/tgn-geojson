@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.233300,65.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2760515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008707"],"id":2760515,"name:xx":"West Fork Tolovana River"}}
+{
+  "id": 2760515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760515,
+    "tgn:name":"West Fork Tolovana River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.2333,65.35],"type":"Point"}
+}

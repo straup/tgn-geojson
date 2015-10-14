@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.933300,43.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2338496","tgn:1000001","tgn:7012149","tgn:2002374","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2338496,"name:xx":"Fraker Mountain"}}
+{
+  "id": 2338496,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338496",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002374",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338496,
+    "tgn:name":"Fraker Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9333,43.7667],"type":"Point"}
+}

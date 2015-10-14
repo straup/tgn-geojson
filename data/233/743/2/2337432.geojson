@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.450000,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2337432","tgn:1000001","tgn:7012149","tgn:2000978","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2337432,"name:xx":"Fowler Creek"}}
+{
+  "id": 2337432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337432",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000978",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337432,
+    "tgn:name":"Fowler Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.45,45.3333],"type":"Point"}
+}

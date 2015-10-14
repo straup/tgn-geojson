@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.500000,40.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7056381","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7056381,"name:xx":"Oddeu, Monte"}}
+{
+  "id": 7056381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056381",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056381,
+    "tgn:name":"Oddeu, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.5,40.2],"type":"Point"}
+}

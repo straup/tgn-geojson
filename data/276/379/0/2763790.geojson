@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.583300,39.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2763790","tgn:1000001","tgn:7012149","tgn:2002301","tgn:7013961","tgn:7029392"],"placetype":["aat:300008347"],"id":2763790,"name:xx":"Wheat"}}
+{
+  "id": 2763790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763790",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002301",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763790,
+    "tgn:name":"Wheat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5833,39.6167],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-118.250000,44.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7020810","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020810,"name:xx":"Grande Ronde River"}}
+{
+  "id": 7020810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020810",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020810,
+    "tgn:name":"Grande Ronde River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.25,44.95],"type":"Point"}
+}

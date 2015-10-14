@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.083333,38.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7055835","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055835,"name:xx":"Plaesano"}}
+{
+  "id": 7055835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055835",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055835,
+    "tgn:name":"Plaesano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.083333,38.483333],"type":"Point"}
+}

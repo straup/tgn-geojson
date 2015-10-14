@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.980278,24.795833]},"type":"Feature","properties":{"hierarchy":["tgn:7481027","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481027,"name:xx":"Dongshan Qiao"}}
+{
+  "id": 7481027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481027",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481027,
+    "tgn:name":"Dongshan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.980278,24.795833],"type":"Point"}
+}

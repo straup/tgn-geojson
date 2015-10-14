@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-94.516700,35.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7023328","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7023328,"name:xx":"Snake Mountain"}}
+{
+  "id": 7023328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023328,
+    "tgn:name":"Snake Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5167,35.9167],"type":"Point"}
+}

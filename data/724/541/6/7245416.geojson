@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.963313,50.758294]},"type":"Feature","properties":{"hierarchy":["tgn:7245416","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7245416,"name:xx":"Bas-Warneton"}}
+{
+  "id": 7245416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245416",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245416,
+    "tgn:name":"Bas-Warneton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.963313,50.758294],"type":"Point"}
+}

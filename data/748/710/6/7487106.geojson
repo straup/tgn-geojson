@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.919450,24.467526]},"type":"Feature","properties":{"hierarchy":["tgn:7487106","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487106,"name:xx":"Baguali Xi"}}
+{
+  "id": 7487106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487106",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487106,
+    "tgn:name":"Baguali Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.91945,24.467526],"type":"Point"}
+}

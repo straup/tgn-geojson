@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.450000,41.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7020058","tgn:1000001","tgn:7012149","tgn:1002564","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":7020058,"name:xx":"Kizers Little Lake"}}
+{
+  "id": 7020058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020058",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002564",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020058,
+    "tgn:name":"Kizers Little Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.45,41.45],"type":"Point"}
+}

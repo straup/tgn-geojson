@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.608999,24.663150]},"type":"Feature","properties":{"hierarchy":["tgn:7475759","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7475759,"name:xx":"Pobuwu Ti"}}
+{
+  "id": 7475759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475759",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475759,
+    "tgn:name":"Pobuwu Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.608999,24.66315],"type":"Point"}
+}

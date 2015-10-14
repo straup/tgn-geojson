@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.300000,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7375431","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7375431,"name:xx":"Las Sabinas"}}
+{
+  "id": 7375431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375431",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375431,
+    "tgn:name":"Las Sabinas",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.3,25.966667],"type":"Point"}
+}

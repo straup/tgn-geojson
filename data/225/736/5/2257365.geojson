@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.300000,32.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2257365","tgn:1000001","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2257365,"name:xx":"Cornucopia Draw"}}
+{
+  "id": 2257365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257365",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257365,
+    "tgn:name":"Cornucopia Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.3,32.55],"type":"Point"}
+}

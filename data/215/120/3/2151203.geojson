@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.433300,33.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2151203","tgn:1000001","tgn:7012149","tgn:2001762","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2151203,"name:xx":"Batchelor Branch"}}
+{
+  "id": 2151203,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151203",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001762",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151203,
+    "tgn:name":"Batchelor Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4333,33.4],"type":"Point"}
+}

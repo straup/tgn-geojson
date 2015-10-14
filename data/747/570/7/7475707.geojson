@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.926817,24.669495]},"type":"Feature","properties":{"hierarchy":["tgn:7475707","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7475707,"name:xx":"Renzi Shan"}}
+{
+  "id": 7475707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475707",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475707,
+    "tgn:name":"Renzi Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.926817,24.669495],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.407586,23.210615]},"type":"Feature","properties":{"hierarchy":["tgn:7480014","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008773"],"id":7480014,"name:xx":"Zhuhukeng"}}
+{
+  "id": 7480014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480014",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480014,
+    "tgn:name":"Zhuhukeng",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.407586,23.210615],"type":"Point"}
+}

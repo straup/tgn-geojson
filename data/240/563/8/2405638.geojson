@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.800000,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2405638","tgn:1000001","tgn:1002233","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008905"],"id":2405638,"name:xx":"Hughes Swamp"}}
+{
+  "id": 2405638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405638",
+        "tgn:1000001",
+        "tgn:1002233",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405638,
+    "tgn:name":"Hughes Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.8,40.8833],"type":"Point"}
+}

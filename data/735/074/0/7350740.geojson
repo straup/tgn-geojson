@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.000000,30.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7350740","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7350740,"name:xx":"Blanco, Puerto"}}
+{
+  "id": 7350740,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350740",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350740,
+    "tgn:name":"Blanco, Puerto",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0,30.083333],"type":"Point"}
+}

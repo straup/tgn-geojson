@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.207814,50.211597]},"type":"Feature","properties":{"hierarchy":["tgn:7247188","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7247188,"name:xx":"Champs de la Fontaine"}}
+{
+  "id": 7247188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247188",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247188,
+    "tgn:name":"Champs de la Fontaine",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.207814,50.211597],"type":"Point"}
+}

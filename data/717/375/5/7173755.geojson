@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.833333,53.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7173755","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7173755,"name:xx":"Gro\u00df Bengerstorf"}}
+{
+  "id": 7173755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173755",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173755,
+    "tgn:name":"Gro\u00df Bengerstorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.833333,53.433333],"type":"Point"}
+}

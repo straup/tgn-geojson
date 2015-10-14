@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.783300,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2402431","tgn:1000001","tgn:7012149","tgn:1002810","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2402431,"name:xx":"Hortontown"}}
+{
+  "id": 2402431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402431",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002810",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402431,
+    "tgn:name":"Hortontown",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7833,41.4833],"type":"Point"}
+}

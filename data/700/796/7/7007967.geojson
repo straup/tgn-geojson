@@ -1,0 +1,27 @@
+{
+  "id": 7007967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7007967",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007967,
+    "tgn:name:de":"Ostende",
+    "tgn:name:en":"Ostend",
+    "tgn:name:fr":"Ostende",
+    "tgn:name:nl":"Oostende",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300000547",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.911854,51.223392],"type":"Point"}
+}

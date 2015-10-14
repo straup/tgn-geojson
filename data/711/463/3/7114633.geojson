@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.800000,48.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7114633","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300387200"],"id":7114633,"name:xx":"Riedelsbach"}}
+{
+  "id": 7114633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114633",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114633,
+    "tgn:name":"Riedelsbach",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.8,48.75],"type":"Point"}
+}

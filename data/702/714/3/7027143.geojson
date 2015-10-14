@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.700000,52.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7027143","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Stockton","id":7027143}}
+{
+  "id": 7027143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027143",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027143,
+    "tgn:name:en":"Stockton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.7,52.25],"type":"Point"}
+}

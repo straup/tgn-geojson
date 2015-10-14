@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.483300,42.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2408358","tgn:1000001","tgn:7012149","tgn:1003005","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2408358,"name:xx":"Hustin Drain"}}
+{
+  "id": 2408358,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408358",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003005",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408358,
+    "tgn:name":"Hustin Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.4833,42.3],"type":"Point"}
+}

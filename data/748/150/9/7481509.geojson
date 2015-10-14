@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.156389,24.250833]},"type":"Feature","properties":{"hierarchy":["tgn:7481509","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7481509,"name:xx":"Cheng'er Suidao"}}
+{
+  "id": 7481509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481509",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481509,
+    "tgn:name":"Cheng'er Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.156389,24.250833],"type":"Point"}
+}

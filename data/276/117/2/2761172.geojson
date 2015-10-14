@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.983300,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2761172","tgn:1000001","tgn:2002106","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2761172,"name:xx":"West Layton"}}
+{
+  "id": 2761172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761172",
+        "tgn:1000001",
+        "tgn:2002106",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761172,
+    "tgn:name":"West Layton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9833,41.05],"type":"Point"}
+}

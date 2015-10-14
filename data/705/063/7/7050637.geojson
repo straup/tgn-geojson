@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.500000,45.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7050637","tgn:7005765","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050637,"name:xx":"Picedo"}}
+{
+  "id": 7050637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050637",
+        "tgn:7005765",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050637,
+    "tgn:name":"Picedo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.5,45.55],"type":"Point"}
+}

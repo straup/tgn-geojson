@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.383300,37.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7023480","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7023480,"name:xx":"Mountain Home Reservoir"}}
+{
+  "id": 7023480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023480",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023480,
+    "tgn:name":"Mountain Home Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.3833,37.3833],"type":"Point"}
+}

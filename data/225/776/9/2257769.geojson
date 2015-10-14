@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.550000,40.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2257769","tgn:1000001","tgn:7012149","tgn:2002125","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2257769,"name:xx":"Corral Mountain"}}
+{
+  "id": 2257769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257769",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002125",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257769,
+    "tgn:name":"Corral Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.55,40.2167],"type":"Point"}
+}

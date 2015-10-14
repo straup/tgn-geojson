@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.621141,24.661160]},"type":"Feature","properties":{"hierarchy":["tgn:7475755","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475755,"name:xx":"Dianli Qiao"}}
+{
+  "id": 7475755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475755",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475755,
+    "tgn:name":"Dianli Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.621141,24.66116],"type":"Point"}
+}

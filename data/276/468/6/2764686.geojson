@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.450000,30.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2764686","tgn:1000001","tgn:7012149","tgn:2000897","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2764686,"name:xx":"Whiskey Bayou"}}
+{
+  "id": 2764686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764686",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000897",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764686,
+    "tgn:name":"Whiskey Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.45,30.0],"type":"Point"}
+}

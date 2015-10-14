@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.933300,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2760306","tgn:1000001","tgn:2002369","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2760306,"name:xx":"West Fork Sand Creek"}}
+{
+  "id": 2760306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760306",
+        "tgn:1000001",
+        "tgn:2002369",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760306,
+    "tgn:name":"West Fork Sand Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.9333,43.05],"type":"Point"}
+}

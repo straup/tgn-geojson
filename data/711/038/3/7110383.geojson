@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.633333,48.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7110383","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300387173"],"id":7110383,"name:xx":"Raitenhart"}}
+{
+  "id": 7110383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110383",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110383,
+    "tgn:name":"Raitenhart",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.633333,48.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.490417,22.586827]},"type":"Feature","properties":{"hierarchy":["tgn:7474938","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474938,"name:xx":"Wandan"}}
+{
+  "id": 7474938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474938",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474938,
+    "tgn:name":"Wandan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.490417,22.586827],"type":"Point"}
+}

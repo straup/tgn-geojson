@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.950000,43.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2409932","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2409932,"name:xx":"Imogene Lake"}}
+{
+  "id": 2409932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409932",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409932,
+    "tgn:name":"Imogene Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.95,43.9833],"type":"Point"}
+}

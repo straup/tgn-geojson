@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-93.116700,36.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7020914","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7020914,"name:xx":"McGill Hollow"}}
+{
+  "id": 7020914,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020914",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020914,
+    "tgn:name":"McGill Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1167,36.4667],"type":"Point"}
+}

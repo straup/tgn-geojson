@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.283300,45.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2336694","tgn:1000001","tgn:2001264","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008746"],"id":2336694,"name:xx":"Four by Four Cave"}}
+{
+  "id": 2336694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336694",
+        "tgn:1000001",
+        "tgn:2001264",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336694,
+    "tgn:name":"Four by Four Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2833,45.0333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[108.762000,28.866000]},"type":"Feature","properties":{"hierarchy":["tgn:7029693","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029693,"name:xx":"Youyang Tujiazu Miaozu Zizhixian"}}
+{
+  "id": 7029693,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029693",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029693,
+    "tgn:name":"Youyang Tujiazu Miaozu Zizhixian",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[108.762,28.866],"type":"Point"}
+}

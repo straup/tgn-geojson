@@ -1,0 +1,25 @@
+{
+  "id": 7005257,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005257",
+        "tgn:1000003",
+        "tgn:7005238",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005257,
+    "tgn:name":"La Cotte de St. Brelade",
+    "tgn:placetype":[
+        "aat:300019258",
+        "aat:300386972",
+        "aat:300000810",
+        "aat:300048808",
+        "aat:300391483",
+        "aat:300387247",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.1884,49.1756],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.683333,25.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7371947","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371947,"name:xx":"La Jarita"}}
+{
+  "id": 7371947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371947",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371947,
+    "tgn:name":"La Jarita",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.683333,25.666667],"type":"Point"}
+}

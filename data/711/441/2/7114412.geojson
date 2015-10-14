@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.100000,47.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7114412","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114412,"name:xx":"Riederau"}}
+{
+  "id": 7114412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114412",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114412,
+    "tgn:name":"Riederau",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.1,47.983333],"type":"Point"}
+}

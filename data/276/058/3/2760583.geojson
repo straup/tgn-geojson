@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.233300,45.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2760583","tgn:1000001","tgn:7012149","tgn:1002897","tgn:7007920","tgn:7029392"],"placetype":["aat:300008707"],"id":2760583,"name:xx":"West Fork Washougal River"}}
+{
+  "id": 2760583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760583",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002897",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760583,
+    "tgn:name":"West Fork Washougal River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2333,45.7333],"type":"Point"}
+}

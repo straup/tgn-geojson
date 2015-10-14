@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.666667,18.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7360282","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300011692"],"id":7360282,"name:xx":"Cuervo, Roca del"}}
+{
+  "id": 7360282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360282",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360282,
+    "tgn:name":"Cuervo, Roca del",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.666667,18.366667],"type":"Point"}
+}

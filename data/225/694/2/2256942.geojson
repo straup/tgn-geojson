@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.800000,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2256942","tgn:1000001","tgn:1002359","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008791"],"id":2256942,"name:xx":"Cormorant Rock"}}
+{
+  "id": 2256942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256942",
+        "tgn:1000001",
+        "tgn:1002359",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256942,
+    "tgn:name":"Cormorant Rock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8,42.5],"type":"Point"}
+}

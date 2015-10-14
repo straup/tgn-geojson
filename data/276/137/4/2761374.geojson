@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.216700,39.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2761374","tgn:1000001","tgn:7012149","tgn:2000230","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":2761374,"name:xx":"West Monument"}}
+{
+  "id": 2761374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761374",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000230",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761374,
+    "tgn:name":"West Monument",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2167,39.2167],"type":"Point"}
+}

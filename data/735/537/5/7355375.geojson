@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.016667,20.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7355375","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7355375,"name:xx":"Ceja Prieta"}}
+{
+  "id": 7355375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355375",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355375,
+    "tgn:name":"Ceja Prieta",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.016667,20.95],"type":"Point"}
+}

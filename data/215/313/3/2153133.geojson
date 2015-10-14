@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.600000,40.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2153133","tgn:1000001","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":2153133,"name:xx":"Beadow Creek"}}
+{
+  "id": 2153133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153133",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153133,
+    "tgn:name":"Beadow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.6,40.2],"type":"Point"}
+}

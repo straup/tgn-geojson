@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.416700,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2402283","tgn:1000001","tgn:7012149","tgn:2001858","tgn:7007825","tgn:7029392"],"placetype":["aat:300000390"],"id":2402283,"name:xx":"Hortense Mines"}}
+{
+  "id": 2402283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402283",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001858",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402283,
+    "tgn:name":"Hortense Mines",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.4167,36.1333],"type":"Point"}
+}

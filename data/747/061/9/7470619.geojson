@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.599233,23.533833]},"type":"Feature","properties":{"hierarchy":["tgn:7470619","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470619,"name:xx":"Tiexian"}}
+{
+  "id": 7470619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470619",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470619,
+    "tgn:name":"Tiexian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.599233,23.533833],"type":"Point"}
+}

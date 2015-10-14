@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.000000,17.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7379006","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379006,"name:xx":"Los Reyes Michapa"}}
+{
+  "id": 7379006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379006",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379006,
+    "tgn:name":"Los Reyes Michapa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.0,17.533333],"type":"Point"}
+}

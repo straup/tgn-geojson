@@ -1,0 +1,27 @@
+{
+  "id": 1047680,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0683a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758213",
+        "gp:id":728074,
+        "wof:id":101808353
+    },
+    "tgn:hierarchy":[
+        "tgn:1047680",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:1006988",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047680,
+    "tgn:name:nl":"Brouwershaven",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.916667,51.733333],"type":"Point"}
+}

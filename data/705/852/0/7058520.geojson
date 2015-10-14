@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.533333,44.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7058520","tgn:1003428","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058520,"name:xx":"Borgoratto Alessandrino"}}
+{
+  "id": 7058520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058520",
+        "tgn:1003428",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058520,
+    "tgn:name":"Borgoratto Alessandrino",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.533333,44.833333],"type":"Point"}
+}

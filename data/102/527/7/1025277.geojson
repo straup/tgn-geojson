@@ -1,0 +1,24 @@
+{
+  "id": 1025277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1025277",
+        "tgn:1001866",
+        "tgn:1000002",
+        "tgn:1000059",
+        "tgn:7029392"
+    ],
+    "tgn:id":1025277,
+    "tgn:name":"San Juan de los Morros",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387305",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.3833,9.8833],"type":"Point"}
+}

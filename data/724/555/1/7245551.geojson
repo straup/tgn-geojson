@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.300000,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7245551","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008903"],"id":7245551,"name:xx":"Beau Marais"}}
+{
+  "id": 7245551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245551",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245551,
+    "tgn:name":"Beau Marais",
+    "tgn:placetype":[
+        "aat:300008903"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3,51.1],"type":"Point"}
+}

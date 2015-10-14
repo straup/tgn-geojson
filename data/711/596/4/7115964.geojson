@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.833333,51.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7115964","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7115964,"name:xx":"Osten-Berg"}}
+{
+  "id": 7115964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115964",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115964,
+    "tgn:name":"Osten-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.833333,51.366667],"type":"Point"}
+}

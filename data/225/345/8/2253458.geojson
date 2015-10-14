@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.850000,34.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2253458","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7021514","tgn:7029392"],"placetype":["aat:300008746"],"id":2253458,"name:xx":"Cook Cave"}}
+{
+  "id": 2253458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253458",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7021514",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253458,
+    "tgn:name":"Cook Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.85,34.25],"type":"Point"}
+}

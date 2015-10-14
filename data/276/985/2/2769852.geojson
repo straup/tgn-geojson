@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.483300,44.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2769852","tgn:1000001","tgn:7012149","tgn:2000965","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":2769852,"name:xx":"Wilber"}}
+{
+  "id": 2769852,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769852",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000965",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769852,
+    "tgn:name":"Wilber",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.4833,44.3833],"type":"Point"}
+}

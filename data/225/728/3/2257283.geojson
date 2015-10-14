@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.066700,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2257283","tgn:1000001","tgn:2000316","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2257283,"name:xx":"Cornfield"}}
+{
+  "id": 2257283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257283",
+        "tgn:1000001",
+        "tgn:2000316",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257283,
+    "tgn:name":"Cornfield",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0667,31.8833],"type":"Point"}
+}

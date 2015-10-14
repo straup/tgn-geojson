@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.579922,23.896930]},"type":"Feature","properties":{"hierarchy":["tgn:7489814","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7489814,"name:xx":"Shetou Chezhan"}}
+{
+  "id": 7489814,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489814",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489814,
+    "tgn:name":"Shetou Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.579922,23.89693],"type":"Point"}
+}

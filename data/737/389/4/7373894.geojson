@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.850000,15.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7373894","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7373894,"name:xx":"La Bandera, Cerro"}}
+{
+  "id": 7373894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373894",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373894,
+    "tgn:name":"La Bandera, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.85,15.85],"type":"Point"}
+}

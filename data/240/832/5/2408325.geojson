@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.050000,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2408325","tgn:1000001","tgn:7012149","tgn:2001289","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2408325,"name:xx":"Hussey Creek"}}
+{
+  "id": 2408325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001289",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408325,
+    "tgn:name":"Hussey Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.05,46.4],"type":"Point"}
+}

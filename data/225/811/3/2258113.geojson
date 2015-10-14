@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.783300,36.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2258113","tgn:1000001","tgn:7012149","tgn:2000183","tgn:7007157","tgn:7029392"],"placetype":["aat:300008699"],"id":2258113,"name:xx":"Coso Wash"}}
+{
+  "id": 2258113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258113",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000183",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258113,
+    "tgn:name":"Coso Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7833,36.0167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.616700,38.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2403105","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2403105,"name:xx":"House Canyon"}}
+{
+  "id": 2403105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403105",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403105,
+    "tgn:name":"House Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.6167,38.5833],"type":"Point"}
+}

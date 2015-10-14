@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.316700,34.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2156196","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000047","tgn:7029392"],"placetype":["aat:300132348"],"id":2156196,"name:xx":"Beards Reef"}}
+{
+  "id": 2156196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156196",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000047",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156196,
+    "tgn:name":"Beards Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.3167,34.3833],"type":"Point"}
+}

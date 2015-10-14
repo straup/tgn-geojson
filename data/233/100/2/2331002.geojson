@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.016700,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2331002","tgn:1000001","tgn:7012149","tgn:2000964","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2331002,"name:xx":"Flat Rock Point"}}
+{
+  "id": 2331002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331002",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000964",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331002,
+    "tgn:name":"Flat Rock Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0167,44.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.926498,50.562698]},"type":"Feature","properties":{"hierarchy":["tgn:7242153","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242153,"name:xx":"Le Long Pont"}}
+{
+  "id": 7242153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242153",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242153,
+    "tgn:name":"Le Long Pont",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.926498,50.562698],"type":"Point"}
+}

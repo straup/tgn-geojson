@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7241801","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008347"],"id":7241801,"name:xx":"Laken"}}
+{
+  "id": 7241801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241801",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241801,
+    "tgn:name":"Laken",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.866667],"type":"Point"}
+}

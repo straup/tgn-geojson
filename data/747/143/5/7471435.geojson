@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.412330,24.529171]},"type":"Feature","properties":{"hierarchy":["tgn:7471435","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7471435,"name:xx":"Hou Yu"}}
+{
+  "id": 7471435,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471435",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471435,
+    "tgn:name":"Hou Yu",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.41233,24.529171],"type":"Point"}
+}

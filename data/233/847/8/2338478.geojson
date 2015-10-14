@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.400000,56.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2338478","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300008791"],"id":2338478,"name:xx":"Fragrant Island"}}
+{
+  "id": 2338478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338478",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338478,
+    "tgn:name":"Fragrant Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.4,56.8333],"type":"Point"}
+}

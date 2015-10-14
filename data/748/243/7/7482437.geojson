@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.355903,23.094942]},"type":"Feature","properties":{"hierarchy":["tgn:7482437","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482437,"name:xx":"Fuyuan Gong"}}
+{
+  "id": 7482437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482437",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482437,
+    "tgn:name":"Fuyuan Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.355903,23.094942],"type":"Point"}
+}

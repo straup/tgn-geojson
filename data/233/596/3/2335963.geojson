@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-169.966700,63.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2335963","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000079","tgn:7029392"],"placetype":["aat:300008707"],"id":2335963,"name:xx":"Fossil River"}}
+{
+  "id": 2335963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335963",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000079",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335963,
+    "tgn:name":"Fossil River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-169.9667,63.2667],"type":"Point"}
+}

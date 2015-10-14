@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.300000,44.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7056469","tgn:7005126","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008798"],"id":7056469,"name:xx":"Mercantour, Cime de"}}
+{
+  "id": 7056469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056469",
+        "tgn:7005126",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056469,
+    "tgn:name":"Mercantour, Cime de",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.3,44.133333],"type":"Point"}
+}

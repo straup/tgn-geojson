@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.216667,50.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7177797","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177797,"name:xx":"Haitz"}}
+{
+  "id": 7177797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177797",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177797,
+    "tgn:name":"Haitz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.216667,50.216667],"type":"Point"}
+}

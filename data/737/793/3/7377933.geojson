@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.850000,24.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7377933","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377933,"name:xx":"La Vieja"}}
+{
+  "id": 7377933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377933",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377933,
+    "tgn:name":"La Vieja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.85,24.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.233333,51.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7117727","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7117727,"name:xx":"F\u00f6rsterei Ostheide"}}
+{
+  "id": 7117727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117727",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117727,
+    "tgn:name":"F\u00f6rsterei Ostheide",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.233333,51.533333],"type":"Point"}
+}

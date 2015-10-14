@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.016700,35.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2251468","tgn:1000001","tgn:2001479","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2251468,"name:xx":"Comm Scope Lake"}}
+{
+  "id": 2251468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251468",
+        "tgn:1000001",
+        "tgn:2001479",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251468,
+    "tgn:name":"Comm Scope Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0167,35.65],"type":"Point"}
+}

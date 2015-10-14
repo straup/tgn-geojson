@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.333333,28.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7360849","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360849,"name:xx":"C\u00f3rdova"}}
+{
+  "id": 7360849,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360849",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360849,
+    "tgn:name":"C\u00f3rdova",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.333333,28.766667],"type":"Point"}
+}

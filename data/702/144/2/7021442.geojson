@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.650000,39.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7021442","tgn:1000001","tgn:7012149","tgn:2002296","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021442,"name:xx":"Big Spring Run"}}
+{
+  "id": 7021442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021442",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002296",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021442,
+    "tgn:name":"Big Spring Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.65,39.0333],"type":"Point"}
+}

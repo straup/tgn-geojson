@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.926853,25.032009]},"type":"Feature","properties":{"hierarchy":["tgn:7476921","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476921,"name:xx":"Shalunzi"}}
+{
+  "id": 7476921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476921",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476921,
+    "tgn:name":"Shalunzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.926853,25.032009],"type":"Point"}
+}

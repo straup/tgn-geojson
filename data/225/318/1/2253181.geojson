@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.733300,47.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2253181","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2253181,"name:xx":"Continental Lake"}}
+{
+  "id": 2253181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253181",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253181,
+    "tgn:name":"Continental Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7333,47.5833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.531667,23.231389]},"type":"Feature","properties":{"hierarchy":["tgn:7483522","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483522,"name:xx":"Zhutou Shan"}}
+{
+  "id": 7483522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483522",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483522,
+    "tgn:name":"Zhutou Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.531667,23.231389],"type":"Point"}
+}

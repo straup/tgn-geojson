@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[35.305000,31.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7029616","tgn:7016849","tgn:1000004","tgn:1000119","tgn:7029392"],"placetype":["aat:300008347"],"id":7029616,"name:xx":"At Tayyibah"}}
+{
+  "id": 7029616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029616",
+        "tgn:7016849",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029616,
+    "tgn:name":"At Tayyibah",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.305,31.95],"type":"Point"}
+}

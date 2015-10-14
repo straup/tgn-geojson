@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-134.100000,56.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2154774","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000088","tgn:7029392"],"placetype":["aat:300132316"],"id":2154774,"name:xx":"Bear Harbor"}}
+{
+  "id": 2154774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154774",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000088",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154774,
+    "tgn:name":"Bear Harbor",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-134.1,56.2333],"type":"Point"}
+}

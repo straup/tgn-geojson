@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.283300,51.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7026556","tgn:7002445","tgn:1000003","tgn:7019020","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026556,"name:xx":"Badminton"}}
+{
+  "id": 7026556,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026556",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019020",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026556,
+    "tgn:name":"Badminton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.2833,51.5333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.783333,21.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7378848","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378848,"name:xx":"Los Ranchos"}}
+{
+  "id": 7378848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378848",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378848,
+    "tgn:name":"Los Ranchos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.783333,21.416667],"type":"Point"}
+}

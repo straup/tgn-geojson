@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.516700,30.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2152755","tgn:2000001","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2152755,"name:xx":"Bayou Saint John"}}
+{
+  "id": 2152755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152755",
+        "tgn:2000001",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152755,
+    "tgn:name":"Bayou Saint John",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.5167,30.2833],"type":"Point"}
+}

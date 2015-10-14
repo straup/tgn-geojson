@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[15.900000,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7055385","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055385,"name:xx":"Li Calcarai"}}
+{
+  "id": 7055385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055385",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055385,
+    "tgn:name":"Li Calcarai",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.9,40.95],"type":"Point"}
+}

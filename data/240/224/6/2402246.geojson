@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.833300,33.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2402246","tgn:7002659","tgn:1000001","tgn:2000013","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2402246,"name:xx":"Horsetrough Creek"}}
+{
+  "id": 2402246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402246",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000013",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402246,
+    "tgn:name":"Horsetrough Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8333,33.3],"type":"Point"}
+}

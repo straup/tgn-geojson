@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.623611,23.515000]},"type":"Feature","properties":{"hierarchy":["tgn:7485050","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485050,"name:xx":"Shibaxuezi"}}
+{
+  "id": 7485050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485050",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485050,
+    "tgn:name":"Shibaxuezi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.623611,23.515],"type":"Point"}
+}

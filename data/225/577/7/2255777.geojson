@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.866700,35.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2255777","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2255777,"name:xx":"Copper Canyon"}}
+{
+  "id": 2255777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255777",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255777,
+    "tgn:name":"Copper Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.8667,35.6833],"type":"Point"}
+}

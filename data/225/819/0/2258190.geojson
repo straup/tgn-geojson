@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.583300,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2258190","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000051","tgn:7029392"],"placetype":["aat:300008746"],"id":2258190,"name:xx":"Cotaco Shoals Cave"}}
+{
+  "id": 2258190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258190",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000051",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258190,
+    "tgn:name":"Cotaco Shoals Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5833,34.3333],"type":"Point"}
+}

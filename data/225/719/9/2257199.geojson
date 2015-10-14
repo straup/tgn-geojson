@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.666700,42.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2257199","tgn:1000001","tgn:7012149","tgn:2000472","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2257199,"name:xx":"Corner Spring"}}
+{
+  "id": 2257199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257199",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000472",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257199,
+    "tgn:name":"Corner Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6667,42.3167],"type":"Point"}
+}

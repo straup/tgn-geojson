@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.783333,49.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7110003","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110003,"name:xx":"Reilsheim"}}
+{
+  "id": 7110003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110003",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110003,
+    "tgn:name":"Reilsheim",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.783333,49.35],"type":"Point"}
+}

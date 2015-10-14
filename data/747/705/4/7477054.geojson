@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.817510,24.555251]},"type":"Feature","properties":{"hierarchy":["tgn:7477054","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7477054,"name:xx":"Xishimei"}}
+{
+  "id": 7477054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477054",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477054,
+    "tgn:name":"Xishimei",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.81751,24.555251],"type":"Point"}
+}

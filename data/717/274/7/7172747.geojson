@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.600000,48.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7172747","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7172747,"name:xx":"Heust\u00e4tt"}}
+{
+  "id": 7172747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172747",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172747,
+    "tgn:name":"Heust\u00e4tt",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.6,48.966667],"type":"Point"}
+}

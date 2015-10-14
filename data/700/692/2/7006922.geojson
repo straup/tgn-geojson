@@ -1,0 +1,29 @@
+{
+  "id": 7006922,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f02df2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759821",
+        "gp:id":727211,
+        "qs:id":8,
+        "wof:id":101751821
+    },
+    "tgn:hierarchy":[
+        "tgn:7006922",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006922,
+    "tgn:name:nl":"Amersfoort",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.383333,52.15],"type":"Point"}
+}

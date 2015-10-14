@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.507222,22.814722]},"type":"Feature","properties":{"hierarchy":["tgn:7487933","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487933,"name:xx":"Nanxing"}}
+{
+  "id": 7487933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487933",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487933,
+    "tgn:name":"Nanxing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.507222,22.814722],"type":"Point"}
+}

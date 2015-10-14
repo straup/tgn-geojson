@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.163188,25.064630]},"type":"Feature","properties":{"hierarchy":["tgn:7477491","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477491,"name:xx":"Sanpi Qiao"}}
+{
+  "id": 7477491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477491",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477491,
+    "tgn:name":"Sanpi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.163188,25.06463],"type":"Point"}
+}

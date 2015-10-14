@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-157.050000,64.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2253574","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008791"],"id":2253574,"name:xx":"Cook Island"}}
+{
+  "id": 2253574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253574",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253574,
+    "tgn:name":"Cook Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-157.05,64.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.383333,24.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7361663","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361663,"name:xx":"Rancho El Coyote"}}
+{
+  "id": 7361663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361663",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361663,
+    "tgn:name":"Rancho El Coyote",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.383333,24.3],"type":"Point"}
+}

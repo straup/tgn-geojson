@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.383300,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2335369","tgn:1000001","tgn:7012149","tgn:2001713","tgn:7007708","tgn:7029392"],"placetype":["aat:300008347"],"id":2335369,"name:xx":"Fort Leland"}}
+{
+  "id": 2335369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335369",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001713",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335369,
+    "tgn:name":"Fort Leland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.3833,42.6333],"type":"Point"}
+}

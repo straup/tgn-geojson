@@ -1,0 +1,27 @@
+{
+  "id": 7006890,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f08c48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756767",
+        "gp:id":728752,
+        "qs:id":4,
+        "wof:id":101808663
+    },
+    "tgn:hierarchy":[
+        "tgn:7006890",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006890,
+    "tgn:name:nl":"Doetinchem",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.3,51.966667],"type":"Point"}
+}

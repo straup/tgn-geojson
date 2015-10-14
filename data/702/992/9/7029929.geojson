@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-2.033333,54.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7029929","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029929,"name:xx":"Conistone","name:ang":"Cunestune"}}
+{
+  "id": 7029929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029929",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029929,
+    "tgn:name":"Conistone",
+    "tgn:name:ang":"Cunestune",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.033333,54.1],"type":"Point"}
+}

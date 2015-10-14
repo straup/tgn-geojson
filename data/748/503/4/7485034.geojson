@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.863889,22.488333]},"type":"Feature","properties":{"hierarchy":["tgn:7485034","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485034,"name:xx":"Gudakasi"}}
+{
+  "id": 7485034,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485034",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485034,
+    "tgn:name":"Gudakasi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.863889,22.488333],"type":"Point"}
+}

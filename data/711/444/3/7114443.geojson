@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.116667,51.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7114443","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114443,"name:xx":"Renshausen"}}
+{
+  "id": 7114443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114443",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114443,
+    "tgn:name":"Renshausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.116667,51.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.400000,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2152770","tgn:1000001","tgn:2000863","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2152770,"name:xx":"Bayou d'Inde"}}
+{
+  "id": 2152770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152770",
+        "tgn:1000001",
+        "tgn:2000863",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152770,
+    "tgn:name":"Bayou d'Inde",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4,30.2333],"type":"Point"}
+}

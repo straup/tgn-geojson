@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.450000,40.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2158589","tgn:1000001","tgn:7012149","tgn:1002580","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2158589,"name:xx":"Beaverdam Run"}}
+{
+  "id": 2158589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002580",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158589,
+    "tgn:name":"Beaverdam Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.45,40.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.033333,29.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7353700","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353700,"name:xx":"Bufanda"}}
+{
+  "id": 7353700,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353700",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353700,
+    "tgn:name":"Bufanda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.033333,29.033333],"type":"Point"}
+}

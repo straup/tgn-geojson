@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.433300,28.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2333200","tgn:1000001","tgn:1002479","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2333200,"name:xx":"Flynn Lake"}}
+{
+  "id": 2333200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333200",
+        "tgn:1000001",
+        "tgn:1002479",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333200,
+    "tgn:name":"Flynn Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4333,28.0833],"type":"Point"}
+}

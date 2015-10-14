@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.583333,30.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7354375","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7354375,"name:xx":"Rancho Cascajal"}}
+{
+  "id": 7354375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354375",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354375,
+    "tgn:name":"Rancho Cascajal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.583333,30.333333],"type":"Point"}
+}

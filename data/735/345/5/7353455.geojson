@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.100000,31.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7353455","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7353455,"name:xx":"Rancho Buenavista"}}
+{
+  "id": 7353455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353455",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353455,
+    "tgn:name":"Rancho Buenavista",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.1,31.083333],"type":"Point"}
+}

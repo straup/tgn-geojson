@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.250000,51.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7111938","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7111938,"name:xx":"Rhode"}}
+{
+  "id": 7111938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111938",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111938,
+    "tgn:name":"Rhode",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.25,51.966667],"type":"Point"}
+}

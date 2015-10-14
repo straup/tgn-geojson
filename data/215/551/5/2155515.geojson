@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.266700,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2155515","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":2155515,"name:xx":"Bear River Ridge"}}
+{
+  "id": 2155515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155515",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155515,
+    "tgn:name":"Bear River Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.2667,40.5],"type":"Point"}
+}

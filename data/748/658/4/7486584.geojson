@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.233333,23.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7486584","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486584,"name:xx":"Madou Zhen"}}
+{
+  "id": 7486584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486584",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486584,
+    "tgn:name":"Madou Zhen",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.233333,23.2],"type":"Point"}
+}

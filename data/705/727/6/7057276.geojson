@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.666667,37.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7057276","tgn:1000003","tgn:7003122","tgn:1001762","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057276,"name:xx":"Baglio Guttaja"}}
+{
+  "id": 7057276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057276",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1001762",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057276,
+    "tgn:name":"Baglio Guttaja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.666667,37.766667],"type":"Point"}
+}

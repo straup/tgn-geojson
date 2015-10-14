@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.600000,42.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7059085","tgn:7003171","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7059085,"name:xx":"Aia, Torrente l'"}}
+{
+  "id": 7059085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059085",
+        "tgn:7003171",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059085,
+    "tgn:name":"Aia, Torrente l'",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.6,42.316667],"type":"Point"}
+}

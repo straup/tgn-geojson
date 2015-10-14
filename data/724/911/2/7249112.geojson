@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.700000,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7249112","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7249112,"name:xx":"Molenvenbeek"}}
+{
+  "id": 7249112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249112",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249112,
+    "tgn:name":"Molenvenbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.7,51.1],"type":"Point"}
+}

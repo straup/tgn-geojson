@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.287900,23.942244]},"type":"Feature","properties":{"hierarchy":["tgn:7477992","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7477992,"name:xx":"Mudan Chi"}}
+{
+  "id": 7477992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477992",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477992,
+    "tgn:name":"Mudan Chi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2879,23.942244],"type":"Point"}
+}

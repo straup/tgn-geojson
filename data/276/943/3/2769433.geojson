@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.183300,39.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2769433","tgn:1000001","tgn:7012149","tgn:2002112","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2769433,"name:xx":"Wide Canyon"}}
+{
+  "id": 2769433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002112",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769433,
+    "tgn:name":"Wide Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1833,39.45],"type":"Point"}
+}

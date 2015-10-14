@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.000000,25.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7356301","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7356301,"name:xx":"Calemes, Arroyo de los"}}
+{
+  "id": 7356301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356301",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356301,
+    "tgn:name":"Calemes, Arroyo de los",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.0,25.516667],"type":"Point"}
+}

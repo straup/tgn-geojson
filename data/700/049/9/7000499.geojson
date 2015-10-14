@@ -1,0 +1,25 @@
+{
+  "id": 7000499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000499",
+        "tgn:7001242",
+        "tgn:7015048",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000499,
+    "tgn:name":"Oshogbo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300387270",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5833,7.8333],"type":"Point"}
+}

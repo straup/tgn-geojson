@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.016700,40.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2769830","tgn:1000001","tgn:7012149","tgn:1002513","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2769830,"name:xx":"Wikel Ditch"}}
+{
+  "id": 2769830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769830",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002513",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769830,
+    "tgn:name":"Wikel Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0167,40.4],"type":"Point"}
+}

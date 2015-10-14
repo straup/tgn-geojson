@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.466700,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2335106","tgn:1000001","tgn:2000592","tgn:7012149","tgn:7007253","tgn:7029392"],"placetype":["aat:300008347"],"id":2335106,"name:xx":"Forsyth"}}
+{
+  "id": 2335106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335106",
+        "tgn:1000001",
+        "tgn:2000592",
+        "tgn:7012149",
+        "tgn:7007253",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335106,
+    "tgn:name":"Forsyth",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.4667,43.25],"type":"Point"}
+}

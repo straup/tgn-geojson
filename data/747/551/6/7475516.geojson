@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.025278,24.722500]},"type":"Feature","properties":{"hierarchy":["tgn:7475516","tgn:1000004","tgn:7001002","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475516,"name:xx":"Bagu"}}
+{
+  "id": 7475516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475516",
+        "tgn:1000004",
+        "tgn:7001002",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475516,
+    "tgn:name":"Bagu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.025278,24.7225],"type":"Point"}
+}

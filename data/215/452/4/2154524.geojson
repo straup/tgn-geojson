@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.966700,44.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2154524","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2154524,"name:xx":"Bear Creek Spring"}}
+{
+  "id": 2154524,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154524",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154524,
+    "tgn:name":"Bear Creek Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9667,44.95],"type":"Point"}
+}

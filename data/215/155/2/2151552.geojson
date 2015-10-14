@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.416700,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2151552","tgn:1000001","tgn:7012149","tgn:2002299","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2151552,"name:xx":"Battern Fork"}}
+{
+  "id": 2151552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151552",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002299",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151552,
+    "tgn:name":"Battern Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4167,38.15],"type":"Point"}
+}

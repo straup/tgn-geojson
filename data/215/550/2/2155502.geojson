@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.350000,47.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2155502","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008707"],"id":2155502,"name:xx":"Bear River"}}
+{
+  "id": 2155502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155502",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155502,
+    "tgn:name":"Bear River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.35,47.65],"type":"Point"}
+}

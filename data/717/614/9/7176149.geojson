@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.800000,50.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7176149","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7176149,"name:xx":"Gro\u00dfe Mittweida"}}
+{
+  "id": 7176149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176149",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176149,
+    "tgn:name":"Gro\u00dfe Mittweida",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8,50.55],"type":"Point"}
+}

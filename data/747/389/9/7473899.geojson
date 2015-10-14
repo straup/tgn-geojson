@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.535135,24.979950]},"type":"Feature","properties":{"hierarchy":["tgn:7473899","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7473899,"name:xx":"Yuandong Gongyequ"}}
+{
+  "id": 7473899,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473899",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473899,
+    "tgn:name":"Yuandong Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.535135,24.97995],"type":"Point"}
+}

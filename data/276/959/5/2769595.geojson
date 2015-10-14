@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.100000,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2769595","tgn:1000001","tgn:7012149","tgn:2000837","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2769595,"name:xx":"Widows Branch"}}
+{
+  "id": 2769595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769595",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000837",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769595,
+    "tgn:name":"Widows Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1,37.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.716700,36.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2252199","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2252199,"name:xx":"Conejo Canyon"}}
+{
+  "id": 2252199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252199",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252199,
+    "tgn:name":"Conejo Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7167,36.8833],"type":"Point"}
+}

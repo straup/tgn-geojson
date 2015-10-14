@@ -1,0 +1,27 @@
+{
+  "id": 7013423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001109",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013423,
+    "tgn:name":"Biloxi",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387249",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.8833,30.3833],"type":"Point"}
+}

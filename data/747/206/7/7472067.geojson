@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.316667,24.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7472067","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7472067,"name:xx":"Wujin Jiang"}}
+{
+  "id": 7472067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472067",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472067,
+    "tgn:name":"Wujin Jiang",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.316667,24.433333],"type":"Point"}
+}

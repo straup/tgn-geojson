@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.733333,41.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7057615","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057615,"name:xx":"Aschi"}}
+{
+  "id": 7057615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057615",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057615,
+    "tgn:name":"Aschi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.733333,41.966667],"type":"Point"}
+}

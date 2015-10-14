@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.483333,30.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7363670","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363670,"name:xx":"Rancho El Babiso"}}
+{
+  "id": 7363670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363670",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363670,
+    "tgn:name":"Rancho El Babiso",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.483333,30.316667],"type":"Point"}
+}

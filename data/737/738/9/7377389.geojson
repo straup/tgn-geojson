@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.000000,18.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7377389","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7377389,"name:xx":"La Piedra"}}
+{
+  "id": 7377389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377389",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377389,
+    "tgn:name":"La Piedra",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.0,18.933333],"type":"Point"}
+}

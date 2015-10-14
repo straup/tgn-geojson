@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.450000,40.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2762941","tgn:1000001","tgn:7012149","tgn:1002917","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2762941,"name:xx":"Westland Park"}}
+{
+  "id": 2762941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762941",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002917",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762941,
+    "tgn:name":"Westland Park",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.45,40.7833],"type":"Point"}
+}

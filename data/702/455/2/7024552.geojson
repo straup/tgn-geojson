@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-37.866700,65.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7024552","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008676"],"name:en":"Rothes Fiord","id":7024552}}
+{
+  "id": 7024552,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024552",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024552,
+    "tgn:name:en":"Rothes Fiord",
+    "tgn:placetype":[
+        "aat:300008676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-37.8667,65.9833],"type":"Point"}
+}

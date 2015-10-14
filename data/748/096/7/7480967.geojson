@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.527778,23.807778]},"type":"Feature","properties":{"hierarchy":["tgn:7480967","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7480967,"name:xx":"Honghua Si"}}
+{
+  "id": 7480967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480967",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480967,
+    "tgn:name":"Honghua Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.527778,23.807778],"type":"Point"}
+}

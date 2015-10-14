@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.359444,24.027500]},"type":"Feature","properties":{"hierarchy":["tgn:7473078","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008749"],"id":7473078,"name:xx":"Tianchang Duanyai"}}
+{
+  "id": 7473078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473078",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473078,
+    "tgn:name":"Tianchang Duanyai",
+    "tgn:placetype":[
+        "aat:300008749"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.359444,24.0275],"type":"Point"}
+}

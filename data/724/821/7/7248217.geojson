@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.966667,50.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7248217","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7248217,"name:xx":"Belleheid, Bois de"}}
+{
+  "id": 7248217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248217",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248217,
+    "tgn:name":"Belleheid, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.966667,50.516667],"type":"Point"}
+}

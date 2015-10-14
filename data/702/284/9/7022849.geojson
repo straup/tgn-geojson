@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-76.416700,35.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022849","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008850"],"id":7022849,"name:xx":"Dowdy Point"}}
+{
+  "id": 7022849,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022849",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022849,
+    "tgn:name":"Dowdy Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4167,35.0],"type":"Point"}
+}

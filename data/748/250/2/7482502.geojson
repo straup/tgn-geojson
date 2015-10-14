@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.502778,24.286111]},"type":"Feature","properties":{"hierarchy":["tgn:7482502","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006137"],"id":7482502,"name:xx":"Nan Fangboti"}}
+{
+  "id": 7482502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482502",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482502,
+    "tgn:name":"Nan Fangboti",
+    "tgn:placetype":[
+        "aat:300006137"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.502778,24.286111],"type":"Point"}
+}

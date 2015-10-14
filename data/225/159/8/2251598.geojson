@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.366700,41.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2251598","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008347"],"id":2251598,"name:xx":"Como"}}
+{
+  "id": 2251598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251598",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251598,
+    "tgn:name":"Como",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.3667,41.9],"type":"Point"}
+}

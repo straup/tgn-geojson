@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,45.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2408709","tgn:1000001","tgn:2001264","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2408709,"name:xx":"Hycke Ditch"}}
+{
+  "id": 2408709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408709",
+        "tgn:1000001",
+        "tgn:2001264",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408709,
+    "tgn:name":"Hycke Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,45.3833],"type":"Point"}
+}

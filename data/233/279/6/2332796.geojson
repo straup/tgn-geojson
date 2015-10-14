@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.850000,39.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2332796","tgn:1000001","tgn:7012149","tgn:2002269","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2332796,"name:xx":"Flowing Springs Run"}}
+{
+  "id": 2332796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332796",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002269",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332796,
+    "tgn:name":"Flowing Springs Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.85,39.3167],"type":"Point"}
+}

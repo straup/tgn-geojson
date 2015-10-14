@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.883300,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2337623","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2337623,"name:xx":"Fox Brook"}}
+{
+  "id": 2337623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337623",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337623,
+    "tgn:name":"Fox Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8833,42.0333],"type":"Point"}
+}

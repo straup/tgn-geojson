@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.050000,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2251520","tgn:1000001","tgn:2001261","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2251520,"name:xx":"Commissary Springs"}}
+{
+  "id": 2251520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251520",
+        "tgn:1000001",
+        "tgn:2001261",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251520,
+    "tgn:name":"Commissary Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.05,45.25],"type":"Point"}
+}

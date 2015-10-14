@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.783333,30.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7378093","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378093,"name:xx":"Las Chivas"}}
+{
+  "id": 7378093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378093",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378093,
+    "tgn:name":"Las Chivas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.783333,30.583333],"type":"Point"}
+}

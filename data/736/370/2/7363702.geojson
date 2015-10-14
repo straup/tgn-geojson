@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,21.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7363702","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7363702,"name:xx":"El Gigante"}}
+{
+  "id": 7363702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363702",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363702,
+    "tgn:name":"El Gigante",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,21.483333],"type":"Point"}
+}

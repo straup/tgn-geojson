@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.122222,24.931667]},"type":"Feature","properties":{"hierarchy":["tgn:7479960","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479960,"name:xx":"Ruiyuan Guozhong"}}
+{
+  "id": 7479960,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479960",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479960,
+    "tgn:name":"Ruiyuan Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.122222,24.931667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.133300,31.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2338560","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2338560,"name:xx":"Frances Branch"}}
+{
+  "id": 2338560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338560",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338560,
+    "tgn:name":"Frances Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.1333,31.35],"type":"Point"}
+}

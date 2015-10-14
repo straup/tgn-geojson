@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.216700,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7020877","tgn:1000001","tgn:2000458","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":7020877,"name:xx":"District Canal Forty-Five"}}
+{
+  "id": 7020877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020877",
+        "tgn:1000001",
+        "tgn:2000458",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020877,
+    "tgn:name":"District Canal Forty-Five",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.2167,43.4],"type":"Point"}
+}

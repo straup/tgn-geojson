@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.883300,39.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7022558","tgn:1000001","tgn:7012149","tgn:2000230","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7022558,"name:xx":"Y T Reservoir"}}
+{
+  "id": 7022558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022558",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000230",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022558,
+    "tgn:name":"Y T Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.8833,39.1833],"type":"Point"}
+}

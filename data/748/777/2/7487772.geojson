@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.986200,24.580600]},"type":"Feature","properties":{"hierarchy":["tgn:7487772","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487772,"name:xx":"Nanjiang Cun"}}
+{
+  "id": 7487772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487772",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487772,
+    "tgn:name":"Nanjiang Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.9862,24.5806],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-87.200000,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7020830","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020830,"name:xx":"Iroquois River"}}
+{
+  "id": 7020830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020830",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020830,
+    "tgn:name":"Iroquois River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.2,40.95],"type":"Point"}
+}

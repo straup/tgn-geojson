@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.350000,52.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7172837","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7172837,"name:xx":"Gro\u00dfe Herrenwiese"}}
+{
+  "id": 7172837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172837",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172837,
+    "tgn:name":"Gro\u00dfe Herrenwiese",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.35,52.3],"type":"Point"}
+}

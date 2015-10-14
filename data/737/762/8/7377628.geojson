@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.911944,27.009722]},"type":"Feature","properties":{"hierarchy":["tgn:7377628","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377628,"name:xx":"Rancho Las Cabras"}}
+{
+  "id": 7377628,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377628",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377628,
+    "tgn:name":"Rancho Las Cabras",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.911944,27.009722],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.600000,27.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7363840","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363840,"name:xx":"El Barbero, Picacho"}}
+{
+  "id": 7363840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363840",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363840,
+    "tgn:name":"El Barbero, Picacho",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.6,27.316667],"type":"Point"}
+}

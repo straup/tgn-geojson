@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.388457,23.101396]},"type":"Feature","properties":{"hierarchy":["tgn:7487622","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487622,"name:xx":"Keketan"}}
+{
+  "id": 7487622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487622",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487622,
+    "tgn:name":"Keketan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.388457,23.101396],"type":"Point"}
+}

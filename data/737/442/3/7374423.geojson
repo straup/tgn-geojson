@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.050000,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7374423","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374423,"name:xx":"Rancho La Mariposa"}}
+{
+  "id": 7374423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374423",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374423,
+    "tgn:name":"Rancho La Mariposa",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.05,27.85],"type":"Point"}
+}

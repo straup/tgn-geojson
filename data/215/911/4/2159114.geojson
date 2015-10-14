@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.300000,42.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2159114","tgn:1000001","tgn:1002245","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2159114,"name:xx":"Bedford Corners"}}
+{
+  "id": 2159114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159114",
+        "tgn:1000001",
+        "tgn:1002245",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159114,
+    "tgn:name":"Bedford Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3,42.05],"type":"Point"}
+}

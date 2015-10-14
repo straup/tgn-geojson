@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.600000,42.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7050367","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050367,"name:xx":"Nova, Fosso la"}}
+{
+  "id": 7050367,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050367",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050367,
+    "tgn:name":"Nova, Fosso la",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.6,42.583333],"type":"Point"}
+}

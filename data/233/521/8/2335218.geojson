@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.300000,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2335218","tgn:1000001","tgn:7012149","tgn:2002122","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2335218,"name:xx":"Fort Creek"}}
+{
+  "id": 2335218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335218",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002122",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335218,
+    "tgn:name":"Fort Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3,40.75],"type":"Point"}
+}

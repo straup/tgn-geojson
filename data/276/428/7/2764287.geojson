@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.716700,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2764287","tgn:1000001","tgn:7012149","tgn:2000789","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347"],"id":2764287,"name:xx":"Wheelwright Junction"}}
+{
+  "id": 2764287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764287",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000789",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764287,
+    "tgn:name":"Wheelwright Junction",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.7167,37.35],"type":"Point"}
+}

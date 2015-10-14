@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.666700,40.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2409294","tgn:1000001","tgn:7012149","tgn:2000226","tgn:7007158","tgn:7029392"],"placetype":["aat:300008699"],"id":2409294,"name:xx":"Icy Brook"}}
+{
+  "id": 2409294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409294",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000226",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409294,
+    "tgn:name":"Icy Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.6667,40.2667],"type":"Point"}
+}

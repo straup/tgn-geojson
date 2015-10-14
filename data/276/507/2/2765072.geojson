@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-78.900000,41.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2765072","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2765072,"name:xx":"Whisky Run"}}
+{
+  "id": 2765072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765072",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765072,
+    "tgn:name":"Whisky Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.9,41.9333],"type":"Point"}
+}

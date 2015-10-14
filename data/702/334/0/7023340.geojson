@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023340","tgn:1000001","tgn:7012149","tgn:1003017","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":7023340,"name:xx":"Lowber"}}
+{
+  "id": 7023340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023340",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003017",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023340,
+    "tgn:name":"Lowber",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,40.2333],"type":"Point"}
+}

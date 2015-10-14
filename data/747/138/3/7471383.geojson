@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.667400,23.773214]},"type":"Feature","properties":{"hierarchy":["tgn:7471383","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471383,"name:xx":"Fangliaozi"}}
+{
+  "id": 7471383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471383",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471383,
+    "tgn:name":"Fangliaozi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6674,23.773214],"type":"Point"}
+}

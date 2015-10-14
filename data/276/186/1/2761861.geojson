@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.716700,29.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2761861","tgn:1000001","tgn:7012149","tgn:1002578","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2761861,"name:xx":"West Ragsdale Creek"}}
+{
+  "id": 2761861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761861",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002578",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761861,
+    "tgn:name":"West Ragsdale Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.7167,29.4833],"type":"Point"}
+}

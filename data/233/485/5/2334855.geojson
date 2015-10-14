@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.266700,40.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2334855","tgn:1000001","tgn:7012149","tgn:1002995","tgn:7007710","tgn:7029392"],"placetype":["aat:300008706"],"id":2334855,"name:xx":"Fork of Bane Creek"}}
+{
+  "id": 2334855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334855",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002995",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334855,
+    "tgn:name":"Fork of Bane Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2667,40.1],"type":"Point"}
+}

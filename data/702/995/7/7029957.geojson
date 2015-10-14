@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-1.542000,53.718000]},"type":"Feature","properties":{"hierarchy":["tgn:7029957","tgn:7019038","tgn:7002445","tgn:1000003","tgn:7029507","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029957,"name:xx":"East Ardsley"}}
+{
+  "id": 7029957,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029957",
+        "tgn:7019038",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029507",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029957,
+    "tgn:name":"East Ardsley",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.542,53.718],"type":"Point"}
+}

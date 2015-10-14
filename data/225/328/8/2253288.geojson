@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.966700,42.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2253288","tgn:7019618","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2253288,"name:xx":"Converse Meadow Pond"}}
+{
+  "id": 2253288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253288",
+        "tgn:7019618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253288,
+    "tgn:name":"Converse Meadow Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.9667,42.7333],"type":"Point"}
+}

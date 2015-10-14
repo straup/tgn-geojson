@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.750000,32.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2762898","tgn:1000001","tgn:2001739","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2762898,"name:xx":"Westglow Haven Lake"}}
+{
+  "id": 2762898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762898",
+        "tgn:1000001",
+        "tgn:2001739",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762898,
+    "tgn:name":"Westglow Haven Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.75,32.9333],"type":"Point"}
+}

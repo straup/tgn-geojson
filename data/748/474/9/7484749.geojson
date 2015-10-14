@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.530278,24.285833]},"type":"Feature","properties":{"hierarchy":["tgn:7484749","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7484749,"name:xx":"Beiboqu"}}
+{
+  "id": 7484749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484749",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484749,
+    "tgn:name":"Beiboqu",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.530278,24.285833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.716667,23.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7365548","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7365548,"name:xx":"Encinos, Mesa los"}}
+{
+  "id": 7365548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365548",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365548,
+    "tgn:name":"Encinos, Mesa los",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.716667,23.45],"type":"Point"}
+}

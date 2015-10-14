@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.516700,39.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2255311","tgn:1002538","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008347"],"id":2255311,"name:xx":"Coopers Corner"}}
+{
+  "id": 2255311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255311",
+        "tgn:1002538",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255311,
+    "tgn:name":"Coopers Corner",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.5167,39.1333],"type":"Point"}
+}

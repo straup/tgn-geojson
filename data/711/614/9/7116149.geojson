@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.100000,52.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7116149","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7116149,"name:xx":"Ottoschacht"}}
+{
+  "id": 7116149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116149",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116149,
+    "tgn:name":"Ottoschacht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.1,52.2],"type":"Point"}
+}

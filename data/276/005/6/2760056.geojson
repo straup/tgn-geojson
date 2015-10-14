@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.766700,34.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2760056","tgn:1000001","tgn:7012149","tgn:2001976","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2760056,"name:xx":"West Fork Oaks Creek"}}
+{
+  "id": 2760056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760056",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001976",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760056,
+    "tgn:name":"West Fork Oaks Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.7667,34.7833],"type":"Point"}
+}

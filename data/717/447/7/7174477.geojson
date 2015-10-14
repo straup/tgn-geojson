@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.009722,51.214444]},"type":"Feature","properties":{"hierarchy":["tgn:7174477","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7174477,"name:xx":"Bahnhof Gruiten"}}
+{
+  "id": 7174477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174477",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174477,
+    "tgn:name":"Bahnhof Gruiten",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.009722,51.214444],"type":"Point"}
+}

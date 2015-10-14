@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.116700,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2156924","tgn:1000001","tgn:7012149","tgn:2002327","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2156924,"name:xx":"Beaumont, Lac de"}}
+{
+  "id": 2156924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156924",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002327",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156924,
+    "tgn:name":"Beaumont, Lac de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1167,46.2],"type":"Point"}
+}

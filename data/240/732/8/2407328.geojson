@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.933300,34.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2407328","tgn:1000001","tgn:7012149","tgn:2001764","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2407328,"name:xx":"Huntington"}}
+{
+  "id": 2407328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001764",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407328,
+    "tgn:name":"Huntington",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9333,34.05],"type":"Point"}
+}

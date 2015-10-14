@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.559490,24.079231]},"type":"Feature","properties":{"hierarchy":["tgn:7470602","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387200"],"id":7470602,"name:xx":"Fuxing Li"}}
+{
+  "id": 7470602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470602",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470602,
+    "tgn:name":"Fuxing Li",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.55949,24.079231],"type":"Point"}
+}

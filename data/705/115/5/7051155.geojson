@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[15.166667,36.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7051155","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008850"],"id":7051155,"name:xx":"Negro, Capo"}}
+{
+  "id": 7051155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051155",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051155,
+    "tgn:name":"Negro, Capo",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.166667,36.916667],"type":"Point"}
+}

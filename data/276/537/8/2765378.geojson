@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.366700,44.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2765378","tgn:2002130","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300132316"],"id":2765378,"name:xx":"White Bay"}}
+{
+  "id": 2765378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765378",
+        "tgn:2002130",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765378,
+    "tgn:name":"White Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.3667,44.1333],"type":"Point"}
+}

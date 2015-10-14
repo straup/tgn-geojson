@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.483333,44.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7059062","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7059062,"name:xx":"Stazione Airasca"}}
+{
+  "id": 7059062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059062",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059062,
+    "tgn:name":"Stazione Airasca",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.483333,44.916667],"type":"Point"}
+}

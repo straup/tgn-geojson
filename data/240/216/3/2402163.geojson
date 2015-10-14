@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.900000,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2402163","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300386845"],"id":2402163,"name:xx":"Horsethief Basin"}}
+{
+  "id": 2402163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402163",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402163,
+    "tgn:name":"Horsethief Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.9,44.5],"type":"Point"}
+}

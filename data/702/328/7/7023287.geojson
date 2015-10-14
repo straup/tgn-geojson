@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.216700,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7023287","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7023287,"name:xx":"Sellers-Crowell Reservoir"}}
+{
+  "id": 7023287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023287",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023287,
+    "tgn:name":"Sellers-Crowell Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2167,40.25],"type":"Point"}
+}

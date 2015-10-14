@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.534806,22.602870]},"type":"Feature","properties":{"hierarchy":["tgn:7474973","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474973,"name:xx":"Toulun"}}
+{
+  "id": 7474973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474973",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474973,
+    "tgn:name":"Toulun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.534806,22.60287],"type":"Point"}
+}

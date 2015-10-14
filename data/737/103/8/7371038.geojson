@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.166667,27.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7371038","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371038,"name:xx":"Rancho Gupaquiachic"}}
+{
+  "id": 7371038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371038",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371038,
+    "tgn:name":"Rancho Gupaquiachic",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.166667,27.566667],"type":"Point"}
+}

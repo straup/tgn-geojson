@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.730278,22.078889]},"type":"Feature","properties":{"hierarchy":["tgn:7485697","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7485697,"name:xx":"Checheng Xiang Di'er Gongmu"}}
+{
+  "id": 7485697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485697",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485697,
+    "tgn:name":"Checheng Xiang Di'er Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.730278,22.078889],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.816700,44.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2404606","tgn:1000001","tgn:2002310","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300266640"],"id":2404606,"name:xx":"Huber Ridge"}}
+{
+  "id": 2404606,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404606",
+        "tgn:1000001",
+        "tgn:2002310",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404606,
+    "tgn:name":"Huber Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.8167,44.2333],"type":"Point"}
+}

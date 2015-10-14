@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.500000,54.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2402898","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300008791"],"id":2402898,"name:xx":"Hotspur Island"}}
+{
+  "id": 2402898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402898",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402898,
+    "tgn:name":"Hotspur Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.5,54.9833],"type":"Point"}
+}

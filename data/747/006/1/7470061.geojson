@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.402755,25.075363]},"type":"Feature","properties":{"hierarchy":["tgn:7470061","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470061,"name:xx":"Hengkeya"}}
+{
+  "id": 7470061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470061",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470061,
+    "tgn:name":"Hengkeya",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.402755,25.075363],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.933300,39.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2250579","tgn:2000192","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2250579,"name:xx":"Colorado Agricultural Canal"}}
+{
+  "id": 2250579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250579",
+        "tgn:2000192",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250579,
+    "tgn:name":"Colorado Agricultural Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.9333,39.8667],"type":"Point"}
+}

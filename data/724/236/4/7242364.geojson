@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.909232,50.306054]},"type":"Feature","properties":{"hierarchy":["tgn:7242364","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7242364,"name:xx":"L'Air Bois"}}
+{
+  "id": 7242364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242364",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242364,
+    "tgn:name":"L'Air Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.909232,50.306054],"type":"Point"}
+}

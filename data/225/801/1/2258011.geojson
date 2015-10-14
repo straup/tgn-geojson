@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.500000,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2258011","tgn:1000001","tgn:7012149","tgn:1002728","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2258011,"name:xx":"Corwells Millpond"}}
+{
+  "id": 2258011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258011",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002728",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258011,
+    "tgn:name":"Corwells Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.5,36.5],"type":"Point"}
+}

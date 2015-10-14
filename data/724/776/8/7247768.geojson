@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.341512,51.056546]},"type":"Feature","properties":{"hierarchy":["tgn:7247768","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7247768,"name:xx":"Fort van Breendonk"}}
+{
+  "id": 7247768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247768",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247768,
+    "tgn:name":"Fort van Breendonk",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.341512,51.056546],"type":"Point"}
+}

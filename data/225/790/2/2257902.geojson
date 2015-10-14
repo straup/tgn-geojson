@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.966700,31.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2257902","tgn:1000001","tgn:7012149","tgn:2001444","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2257902,"name:xx":"Corrizalillo Spring"}}
+{
+  "id": 2257902,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257902",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001444",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257902,
+    "tgn:name":"Corrizalillo Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9667,31.8333],"type":"Point"}
+}

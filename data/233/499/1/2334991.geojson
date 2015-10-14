@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-119.633300,39.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2334991","tgn:1000001","tgn:7012149","tgn:1002921","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":2334991,"name:xx":"Formanville"}}
+{
+  "id": 2334991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334991",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002921",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334991,
+    "tgn:name":"Formanville",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.6333,39.2667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.500000,15.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7379610","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300005433"],"id":7379610,"name:xx":"Miguel Alem\u00e1n"}}
+{
+  "id": 7379610,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379610",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379610,
+    "tgn:name":"Miguel Alem\u00e1n",
+    "tgn:placetype":[
+        "aat:300005433"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5,15.733333],"type":"Point"}
+}

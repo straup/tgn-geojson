@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.733300,43.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2255523","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2255523,"name:xx":"Copeland Butte"}}
+{
+  "id": 2255523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255523",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255523,
+    "tgn:name":"Copeland Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7333,43.4333],"type":"Point"}
+}

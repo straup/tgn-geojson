@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.577222,23.615000]},"type":"Feature","properties":{"hierarchy":["tgn:7484587","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484587,"name:xx":"Gengzitou"}}
+{
+  "id": 7484587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484587",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484587,
+    "tgn:name":"Gengzitou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.577222,23.615],"type":"Point"}
+}

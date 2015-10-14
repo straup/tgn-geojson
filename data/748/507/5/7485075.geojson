@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.708333,23.597500]},"type":"Feature","properties":{"hierarchy":["tgn:7485075","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008736"],"id":7485075,"name:xx":"Penglai Pubu"}}
+{
+  "id": 7485075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485075",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485075,
+    "tgn:name":"Penglai Pubu",
+    "tgn:placetype":[
+        "aat:300008736"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.708333,23.5975],"type":"Point"}
+}

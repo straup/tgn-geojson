@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.666700,47.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2150209","tgn:1000001","tgn:7012149","tgn:1002521","tgn:7007920","tgn:7029392"],"placetype":["aat:300008850"],"id":2150209,"name:xx":"Basalt Point"}}
+{
+  "id": 2150209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150209",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002521",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150209,
+    "tgn:name":"Basalt Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.6667,47.95],"type":"Point"}
+}

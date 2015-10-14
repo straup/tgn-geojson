@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.950000,53.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7116255","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7116255,"name:xx":"Ohe"}}
+{
+  "id": 7116255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116255",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116255,
+    "tgn:name":"Ohe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.95,53.666667],"type":"Point"}
+}

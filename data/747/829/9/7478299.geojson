@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.487830,22.496100]},"type":"Feature","properties":{"hierarchy":["tgn:7478299","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7478299,"name:xx":"Sanxihe Nongchang"}}
+{
+  "id": 7478299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478299",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478299,
+    "tgn:name":"Sanxihe Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.48783,22.4961],"type":"Point"}
+}

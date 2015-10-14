@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.600000,33.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2337579","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2337579,"name:xx":"Fox Bayou"}}
+{
+  "id": 2337579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337579",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337579,
+    "tgn:name":"Fox Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6,33.6333],"type":"Point"}
+}

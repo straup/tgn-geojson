@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-70.333300,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7022799","tgn:1000001","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132348"],"id":7022799,"name:xx":"Ram Island Ledge"}}
+{
+  "id": 7022799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022799",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022799,
+    "tgn:name":"Ram Island Ledge",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.3333,43.45],"type":"Point"}
+}

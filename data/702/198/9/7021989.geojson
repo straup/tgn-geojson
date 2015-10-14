@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.700000,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7021989","tgn:1000001","tgn:7012149","tgn:7016020","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":7021989,"name:xx":"Lanigan Brook"}}
+{
+  "id": 7021989,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021989",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016020",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021989,
+    "tgn:name":"Lanigan Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7,41.6833],"type":"Point"}
+}

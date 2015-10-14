@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.540544,23.446197]},"type":"Feature","properties":{"hierarchy":["tgn:7472166","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7472166,"name:xx":"Wufeng Miao"}}
+{
+  "id": 7472166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472166",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472166,
+    "tgn:name":"Wufeng Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.540544,23.446197],"type":"Point"}
+}

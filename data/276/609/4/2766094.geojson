@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.366700,37.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2766094","tgn:1000001","tgn:7012149","tgn:7022208","tgn:7007919","tgn:7029392"],"placetype":["aat:300132316"],"id":2766094,"name:xx":"White House Cove"}}
+{
+  "id": 2766094,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766094",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022208",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766094,
+    "tgn:name":"White House Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.3667,37.1333],"type":"Point"}
+}

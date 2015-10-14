@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.000000,20.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7356967","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356967,"name:xx":"Chactunx"}}
+{
+  "id": 7356967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356967",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356967,
+    "tgn:name":"Chactunx",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0,20.533333],"type":"Point"}
+}

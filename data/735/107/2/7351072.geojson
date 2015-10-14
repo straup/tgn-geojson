@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.066667,25.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7351072","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351072,"name:xx":"Arcabuz, Sierra de"}}
+{
+  "id": 7351072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351072",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351072,
+    "tgn:name":"Arcabuz, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.066667,25.466667],"type":"Point"}
+}

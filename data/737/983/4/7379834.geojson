@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.150000,22.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7379834","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379834,"name:xx":"Los Espa\u00f1oles"}}
+{
+  "id": 7379834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379834",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379834,
+    "tgn:name":"Los Espa\u00f1oles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.15,22.75],"type":"Point"}
+}

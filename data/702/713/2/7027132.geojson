@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[21.250000,49.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7027132","tgn:1000003","tgn:7011765","tgn:7029392"],"placetype":["aat:300387064","aat:300236112"],"id":7027132,"name:xx":"Pre\u0161ovsk\u00fd"}}
+{
+  "id": 7027132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027132",
+        "tgn:1000003",
+        "tgn:7011765",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027132,
+    "tgn:name":"Pre\u0161ovsk\u00fd",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.25,49.166667],"type":"Point"}
+}

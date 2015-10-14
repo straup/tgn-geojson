@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.616667,50.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7249364","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7249364,"name:xx":"Mont, Bois de"}}
+{
+  "id": 7249364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249364",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249364,
+    "tgn:name":"Mont, Bois de",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.616667,50.7],"type":"Point"}
+}

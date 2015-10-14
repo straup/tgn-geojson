@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.489462,23.684610]},"type":"Feature","properties":{"hierarchy":["tgn:7472884","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472884,"name:xx":"Dongfu Cun"}}
+{
+  "id": 7472884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472884",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472884,
+    "tgn:name":"Dongfu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.489462,23.68461],"type":"Point"}
+}

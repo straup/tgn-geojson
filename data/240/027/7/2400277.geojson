@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.400000,33.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2400277","tgn:1000001","tgn:2001430","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2400277,"name:xx":"Horse Creek Spring"}}
+{
+  "id": 2400277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400277",
+        "tgn:1000001",
+        "tgn:2001430",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400277,
+    "tgn:name":"Horse Creek Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4,33.8833],"type":"Point"}
+}

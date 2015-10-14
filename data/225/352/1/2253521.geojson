@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.133300,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2253521","tgn:1000001","tgn:7012149","tgn:1002512","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2253521,"name:xx":"Cook Ditch"}}
+{
+  "id": 2253521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253521",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002512",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253521,
+    "tgn:name":"Cook Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.1333,41.25],"type":"Point"}
+}

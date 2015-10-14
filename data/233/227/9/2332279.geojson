@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.633300,47.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2332279","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300132316"],"id":2332279,"name:xx":"Flood Bay"}}
+{
+  "id": 2332279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332279",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332279,
+    "tgn:name":"Flood Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.6333,47.0333],"type":"Point"}
+}

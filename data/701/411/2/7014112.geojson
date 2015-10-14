@@ -1,0 +1,24 @@
+{
+  "id": 7014112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014112",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000524",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014112,
+    "tgn:name":"Mound City",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300016838",
+        "aat:300008375",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.15,37.0833],"type":"Point"}
+}

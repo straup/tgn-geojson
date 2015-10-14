@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.466667,19.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7371919","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7371919,"name:xx":"La Calera, Cerro"}}
+{
+  "id": 7371919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371919",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371919,
+    "tgn:name":"La Calera, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.466667,19.85],"type":"Point"}
+}

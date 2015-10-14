@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.350000,31.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2255933","tgn:1000001","tgn:7006451","tgn:2000091","tgn:7012149","tgn:7029392"],"placetype":["aat:300000390"],"id":2255933,"name:xx":"Copper Glance Mine"}}
+{
+  "id": 2255933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255933",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000091",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255933,
+    "tgn:name":"Copper Glance Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.35,31.4167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.183333,48.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7170220","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7170220,"name:xx":"Hinter"}}
+{
+  "id": 7170220,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170220",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170220,
+    "tgn:name":"Hinter",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.183333,48.416667],"type":"Point"}
+}

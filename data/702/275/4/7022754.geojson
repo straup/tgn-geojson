@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.466700,41.616700]},"type":"Feature","properties":{"hierarchy":["tgn:7022754","tgn:1000001","tgn:7012149","tgn:1002570","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":7022754,"name:xx":"Willowick"}}
+{
+  "id": 7022754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022754",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002570",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022754,
+    "tgn:name":"Willowick",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4667,41.6167],"type":"Point"}
+}

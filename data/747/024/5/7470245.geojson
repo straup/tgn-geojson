@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.169571,23.297705]},"type":"Feature","properties":{"hierarchy":["tgn:7470245","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470245,"name:xx":"Jiuduzitou"}}
+{
+  "id": 7470245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470245",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470245,
+    "tgn:name":"Jiuduzitou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.169571,23.297705],"type":"Point"}
+}

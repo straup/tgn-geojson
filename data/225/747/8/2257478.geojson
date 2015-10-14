@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-110.666700,32.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2257478","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008863"],"id":2257478,"name:xx":"Coronado National Forest"}}
+{
+  "id": 2257478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257478",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257478,
+    "tgn:name":"Coronado National Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6667,32.5],"type":"Point"}
+}

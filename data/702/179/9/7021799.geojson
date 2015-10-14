@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.866700,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7021799","tgn:1000001","tgn:7012149","tgn:2001766","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":7021799,"name:xx":"Powder Spring Branch"}}
+{
+  "id": 7021799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021799",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001766",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021799,
+    "tgn:name":"Powder Spring Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8667,34.8],"type":"Point"}
+}

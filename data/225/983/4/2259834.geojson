@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.033300,36.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2259834","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2259834,"name:xx":"Cougar Tank"}}
+{
+  "id": 2259834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259834",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259834,
+    "tgn:name":"Cougar Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0333,36.15],"type":"Point"}
+}

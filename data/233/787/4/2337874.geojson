@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.783300,31.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2337874","tgn:1000001","tgn:2000304","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008905"],"id":2337874,"name:xx":"Fox Head"}}
+{
+  "id": 2337874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337874",
+        "tgn:1000001",
+        "tgn:2000304",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337874,
+    "tgn:name":"Fox Head",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7833,31.2833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.600000,47.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7176860","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7176860,"name:xx":"Hardt"}}
+{
+  "id": 7176860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176860",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176860,
+    "tgn:name":"Hardt",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.6,47.616667],"type":"Point"}
+}

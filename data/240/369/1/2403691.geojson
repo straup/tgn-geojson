@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.700000,46.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2403691","tgn:1000001","tgn:7012149","tgn:2001075","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2403691,"name:xx":"Howard Lake"}}
+{
+  "id": 2403691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403691",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001075",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403691,
+    "tgn:name":"Howard Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.7,46.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.850000,35.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2403334","tgn:1000001","tgn:7012149","tgn:2001491","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2403334,"name:xx":"Housland Branch"}}
+{
+  "id": 2403334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403334",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001491",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403334,
+    "tgn:name":"Housland Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.85,35.05],"type":"Point"}
+}

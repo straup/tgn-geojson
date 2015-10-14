@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.016700,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2767404","tgn:1000001","tgn:2001472","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008680"],"id":2767404,"name:xx":"White Spring Ponds"}}
+{
+  "id": 2767404,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767404",
+        "tgn:1000001",
+        "tgn:2001472",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767404,
+    "tgn:name":"White Spring Ponds",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.0167,33.9833],"type":"Point"}
+}

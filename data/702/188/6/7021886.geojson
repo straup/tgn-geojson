@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.383300,31.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7021886","tgn:1000001","tgn:7006451","tgn:2000091","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":7021886,"name:xx":"Mud Spring"}}
+{
+  "id": 7021886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021886",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000091",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021886,
+    "tgn:name":"Mud Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3833,31.3833],"type":"Point"}
+}

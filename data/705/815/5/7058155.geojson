@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.466667,36.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7058155","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300386846"],"id":7058155,"name:xx":"Bracetto, Punta"}}
+{
+  "id": 7058155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058155",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058155,
+    "tgn:name":"Bracetto, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.466667,36.816667],"type":"Point"}
+}

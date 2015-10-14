@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.963422,25.021320]},"type":"Feature","properties":{"hierarchy":["tgn:7477859","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7477859,"name:xx":"Ruguizi"}}
+{
+  "id": 7477859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477859",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477859,
+    "tgn:name":"Ruguizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.963422,25.02132],"type":"Point"}
+}

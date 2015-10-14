@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.850000,46.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2259927","tgn:1000001","tgn:7012149","tgn:2001284","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2259927,"name:xx":"Coulter Canyon"}}
+{
+  "id": 2259927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259927",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001284",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259927,
+    "tgn:name":"Coulter Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.85,46.85],"type":"Point"}
+}

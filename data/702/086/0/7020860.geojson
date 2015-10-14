@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-90.733300,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7020860","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020860,"name:xx":"Little Black River"}}
+{
+  "id": 7020860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020860",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020860,
+    "tgn:name":"Little Black River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7333,36.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.183333,51.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7241824","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7241824,"name:xx":"Klein Reusels Bos"}}
+{
+  "id": 7241824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241824",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241824,
+    "tgn:name":"Klein Reusels Bos",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.183333,51.316667],"type":"Point"}
+}

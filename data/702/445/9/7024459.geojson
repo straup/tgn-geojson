@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-66.650000,77.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7024459","tgn:7593552","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008835"],"id":7024459,"name:xx":"Melville Gletscher"}}
+{
+  "id": 7024459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024459",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024459,
+    "tgn:name":"Melville Gletscher",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-66.65,77.7333],"type":"Point"}
+}

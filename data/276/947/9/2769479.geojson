@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.466700,34.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2769479","tgn:1000001","tgn:2001637","tgn:7012149","tgn:7007707","tgn:7029392"],"placetype":["aat:300008697"],"id":2769479,"name:xx":"Wide Springs"}}
+{
+  "id": 2769479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769479",
+        "tgn:1000001",
+        "tgn:2001637",
+        "tgn:7012149",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769479,
+    "tgn:name":"Wide Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.4667,34.4167],"type":"Point"}
+}

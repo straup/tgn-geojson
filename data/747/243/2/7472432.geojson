@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.355833,24.076389]},"type":"Feature","properties":{"hierarchy":["tgn:7472432","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7472432,"name:xx":"Tuzhou Shan"}}
+{
+  "id": 7472432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472432",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472432,
+    "tgn:name":"Tuzhou Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.355833,24.076389],"type":"Point"}
+}

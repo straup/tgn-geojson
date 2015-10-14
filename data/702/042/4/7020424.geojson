@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.483300,46.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7020424","tgn:1000001","tgn:2001578","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300006191"],"id":7020424,"name:xx":"George, Lake"}}
+{
+  "id": 7020424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020424",
+        "tgn:1000001",
+        "tgn:2001578",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020424,
+    "tgn:name":"George, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.4833,46.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.933300,41.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2762718","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300006075"],"id":2762718,"name:xx":"Western Canal"}}
+{
+  "id": 2762718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762718",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762718,
+    "tgn:name":"Western Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9333,41.2333],"type":"Point"}
+}

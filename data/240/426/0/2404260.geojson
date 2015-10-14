@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.433300,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2404260","tgn:1000001","tgn:7012149","tgn:2002264","tgn:7013961","tgn:7029392"],"placetype":["aat:300008746"],"id":2404260,"name:xx":"Hoyt Cave"}}
+{
+  "id": 2404260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404260",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002264",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404260,
+    "tgn:name":"Hoyt Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4333,37.7],"type":"Point"}
+}

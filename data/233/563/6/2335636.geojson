@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.733300,38.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2335636","tgn:1000001","tgn:7012149","tgn:2002119","tgn:7007827","tgn:7029392"],"placetype":["aat:300386837"],"id":2335636,"name:xx":"Fortress Arch"}}
+{
+  "id": 2335636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335636",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002119",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335636,
+    "tgn:name":"Fortress Arch",
+    "tgn:placetype":[
+        "aat:300386837"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7333,38.05],"type":"Point"}
+}

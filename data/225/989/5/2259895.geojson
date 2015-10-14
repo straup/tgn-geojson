@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.016700,31.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2259895","tgn:1000001","tgn:7012149","tgn:2000888","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259895,"name:xx":"Coulee des Bote"}}
+{
+  "id": 2259895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259895",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000888",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259895,
+    "tgn:name":"Coulee des Bote",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0167,31.8667],"type":"Point"}
+}

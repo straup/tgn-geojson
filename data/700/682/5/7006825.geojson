@@ -1,0 +1,30 @@
+{
+  "id": 7006825,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1d148-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747930",
+        "gp:id":733052,
+        "qs:id":7,
+        "wof:id":101751815
+    },
+    "tgn:hierarchy":[
+        "tgn:7006825",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006825,
+    "tgn:name:nl":"Roosendaal",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.466667,51.533333],"type":"Point"}
+}

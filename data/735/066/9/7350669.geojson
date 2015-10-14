@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.750000,25.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7350669","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350669,"name:xx":"Baicuco, Sierra de"}}
+{
+  "id": 7350669,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350669",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350669,
+    "tgn:name":"Baicuco, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.75,25.583333],"type":"Point"}
+}

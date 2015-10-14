@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.083333,42.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7058293","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300132317"],"id":7058293,"name:xx":"Bove, Cala del"}}
+{
+  "id": 7058293,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058293",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058293,
+    "tgn:name":"Bove, Cala del",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.083333,42.416667],"type":"Point"}
+}

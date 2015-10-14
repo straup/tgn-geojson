@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.500000,23.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7486618","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7486618,"name:xx":"Maoshu Shi"}}
+{
+  "id": 7486618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486618",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486618,
+    "tgn:name":"Maoshu Shi",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.5,23.683333],"type":"Point"}
+}

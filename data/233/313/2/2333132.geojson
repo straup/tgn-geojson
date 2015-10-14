@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.300000,44.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2333132","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008798"],"id":2333132,"name:xx":"Flying Mountain"}}
+{
+  "id": 2333132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333132",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333132,
+    "tgn:name":"Flying Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.3,44.3],"type":"Point"}
+}

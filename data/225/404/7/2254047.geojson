@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.066700,36.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2254047","tgn:1000001","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2254047,"name:xx":"Cool Springs Branch"}}
+{
+  "id": 2254047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254047",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254047,
+    "tgn:name":"Cool Springs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.0667,36.15],"type":"Point"}
+}

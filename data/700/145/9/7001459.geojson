@@ -1,0 +1,27 @@
+{
+  "id": 7001459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001459",
+        "tgn:1001887",
+        "tgn:1000004",
+        "tgn:1000128",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001459,
+    "tgn:name":"Kuala Lumpur",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300265612",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[101.7,3.1667],"type":"Point"}
+}

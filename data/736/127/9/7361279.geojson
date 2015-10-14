@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.000000,27.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7361279","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7361279,"name:xx":"Rancho El Infierno"}}
+{
+  "id": 7361279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361279",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361279,
+    "tgn:name":"Rancho El Infierno",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0,27.016667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.550000,19.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7352673","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352673,"name:xx":"Amatit\u00e1n"}}
+{
+  "id": 7352673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352673",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352673,
+    "tgn:name":"Amatit\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.55,19.866667],"type":"Point"}
+}

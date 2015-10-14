@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.683300,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2765791","tgn:1000001","tgn:7012149","tgn:2000210","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2765791,"name:xx":"White Draw"}}
+{
+  "id": 2765791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765791",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000210",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765791,
+    "tgn:name":"White Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6833,39.6],"type":"Point"}
+}

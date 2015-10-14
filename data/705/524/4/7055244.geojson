@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.233333,42.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7055244","tgn:7003137","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055244,"name:xx":"Mola, Fosso della"}}
+{
+  "id": 7055244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055244",
+        "tgn:7003137",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055244,
+    "tgn:name":"Mola, Fosso della",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.233333,42.566667],"type":"Point"}
+}

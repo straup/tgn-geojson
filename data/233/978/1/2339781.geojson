@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.266700,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2339781","tgn:1000001","tgn:7012149","tgn:1002789","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2339781,"name:xx":"Freeling Run"}}
+{
+  "id": 2339781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339781",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002789",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339781,
+    "tgn:name":"Freeling Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.2667,41.25],"type":"Point"}
+}

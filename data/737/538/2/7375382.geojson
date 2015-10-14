@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.566667,19.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7375382","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7375382,"name:xx":"La Se\u00f1orita, Cerro"}}
+{
+  "id": 7375382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375382",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375382,
+    "tgn:name":"La Se\u00f1orita, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.566667,19.65],"type":"Point"}
+}

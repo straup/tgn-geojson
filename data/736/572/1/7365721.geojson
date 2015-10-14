@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.250000,25.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7365721","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365721,"name:xx":"Rancho El Recodo"}}
+{
+  "id": 7365721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365721",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365721,
+    "tgn:name":"Rancho El Recodo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.25,25.85],"type":"Point"}
+}

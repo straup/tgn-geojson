@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.866667,51.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7118438","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300005734"],"id":7118438,"name:xx":"Schlo\u00df Pillnitz"}}
+{
+  "id": 7118438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118438",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118438,
+    "tgn:name":"Schlo\u00df Pillnitz",
+    "tgn:placetype":[
+        "aat:300005734"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.866667,51.016667],"type":"Point"}
+}

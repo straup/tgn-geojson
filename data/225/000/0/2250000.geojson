@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.783300,42.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2250000","tgn:1000001","tgn:7012149","tgn:1002604","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2250000,"name:xx":"Collings Hill"}}
+{
+  "id": 2250000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250000",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002604",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250000,
+    "tgn:name":"Collings Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7833,42.9833],"type":"Point"}
+}

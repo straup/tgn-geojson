@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.166667,21.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7354993","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354993,"name:xx":"Chuytab"}}
+{
+  "id": 7354993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354993",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354993,
+    "tgn:name":"Chuytab",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.166667,21.066667],"type":"Point"}
+}

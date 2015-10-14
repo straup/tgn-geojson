@@ -1,0 +1,27 @@
+{
+  "id": 7010911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010911",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012031",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010911,
+    "tgn:name:en":"Northampton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387235",
+        "aat:300387220",
+        "aat:300387302",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.883333,52.25],"type":"Point"}
+}

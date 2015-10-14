@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.150000,37.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7052250","tgn:1000003","tgn:7003122","tgn:1001732","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052250,"name:xx":"Masseria Perciata"}}
+{
+  "id": 7052250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052250",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1001732",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052250,
+    "tgn:name":"Masseria Perciata",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.15,37.883333],"type":"Point"}
+}

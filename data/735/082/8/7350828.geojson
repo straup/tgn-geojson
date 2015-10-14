@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.850000,27.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7350828","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350828,"name:xx":"Cabeza"}}
+{
+  "id": 7350828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350828",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350828,
+    "tgn:name":"Cabeza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.85,27.7],"type":"Point"}
+}

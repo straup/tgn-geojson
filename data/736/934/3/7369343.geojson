@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.966667,17.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7369343","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369343,"name:xx":"Ixtlahuaca"}}
+{
+  "id": 7369343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369343",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369343,
+    "tgn:name":"Ixtlahuaca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.966667,17.55],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.016700,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2337990","tgn:1000001","tgn:7012149","tgn:2001766","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2337990,"name:xx":"Fox Hunt"}}
+{
+  "id": 2337990,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337990",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001766",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337990,
+    "tgn:name":"Fox Hunt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0167,34.9],"type":"Point"}
+}

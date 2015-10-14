@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.552222,23.662222]},"type":"Feature","properties":{"hierarchy":["tgn:7483910","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7483910,"name:xx":"Xinbu"}}
+{
+  "id": 7483910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483910",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483910,
+    "tgn:name":"Xinbu",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.552222,23.662222],"type":"Point"}
+}

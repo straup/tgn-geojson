@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.283300,48.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2761002","tgn:1000001","tgn:2000460","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2761002,"name:xx":"West Johnson Creek"}}
+{
+  "id": 2761002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761002",
+        "tgn:1000001",
+        "tgn:2000460",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761002,
+    "tgn:name":"West Johnson Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2833,48.1],"type":"Point"}
+}

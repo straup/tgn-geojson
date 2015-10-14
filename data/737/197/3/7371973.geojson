@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.125556,24.880000]},"type":"Feature","properties":{"hierarchy":["tgn:7371973","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371973,"name:xx":"La Esmeralda"}}
+{
+  "id": 7371973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371973",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371973,
+    "tgn:name":"La Esmeralda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.125556,24.88],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.383300,38.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2338932","tgn:1002132","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2338932,"name:xx":"Franklin City"}}
+{
+  "id": 2338932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338932",
+        "tgn:1002132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338932,
+    "tgn:name":"Franklin City",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3833,38.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.150000,44.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7058229","tgn:1000003","tgn:7003142","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7058229,"name:xx":"Antola, Monte"}}
+{
+  "id": 7058229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058229",
+        "tgn:1000003",
+        "tgn:7003142",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058229,
+    "tgn:name":"Antola, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.15,44.583333],"type":"Point"}
+}

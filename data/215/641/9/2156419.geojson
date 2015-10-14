@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.766700,38.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2156419","tgn:2002101","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2156419,"name:xx":"Bearskin Mountain"}}
+{
+  "id": 2156419,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156419",
+        "tgn:2002101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156419,
+    "tgn:name":"Bearskin Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.7667,38.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.900000,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2159549","tgn:1000001","tgn:2001703","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2159549,"name:xx":"Bee Reservoir"}}
+{
+  "id": 2159549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159549",
+        "tgn:1000001",
+        "tgn:2001703",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159549,
+    "tgn:name":"Bee Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.9,44.25],"type":"Point"}
+}

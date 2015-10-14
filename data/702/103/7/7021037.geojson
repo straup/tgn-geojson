@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.766700,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7021037","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021037,"name:xx":"Ballard Branch"}}
+{
+  "id": 7021037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021037",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021037,
+    "tgn:name":"Ballard Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7667,38.1],"type":"Point"}
+}

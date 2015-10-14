@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.616700,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2765832","tgn:1000001","tgn:2002109","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300011692"],"id":2765832,"name:xx":"White Face"}}
+{
+  "id": 2765832,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765832",
+        "tgn:1000001",
+        "tgn:2002109",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765832,
+    "tgn:name":"White Face",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.6167,37.6],"type":"Point"}
+}

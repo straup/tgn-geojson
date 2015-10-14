@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.300000,52.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7027284","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7027284,"name:ang":"Folchesworde"}}
+{
+  "id": 7027284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027284",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027284,
+    "tgn:name:ang":"Folchesworde",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.3,52.483333],"type":"Point"}
+}

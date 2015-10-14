@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.250000,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7116311","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116311,"name:xx":"Oberwasser"}}
+{
+  "id": 7116311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116311",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116311,
+    "tgn:name":"Oberwasser",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.25,48.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.666700,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2156614","tgn:1000001","tgn:7012149","tgn:2002187","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2156614,"name:xx":"Bearwallow Run"}}
+{
+  "id": 2156614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156614",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002187",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156614,
+    "tgn:name":"Bearwallow Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6667,38.2833],"type":"Point"}
+}

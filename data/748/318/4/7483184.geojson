@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.257500,23.735556]},"type":"Feature","properties":{"hierarchy":["tgn:7483184","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7483184,"name:xx":"Mailiao Erhao Difang"}}
+{
+  "id": 7483184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483184",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483184,
+    "tgn:name":"Mailiao Erhao Difang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2575,23.735556],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.733300,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2760073","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008707"],"id":2760073,"name:xx":"West Fork Pahsimeroi River"}}
+{
+  "id": 2760073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760073",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760073,
+    "tgn:name":"West Fork Pahsimeroi River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7333,44.0833],"type":"Point"}
+}

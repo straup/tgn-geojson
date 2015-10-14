@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.866700,40.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2257801","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2257801,"name:xx":"Corral Spring"}}
+{
+  "id": 2257801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257801",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257801,
+    "tgn:name":"Corral Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8667,40.5667],"type":"Point"}
+}

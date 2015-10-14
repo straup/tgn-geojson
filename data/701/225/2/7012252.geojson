@@ -1,0 +1,25 @@
+{
+  "id": 7012252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012252",
+        "tgn:7012251",
+        "tgn:1000004",
+        "tgn:7006661",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012252,
+    "tgn:name:en":"Kokand",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387272",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[70.9167,40.55],"type":"Point"}
+}

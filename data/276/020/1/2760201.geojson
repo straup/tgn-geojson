@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.583300,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2760201","tgn:1000001","tgn:2002108","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2760201,"name:xx":"West Fork Red Canyon"}}
+{
+  "id": 2760201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760201",
+        "tgn:1000001",
+        "tgn:2002108",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760201,
+    "tgn:name":"West Fork Red Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5833,39.0833],"type":"Point"}
+}

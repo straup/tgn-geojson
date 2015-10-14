@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.766700,32.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2333302","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2333302,"name:xx":"Fogarty Canyon"}}
+{
+  "id": 2333302,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333302",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333302,
+    "tgn:name":"Fogarty Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7667,32.85],"type":"Point"}
+}

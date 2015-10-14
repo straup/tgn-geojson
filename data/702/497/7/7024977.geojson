@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.483300,52.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7024977","tgn:7002445","tgn:7008103","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7024977,"name:xx":"Shelton","name:ang":"Eseltone"}}
+{
+  "id": 7024977,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024977",
+        "tgn:7002445",
+        "tgn:7008103",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024977,
+    "tgn:name":"Shelton",
+    "tgn:name:ang":"Eseltone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.4833,52.3],"type":"Point"}
+}

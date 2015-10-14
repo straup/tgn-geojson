@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.200000,22.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7487513","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386871"],"id":7487513,"name:xx":"Mituoqu Yantian"}}
+{
+  "id": 7487513,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487513",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487513,
+    "tgn:name":"Mituoqu Yantian",
+    "tgn:placetype":[
+        "aat:300386871"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2,22.85],"type":"Point"}
+}

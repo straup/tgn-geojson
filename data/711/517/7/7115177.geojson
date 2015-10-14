@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.916667,50.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7115177","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115177,"name:xx":"Palmersdorferhof"}}
+{
+  "id": 7115177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115177",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115177,
+    "tgn:name":"Palmersdorferhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.916667,50.816667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.200000,39.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2701617","tgn:1000001","tgn:1002279","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2701617,"name:xx":"Sugarcamp Run"}}
+{
+  "id": 2701617,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2701617",
+        "tgn:1000001",
+        "tgn:1002279",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2701617,
+    "tgn:name":"Sugarcamp Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2,39.1667],"type":"Point"}
+}

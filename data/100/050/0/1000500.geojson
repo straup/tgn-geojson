@@ -1,0 +1,20 @@
+{
+  "id": 1000500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000500",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000500,
+    "tgn:name":"Amazonas",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.0,-5.0],"type":"Point"}
+}

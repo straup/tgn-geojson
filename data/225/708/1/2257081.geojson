@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.883300,43.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2257081","tgn:1000001","tgn:2001425","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2257081,"name:xx":"Cornelius Pond"}}
+{
+  "id": 2257081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257081",
+        "tgn:1000001",
+        "tgn:2001425",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257081,
+    "tgn:name":"Cornelius Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.8833,43.3],"type":"Point"}
+}

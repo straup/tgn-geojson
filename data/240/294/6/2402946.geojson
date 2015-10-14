@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.566700,36.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2402946","tgn:1000001","tgn:7012149","tgn:2001692","tgn:7007707","tgn:7029392"],"placetype":["aat:300008347"],"id":2402946,"name:xx":"Hough"}}
+{
+  "id": 2402946,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402946",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001692",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402946,
+    "tgn:name":"Hough",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.5667,36.8667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.778220,24.701614]},"type":"Feature","properties":{"hierarchy":["tgn:7474265","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474265,"name:xx":"Dingsanjie"}}
+{
+  "id": 7474265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474265",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474265,
+    "tgn:name":"Dingsanjie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.77822,24.701614],"type":"Point"}
+}

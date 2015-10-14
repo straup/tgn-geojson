@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.850000,24.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7350469","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7350469,"name:xx":"Blanca, Mesa"}}
+{
+  "id": 7350469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350469",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350469,
+    "tgn:name":"Blanca, Mesa",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.85,24.383333],"type":"Point"}
+}

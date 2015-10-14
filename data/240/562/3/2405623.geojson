@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.300000,35.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2405623","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2405623,"name:xx":"Hughes Ridge"}}
+{
+  "id": 2405623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405623",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405623,
+    "tgn:name":"Hughes Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3,35.6167],"type":"Point"}
+}

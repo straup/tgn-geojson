@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.842900,24.664500]},"type":"Feature","properties":{"hierarchy":["tgn:7475549","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475549,"name:xx":"Wufu Daqiao"}}
+{
+  "id": 7475549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475549",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475549,
+    "tgn:name":"Wufu Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.8429,24.6645],"type":"Point"}
+}

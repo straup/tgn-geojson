@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.733300,47.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2159184","tgn:2000456","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2159184,"name:xx":"Bedrock Gulch"}}
+{
+  "id": 2159184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159184",
+        "tgn:2000456",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159184,
+    "tgn:name":"Bedrock Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.7333,47.05],"type":"Point"}
+}

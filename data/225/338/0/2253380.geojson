@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.000000,33.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2253380","tgn:1000001","tgn:2001738","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008905"],"id":2253380,"name:xx":"Conyers Bay"}}
+{
+  "id": 2253380,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253380",
+        "tgn:1000001",
+        "tgn:2001738",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253380,
+    "tgn:name":"Conyers Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0,33.7333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[44.383300,40.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7024060","tgn:1000004","tgn:7006651","tgn:7029392"],"placetype":["aat:300008699"],"id":7024060,"name:xx":"Geghadzori"}}
+{
+  "id": 7024060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024060",
+        "tgn:1000004",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024060,
+    "tgn:name":"Geghadzori",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[44.3833,40.7167],"type":"Point"}
+}

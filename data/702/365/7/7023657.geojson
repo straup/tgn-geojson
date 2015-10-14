@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.400000,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023657","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":7023657,"name:xx":"Peppermint Creek"}}
+{
+  "id": 7023657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023657",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023657,
+    "tgn:name":"Peppermint Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.4,37.9833],"type":"Point"}
+}

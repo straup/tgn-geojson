@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.384214,23.133132]},"type":"Feature","properties":{"hierarchy":["tgn:7480256","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480256,"name:xx":"Sankangou"}}
+{
+  "id": 7480256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480256",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480256,
+    "tgn:name":"Sankangou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.384214,23.133132],"type":"Point"}
+}

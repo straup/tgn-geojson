@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.691389,24.496667]},"type":"Feature","properties":{"hierarchy":["tgn:7484132","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484132,"name:xx":"Zhuzilin"}}
+{
+  "id": 7484132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484132",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484132,
+    "tgn:name":"Zhuzilin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.691389,24.496667],"type":"Point"}
+}

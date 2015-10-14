@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.366667,43.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7053652","tgn:1003483","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198"],"id":7053652,"name:xx":"Monte Copiolo"}}
+{
+  "id": 7053652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053652",
+        "tgn:1003483",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053652,
+    "tgn:name":"Monte Copiolo",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.366667,43.85],"type":"Point"}
+}

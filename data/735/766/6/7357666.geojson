@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.500000,19.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7357666","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7357666,"name:xx":"Culebra, Cayo"}}
+{
+  "id": 7357666,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357666",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357666,
+    "tgn:name":"Culebra, Cayo",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.5,19.716667],"type":"Point"}
+}

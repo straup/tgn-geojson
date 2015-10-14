@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.533333,19.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7360170","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360170,"name:xx":"Coatepec, Cerro"}}
+{
+  "id": 7360170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360170",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360170,
+    "tgn:name":"Coatepec, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.533333,19.116667],"type":"Point"}
+}

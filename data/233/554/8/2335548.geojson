@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.966700,31.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2335548","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008347"],"id":2335548,"name:xx":"Fort Stoddard"}}
+{
+  "id": 2335548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335548",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335548,
+    "tgn:name":"Fort Stoddard",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9667,31.0833],"type":"Point"}
+}

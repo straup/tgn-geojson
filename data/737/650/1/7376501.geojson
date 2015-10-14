@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.083333,27.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7376501","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300011692"],"id":7376501,"name:xx":"Lobos, Roca"}}
+{
+  "id": 7376501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376501",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376501,
+    "tgn:name":"Lobos, Roca",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.083333,27.166667],"type":"Point"}
+}

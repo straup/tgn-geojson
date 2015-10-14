@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.416700,41.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2763898","tgn:1000001","tgn:7012149","tgn:1002945","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2763898,"name:xx":"Wheaton Hollow"}}
+{
+  "id": 2763898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763898",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002945",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763898,
+    "tgn:name":"Wheaton Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4167,41.9833],"type":"Point"}
+}

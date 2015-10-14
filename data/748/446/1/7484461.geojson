@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.710000,24.380556]},"type":"Feature","properties":{"hierarchy":["tgn:7484461","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7484461,"name:xx":"Dashan"}}
+{
+  "id": 7484461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484461",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484461,
+    "tgn:name":"Dashan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.71,24.380556],"type":"Point"}
+}

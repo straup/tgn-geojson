@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.500000,47.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2333537","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2333537,"name:xx":"Folsom Hill"}}
+{
+  "id": 2333537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333537",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333537,
+    "tgn:name":"Folsom Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5,47.05],"type":"Point"}
+}

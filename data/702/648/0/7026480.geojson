@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.366700,51.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7026480","tgn:7002445","tgn:1000003","tgn:7008168","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026480,"name:xx":"West Ginge"}}
+{
+  "id": 7026480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026480",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008168",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026480,
+    "tgn:name":"West Ginge",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.3667,51.5833],"type":"Point"}
+}

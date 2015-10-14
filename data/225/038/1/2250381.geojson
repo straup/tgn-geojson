@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.350000,41.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2250381","tgn:1000001","tgn:7012149","tgn:7016057","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2250381,"name:xx":"Colon Ditch"}}
+{
+  "id": 2250381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250381",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016057",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250381,
+    "tgn:name":"Colon Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.35,41.9333],"type":"Point"}
+}

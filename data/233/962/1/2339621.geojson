@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.433300,48.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2339621","tgn:1000001","tgn:7012149","tgn:7014510","tgn:7007920","tgn:7029392"],"placetype":["aat:300008347"],"id":2339621,"name:xx":"Fredonia"}}
+{
+  "id": 2339621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339621",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014510",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339621,
+    "tgn:name":"Fredonia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4333,48.4333],"type":"Point"}
+}

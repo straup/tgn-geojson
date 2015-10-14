@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.950000,41.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7058555","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058555,"name:xx":"Borgo Grappa"}}
+{
+  "id": 7058555,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058555",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058555,
+    "tgn:name":"Borgo Grappa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.95,41.383333],"type":"Point"}
+}

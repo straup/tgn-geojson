@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.533333,22.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7470024","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7470024,"name:xx":"Chong Yan"}}
+{
+  "id": 7470024,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470024",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470024,
+    "tgn:name":"Chong Yan",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.533333,22.016667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.200000,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2763131","tgn:1000001","tgn:2002106","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2763131,"name:xx":"Westside Spring"}}
+{
+  "id": 2763131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763131",
+        "tgn:1000001",
+        "tgn:2002106",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763131,
+    "tgn:name":"Westside Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2,40.8833],"type":"Point"}
+}

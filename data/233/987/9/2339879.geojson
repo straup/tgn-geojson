@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.133300,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2339879","tgn:1000001","tgn:7012149","tgn:2001225","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2339879,"name:xx":"Freeman Hollow"}}
+{
+  "id": 2339879,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339879",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001225",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339879,
+    "tgn:name":"Freeman Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1333,36.7333],"type":"Point"}
+}

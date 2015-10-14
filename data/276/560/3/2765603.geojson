@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-108.950000,35.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2765603","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2765603,"name:xx":"White Clay Spring Wash"}}
+{
+  "id": 2765603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765603",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765603,
+    "tgn:name":"White Clay Spring Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.95,35.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.716667,28.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7350049","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350049,"name:xx":"Aguredo, Cerro"}}
+{
+  "id": 7350049,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350049",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350049,
+    "tgn:name":"Aguredo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.716667,28.433333],"type":"Point"}
+}

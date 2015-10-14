@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.350000,17.075000]},"type":"Feature","properties":{"hierarchy":["tgn:7350557","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350557,"name:xx":"Busilj\u00e1"}}
+{
+  "id": 7350557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350557",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350557,
+    "tgn:name":"Busilj\u00e1",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.35,17.075],"type":"Point"}
+}

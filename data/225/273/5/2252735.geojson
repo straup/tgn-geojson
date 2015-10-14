@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.783300,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2252735","tgn:1000001","tgn:7012149","tgn:1002352","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2252735,"name:xx":"Connerville Run"}}
+{
+  "id": 2252735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252735",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002352",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252735,
+    "tgn:name":"Connerville Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7833,41.3833],"type":"Point"}
+}

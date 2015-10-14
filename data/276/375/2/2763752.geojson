@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.683300,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2763752","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300006191"],"id":2763752,"name:xx":"Wharton Number Two Mine Slurry Pond"}}
+{
+  "id": 2763752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763752",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763752,
+    "tgn:name":"Wharton Number Two Mine Slurry Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6833,37.8833],"type":"Point"}
+}

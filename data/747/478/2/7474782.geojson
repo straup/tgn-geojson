@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.339065,23.708124]},"type":"Feature","properties":{"hierarchy":["tgn:7474782","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"name:en":"Wangwuta, Mount","id":7474782}}
+{
+  "id": 7474782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474782",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474782,
+    "tgn:name:en":"Wangwuta, Mount",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.339065,23.708124],"type":"Point"}
+}

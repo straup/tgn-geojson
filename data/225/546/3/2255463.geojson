@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.166700,28.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2255463","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2255463,"name:xx":"Copano Creek"}}
+{
+  "id": 2255463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255463",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255463,
+    "tgn:name":"Copano Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.1667,28.4333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.983333,17.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7358715","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7358715,"name:xx":"Desaf\u00edo, Laguna el"}}
+{
+  "id": 7358715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358715",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358715,
+    "tgn:name":"Desaf\u00edo, Laguna el",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.983333,17.933333],"type":"Point"}
+}

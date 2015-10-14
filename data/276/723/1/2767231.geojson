@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.116700,26.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2767231","tgn:1000001","tgn:7012149","tgn:1002582","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2767231,"name:xx":"White Rock Shoal"}}
+{
+  "id": 2767231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767231",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002582",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767231,
+    "tgn:name":"White Rock Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1167,26.5333],"type":"Point"}
+}

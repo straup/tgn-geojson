@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.016700,33.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2708022","tgn:1000001","tgn:7012149","tgn:2001161","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2708022,"name:xx":"Swiftwater Bayou"}}
+{
+  "id": 2708022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708022",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001161",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708022,
+    "tgn:name":"Swiftwater Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0167,33.2833],"type":"Point"}
+}

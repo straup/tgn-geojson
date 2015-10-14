@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.783300,40.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2331946","tgn:1000001","tgn:7012149","tgn:7019015","tgn:7007251","tgn:7029392"],"placetype":["aat:300008347"],"id":2331946,"name:xx":"Fletchers"}}
+{
+  "id": 2331946,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331946",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019015",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331946,
+    "tgn:name":"Fletchers",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.7833,40.5167],"type":"Point"}
+}

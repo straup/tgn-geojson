@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.583300,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2336586","tgn:1002215","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008347"],"id":2336586,"name:xx":"Four Mile Circle"}}
+{
+  "id": 2336586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336586",
+        "tgn:1002215",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336586,
+    "tgn:name":"Four Mile Circle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.5833,39.8833],"type":"Point"}
+}

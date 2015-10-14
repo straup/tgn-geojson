@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.400000,37.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2156712","tgn:1000001","tgn:7012149","tgn:2001195","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2156712,"name:xx":"Beason Hollow"}}
+{
+  "id": 2156712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156712",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001195",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156712,
+    "tgn:name":"Beason Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4,37.45],"type":"Point"}
+}

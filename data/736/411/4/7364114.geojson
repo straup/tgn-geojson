@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.250000,31.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7364114","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364114,"name:xx":"Rancho El Batic"}}
+{
+  "id": 7364114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364114",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364114,
+    "tgn:name":"Rancho El Batic",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.25,31.233333],"type":"Point"}
+}

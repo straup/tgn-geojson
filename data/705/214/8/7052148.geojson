@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.066667,44.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7052148","tgn:7003133","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7052148,"name:xx":"La Canala"}}
+{
+  "id": 7052148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052148",
+        "tgn:7003133",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052148,
+    "tgn:name":"La Canala",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.066667,44.433333],"type":"Point"}
+}

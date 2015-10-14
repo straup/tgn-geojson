@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.600000,18.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7374048","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374048,"name:xx":"La Amatepec"}}
+{
+  "id": 7374048,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374048",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374048,
+    "tgn:name":"La Amatepec",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.6,18.3],"type":"Point"}
+}

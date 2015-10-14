@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.300000,46.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2332705","tgn:1000001","tgn:7012149","tgn:2001279","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2332705,"name:xx":"Flower Lake"}}
+{
+  "id": 2332705,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332705",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001279",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332705,
+    "tgn:name":"Flower Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3,46.0333],"type":"Point"}
+}

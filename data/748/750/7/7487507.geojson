@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.102500,23.373611]},"type":"Feature","properties":{"hierarchy":["tgn:7487507","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008773"],"id":7487507,"name:xx":"Mokulafan"}}
+{
+  "id": 7487507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487507",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487507,
+    "tgn:name":"Mokulafan",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.1025,23.373611],"type":"Point"}
+}

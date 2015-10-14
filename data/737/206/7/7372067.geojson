@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,28.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7372067","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372067,"name:xx":"Rancho La Jarita"}}
+{
+  "id": 7372067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372067",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372067,
+    "tgn:name":"Rancho La Jarita",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,28.766667],"type":"Point"}
+}

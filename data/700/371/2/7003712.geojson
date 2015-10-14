@@ -1,0 +1,27 @@
+{
+  "id": 7003712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003712",
+        "tgn:7003670",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003712,
+    "tgn:name:de":"Berlin",
+    "tgn:name:en":"Berlin",
+    "tgn:name:it":"Berlino",
+    "tgn:name:nl":"Berlijn",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300387512"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.4,52.516667],"type":"Point"}
+}

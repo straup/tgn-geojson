@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-0.166700,51.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7026576","tgn:7002445","tgn:7011781","tgn:1000003","tgn:7008136","tgn:7008591","tgn:7029392"],"placetype":["aat:300000745","aat:300387064","aat:300000778"],"name:en":"Camden","id":7026576}}
+{
+  "id": 7026576,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026576",
+        "tgn:7002445",
+        "tgn:7011781",
+        "tgn:1000003",
+        "tgn:7008136",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026576,
+    "tgn:name:en":"Camden",
+    "tgn:placetype":[
+        "aat:300000745",
+        "aat:300387064",
+        "aat:300000778"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1667,51.5833],"type":"Point"}
+}

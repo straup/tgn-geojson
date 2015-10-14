@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.333333,52.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7027619","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Newbold Verdon","id":7027619}}
+{
+  "id": 7027619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027619",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027619,
+    "tgn:name:en":"Newbold Verdon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.333333,52.616667],"type":"Point"}
+}

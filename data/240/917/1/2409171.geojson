@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.650000,35.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2409171","tgn:1000001","tgn:7012149","tgn:2001488","tgn:7007709","tgn:7029392"],"placetype":["aat:300008791"],"id":2409171,"name:xx":"Ice Plant Island"}}
+{
+  "id": 2409171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001488",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409171,
+    "tgn:name":"Ice Plant Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.65,35.9],"type":"Point"}
+}

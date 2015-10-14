@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-144.683300,61.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2406318","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008706"],"id":2406318,"name:xx":"Hundell Creek"}}
+{
+  "id": 2406318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406318",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406318,
+    "tgn:name":"Hundell Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-144.6833,61.5833],"type":"Point"}
+}

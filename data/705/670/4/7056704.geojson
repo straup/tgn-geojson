@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.650000,39.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7056704","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300132317"],"id":7056704,"name:xx":"Acqua Durci, Cala de s'"}}
+{
+  "id": 7056704,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056704",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056704,
+    "tgn:name":"Acqua Durci, Cala de s'",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.65,39.5],"type":"Point"}
+}

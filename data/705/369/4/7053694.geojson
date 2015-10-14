@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.150000,46.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7053694","tgn:7005765","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053694,"name:xx":"Madonna"}}
+{
+  "id": 7053694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053694",
+        "tgn:7005765",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053694,
+    "tgn:name":"Madonna",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.15,46.15],"type":"Point"}
+}

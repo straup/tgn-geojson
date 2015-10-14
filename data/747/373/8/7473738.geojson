@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.543416,24.952036]},"type":"Feature","properties":{"hierarchy":["tgn:7473738","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7473738,"name:xx":"Qingtan Xi"}}
+{
+  "id": 7473738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473738",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473738,
+    "tgn:name":"Qingtan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.543416,24.952036],"type":"Point"}
+}

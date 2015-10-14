@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.033300,39.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7023804","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300006191"],"id":7023804,"name:xx":"Tygart Lake"}}
+{
+  "id": 7023804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023804",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023804,
+    "tgn:name":"Tygart Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0333,39.3],"type":"Point"}
+}

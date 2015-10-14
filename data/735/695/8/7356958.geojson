@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.750000,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7356958","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356958,"name:xx":"Chagueachic"}}
+{
+  "id": 7356958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356958",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356958,
+    "tgn:name":"Chagueachic",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.75,26.7],"type":"Point"}
+}

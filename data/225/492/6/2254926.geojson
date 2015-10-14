@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.250000,30.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2254926","tgn:1000001","tgn:2000870","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2254926,"name:xx":"Cooper Bayou"}}
+{
+  "id": 2254926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254926",
+        "tgn:1000001",
+        "tgn:2000870",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254926,
+    "tgn:name":"Cooper Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.25,30.65],"type":"Point"}
+}

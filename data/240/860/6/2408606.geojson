@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.850000,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2408606","tgn:1000001","tgn:1002243","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2408606,"name:xx":"Huyck Lake"}}
+{
+  "id": 2408606,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408606",
+        "tgn:1000001",
+        "tgn:1002243",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408606,
+    "tgn:name":"Huyck Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.85,42.0],"type":"Point"}
+}

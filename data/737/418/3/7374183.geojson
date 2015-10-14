@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.850000,27.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7374183","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374183,"name:xx":"Laguna de Gachupin"}}
+{
+  "id": 7374183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374183",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374183,
+    "tgn:name":"Laguna de Gachupin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.85,27.0],"type":"Point"}
+}

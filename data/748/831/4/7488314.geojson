@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.537383,22.587160]},"type":"Feature","properties":{"hierarchy":["tgn:7488314","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488314,"name:xx":"L\u00fcfeng"}}
+{
+  "id": 7488314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488314",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488314,
+    "tgn:name":"L\u00fcfeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.537383,22.58716],"type":"Point"}
+}

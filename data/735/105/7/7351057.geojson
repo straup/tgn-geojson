@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.850000,25.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7351057","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351057,"name:xx":"Arco, Cerro del"}}
+{
+  "id": 7351057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351057",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351057,
+    "tgn:name":"Arco, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.85,25.7],"type":"Point"}
+}

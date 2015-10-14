@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.100000,48.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2253989","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008835"],"id":2253989,"name:xx":"Cool Glacier"}}
+{
+  "id": 2253989,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253989",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253989,
+    "tgn:name":"Cool Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1,48.1],"type":"Point"}
+}

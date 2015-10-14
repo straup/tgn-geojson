@@ -1,0 +1,25 @@
+{
+  "id": 2275141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2275141",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002123",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2275141,
+    "tgn:name":"Danger Cave",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300048808",
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.0167,40.7333],"type":"Point"}
+}

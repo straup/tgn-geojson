@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.200000,46.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2337156","tgn:1000001","tgn:2001012","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2337156,"name:xx":"Fourteen, Lake"}}
+{
+  "id": 2337156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337156",
+        "tgn:1000001",
+        "tgn:2001012",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337156,
+    "tgn:name":"Fourteen, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.2,46.75],"type":"Point"}
+}

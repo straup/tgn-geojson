@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.693333,23.532778]},"type":"Feature","properties":{"hierarchy":["tgn:7485052","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7485052,"name:xx":"Yundai Shan"}}
+{
+  "id": 7485052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485052",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485052,
+    "tgn:name":"Yundai Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.693333,23.532778],"type":"Point"}
+}

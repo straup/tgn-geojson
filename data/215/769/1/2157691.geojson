@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383300,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2157691","tgn:1000001","tgn:7012149","tgn:2002375","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2157691,"name:xx":"Beaver Dam Reservoir"}}
+{
+  "id": 2157691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157691",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002375",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157691,
+    "tgn:name":"Beaver Dam Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3833,41.0833],"type":"Point"}
+}

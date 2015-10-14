@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.933300,41.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2407207","tgn:1000001","tgn:7012149","tgn:2001393","tgn:7007525","tgn:7029392"],"placetype":["aat:300008699"],"id":2407207,"name:xx":"Hunters Slough"}}
+{
+  "id": 2407207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407207",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001393",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407207,
+    "tgn:name":"Hunters Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.9333,41.2],"type":"Point"}
+}

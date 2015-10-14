@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.250000,43.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2330422","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2330422,"name:xx":"Flat Brook"}}
+{
+  "id": 2330422,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330422",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330422,
+    "tgn:name":"Flat Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.25,43.95],"type":"Point"}
+}

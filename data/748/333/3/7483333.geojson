@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.648056,24.356667]},"type":"Feature","properties":{"hierarchy":["tgn:7483333","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006958"],"id":7483333,"name:xx":"Kongdan Bei"}}
+{
+  "id": 7483333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483333",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483333,
+    "tgn:name":"Kongdan Bei",
+    "tgn:placetype":[
+        "aat:300006958"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.648056,24.356667],"type":"Point"}
+}

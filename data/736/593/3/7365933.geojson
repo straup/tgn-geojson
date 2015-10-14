@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.900000,17.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7365933","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365933,"name:xx":"El Tecomate"}}
+{
+  "id": 7365933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365933",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365933,
+    "tgn:name":"El Tecomate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.9,17.05],"type":"Point"}
+}

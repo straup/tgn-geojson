@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.705170,24.656505]},"type":"Feature","properties":{"hierarchy":["tgn:7476044","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7476044,"name:xx":"Luodong Zhen Shifan Gongmu"}}
+{
+  "id": 7476044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476044",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476044,
+    "tgn:name":"Luodong Zhen Shifan Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.70517,24.656505],"type":"Point"}
+}

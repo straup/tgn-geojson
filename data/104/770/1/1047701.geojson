@@ -1,0 +1,27 @@
+{
+  "id": 1047701,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0762c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757850",
+        "gp:id":728255,
+        "qs:id":4,
+        "wof:id":101803703
+    },
+    "tgn:hierarchy":[
+        "tgn:1047701",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047701,
+    "tgn:name:nl":"Dalfsen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.266667,52.5],"type":"Point"}
+}

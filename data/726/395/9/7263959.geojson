@@ -1,0 +1,27 @@
+{
+  "id": 7263959,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0fa98-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753801",
+        "gp:id":730269,
+        "qs:id":7,
+        "wof:id":101751899
+    },
+    "tgn:hierarchy":[
+        "tgn:7263959",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7263959,
+    "tgn:name:nl":"Hoofddorp",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.7,52.3],"type":"Point"}
+}

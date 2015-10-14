@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.516700,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2338776","tgn:1000001","tgn:7012149","tgn:1002779","tgn:7007710","tgn:7029392"],"placetype":["aat:300055621"],"id":2338776,"name:xx":"Frank E Masland Natural Area"}}
+{
+  "id": 2338776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338776",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002779",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338776,
+    "tgn:name":"Frank E Masland Natural Area",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.5167,40.2333],"type":"Point"}
+}

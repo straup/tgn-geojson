@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.250000,34.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2159657","tgn:1000001","tgn:7012149","tgn:2001758","tgn:7007712","tgn:7029392"],"placetype":["aat:300008680"],"id":2159657,"name:xx":"Bee Tree Lake"}}
+{
+  "id": 2159657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159657",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001758",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159657,
+    "tgn:name":"Bee Tree Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.25,34.05],"type":"Point"}
+}

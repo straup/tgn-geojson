@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.716700,35.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2330276","tgn:1000001","tgn:7013368","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2330276,"name:xx":"Flannigan Gut"}}
+{
+  "id": 2330276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330276",
+        "tgn:1000001",
+        "tgn:7013368",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330276,
+    "tgn:name":"Flannigan Gut",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.7167,35.3333],"type":"Point"}
+}

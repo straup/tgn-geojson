@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.850000,20.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7024109","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7024109,"name:xx":"Tibol\u00f3n"}}
+{
+  "id": 7024109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024109",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024109,
+    "tgn:name":"Tibol\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.85,20.633333],"type":"Point"}
+}

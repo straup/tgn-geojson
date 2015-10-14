@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.883300,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2769780","tgn:1000001","tgn:7019982","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2769780,"name:xx":"Wigwam Brook"}}
+{
+  "id": 2769780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769780",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769780,
+    "tgn:name":"Wigwam Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8833,42.1833],"type":"Point"}
+}

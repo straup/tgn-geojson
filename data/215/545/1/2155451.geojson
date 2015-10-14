@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-77.966700,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2155451","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":2155451,"name:xx":"Bear Pond Mountains"}}
+{
+  "id": 2155451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155451,
+    "tgn:name":"Bear Pond Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9667,39.7],"type":"Point"}
+}

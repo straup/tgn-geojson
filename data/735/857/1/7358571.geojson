@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.766667,30.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7358571","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387086"],"id":7358571,"name:xx":"Colorada, Laguna"}}
+{
+  "id": 7358571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358571",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358571,
+    "tgn:name":"Colorada, Laguna",
+    "tgn:placetype":[
+        "aat:300387086"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.766667,30.55],"type":"Point"}
+}

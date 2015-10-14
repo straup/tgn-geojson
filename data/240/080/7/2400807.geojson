@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.066700,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2400807","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300008680"],"id":2400807,"name:xx":"Horse Pond"}}
+{
+  "id": 2400807,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400807",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400807,
+    "tgn:name":"Horse Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0667,33.9833],"type":"Point"}
+}

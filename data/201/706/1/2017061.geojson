@@ -1,0 +1,26 @@
+{
+  "id": 2017061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2017061",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2017061,
+    "tgn:name":"Manchester",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300387304",
+        "aat:300264742",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5167,41.7667],"type":"Point"}
+}

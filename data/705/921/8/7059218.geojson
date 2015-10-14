@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-61.400000,16.383000]},"type":"Feature","properties":{"hierarchy":["tgn:7059218","tgn:1007250","tgn:7018313","tgn:1000001","tgn:7004545","tgn:7029392"],"placetype":["aat:300008347"],"id":7059218,"name:xx":"Sainte-Margeurite"}}
+{
+  "id": 7059218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059218",
+        "tgn:1007250",
+        "tgn:7018313",
+        "tgn:1000001",
+        "tgn:7004545",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059218,
+    "tgn:name":"Sainte-Margeurite",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-61.4,16.383],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.255269,25.009936]},"type":"Feature","properties":{"hierarchy":["tgn:7478211","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478211,"name:xx":"Dingzhongfu"}}
+{
+  "id": 7478211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478211",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478211,
+    "tgn:name":"Dingzhongfu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.255269,25.009936],"type":"Point"}
+}

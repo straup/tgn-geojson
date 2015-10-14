@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.579500,22.919600]},"type":"Feature","properties":{"hierarchy":["tgn:7470480","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470480,"name:xx":"Guangxing"}}
+{
+  "id": 7470480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470480",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470480,
+    "tgn:name":"Guangxing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5795,22.9196],"type":"Point"}
+}

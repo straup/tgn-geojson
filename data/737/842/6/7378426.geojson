@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.266667,24.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7378426","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378426,"name:xx":"La Providencia, Cerro de"}}
+{
+  "id": 7378426,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378426",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378426,
+    "tgn:name":"La Providencia, Cerro de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.266667,24.866667],"type":"Point"}
+}

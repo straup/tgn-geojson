@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.650000,29.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7376464","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7376464,"name:xx":"La Rusia, Pico"}}
+{
+  "id": 7376464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376464",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376464,
+    "tgn:name":"La Rusia, Pico",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.65,29.066667],"type":"Point"}
+}

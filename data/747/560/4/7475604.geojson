@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.819106,24.672618]},"type":"Feature","properties":{"hierarchy":["tgn:7475604","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475604,"name:xx":"Wugu Paishui"}}
+{
+  "id": 7475604,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475604",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475604,
+    "tgn:name":"Wugu Paishui",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.819106,24.672618],"type":"Point"}
+}

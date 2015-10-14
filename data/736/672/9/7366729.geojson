@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.250000,14.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7366729","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7366729,"name:xx":"Espinazo del Diablo, Laguna"}}
+{
+  "id": 7366729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366729",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366729,
+    "tgn:name":"Espinazo del Diablo, Laguna",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.25,14.666667],"type":"Point"}
+}

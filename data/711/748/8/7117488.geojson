@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.516667,53.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7117488","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117488,"name:xx":"Ostochtersum"}}
+{
+  "id": 7117488,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117488",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117488,
+    "tgn:name":"Ostochtersum",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.516667,53.6],"type":"Point"}
+}

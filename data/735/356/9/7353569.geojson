@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.816667,20.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7353569","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353569,"name:xx":"Azolzintla"}}
+{
+  "id": 7353569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353569",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353569,
+    "tgn:name":"Azolzintla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.816667,20.6],"type":"Point"}
+}

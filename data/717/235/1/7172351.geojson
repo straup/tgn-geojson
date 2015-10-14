@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.900000,52.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7172351","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7172351,"name:xx":"Herrengraben"}}
+{
+  "id": 7172351,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172351",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172351,
+    "tgn:name":"Herrengraben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.9,52.75],"type":"Point"}
+}

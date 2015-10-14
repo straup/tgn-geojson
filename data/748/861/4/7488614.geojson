@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.567338,24.797393]},"type":"Feature","properties":{"hierarchy":["tgn:7488614","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7488614,"name:xx":"Lumen Shan"}}
+{
+  "id": 7488614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488614",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488614,
+    "tgn:name":"Lumen Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.567338,24.797393],"type":"Point"}
+}

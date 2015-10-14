@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.566423,24.003900]},"type":"Feature","properties":{"hierarchy":["tgn:7471945","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7471945,"name:xx":"Shibibu Tang"}}
+{
+  "id": 7471945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471945",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471945,
+    "tgn:name":"Shibibu Tang",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.566423,24.0039],"type":"Point"}
+}

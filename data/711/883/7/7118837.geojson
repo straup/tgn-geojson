@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.916667,49.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7118837","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7118837,"name:xx":"Bahnhof P\u00f6lert"}}
+{
+  "id": 7118837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118837",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118837,
+    "tgn:name":"Bahnhof P\u00f6lert",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.916667,49.683333],"type":"Point"}
+}

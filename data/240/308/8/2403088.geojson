@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.600000,34.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2403088","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000153","tgn:7029392"],"placetype":["aat:300008699"],"id":2403088,"name:xx":"House Branch"}}
+{
+  "id": 2403088,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403088",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000153",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403088,
+    "tgn:name":"House Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.6,34.6667],"type":"Point"}
+}

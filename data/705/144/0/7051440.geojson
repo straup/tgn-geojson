@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.416667,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7051440","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051440,"name:xx":"Piana, Torrente della"}}
+{
+  "id": 7051440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051440",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051440,
+    "tgn:name":"Piana, Torrente della",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.416667,43.45],"type":"Point"}
+}

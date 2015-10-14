@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.411443,23.786826]},"type":"Feature","properties":{"hierarchy":["tgn:7475249","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475249,"name:xx":"Xinluchang"}}
+{
+  "id": 7475249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475249",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475249,
+    "tgn:name":"Xinluchang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.411443,23.786826],"type":"Point"}
+}

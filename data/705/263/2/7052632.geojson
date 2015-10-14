@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.666667,39.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7052632","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7052632,"name:xx":"Pelau, Flumini"}}
+{
+  "id": 7052632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052632",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052632,
+    "tgn:name":"Pelau, Flumini",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.666667,39.783333],"type":"Point"}
+}

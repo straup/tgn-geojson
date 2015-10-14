@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.616700,42.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2259119","tgn:1000001","tgn:7012149","tgn:2002372","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2259119,"name:xx":"Cottonwood Draw"}}
+{
+  "id": 2259119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259119",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002372",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259119,
+    "tgn:name":"Cottonwood Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.6167,42.3833],"type":"Point"}
+}

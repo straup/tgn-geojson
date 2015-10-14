@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.600000,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7351223","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7351223,"name:xx":"Ballena, Loma"}}
+{
+  "id": 7351223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351223",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351223,
+    "tgn:name":"Ballena, Loma",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6,26.266667],"type":"Point"}
+}

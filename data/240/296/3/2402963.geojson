@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.166700,38.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2402963","tgn:1000001","tgn:7012149","tgn:1002288","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":2402963,"name:xx":"Hough Park Lake"}}
+{
+  "id": 2402963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402963",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002288",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402963,
+    "tgn:name":"Hough Park Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.1667,38.5333],"type":"Point"}
+}

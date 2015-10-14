@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.816700,48.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2252436","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2252436,"name:xx":"Coniff Creek"}}
+{
+  "id": 2252436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252436",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252436,
+    "tgn:name":"Coniff Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.8167,48.2333],"type":"Point"}
+}

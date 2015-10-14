@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.768853,25.130030]},"type":"Feature","properties":{"hierarchy":["tgn:7477218","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477218,"name:xx":"Xinyi Guozhong"}}
+{
+  "id": 7477218,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477218",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477218,
+    "tgn:name":"Xinyi Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.768853,25.13003],"type":"Point"}
+}

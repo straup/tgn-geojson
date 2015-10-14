@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,37.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2159029","tgn:1000001","tgn:7012149","tgn:2000826","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2159029,"name:xx":"Becky Jane Hollow"}}
+{
+  "id": 2159029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159029",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000826",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159029,
+    "tgn:name":"Becky Jane Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,37.9],"type":"Point"}
+}

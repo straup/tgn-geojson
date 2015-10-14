@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.966700,51.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7026935","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026935,"name:xx":"South Warnborough"}}
+{
+  "id": 7026935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026935",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026935,
+    "tgn:name":"South Warnborough",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.9667,51.2167],"type":"Point"}
+}

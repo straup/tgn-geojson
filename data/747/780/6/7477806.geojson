@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.999700,23.958346]},"type":"Feature","properties":{"hierarchy":["tgn:7477806","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000202"],"id":7477806,"name:xx":"Guangming Ren'aizhijia"}}
+{
+  "id": 7477806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477806",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477806,
+    "tgn:name":"Guangming Ren'aizhijia",
+    "tgn:placetype":[
+        "aat:300000202"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.9997,23.958346],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.333300,47.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2151744","tgn:1000001","tgn:7012149","tgn:2001034","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2151744,"name:xx":"Battle Lake"}}
+{
+  "id": 2151744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151744",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001034",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151744,
+    "tgn:name":"Battle Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.3333,47.8667],"type":"Point"}
+}

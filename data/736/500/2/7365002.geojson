@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.000000,28.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7365002","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7365002,"name:xx":"Frailes, Cerro de los"}}
+{
+  "id": 7365002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365002",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365002,
+    "tgn:name":"Frailes, Cerro de los",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0,28.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.316667,51.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7175891","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008903"],"id":7175891,"name:xx":"Gro\u00dfes Bruch"}}
+{
+  "id": 7175891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175891",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175891,
+    "tgn:name":"Gro\u00dfes Bruch",
+    "tgn:placetype":[
+        "aat:300008903"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.316667,51.45],"type":"Point"}
+}

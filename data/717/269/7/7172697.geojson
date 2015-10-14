@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.833333,52.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7172697","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172697,"name:xx":"Hinterm H\u00e4gel"}}
+{
+  "id": 7172697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172697",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172697,
+    "tgn:name":"Hinterm H\u00e4gel",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.833333,52.85],"type":"Point"}
+}

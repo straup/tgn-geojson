@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.630833,23.684722]},"type":"Feature","properties":{"hierarchy":["tgn:7485751","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7485751,"name:xx":"Lunweikeng"}}
+{
+  "id": 7485751,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485751",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485751,
+    "tgn:name":"Lunweikeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.630833,23.684722],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.332222,23.260278]},"type":"Feature","properties":{"hierarchy":["tgn:7479917","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006082"],"id":7479917,"name:xx":"Deyuan Pi Zhishuizha"}}
+{
+  "id": 7479917,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479917",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479917,
+    "tgn:name":"Deyuan Pi Zhishuizha",
+    "tgn:placetype":[
+        "aat:300006082"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.332222,23.260278],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-133.316700,56.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2330831","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000088","tgn:7029392"],"placetype":["aat:300008850"],"id":2330831,"name:xx":"Flat Point"}}
+{
+  "id": 2330831,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330831",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000088",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330831,
+    "tgn:name":"Flat Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-133.3167,56.9833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.171389,23.579444]},"type":"Feature","properties":{"hierarchy":["tgn:7489724","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489724,"name:xx":"Boziliao"}}
+{
+  "id": 7489724,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489724",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489724,
+    "tgn:name":"Boziliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.171389,23.579444],"type":"Point"}
+}

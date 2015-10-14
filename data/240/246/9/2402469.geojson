@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.700000,36.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2402469","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2402469,"name:xx":"Hoskin Fork"}}
+{
+  "id": 2402469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402469",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402469,
+    "tgn:name":"Hoskin Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7,36.3333],"type":"Point"}
+}

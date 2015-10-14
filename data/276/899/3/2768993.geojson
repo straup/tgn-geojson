@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.116700,47.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2768993","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2768993,"name:xx":"Whitson Spring"}}
+{
+  "id": 2768993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768993",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768993,
+    "tgn:name":"Whitson Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.1167,47.25],"type":"Point"}
+}

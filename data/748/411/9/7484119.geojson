@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.574444,22.469167]},"type":"Feature","properties":{"hierarchy":["tgn:7484119","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7484119,"name:xx":"Jihu Qiao"}}
+{
+  "id": 7484119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484119",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484119,
+    "tgn:name":"Jihu Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.574444,22.469167],"type":"Point"}
+}

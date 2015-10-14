@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.419458,22.474930]},"type":"Feature","properties":{"hierarchy":["tgn:7478454","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7478454,"name:xx":"Gaoping Xi Chuhaikou"}}
+{
+  "id": 7478454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478454",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478454,
+    "tgn:name":"Gaoping Xi Chuhaikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.419458,22.47493],"type":"Point"}
+}

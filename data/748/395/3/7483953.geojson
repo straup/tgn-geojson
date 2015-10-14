@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.727500,23.131389]},"type":"Feature","properties":{"hierarchy":["tgn:7483953","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483953,"name:xx":"Meilan Daqiao"}}
+{
+  "id": 7483953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483953",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483953,
+    "tgn:name":"Meilan Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7275,23.131389],"type":"Point"}
+}

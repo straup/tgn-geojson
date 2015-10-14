@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.186389,22.890278]},"type":"Feature","properties":{"hierarchy":["tgn:7485456","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7485456,"name:xx":"Bilian Si"}}
+{
+  "id": 7485456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485456",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485456,
+    "tgn:name":"Bilian Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.186389,22.890278],"type":"Point"}
+}

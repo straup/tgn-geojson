@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.550000,51.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7175883","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7175883,"name:xx":"Gro\u00dfeschallau"}}
+{
+  "id": 7175883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175883",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175883,
+    "tgn:name":"Gro\u00dfeschallau",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.55,51.883333],"type":"Point"}
+}

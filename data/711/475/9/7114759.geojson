@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.400000,50.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7114759","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7114759,"name:xx":"Oberscheld, Staatsforst"}}
+{
+  "id": 7114759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114759",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114759,
+    "tgn:name":"Oberscheld, Staatsforst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.4,50.766667],"type":"Point"}
+}

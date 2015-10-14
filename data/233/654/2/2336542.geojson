@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.350000,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2336542","tgn:2001725","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2336542,"name:xx":"Four H Club Lake"}}
+{
+  "id": 2336542,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336542",
+        "tgn:2001725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336542,
+    "tgn:name":"Four H Club Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.35,34.0833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.200000,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2330433","tgn:1000001","tgn:2002108","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2330433,"name:xx":"Flat Canyon"}}
+{
+  "id": 2330433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330433",
+        "tgn:1000001",
+        "tgn:2002108",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330433,
+    "tgn:name":"Flat Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.2,39.4],"type":"Point"}
+}

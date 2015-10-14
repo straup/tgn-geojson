@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.095833,46.377778]},"type":"Feature","properties":{"hierarchy":["tgn:7058470","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058470,"name:xx":"Amaro"}}
+{
+  "id": 7058470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058470",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058470,
+    "tgn:name":"Amaro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.095833,46.377778],"type":"Point"}
+}

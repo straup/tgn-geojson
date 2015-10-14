@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.491111,24.104722]},"type":"Feature","properties":{"hierarchy":["tgn:7485113","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7485113,"name:xx":"Shengli Ren'ai Shijian Xuexiao"}}
+{
+  "id": 7485113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485113",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485113,
+    "tgn:name":"Shengli Ren'ai Shijian Xuexiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.491111,24.104722],"type":"Point"}
+}

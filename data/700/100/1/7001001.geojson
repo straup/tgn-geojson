@@ -1,0 +1,24 @@
+{
+  "id": 7001001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001001",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001001,
+    "tgn:name":"Jiayi Shi",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387064",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300265612",
+        "aat:300000771"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.44527,23.47722],"type":"Point"}
+}

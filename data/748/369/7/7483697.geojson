@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.541667,23.139722]},"type":"Feature","properties":{"hierarchy":["tgn:7483697","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7483697,"name:xx":"Huaban Shan"}}
+{
+  "id": 7483697,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483697",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483697,
+    "tgn:name":"Huaban Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.541667,23.139722],"type":"Point"}
+}

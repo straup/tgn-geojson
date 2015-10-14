@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.216700,44.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2155673","tgn:1002300","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008699"],"id":2155673,"name:xx":"Bear Spring Brook"}}
+{
+  "id": 2155673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155673",
+        "tgn:1002300",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155673,
+    "tgn:name":"Bear Spring Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2167,44.35],"type":"Point"}
+}

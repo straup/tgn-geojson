@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.436667,24.027778]},"type":"Feature","properties":{"hierarchy":["tgn:7472716","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472716,"name:xx":"Tong'an Cun"}}
+{
+  "id": 7472716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472716",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472716,
+    "tgn:name":"Tong'an Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.436667,24.027778],"type":"Point"}
+}

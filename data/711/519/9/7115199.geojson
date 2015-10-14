@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.766667,53.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7115199","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7115199,"name:xx":"Palingener Heide"}}
+{
+  "id": 7115199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115199",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115199,
+    "tgn:name":"Palingener Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.766667,53.866667],"type":"Point"}
+}

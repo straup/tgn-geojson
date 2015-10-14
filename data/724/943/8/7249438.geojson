@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.533333,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7249438","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006163"],"id":7249438,"name:xx":"Nieuw Haantjesgatpolder"}}
+{
+  "id": 7249438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249438",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249438,
+    "tgn:name":"Nieuw Haantjesgatpolder",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.533333,51.266667],"type":"Point"}
+}

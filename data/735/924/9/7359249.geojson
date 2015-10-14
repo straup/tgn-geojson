@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.100000,30.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7359249","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7359249,"name:xx":"Divisadero, Cerro del"}}
+{
+  "id": 7359249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359249",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359249,
+    "tgn:name":"Divisadero, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.1,30.366667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.100000,53.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7173858","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7173858,"name:xx":"Gro\u00df Medower See"}}
+{
+  "id": 7173858,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173858",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173858,
+    "tgn:name":"Gro\u00df Medower See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.1,53.583333],"type":"Point"}
+}

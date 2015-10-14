@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.422500,23.477222]},"type":"Feature","properties":{"hierarchy":["tgn:7482174","tgn:7001001","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008187"],"id":7482174,"name:xx":"Yundong Gongyuan"}}
+{
+  "id": 7482174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482174",
+        "tgn:7001001",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482174,
+    "tgn:name":"Yundong Gongyuan",
+    "tgn:placetype":[
+        "aat:300008187"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4225,23.477222],"type":"Point"}
+}

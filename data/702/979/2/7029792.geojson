@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-103.216667,24.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7029792","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347","aat:300008389","aat:300265612"],"id":7029792,"name:es":"General Sim\u00f3n Bol\u00edvar"}}
+{
+  "id": 7029792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029792",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029792,
+    "tgn:name:es":"General Sim\u00f3n Bol\u00edvar",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.216667,24.683333],"type":"Point"}
+}

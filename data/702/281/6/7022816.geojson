@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-120.733300,42.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7022816","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":7022816,"name:xx":"Dip Spring"}}
+{
+  "id": 7022816,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022816",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022816,
+    "tgn:name":"Dip Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.7333,42.1333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.316667,29.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7374207","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7374207,"name:xx":"Laguna, Bajio de la"}}
+{
+  "id": 7374207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374207",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374207,
+    "tgn:name":"Laguna, Bajio de la",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.316667,29.933333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.283300,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2767321","tgn:1000001","tgn:2001415","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2767321,"name:xx":"White Sage Canyon"}}
+{
+  "id": 2767321,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767321",
+        "tgn:1000001",
+        "tgn:2001415",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767321,
+    "tgn:name":"White Sage Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.2833,39.7],"type":"Point"}
+}

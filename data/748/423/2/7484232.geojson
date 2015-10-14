@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.561667,23.090278]},"type":"Feature","properties":{"hierarchy":["tgn:7484232","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7484232,"name:xx":"Guanshan Erhao Qiao"}}
+{
+  "id": 7484232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484232",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484232,
+    "tgn:name":"Guanshan Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.561667,23.090278],"type":"Point"}
+}

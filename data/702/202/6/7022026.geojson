@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-77.000000,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7022026","tgn:1000001","tgn:7012149","tgn:1002362","tgn:7007919","tgn:7029392"],"placetype":["aat:300008680","aat:300006191"],"id":7022026,"name:xx":"Hunters Millpond"}}
+{
+  "id": 7022026,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022026",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002362",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022026,
+    "tgn:name":"Hunters Millpond",
+    "tgn:placetype":[
+        "aat:300008680",
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0,38.0333],"type":"Point"}
+}

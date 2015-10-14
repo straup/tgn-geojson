@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.853217,25.094061]},"type":"Feature","properties":{"hierarchy":["tgn:7476967","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476967,"name:xx":"Shumeiping"}}
+{
+  "id": 7476967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476967",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476967,
+    "tgn:name":"Shumeiping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.853217,25.094061],"type":"Point"}
+}

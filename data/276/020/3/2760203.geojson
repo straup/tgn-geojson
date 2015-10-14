@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.116700,39.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2760203","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2760203,"name:xx":"West Fork Red Dirt Creek"}}
+{
+  "id": 2760203,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760203",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760203,
+    "tgn:name":"West Fork Red Dirt Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1167,39.85],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.733611,24.305833]},"type":"Feature","properties":{"hierarchy":["tgn:7483856","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7483856,"name:xx":"Houli Nongchang"}}
+{
+  "id": 7483856,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483856",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483856,
+    "tgn:name":"Houli Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.733611,24.305833],"type":"Point"}
+}

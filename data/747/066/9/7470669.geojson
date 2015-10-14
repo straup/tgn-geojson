@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.058056,23.144722]},"type":"Feature","properties":{"hierarchy":["tgn:7470669","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7470669,"name:xx":"Qingshangang Shazhou"}}
+{
+  "id": 7470669,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470669",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470669,
+    "tgn:name":"Qingshangang Shazhou",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.058056,23.144722],"type":"Point"}
+}

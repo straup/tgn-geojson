@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[43.643000,36.263000]},"type":"Feature","properties":{"hierarchy":["tgn:7029584","tgn:1001115","tgn:1000004","tgn:1000118","tgn:7029392"],"placetype":["aat:300008347"],"id":7029584,"name:xx":"Aski Kalak"}}
+{
+  "id": 7029584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029584",
+        "tgn:1001115",
+        "tgn:1000004",
+        "tgn:1000118",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029584,
+    "tgn:name":"Aski Kalak",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[43.643,36.263],"type":"Point"}
+}

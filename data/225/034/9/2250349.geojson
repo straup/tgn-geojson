@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.616700,46.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2250349","tgn:1000001","tgn:7012149","tgn:2001279","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2250349,"name:xx":"Colma Gulch"}}
+{
+  "id": 2250349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001279",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250349,
+    "tgn:name":"Colma Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6167,46.7],"type":"Point"}
+}

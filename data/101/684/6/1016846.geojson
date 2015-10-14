@@ -1,0 +1,24 @@
+{
+  "id": 1016846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016846",
+        "tgn:1000612",
+        "tgn:1000001",
+        "tgn:7005554",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016846,
+    "tgn:name":"Tegucigalpa",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300264742"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.2333,14.0833],"type":"Point"}
+}

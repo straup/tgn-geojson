@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.566667,19.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7378443","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378443,"name:xx":"Baj\u00edo de la Leona"}}
+{
+  "id": 7378443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378443",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378443,
+    "tgn:name":"Baj\u00edo de la Leona",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.566667,19.216667],"type":"Point"}
+}

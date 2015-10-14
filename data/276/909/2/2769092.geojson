@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,45.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2769092","tgn:1000001","tgn:1002293","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2769092,"name:xx":"Whittier Lake"}}
+{
+  "id": 2769092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769092",
+        "tgn:1000001",
+        "tgn:1002293",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769092,
+    "tgn:name":"Whittier Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,45.8],"type":"Point"}
+}

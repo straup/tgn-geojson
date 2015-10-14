@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.633333,20.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7362412","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7362412,"name:xx":"El Carnicero, Cerro"}}
+{
+  "id": 7362412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362412",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362412,
+    "tgn:name":"El Carnicero, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.633333,20.833333],"type":"Point"}
+}

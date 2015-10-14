@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.833333,28.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7377972","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377972,"name:xx":"Rancho Las Palmeras"}}
+{
+  "id": 7377972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377972",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377972,
+    "tgn:name":"Rancho Las Palmeras",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.833333,28.783333],"type":"Point"}
+}

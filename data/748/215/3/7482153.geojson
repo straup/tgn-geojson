@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.775833,24.449167]},"type":"Feature","properties":{"hierarchy":["tgn:7482153","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7482153,"name:xx":"Wuta Chezhan"}}
+{
+  "id": 7482153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482153",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482153,
+    "tgn:name":"Wuta Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.775833,24.449167],"type":"Point"}
+}

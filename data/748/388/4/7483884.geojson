@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.590000,23.638611]},"type":"Feature","properties":{"hierarchy":["tgn:7483884","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7483884,"name:xx":"Dabuxi Ti"}}
+{
+  "id": 7483884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483884",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483884,
+    "tgn:name":"Dabuxi Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.59,23.638611],"type":"Point"}
+}

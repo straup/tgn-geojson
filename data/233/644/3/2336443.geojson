@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.316700,40.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2336443","tgn:1000001","tgn:7012149","tgn:1002876","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2336443,"name:xx":"Fountian Springs"}}
+{
+  "id": 2336443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336443",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002876",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336443,
+    "tgn:name":"Fountian Springs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.3167,40.7667],"type":"Point"}
+}

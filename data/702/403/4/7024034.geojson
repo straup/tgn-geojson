@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[45.321000,39.727000]},"type":"Feature","properties":{"hierarchy":["tgn:7024034","tgn:1000004","tgn:7024040","tgn:7006651","tgn:7029392"],"placetype":["aat:300008699"],"name:en":"Yeghegis","id":7024034,"name:xx":"Elegis"}}
+{
+  "id": 7024034,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024034",
+        "tgn:1000004",
+        "tgn:7024040",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024034,
+    "tgn:name":"Elegis",
+    "tgn:name:en":"Yeghegis",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.321,39.727],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.150000,18.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7367972","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7367972,"name:xx":"Jojutla, Cerro"}}
+{
+  "id": 7367972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367972",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367972,
+    "tgn:name":"Jojutla, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.15,18.566667],"type":"Point"}
+}

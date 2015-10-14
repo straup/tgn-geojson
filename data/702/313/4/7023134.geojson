@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.566700,46.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7023134","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":7023134,"name:xx":"Sheriff Gulch"}}
+{
+  "id": 7023134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023134",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023134,
+    "tgn:name":"Sheriff Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5667,46.7333],"type":"Point"}
+}

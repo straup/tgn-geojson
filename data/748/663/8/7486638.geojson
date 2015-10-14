@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.848500,24.610900]},"type":"Feature","properties":{"hierarchy":["tgn:7486638","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486638,"name:xx":"Gangbian Li"}}
+{
+  "id": 7486638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486638",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486638,
+    "tgn:name":"Gangbian Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.8485,24.6109],"type":"Point"}
+}

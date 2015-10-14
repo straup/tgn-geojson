@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.633300,39.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2333872","tgn:1000001","tgn:7012149","tgn:2002120","tgn:7007827","tgn:7029392"],"placetype":["aat:300386845"],"id":2333872,"name:xx":"Forbush Cove"}}
+{
+  "id": 2333872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333872",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002120",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333872,
+    "tgn:name":"Forbush Cove",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6333,39.1833],"type":"Point"}
+}

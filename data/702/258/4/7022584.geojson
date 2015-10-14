@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.066700,45.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7022584","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022584,"name:xx":"K Bar Creek"}}
+{
+  "id": 7022584,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022584",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022584,
+    "tgn:name":"K Bar Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0667,45.5833],"type":"Point"}
+}

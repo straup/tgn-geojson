@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.866700,35.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2331271","tgn:1000001","tgn:7012149","tgn:2001867","tgn:7007825","tgn:7029392"],"placetype":["aat:300266640"],"id":2331271,"name:xx":"Flatbench Point"}}
+{
+  "id": 2331271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331271",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001867",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331271,
+    "tgn:name":"Flatbench Point",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8667,35.4667],"type":"Point"}
+}

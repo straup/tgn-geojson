@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.550000,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2158684","tgn:1000001","tgn:7012149","tgn:2002182","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2158684,"name:xx":"Beazley Ford"}}
+{
+  "id": 2158684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158684",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002182",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158684,
+    "tgn:name":"Beazley Ford",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.55,37.35],"type":"Point"}
+}

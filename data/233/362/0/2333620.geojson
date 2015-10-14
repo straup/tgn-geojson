@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.116700,46.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2333620","tgn:1000001","tgn:7012149","tgn:2002353","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2333620,"name:xx":"Foo Lake"}}
+{
+  "id": 2333620,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333620",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002353",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333620,
+    "tgn:name":"Foo Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1167,46.05],"type":"Point"}
+}

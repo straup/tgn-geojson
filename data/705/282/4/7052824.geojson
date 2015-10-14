@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.366667,43.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7052824","tgn:1003483","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052824,"name:xx":"Monterotto"}}
+{
+  "id": 7052824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052824",
+        "tgn:1003483",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052824,
+    "tgn:name":"Monterotto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.366667,43.833333],"type":"Point"}
+}

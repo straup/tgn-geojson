@@ -1,0 +1,28 @@
+{
+  "id": 7013604,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013604",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002441",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013604,
+    "tgn:name":"Cincinnati",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387299",
+        "aat:300387293"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.45,39.15],"type":"Point"}
+}

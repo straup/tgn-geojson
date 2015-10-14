@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.266700,46.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2335093","tgn:1000001","tgn:7012149","tgn:2000986","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2335093,"name:xx":"Forsling Creek"}}
+{
+  "id": 2335093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335093",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000986",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335093,
+    "tgn:name":"Forsling Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2667,46.7333],"type":"Point"}
+}

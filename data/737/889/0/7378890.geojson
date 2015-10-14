@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.000000,19.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7378890","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7378890,"name:xx":"M\u00e9xico, Valle de"}}
+{
+  "id": 7378890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378890",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378890,
+    "tgn:name":"M\u00e9xico, Valle de",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.0,19.666667],"type":"Point"}
+}

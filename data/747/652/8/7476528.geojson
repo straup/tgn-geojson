@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.622733,23.609972]},"type":"Feature","properties":{"hierarchy":["tgn:7476528","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300120801"],"id":7476528,"name:xx":"Shagangxi Chuan'ao"}}
+{
+  "id": 7476528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476528",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476528,
+    "tgn:name":"Shagangxi Chuan'ao",
+    "tgn:placetype":[
+        "aat:300120801"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.622733,23.609972],"type":"Point"}
+}

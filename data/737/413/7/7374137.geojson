@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.350000,25.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7374137","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374137,"name:xx":"La Colonia"}}
+{
+  "id": 7374137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374137",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374137,
+    "tgn:name":"La Colonia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.35,25.4],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.800000,19.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7356381","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7356381,"name:xx":"California"}}
+{
+  "id": 7356381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356381",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356381,
+    "tgn:name":"California",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.8,19.916667],"type":"Point"}
+}

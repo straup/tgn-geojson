@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.916700,40.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2408607","tgn:1002178","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008347"],"id":2408607,"name:xx":"Huyler Landing"}}
+{
+  "id": 2408607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408607",
+        "tgn:1002178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408607,
+    "tgn:name":"Huyler Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9167,40.9167],"type":"Point"}
+}

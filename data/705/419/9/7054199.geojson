@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.200000,40.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7054199","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7054199,"name:xx":"Porcor\u00f2, Torrente"}}
+{
+  "id": 7054199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054199",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054199,
+    "tgn:name":"Porcor\u00f2, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.2,40.733333],"type":"Point"}
+}

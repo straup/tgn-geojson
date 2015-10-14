@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.750000,45.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7055070","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7055070,"name:xx":"Fossa Polesella"}}
+{
+  "id": 7055070,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055070",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055070,
+    "tgn:name":"Fossa Polesella",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.75,45.0],"type":"Point"}
+}

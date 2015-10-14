@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.000000,40.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2769813","tgn:1000001","tgn:2002107","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":2769813,"name:xx":"Wigwam Reservoir"}}
+{
+  "id": 2769813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769813",
+        "tgn:1000001",
+        "tgn:2002107",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769813,
+    "tgn:name":"Wigwam Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0,40.7833],"type":"Point"}
+}

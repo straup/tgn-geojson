@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.200000,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2407727","tgn:1000001","tgn:1002479","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2407727,"name:xx":"Hurrah Bay"}}
+{
+  "id": 2407727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407727",
+        "tgn:1000001",
+        "tgn:1002479",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407727,
+    "tgn:name":"Hurrah Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2,27.75],"type":"Point"}
+}

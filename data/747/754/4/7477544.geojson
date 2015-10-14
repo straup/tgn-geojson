@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.403642,23.805667]},"type":"Feature","properties":{"hierarchy":["tgn:7477544","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300004847"],"id":7477544,"name:xx":"Lintian Shan Liaowangtai"}}
+{
+  "id": 7477544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477544",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477544,
+    "tgn:name":"Lintian Shan Liaowangtai",
+    "tgn:placetype":[
+        "aat:300004847"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.403642,23.805667],"type":"Point"}
+}

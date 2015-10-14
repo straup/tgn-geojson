@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.383300,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2151766","tgn:1000001","tgn:2002109","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2151766,"name:xx":"Battle Mountain"}}
+{
+  "id": 2151766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151766",
+        "tgn:1000001",
+        "tgn:2002109",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151766,
+    "tgn:name":"Battle Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.3833,38.1333],"type":"Point"}
+}

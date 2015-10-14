@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.320000,23.408333]},"type":"Feature","properties":{"hierarchy":["tgn:7485837","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7485837,"name:xx":"Houshan"}}
+{
+  "id": 7485837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485837",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485837,
+    "tgn:name":"Houshan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.32,23.408333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.855394,25.081670]},"type":"Feature","properties":{"hierarchy":["tgn:7477391","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477391,"name:xx":"Sandiao Qiao"}}
+{
+  "id": 7477391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477391",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477391,
+    "tgn:name":"Sandiao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.855394,25.08167],"type":"Point"}
+}

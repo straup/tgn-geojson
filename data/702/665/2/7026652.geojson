@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.900000,51.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7026652","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Hawling","id":7026652}}
+{
+  "id": 7026652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026652",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026652,
+    "tgn:name:en":"Hawling",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.9,51.9],"type":"Point"}
+}

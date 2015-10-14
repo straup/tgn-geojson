@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.500000,43.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2253412","tgn:1000001","tgn:7012149","tgn:1002986","tgn:7007568","tgn:7029392"],"placetype":["aat:300132316"],"id":2253412,"name:xx":"Cook Bay"}}
+{
+  "id": 2253412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253412",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002986",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253412,
+    "tgn:name":"Cook Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.5,43.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383300,32.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2331013","tgn:1000001","tgn:2001436","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2331013,"name:xx":"Flat Rock Spring"}}
+{
+  "id": 2331013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331013",
+        "tgn:1000001",
+        "tgn:2001436",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331013,
+    "tgn:name":"Flat Rock Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3833,32.55],"type":"Point"}
+}

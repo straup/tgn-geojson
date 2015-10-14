@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.400000,45.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2408866","tgn:1000001","tgn:7012149","tgn:2001293","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2408866,"name:xx":"Hyman Creek"}}
+{
+  "id": 2408866,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408866",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001293",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408866,
+    "tgn:name":"Hyman Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4,45.15],"type":"Point"}
+}

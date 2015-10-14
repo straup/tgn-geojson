@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.383333,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7246644","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7246644,"name:xx":"Dieu Seul"}}
+{
+  "id": 7246644,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246644",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246644,
+    "tgn:name":"Dieu Seul",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.383333,50.6],"type":"Point"}
+}

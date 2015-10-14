@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.447500,24.507222]},"type":"Feature","properties":{"hierarchy":["tgn:7470106","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7470106,"name:xx":"Hanshehua"}}
+{
+  "id": 7470106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470106",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470106,
+    "tgn:name":"Hanshehua",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.4475,24.507222],"type":"Point"}
+}

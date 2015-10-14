@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.633300,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2157958","tgn:1000001","tgn:1002259","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2157958,"name:xx":"Beaver Meadow Brook"}}
+{
+  "id": 2157958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157958",
+        "tgn:1000001",
+        "tgn:1002259",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157958,
+    "tgn:name":"Beaver Meadow Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.6333,42.0333],"type":"Point"}
+}

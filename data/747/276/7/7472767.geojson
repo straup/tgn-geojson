@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.697686,24.486144]},"type":"Feature","properties":{"hierarchy":["tgn:7472767","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472767,"name:xx":"Wuta Cun"}}
+{
+  "id": 7472767,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472767",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472767,
+    "tgn:name":"Wuta Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.697686,24.486144],"type":"Point"}
+}

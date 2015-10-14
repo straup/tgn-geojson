@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.883300,31.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2763167","tgn:1000001","tgn:7012149","tgn:2001149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008706"],"id":2763167,"name:xx":"Westville Creek"}}
+{
+  "id": 2763167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763167",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763167,
+    "tgn:name":"Westville Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.8833,31.8167],"type":"Point"}
+}

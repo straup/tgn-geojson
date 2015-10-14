@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.900000,33.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7022912","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7022912,"name:xx":"Ruckers Pond"}}
+{
+  "id": 7022912,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022912",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022912,
+    "tgn:name":"Ruckers Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9,33.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.616700,44.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2255620","tgn:1000001","tgn:2002366","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300266640"],"id":2255620,"name:xx":"Copemans Tomb"}}
+{
+  "id": 2255620,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255620",
+        "tgn:1000001",
+        "tgn:2002366",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255620,
+    "tgn:name":"Copemans Tomb",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.6167,44.6],"type":"Point"}
+}

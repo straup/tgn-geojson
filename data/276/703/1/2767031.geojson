@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.000000,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2767031","tgn:1000001","tgn:7012149","tgn:2000406","tgn:7007248","tgn:7029392"],"placetype":["aat:300008746"],"id":2767031,"name:xx":"White River Cave"}}
+{
+  "id": 2767031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767031",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000406",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767031,
+    "tgn:name":"White River Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0,34.0333],"type":"Point"}
+}

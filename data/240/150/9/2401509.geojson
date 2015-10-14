@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.300000,33.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2401509","tgn:1000001","tgn:7006451","tgn:2000095","tgn:7012149","tgn:7029392"],"placetype":["aat:300008905"],"id":2401509,"name:xx":"Horseshoe Cienega"}}
+{
+  "id": 2401509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401509",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000095",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401509,
+    "tgn:name":"Horseshoe Cienega",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3,33.65],"type":"Point"}
+}

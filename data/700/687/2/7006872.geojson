@@ -1,0 +1,29 @@
+{
+  "id": 7006872,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f07492-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2757872",
+        "gp:id":728237,
+        "qs:id":1,
+        "wof:id":101808619
+    },
+    "tgn:hierarchy":[
+        "tgn:7006872",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006872,
+    "tgn:name:nl":"Culemborg",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.233333,51.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.466667,24.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7358652","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7358652,"name:xx":"Colorado, Arroyo"}}
+{
+  "id": 7358652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358652",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358652,
+    "tgn:name":"Colorado, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.466667,24.35],"type":"Point"}
+}

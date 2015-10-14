@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.016700,32.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2253880","tgn:1000001","tgn:2000312","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2253880,"name:xx":"Cooks Pond"}}
+{
+  "id": 2253880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253880",
+        "tgn:1000001",
+        "tgn:2000312",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253880,
+    "tgn:name":"Cooks Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0167,32.4167],"type":"Point"}
+}

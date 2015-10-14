@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.557355,23.948525]},"type":"Feature","properties":{"hierarchy":["tgn:7477900","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477900,"name:xx":"Waping Qiao"}}
+{
+  "id": 7477900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477900",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477900,
+    "tgn:name":"Waping Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.557355,23.948525],"type":"Point"}
+}

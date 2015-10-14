@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.516667,18.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7356213","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7356213,"name:xx":"Chilapilla, R\u00edo"}}
+{
+  "id": 7356213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356213",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356213,
+    "tgn:name":"Chilapilla, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.516667,18.0],"type":"Point"}
+}

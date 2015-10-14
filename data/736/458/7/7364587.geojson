@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.716667,20.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7364587","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7364587,"name:xx":"Ferrer\u00eda"}}
+{
+  "id": 7364587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364587",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364587,
+    "tgn:name":"Ferrer\u00eda",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.716667,20.05],"type":"Point"}
+}

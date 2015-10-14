@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.566667,52.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7177555","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7177555,"name:xx":"Hanseller Floot"}}
+{
+  "id": 7177555,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177555",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177555,
+    "tgn:name":"Hanseller Floot",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.566667,52.066667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-37.866700,66.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7024558","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300132316"],"id":7024558,"name:xx":"Tasiilaq"}}
+{
+  "id": 7024558,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024558",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024558,
+    "tgn:name":"Tasiilaq",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-37.8667,66.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.433611,23.487500]},"type":"Feature","properties":{"hierarchy":["tgn:7483632","tgn:7001001","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7483632,"name:xx":"Beishewei"}}
+{
+  "id": 7483632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483632",
+        "tgn:7001001",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483632,
+    "tgn:name":"Beishewei",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.433611,23.4875],"type":"Point"}
+}

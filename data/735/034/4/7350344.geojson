@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.583333,29.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7350344","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7350344,"name:xx":"Antu\u00f1ez, Cerro"}}
+{
+  "id": 7350344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350344",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350344,
+    "tgn:name":"Antu\u00f1ez, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.583333,29.6],"type":"Point"}
+}

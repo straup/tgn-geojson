@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.050000,50.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7246291","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246291,"name:xx":"Burg"}}
+{
+  "id": 7246291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246291",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246291,
+    "tgn:name":"Burg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.05,50.333333],"type":"Point"}
+}

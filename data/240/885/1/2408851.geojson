@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.916700,39.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2408851","tgn:1002247","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":2408851,"name:xx":"Hylands Point"}}
+{
+  "id": 2408851,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408851",
+        "tgn:1002247",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408851,
+    "tgn:name":"Hylands Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9167,39.5],"type":"Point"}
+}

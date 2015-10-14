@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,32.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2333649","tgn:1000001","tgn:7012149","tgn:2000907","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2333649,"name:xx":"Fool Lake"}}
+{
+  "id": 2333649,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333649",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000907",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333649,
+    "tgn:name":"Fool Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,32.1833],"type":"Point"}
+}

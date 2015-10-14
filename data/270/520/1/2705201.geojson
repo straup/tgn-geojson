@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.583300,47.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2705201","tgn:1000001","tgn:7012149","tgn:2000963","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":2705201,"name:xx":"Superior"}}
+{
+  "id": 2705201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000963",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705201,
+    "tgn:name":"Superior",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5833,47.0667],"type":"Point"}
+}

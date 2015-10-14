@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.149672,25.005328]},"type":"Feature","properties":{"hierarchy":["tgn:7478047","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478047,"name:xx":"Dingdatong"}}
+{
+  "id": 7478047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478047",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478047,
+    "tgn:name":"Dingdatong",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.149672,25.005328],"type":"Point"}
+}

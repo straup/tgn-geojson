@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.483300,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2409496","tgn:1000001","tgn:7012149","tgn:1002658","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2409496,"name:xx":"Idlewild"}}
+{
+  "id": 2409496,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409496",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002658",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409496,
+    "tgn:name":"Idlewild",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4833,40.55],"type":"Point"}
+}

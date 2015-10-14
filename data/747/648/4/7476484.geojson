@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.757728,24.711978]},"type":"Feature","properties":{"hierarchy":["tgn:7476484","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7476484,"name:xx":"Luodong Xi"}}
+{
+  "id": 7476484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476484",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476484,
+    "tgn:name":"Luodong Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.757728,24.711978],"type":"Point"}
+}

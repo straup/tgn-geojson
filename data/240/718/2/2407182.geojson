@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.066700,35.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2407182","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2407182,"name:xx":"Hunters Point Pond"}}
+{
+  "id": 2407182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407182",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407182,
+    "tgn:name":"Hunters Point Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0667,35.5167],"type":"Point"}
+}

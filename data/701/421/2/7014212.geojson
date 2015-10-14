@@ -1,0 +1,27 @@
+{
+  "id": 7014212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014212",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000876",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014212,
+    "tgn:name":"New Iberia",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387302",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.8167,30.0],"type":"Point"}
+}

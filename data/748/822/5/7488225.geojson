@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.616025,25.044724]},"type":"Feature","properties":{"hierarchy":["tgn:7488225","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488225,"name:xx":"Nangangzi"}}
+{
+  "id": 7488225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488225",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488225,
+    "tgn:name":"Nangangzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.616025,25.044724],"type":"Point"}
+}

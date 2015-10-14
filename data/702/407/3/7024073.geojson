@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[34.516700,2.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7024073","tgn:7001242","tgn:1000912","tgn:1000206","tgn:7029392"],"placetype":["aat:300015683","aat:300008347","aat:300391489"],"id":7024073,"name:xx":"Magosi"}}
+{
+  "id": 7024073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024073",
+        "tgn:7001242",
+        "tgn:1000912",
+        "tgn:1000206",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024073,
+    "tgn:name":"Magosi",
+    "tgn:placetype":[
+        "aat:300015683",
+        "aat:300008347",
+        "aat:300391489"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[34.5167,2.9167],"type":"Point"}
+}

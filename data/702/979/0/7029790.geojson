@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-104.766667,24.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7029790","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347","aat:300008389","aat:300387305","aat:300265612"],"id":7029790,"name:es":"Coneto de Comonfort"}}
+{
+  "id": 7029790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029790",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029790,
+    "tgn:name:es":"Coneto de Comonfort",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.766667,24.983333],"type":"Point"}
+}

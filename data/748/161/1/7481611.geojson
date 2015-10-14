@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.537400,22.528500]},"type":"Feature","properties":{"hierarchy":["tgn:7481611","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7481611,"name:xx":"Wuding Nongchang"}}
+{
+  "id": 7481611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481611",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481611,
+    "tgn:name":"Wuding Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5374,22.5285],"type":"Point"}
+}

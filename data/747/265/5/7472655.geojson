@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.394500,23.838300]},"type":"Feature","properties":{"hierarchy":["tgn:7472655","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7472655,"name:xx":"Xiaxiqian Tifang"}}
+{
+  "id": 7472655,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472655",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472655,
+    "tgn:name":"Xiaxiqian Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3945,23.8383],"type":"Point"}
+}

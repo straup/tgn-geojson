@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.950000,42.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2768763","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008707"],"id":2768763,"name:xx":"Whitman River"}}
+{
+  "id": 2768763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768763",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768763,
+    "tgn:name":"Whitman River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.95,42.6167],"type":"Point"}
+}

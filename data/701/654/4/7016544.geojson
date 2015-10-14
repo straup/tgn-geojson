@@ -1,0 +1,23 @@
+{
+  "id": 7016544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016544",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016544,
+    "tgn:name:de":"Mosel",
+    "tgn:name:en":"Mosel",
+    "tgn:name:es":"Mosela",
+    "tgn:name:fr":"Moselle",
+    "tgn:name:it":"Mosella",
+    "tgn:name:la":"Mosella",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.25,50.1667],"type":"Point"}
+}

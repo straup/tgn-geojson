@@ -1,0 +1,27 @@
+{
+  "id": 7010588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010588",
+        "tgn:1000003",
+        "tgn:7002890",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010588,
+    "tgn:name":"Amiens",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300235540",
+        "aat:300387302",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.3,49.9],"type":"Point"}
+}

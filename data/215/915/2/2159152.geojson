@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.750000,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2159152","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2159152,"name:xx":"Bedke Spring"}}
+{
+  "id": 2159152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159152",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159152,
+    "tgn:name":"Bedke Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.75,42.25],"type":"Point"}
+}

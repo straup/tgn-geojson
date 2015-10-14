@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.133300,41.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2250816","tgn:1000001","tgn:1003028","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008680"],"id":2250816,"name:xx":"Colts Pond"}}
+{
+  "id": 2250816,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250816",
+        "tgn:1000001",
+        "tgn:1003028",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250816,
+    "tgn:name":"Colts Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.1333,41.8333],"type":"Point"}
+}

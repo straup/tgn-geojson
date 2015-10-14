@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.333333,47.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7115811","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115811,"name:xx":"Oberwitzhalden"}}
+{
+  "id": 7115811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115811",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115811,
+    "tgn:name":"Oberwitzhalden",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.333333,47.733333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.584317,23.552290]},"type":"Feature","properties":{"hierarchy":["tgn:7477074","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7477074,"name:xx":"Taizi Dian"}}
+{
+  "id": 7477074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477074",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477074,
+    "tgn:name":"Taizi Dian",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.584317,23.55229],"type":"Point"}
+}

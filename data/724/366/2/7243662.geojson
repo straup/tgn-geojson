@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.800000,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7243662","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7243662,"name:xx":"Hunelle"}}
+{
+  "id": 7243662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243662",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243662,
+    "tgn:name":"Hunelle",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.8,50.583333],"type":"Point"}
+}

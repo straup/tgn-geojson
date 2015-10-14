@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-62.200000,16.690000]},"type":"Feature","properties":{"hierarchy":["tgn:7023933","tgn:7023927","tgn:1000001","tgn:7004786","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7023933,"name:xx":"Saint Patrick's"}}
+{
+  "id": 7023933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023933",
+        "tgn:7023927",
+        "tgn:1000001",
+        "tgn:7004786",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023933,
+    "tgn:name":"Saint Patrick's",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-62.2,16.69],"type":"Point"}
+}

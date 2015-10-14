@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.533300,32.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2338400","tgn:1000001","tgn:2000861","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2338400,"name:xx":"Foxskin Bayou"}}
+{
+  "id": 2338400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338400",
+        "tgn:1000001",
+        "tgn:2000861",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338400,
+    "tgn:name":"Foxskin Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5333,32.5333],"type":"Point"}
+}

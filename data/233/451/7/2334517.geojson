@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.183300,31.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2334517","tgn:1000001","tgn:2000316","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008707"],"id":2334517,"name:xx":"Forest River"}}
+{
+  "id": 2334517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334517",
+        "tgn:1000001",
+        "tgn:2000316",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334517,
+    "tgn:name":"Forest River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1833,31.9667],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7005972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005972",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005972,
+    "tgn:name:de":"Frankfurt an der Oder",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387255",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300387270",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.55,52.35],"type":"Point"}
+}

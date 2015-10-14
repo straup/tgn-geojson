@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.883300,43.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2150001","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2150001,"name:xx":"Barto Hill"}}
+{
+  "id": 2150001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150001",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150001,
+    "tgn:name":"Barto Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.8833,43.1167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.983300,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2335134","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300006191"],"id":2335134,"name:xx":"Fort Apache Tank Number One"}}
+{
+  "id": 2335134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335134",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335134,
+    "tgn:name":"Fort Apache Tank Number One",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9833,33.7833],"type":"Point"}
+}

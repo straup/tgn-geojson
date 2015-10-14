@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.550000,48.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2338078","tgn:1000001","tgn:2001592","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300008680"],"id":2338078,"name:xx":"Fox Lake"}}
+{
+  "id": 2338078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338078",
+        "tgn:1000001",
+        "tgn:2001592",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338078,
+    "tgn:name":"Fox Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.55,48.2167],"type":"Point"}
+}

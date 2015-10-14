@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.516667,46.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7056988","tgn:1003488","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056988,"name:xx":"Basoia"}}
+{
+  "id": 7056988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056988",
+        "tgn:1003488",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056988,
+    "tgn:name":"Basoia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.516667,46.266667],"type":"Point"}
+}

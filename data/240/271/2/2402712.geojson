@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.466700,35.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2402712","tgn:1000001","tgn:7012149","tgn:1002545","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":2402712,"name:xx":"Hot Spring Valley"}}
+{
+  "id": 2402712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402712",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002545",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402712,
+    "tgn:name":"Hot Spring Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.4667,35.6333],"type":"Point"}
+}

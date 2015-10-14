@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.950000,33.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2256311","tgn:1000001","tgn:7012149","tgn:2002023","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2256311,"name:xx":"Coppermine Tank"}}
+{
+  "id": 2256311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256311",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002023",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256311,
+    "tgn:name":"Coppermine Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.95,33.6],"type":"Point"}
+}

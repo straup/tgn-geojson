@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.650000,51.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7174296","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7174296,"name:xx":"Gro\u00dfkrausniker Heide"}}
+{
+  "id": 7174296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174296",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174296,
+    "tgn:name":"Gro\u00dfkrausniker Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.65,51.75],"type":"Point"}
+}

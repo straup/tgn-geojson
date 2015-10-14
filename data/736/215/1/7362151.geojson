@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.583333,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7362151","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362151,"name:xx":"Rancho El Caracol"}}
+{
+  "id": 7362151,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362151",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362151,
+    "tgn:name":"Rancho El Caracol",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.583333,27.75],"type":"Point"}
+}

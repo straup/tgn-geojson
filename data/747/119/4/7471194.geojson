@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.046667,23.919722]},"type":"Feature","properties":{"hierarchy":["tgn:7471194","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471194,"name:xx":"Fazhi Cun"}}
+{
+  "id": 7471194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471194",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471194,
+    "tgn:name":"Fazhi Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.046667,23.919722],"type":"Point"}
+}

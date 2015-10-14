@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.552819,23.970990]},"type":"Feature","properties":{"hierarchy":["tgn:7478547","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7478547,"name:xx":"Yuanlin Diwu Gongmu"}}
+{
+  "id": 7478547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478547",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478547,
+    "tgn:name":"Yuanlin Diwu Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.552819,23.97099],"type":"Point"}
+}

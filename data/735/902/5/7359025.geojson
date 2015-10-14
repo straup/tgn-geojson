@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.766667,28.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7359025","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7359025,"name:xx":"Represa El Aguilita"}}
+{
+  "id": 7359025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359025",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359025,
+    "tgn:name":"Represa El Aguilita",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.766667,28.383333],"type":"Point"}
+}

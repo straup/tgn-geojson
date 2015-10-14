@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.416700,38.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2409312","tgn:1000001","tgn:7012149","tgn:2001615","tgn:7007706","tgn:7029392"],"placetype":["aat:300008347"],"id":2409312,"name:xx":"Ida"}}
+{
+  "id": 2409312,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409312",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001615",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409312,
+    "tgn:name":"Ida",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4167,38.5667],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.066700,37.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7022717","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7022717,"name:xx":"White Flats Draw"}}
+{
+  "id": 7022717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022717",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022717,
+    "tgn:name":"White Flats Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0667,37.8333],"type":"Point"}
+}

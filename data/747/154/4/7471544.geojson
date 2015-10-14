@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.438611,23.276389]},"type":"Feature","properties":{"hierarchy":["tgn:7471544","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471544,"name:xx":"Fanshezhuang"}}
+{
+  "id": 7471544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471544",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471544,
+    "tgn:name":"Fanshezhuang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.438611,23.276389],"type":"Point"}
+}

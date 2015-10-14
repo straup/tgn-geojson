@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.571921,23.583676]},"type":"Feature","properties":{"hierarchy":["tgn:7470995","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470995,"name:xx":"Houkutan"}}
+{
+  "id": 7470995,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470995",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470995,
+    "tgn:name":"Houkutan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.571921,23.583676],"type":"Point"}
+}

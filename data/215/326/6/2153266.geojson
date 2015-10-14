@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.850000,35.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2153266","tgn:1000001","tgn:7012149","tgn:2001883","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2153266,"name:xx":"Beaman Lake"}}
+{
+  "id": 2153266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153266",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001883",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153266,
+    "tgn:name":"Beaman Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.85,35.9833],"type":"Point"}
+}

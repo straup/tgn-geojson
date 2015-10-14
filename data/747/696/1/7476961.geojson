@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.916685,25.079142]},"type":"Feature","properties":{"hierarchy":["tgn:7476961","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476961,"name:xx":"Wenzi Gang"}}
+{
+  "id": 7476961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476961",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476961,
+    "tgn:name":"Wenzi Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.916685,25.079142],"type":"Point"}
+}

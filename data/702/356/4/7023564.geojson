@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-111.083300,43.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7023564","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023564,"name:xx":"Newswander Canyon"}}
+{
+  "id": 7023564,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023564",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023564,
+    "tgn:name":"Newswander Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0833,43.0833],"type":"Point"}
+}

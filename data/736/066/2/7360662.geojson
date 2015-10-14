@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.850000,20.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7360662","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300011692"],"id":7360662,"name:xx":"Corbete\u00f1a, Roca"}}
+{
+  "id": 7360662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360662",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360662,
+    "tgn:name":"Corbete\u00f1a, Roca",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.85,20.733333],"type":"Point"}
+}

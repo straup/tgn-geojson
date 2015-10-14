@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.283333,23.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7369064","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369064,"name:xx":"Ixtahua"}}
+{
+  "id": 7369064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369064",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369064,
+    "tgn:name":"Ixtahua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.283333,23.8],"type":"Point"}
+}

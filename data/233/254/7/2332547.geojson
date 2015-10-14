@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-133.283300,55.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2332547","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300008850"],"id":2332547,"name:xx":"Flores, Cape"}}
+{
+  "id": 2332547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332547",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332547,
+    "tgn:name":"Flores, Cape",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-133.2833,55.35],"type":"Point"}
+}

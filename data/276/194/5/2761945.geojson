@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2761945","tgn:1000001","tgn:7012149","tgn:2000206","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2761945,"name:xx":"West Roatcap Creek"}}
+{
+  "id": 2761945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761945",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000206",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761945,
+    "tgn:name":"West Roatcap Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,38.9333],"type":"Point"}
+}

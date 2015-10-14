@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.417156,23.149272]},"type":"Feature","properties":{"hierarchy":["tgn:7480285","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480285,"name:xx":"Neibukeng"}}
+{
+  "id": 7480285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480285",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480285,
+    "tgn:name":"Neibukeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.417156,23.149272],"type":"Point"}
+}

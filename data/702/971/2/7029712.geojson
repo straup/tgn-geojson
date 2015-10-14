@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[107.271000,29.116000]},"type":"Feature","properties":{"hierarchy":["tgn:7029712","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029712,"name:xx":"Nanchuan Shi"}}
+{
+  "id": 7029712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029712",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029712,
+    "tgn:name":"Nanchuan Shi",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[107.271,29.116],"type":"Point"}
+}

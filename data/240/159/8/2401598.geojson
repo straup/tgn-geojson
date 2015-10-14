@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.400000,37.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2401598","tgn:1000001","tgn:7012149","tgn:2000530","tgn:7007251","tgn:7029392"],"placetype":["aat:300008761"],"id":2401598,"name:xx":"Horseshoe Hollow"}}
+{
+  "id": 2401598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401598",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000530",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401598,
+    "tgn:name":"Horseshoe Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.4,37.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.502222,23.443333]},"type":"Feature","properties":{"hierarchy":["tgn:7483721","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7483721,"name:xx":"Chilanbu"}}
+{
+  "id": 7483721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483721",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483721,
+    "tgn:name":"Chilanbu",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.502222,23.443333],"type":"Point"}
+}

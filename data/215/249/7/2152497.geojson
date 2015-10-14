@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.650000,30.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2152497","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2152497,"name:xx":"Bay Toni"}}
+{
+  "id": 2152497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152497",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152497,
+    "tgn:name":"Bay Toni",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.65,30.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.266667,51.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7115432","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115432,"name:xx":"Paenbruch"}}
+{
+  "id": 7115432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115432",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115432,
+    "tgn:name":"Paenbruch",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.266667,51.866667],"type":"Point"}
+}

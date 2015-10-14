@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.333300,47.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2402996","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2402996,"name:xx":"Houghton Creek"}}
+{
+  "id": 2402996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402996",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402996,
+    "tgn:name":"Houghton Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3333,47.9833],"type":"Point"}
+}

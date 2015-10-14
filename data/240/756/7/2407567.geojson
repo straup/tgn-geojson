@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.550000,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2407567","tgn:1000001","tgn:7012149","tgn:2002168","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2407567,"name:xx":"Hupman Valley"}}
+{
+  "id": 2407567,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407567",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002168",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407567,
+    "tgn:name":"Hupman Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.55,38.2333],"type":"Point"}
+}

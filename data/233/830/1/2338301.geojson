@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.250000,37.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2338301","tgn:1000001","tgn:2001416","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2338301,"name:xx":"Fox Tail Spring"}}
+{
+  "id": 2338301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338301",
+        "tgn:1000001",
+        "tgn:2001416",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338301,
+    "tgn:name":"Fox Tail Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.25,37.35],"type":"Point"}
+}

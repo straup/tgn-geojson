@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-148.283300,60.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2406195","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2406195,"name:xx":"Humpback Cove"}}
+{
+  "id": 2406195,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406195",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406195,
+    "tgn:name":"Humpback Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-148.2833,60.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.250000,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7119510","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7119510,"name:xx":"Poelvenn"}}
+{
+  "id": 7119510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119510",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119510,
+    "tgn:name":"Poelvenn",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.25,51.35],"type":"Point"}
+}

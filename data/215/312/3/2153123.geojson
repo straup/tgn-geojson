@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.700000,39.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2153123","tgn:1000001","tgn:7012149","tgn:2002303","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2153123,"name:xx":"Beadle Run"}}
+{
+  "id": 2153123,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153123",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002303",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153123,
+    "tgn:name":"Beadle Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7,39.2],"type":"Point"}
+}

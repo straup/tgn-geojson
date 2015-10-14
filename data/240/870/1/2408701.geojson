@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-119.500000,47.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2408701","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2408701,"name:xx":"Hybel Canyon"}}
+{
+  "id": 2408701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408701",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408701,
+    "tgn:name":"Hybel Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.5,47.55],"type":"Point"}
+}

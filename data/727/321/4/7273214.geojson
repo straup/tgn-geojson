@@ -1,0 +1,27 @@
+{
+  "id": 7273214,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f242e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744824",
+        "gp:id":734608,
+        "qs:id":4,
+        "wof:id":101809753
+    },
+    "tgn:hierarchy":[
+        "tgn:7273214",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273214,
+    "tgn:name:nl":"Wernhout",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,51.466667],"type":"Point"}
+}

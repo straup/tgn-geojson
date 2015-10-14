@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.384237,22.605234]},"type":"Feature","properties":{"hierarchy":["tgn:7488261","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488261,"name:xx":"Guangwu Cun"}}
+{
+  "id": 7488261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488261",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488261,
+    "tgn:name":"Guangwu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.384237,22.605234],"type":"Point"}
+}

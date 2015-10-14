@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.820000,25.079200]},"type":"Feature","properties":{"hierarchy":["tgn:7488081","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488081,"name:xx":"Guangfu Li"}}
+{
+  "id": 7488081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488081",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488081,
+    "tgn:name":"Guangfu Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.82,25.0792],"type":"Point"}
+}

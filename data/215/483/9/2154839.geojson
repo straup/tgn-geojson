@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.716700,38.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2154839","tgn:2002143","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2154839,"name:xx":"Bear Hole Run"}}
+{
+  "id": 2154839,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154839",
+        "tgn:2002143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154839,
+    "tgn:name":"Bear Hole Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7167,38.0833],"type":"Point"}
+}

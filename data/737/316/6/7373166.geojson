@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.750000,21.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7373166","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373166,"name:xx":"La Palma de Abajo"}}
+{
+  "id": 7373166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373166",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373166,
+    "tgn:name":"La Palma de Abajo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.75,21.383333],"type":"Point"}
+}

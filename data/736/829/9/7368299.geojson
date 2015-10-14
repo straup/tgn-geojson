@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.950000,23.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7368299","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7368299,"name:xx":"Hermanas, Arroyo"}}
+{
+  "id": 7368299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368299",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368299,
+    "tgn:name":"Hermanas, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.95,23.166667],"type":"Point"}
+}

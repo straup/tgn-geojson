@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.933300,51.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7025116","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300071272"],"id":7025116,"name:ang":"Duchitorp"}}
+{
+  "id": 7025116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025116",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025116,
+    "tgn:name:ang":"Duchitorp",
+    "tgn:placetype":[
+        "aat:300071272"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.9333,51.75],"type":"Point"}
+}

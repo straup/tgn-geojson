@@ -1,0 +1,28 @@
+{
+  "id": 7006755,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0c56e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2755476",
+        "gp:id":729438,
+        "qs:id":5,
+        "wof:id":101839429
+    },
+    "tgn:hierarchy":[
+        "tgn:7006755",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009815",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006755,
+    "tgn:name:nl":"Goes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.883333,51.5],"type":"Point"}
+}

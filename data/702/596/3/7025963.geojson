@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.400000,50.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7025963","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7025963,"name:ang":"Westone"}}
+{
+  "id": 7025963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025963",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025963,
+    "tgn:name:ang":"Westone",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.4,50.9333],"type":"Point"}
+}

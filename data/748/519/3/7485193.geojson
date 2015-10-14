@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.764444,22.297222]},"type":"Feature","properties":{"hierarchy":["tgn:7485193","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7485193,"name:xx":"Maliba Shan"}}
+{
+  "id": 7485193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485193",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485193,
+    "tgn:name":"Maliba Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.764444,22.297222],"type":"Point"}
+}

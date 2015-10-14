@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.916700,45.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2153189","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2153189,"name:xx":"Beale Canyon"}}
+{
+  "id": 2153189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153189",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153189,
+    "tgn:name":"Beale Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9167,45.35],"type":"Point"}
+}

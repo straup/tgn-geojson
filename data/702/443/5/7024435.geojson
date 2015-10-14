@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[83.233300,52.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7024435","tgn:7013670","tgn:1000004","tgn:7018214","tgn:7002435","tgn:7029392"],"placetype":["aat:300008347"],"id":7024435,"name:xx":"Pomor'ye"}}
+{
+  "id": 7024435,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024435",
+        "tgn:7013670",
+        "tgn:1000004",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024435,
+    "tgn:name":"Pomor'ye",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[83.2333,52.5],"type":"Point"}
+}

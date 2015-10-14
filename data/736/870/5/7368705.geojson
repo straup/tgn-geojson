@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.133611,24.736667]},"type":"Feature","properties":{"hierarchy":["tgn:7368705","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368705,"name:xx":"Juan Diego"}}
+{
+  "id": 7368705,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368705",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368705,
+    "tgn:name":"Juan Diego",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.133611,24.736667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.272222,51.421944]},"type":"Feature","properties":{"hierarchy":["tgn:7170309","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7170309,"name:xx":"Bahnhof Herbede"}}
+{
+  "id": 7170309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170309",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170309,
+    "tgn:name":"Bahnhof Herbede",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.272222,51.421944],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.533333,31.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7377192","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7377192,"name:xx":"Las Animas, Arroyo"}}
+{
+  "id": 7377192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377192",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377192,
+    "tgn:name":"Las Animas, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.533333,31.666667],"type":"Point"}
+}

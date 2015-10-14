@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.000000,39.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2153217","tgn:1000001","tgn:7012149","tgn:2001617","tgn:7007706","tgn:7029392"],"placetype":["aat:300006191"],"id":2153217,"name:xx":"Beallsville Sportsmens Club Lake"}}
+{
+  "id": 2153217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153217",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001617",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153217,
+    "tgn:name":"Beallsville Sportsmens Club Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0,39.8],"type":"Point"}
+}

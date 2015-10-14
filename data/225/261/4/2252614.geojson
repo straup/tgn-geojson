@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.516700,32.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2252614","tgn:1000001","tgn:2000861","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2252614,"name:xx":"Connell Bayou"}}
+{
+  "id": 2252614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252614",
+        "tgn:1000001",
+        "tgn:2000861",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252614,
+    "tgn:name":"Connell Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5167,32.55],"type":"Point"}
+}

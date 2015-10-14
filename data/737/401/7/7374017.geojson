@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.583333,25.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7374017","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7374017,"name:xx":"La Guitarra, Sierra de"}}
+{
+  "id": 7374017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374017",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374017,
+    "tgn:name":"La Guitarra, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.583333,25.033333],"type":"Point"}
+}

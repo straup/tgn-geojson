@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.582222,22.031667]},"type":"Feature","properties":{"hierarchy":["tgn:7481418","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481418,"name:xx":"Rituona Xi"}}
+{
+  "id": 7481418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481418",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481418,
+    "tgn:name":"Rituona Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.582222,22.031667],"type":"Point"}
+}

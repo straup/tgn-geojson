@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.200000,20.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7350795","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350795,"name:xx":"Cabo Corrientes"}}
+{
+  "id": 7350795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350795",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350795,
+    "tgn:name":"Cabo Corrientes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.2,20.416667],"type":"Point"}
+}

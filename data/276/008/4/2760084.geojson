@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.266700,39.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2760084","tgn:1000001","tgn:7012149","tgn:2000214","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2760084,"name:xx":"West Fork Parachute Creek"}}
+{
+  "id": 2760084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000214",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760084,
+    "tgn:name":"West Fork Parachute Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2667,39.6333],"type":"Point"}
+}

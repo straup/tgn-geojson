@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.683333,25.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7362516","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362516,"name:xx":"Rancho El Paso"}}
+{
+  "id": 7362516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362516",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362516,
+    "tgn:name":"Rancho El Paso",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.683333,25.483333],"type":"Point"}
+}

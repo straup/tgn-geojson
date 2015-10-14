@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.983300,33.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2156190","tgn:1000001","tgn:2001093","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300006191"],"id":2156190,"name:xx":"Beards Lake"}}
+{
+  "id": 2156190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156190",
+        "tgn:1000001",
+        "tgn:2001093",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156190,
+    "tgn:name":"Beards Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9833,33.35],"type":"Point"}
+}

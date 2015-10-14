@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.450000,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2404779","tgn:1000001","tgn:7012149","tgn:1002737","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2404779,"name:xx":"Huckleberry Lake"}}
+{
+  "id": 2404779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404779",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002737",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404779,
+    "tgn:name":"Huckleberry Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.45,42.7],"type":"Point"}
+}

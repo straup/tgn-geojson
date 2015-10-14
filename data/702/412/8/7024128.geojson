@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[23.000000,51.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7024128","tgn:1000003","tgn:7006366","tgn:7029392"],"placetype":["aat:300387064","aat:300235112"],"id":7024128,"name:xx":"Lubelskie"}}
+{
+  "id": 7024128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024128",
+        "tgn:1000003",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024128,
+    "tgn:name":"Lubelskie",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300235112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[23.0,51.0],"type":"Point"}
+}

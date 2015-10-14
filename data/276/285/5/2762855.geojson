@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.216700,42.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2762855","tgn:1000001","tgn:7012149","tgn:1003030","tgn:7007251","tgn:7029392"],"placetype":["aat:300008347"],"id":2762855,"name:xx":"Westfield Corners"}}
+{
+  "id": 2762855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762855",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003030",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762855,
+    "tgn:name":"Westfield Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2167,42.2],"type":"Point"}
+}

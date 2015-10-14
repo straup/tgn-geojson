@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[60.833300,58.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7023867","tgn:1000004","tgn:7011600","tgn:7018214","tgn:7002435","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7023867,"name:xx":"Verkhoturye"}}
+{
+  "id": 7023867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023867",
+        "tgn:1000004",
+        "tgn:7011600",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023867,
+    "tgn:name":"Verkhoturye",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[60.8333,58.9],"type":"Point"}
+}

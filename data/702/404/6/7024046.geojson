@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[46.350000,39.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7024046","tgn:1000004","tgn:7006651","tgn:7029392"],"placetype":["aat:300008699"],"id":7024046,"name:xx":"Goris"}}
+{
+  "id": 7024046,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024046",
+        "tgn:1000004",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024046,
+    "tgn:name":"Goris",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[46.35,39.4833],"type":"Point"}
+}

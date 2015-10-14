@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.333639,23.110001]},"type":"Feature","properties":{"hierarchy":["tgn:7482443","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482443,"name:xx":"Hongxing Gong"}}
+{
+  "id": 7482443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482443",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482443,
+    "tgn:name":"Hongxing Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.333639,23.110001],"type":"Point"}
+}

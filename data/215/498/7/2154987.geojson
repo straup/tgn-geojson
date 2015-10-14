@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.266700,26.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2154987","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2154987,"name:xx":"Bear Island Strand"}}
+{
+  "id": 2154987,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154987",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154987,
+    "tgn:name":"Bear Island Strand",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2667,26.2333],"type":"Point"}
+}

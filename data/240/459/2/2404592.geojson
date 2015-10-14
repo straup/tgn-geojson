@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.566700,36.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2404592","tgn:1000001","tgn:7012149","tgn:2000792","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2404592,"name:xx":"Huber Branch"}}
+{
+  "id": 2404592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404592",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000792",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404592,
+    "tgn:name":"Huber Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5667,36.7833],"type":"Point"}
+}

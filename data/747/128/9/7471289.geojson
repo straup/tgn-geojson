@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.491944,24.609444]},"type":"Feature","properties":{"hierarchy":["tgn:7471289","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7471289,"name:xx":"Qilan Gongzuozhan"}}
+{
+  "id": 7471289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471289",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471289,
+    "tgn:name":"Qilan Gongzuozhan",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.491944,24.609444],"type":"Point"}
+}

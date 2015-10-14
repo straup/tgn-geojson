@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.166667,19.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7378924","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7378924,"name:xx":"Los Chicos"}}
+{
+  "id": 7378924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378924",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378924,
+    "tgn:name":"Los Chicos",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.166667,19.3],"type":"Point"}
+}

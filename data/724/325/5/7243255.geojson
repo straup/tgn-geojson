@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.033333,50.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7243255","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7243255,"name:xx":"La Ram\u00e9e"}}
+{
+  "id": 7243255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243255",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243255,
+    "tgn:name":"La Ram\u00e9e",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.033333,50.55],"type":"Point"}
+}

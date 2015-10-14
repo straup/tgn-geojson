@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.687533,50.617025]},"type":"Feature","properties":{"hierarchy":["tgn:7240947","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7240947,"name:xx":"Fontaine Saint-Pierre, Ruisseau de"}}
+{
+  "id": 7240947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240947",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240947,
+    "tgn:name":"Fontaine Saint-Pierre, Ruisseau de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.687533,50.617025],"type":"Point"}
+}

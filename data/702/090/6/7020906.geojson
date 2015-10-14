@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-68.000000,43.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7020906","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":7020906,"name:xx":"Maine, Gulf of"}}
+{
+  "id": 7020906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020906",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020906,
+    "tgn:name":"Maine, Gulf of",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.0,43.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.400000,23.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7351209","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351209,"name:xx":"Boca de San Juan"}}
+{
+  "id": 7351209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351209",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351209,
+    "tgn:name":"Boca de San Juan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.4,23.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.150000,15.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7358589","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7358589,"name:xx":"El Achotal"}}
+{
+  "id": 7358589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358589",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358589,
+    "tgn:name":"El Achotal",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.15,15.666667],"type":"Point"}
+}

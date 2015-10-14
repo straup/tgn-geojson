@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.550000,47.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2767601","tgn:1000001","tgn:7012149","tgn:1002552","tgn:7007920","tgn:7029392"],"placetype":["aat:300008850"],"id":2767601,"name:xx":"White, Point"}}
+{
+  "id": 2767601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767601",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002552",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767601,
+    "tgn:name":"White, Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.55,47.5833],"type":"Point"}
+}

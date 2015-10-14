@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.883333,50.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7172428","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172428,"name:xx":"Hinterstellberg"}}
+{
+  "id": 7172428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172428",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172428,
+    "tgn:name":"Hinterstellberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.883333,50.533333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.016667,27.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7369013","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369013,"name:xx":"Hondo, Arroyo"}}
+{
+  "id": 7369013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369013",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369013,
+    "tgn:name":"Hondo, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.016667,27.733333],"type":"Point"}
+}

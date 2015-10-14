@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.866700,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2400979","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000186","tgn:7029392"],"placetype":["aat:300008697"],"id":2400979,"name:xx":"Horse Springs"}}
+{
+  "id": 2400979,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400979",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000186",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400979,
+    "tgn:name":"Horse Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8667,41.3333],"type":"Point"}
+}

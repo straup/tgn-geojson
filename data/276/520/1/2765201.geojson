@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.700000,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2765201","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2765201,"name:xx":"Whistler Mountain"}}
+{
+  "id": 2765201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765201",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765201,
+    "tgn:name":"Whistler Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.7,48.5],"type":"Point"}
+}

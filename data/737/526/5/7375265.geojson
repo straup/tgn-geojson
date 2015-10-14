@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.016667,25.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7375265","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7375265,"name:xx":"Las Pre\u00f1adas, Arroyo"}}
+{
+  "id": 7375265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375265",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375265,
+    "tgn:name":"Las Pre\u00f1adas, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.016667,25.816667],"type":"Point"}
+}

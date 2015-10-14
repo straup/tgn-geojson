@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.650000,34.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2156904","tgn:1000001","tgn:2001477","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300132348"],"id":2156904,"name:xx":"Beaufort Restoration Grounds"}}
+{
+  "id": 2156904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156904",
+        "tgn:1000001",
+        "tgn:2001477",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156904,
+    "tgn:name":"Beaufort Restoration Grounds",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.65,34.7167],"type":"Point"}
+}

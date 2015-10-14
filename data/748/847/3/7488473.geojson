@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.492500,22.945000]},"type":"Feature","properties":{"hierarchy":["tgn:7488473","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488473,"name:xx":"Hongtuqi"}}
+{
+  "id": 7488473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488473",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488473,
+    "tgn:name":"Hongtuqi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4925,22.945],"type":"Point"}
+}

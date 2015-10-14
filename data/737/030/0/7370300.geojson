@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.566667,29.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7370300","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370300,"name:xx":"Huerta"}}
+{
+  "id": 7370300,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370300",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370300,
+    "tgn:name":"Huerta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.566667,29.616667],"type":"Point"}
+}

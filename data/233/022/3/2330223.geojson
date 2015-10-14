@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.600000,40.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2330223","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2330223,"name:xx":"Flanders Hill"}}
+{
+  "id": 2330223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330223",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330223,
+    "tgn:name":"Flanders Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.6,40.8667],"type":"Point"}
+}

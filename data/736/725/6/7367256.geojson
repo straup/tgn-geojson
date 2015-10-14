@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.583333,25.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7367256","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367256,"name:xx":"Rancho El Platano"}}
+{
+  "id": 7367256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367256",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367256,
+    "tgn:name":"Rancho El Platano",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.583333,25.95],"type":"Point"}
+}

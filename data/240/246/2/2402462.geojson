@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.483300,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2402462","tgn:1000001","tgn:7012149","tgn:1002821","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2402462,"name:xx":"Hosford Pond"}}
+{
+  "id": 2402462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402462",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002821",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402462,
+    "tgn:name":"Hosford Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.4833,42.7],"type":"Point"}
+}

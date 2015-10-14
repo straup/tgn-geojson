@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-121.266700,41.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2339374","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2339374,"name:xx":"Frazier Creek"}}
+{
+  "id": 2339374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339374",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339374,
+    "tgn:name":"Frazier Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.2667,41.0667],"type":"Point"}
+}

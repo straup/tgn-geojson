@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.266700,41.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2339202","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008761"],"id":2339202,"name:xx":"Franks Valley"}}
+{
+  "id": 2339202,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339202",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339202,
+    "tgn:name":"Franks Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.2667,41.55],"type":"Point"}
+}

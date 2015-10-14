@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.016944,32.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7357882","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357882,"name:xx":"L\u00e1zaro Cardenas"}}
+{
+  "id": 7357882,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357882",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357882,
+    "tgn:name":"L\u00e1zaro Cardenas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.016944,32.6],"type":"Point"}
+}

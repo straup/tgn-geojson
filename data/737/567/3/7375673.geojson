@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.050000,27.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7375673","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7375673,"name:xx":"La Rata, Sierra de"}}
+{
+  "id": 7375673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375673",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375673,
+    "tgn:name":"La Rata, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.05,27.033333],"type":"Point"}
+}

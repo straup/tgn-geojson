@@ -1,0 +1,27 @@
+{
+  "id": 7007073,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1bfe6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2748361",
+        "gp:id":732847,
+        "qs:id":1,
+        "wof:id":101839411
+    },
+    "tgn:hierarchy":[
+        "tgn:7007073",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007073,
+    "tgn:name:nl":"Raamsdonkveer",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,51.7],"type":"Point"}
+}

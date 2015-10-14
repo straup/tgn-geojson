@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.100000,52.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7027291","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027291,"name:ang":"Emingeforde"}}
+{
+  "id": 7027291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027291",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027291,
+    "tgn:name:ang":"Emingeforde",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1,52.316667],"type":"Point"}
+}

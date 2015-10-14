@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.983300,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2700068","tgn:1000001","tgn:7012149","tgn:1002876","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2700068,"name:xx":"Stump Run"}}
+{
+  "id": 2700068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700068",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002876",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700068,
+    "tgn:name":"Stump Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9833,40.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.400000,16.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7379416","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379416,"name:xx":"Michelin"}}
+{
+  "id": 7379416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379416",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379416,
+    "tgn:name":"Michelin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4,16.483333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.650000,43.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7020072","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":7020072,"name:xx":"Owl Pate"}}
+{
+  "id": 7020072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020072",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020072,
+    "tgn:name":"Owl Pate",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.65,43.9333],"type":"Point"}
+}

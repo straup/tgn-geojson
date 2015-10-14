@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.566700,45.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2764861","tgn:1000001","tgn:2001019","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2764861,"name:xx":"Whiskey Lake"}}
+{
+  "id": 2764861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764861",
+        "tgn:1000001",
+        "tgn:2001019",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764861,
+    "tgn:name":"Whiskey Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.5667,45.9667],"type":"Point"}
+}

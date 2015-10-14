@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.650000,34.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2333681","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7021514","tgn:7029392"],"placetype":["aat:300008746"],"id":2333681,"name:xx":"Fools Hole"}}
+{
+  "id": 2333681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333681",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7021514",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333681,
+    "tgn:name":"Fools Hole",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.65,34.4833],"type":"Point"}
+}

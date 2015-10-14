@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.108056,24.730556]},"type":"Feature","properties":{"hierarchy":["tgn:7474588","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7474588,"name:xx":"Youluo Xi"}}
+{
+  "id": 7474588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474588",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474588,
+    "tgn:name":"Youluo Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.108056,24.730556],"type":"Point"}
+}

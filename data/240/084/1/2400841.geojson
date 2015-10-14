@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.066700,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2400841","tgn:1000001","tgn:7012149","tgn:2001297","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2400841,"name:xx":"Horse Range Spring"}}
+{
+  "id": 2400841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400841",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001297",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400841,
+    "tgn:name":"Horse Range Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0667,45.3333],"type":"Point"}
+}

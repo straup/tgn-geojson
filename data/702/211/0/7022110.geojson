@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.100000,36.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7022110","tgn:1000001","tgn:7012149","tgn:1002911","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022110,"name:xx":"Darden Pond"}}
+{
+  "id": 7022110,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022110",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002911",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022110,
+    "tgn:name":"Darden Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.1,36.65],"type":"Point"}
+}

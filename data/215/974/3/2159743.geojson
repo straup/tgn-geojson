@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.083300,34.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2159743","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2159743,"name:xx":"Beech Bayou"}}
+{
+  "id": 2159743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159743",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159743,
+    "tgn:name":"Beech Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0833,34.2833],"type":"Point"}
+}

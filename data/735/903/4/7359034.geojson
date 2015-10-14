@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.900000,27.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7359034","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7359034,"name:xx":"Rancho El Aguila"}}
+{
+  "id": 7359034,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359034",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359034,
+    "tgn:name":"Rancho El Aguila",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.9,27.733333],"type":"Point"}
+}

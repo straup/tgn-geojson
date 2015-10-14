@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.850000,15.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7370388","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387084"],"id":7370388,"name:xx":"Huetate, Estero el"}}
+{
+  "id": 7370388,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370388",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370388,
+    "tgn:name":"Huetate, Estero el",
+    "tgn:placetype":[
+        "aat:300387084"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.85,15.15],"type":"Point"}
+}

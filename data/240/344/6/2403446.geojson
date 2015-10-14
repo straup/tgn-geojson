@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.516700,37.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2403446","tgn:1000001","tgn:1002235","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2403446,"name:xx":"Houstons Corner"}}
+{
+  "id": 2403446,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403446",
+        "tgn:1000001",
+        "tgn:1002235",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403446,
+    "tgn:name":"Houstons Corner",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.5167,37.9333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.700000,27.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7359314","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7359314,"name:xx":"Cina, Arroyo de la"}}
+{
+  "id": 7359314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359314",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359314,
+    "tgn:name":"Cina, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7,27.366667],"type":"Point"}
+}

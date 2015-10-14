@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.900000,39.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2767111","tgn:1000001","tgn:7012149","tgn:2000738","tgn:7007254","tgn:7029392"],"placetype":["aat:300006075"],"id":2767111,"name:xx":"White Rock Canal"}}
+{
+  "id": 2767111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767111",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000738",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767111,
+    "tgn:name":"White Rock Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.9,39.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.186389,24.800833]},"type":"Feature","properties":{"hierarchy":["tgn:7481125","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481125,"name:xx":"Gongzi Gou"}}
+{
+  "id": 7481125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481125",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481125,
+    "tgn:name":"Gongzi Gou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.186389,24.800833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.750000,15.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7371420","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300132316"],"id":7371420,"name:xx":"Grande, Bah\u00eda"}}
+{
+  "id": 7371420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371420",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371420,
+    "tgn:name":"Grande, Bah\u00eda",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.75,15.883333],"type":"Point"}
+}

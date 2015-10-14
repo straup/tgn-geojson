@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.866667,50.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7242684","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7242684,"name:xx":"Longue Heid, Bois de la"}}
+{
+  "id": 7242684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242684",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242684,
+    "tgn:name":"Longue Heid, Bois de la",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.866667,50.5],"type":"Point"}
+}

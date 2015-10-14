@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.563587,23.554584]},"type":"Feature","properties":{"hierarchy":["tgn:7476817","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476817,"name:xx":"Cetiandao"}}
+{
+  "id": 7476817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476817",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476817,
+    "tgn:name":"Cetiandao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.563587,23.554584],"type":"Point"}
+}

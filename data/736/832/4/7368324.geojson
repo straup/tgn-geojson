@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.950000,25.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7368324","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7368324,"name:xx":"Rancho Grenada"}}
+{
+  "id": 7368324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368324",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368324,
+    "tgn:name":"Rancho Grenada",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.95,25.333333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.016700,37.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2767363","tgn:1000001","tgn:7012149","tgn:2002221","tgn:7007919","tgn:7029392"],"placetype":["aat:300132348"],"id":2767363,"name:xx":"White Shoal"}}
+{
+  "id": 2767363,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767363",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002221",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767363,
+    "tgn:name":"White Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0167,37.0167],"type":"Point"}
+}

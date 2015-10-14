@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.583333,41.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7053504","tgn:7004595","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053504,"name:xx":"Paolisi"}}
+{
+  "id": 7053504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053504",
+        "tgn:7004595",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053504,
+    "tgn:name":"Paolisi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.583333,41.033333],"type":"Point"}
+}

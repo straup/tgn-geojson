@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.250000,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2151259","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2151259,"name:xx":"Bates Branch"}}
+{
+  "id": 2151259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151259",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151259,
+    "tgn:name":"Bates Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.25,38.15],"type":"Point"}
+}

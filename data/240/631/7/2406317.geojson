@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.300000,38.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2406317","tgn:1000001","tgn:7012149","tgn:2002114","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2406317,"name:xx":"Huncup Creek"}}
+{
+  "id": 2406317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406317",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002114",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406317,
+    "tgn:name":"Huncup Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.3,38.7833],"type":"Point"}
+}

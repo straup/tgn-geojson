@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.360000,53.037222]},"type":"Feature","properties":{"hierarchy":["tgn:7115303","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300387198"],"id":7115303,"name:xx":"Landkreis Oldenburg"}}
+{
+  "id": 7115303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115303",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115303,
+    "tgn:name":"Landkreis Oldenburg",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.36,53.037222],"type":"Point"}
+}

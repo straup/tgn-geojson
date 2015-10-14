@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.800000,51.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7173238","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7173238,"name:xx":"Gro\u00dfer Streng"}}
+{
+  "id": 7173238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173238",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173238,
+    "tgn:name":"Gro\u00dfer Streng",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8,51.816667],"type":"Point"}
+}

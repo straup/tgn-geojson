@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.233300,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7021864","tgn:1000001","tgn:2001187","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021864,"name:xx":"Cooley Lake"}}
+{
+  "id": 7021864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021864",
+        "tgn:1000001",
+        "tgn:2001187",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021864,
+    "tgn:name":"Cooley Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2333,39.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.302500,24.376389]},"type":"Feature","properties":{"hierarchy":["tgn:7356121","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356121,"name:xx":"Camalotito"}}
+{
+  "id": 7356121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356121",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356121,
+    "tgn:name":"Camalotito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.3025,24.376389],"type":"Point"}
+}

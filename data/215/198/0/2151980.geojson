@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.033300,39.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2151980","tgn:1000001","tgn:7012149","tgn:1002701","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2151980,"name:xx":"Baughman Run"}}
+{
+  "id": 2151980,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151980",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002701",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151980,
+    "tgn:name":"Baughman Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0333,39.8333],"type":"Point"}
+}

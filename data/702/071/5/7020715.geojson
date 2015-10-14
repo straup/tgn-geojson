@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.983300,38.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7020715","tgn:1002234","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":7020715,"name:xx":"Frazier Point"}}
+{
+  "id": 7020715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020715",
+        "tgn:1002234",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020715,
+    "tgn:name":"Frazier Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9833,38.6833],"type":"Point"}
+}

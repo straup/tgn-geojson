@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.750000,47.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2252495","tgn:1000001","tgn:7012149","tgn:2000479","tgn:7007250","tgn:7029392"],"placetype":["aat:300008850"],"id":2252495,"name:xx":"Conkling Point"}}
+{
+  "id": 2252495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252495",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000479",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252495,
+    "tgn:name":"Conkling Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.75,47.4],"type":"Point"}
+}

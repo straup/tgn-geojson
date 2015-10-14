@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.016700,38.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2159520","tgn:1000001","tgn:7012149","tgn:1002829","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2159520,"name:xx":"Bee Lick"}}
+{
+  "id": 2159520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159520",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002829",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159520,
+    "tgn:name":"Bee Lick",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0167,38.5167],"type":"Point"}
+}

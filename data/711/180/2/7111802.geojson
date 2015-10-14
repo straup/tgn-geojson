@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.933333,47.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7111802","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7111802,"name:xx":"Rohrenkopf"}}
+{
+  "id": 7111802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111802",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111802,
+    "tgn:name":"Rohrenkopf",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.933333,47.716667],"type":"Point"}
+}

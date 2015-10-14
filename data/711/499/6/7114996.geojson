@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.667222,49.014444]},"type":"Feature","properties":{"hierarchy":["tgn:7114996","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114996,"name:xx":"Oberrot"}}
+{
+  "id": 7114996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114996",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114996,
+    "tgn:name":"Oberrot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.667222,49.014444],"type":"Point"}
+}

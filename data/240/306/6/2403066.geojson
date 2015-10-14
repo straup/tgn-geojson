@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.150000,43.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2403066","tgn:1000001","tgn:7012149","tgn:1002986","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2403066,"name:xx":"Hour Pond Mountain"}}
+{
+  "id": 2403066,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403066",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002986",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403066,
+    "tgn:name":"Hour Pond Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.15,43.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.533300,47.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2338473","tgn:1000001","tgn:7012149","tgn:1002552","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2338473,"name:xx":"Fragaria Creek"}}
+{
+  "id": 2338473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002552",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338473,
+    "tgn:name":"Fragaria Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5333,47.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.950000,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2335619","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2335619,"name:xx":"Fortine Creek"}}
+{
+  "id": 2335619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335619",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335619,
+    "tgn:name":"Fortine Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.95,48.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.750000,54.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7178074","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7178074,"name:xx":"Haffwiesen"}}
+{
+  "id": 7178074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178074",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178074,
+    "tgn:name":"Haffwiesen",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.75,54.033333],"type":"Point"}
+}

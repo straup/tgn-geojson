@@ -1,0 +1,25 @@
+{
+  "id": 7003422,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003422",
+        "tgn:1000003",
+        "tgn:7594009",
+        "tgn:1000066",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003422,
+    "tgn:name:da":"Haderslev",
+    "tgn:name:de":"Hadersleben",
+    "tgn:name:en":"Haderslev",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.5,55.25],"type":"Point"}
+}

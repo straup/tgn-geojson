@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.850000,32.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2400766","tgn:1000001","tgn:2000316","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008791"],"id":2400766,"name:xx":"Horse Pen Hammock"}}
+{
+  "id": 2400766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400766",
+        "tgn:1000001",
+        "tgn:2000316",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400766,
+    "tgn:name":"Horse Pen Hammock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.85,32.0],"type":"Point"}
+}

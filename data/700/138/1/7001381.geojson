@@ -1,0 +1,24 @@
+{
+  "id": 7001381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001381",
+        "tgn:1000861",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001381,
+    "tgn:name:en":"Masada",
+    "tgn:name:he":"\u05de\u05e6\u05d3\u05d4",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387238"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.35,31.3167],"type":"Point"}
+}

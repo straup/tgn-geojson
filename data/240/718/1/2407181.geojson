@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.950000,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2407181","tgn:1000001","tgn:7012149","tgn:1002814","tgn:7007568","tgn:7029392"],"placetype":["aat:300008850"],"id":2407181,"name:xx":"Hunters Point"}}
+{
+  "id": 2407181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407181",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002814",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407181,
+    "tgn:name":"Hunters Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.95,40.7333],"type":"Point"}
+}

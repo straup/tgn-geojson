@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.590556,24.413230]},"type":"Feature","properties":{"hierarchy":["tgn:7480367","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7480367,"name:xx":"Kubaboshe"}}
+{
+  "id": 7480367,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480367",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480367,
+    "tgn:name":"Kubaboshe",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.590556,24.41323],"type":"Point"}
+}

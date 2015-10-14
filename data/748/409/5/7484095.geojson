@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.643333,22.303333]},"type":"Feature","properties":{"hierarchy":["tgn:7484095","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7484095,"name:xx":"Neishi Guoxiao"}}
+{
+  "id": 7484095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484095",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484095,
+    "tgn:name":"Neishi Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.643333,22.303333],"type":"Point"}
+}

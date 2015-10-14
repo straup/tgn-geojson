@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.333300,44.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2333455","tgn:1000001","tgn:7012149","tgn:7013941","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2333455,"name:xx":"Follensby Clear Pond"}}
+{
+  "id": 2333455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013941",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333455,
+    "tgn:name":"Follensby Clear Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.3333,44.3167],"type":"Point"}
+}

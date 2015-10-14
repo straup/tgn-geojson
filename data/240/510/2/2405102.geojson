@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.766700,33.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2405102","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2405102,"name:xx":"Hudson Spring"}}
+{
+  "id": 2405102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405102",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405102,
+    "tgn:name":"Hudson Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7667,33.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.416700,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2259586","tgn:1002165","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008678"],"id":2259586,"name:xx":"Cotuit Anchorage"}}
+{
+  "id": 2259586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259586",
+        "tgn:1002165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259586,
+    "tgn:name":"Cotuit Anchorage",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.4167,41.5833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.466667,50.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7179591","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7179591,"name:xx":"Hambuchen"}}
+{
+  "id": 7179591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179591",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179591,
+    "tgn:name":"Hambuchen",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.466667,50.85],"type":"Point"}
+}

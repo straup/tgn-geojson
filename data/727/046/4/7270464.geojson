@@ -1,0 +1,27 @@
+{
+  "id": 7270464,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f18eae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749708",
+        "gp:id":732218,
+        "qs:id":3,
+        "wof:id":101803719
+    },
+    "tgn:hierarchy":[
+        "tgn:7270464",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7270464,
+    "tgn:name:nl":"Oenkerk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.9,53.25],"type":"Point"}
+}

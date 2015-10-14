@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.566667,50.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7249335","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7249335,"name:xx":"Plomcot"}}
+{
+  "id": 7249335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249335",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249335,
+    "tgn:name":"Plomcot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.566667,50.483333],"type":"Point"}
+}

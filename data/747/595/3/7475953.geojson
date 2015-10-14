@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.702966,24.730176]},"type":"Feature","properties":{"hierarchy":["tgn:7475953","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475953,"name:xx":"Bizitou Qiao"}}
+{
+  "id": 7475953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475953",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475953,
+    "tgn:name":"Bizitou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.702966,24.730176],"type":"Point"}
+}

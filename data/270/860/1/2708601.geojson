@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.833300,32.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2708601","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2708601,"name:xx":"Sycamore Tank"}}
+{
+  "id": 2708601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708601",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708601,
+    "tgn:name":"Sycamore Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8333,32.95],"type":"Point"}
+}

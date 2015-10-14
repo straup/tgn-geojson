@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.883300,34.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2407191","tgn:1000001","tgn:2001740","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2407191,"name:xx":"Hunters Ridge"}}
+{
+  "id": 2407191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407191",
+        "tgn:1000001",
+        "tgn:2001740",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407191,
+    "tgn:name":"Hunters Ridge",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.8833,34.3],"type":"Point"}
+}

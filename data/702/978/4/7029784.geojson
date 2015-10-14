@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-6.200000,42.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7029784","tgn:7002826","tgn:7001158","tgn:1000003","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347","aat:300007466","aat:300006676"],"id":7029784,"name:xx":"El Ganso"}}
+{
+  "id": 7029784,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029784",
+        "tgn:7002826",
+        "tgn:7001158",
+        "tgn:1000003",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029784,
+    "tgn:name":"El Ganso",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466",
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-6.2,42.466667],"type":"Point"}
+}

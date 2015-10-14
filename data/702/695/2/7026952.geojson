@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.766700,50.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7026952","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026952,"name:ang":"Weringetone"}}
+{
+  "id": 7026952,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026952",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026952,
+    "tgn:name:ang":"Weringetone",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.7667,50.7667],"type":"Point"}
+}

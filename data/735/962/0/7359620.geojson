@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.733333,19.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7359620","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7359620,"name:xx":"Cuastecomatito, Punta"}}
+{
+  "id": 7359620,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359620",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359620,
+    "tgn:name":"Cuastecomatito, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.733333,19.216667],"type":"Point"}
+}

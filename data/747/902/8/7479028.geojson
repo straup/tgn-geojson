@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.417222,23.354722]},"type":"Feature","properties":{"hierarchy":["tgn:7479028","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479028,"name:xx":"Baihe Shanggong"}}
+{
+  "id": 7479028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479028",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479028,
+    "tgn:name":"Baihe Shanggong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.417222,23.354722],"type":"Point"}
+}

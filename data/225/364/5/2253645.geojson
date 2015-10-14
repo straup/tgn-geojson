@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.566700,44.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2253645","tgn:1000001","tgn:7012149","tgn:2002379","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2253645,"name:xx":"Cook Peak"}}
+{
+  "id": 2253645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253645",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002379",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253645,
+    "tgn:name":"Cook Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5667,44.8333],"type":"Point"}
+}

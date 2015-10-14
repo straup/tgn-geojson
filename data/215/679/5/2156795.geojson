@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.633300,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156795","tgn:1000001","tgn:2001339","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300006075"],"id":2156795,"name:xx":"Beatty Ditch"}}
+{
+  "id": 2156795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156795",
+        "tgn:1000001",
+        "tgn:2001339",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156795,
+    "tgn:name":"Beatty Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.6333,40.7333],"type":"Point"}
+}

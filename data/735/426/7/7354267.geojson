@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.816667,21.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7354267","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354267,"name:xx":"Chuburn\u00e1"}}
+{
+  "id": 7354267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354267",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354267,
+    "tgn:name":"Chuburn\u00e1",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.816667,21.25],"type":"Point"}
+}

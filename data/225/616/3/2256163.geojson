@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.083300,38.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2256163","tgn:1000001","tgn:1002614","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300000390"],"id":2256163,"name:xx":"Copper Ridge Mine"}}
+{
+  "id": 2256163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256163",
+        "tgn:1000001",
+        "tgn:1002614",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256163,
+    "tgn:name":"Copper Ridge Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.0833,38.9667],"type":"Point"}
+}

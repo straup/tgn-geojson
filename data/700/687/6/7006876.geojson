@@ -1,0 +1,31 @@
+{
+  "id": 7006876,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f03680-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759661",
+        "gp:id":727349,
+        "qs:id":9,
+        "wof:id":101751857
+    },
+    "tgn:hierarchy":[
+        "tgn:7006876",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006876,
+    "tgn:name:de":"Arnheim",
+    "tgn:name:nl":"Arnhem",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.916667,51.983333],"type":"Point"}
+}

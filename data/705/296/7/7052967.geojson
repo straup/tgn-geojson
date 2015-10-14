@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.633333,40.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7052967","tgn:7003248","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7052967,"name:xx":"Iesce, Valle"}}
+{
+  "id": 7052967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052967",
+        "tgn:7003248",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052967,
+    "tgn:name":"Iesce, Valle",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.633333,40.716667],"type":"Point"}
+}

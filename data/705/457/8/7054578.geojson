@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.016667,44.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7054578","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300266640"],"id":7054578,"name:xx":"Pelvis, Cr\u00eate du"}}
+{
+  "id": 7054578,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054578",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054578,
+    "tgn:name":"Pelvis, Cr\u00eate du",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.016667,44.783333],"type":"Point"}
+}

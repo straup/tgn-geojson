@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.631980,24.747789]},"type":"Feature","properties":{"hierarchy":["tgn:7476668","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7476668,"name:xx":"Shuanglianpi Huguansuo"}}
+{
+  "id": 7476668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476668",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476668,
+    "tgn:name":"Shuanglianpi Huguansuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.63198,24.747789],"type":"Point"}
+}

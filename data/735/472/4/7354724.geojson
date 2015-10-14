@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.216667,26.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7354724","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354724,"name:xx":"Charco Escondido"}}
+{
+  "id": 7354724,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354724",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354724,
+    "tgn:name":"Charco Escondido",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.216667,26.266667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.933300,38.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2333554","tgn:1000001","tgn:1002340","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2333554,"name:xx":"Folsom Spring"}}
+{
+  "id": 2333554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333554",
+        "tgn:1000001",
+        "tgn:1002340",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333554,
+    "tgn:name":"Folsom Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.9333,38.9667],"type":"Point"}
+}

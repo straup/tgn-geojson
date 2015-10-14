@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.233300,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2767103","tgn:1000001","tgn:2002106","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300132316"],"id":2767103,"name:xx":"White Rock Bay"}}
+{
+  "id": 2767103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767103",
+        "tgn:1000001",
+        "tgn:2002106",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767103,
+    "tgn:name":"White Rock Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2333,41.0],"type":"Point"}
+}

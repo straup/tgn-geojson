@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.150000,48.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2339282","tgn:1000001","tgn:7012149","tgn:2001034","tgn:7007521","tgn:7029392"],"placetype":["aat:300008791"],"id":2339282,"name:xx":"Fraser Island"}}
+{
+  "id": 2339282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339282",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001034",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339282,
+    "tgn:name":"Fraser Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.15,48.6],"type":"Point"}
+}

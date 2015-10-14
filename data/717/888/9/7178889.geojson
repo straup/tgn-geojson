@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.816667,50.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7178889","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7178889,"name:xx":"Hammerleithen"}}
+{
+  "id": 7178889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178889",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178889,
+    "tgn:name":"Hammerleithen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.816667,50.516667],"type":"Point"}
+}

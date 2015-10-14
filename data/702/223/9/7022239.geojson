@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-83.783300,35.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7022239","tgn:1000001","tgn:2001841","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347","aat:300387210"],"id":7022239,"name:xx":"Watertown"}}
+{
+  "id": 7022239,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022239",
+        "tgn:1000001",
+        "tgn:2001841",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022239,
+    "tgn:name":"Watertown",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387210"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7833,35.7333],"type":"Point"}
+}

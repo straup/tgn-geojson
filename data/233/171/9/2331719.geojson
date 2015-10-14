@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.350000,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2331719","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2331719,"name:xx":"Fleming Drain"}}
+{
+  "id": 2331719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331719",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331719,
+    "tgn:name":"Fleming Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.35,43.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.566700,38.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2331795","tgn:1000001","tgn:2002256","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2331795,"name:xx":"Flesher Run"}}
+{
+  "id": 2331795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331795",
+        "tgn:1000001",
+        "tgn:2002256",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331795,
+    "tgn:name":"Flesher Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5667,38.8333],"type":"Point"}
+}

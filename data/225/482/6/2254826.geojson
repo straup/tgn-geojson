@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.466700,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2254826","tgn:1000001","tgn:7012149","tgn:1002921","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2254826,"name:xx":"Cooney Reservoir"}}
+{
+  "id": 2254826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254826",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002921",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254826,
+    "tgn:name":"Cooney Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.4667,39.4],"type":"Point"}
+}

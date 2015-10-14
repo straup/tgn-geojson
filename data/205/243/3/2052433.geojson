@@ -1,0 +1,26 @@
+{
+  "id": 2052433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2052433",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002502",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2052433,
+    "tgn:name":"Lansing",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387221",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.55,42.7167],"type":"Point"}
+}

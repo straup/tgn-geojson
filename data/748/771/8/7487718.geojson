@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.407500,23.338056]},"type":"Feature","properties":{"hierarchy":["tgn:7487718","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487718,"name:xx":"Liuchong Xi"}}
+{
+  "id": 7487718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487718",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487718,
+    "tgn:name":"Liuchong Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4075,23.338056],"type":"Point"}
+}

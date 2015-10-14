@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.616667,53.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7179467","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7179467,"name:xx":"Haa\u00dfel"}}
+{
+  "id": 7179467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179467",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179467,
+    "tgn:name":"Haa\u00dfel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.616667,53.133333],"type":"Point"}
+}

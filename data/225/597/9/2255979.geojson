@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.116700,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2255979","tgn:1000001","tgn:7012149","tgn:1002384","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2255979,"name:xx":"Copper Hollow"}}
+{
+  "id": 2255979,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255979",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002384",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255979,
+    "tgn:name":"Copper Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1167,38.2333],"type":"Point"}
+}

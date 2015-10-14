@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.721667,24.953611]},"type":"Feature","properties":{"hierarchy":["tgn:7351705","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300387086"],"id":7351705,"name:xx":"Caimanero, Laguna de"}}
+{
+  "id": 7351705,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351705",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351705,
+    "tgn:name":"Caimanero, Laguna de",
+    "tgn:placetype":[
+        "aat:300387086"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.721667,24.953611],"type":"Point"}
+}

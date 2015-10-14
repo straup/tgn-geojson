@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.200000,47.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7052194","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7052194,"name:xx":"Italia, Vetta d'"}}
+{
+  "id": 7052194,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052194",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052194,
+    "tgn:name":"Italia, Vetta d'",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.2,47.083333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.516667,25.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7363409","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363409,"name:xx":"Rancho El Alamo"}}
+{
+  "id": 7363409,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363409",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363409,
+    "tgn:name":"Rancho El Alamo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.516667,25.933333],"type":"Point"}
+}

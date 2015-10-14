@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.650000,42.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2155183","tgn:1000001","tgn:7012149","tgn:1002920","tgn:7007568","tgn:7029392"],"placetype":["aat:300008761"],"id":2155183,"name:xx":"Bear Lick Hollow"}}
+{
+  "id": 2155183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155183",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002920",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155183,
+    "tgn:name":"Bear Lick Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.65,42.2333],"type":"Point"}
+}

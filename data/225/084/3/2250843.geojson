@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.066700,46.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2250843","tgn:2002240","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300006075"],"id":2250843,"name:xx":"Columbia Canal Number 3"}}
+{
+  "id": 2250843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250843",
+        "tgn:2002240",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250843,
+    "tgn:name":"Columbia Canal Number 3",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.0667,46.15],"type":"Point"}
+}

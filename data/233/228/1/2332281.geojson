@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.833300,37.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2332281","tgn:1000001","tgn:2001183","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2332281,"name:xx":"Flood Branch"}}
+{
+  "id": 2332281,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332281",
+        "tgn:1000001",
+        "tgn:2001183",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332281,
+    "tgn:name":"Flood Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.8333,37.75],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.125556,32.423333]},"type":"Feature","properties":{"hierarchy":["tgn:7358343","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358343,"name:xx":"Saltillo"}}
+{
+  "id": 7358343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358343",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358343,
+    "tgn:name":"Saltillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.125556,32.423333],"type":"Point"}
+}

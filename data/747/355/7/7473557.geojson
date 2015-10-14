@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.680132,24.785627]},"type":"Feature","properties":{"hierarchy":["tgn:7473557","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473557,"name:xx":"Sancengping"}}
+{
+  "id": 7473557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473557",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473557,
+    "tgn:name":"Sancengping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.680132,24.785627],"type":"Point"}
+}

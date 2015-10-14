@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.607500,24.309444]},"type":"Feature","properties":{"hierarchy":["tgn:7484304","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7484304,"name:xx":"Sankuaicuo Ti"}}
+{
+  "id": 7484304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484304",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484304,
+    "tgn:name":"Sankuaicuo Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6075,24.309444],"type":"Point"}
+}

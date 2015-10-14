@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-78.966700,41.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2258040","tgn:1000001","tgn:7012149","tgn:1002988","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":2258040,"name:xx":"Corydon"}}
+{
+  "id": 2258040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258040",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002988",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258040,
+    "tgn:name":"Corydon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.9667,41.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.500000,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2402245","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2402245,"name:xx":"Horsetrap Tank"}}
+{
+  "id": 2402245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402245",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402245,
+    "tgn:name":"Horsetrap Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5,34.9],"type":"Point"}
+}

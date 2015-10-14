@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.766700,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2408057","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000168","tgn:7029392"],"placetype":["aat:300008761"],"id":2408057,"name:xx":"Hurricane Hollow"}}
+{
+  "id": 2408057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408057",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000168",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408057,
+    "tgn:name":"Hurricane Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.7667,34.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.483333,54.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7176256","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7176256,"name:xx":"Gro\u00df Tarup"}}
+{
+  "id": 7176256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176256",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176256,
+    "tgn:name":"Gro\u00df Tarup",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.483333,54.783333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.033300,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2333298","tgn:1000001","tgn:1002902","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300132316"],"id":2333298,"name:xx":"Fog Point Cove"}}
+{
+  "id": 2333298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333298",
+        "tgn:1000001",
+        "tgn:1002902",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333298,
+    "tgn:name":"Fog Point Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0333,38.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.435833,46.435833]},"type":"Feature","properties":{"hierarchy":["tgn:7052609","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7052609,"name:xx":"I\u00f4f di Montasio"}}
+{
+  "id": 7052609,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052609",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052609,
+    "tgn:name":"I\u00f4f di Montasio",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.435833,46.435833],"type":"Point"}
+}

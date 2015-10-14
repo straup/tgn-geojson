@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.350000,25.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7378554","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378554,"name:xx":"Mangl\u00f3n"}}
+{
+  "id": 7378554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378554",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378554,
+    "tgn:name":"Mangl\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.35,25.316667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.783300,44.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2705242","tgn:1000001","tgn:7012149","tgn:7016021","tgn:7007568","tgn:7029392"],"placetype":["aat:300132348"],"id":2705242,"name:xx":"Superior Shoal"}}
+{
+  "id": 2705242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705242",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016021",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705242,
+    "tgn:name":"Superior Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7833,44.45],"type":"Point"}
+}

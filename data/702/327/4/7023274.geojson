@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7023274","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023274,"name:xx":"Little Sand Valley Creek"}}
+{
+  "id": 7023274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023274",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023274,
+    "tgn:name":"Little Sand Valley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,34.2],"type":"Point"}
+}

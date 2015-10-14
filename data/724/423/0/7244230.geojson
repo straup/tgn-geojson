@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.800000,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7244230","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7244230,"name:xx":"Katspoelhof"}}
+{
+  "id": 7244230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244230",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244230,
+    "tgn:name":"Katspoelhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.8,50.833333],"type":"Point"}
+}

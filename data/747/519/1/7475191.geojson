@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.590899,25.290519]},"type":"Feature","properties":{"hierarchy":["tgn:7475191","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475191,"name:xx":"Beiyuan Qiao"}}
+{
+  "id": 7475191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475191",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475191,
+    "tgn:name":"Beiyuan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.590899,25.290519],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.716700,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2336655","tgn:1000001","tgn:7012149","tgn:2001752","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2336655,"name:xx":"Four Seasons"}}
+{
+  "id": 2336655,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336655",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001752",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336655,
+    "tgn:name":"Four Seasons",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7167,34.2],"type":"Point"}
+}

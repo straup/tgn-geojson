@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.700000,48.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2402228","tgn:1000001","tgn:7012149","tgn:2001277","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2402228,"name:xx":"Horsethief Ridge"}}
+{
+  "id": 2402228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402228",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001277",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402228,
+    "tgn:name":"Horsethief Ridge",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.7,48.7833],"type":"Point"}
+}

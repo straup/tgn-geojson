@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.950000,47.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2404178","tgn:1000001","tgn:7012149","tgn:2001283","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2404178,"name:xx":"Howsley Creek"}}
+{
+  "id": 2404178,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001283",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404178,
+    "tgn:name":"Howsley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.95,47.9333],"type":"Point"}
+}

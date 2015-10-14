@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7248404","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248404,"name:xx":"Bettegemhoeve"}}
+{
+  "id": 7248404,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248404",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248404,
+    "tgn:name":"Bettegemhoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,50.883333],"type":"Point"}
+}

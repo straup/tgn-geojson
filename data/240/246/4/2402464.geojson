@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.283300,37.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2402464","tgn:1000001","tgn:7012149","tgn:2000509","tgn:7007251","tgn:7029392"],"placetype":["aat:300008706"],"id":2402464,"name:xx":"Hosick Creek"}}
+{
+  "id": 2402464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402464",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000509",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402464,
+    "tgn:name":"Hosick Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2833,37.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.483333,37.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7059010","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7059010,"name:xx":"Birgi, Fiume"}}
+{
+  "id": 7059010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059010",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059010,
+    "tgn:name":"Birgi, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.483333,37.933333],"type":"Point"}
+}

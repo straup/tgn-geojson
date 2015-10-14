@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.150833,49.508333]},"type":"Feature","properties":{"hierarchy":["tgn:7114763","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000745"],"id":7114763,"name:xx":"Oberscheidental"}}
+{
+  "id": 7114763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114763",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114763,
+    "tgn:name":"Oberscheidental",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.150833,49.508333],"type":"Point"}
+}

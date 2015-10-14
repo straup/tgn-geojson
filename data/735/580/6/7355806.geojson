@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.233333,23.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7355806","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355806,"name:xx":"Cerrito del Aire"}}
+{
+  "id": 7355806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355806",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355806,
+    "tgn:name":"Cerrito del Aire",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.233333,23.6],"type":"Point"}
+}

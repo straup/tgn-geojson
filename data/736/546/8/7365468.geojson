@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.416667,29.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7365468","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7365468,"name:xx":"Fresno, Arroyo del"}}
+{
+  "id": 7365468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365468",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365468,
+    "tgn:name":"Fresno, Arroyo del",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.416667,29.383333],"type":"Point"}
+}

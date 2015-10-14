@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-93.166700,48.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022173","tgn:1000001","tgn:7012149","tgn:2001034","tgn:7007521","tgn:7029392"],"placetype":["aat:300008347","aat:300387324"],"id":7022173,"name:xx":"Nett Lake Indian Reservation"}}
+{
+  "id": 7022173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022173",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001034",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022173,
+    "tgn:name":"Nett Lake Indian Reservation",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387324"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1667,48.1],"type":"Point"}
+}

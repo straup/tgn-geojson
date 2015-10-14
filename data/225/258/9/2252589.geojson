@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.116700,36.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2252589","tgn:1000001","tgn:2001470","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2252589,"name:xx":"Connaritsa Swamp"}}
+{
+  "id": 2252589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252589",
+        "tgn:1000001",
+        "tgn:2001470",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252589,
+    "tgn:name":"Connaritsa Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.1167,36.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.583300,40.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2152015","tgn:1000001","tgn:2002107","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008680"],"id":2152015,"name:xx":"Baum Lake"}}
+{
+  "id": 2152015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152015",
+        "tgn:1000001",
+        "tgn:2002107",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152015,
+    "tgn:name":"Baum Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5833,40.55],"type":"Point"}
+}

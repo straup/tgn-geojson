@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-75.300000,41.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023456","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":7023456,"name:xx":"Spruce Mountain Run"}}
+{
+  "id": 7023456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023456",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023456,
+    "tgn:name":"Spruce Mountain Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3,41.2333],"type":"Point"}
+}

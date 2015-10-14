@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.283333,20.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7367759","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7367759,"name:xx":"El Salero, Mesa"}}
+{
+  "id": 7367759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367759",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367759,
+    "tgn:name":"El Salero, Mesa",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.283333,20.466667],"type":"Point"}
+}

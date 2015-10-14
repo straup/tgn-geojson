@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.250000,51.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7172581","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7172581,"name:xx":"Heronger Heide"}}
+{
+  "id": 7172581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172581",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172581,
+    "tgn:name":"Heronger Heide",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.25,51.366667],"type":"Point"}
+}

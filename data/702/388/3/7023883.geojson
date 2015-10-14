@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[37.416700,48.566700]},"type":"Feature","properties":{"hierarchy":["tgn:7023883","tgn:7012076","tgn:1000003","tgn:7006660","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7023883,"name:xx":"Novohryhorivka"}}
+{
+  "id": 7023883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023883",
+        "tgn:7012076",
+        "tgn:1000003",
+        "tgn:7006660",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023883,
+    "tgn:name":"Novohryhorivka",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[37.4167,48.5667],"type":"Point"}
+}

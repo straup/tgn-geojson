@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.450000,50.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7114237","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7114237,"name:xx":"Renzen-Berg"}}
+{
+  "id": 7114237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114237",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114237,
+    "tgn:name":"Renzen-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.45,50.316667],"type":"Point"}
+}

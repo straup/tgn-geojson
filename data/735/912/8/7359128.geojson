@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.133333,26.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7359128","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7359128,"name:xx":"Colorado, Picacho"}}
+{
+  "id": 7359128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359128",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359128,
+    "tgn:name":"Colorado, Picacho",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.133333,26.016667],"type":"Point"}
+}

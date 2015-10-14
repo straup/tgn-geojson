@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.500000,54.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7172930","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172930,"name:xx":"Gro\u00df Soltfeld"}}
+{
+  "id": 7172930,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172930",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172930,
+    "tgn:name":"Gro\u00df Soltfeld",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.5,54.7],"type":"Point"}
+}

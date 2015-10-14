@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.766700,32.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2769957","tgn:1000001","tgn:2001436","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2769957,"name:xx":"Wilburn Tank"}}
+{
+  "id": 2769957,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769957",
+        "tgn:1000001",
+        "tgn:2001436",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769957,
+    "tgn:name":"Wilburn Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7667,32.5667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.500000,25.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7473076","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473076,"name:xx":"Dianjie"}}
+{
+  "id": 7473076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473076",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473076,
+    "tgn:name":"Dianjie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5,25.016667],"type":"Point"}
+}

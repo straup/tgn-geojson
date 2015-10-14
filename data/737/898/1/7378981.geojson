@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.900000,27.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7378981","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378981,"name:xx":"Mezcalera Chica"}}
+{
+  "id": 7378981,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378981",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378981,
+    "tgn:name":"Mezcalera Chica",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9,27.25],"type":"Point"}
+}

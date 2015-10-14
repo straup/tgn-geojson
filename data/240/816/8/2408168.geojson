@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.883300,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2408168","tgn:1000001","tgn:2000924","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132316"],"id":2408168,"name:xx":"Hurricane Sound"}}
+{
+  "id": 2408168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408168",
+        "tgn:1000001",
+        "tgn:2000924",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408168,
+    "tgn:name":"Hurricane Sound",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.8833,44.0333],"type":"Point"}
+}

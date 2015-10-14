@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.116667,24.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7350953","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7350953,"name:xx":"Baj\u00edo del Arroyo Seco"}}
+{
+  "id": 7350953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350953",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350953,
+    "tgn:name":"Baj\u00edo del Arroyo Seco",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.116667,24.266667],"type":"Point"}
+}

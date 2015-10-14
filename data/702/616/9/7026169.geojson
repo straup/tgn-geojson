@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.783300,51.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7026169","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026169,"name:ang":"Criccheseia"}}
+{
+  "id": 7026169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026169",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026169,
+    "tgn:name:ang":"Criccheseia",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.7833,51.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.333300,48.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2255931","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2255931,"name:xx":"Copper Glance Creek"}}
+{
+  "id": 2255931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255931",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255931,
+    "tgn:name":"Copper Glance Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3333,48.75],"type":"Point"}
+}

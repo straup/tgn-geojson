@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.183300,32.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2765579","tgn:1000001","tgn:2001742","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2765579,"name:xx":"White Church Place"}}
+{
+  "id": 2765579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765579",
+        "tgn:1000001",
+        "tgn:2001742",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765579,
+    "tgn:name":"White Church Place",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1833,32.95],"type":"Point"}
+}

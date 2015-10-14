@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.683300,40.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2769796","tgn:1000001","tgn:7012149","tgn:2000518","tgn:7007251","tgn:7029392"],"placetype":["aat:300008761"],"id":2769796,"name:xx":"Wigwam Hollow"}}
+{
+  "id": 2769796,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769796",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000518",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769796,
+    "tgn:name":"Wigwam Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6833,40.5],"type":"Point"}
+}

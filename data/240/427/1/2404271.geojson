@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.200000,42.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2404271","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008798"],"id":2404271,"name:xx":"Hoyt Hill"}}
+{
+  "id": 2404271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404271",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404271,
+    "tgn:name":"Hoyt Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.2,42.9167],"type":"Point"}
+}

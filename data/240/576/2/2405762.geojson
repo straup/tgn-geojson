@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-159.383300,21.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2405762","tgn:1007657","tgn:1002534","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300008761"],"id":2405762,"name:xx":"Huleia Valley"}}
+{
+  "id": 2405762,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405762",
+        "tgn:1007657",
+        "tgn:1002534",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405762,
+    "tgn:name":"Huleia Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-159.3833,21.9333],"type":"Point"}
+}

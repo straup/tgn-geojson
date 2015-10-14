@@ -1,1 +1,26 @@
-{"geometry":{"type":"Point","coordinates":[22.132000,38.219000]},"type":"Feature","properties":{"hierarchy":["tgn:7025565","tgn:7002733","tgn:7017076","tgn:1000003","tgn:1000074","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300167671","aat:300387655","aat:300019275","aat:300387272"],"id":7025565,"name:xx":"Helike"}}
+{
+  "id": 7025565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025565",
+        "tgn:7002733",
+        "tgn:7017076",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025565,
+    "tgn:name":"Helike",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387655",
+        "aat:300019275",
+        "aat:300387272"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[22.132,38.219],"type":"Point"}
+}

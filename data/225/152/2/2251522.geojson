@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-100.100000,36.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2251522","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2251522,"name:xx":"Commission Creek"}}
+{
+  "id": 2251522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251522",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251522,
+    "tgn:name":"Commission Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.1,36.05],"type":"Point"}
+}

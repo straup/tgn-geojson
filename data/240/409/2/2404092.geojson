@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.533300,40.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2404092","tgn:1000001","tgn:7012149","tgn:1002928","tgn:7007706","tgn:7029392"],"placetype":["aat:300008680"],"id":2404092,"name:xx":"Hower Lake"}}
+{
+  "id": 2404092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404092",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002928",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404092,
+    "tgn:name":"Hower Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5333,40.9833],"type":"Point"}
+}

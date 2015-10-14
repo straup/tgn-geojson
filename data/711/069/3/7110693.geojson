@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.650000,51.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7110693","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110693,"name:xx":"Reichersdorf"}}
+{
+  "id": 7110693,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110693",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110693,
+    "tgn:name":"Reichersdorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.65,51.133333],"type":"Point"}
+}

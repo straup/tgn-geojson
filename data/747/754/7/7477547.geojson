@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.840887,25.080734]},"type":"Feature","properties":{"hierarchy":["tgn:7477547","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477547,"name:xx":"Sandiao Ling Shan"}}
+{
+  "id": 7477547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477547",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477547,
+    "tgn:name":"Sandiao Ling Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.840887,25.080734],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.762600,25.157100]},"type":"Feature","properties":{"hierarchy":["tgn:7477565","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300120803"],"id":7477565,"name:xx":"Zhongchuan Jilong Zaochuanchang"}}
+{
+  "id": 7477565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477565",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477565,
+    "tgn:name":"Zhongchuan Jilong Zaochuanchang",
+    "tgn:placetype":[
+        "aat:300120803"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7626,25.1571],"type":"Point"}
+}

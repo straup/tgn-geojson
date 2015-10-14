@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.384076,50.732144]},"type":"Feature","properties":{"hierarchy":["tgn:7240043","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7240043,"name:xx":"Helkijn"}}
+{
+  "id": 7240043,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240043",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240043,
+    "tgn:name":"Helkijn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.384076,50.732144],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-142.766700,61.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2152003","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008680"],"id":2152003,"name:xx":"Baultoff Lakes"}}
+{
+  "id": 2152003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152003",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152003,
+    "tgn:name":"Baultoff Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-142.7667,61.3333],"type":"Point"}
+}

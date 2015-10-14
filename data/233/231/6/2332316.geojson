@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.783300,38.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2332316","tgn:1000001","tgn:7012149","tgn:2000546","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2332316,"name:xx":"Flood Run"}}
+{
+  "id": 2332316,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332316",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000546",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332316,
+    "tgn:name":"Flood Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.7833,38.7],"type":"Point"}
+}

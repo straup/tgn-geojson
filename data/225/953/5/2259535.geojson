@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.000000,33.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2259535","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2259535,"name:xx":"Cottonwood Wash"}}
+{
+  "id": 2259535,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259535",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259535,
+    "tgn:name":"Cottonwood Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0,33.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.133300,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2404252","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2404252,"name:xx":"Hoyt Brook"}}
+{
+  "id": 2404252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404252",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404252,
+    "tgn:name":"Hoyt Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.1333,42.5833],"type":"Point"}
+}

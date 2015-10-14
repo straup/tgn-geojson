@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.866700,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2250276","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000035","tgn:7029392"],"placetype":["aat:300008697"],"id":2250276,"name:xx":"Collins Spring"}}
+{
+  "id": 2250276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250276",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000035",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250276,
+    "tgn:name":"Collins Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8667,34.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.750000,25.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7379333","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7379333,"name:xx":"Mezquite de las Blancas"}}
+{
+  "id": 7379333,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379333",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379333,
+    "tgn:name":"Mezquite de las Blancas",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.75,25.3],"type":"Point"}
+}

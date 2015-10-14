@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.648889,24.435556]},"type":"Feature","properties":{"hierarchy":["tgn:7483619","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483619,"name:xx":"Fangli Dongmen Qiao"}}
+{
+  "id": 7483619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483619",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483619,
+    "tgn:name":"Fangli Dongmen Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.648889,24.435556],"type":"Point"}
+}

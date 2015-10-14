@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.416700,44.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2151920","tgn:1000001","tgn:1002270","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2151920,"name:xx":"Bauer Creek"}}
+{
+  "id": 2151920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151920",
+        "tgn:1000001",
+        "tgn:1002270",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151920,
+    "tgn:name":"Bauer Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4167,44.9833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.531032,23.766713]},"type":"Feature","properties":{"hierarchy":["tgn:7475484","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7475484,"name:xx":"Tianzhujiao Raoping Ruose Gongmu"}}
+{
+  "id": 7475484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475484",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475484,
+    "tgn:name":"Tianzhujiao Raoping Ruose Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.531032,23.766713],"type":"Point"}
+}

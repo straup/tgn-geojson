@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.600000,45.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7055169","tgn:7002994","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055169,"name:xx":"Ospedaletto Euganeo"}}
+{
+  "id": 7055169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055169",
+        "tgn:7002994",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055169,
+    "tgn:name":"Ospedaletto Euganeo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.6,45.216667],"type":"Point"}
+}

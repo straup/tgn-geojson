@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.066700,34.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2335812","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002857","tgn:7029392"],"placetype":["aat:300008761"],"id":2335812,"name:xx":"Fortynine Palms Canyon"}}
+{
+  "id": 2335812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335812",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335812,
+    "tgn:name":"Fortynine Palms Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.0667,34.05],"type":"Point"}
+}

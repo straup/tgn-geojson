@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-1.220000,53.485000]},"type":"Feature","properties":{"hierarchy":["tgn:7029901","tgn:7019053","tgn:7002445","tgn:1000003","tgn:7029505","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029901,"name:xx":"Cadeby","name:ang":"Catebi"}}
+{
+  "id": 7029901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029901",
+        "tgn:7019053",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029505",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029901,
+    "tgn:name":"Cadeby",
+    "tgn:name:ang":"Catebi",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.22,53.485],"type":"Point"}
+}

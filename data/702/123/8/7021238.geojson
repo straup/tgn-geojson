@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.400000,31.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7021238","tgn:7002659","tgn:1000001","tgn:2000019","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7021238,"name:xx":"Hillcrest Ponds"}}
+{
+  "id": 7021238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021238",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000019",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021238,
+    "tgn:name":"Hillcrest Ponds",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4,31.1833],"type":"Point"}
+}

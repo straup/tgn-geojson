@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.666700,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2403389","tgn:1000001","tgn:7012149","tgn:2000234","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2403389,"name:xx":"Houston Gulch"}}
+{
+  "id": 2403389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403389",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000234",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403389,
+    "tgn:name":"Houston Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.6667,38.5],"type":"Point"}
+}

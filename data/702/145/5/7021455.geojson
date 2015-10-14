@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.316700,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7021455","tgn:1000001","tgn:7012149","tgn:2002298","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021455,"name:xx":"Slab Camp Fork"}}
+{
+  "id": 7021455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002298",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021455,
+    "tgn:name":"Slab Camp Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3167,38.9167],"type":"Point"}
+}

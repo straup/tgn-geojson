@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.433300,46.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2409441","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2409441,"name:xx":"Iddings Creek"}}
+{
+  "id": 2409441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409441",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409441,
+    "tgn:name":"Iddings Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.4333,46.4833],"type":"Point"}
+}

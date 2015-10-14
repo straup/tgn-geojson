@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.916667,44.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7052544","tgn:1003473","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052544,"name:xx":"Isola"}}
+{
+  "id": 7052544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052544",
+        "tgn:1003473",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052544,
+    "tgn:name":"Isola",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.916667,44.183333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.669167,24.415000]},"type":"Feature","properties":{"hierarchy":["tgn:7366563","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366563,"name:xx":"Rinc\u00f3n de la Jes\u00fas"}}
+{
+  "id": 7366563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366563",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366563,
+    "tgn:name":"Rinc\u00f3n de la Jes\u00fas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.669167,24.415],"type":"Point"}
+}

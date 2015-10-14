@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.050000,20.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7377918","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377918,"name:xx":"La Villita"}}
+{
+  "id": 7377918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377918",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377918,
+    "tgn:name":"La Villita",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.05,20.983333],"type":"Point"}
+}

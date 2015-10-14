@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.616667,50.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7248860","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7248860,"name:xx":"Bois du Pays"}}
+{
+  "id": 7248860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248860",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248860,
+    "tgn:name":"Bois du Pays",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.616667,50.333333],"type":"Point"}
+}

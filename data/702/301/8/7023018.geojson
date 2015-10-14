@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-68.883300,47.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7023018","tgn:1000001","tgn:7029392"],"placetype":["aat:300008707"],"id":7023018,"name:xx":"Saint Francis River"}}
+{
+  "id": 7023018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023018",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023018,
+    "tgn:name":"Saint Francis River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.8833,47.1833],"type":"Point"}
+}

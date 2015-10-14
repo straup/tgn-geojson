@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.316700,35.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2768012","tgn:1000001","tgn:7012149","tgn:2001909","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2768012,"name:xx":"Whiteoak Lake"}}
+{
+  "id": 2768012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768012",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001909",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768012,
+    "tgn:name":"Whiteoak Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3167,35.8833],"type":"Point"}
+}

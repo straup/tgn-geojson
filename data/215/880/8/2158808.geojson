@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.916700,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2158808","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002857","tgn:7029392"],"placetype":["aat:300008697"],"id":2158808,"name:xx":"Beck Spring"}}
+{
+  "id": 2158808,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158808",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158808,
+    "tgn:name":"Beck Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.9167,35.7833],"type":"Point"}
+}

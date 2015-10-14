@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.083300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2762973","tgn:7015769","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2762973,"name:xx":"Westmont"}}
+{
+  "id": 2762973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762973",
+        "tgn:7015769",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762973,
+    "tgn:name":"Westmont",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0833,38.85],"type":"Point"}
+}

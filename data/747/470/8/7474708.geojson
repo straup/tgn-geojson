@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.266714,23.088593]},"type":"Feature","properties":{"hierarchy":["tgn:7474708","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474708,"name:xx":"Titang"}}
+{
+  "id": 7474708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474708",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474708,
+    "tgn:name":"Titang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.266714,23.088593],"type":"Point"}
+}

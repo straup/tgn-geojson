@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.866667,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7373662","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373662,"name:xx":"La Cieneguita Coc\u00f3spera"}}
+{
+  "id": 7373662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373662",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373662,
+    "tgn:name":"La Cieneguita Coc\u00f3spera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.866667,30.8],"type":"Point"}
+}

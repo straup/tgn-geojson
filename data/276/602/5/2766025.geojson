@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,47.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2766025","tgn:1000001","tgn:7012149","tgn:2001273","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2766025,"name:xx":"White Horse Butte"}}
+{
+  "id": 2766025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766025",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001273",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766025,
+    "tgn:name":"White Horse Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,47.6833],"type":"Point"}
+}

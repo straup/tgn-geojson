@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.883300,34.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2403968","tgn:1000001","tgn:7012149","tgn:2000396","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2403968,"name:xx":"Howell Creek"}}
+{
+  "id": 2403968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403968",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000396",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403968,
+    "tgn:name":"Howell Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8833,34.65],"type":"Point"}
+}

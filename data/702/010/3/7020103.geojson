@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.983300,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7020103","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":7020103,"name:xx":"Hall Pond"}}
+{
+  "id": 7020103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020103",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020103,
+    "tgn:name":"Hall Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9833,41.3833],"type":"Point"}
+}

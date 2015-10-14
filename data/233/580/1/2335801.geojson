@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-154.816700,65.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2335801","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008699"],"id":2335801,"name:xx":"Fortymile Slough"}}
+{
+  "id": 2335801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335801",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335801,
+    "tgn:name":"Fortymile Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-154.8167,65.8],"type":"Point"}
+}

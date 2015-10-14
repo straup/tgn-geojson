@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.179877,50.573637]},"type":"Feature","properties":{"hierarchy":["tgn:7240887","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300005567"],"id":7240887,"name:xx":"Ch\u00e2teau de la Folie"}}
+{
+  "id": 7240887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240887",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240887,
+    "tgn:name":"Ch\u00e2teau de la Folie",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.179877,50.573637],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.500000,46.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2252797","tgn:1000001","tgn:7012149","tgn:2000972","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2252797,"name:xx":"Connor Lakes"}}
+{
+  "id": 2252797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252797",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000972",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252797,
+    "tgn:name":"Connor Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5,46.6333],"type":"Point"}
+}

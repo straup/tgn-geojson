@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-118.400000,45.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2761212","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2761212,"name:xx":"West Little Walla Walla River"}}
+{
+  "id": 2761212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761212",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761212,
+    "tgn:name":"West Little Walla Walla River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.4,45.95],"type":"Point"}
+}

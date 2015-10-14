@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.558230,24.851074]},"type":"Feature","properties":{"hierarchy":["tgn:7473925","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7473925,"name:xx":"Dadao Shan"}}
+{
+  "id": 7473925,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473925",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473925,
+    "tgn:name":"Dadao Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.55823,24.851074],"type":"Point"}
+}

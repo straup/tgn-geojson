@@ -1,0 +1,29 @@
+{
+  "id": 7008456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008456",
+        "tgn:1000003",
+        "tgn:7001097",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008456,
+    "tgn:name:de":"Cambrai",
+    "tgn:name:en":"Cambrai",
+    "tgn:name:fr":"Cambrai",
+    "tgn:name:nl":"Kamerijk",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300132180",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387330",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.2333,50.1667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.166700,35.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2154927","tgn:1000001","tgn:2001481","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2154927,"name:xx":"Bear Hug Ridge"}}
+{
+  "id": 2154927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154927",
+        "tgn:1000001",
+        "tgn:2001481",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154927,
+    "tgn:name":"Bear Hug Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1667,35.1833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.210000,24.277500]},"type":"Feature","properties":{"hierarchy":["tgn:7489758","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7489758,"name:xx":"Dashifu Shan"}}
+{
+  "id": 7489758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489758",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489758,
+    "tgn:name":"Dashifu Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.21,24.2775],"type":"Point"}
+}

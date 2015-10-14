@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.641300,24.910500]},"type":"Feature","properties":{"hierarchy":["tgn:7473280","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7473280,"name:xx":"Lengshuikeng"}}
+{
+  "id": 7473280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473280",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473280,
+    "tgn:name":"Lengshuikeng",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6413,24.9105],"type":"Point"}
+}

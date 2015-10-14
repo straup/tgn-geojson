@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.900000,49.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7113325","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7113325,"name:xx":"Reundorf"}}
+{
+  "id": 7113325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113325",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113325,
+    "tgn:name":"Reundorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.9,49.816667],"type":"Point"}
+}

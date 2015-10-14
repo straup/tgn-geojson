@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.933300,30.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2405532","tgn:1000001","tgn:7012149","tgn:2000290","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2405532,"name:xx":"Hughes Ditch"}}
+{
+  "id": 2405532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000290",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405532,
+    "tgn:name":"Hughes Ditch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9333,30.5833],"type":"Point"}
+}

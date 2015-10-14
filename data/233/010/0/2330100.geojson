@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.200000,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2330100","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000246","tgn:7029392"],"placetype":["aat:300008706"],"id":2330100,"name:xx":"Flagstaff Creek"}}
+{
+  "id": 2330100,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330100",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000246",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330100,
+    "tgn:name":"Flagstaff Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2,38.2833],"type":"Point"}
+}

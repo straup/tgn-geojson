@@ -1,0 +1,25 @@
+{
+  "id": 7000463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000463",
+        "tgn:7001242",
+        "tgn:7593677",
+        "tgn:1000179",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000463,
+    "tgn:name":"Essaouira",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300387511",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300387249"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-9.8,31.5],"type":"Point"}
+}

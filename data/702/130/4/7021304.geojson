@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-89.500000,36.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7021304","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132348"],"id":7021304,"name:xx":"Toneys Towhead"}}
+{
+  "id": 7021304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021304",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021304,
+    "tgn:name":"Toneys Towhead",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.5,36.4833],"type":"Point"}
+}

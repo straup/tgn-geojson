@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.100000,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2768050","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000242","tgn:7029392"],"placetype":["aat:300008347"],"id":2768050,"name:xx":"Whiterock"}}
+{
+  "id": 2768050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768050",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000242",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768050,
+    "tgn:name":"Whiterock",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.1,37.85],"type":"Point"}
+}

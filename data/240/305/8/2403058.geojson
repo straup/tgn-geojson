@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.883300,38.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2403058","tgn:1000001","tgn:1002273","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008798"],"id":2403058,"name:xx":"Hounds Leap"}}
+{
+  "id": 2403058,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403058",
+        "tgn:1000001",
+        "tgn:1002273",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403058,
+    "tgn:name":"Hounds Leap",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8833,38.45],"type":"Point"}
+}

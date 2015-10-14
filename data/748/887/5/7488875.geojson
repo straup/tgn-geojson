@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.009076,24.203317]},"type":"Feature","properties":{"hierarchy":["tgn:7488875","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008697"],"id":7488875,"name:xx":"Guguan Wenquan"}}
+{
+  "id": 7488875,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488875",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488875,
+    "tgn:name":"Guguan Wenquan",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.009076,24.203317],"type":"Point"}
+}

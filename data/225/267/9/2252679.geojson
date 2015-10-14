@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.033300,33.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2252679","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2252679,"name:xx":"Conner Draw"}}
+{
+  "id": 2252679,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252679",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252679,
+    "tgn:name":"Conner Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0333,33.95],"type":"Point"}
+}

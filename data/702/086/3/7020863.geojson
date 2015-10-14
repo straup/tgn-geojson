@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-107.033300,40.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7020863","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020863,"name:xx":"Little Snake River"}}
+{
+  "id": 7020863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020863",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020863,
+    "tgn:name":"Little Snake River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0333,40.9833],"type":"Point"}
+}

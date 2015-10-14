@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.216700,42.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7023789","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7023789,"name:xx":"Tully Brook"}}
+{
+  "id": 7023789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023789",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023789,
+    "tgn:name":"Tully Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2167,42.7],"type":"Point"}
+}

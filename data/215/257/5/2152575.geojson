@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.766700,41.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2152575","tgn:1000001","tgn:7012149","tgn:1002776","tgn:7007706","tgn:7029392"],"placetype":["aat:300006075"],"id":2152575,"name:xx":"Bayer Ditch"}}
+{
+  "id": 2152575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152575",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002776",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152575,
+    "tgn:name":"Bayer Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7667,41.0667],"type":"Point"}
+}

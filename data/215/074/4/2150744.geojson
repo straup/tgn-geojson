@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.333300,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2150744","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008905"],"id":2150744,"name:xx":"Bass Harbor Marsh"}}
+{
+  "id": 2150744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150744",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150744,
+    "tgn:name":"Bass Harbor Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.3333,44.25],"type":"Point"}
+}

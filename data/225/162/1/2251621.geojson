@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-75.600000,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2251621","tgn:1002538","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008680","aat:300006191"],"id":2251621,"name:xx":"Lake Como"}}
+{
+  "id": 2251621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251621",
+        "tgn:1002538",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251621,
+    "tgn:name":"Lake Como",
+    "tgn:placetype":[
+        "aat:300008680",
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6,39.2833],"type":"Point"}
+}

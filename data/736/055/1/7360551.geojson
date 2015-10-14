@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.250000,21.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7360551","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300343547"],"id":7360551,"name:xx":"Ebt\u00fan, Aguada"}}
+{
+  "id": 7360551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360551",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360551,
+    "tgn:name":"Ebt\u00fan, Aguada",
+    "tgn:placetype":[
+        "aat:300343547"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.25,21.383333],"type":"Point"}
+}

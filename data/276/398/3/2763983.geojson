@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.516700,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2763983","tgn:1000001","tgn:7012149","tgn:2001249","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2763983,"name:xx":"Wheeler Branch"}}
+{
+  "id": 2763983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763983",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001249",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763983,
+    "tgn:name":"Wheeler Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5167,36.85],"type":"Point"}
+}

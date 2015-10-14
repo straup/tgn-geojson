@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.300000,17.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7363227","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363227,"name:xx":"El Arenoso"}}
+{
+  "id": 7363227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363227",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363227,
+    "tgn:name":"El Arenoso",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.3,17.566667],"type":"Point"}
+}

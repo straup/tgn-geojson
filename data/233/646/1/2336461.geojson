@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-161.100000,55.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2336461","tgn:7030515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2336461,"name:xx":"Four Bear Creek"}}
+{
+  "id": 2336461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336461",
+        "tgn:7030515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336461,
+    "tgn:name":"Four Bear Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-161.1,55.6],"type":"Point"}
+}

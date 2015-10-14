@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.283300,46.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2767343","tgn:1000001","tgn:2001016","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2767343,"name:xx":"White Sand Lake"}}
+{
+  "id": 2767343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767343",
+        "tgn:1000001",
+        "tgn:2001016",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767343,
+    "tgn:name":"White Sand Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2833,46.35],"type":"Point"}
+}

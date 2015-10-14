@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.666667,50.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7249622","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7249622,"name:xx":"Nih\u00e9 Haie"}}
+{
+  "id": 7249622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249622",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249622,
+    "tgn:name":"Nih\u00e9 Haie",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.666667,50.25],"type":"Point"}
+}

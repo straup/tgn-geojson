@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.800000,18.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7371735","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371735,"name:xx":"La Duda"}}
+{
+  "id": 7371735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371735",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371735,
+    "tgn:name":"La Duda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8,18.533333],"type":"Point"}
+}

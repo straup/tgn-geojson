@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.750000,50.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7247885","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7247885,"name:xx":"Delval"}}
+{
+  "id": 7247885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247885",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247885,
+    "tgn:name":"Delval",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.75,50.416667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.656543,23.933595]},"type":"Feature","properties":{"hierarchy":["tgn:7476345","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7476345,"name:xx":"Yongshan Gong"}}
+{
+  "id": 7476345,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476345",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476345,
+    "tgn:name":"Yongshan Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.656543,23.933595],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.683300,32.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2254234","tgn:1000001","tgn:7020680","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2254234,"name:xx":"Coon Branch"}}
+{
+  "id": 2254234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254234",
+        "tgn:1000001",
+        "tgn:7020680",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254234,
+    "tgn:name":"Coon Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.6833,32.0333],"type":"Point"}
+}

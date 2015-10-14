@@ -1,0 +1,27 @@
+{
+  "id": 7011443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7011443",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008129",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7011443,
+    "tgn:name:en":"Hastings",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000835",
+        "aat:300387308",
+        "aat:300008375",
+        "aat:300387302",
+        "aat:300387006",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.6,50.85],"type":"Point"}
+}

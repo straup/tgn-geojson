@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.566700,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2250382","tgn:1000001","tgn:2002146","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2250382,"name:xx":"Colon Hollow"}}
+{
+  "id": 2250382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250382",
+        "tgn:1000001",
+        "tgn:2002146",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250382,
+    "tgn:name":"Colon Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.5667,37.55],"type":"Point"}
+}

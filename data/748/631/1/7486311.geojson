@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.849700,24.613800]},"type":"Feature","properties":{"hierarchy":["tgn:7486311","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006676"],"id":7486311,"name:xx":"Rongmin Yiyuan"}}
+{
+  "id": 7486311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486311",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486311,
+    "tgn:name":"Rongmin Yiyuan",
+    "tgn:placetype":[
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.8497,24.6138],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.911944,24.155278]},"type":"Feature","properties":{"hierarchy":["tgn:7358358","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7358358,"name:xx":"De Las Norias, Ca\u00f1\u00f3n"}}
+{
+  "id": 7358358,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358358",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358358,
+    "tgn:name":"De Las Norias, Ca\u00f1\u00f3n",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.911944,24.155278],"type":"Point"}
+}

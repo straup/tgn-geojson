@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.750000,19.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7353318","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353318,"name:xx":"Axapusco"}}
+{
+  "id": 7353318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353318",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353318,
+    "tgn:name":"Axapusco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.75,19.733333],"type":"Point"}
+}

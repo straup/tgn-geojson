@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.450000,53.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7118045","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118045,"name:xx":"Olm"}}
+{
+  "id": 7118045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118045",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118045,
+    "tgn:name":"Olm",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.45,53.266667],"type":"Point"}
+}

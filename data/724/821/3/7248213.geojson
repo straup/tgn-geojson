@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.516667,51.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7248213","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7248213,"name:xx":"Bellembeek"}}
+{
+  "id": 7248213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248213",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248213,
+    "tgn:name":"Bellembeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.516667,51.083333],"type":"Point"}
+}

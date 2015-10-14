@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.483300,30.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2254536","tgn:1000001","tgn:7012149","tgn:2000281","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2254536,"name:xx":"Coon Head"}}
+{
+  "id": 2254536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254536",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000281",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254536,
+    "tgn:name":"Coon Head",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4833,30.9],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.950000,34.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2252738","tgn:1000001","tgn:2000299","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008798"],"id":2252738,"name:xx":"Connesena Mountain"}}
+{
+  "id": 2252738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252738",
+        "tgn:1000001",
+        "tgn:2000299",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252738,
+    "tgn:name":"Connesena Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.95,34.2833],"type":"Point"}
+}

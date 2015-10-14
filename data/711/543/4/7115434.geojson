@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.033333,51.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7115434","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7115434,"name:xx":"Paditz Teich"}}
+{
+  "id": 7115434,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115434",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115434,
+    "tgn:name":"Paditz Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.033333,51.45],"type":"Point"}
+}

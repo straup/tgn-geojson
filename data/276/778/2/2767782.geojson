@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.850000,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2767782","tgn:1000001","tgn:7012149","tgn:2002266","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2767782,"name:xx":"Whitehead Run"}}
+{
+  "id": 2767782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767782",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002266",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767782,
+    "tgn:name":"Whitehead Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.85,38.9333],"type":"Point"}
+}

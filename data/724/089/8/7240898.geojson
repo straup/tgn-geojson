@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.733333,50.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7240898","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7240898,"name:xx":"For\u00eat, Ruisseau du"}}
+{
+  "id": 7240898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240898",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240898,
+    "tgn:name":"For\u00eat, Ruisseau du",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.733333,50.75],"type":"Point"}
+}

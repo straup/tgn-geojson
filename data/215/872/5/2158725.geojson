@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.883300,44.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2158725","tgn:1000001","tgn:7012149","tgn:2002384","tgn:7007923","tgn:7029392"],"placetype":["aat:300008707"],"id":2158725,"name:xx":"Bechler River"}}
+{
+  "id": 2158725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002384",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158725,
+    "tgn:name":"Bechler River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.8833,44.2833],"type":"Point"}
+}

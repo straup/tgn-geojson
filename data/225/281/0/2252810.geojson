@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.383300,33.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2252810","tgn:1000001","tgn:7012149","tgn:2001762","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2252810,"name:xx":"Connors"}}
+{
+  "id": 2252810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252810",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001762",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252810,
+    "tgn:name":"Connors",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3833,33.35],"type":"Point"}
+}

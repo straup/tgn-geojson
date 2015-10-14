@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.483333,24.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7370433","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7370433,"name:xx":"Rancho Gardu\u00f1o"}}
+{
+  "id": 7370433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370433",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370433,
+    "tgn:name":"Rancho Gardu\u00f1o",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.483333,24.766667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.950000,19.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7355163","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355163,"name:xx":"Chenk\u00e1n"}}
+{
+  "id": 7355163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355163",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355163,
+    "tgn:name":"Chenk\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.95,19.15],"type":"Point"}
+}

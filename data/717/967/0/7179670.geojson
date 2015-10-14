@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.950000,48.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7179670","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7179670,"name:xx":"Haarland"}}
+{
+  "id": 7179670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179670",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179670,
+    "tgn:name":"Haarland",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.95,48.616667],"type":"Point"}
+}

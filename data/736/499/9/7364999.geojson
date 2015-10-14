@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.000000,29.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7364999","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364999,"name:xx":"Rancho El Puesto H\u00edpico"}}
+{
+  "id": 7364999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364999",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364999,
+    "tgn:name":"Rancho El Puesto H\u00edpico",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.0,29.216667],"type":"Point"}
+}

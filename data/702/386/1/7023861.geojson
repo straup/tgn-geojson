@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[23.333300,54.516700]},"type":"Feature","properties":{"hierarchy":["tgn:7023861","tgn:1000003","tgn:7006569","tgn:7006542","tgn:7029392"],"placetype":["aat:300008347","aat:300008389","aat:300387222"],"id":7023861,"name:xx":"Marijampol\u0117"}}
+{
+  "id": 7023861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023861",
+        "tgn:1000003",
+        "tgn:7006569",
+        "tgn:7006542",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023861,
+    "tgn:name":"Marijampol\u0117",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387222"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[23.3333,54.5167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.350000,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7376086","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7376086,"name:xx":"La Sierrita"}}
+{
+  "id": 7376086,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376086",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376086,
+    "tgn:name":"La Sierrita",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.35,27.85],"type":"Point"}
+}

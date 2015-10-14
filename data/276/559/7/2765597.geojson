@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.666700,43.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2765597","tgn:1000001","tgn:2001807","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":2765597,"name:xx":"White Clay Creek"}}
+{
+  "id": 2765597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765597",
+        "tgn:1000001",
+        "tgn:2001807",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765597,
+    "tgn:name":"White Clay Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.6667,43.9333],"type":"Point"}
+}

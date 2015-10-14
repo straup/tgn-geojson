@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.600000,52.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7110848","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110848,"name:xx":"Gut Rahden"}}
+{
+  "id": 7110848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110848",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110848,
+    "tgn:name":"Gut Rahden",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.6,52.433333],"type":"Point"}
+}

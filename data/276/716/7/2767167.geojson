@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.500000,44.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2767167","tgn:1000001","tgn:7012149","tgn:2001712","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2767167,"name:xx":"White Rock Gulch"}}
+{
+  "id": 2767167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767167",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001712",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767167,
+    "tgn:name":"White Rock Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.5,44.7167],"type":"Point"}
+}

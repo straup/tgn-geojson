@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.500000,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2763291","tgn:1000001","tgn:7012149","tgn:2002115","tgn:7007827","tgn:7029392"],"placetype":["aat:300008706"],"id":2763291,"name:xx":"Wet Fork Schuster Creek"}}
+{
+  "id": 2763291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763291",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002115",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763291,
+    "tgn:name":"Wet Fork Schuster Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5,40.8],"type":"Point"}
+}

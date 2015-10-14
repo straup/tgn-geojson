@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.900000,34.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2331438","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000157","tgn:7029392"],"placetype":["aat:300008798"],"id":2331438,"name:xx":"Flatside Pinnacle"}}
+{
+  "id": 2331438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331438",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331438,
+    "tgn:name":"Flatside Pinnacle",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.9,34.8667],"type":"Point"}
+}

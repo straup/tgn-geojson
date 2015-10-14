@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.516700,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2253708","tgn:1000001","tgn:7012149","tgn:1002502","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2253708,"name:xx":"Cook and Thorburn Drain"}}
+{
+  "id": 2253708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002502",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253708,
+    "tgn:name":"Cook and Thorburn Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5167,42.6],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-82.100000,36.566700]},"type":"Feature","properties":{"hierarchy":["tgn:7023634","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7023634,"name:xx":"Paperville Knobs"}}
+{
+  "id": 7023634,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023634",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023634,
+    "tgn:name":"Paperville Knobs",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1,36.5667],"type":"Point"}
+}

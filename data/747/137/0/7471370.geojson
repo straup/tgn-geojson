@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.383800,23.696100]},"type":"Feature","properties":{"hierarchy":["tgn:7471370","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471370,"name:xx":"Fangcao"}}
+{
+  "id": 7471370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471370",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471370,
+    "tgn:name":"Fangcao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3838,23.6961],"type":"Point"}
+}

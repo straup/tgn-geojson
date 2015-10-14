@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-87.316700,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023090","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023090,"name:xx":"Sawmill Hollow"}}
+{
+  "id": 7023090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023090",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023090,
+    "tgn:name":"Sawmill Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.3167,34.9833],"type":"Point"}
+}

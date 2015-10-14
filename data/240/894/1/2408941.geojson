@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.100000,39.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2408941","tgn:1000001","tgn:7012149","tgn:1002525","tgn:7007252","tgn:7029392"],"placetype":["aat:300008680"],"id":2408941,"name:xx":"I Lake"}}
+{
+  "id": 2408941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408941",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002525",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408941,
+    "tgn:name":"I Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1,39.35],"type":"Point"}
+}

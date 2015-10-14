@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.316667,26.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7379970","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7379970,"name:xx":"Masiaca"}}
+{
+  "id": 7379970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379970",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379970,
+    "tgn:name":"Masiaca",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.316667,26.733333],"type":"Point"}
+}

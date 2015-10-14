@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.433333,25.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7363972","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363972,"name:xx":"El Guayabito"}}
+{
+  "id": 7363972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363972",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363972,
+    "tgn:name":"El Guayabito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.433333,25.016667],"type":"Point"}
+}

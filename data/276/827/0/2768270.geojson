@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.716700,41.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2768270","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008680"],"id":2768270,"name:xx":"Whites Pond"}}
+{
+  "id": 2768270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768270",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768270,
+    "tgn:name":"Whites Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7167,41.9833],"type":"Point"}
+}

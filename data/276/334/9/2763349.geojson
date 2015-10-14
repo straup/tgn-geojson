@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.916700,27.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2763349","tgn:1000001","tgn:7012149","tgn:1002743","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2763349,"name:xx":"Wet Rock Marsh"}}
+{
+  "id": 2763349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002743",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763349,
+    "tgn:name":"Wet Rock Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9167,27.55],"type":"Point"}
+}

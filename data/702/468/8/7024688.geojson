@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.700000,51.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7024688","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7024688,"name:xx":"Alme"}}
+{
+  "id": 7024688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024688",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024688,
+    "tgn:name":"Alme",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.7,51.75],"type":"Point"}
+}

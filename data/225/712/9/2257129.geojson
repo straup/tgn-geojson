@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.466700,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2257129","tgn:1000001","tgn:7012149","tgn:2001215","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2257129,"name:xx":"Corner Campbell School"}}
+{
+  "id": 2257129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257129",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001215",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257129,
+    "tgn:name":"Corner Campbell School",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4667,39.7],"type":"Point"}
+}

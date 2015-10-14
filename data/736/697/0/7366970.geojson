@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.516667,24.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7366970","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366970,"name:xx":"El Perico"}}
+{
+  "id": 7366970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366970",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366970,
+    "tgn:name":"El Perico",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.516667,24.416667],"type":"Point"}
+}

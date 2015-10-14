@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.883300,43.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2339905","tgn:1000001","tgn:7012149","tgn:2002374","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2339905,"name:xx":"Freeman Number 3 Reservoir"}}
+{
+  "id": 2339905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339905",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002374",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339905,
+    "tgn:name":"Freeman Number 3 Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8833,43.6833],"type":"Point"}
+}

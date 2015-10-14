@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.785709,24.486652]},"type":"Feature","properties":{"hierarchy":["tgn:7473257","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7473257,"name:xx":"Tongluo Chezhan"}}
+{
+  "id": 7473257,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473257",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473257,
+    "tgn:name":"Tongluo Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.785709,24.486652],"type":"Point"}
+}

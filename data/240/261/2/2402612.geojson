@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.666700,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2402612","tgn:1000001","tgn:2001793","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008699"],"id":2402612,"name:xx":"Hot Brook"}}
+{
+  "id": 2402612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402612",
+        "tgn:1000001",
+        "tgn:2001793",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402612,
+    "tgn:name":"Hot Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.6667,43.45],"type":"Point"}
+}

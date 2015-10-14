@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.366667,53.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7025277","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025277,"name:ang":"Pinneslei"}}
+{
+  "id": 7025277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025277",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025277,
+    "tgn:name:ang":"Pinneslei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.366667,53.15],"type":"Point"}
+}

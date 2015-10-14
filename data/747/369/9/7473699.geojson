@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.395000,23.955300]},"type":"Feature","properties":{"hierarchy":["tgn:7473699","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473699,"name:xx":"Dongcaohu"}}
+{
+  "id": 7473699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473699",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473699,
+    "tgn:name":"Dongcaohu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.395,23.9553],"type":"Point"}
+}

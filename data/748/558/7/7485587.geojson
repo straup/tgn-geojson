@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.463056,24.203611]},"type":"Feature","properties":{"hierarchy":["tgn:7485587","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7485587,"name:xx":"Wuxi Xikou"}}
+{
+  "id": 7485587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485587",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485587,
+    "tgn:name":"Wuxi Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.463056,24.203611],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.366700,41.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2259791","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2259791,"name:xx":"Cougar Peak"}}
+{
+  "id": 2259791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259791",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259791,
+    "tgn:name":"Cougar Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3667,41.7833],"type":"Point"}
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1018380,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1018380",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":1018380,
+    "tgn:name":"Tampico",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300000641",
+        "aat:300000547",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387291",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.85,22.216667],"type":"Point"}
+}

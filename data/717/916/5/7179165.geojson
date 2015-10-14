@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.016667,52.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7179165","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7179165,"name:xx":"Haid-Berg"}}
+{
+  "id": 7179165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179165",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179165,
+    "tgn:name":"Haid-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.016667,52.75],"type":"Point"}
+}

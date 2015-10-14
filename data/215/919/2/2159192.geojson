@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.350000,32.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2159192","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2159192,"name:xx":"Bedsole Branch"}}
+{
+  "id": 2159192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159192",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159192,
+    "tgn:name":"Bedsole Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.35,32.0333],"type":"Point"}
+}

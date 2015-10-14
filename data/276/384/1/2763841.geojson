@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.083300,36.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2763841","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2763841,"name:xx":"Wheatfields Lake"}}
+{
+  "id": 2763841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763841",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763841,
+    "tgn:name":"Wheatfields Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0833,36.2],"type":"Point"}
+}

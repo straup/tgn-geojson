@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.433300,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2258316","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300008798"],"id":2258316,"name:xx":"Cotter, Mount"}}
+{
+  "id": 2258316,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258316",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258316,
+    "tgn:name":"Cotter, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.4333,36.8167],"type":"Point"}
+}

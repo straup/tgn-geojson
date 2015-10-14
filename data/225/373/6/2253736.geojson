@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.300000,37.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2253736","tgn:1000001","tgn:7012149","tgn:2002113","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2253736,"name:xx":"Cookie Jar Butte"}}
+{
+  "id": 2253736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253736",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002113",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253736,
+    "tgn:name":"Cookie Jar Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3,37.0833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.404400,23.208672]},"type":"Feature","properties":{"hierarchy":["tgn:7480013","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008773"],"id":7480013,"name:xx":"Dongshihukeng"}}
+{
+  "id": 7480013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480013",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480013,
+    "tgn:name":"Dongshihukeng",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4044,23.208672],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.433333,19.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7352475","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352475,"name:xx":"Atapan"}}
+{
+  "id": 7352475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352475",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352475,
+    "tgn:name":"Atapan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.433333,19.65],"type":"Point"}
+}

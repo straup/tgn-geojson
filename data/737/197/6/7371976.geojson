@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.166667,27.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7371976","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7371976,"name:xx":"Tanque La Escondida"}}
+{
+  "id": 7371976,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371976",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371976,
+    "tgn:name":"Tanque La Escondida",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.166667,27.75],"type":"Point"}
+}

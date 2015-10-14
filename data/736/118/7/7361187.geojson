@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.016667,32.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7361187","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361187,"name:xx":"El Observatorio"}}
+{
+  "id": 7361187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361187",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361187,
+    "tgn:name":"El Observatorio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.016667,32.566667],"type":"Point"}
+}

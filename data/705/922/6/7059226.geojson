@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.372000,-9.208000]},"type":"Feature","properties":{"hierarchy":["tgn:7059226","tgn:1000501","tgn:1000002","tgn:1000056","tgn:7029392"],"placetype":["aat:300387007","aat:300000810"],"id":7059226,"name:xx":"Pa\u00f1amarca, Zona Arqueol\u00f3gica"}}
+{
+  "id": 7059226,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059226",
+        "tgn:1000501",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059226,
+    "tgn:name":"Pa\u00f1amarca, Zona Arqueol\u00f3gica",
+    "tgn:placetype":[
+        "aat:300387007",
+        "aat:300000810"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.372,-9.208],"type":"Point"}
+}

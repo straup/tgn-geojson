@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[110.583300,35.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7024370","tgn:1000004","tgn:7016672","tgn:1000111","tgn:7029392"],"placetype":["aat:300008767"],"id":7024370,"name:xx":"Long Men"}}
+{
+  "id": 7024370,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024370",
+        "tgn:1000004",
+        "tgn:7016672",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024370,
+    "tgn:name":"Long Men",
+    "tgn:placetype":[
+        "aat:300008767"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[110.5833,35.8333],"type":"Point"}
+}

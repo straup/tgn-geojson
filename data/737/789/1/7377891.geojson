@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.800000,26.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7377891","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7377891,"name:xx":"Las Orillas, Cerro"}}
+{
+  "id": 7377891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377891",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377891,
+    "tgn:name":"Las Orillas, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8,26.85],"type":"Point"}
+}

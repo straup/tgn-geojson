@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7176597","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7176597,"name:xx":"Gr\u00fcnhain, Forst"}}
+{
+  "id": 7176597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176597",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176597,
+    "tgn:name":"Gr\u00fcnhain, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,50.6],"type":"Point"}
+}

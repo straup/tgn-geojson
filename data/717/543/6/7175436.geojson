@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.783333,52.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7175436","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7175436,"name:xx":"Gro\u00dfes Wehl"}}
+{
+  "id": 7175436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175436",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175436,
+    "tgn:name":"Gro\u00dfes Wehl",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.783333,52.95],"type":"Point"}
+}

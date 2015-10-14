@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.600000,45.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2155636","tgn:1000001","tgn:2001264","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2155636,"name:xx":"Bear Spring"}}
+{
+  "id": 2155636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155636",
+        "tgn:1000001",
+        "tgn:2001264",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155636,
+    "tgn:name":"Bear Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.6,45.1667],"type":"Point"}
+}

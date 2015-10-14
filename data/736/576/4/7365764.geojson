@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.583333,31.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7365764","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365764,"name:xx":"Rancho El Tar\u00e1iz"}}
+{
+  "id": 7365764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365764",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365764,
+    "tgn:name":"Rancho El Tar\u00e1iz",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.583333,31.116667],"type":"Point"}
+}

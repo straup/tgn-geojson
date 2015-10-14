@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.719546,24.668550]},"type":"Feature","properties":{"hierarchy":["tgn:7476682","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476682,"name:xx":"Daguang"}}
+{
+  "id": 7476682,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476682",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476682,
+    "tgn:name":"Daguang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.719546,24.66855],"type":"Point"}
+}

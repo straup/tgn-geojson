@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.248889,24.606667]},"type":"Feature","properties":{"hierarchy":["tgn:7356886","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356886,"name:xx":"Carrizal"}}
+{
+  "id": 7356886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356886",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356886,
+    "tgn:name":"Carrizal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.248889,24.606667],"type":"Point"}
+}

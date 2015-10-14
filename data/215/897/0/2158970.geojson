@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.666700,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2158970","tgn:1000001","tgn:7012149","tgn:2001255","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2158970,"name:xx":"Beckville Branch"}}
+{
+  "id": 2158970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158970",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001255",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158970,
+    "tgn:name":"Beckville Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6667,37.2333],"type":"Point"}
+}

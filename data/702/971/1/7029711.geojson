@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[106.542000,29.378000]},"type":"Feature","properties":{"hierarchy":["tgn:7029711","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029711,"name:xx":"Banan Qu"}}
+{
+  "id": 7029711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029711",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029711,
+    "tgn:name":"Banan Qu",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[106.542,29.378],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.483300,41.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2401041","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":2401041,"name:xx":"Horse Trail Ridge"}}
+{
+  "id": 2401041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401041",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401041,
+    "tgn:name":"Horse Trail Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.4833,41.1333],"type":"Point"}
+}

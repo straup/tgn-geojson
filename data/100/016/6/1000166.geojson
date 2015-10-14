@@ -1,0 +1,27 @@
+{
+  "id": 1000166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000166",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000166,
+    "tgn:name:ar":"\u063a\u0627\u0646\u0627",
+    "tgn:name:en":"Ghana",
+    "tgn:name:es":"Ghana",
+    "tgn:name:fr":"Ghana",
+    "tgn:name:ru":"\u0413\u0430\u043d\u0430",
+    "tgn:name:zh":"\u52a0\u7eb3",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.0,8.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.203157,25.069902]},"type":"Feature","properties":{"hierarchy":["tgn:7477145","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477145,"name:xx":"Zhentou Qiao"}}
+{
+  "id": 7477145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477145",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477145,
+    "tgn:name":"Zhentou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.203157,25.069902],"type":"Point"}
+}

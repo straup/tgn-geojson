@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.950000,50.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7174859","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7174859,"name:xx":"Grobau"}}
+{
+  "id": 7174859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174859",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174859,
+    "tgn:name":"Grobau",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.95,50.433333],"type":"Point"}
+}

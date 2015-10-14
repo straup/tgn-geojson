@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.833300,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2763415","tgn:1000001","tgn:7012149","tgn:7014287","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2763415,"name:xx":"Wetmor Brook"}}
+{
+  "id": 2763415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763415",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014287",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763415,
+    "tgn:name":"Wetmor Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.8333,43.35],"type":"Point"}
+}

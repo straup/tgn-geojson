@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.416700,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2333230","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300006075"],"id":2333230,"name:xx":"Fmnegan Ditch"}}
+{
+  "id": 2333230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333230",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333230,
+    "tgn:name":"Fmnegan Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4167,42.5833],"type":"Point"}
+}

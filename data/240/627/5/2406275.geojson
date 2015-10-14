@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.000000,42.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2406275","tgn:1000001","tgn:1002359","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008791"],"id":2406275,"name:xx":"Humphreys Island"}}
+{
+  "id": 2406275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406275",
+        "tgn:1000001",
+        "tgn:1002359",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406275,
+    "tgn:name":"Humphreys Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0,42.5167],"type":"Point"}
+}

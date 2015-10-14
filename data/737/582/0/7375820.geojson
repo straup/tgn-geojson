@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.333333,25.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7375820","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375820,"name:xx":"Las Grullas"}}
+{
+  "id": 7375820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375820",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375820,
+    "tgn:name":"Las Grullas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.333333,25.833333],"type":"Point"}
+}

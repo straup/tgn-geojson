@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.483300,50.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7025397","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025397,"name:xx":"Bampton"}}
+{
+  "id": 7025397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025397",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025397,
+    "tgn:name":"Bampton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.4833,50.9833],"type":"Point"}
+}

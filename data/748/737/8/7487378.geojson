@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.327072,23.907168]},"type":"Feature","properties":{"hierarchy":["tgn:7487378","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487378,"name:xx":"Xizi"}}
+{
+  "id": 7487378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487378",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487378,
+    "tgn:name":"Xizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.327072,23.907168],"type":"Point"}
+}

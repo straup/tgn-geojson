@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.550000,20.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7377675","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7377675,"name:xx":"La Venta"}}
+{
+  "id": 7377675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377675",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377675,
+    "tgn:name":"La Venta",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.55,20.733333],"type":"Point"}
+}

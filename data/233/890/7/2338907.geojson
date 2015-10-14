@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.366700,42.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2338907","tgn:1000001","tgn:7012149","tgn:1002737","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2338907,"name:xx":"Franklin Branch"}}
+{
+  "id": 2338907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338907",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002737",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338907,
+    "tgn:name":"Franklin Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.3667,42.55],"type":"Point"}
+}

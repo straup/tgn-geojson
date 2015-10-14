@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.133333,24.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7363458","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7363458,"name:xx":"El Chapote, Arroyo"}}
+{
+  "id": 7363458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363458",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363458,
+    "tgn:name":"El Chapote, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.133333,24.416667],"type":"Point"}
+}

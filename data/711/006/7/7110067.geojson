@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.850000,54.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7110067","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7110067,"name:xx":"Ravensdamm"}}
+{
+  "id": 7110067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110067",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110067,
+    "tgn:name":"Ravensdamm",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.85,54.283333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.479271,26.386680]},"type":"Feature","properties":{"hierarchy":["tgn:7470510","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132317"],"id":7470510,"name:xx":"Hou Ao"}}
+{
+  "id": 7470510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470510",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470510,
+    "tgn:name":"Hou Ao",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.479271,26.38668],"type":"Point"}
+}

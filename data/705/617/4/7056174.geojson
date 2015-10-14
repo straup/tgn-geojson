@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.083333,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7056174","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7056174,"name:xx":"Canale Ledra"}}
+{
+  "id": 7056174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056174",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056174,
+    "tgn:name":"Canale Ledra",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.083333,46.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.466667,22.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7489282","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489282,"name:xx":"Neimen Xiang"}}
+{
+  "id": 7489282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489282",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489282,
+    "tgn:name":"Neimen Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.466667,22.966667],"type":"Point"}
+}

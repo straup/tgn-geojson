@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.950000,42.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2252812","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2252812,"name:xx":"Connors Canyon"}}
+{
+  "id": 2252812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252812",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252812,
+    "tgn:name":"Connors Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.95,42.9],"type":"Point"}
+}

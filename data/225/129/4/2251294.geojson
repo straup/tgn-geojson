@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.000000,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2251294","tgn:1000001","tgn:2000781","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2251294,"name:xx":"Combs Branch"}}
+{
+  "id": 2251294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251294",
+        "tgn:1000001",
+        "tgn:2000781",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251294,
+    "tgn:name":"Combs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0,37.9833],"type":"Point"}
+}

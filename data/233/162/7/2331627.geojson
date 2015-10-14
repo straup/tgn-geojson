@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.216700,38.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2331627","tgn:1000001","tgn:7012149","tgn:1002992","tgn:7007252","tgn:7029392"],"placetype":["aat:300266640"],"id":2331627,"name:xx":"Fleener Ridge"}}
+{
+  "id": 2331627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331627",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002992",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331627,
+    "tgn:name":"Fleener Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2167,38.7333],"type":"Point"}
+}

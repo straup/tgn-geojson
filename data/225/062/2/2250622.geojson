@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.200000,44.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2250622","tgn:1000001","tgn:7012149","tgn:2001717","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2250622,"name:xx":"Colorado Lake"}}
+{
+  "id": 2250622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250622",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001717",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250622,
+    "tgn:name":"Colorado Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.2,44.5667],"type":"Point"}
+}

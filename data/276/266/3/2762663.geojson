@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.800000,44.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2762663","tgn:1000001","tgn:2000954","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008798"],"id":2762663,"name:xx":"Westenage Hill"}}
+{
+  "id": 2762663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762663",
+        "tgn:1000001",
+        "tgn:2000954",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762663,
+    "tgn:name":"Westenage Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8,44.6],"type":"Point"}
+}

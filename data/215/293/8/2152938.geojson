@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.300000,30.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2152938","tgn:1000001","tgn:2000265","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2152938,"name:xx":"Beach Haven"}}
+{
+  "id": 2152938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152938",
+        "tgn:1000001",
+        "tgn:2000265",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152938,
+    "tgn:name":"Beach Haven",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.3,30.3833],"type":"Point"}
+}

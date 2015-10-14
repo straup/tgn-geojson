@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.316667,21.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7370099","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370099,"name:xx":"Gavil\u00e1n Chico"}}
+{
+  "id": 7370099,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370099",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370099,
+    "tgn:name":"Gavil\u00e1n Chico",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.316667,21.8],"type":"Point"}
+}

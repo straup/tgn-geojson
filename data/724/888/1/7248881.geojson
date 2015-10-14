@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7248881","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7248881,"name:xx":"Bois de Nivelles"}}
+{
+  "id": 7248881,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248881",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248881,
+    "tgn:name":"Bois de Nivelles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.566667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.083300,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2250863","tgn:1000001","tgn:7016104","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2250863,"name:xx":"Columbia Forest"}}
+{
+  "id": 2250863,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250863",
+        "tgn:1000001",
+        "tgn:7016104",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250863,
+    "tgn:name":"Columbia Forest",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.0833,38.9833],"type":"Point"}
+}

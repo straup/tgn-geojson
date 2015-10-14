@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.916700,46.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2761020","tgn:1000001","tgn:7012149","tgn:2001292","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2761020,"name:xx":"West Keggy Coulee"}}
+{
+  "id": 2761020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761020",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001292",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761020,
+    "tgn:name":"West Keggy Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.9167,46.6833],"type":"Point"}
+}

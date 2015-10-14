@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.800000,36.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2335630","tgn:1000001","tgn:7012149","tgn:2001879","tgn:7007825","tgn:7029392"],"placetype":["aat:300008761"],"id":2335630,"name:xx":"Fortner Hollow"}}
+{
+  "id": 2335630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335630",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001879",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335630,
+    "tgn:name":"Fortner Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8,36.1],"type":"Point"}
+}

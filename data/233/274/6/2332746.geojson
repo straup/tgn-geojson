@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.316700,45.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2332746","tgn:1000001","tgn:7012149","tgn:2000973","tgn:7007520","tgn:7029392"],"placetype":["aat:300132316"],"id":2332746,"name:xx":"Flowers Bay"}}
+{
+  "id": 2332746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332746",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000973",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332746,
+    "tgn:name":"Flowers Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3167,45.9833],"type":"Point"}
+}

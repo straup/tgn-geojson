@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.283300,44.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2258613","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300386845"],"id":2258613,"name:xx":"Cottonwood Basin"}}
+{
+  "id": 2258613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258613",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258613,
+    "tgn:name":"Cottonwood Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2833,44.7],"type":"Point"}
+}

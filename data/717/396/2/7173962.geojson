@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.700000,49.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7173962","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7173962,"name:xx":"Gro\u00dfbach"}}
+{
+  "id": 7173962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173962",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173962,
+    "tgn:name":"Gro\u00dfbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.7,49.6],"type":"Point"}
+}

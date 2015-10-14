@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.633333,21.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7366614","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366614,"name:xx":"El Pi\u00f1onal"}}
+{
+  "id": 7366614,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366614",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366614,
+    "tgn:name":"El Pi\u00f1onal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.633333,21.583333],"type":"Point"}
+}

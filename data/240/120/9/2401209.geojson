@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.116700,45.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2401209","tgn:1000001","tgn:7012149","tgn:2002337","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2401209,"name:xx":"Horsehead Lake"}}
+{
+  "id": 2401209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401209",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002337",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401209,
+    "tgn:name":"Horsehead Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1167,45.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.300000,50.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7117334","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7117334,"name:xx":"Orb"}}
+{
+  "id": 7117334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117334",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117334,
+    "tgn:name":"Orb",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.3,50.233333],"type":"Point"}
+}

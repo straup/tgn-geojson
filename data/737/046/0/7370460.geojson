@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.300000,26.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7370460","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370460,"name:xx":"Jarita"}}
+{
+  "id": 7370460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370460",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370460,
+    "tgn:name":"Jarita",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.3,26.45],"type":"Point"}
+}

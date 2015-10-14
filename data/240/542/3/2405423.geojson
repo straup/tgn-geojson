@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.033300,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2405423","tgn:1000001","tgn:7012149","tgn:2002380","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2405423,"name:xx":"Hugh McDonald Reservoir"}}
+{
+  "id": 2405423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002380",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405423,
+    "tgn:name":"Hugh McDonald Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.0333,41.6833],"type":"Point"}
+}

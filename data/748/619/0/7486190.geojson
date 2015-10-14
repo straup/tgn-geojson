@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.342256,24.742111]},"type":"Feature","properties":{"hierarchy":["tgn:7486190","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7486190,"name:xx":"Ronghua Qiao"}}
+{
+  "id": 7486190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486190",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486190,
+    "tgn:name":"Ronghua Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.342256,24.742111],"type":"Point"}
+}

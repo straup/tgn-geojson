@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,31.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7021443","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000054","tgn:7029392"],"placetype":["aat:300006191"],"id":7021443,"name:xx":"Pike County Lake"}}
+{
+  "id": 7021443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021443",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000054",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021443,
+    "tgn:name":"Pike County Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,31.7333],"type":"Point"}
+}

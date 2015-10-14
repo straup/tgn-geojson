@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-107.700000,41.016700]},"type":"Feature","properties":{"hierarchy":["tgn:7023003","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7023003,"name:xx":"Gibson-Blair Ditch"}}
+{
+  "id": 7023003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023003",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023003,
+    "tgn:name":"Gibson-Blair Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7,41.0167],"type":"Point"}
+}

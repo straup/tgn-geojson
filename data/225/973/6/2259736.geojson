@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.700000,43.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2259736","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2259736,"name:xx":"Cougar Gulch"}}
+{
+  "id": 2259736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259736",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259736,
+    "tgn:name":"Cougar Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7,43.9],"type":"Point"}
+}

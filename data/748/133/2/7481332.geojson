@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.596227,22.519784]},"type":"Feature","properties":{"hierarchy":["tgn:7481332","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481332,"name:xx":"Hudong Guoxiao Lunchuan Fenxiao"}}
+{
+  "id": 7481332,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481332",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481332,
+    "tgn:name":"Hudong Guoxiao Lunchuan Fenxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.596227,22.519784],"type":"Point"}
+}

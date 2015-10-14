@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.133333,18.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7350937","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300387200"],"id":7350937,"name:xx":"Bajio la Abundancia"}}
+{
+  "id": 7350937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350937",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350937,
+    "tgn:name":"Bajio la Abundancia",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.133333,18.0],"type":"Point"}
+}

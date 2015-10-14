@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.316700,46.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2151013","tgn:2002238","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2151013,"name:xx":"Bassett Spring"}}
+{
+  "id": 2151013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151013",
+        "tgn:2002238",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151013,
+    "tgn:name":"Bassett Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.3167,46.75],"type":"Point"}
+}

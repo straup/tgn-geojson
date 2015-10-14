@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.233333,45.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7057511","tgn:7003131","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057511,"name:xx":"Ca de' Bonavogli"}}
+{
+  "id": 7057511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057511",
+        "tgn:7003131",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057511,
+    "tgn:name":"Ca de' Bonavogli",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.233333,45.116667],"type":"Point"}
+}

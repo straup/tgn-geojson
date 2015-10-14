@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.383333,41.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7051734","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300132316"],"id":7051734,"name:xx":"Inferno, Cala d'"}}
+{
+  "id": 7051734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051734",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051734,
+    "tgn:name":"Inferno, Cala d'",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.383333,41.233333],"type":"Point"}
+}

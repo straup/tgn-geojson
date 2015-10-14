@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.018611,23.945833]},"type":"Feature","properties":{"hierarchy":["tgn:7470264","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7470264,"name:xx":"Hengping Shan"}}
+{
+  "id": 7470264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470264",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470264,
+    "tgn:name":"Hengping Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.018611,23.945833],"type":"Point"}
+}

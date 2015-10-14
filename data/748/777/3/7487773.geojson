@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.555300,23.889500]},"type":"Feature","properties":{"hierarchy":["tgn:7487773","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487773,"name:xx":"Nanzhen Cun"}}
+{
+  "id": 7487773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487773",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487773,
+    "tgn:name":"Nanzhen Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5553,23.8895],"type":"Point"}
+}

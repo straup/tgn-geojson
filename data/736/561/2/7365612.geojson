@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.116667,25.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7365612","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7365612,"name:xx":"Fuste, Cerro del"}}
+{
+  "id": 7365612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365612",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365612,
+    "tgn:name":"Fuste, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.116667,25.383333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.183333,47.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7114649","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114649,"name:xx":"Riedbruck"}}
+{
+  "id": 7114649,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114649",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114649,
+    "tgn:name":"Riedbruck",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.183333,47.683333],"type":"Point"}
+}

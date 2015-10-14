@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.816700,46.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2151136","tgn:1000001","tgn:2000469","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2151136,"name:xx":"Bat Creek"}}
+{
+  "id": 2151136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151136",
+        "tgn:1000001",
+        "tgn:2000469",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151136,
+    "tgn:name":"Bat Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8167,46.3333],"type":"Point"}
+}

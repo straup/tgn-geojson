@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.933333,41.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7050941","tgn:7003135","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7050941,"name:xx":"La Meta, Monte"}}
+{
+  "id": 7050941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050941",
+        "tgn:7003135",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050941,
+    "tgn:name":"La Meta, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.933333,41.683333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.350000,38.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2150163","tgn:1000001","tgn:7012149","tgn:2002299","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2150163,"name:xx":"Bartram Branch"}}
+{
+  "id": 2150163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150163",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002299",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150163,
+    "tgn:name":"Bartram Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.35,38.1167],"type":"Point"}
+}

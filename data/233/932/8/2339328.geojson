@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.416700,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2339328","tgn:1000001","tgn:2000935","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300266640"],"id":2339328,"name:xx":"Frazee Ridge"}}
+{
+  "id": 2339328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339328",
+        "tgn:1000001",
+        "tgn:2000935",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339328,
+    "tgn:name":"Frazee Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.4167,39.7],"type":"Point"}
+}

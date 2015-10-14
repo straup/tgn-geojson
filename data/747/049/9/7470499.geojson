@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.639650,22.980650]},"type":"Feature","properties":{"hierarchy":["tgn:7470499","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470499,"name:xx":"Jiuzhuang"}}
+{
+  "id": 7470499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470499",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470499,
+    "tgn:name":"Jiuzhuang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.63965,22.98065],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.216700,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2151607","tgn:2000765","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2151607,"name:xx":"Battle Branch"}}
+{
+  "id": 2151607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151607",
+        "tgn:2000765",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151607,
+    "tgn:name":"Battle Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2167,36.9833],"type":"Point"}
+}

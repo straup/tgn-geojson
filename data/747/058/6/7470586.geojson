@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.416667,23.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7470586","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470586,"name:xx":"Xihucun"}}
+{
+  "id": 7470586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470586",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470586,
+    "tgn:name":"Xihucun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.416667,23.216667],"type":"Point"}
+}

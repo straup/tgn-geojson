@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.250000,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7117091","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117091,"name:xx":"Orsberg"}}
+{
+  "id": 7117091,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117091",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117091,
+    "tgn:name":"Orsberg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.25,50.6],"type":"Point"}
+}

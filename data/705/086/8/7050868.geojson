@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.900000,44.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7050868","tgn:7003129","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050868,"name:xx":"Marzeno, Torrente"}}
+{
+  "id": 7050868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050868",
+        "tgn:7003129",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050868,
+    "tgn:name":"Marzeno, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.9,44.233333],"type":"Point"}
+}

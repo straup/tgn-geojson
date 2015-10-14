@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.783333,45.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7052501","tgn:7003007","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008777"],"id":7052501,"name:xx":"Mamaor, Monte"}}
+{
+  "id": 7052501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052501",
+        "tgn:7003007",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052501,
+    "tgn:name":"Mamaor, Monte",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.783333,45.383333],"type":"Point"}
+}

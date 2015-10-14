@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[179.000000,68.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7023838","tgn:6001445","tgn:1000004","tgn:7018214","tgn:7002435","tgn:7029392"],"placetype":["aat:300008795"],"id":7023838,"name:xx":"Ekiatapskiy Khrebet"}}
+{
+  "id": 7023838,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023838",
+        "tgn:6001445",
+        "tgn:1000004",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023838,
+    "tgn:name":"Ekiatapskiy Khrebet",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[179.0,68.5],"type":"Point"}
+}

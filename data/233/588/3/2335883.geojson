@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.450000,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2335883","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2335883,"name:xx":"Foss Reservoir"}}
+{
+  "id": 2335883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335883",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335883,
+    "tgn:name":"Foss Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.45,42.2833],"type":"Point"}
+}

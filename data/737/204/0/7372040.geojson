@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.832778,26.987500]},"type":"Feature","properties":{"hierarchy":["tgn:7372040","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372040,"name:xx":"Rancho Lajitas"}}
+{
+  "id": 7372040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372040",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372040,
+    "tgn:name":"Rancho Lajitas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.832778,26.9875],"type":"Point"}
+}

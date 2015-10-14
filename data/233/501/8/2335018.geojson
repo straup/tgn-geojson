@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.933300,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2335018","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2335018,"name:xx":"Forney Springs"}}
+{
+  "id": 2335018,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335018",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335018,
+    "tgn:name":"Forney Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.9333,38.9167],"type":"Point"}
+}

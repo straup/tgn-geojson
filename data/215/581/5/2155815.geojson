@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.500000,46.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2155815","tgn:2000947","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":2155815,"name:xx":"Bear Town"}}
+{
+  "id": 2155815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155815",
+        "tgn:2000947",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155815,
+    "tgn:name":"Bear Town",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5,46.8],"type":"Point"}
+}

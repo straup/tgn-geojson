@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.567336,51.264439]},"type":"Feature","properties":{"hierarchy":["tgn:7248813","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008688"],"id":7248813,"name:xx":"Boerekreek"}}
+{
+  "id": 7248813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248813",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248813,
+    "tgn:name":"Boerekreek",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.567336,51.264439],"type":"Point"}
+}

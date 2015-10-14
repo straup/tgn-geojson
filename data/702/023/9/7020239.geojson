@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.916700,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7020239","tgn:1000001","tgn:7012149","tgn:1002932","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":7020239,"name:xx":"Thomas Pond"}}
+{
+  "id": 7020239,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020239",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002932",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020239,
+    "tgn:name":"Thomas Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9167,41.7],"type":"Point"}
+}

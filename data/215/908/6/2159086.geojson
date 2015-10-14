@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.833300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2159086","tgn:1000001","tgn:7012149","tgn:1002508","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2159086,"name:xx":"Bedel Ditch"}}
+{
+  "id": 2159086,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159086",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002508",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159086,
+    "tgn:name":"Bedel Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8333,38.85],"type":"Point"}
+}

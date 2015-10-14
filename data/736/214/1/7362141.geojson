@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.700000,30.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7362141","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362141,"name:xx":"Rancho El Caribe"}}
+{
+  "id": 7362141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362141",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362141,
+    "tgn:name":"Rancho El Caribe",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7,30.333333],"type":"Point"}
+}

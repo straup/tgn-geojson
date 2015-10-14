@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.300000,33.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2251040","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300008798"],"id":2251040,"name:xx":"Columbus Peak"}}
+{
+  "id": 2251040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251040",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251040,
+    "tgn:name":"Columbus Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.3,33.2667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.766610,50.553802]},"type":"Feature","properties":{"hierarchy":["tgn:7240657","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240657,"name:xx":"Fayt"}}
+{
+  "id": 7240657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240657",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240657,
+    "tgn:name":"Fayt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.76661,50.553802],"type":"Point"}
+}

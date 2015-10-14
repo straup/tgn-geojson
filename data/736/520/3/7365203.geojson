@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.500000,24.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7365203","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365203,"name:xx":"Francisco Castillo Najera"}}
+{
+  "id": 7365203,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365203",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365203,
+    "tgn:name":"Francisco Castillo Najera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5,24.416667],"type":"Point"}
+}

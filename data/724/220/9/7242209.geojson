@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.777051,50.774091]},"type":"Feature","properties":{"hierarchy":["tgn:7242209","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7242209,"name:xx":"Loerehof"}}
+{
+  "id": 7242209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242209",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242209,
+    "tgn:name":"Loerehof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.777051,50.774091],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.933333,17.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7370081","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370081,"name:xx":"Guao, Cerro"}}
+{
+  "id": 7370081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370081",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370081,
+    "tgn:name":"Guao, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.933333,17.533333],"type":"Point"}
+}

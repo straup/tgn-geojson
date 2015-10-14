@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.576874,25.041670]},"type":"Feature","properties":{"hierarchy":["tgn:7472163","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7472163,"name:xx":"Wufenbu"}}
+{
+  "id": 7472163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472163",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472163,
+    "tgn:name":"Wufenbu",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.576874,25.04167],"type":"Point"}
+}

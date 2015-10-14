@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.800000,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2339809","tgn:1000001","tgn:1002840","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2339809,"name:xx":"Freeman Brook"}}
+{
+  "id": 2339809,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339809",
+        "tgn:1000001",
+        "tgn:1002840",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339809,
+    "tgn:name":"Freeman Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8,43.5],"type":"Point"}
+}

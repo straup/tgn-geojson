@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.483333,40.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7050476","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050476,"name:xx":"Masseria Balzano"}}
+{
+  "id": 7050476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050476",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050476,
+    "tgn:name":"Masseria Balzano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.483333,40.766667],"type":"Point"}
+}

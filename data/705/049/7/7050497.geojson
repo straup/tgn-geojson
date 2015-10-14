@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.150000,40.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7050497","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300132325"],"id":7050497,"name:xx":"La Solfatara"}}
+{
+  "id": 7050497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050497",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050497,
+    "tgn:name":"La Solfatara",
+    "tgn:placetype":[
+        "aat:300132325"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.15,40.833333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.083300,38.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2252977","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014516","tgn:7029392"],"placetype":["aat:300008706"],"id":2252977,"name:xx":"Conshea Creek"}}
+{
+  "id": 2252977,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252977",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252977,
+    "tgn:name":"Conshea Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.0833,38.5833],"type":"Point"}
+}

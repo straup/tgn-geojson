@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.066700,36.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2405737","tgn:1000001","tgn:7012149","tgn:2001679","tgn:7007707","tgn:7029392"],"placetype":["aat:300006191"],"id":2405737,"name:xx":"Hulah Lake"}}
+{
+  "id": 2405737,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405737",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001679",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405737,
+    "tgn:name":"Hulah Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.0667,36.9167],"type":"Point"}
+}

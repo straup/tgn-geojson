@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.300000,39.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2254566","tgn:1000001","tgn:7012149","tgn:1002827","tgn:7007252","tgn:7029392"],"placetype":["aat:300008761"],"id":2254566,"name:xx":"Coon Hollow"}}
+{
+  "id": 2254566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002827",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254566,
+    "tgn:name":"Coon Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.3,39.0333],"type":"Point"}
+}

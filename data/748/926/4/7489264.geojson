@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.697222,22.302222]},"type":"Feature","properties":{"hierarchy":["tgn:7489264","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489264,"name:xx":"Neishi Cun"}}
+{
+  "id": 7489264,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489264",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489264,
+    "tgn:name":"Neishi Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.697222,22.302222],"type":"Point"}
+}

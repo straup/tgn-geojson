@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.583333,46.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7051322","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008798"],"id":7051322,"name:xx":"Lago Romito, Punta del"}}
+{
+  "id": 7051322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051322",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051322,
+    "tgn:name":"Lago Romito, Punta del",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.583333,46.983333],"type":"Point"}
+}

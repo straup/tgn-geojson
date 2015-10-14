@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.366700,41.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2409564","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008347"],"id":2409564,"name:xx":"Igerna"}}
+{
+  "id": 2409564,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409564",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409564,
+    "tgn:name":"Igerna",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3667,41.4],"type":"Point"}
+}

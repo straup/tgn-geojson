@@ -1,0 +1,25 @@
+{
+  "id": 1024800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1024800",
+        "tgn:1000660",
+        "tgn:1000002",
+        "tgn:1000056",
+        "tgn:7029392"
+    ],
+    "tgn:id":1024800,
+    "tgn:name":"Trujillo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387220",
+        "aat:300387270",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.0333,-8.1167],"type":"Point"}
+}

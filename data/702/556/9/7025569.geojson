@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.850000,50.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7025569","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"George Nympton","id":7025569}}
+{
+  "id": 7025569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025569",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025569,
+    "tgn:name:en":"George Nympton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.85,50.983333],"type":"Point"}
+}

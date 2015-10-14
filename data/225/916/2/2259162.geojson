@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.966700,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2259162","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2259162,"name:xx":"Cottonwood Heights"}}
+{
+  "id": 2259162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259162",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259162,
+    "tgn:name":"Cottonwood Heights",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9667,41.3333],"type":"Point"}
+}

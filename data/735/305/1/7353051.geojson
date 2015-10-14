@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.583333,20.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7353051","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7353051,"name:xx":"Atoyac"}}
+{
+  "id": 7353051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353051",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353051,
+    "tgn:name":"Atoyac",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.583333,20.033333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.633300,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7021334","tgn:1000001","tgn:2002108","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":7021334,"name:xx":"Humbug Canyon"}}
+{
+  "id": 7021334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021334",
+        "tgn:1000001",
+        "tgn:2002108",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021334,
+    "tgn:name":"Humbug Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6333,39.2333],"type":"Point"}
+}

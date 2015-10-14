@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.116700,52.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7027793","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027793,"name:xx":"Burtoft"}}
+{
+  "id": 7027793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027793",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027793,
+    "tgn:name":"Burtoft",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1167,52.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.400000,18.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7356920","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7356920,"name:xx":"Chiquihuite, Cerro del"}}
+{
+  "id": 7356920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356920",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356920,
+    "tgn:name":"Chiquihuite, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.4,18.85],"type":"Point"}
+}

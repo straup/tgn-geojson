@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.133300,43.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2766243","tgn:1000001","tgn:7012149","tgn:7014287","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2766243,"name:xx":"White Lake Outlet"}}
+{
+  "id": 2766243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766243",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014287",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766243,
+    "tgn:name":"White Lake Outlet",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.1333,43.5333],"type":"Point"}
+}

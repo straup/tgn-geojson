@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.066700,35.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2769688","tgn:1000001","tgn:7012149","tgn:2001519","tgn:7007709","tgn:7029392"],"placetype":["aat:300008761"],"id":2769688,"name:xx":"Wiggins Cove"}}
+{
+  "id": 2769688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769688",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001519",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769688,
+    "tgn:name":"Wiggins Cove",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0667,35.9833],"type":"Point"}
+}

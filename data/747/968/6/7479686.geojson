@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.214444,24.963333]},"type":"Feature","properties":{"hierarchy":["tgn:7479686","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479686,"name:xx":"Zhongli Gaoshang"}}
+{
+  "id": 7479686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479686",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479686,
+    "tgn:name":"Zhongli Gaoshang",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.214444,24.963333],"type":"Point"}
+}

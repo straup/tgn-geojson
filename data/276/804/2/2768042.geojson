@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-148.816700,61.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2768042","tgn:2124017","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008835"],"id":2768042,"name:xx":"Whiteout Glacier"}}
+{
+  "id": 2768042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768042",
+        "tgn:2124017",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768042,
+    "tgn:name":"Whiteout Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-148.8167,61.1667],"type":"Point"}
+}

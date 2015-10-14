@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.666667,26.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7376000","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7376000,"name:xx":"Larga, Mesa"}}
+{
+  "id": 7376000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376000",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376000,
+    "tgn:name":"Larga, Mesa",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.666667,26.5],"type":"Point"}
+}

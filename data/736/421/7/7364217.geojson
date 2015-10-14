@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.933333,25.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7364217","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364217,"name:xx":"El Naranjo"}}
+{
+  "id": 7364217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364217",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364217,
+    "tgn:name":"El Naranjo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.933333,25.1],"type":"Point"}
+}

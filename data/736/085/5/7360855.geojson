@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.533333,27.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7360855","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7360855,"name:xx":"Cohuirimpo, Laguna de"}}
+{
+  "id": 7360855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360855",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360855,
+    "tgn:name":"Cohuirimpo, Laguna de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.533333,27.1],"type":"Point"}
+}

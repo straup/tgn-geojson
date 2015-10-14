@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.250000,42.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2760733","tgn:1000001","tgn:7012149","tgn:2001713","tgn:7007708","tgn:7029392"],"placetype":["aat:300008699"],"id":2760733,"name:xx":"West Gold Brook"}}
+{
+  "id": 2760733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760733",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001713",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760733,
+    "tgn:name":"West Gold Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.25,42.45],"type":"Point"}
+}

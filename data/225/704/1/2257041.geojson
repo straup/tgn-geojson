@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.700000,36.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2257041","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300008761"],"id":2257041,"name:xx":"Corncob Canyon"}}
+{
+  "id": 2257041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257041",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257041,
+    "tgn:name":"Corncob Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7,36.8833],"type":"Point"}
+}

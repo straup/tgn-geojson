@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.266700,30.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2159545","tgn:1000001","tgn:2000260","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":2159545,"name:xx":"Bee Pond"}}
+{
+  "id": 2159545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159545",
+        "tgn:1000001",
+        "tgn:2000260",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159545,
+    "tgn:name":"Bee Pond",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2667,30.2],"type":"Point"}
+}

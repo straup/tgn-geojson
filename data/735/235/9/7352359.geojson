@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.516667,24.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7352359","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7352359,"name:xx":"Brasiles, Laguna"}}
+{
+  "id": 7352359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352359",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352359,
+    "tgn:name":"Brasiles, Laguna",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.516667,24.75],"type":"Point"}
+}

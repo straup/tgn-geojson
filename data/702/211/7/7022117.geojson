@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.400000,37.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7022117","tgn:1000001","tgn:7012149","tgn:2002192","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022117,"name:xx":"Tazewell Reservoir"}}
+{
+  "id": 7022117,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022117",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002192",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022117,
+    "tgn:name":"Tazewell Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4,37.15],"type":"Point"}
+}

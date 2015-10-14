@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.250000,45.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7056733","tgn:7003006","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056733,"name:xx":"Bertagia"}}
+{
+  "id": 7056733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056733",
+        "tgn:7003006",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056733,
+    "tgn:name":"Bertagia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.25,45.133333],"type":"Point"}
+}

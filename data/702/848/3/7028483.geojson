@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.457000,52.502000]},"type":"Feature","properties":{"hierarchy":["tgn:7028483","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028483,"name:xx":"Loddon Ingloss"}}
+{
+  "id": 7028483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028483",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028483,
+    "tgn:name":"Loddon Ingloss",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.457,52.502],"type":"Point"}
+}

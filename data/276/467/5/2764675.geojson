@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.116700,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2764675","tgn:1000001","tgn:7012149","tgn:2000960","tgn:7007520","tgn:7029392"],"placetype":["aat:300008706"],"id":2764675,"name:xx":"Whiskers Creek"}}
+{
+  "id": 2764675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764675",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000960",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764675,
+    "tgn:name":"Whiskers Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1167,46.4],"type":"Point"}
+}

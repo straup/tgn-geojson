@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.661100,23.882600]},"type":"Feature","properties":{"hierarchy":["tgn:7476173","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7476173,"name:xx":"Niugu Ling"}}
+{
+  "id": 7476173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476173",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476173,
+    "tgn:name":"Niugu Ling",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6611,23.8826],"type":"Point"}
+}

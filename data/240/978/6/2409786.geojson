@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.150000,34.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2409786","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300006191"],"id":2409786,"name:xx":"Illa Tank"}}
+{
+  "id": 2409786,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409786",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409786,
+    "tgn:name":"Illa Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.15,34.9333],"type":"Point"}
+}

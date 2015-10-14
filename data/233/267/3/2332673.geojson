@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.166700,44.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2332673","tgn:1000001","tgn:7012149","tgn:7013941","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2332673,"name:xx":"Flow, The"}}
+{
+  "id": 2332673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332673",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013941",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332673,
+    "tgn:name":"Flow, The",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1667,44.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.116700,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2769469","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2769469,"name:xx":"Wide Lick"}}
+{
+  "id": 2769469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769469",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769469,
+    "tgn:name":"Wide Lick",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1167,37.8833],"type":"Point"}
+}

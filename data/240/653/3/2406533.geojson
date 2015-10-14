@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.683300,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2406533","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2406533,"name:xx":"Hungry Run"}}
+{
+  "id": 2406533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406533",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406533,
+    "tgn:name":"Hungry Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6833,38.8833],"type":"Point"}
+}

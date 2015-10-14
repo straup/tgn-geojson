@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.700000,37.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2335137","tgn:1000001","tgn:2000697","tgn:7012149","tgn:7007254","tgn:7029392"],"placetype":["aat:300006075"],"id":2335137,"name:xx":"Fort Aubrey Ditch"}}
+{
+  "id": 2335137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335137",
+        "tgn:1000001",
+        "tgn:2000697",
+        "tgn:7012149",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335137,
+    "tgn:name":"Fort Aubrey Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.7,37.9667],"type":"Point"}
+}

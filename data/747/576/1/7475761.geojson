@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.628739,24.675455]},"type":"Feature","properties":{"hierarchy":["tgn:7475761","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7475761,"name:xx":"Sanxing Diyihao Tifang"}}
+{
+  "id": 7475761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475761",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475761,
+    "tgn:name":"Sanxing Diyihao Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.628739,24.675455],"type":"Point"}
+}

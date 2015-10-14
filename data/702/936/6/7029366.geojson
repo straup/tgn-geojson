@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-171.666700,-2.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7029366","tgn:1010215","tgn:1000217","tgn:1000006","tgn:7029392"],"placetype":["aat:300008791","aat:300387275"],"id":7029366,"name:xx":"Kanton"}}
+{
+  "id": 7029366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029366",
+        "tgn:1010215",
+        "tgn:1000217",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029366,
+    "tgn:name":"Kanton",
+    "tgn:placetype":[
+        "aat:300008791",
+        "aat:300387275"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-171.6667,-2.8333],"type":"Point"}
+}

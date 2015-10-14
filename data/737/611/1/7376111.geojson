@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.733333,20.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7376111","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7376111,"name:xx":"Las Hormigas"}}
+{
+  "id": 7376111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376111",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376111,
+    "tgn:name":"Las Hormigas",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.733333,20.5],"type":"Point"}
+}

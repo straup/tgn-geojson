@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.615278,24.182500]},"type":"Feature","properties":{"hierarchy":["tgn:7376328","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7376328,"name:xx":"Rancho La Tapona"}}
+{
+  "id": 7376328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376328",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376328,
+    "tgn:name":"Rancho La Tapona",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.615278,24.1825],"type":"Point"}
+}

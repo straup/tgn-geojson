@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.233300,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2404607","tgn:1000001","tgn:7012149","tgn:7013867","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2404607,"name:xx":"Huber Run"}}
+{
+  "id": 2404607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404607",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013867",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404607,
+    "tgn:name":"Huber Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2333,39.8833],"type":"Point"}
+}

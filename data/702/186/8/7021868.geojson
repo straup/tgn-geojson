@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.400000,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021868","tgn:1000001","tgn:7012149","tgn:2001188","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021868,"name:xx":"Hartell Lakes"}}
+{
+  "id": 7021868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021868",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001188",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021868,
+    "tgn:name":"Hartell Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.4,39.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.366700,42.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2153204","tgn:1000001","tgn:1002328","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2153204,"name:xx":"Beales Pond"}}
+{
+  "id": 2153204,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153204",
+        "tgn:1000001",
+        "tgn:1002328",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153204,
+    "tgn:name":"Beales Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3667,42.2],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.166667,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7053568","tgn:7003129","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053568,"name:xx":"Monte Iottone"}}
+{
+  "id": 7053568,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053568",
+        "tgn:7003129",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053568,
+    "tgn:name":"Monte Iottone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.166667,44.0],"type":"Point"}
+}

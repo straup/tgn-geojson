@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.016700,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2254073","tgn:1000001","tgn:2000779","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2254073,"name:xx":"Cooley Branch"}}
+{
+  "id": 2254073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254073",
+        "tgn:1000001",
+        "tgn:2000779",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254073,
+    "tgn:name":"Cooley Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0167,37.5],"type":"Point"}
+}

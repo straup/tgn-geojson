@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.283300,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2769231","tgn:1000001","tgn:7012149","tgn:1002723","tgn:7007252","tgn:7029392"],"placetype":["aat:300008680"],"id":2769231,"name:xx":"Wible Lake"}}
+{
+  "id": 2769231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769231",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002723",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769231,
+    "tgn:name":"Wible Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2833,41.4833],"type":"Point"}
+}

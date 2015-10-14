@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.566700,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2768245","tgn:1000001","tgn:7012149","tgn:2000989","tgn:7007520","tgn:7029392"],"placetype":["aat:300008347"],"id":2768245,"name:xx":"Whites Landing"}}
+{
+  "id": 2768245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768245",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000989",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768245,
+    "tgn:name":"Whites Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5667,44.9],"type":"Point"}
+}

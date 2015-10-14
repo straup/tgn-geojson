@@ -1,0 +1,23 @@
+{
+  "id": 1016569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016569",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7031442",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016569,
+    "tgn:name:da":"Godhavn",
+    "tgn:name:en":"Qeqertarsuaq",
+    "tgn:name:kl":"Qeqertarsuaq",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-53.55,69.25],"type":"Point"}
+}

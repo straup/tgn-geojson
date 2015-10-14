@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.322778,45.977500]},"type":"Feature","properties":{"hierarchy":["tgn:7052248","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052248,"name:xx":"Percoto"}}
+{
+  "id": 7052248,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052248",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052248,
+    "tgn:name":"Percoto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.322778,45.9775],"type":"Point"}
+}

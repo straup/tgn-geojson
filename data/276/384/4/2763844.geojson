@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.233300,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2763844","tgn:1000001","tgn:7012149","tgn:2002378","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2763844,"name:xx":"Wheatgrass Draw"}}
+{
+  "id": 2763844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763844",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002378",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763844,
+    "tgn:name":"Wheatgrass Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.2333,43.25],"type":"Point"}
+}

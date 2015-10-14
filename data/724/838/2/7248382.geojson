@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.422030,50.643075]},"type":"Feature","properties":{"hierarchy":["tgn:7248382","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7248382,"name:xx":"Bizencourt"}}
+{
+  "id": 7248382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248382",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248382,
+    "tgn:name":"Bizencourt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.42203,50.643075],"type":"Point"}
+}

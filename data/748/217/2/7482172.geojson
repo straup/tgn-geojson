@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.403611,23.475000]},"type":"Feature","properties":{"hierarchy":["tgn:7482172","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482172,"name:xx":"Hezhuang"}}
+{
+  "id": 7482172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482172",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482172,
+    "tgn:name":"Hezhuang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.403611,23.475],"type":"Point"}
+}

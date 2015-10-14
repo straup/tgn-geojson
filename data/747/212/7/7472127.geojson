@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.582479,23.999000]},"type":"Feature","properties":{"hierarchy":["tgn:7472127","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7472127,"name:xx":"Hualian Shi Gongmu"}}
+{
+  "id": 7472127,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472127",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472127,
+    "tgn:name":"Hualian Shi Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.582479,23.999],"type":"Point"}
+}

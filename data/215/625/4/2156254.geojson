@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.083300,34.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2156254","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2156254,"name:xx":"Bearhide Canyon"}}
+{
+  "id": 2156254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156254",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156254,
+    "tgn:name":"Bearhide Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0833,34.3],"type":"Point"}
+}

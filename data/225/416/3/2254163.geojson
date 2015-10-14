@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-72.800000,43.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2254163","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300386831"],"id":2254163,"name:xx":"Coolidge Range"}}
+{
+  "id": 2254163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254163",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254163,
+    "tgn:name":"Coolidge Range",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8,43.5833],"type":"Point"}
+}

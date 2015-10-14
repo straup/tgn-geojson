@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.616700,47.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330758","tgn:1000001","tgn:7012149","tgn:2001042","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2330758,"name:xx":"Flat Lake"}}
+{
+  "id": 2330758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330758",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001042",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330758,
+    "tgn:name":"Flat Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.6167,47.45],"type":"Point"}
+}

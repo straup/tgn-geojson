@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.770000,22.425278]},"type":"Feature","properties":{"hierarchy":["tgn:7489528","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7489528,"name:xx":"Rimu Shan"}}
+{
+  "id": 7489528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489528",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489528,
+    "tgn:name":"Rimu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.77,22.425278],"type":"Point"}
+}

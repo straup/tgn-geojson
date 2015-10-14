@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.566700,34.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2335967","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300008697"],"id":2335967,"name:xx":"Fossil Springs"}}
+{
+  "id": 2335967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335967",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335967,
+    "tgn:name":"Fossil Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5667,34.4167],"type":"Point"}
+}

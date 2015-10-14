@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.300000,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7241171","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008863"],"id":7241171,"name:xx":"Laarbeekbos"}}
+{
+  "id": 7241171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241171",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241171,
+    "tgn:name":"Laarbeekbos",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.3,50.883333],"type":"Point"}
+}

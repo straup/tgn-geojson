@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.933333,18.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7352164","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300132316"],"id":7352164,"name:xx":"Braithwaite, Bah\u00eda"}}
+{
+  "id": 7352164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352164",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352164,
+    "tgn:name":"Braithwaite, Bah\u00eda",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.933333,18.7],"type":"Point"}
+}

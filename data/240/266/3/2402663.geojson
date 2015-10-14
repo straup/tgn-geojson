@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-148.333300,64.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2402663","tgn:7006450","tgn:1000001","tgn:7019674","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2402663,"name:xx":"Hot Slough"}}
+{
+  "id": 2402663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402663",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019674",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402663,
+    "tgn:name":"Hot Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-148.3333,64.65],"type":"Point"}
+}

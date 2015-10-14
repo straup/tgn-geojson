@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.371913,23.760087]},"type":"Feature","properties":{"hierarchy":["tgn:7488144","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488144,"name:xx":"Luocuo Cun"}}
+{
+  "id": 7488144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488144",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488144,
+    "tgn:name":"Luocuo Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.371913,23.760087],"type":"Point"}
+}

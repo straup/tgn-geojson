@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.850000,28.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7365473","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365473,"name:xx":"Rancho Fresnito"}}
+{
+  "id": 7365473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365473",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365473,
+    "tgn:name":"Rancho Fresnito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.85,28.166667],"type":"Point"}
+}

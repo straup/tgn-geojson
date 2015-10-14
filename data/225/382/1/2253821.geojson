@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.083300,38.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2253821","tgn:1000001","tgn:2000939","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2253821,"name:xx":"Cooks Hope"}}
+{
+  "id": 2253821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253821",
+        "tgn:1000001",
+        "tgn:2000939",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253821,
+    "tgn:name":"Cooks Hope",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0833,38.7333],"type":"Point"}
+}

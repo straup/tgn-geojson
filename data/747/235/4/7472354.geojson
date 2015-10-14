@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.624603,24.109638]},"type":"Feature","properties":{"hierarchy":["tgn:7472354","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472354,"name:xx":"Wuri"}}
+{
+  "id": 7472354,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472354",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472354,
+    "tgn:name":"Wuri",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.624603,24.109638],"type":"Point"}
+}

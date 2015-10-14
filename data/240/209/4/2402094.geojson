@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.866700,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2402094","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2402094,"name:xx":"Horseshoe Spring"}}
+{
+  "id": 2402094,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402094",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402094,
+    "tgn:name":"Horseshoe Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8667,41.05],"type":"Point"}
+}

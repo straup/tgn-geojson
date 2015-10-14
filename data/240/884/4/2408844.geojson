@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.216700,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2408844","tgn:1000001","tgn:7012149","tgn:2001234","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2408844,"name:xx":"Hylan Branch"}}
+{
+  "id": 2408844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408844",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001234",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408844,
+    "tgn:name":"Hylan Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.2167,40.4833],"type":"Point"}
+}

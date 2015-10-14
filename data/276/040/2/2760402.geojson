@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.466700,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2760402","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002608","tgn:7029392"],"placetype":["aat:300008761"],"id":2760402,"name:xx":"West Fork Sombrero Canyon"}}
+{
+  "id": 2760402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760402",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760402,
+    "tgn:name":"West Fork Sombrero Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.4667,34.3333],"type":"Point"}
+}

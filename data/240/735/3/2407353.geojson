@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.183300,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2407353","tgn:1000001","tgn:2001424","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008798"],"id":2407353,"name:xx":"Huntington Hill"}}
+{
+  "id": 2407353,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407353",
+        "tgn:1000001",
+        "tgn:2001424",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407353,
+    "tgn:name":"Huntington Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.1833,43.7333],"type":"Point"}
+}

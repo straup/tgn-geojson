@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.550000,35.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2257208","tgn:1000001","tgn:7012149","tgn:7019676","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2257208,"name:xx":"Corner Stock Tank"}}
+{
+  "id": 2257208,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257208",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019676",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257208,
+    "tgn:name":"Corner Stock Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.55,35.3833],"type":"Point"}
+}

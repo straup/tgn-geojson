@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.866667,50.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7178242","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7178242,"name:xx":"Haindorf"}}
+{
+  "id": 7178242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178242",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178242,
+    "tgn:name":"Haindorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.866667,50.55],"type":"Point"}
+}

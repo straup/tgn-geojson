@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.466389,24.443056]},"type":"Feature","properties":{"hierarchy":["tgn:7482517","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482517,"name:xx":"Beidingtou"}}
+{
+  "id": 7482517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482517",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482517,
+    "tgn:name":"Beidingtou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.466389,24.443056],"type":"Point"}
+}

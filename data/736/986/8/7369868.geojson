@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.383333,15.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7369868","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369868,"name:xx":"Huatalguito"}}
+{
+  "id": 7369868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369868",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369868,
+    "tgn:name":"Huatalguito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.383333,15.883333],"type":"Point"}
+}

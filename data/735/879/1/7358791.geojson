@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.133333,27.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7358791","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387026"],"id":7358791,"name:xx":"Dewey, Canal de"}}
+{
+  "id": 7358791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358791",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358791,
+    "tgn:name":"Dewey, Canal de",
+    "tgn:placetype":[
+        "aat:300387026"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.133333,27.833333],"type":"Point"}
+}

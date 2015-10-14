@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.592386,51.164002]},"type":"Feature","properties":{"hierarchy":["tgn:7240112","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7240112,"name:xx":"Hoog Tongel"}}
+{
+  "id": 7240112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240112",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240112,
+    "tgn:name":"Hoog Tongel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.592386,51.164002],"type":"Point"}
+}

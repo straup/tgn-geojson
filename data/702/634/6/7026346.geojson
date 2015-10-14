@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[21.100000,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7026346","tgn:1000003","tgn:7006669","tgn:7029392"],"placetype":["aat:300000810","aat:300167671","aat:300387006"],"id":7026346,"name:xx":"Blagotin"}}
+{
+  "id": 7026346,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026346",
+        "tgn:1000003",
+        "tgn:7006669",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026346,
+    "tgn:name":"Blagotin",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.1,43.7333],"type":"Point"}
+}

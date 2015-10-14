@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.550000,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2761559","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008680"],"id":2761559,"name:xx":"West Park Lakes"}}
+{
+  "id": 2761559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761559",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761559,
+    "tgn:name":"West Park Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.55,41.3833],"type":"Point"}
+}

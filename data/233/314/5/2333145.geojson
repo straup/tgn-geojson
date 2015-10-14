@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.000000,47.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2333145","tgn:1000001","tgn:7012149","tgn:2001287","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2333145,"name:xx":"Flying V Creek"}}
+{
+  "id": 2333145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333145",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001287",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333145,
+    "tgn:name":"Flying V Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0,47.7167],"type":"Point"}
+}

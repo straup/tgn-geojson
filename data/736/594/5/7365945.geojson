@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.516667,19.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7365945","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7365945,"name:xx":"El Tecolote"}}
+{
+  "id": 7365945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365945",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365945,
+    "tgn:name":"El Tecolote",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.516667,19.55],"type":"Point"}
+}

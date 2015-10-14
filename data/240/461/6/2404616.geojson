@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.700000,47.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2404616","tgn:1000001","tgn:7012149","tgn:1002521","tgn:7007920","tgn:7029392"],"placetype":["aat:300008835"],"id":2404616,"name:xx":"Hubert Glacier"}}
+{
+  "id": 2404616,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404616",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002521",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404616,
+    "tgn:name":"Hubert Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.7,47.7833],"type":"Point"}
+}

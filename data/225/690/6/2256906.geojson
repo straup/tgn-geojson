@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.516700,33.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2256906","tgn:2001730","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2256906,"name:xx":"Corleys Mill Pond"}}
+{
+  "id": 2256906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256906",
+        "tgn:2001730",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256906,
+    "tgn:name":"Corleys Mill Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5167,33.2833],"type":"Point"}
+}

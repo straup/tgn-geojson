@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.100000,45.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2760537","tgn:1000001","tgn:2001261","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760537,"name:xx":"West Fork Tullock Creek"}}
+{
+  "id": 2760537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760537",
+        "tgn:1000001",
+        "tgn:2001261",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760537,
+    "tgn:name":"West Fork Tullock Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.1,45.5],"type":"Point"}
+}

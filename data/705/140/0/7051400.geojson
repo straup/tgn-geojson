@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.300000,42.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7051400","tgn:7003164","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300132315"],"id":7051400,"name:xx":"Lacona, Golfo della"}}
+{
+  "id": 7051400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051400",
+        "tgn:7003164",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051400,
+    "tgn:name":"Lacona, Golfo della",
+    "tgn:placetype":[
+        "aat:300132315"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,42.75],"type":"Point"}
+}

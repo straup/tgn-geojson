@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.250000,28.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7375452","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375452,"name:xx":"Rancho Las Quebradas"}}
+{
+  "id": 7375452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375452",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375452,
+    "tgn:name":"Rancho Las Quebradas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.25,28.65],"type":"Point"}
+}

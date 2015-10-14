@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.450000,45.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2336427","tgn:1000001","tgn:2001261","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2336427,"name:xx":"Fountain of Youth Coulee"}}
+{
+  "id": 2336427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336427",
+        "tgn:1000001",
+        "tgn:2001261",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336427,
+    "tgn:name":"Fountain of Youth Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.45,45.9833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.173611,30.756389]},"type":"Feature","properties":{"hierarchy":["tgn:7362036","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362036,"name:xx":"El C\u00famaro"}}
+{
+  "id": 7362036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362036",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362036,
+    "tgn:name":"El C\u00famaro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.173611,30.756389],"type":"Point"}
+}

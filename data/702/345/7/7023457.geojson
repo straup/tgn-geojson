@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.016700,42.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7023457","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300055621"],"id":7023457,"name:xx":"Squaw Creek Vee"}}
+{
+  "id": 7023457,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023457",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023457,
+    "tgn:name":"Squaw Creek Vee",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0167,42.55],"type":"Point"}
+}

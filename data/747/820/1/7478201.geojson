@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.252869,25.076193]},"type":"Feature","properties":{"hierarchy":["tgn:7478201","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7478201,"name:xx":"Youche"}}
+{
+  "id": 7478201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478201",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478201,
+    "tgn:name":"Youche",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.252869,25.076193],"type":"Point"}
+}

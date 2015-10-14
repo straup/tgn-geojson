@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.607183,24.160013]},"type":"Feature","properties":{"hierarchy":["tgn:7470633","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7470633,"name:xx":"Xianxia Suidao"}}
+{
+  "id": 7470633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470633",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470633,
+    "tgn:name":"Xianxia Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.607183,24.160013],"type":"Point"}
+}

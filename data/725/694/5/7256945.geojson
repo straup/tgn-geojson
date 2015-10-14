@@ -1,0 +1,27 @@
+{
+  "id": 7256945,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0552a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758895",
+        "gp:id":727737,
+        "qs:id":9,
+        "wof:id":101806097
+    },
+    "tgn:hierarchy":[
+        "tgn:7256945",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7256945,
+    "tgn:name:nl":"Birdaard",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.883333,53.3],"type":"Point"}
+}

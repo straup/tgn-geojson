@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.850000,47.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2761240","tgn:1000001","tgn:7012149","tgn:2000969","tgn:7007520","tgn:7029392"],"placetype":["aat:300132348"],"id":2761240,"name:xx":"West Lump Reef"}}
+{
+  "id": 2761240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761240",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000969",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761240,
+    "tgn:name":"West Lump Reef",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.85,47.95],"type":"Point"}
+}

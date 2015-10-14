@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.381539,23.898886]},"type":"Feature","properties":{"hierarchy":["tgn:7470238","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470238,"name:xx":"Jingualiao"}}
+{
+  "id": 7470238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470238",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470238,
+    "tgn:name":"Jingualiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.381539,23.898886],"type":"Point"}
+}

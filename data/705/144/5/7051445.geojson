@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[13.916667,41.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7051445","tgn:7003011","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075","aat:300008699"],"id":7051445,"name:xx":"Piana, Alveo della"}}
+{
+  "id": 7051445,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051445",
+        "tgn:7003011",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051445,
+    "tgn:name":"Piana, Alveo della",
+    "tgn:placetype":[
+        "aat:300006075",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.916667,41.083333],"type":"Point"}
+}

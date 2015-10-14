@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.450000,54.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7118532","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7118532,"name:xx":"Pankh\u00f6rn"}}
+{
+  "id": 7118532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118532",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118532,
+    "tgn:name":"Pankh\u00f6rn",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.45,54.033333],"type":"Point"}
+}

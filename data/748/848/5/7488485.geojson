@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.169444,23.065000]},"type":"Feature","properties":{"hierarchy":["tgn:7488485","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7488485,"name:xx":"Hongshi Xi"}}
+{
+  "id": 7488485,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488485",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488485,
+    "tgn:name":"Hongshi Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.169444,23.065],"type":"Point"}
+}

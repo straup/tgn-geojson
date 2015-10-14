@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.900000,28.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7374449","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7374449,"name:xx":"Lagunetas, Sierra de"}}
+{
+  "id": 7374449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374449",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374449,
+    "tgn:name":"Lagunetas, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.9,28.116667],"type":"Point"}
+}

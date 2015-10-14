@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.900000,43.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2764327","tgn:1000001","tgn:2001796","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300132316"],"id":2764327,"name:xx":"Whetstone Bay"}}
+{
+  "id": 2764327,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764327",
+        "tgn:1000001",
+        "tgn:2001796",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764327,
+    "tgn:name":"Whetstone Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.9,43.1833],"type":"Point"}
+}

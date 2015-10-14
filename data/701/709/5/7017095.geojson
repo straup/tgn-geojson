@@ -1,0 +1,30 @@
+{
+  "id": 7017095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7017095",
+        "tgn:1001942",
+        "tgn:1000047",
+        "tgn:7002457",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017095,
+    "tgn:name:fr":"France Antarctique",
+    "tgn:name:pt":"Fran\u00e7a Antartica",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-43.2833,-22.8833],"type":"Point"}
+}

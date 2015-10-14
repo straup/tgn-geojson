@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.533333,44.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7055505","tgn:7002995","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055505,"name:xx":"Po della Pila"}}
+{
+  "id": 7055505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055505",
+        "tgn:7002995",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055505,
+    "tgn:name":"Po della Pila",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.533333,44.966667],"type":"Point"}
+}

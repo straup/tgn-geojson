@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.566700,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2409467","tgn:1000001","tgn:7012149","tgn:1002723","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2409467,"name:xx":"Iden Branch"}}
+{
+  "id": 2409467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409467",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002723",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409467,
+    "tgn:name":"Iden Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5667,41.35],"type":"Point"}
+}

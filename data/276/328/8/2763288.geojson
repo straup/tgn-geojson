@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.450000,46.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2763288","tgn:1000001","tgn:7012149","tgn:2001298","tgn:7007524","tgn:7029392"],"placetype":["aat:300008699"],"id":2763288,"name:xx":"Wet Fork"}}
+{
+  "id": 2763288,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763288",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001298",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763288,
+    "tgn:name":"Wet Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.45,46.65],"type":"Point"}
+}

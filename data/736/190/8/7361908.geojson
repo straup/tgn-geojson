@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.783333,29.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7361908","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7361908,"name:xx":"El Pajarito, Arroyo"}}
+{
+  "id": 7361908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361908",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361908,
+    "tgn:name":"El Pajarito, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.783333,29.983333],"type":"Point"}
+}

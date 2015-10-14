@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.750000,50.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7247777","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7247777,"name:xx":"Duquesnoy"}}
+{
+  "id": 7247777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247777",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247777,
+    "tgn:name":"Duquesnoy",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.75,50.65],"type":"Point"}
+}

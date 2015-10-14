@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.745948,24.378273]},"type":"Feature","properties":{"hierarchy":["tgn:7480392","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7480392,"name:xx":"Si Hu"}}
+{
+  "id": 7480392,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480392",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480392,
+    "tgn:name":"Si Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.745948,24.378273],"type":"Point"}
+}

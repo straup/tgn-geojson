@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.433333,50.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7115590","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115590,"name:xx":"Oberzettlitz"}}
+{
+  "id": 7115590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115590",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115590,
+    "tgn:name":"Oberzettlitz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.433333,50.066667],"type":"Point"}
+}

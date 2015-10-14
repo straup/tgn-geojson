@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.183300,43.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2768639","tgn:2002130","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008905"],"id":2768639,"name:xx":"Whiting Swamp"}}
+{
+  "id": 2768639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768639",
+        "tgn:2002130",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768639,
+    "tgn:name":"Whiting Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.1833,43.8833],"type":"Point"}
+}

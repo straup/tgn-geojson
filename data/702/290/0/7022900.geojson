@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.816700,39.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7022900","tgn:1002247","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":7022900,"name:xx":"Elk Mills"}}
+{
+  "id": 7022900,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022900",
+        "tgn:1002247",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022900,
+    "tgn:name":"Elk Mills",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.8167,39.65],"type":"Point"}
+}

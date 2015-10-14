@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.693528,51.154093]},"type":"Feature","properties":{"hierarchy":["tgn:7241788","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241788,"name:xx":"Lillo"}}
+{
+  "id": 7241788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241788",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241788,
+    "tgn:name":"Lillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.693528,51.154093],"type":"Point"}
+}

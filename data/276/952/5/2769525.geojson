@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.200000,29.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2769525","tgn:1000001","tgn:7012149","tgn:2000891","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2769525,"name:xx":"Widgeon Pond"}}
+{
+  "id": 2769525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769525",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000891",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769525,
+    "tgn:name":"Widgeon Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2,29.25],"type":"Point"}
+}

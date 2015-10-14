@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.566700,35.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2335994","tgn:1000001","tgn:7012149","tgn:7022542","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2335994,"name:xx":"Foster Branch"}}
+{
+  "id": 2335994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335994",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022542",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335994,
+    "tgn:name":"Foster Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5667,35.5833],"type":"Point"}
+}

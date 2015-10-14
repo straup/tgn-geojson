@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.650000,43.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2254771","tgn:1000001","tgn:7012149","tgn:1002440","tgn:7007568","tgn:7029392"],"placetype":["aat:300008905"],"id":2254771,"name:xx":"Coon Vly"}}
+{
+  "id": 2254771,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254771",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002440",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254771,
+    "tgn:name":"Coon Vly",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.65,43.3333],"type":"Point"}
+}

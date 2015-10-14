@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.983300,31.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2338725","tgn:2000858","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2338725,"name:xx":"Fran\u00e7ois, Lac"}}
+{
+  "id": 2338725,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338725",
+        "tgn:2000858",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338725,
+    "tgn:name":"Fran\u00e7ois, Lac",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9833,31.1],"type":"Point"}
+}

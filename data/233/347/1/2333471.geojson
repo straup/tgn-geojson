@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.516700,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2333471","tgn:1000001","tgn:7012149","tgn:2002115","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2333471,"name:xx":"Folley Spring"}}
+{
+  "id": 2333471,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333471",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002115",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333471,
+    "tgn:name":"Folley Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5167,41.0833],"type":"Point"}
+}

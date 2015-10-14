@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.266700,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2156005","tgn:1000001","tgn:7012149","tgn:2002188","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2156005,"name:xx":"Bear Wallow Hollow"}}
+{
+  "id": 2156005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156005",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002188",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156005,
+    "tgn:name":"Bear Wallow Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2667,36.9833],"type":"Point"}
+}

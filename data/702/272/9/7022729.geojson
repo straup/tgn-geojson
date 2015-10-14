@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.566700,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7022729","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":7022729,"name:xx":"Darby Hollow"}}
+{
+  "id": 7022729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022729",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022729,
+    "tgn:name":"Darby Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5667,38.2333],"type":"Point"}
+}

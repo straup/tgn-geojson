@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.266700,43.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2400976","tgn:1000001","tgn:7012149","tgn:2001709","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2400976,"name:xx":"Horse Spring Reservoir"}}
+{
+  "id": 2400976,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400976",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001709",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400976,
+    "tgn:name":"Horse Spring Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.2667,43.7],"type":"Point"}
+}

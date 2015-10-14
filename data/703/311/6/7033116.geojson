@@ -1,0 +1,25 @@
+{
+  "id": 7033116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7033116",
+        "tgn:1000529",
+        "tgn:1000050",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7033116,
+    "tgn:name":"Puerto Hormiga",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300016619",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.5,10.4],"type":"Point"}
+}

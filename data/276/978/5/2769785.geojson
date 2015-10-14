@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.316700,45.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2769785","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2769785,"name:xx":"Wigwam Creek"}}
+{
+  "id": 2769785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769785",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769785,
+    "tgn:name":"Wigwam Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3167,45.8333],"type":"Point"}
+}

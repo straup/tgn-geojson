@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.933300,34.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2765138","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000147","tgn:7029392"],"placetype":["aat:300008347"],"id":2765138,"name:xx":"Whispering Pines Addition"}}
+{
+  "id": 2765138,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765138",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000147",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765138,
+    "tgn:name":"Whispering Pines Addition",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9333,34.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.666667,41.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7053029","tgn:7004595","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053029,"name:xx":"Paupisi"}}
+{
+  "id": 7053029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053029",
+        "tgn:7004595",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053029,
+    "tgn:name":"Paupisi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.666667,41.2],"type":"Point"}
+}

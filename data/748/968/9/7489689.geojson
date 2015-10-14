@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.393450,24.806849]},"type":"Feature","properties":{"hierarchy":["tgn:7489689","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489689,"name:xx":"Kuzhi"}}
+{
+  "id": 7489689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489689",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489689,
+    "tgn:name":"Kuzhi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.39345,24.806849],"type":"Point"}
+}

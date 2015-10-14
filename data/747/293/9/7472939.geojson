@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.406853,23.542107]},"type":"Feature","properties":{"hierarchy":["tgn:7472939","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7472939,"name:xx":"Wulou Shan"}}
+{
+  "id": 7472939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472939",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472939,
+    "tgn:name":"Wulou Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.406853,23.542107],"type":"Point"}
+}

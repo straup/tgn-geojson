@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.650000,51.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7249525","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7249525,"name:xx":"Oude Steenhoven"}}
+{
+  "id": 7249525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249525",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249525,
+    "tgn:name":"Oude Steenhoven",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.65,51.05],"type":"Point"}
+}

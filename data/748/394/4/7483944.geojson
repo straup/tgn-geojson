@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.608333,22.338611]},"type":"Feature","properties":{"hierarchy":["tgn:7483944","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7483944,"name:xx":"Shiwen Xikou"}}
+{
+  "id": 7483944,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483944",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483944,
+    "tgn:name":"Shiwen Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.608333,22.338611],"type":"Point"}
+}

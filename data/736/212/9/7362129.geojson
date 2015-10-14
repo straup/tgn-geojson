@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.750000,16.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7362129","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362129,"name:xx":"El Carmen"}}
+{
+  "id": 7362129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362129",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362129,
+    "tgn:name":"El Carmen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.75,16.516667],"type":"Point"}
+}

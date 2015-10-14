@@ -1,0 +1,20 @@
+{
+  "id": 1010000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1010000",
+        "tgn:7005685",
+        "tgn:1000001",
+        "tgn:7013154",
+        "tgn:7029392"
+    ],
+    "tgn:id":1010000,
+    "tgn:name":"Fishing Islands",
+    "tgn:placetype":[
+        "aat:300386853"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3333,44.75],"type":"Point"}
+}

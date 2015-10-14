@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.616700,34.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2250534","tgn:2001728","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008347"],"id":2250534,"name:xx":"Colony Hill"}}
+{
+  "id": 2250534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250534",
+        "tgn:2001728",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250534,
+    "tgn:name":"Colony Hill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.6167,34.5],"type":"Point"}
+}

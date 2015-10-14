@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.750000,31.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7354565","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7354565,"name:xx":"Casita, Cerro"}}
+{
+  "id": 7354565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354565",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354565,
+    "tgn:name":"Casita, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.75,31.033333],"type":"Point"}
+}

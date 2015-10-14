@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-49.750000,62.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7024484","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008791"],"id":7024484,"name:xx":"Nordre Stor\u00f8"}}
+{
+  "id": 7024484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024484",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024484,
+    "tgn:name":"Nordre Stor\u00f8",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-49.75,62.1333],"type":"Point"}
+}

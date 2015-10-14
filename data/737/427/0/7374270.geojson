@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.183333,19.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7374270","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374270,"name:xx":"La Majada"}}
+{
+  "id": 7374270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374270",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374270,
+    "tgn:name":"La Majada",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.183333,19.033333],"type":"Point"}
+}

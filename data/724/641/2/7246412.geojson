@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.029561,51.194546]},"type":"Feature","properties":{"hierarchy":["tgn:7246412","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7246412,"name:xx":"Bosdorp"}}
+{
+  "id": 7246412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246412",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246412,
+    "tgn:name":"Bosdorp",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.029561,51.194546],"type":"Point"}
+}

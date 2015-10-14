@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.433333,50.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7241541","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300000206"],"id":7241541,"name:xx":"Hof ten Kleinenberg"}}
+{
+  "id": 7241541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241541",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241541,
+    "tgn:name":"Hof ten Kleinenberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.433333,50.85],"type":"Point"}
+}

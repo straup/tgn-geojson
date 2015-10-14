@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.703611,22.279167]},"type":"Feature","properties":{"hierarchy":["tgn:7471359","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471359,"name:xx":"Fangyeju Shan"}}
+{
+  "id": 7471359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471359",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471359,
+    "tgn:name":"Fangyeju Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.703611,22.279167],"type":"Point"}
+}

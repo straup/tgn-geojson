@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.779000,45.016000]},"type":"Feature","properties":{"hierarchy":["tgn:7029758","tgn:7002871","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"name:fr":"Bains","id":7029758}}
+{
+  "id": 7029758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029758",
+        "tgn:7002871",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029758,
+    "tgn:name:fr":"Bains",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.779,45.016],"type":"Point"}
+}

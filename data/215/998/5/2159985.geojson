@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.916700,33.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2159985","tgn:2001726","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008791"],"id":2159985,"name:xx":"Beech Island"}}
+{
+  "id": 2159985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159985",
+        "tgn:2001726",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159985,
+    "tgn:name":"Beech Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9167,33.4],"type":"Point"}
+}

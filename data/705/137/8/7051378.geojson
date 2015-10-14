@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.950000,46.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7051378","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051378,"name:xx":"Ladurnes"}}
+{
+  "id": 7051378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051378",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051378,
+    "tgn:name":"Ladurnes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.95,46.65],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.033300,42.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2158386","tgn:1000001","tgn:1002359","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2158386,"name:xx":"Beaverdam Brook"}}
+{
+  "id": 2158386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158386",
+        "tgn:1000001",
+        "tgn:1002359",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158386,
+    "tgn:name":"Beaverdam Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0333,42.5333],"type":"Point"}
+}

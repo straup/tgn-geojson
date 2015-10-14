@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.783300,32.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2152985","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":2152985,"name:xx":"Beach Ridge"}}
+{
+  "id": 2152985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152985",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152985,
+    "tgn:name":"Beach Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.7833,32.5333],"type":"Point"}
+}

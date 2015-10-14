@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.933333,26.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7354988","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7354988,"name:xx":"Ciaris, Isla"}}
+{
+  "id": 7354988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354988",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354988,
+    "tgn:name":"Ciaris, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.933333,26.966667],"type":"Point"}
+}

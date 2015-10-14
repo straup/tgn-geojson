@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.733333,19.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7373618","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373618,"name:xx":"La Armon\u00eda"}}
+{
+  "id": 7373618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373618",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373618,
+    "tgn:name":"La Armon\u00eda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.733333,19.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.233300,43.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2150231","tgn:2002130","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2150231,"name:xx":"Bascom Brook"}}
+{
+  "id": 2150231,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150231",
+        "tgn:2002130",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150231,
+    "tgn:name":"Bascom Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.2333,43.9333],"type":"Point"}
+}

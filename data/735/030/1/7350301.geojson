@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.250000,28.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7350301","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7350301,"name:xx":"Rancho Bichachiqui"}}
+{
+  "id": 7350301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350301",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350301,
+    "tgn:name":"Rancho Bichachiqui",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.25,28.7],"type":"Point"}
+}

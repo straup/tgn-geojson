@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.400240,22.486805]},"type":"Feature","properties":{"hierarchy":["tgn:7486800","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7486800,"name:xx":"Lixing Xincun"}}
+{
+  "id": 7486800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486800",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486800,
+    "tgn:name":"Lixing Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.40024,22.486805],"type":"Point"}
+}

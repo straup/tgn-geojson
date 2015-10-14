@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.631153,23.646893]},"type":"Feature","properties":{"hierarchy":["tgn:7477719","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7477719,"name:xx":"Yuanbei Yu Yugang"}}
+{
+  "id": 7477719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477719",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477719,
+    "tgn:name":"Yuanbei Yu Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.631153,23.646893],"type":"Point"}
+}

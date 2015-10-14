@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.589930,24.910147]},"type":"Feature","properties":{"hierarchy":["tgn:7473319","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7473319,"name:xx":"Feicuigu"}}
+{
+  "id": 7473319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473319",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473319,
+    "tgn:name":"Feicuigu",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.58993,24.910147],"type":"Point"}
+}

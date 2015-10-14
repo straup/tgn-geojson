@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.151349,25.043662]},"type":"Feature","properties":{"hierarchy":["tgn:7477785","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477785,"name:xx":"Xincuo Pi"}}
+{
+  "id": 7477785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477785",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477785,
+    "tgn:name":"Xincuo Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.151349,25.043662],"type":"Point"}
+}

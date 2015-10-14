@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.250000,37.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2156732","tgn:1000001","tgn:7012149","tgn:1002451","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2156732,"name:xx":"Beaties Mill"}}
+{
+  "id": 2156732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002451",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156732,
+    "tgn:name":"Beaties Mill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.25,37.6167],"type":"Point"}
+}

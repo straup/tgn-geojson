@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,29.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2761536","tgn:1000001","tgn:7012149","tgn:2000904","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2761536,"name:xx":"West Over Bayou"}}
+{
+  "id": 2761536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761536",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000904",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761536,
+    "tgn:name":"West Over Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,29.6167],"type":"Point"}
+}

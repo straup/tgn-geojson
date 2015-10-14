@@ -1,0 +1,27 @@
+{
+  "id": 7001306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001306",
+        "tgn:7593747",
+        "tgn:7001199",
+        "tgn:1000003",
+        "tgn:1000078",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001306,
+    "tgn:name:en":"Dublin",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387512",
+        "aat:300387302",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-6.25,53.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.527971,24.975073]},"type":"Feature","properties":{"hierarchy":["tgn:7489981","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7489981,"name:xx":"Shi'erzhang"}}
+{
+  "id": 7489981,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489981",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489981,
+    "tgn:name":"Shi'erzhang",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.527971,24.975073],"type":"Point"}
+}

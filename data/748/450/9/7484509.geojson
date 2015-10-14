@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.656111,23.113056]},"type":"Feature","properties":{"hierarchy":["tgn:7484509","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7484509,"name:xx":"Fanziliao Shan"}}
+{
+  "id": 7484509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484509",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484509,
+    "tgn:name":"Fanziliao Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.656111,23.113056],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-83.116700,37.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7023454","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7023454,"name:xx":"Spring Fork"}}
+{
+  "id": 7023454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023454",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023454,
+    "tgn:name":"Spring Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1167,37.45],"type":"Point"}
+}

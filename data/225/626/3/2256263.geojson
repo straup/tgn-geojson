@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,33.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2256263","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300008798"],"id":2256263,"name:xx":"Copperas Peak"}}
+{
+  "id": 2256263,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256263",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256263,
+    "tgn:name":"Copperas Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,33.1],"type":"Point"}
+}

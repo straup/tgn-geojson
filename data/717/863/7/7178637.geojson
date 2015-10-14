@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.933333,52.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7178637","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7178637,"name:xx":"G\u00fchlener Heide"}}
+{
+  "id": 7178637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178637",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178637,
+    "tgn:name":"G\u00fchlener Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.933333,52.966667],"type":"Point"}
+}

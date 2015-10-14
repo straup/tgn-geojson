@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.366667,14.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7376324","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7376324,"name:xx":"Latas, Arroyo de las"}}
+{
+  "id": 7376324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376324",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376324,
+    "tgn:name":"Latas, Arroyo de las",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.366667,14.816667],"type":"Point"}
+}

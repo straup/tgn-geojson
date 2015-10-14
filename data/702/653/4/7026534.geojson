@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.566000,53.391960]},"type":"Feature","properties":{"hierarchy":["tgn:7026534","tgn:7002445","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300387064","aat:300387145","aat:300387071"],"name:en":"Warrington","id":7026534}}
+{
+  "id": 7026534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026534",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026534,
+    "tgn:name:en":"Warrington",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300387145",
+        "aat:300387071"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.566,53.39196],"type":"Point"}
+}

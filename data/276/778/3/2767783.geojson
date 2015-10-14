@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.383300,40.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2767783","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000184","tgn:7029392"],"placetype":["aat:300008699"],"id":2767783,"name:xx":"Whitehead Slough"}}
+{
+  "id": 2767783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767783",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000184",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767783,
+    "tgn:name":"Whitehead Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3833,40.35],"type":"Point"}
+}

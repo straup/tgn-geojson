@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.783333,52.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7173319","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7173319,"name:xx":"Gro\u00df Burlage"}}
+{
+  "id": 7173319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173319",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173319,
+    "tgn:name":"Gro\u00df Burlage",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.783333,52.083333],"type":"Point"}
+}

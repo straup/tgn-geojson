@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.850000,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2158937","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000166","tgn:7029392"],"placetype":["aat:300008347"],"id":2158937,"name:xx":"Becks"}}
+{
+  "id": 2158937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158937",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000166",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158937,
+    "tgn:name":"Becks",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.85,34.9833],"type":"Point"}
+}

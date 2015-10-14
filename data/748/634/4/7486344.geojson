@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.644152,22.706391]},"type":"Feature","properties":{"hierarchy":["tgn:7486344","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7486344,"name:xx":"Laopi Zhizhen"}}
+{
+  "id": 7486344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486344",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486344,
+    "tgn:name":"Laopi Zhizhen",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.644152,22.706391],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.233333,20.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7365135","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365135,"name:xx":"Em\u00e9nguaro"}}
+{
+  "id": 7365135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365135",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365135,
+    "tgn:name":"Em\u00e9nguaro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.233333,20.2],"type":"Point"}
+}

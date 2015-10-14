@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.230000,24.953056]},"type":"Feature","properties":{"hierarchy":["tgn:7470983","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7470983,"name:xx":"Houliao"}}
+{
+  "id": 7470983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470983",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470983,
+    "tgn:name":"Houliao",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.23,24.953056],"type":"Point"}
+}

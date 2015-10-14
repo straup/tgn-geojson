@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.450000,44.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2764506","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2764506,"name:xx":"Whippie Mountain"}}
+{
+  "id": 2764506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764506",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764506,
+    "tgn:name":"Whippie Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.45,44.25],"type":"Point"}
+}

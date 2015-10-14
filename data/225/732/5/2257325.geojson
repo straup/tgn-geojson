@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.500000,38.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2257325","tgn:1000001","tgn:7012149","tgn:1002733","tgn:7007919","tgn:7029392"],"placetype":["aat:300008706"],"id":2257325,"name:xx":"Cornish Creek"}}
+{
+  "id": 2257325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002733",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257325,
+    "tgn:name":"Cornish Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5,38.0],"type":"Point"}
+}

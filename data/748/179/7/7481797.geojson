@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.692155,22.656740]},"type":"Feature","properties":{"hierarchy":["tgn:7481797","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481797,"name:xx":"Xueyegen"}}
+{
+  "id": 7481797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481797",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481797,
+    "tgn:name":"Xueyegen",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.692155,22.65674],"type":"Point"}
+}

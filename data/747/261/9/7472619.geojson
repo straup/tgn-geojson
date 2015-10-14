@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.288155,23.812126]},"type":"Feature","properties":{"hierarchy":["tgn:7472619","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7472619,"name:xx":"Leicuo Ti"}}
+{
+  "id": 7472619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472619",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472619,
+    "tgn:name":"Leicuo Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.288155,23.812126],"type":"Point"}
+}

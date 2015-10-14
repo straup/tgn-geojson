@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.714265,24.707032]},"type":"Feature","properties":{"hierarchy":["tgn:7476069","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7476069,"name:xx":"Yuanshan Tifang"}}
+{
+  "id": 7476069,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476069",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476069,
+    "tgn:name":"Yuanshan Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.714265,24.707032],"type":"Point"}
+}

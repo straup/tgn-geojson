@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.183300,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2762461","tgn:2002142","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2762461,"name:xx":"West View Quarry Cave"}}
+{
+  "id": 2762461,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762461",
+        "tgn:2002142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762461,
+    "tgn:name":"West View Quarry Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.1833,38.1667],"type":"Point"}
+}

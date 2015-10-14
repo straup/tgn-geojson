@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-73.116700,41.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7023153","tgn:1000001","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":7023153,"name:xx":"Jacks Brook"}}
+{
+  "id": 7023153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023153",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023153,
+    "tgn:name":"Jacks Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.1167,41.4667],"type":"Point"}
+}

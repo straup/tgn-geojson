@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.717778,23.505000]},"type":"Feature","properties":{"hierarchy":["tgn:7483991","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7483991,"name:xx":"Disanshisanhao Suidao"}}
+{
+  "id": 7483991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483991",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483991,
+    "tgn:name":"Disanshisanhao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.717778,23.505],"type":"Point"}
+}

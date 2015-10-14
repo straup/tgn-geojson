@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-111.866700,33.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2337153","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300387088","aat:300006075"],"id":2337153,"name:xx":"Fourteen, Canal"}}
+{
+  "id": 2337153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337153",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337153,
+    "tgn:name":"Fourteen, Canal",
+    "tgn:placetype":[
+        "aat:300387088",
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8667,33.4667],"type":"Point"}
+}

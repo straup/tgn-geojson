@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.050000,34.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2765818","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002867","tgn:7029392"],"placetype":["aat:300000390"],"id":2765818,"name:xx":"White Elephant Mine"}}
+{
+  "id": 2765818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765818",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002867",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765818,
+    "tgn:name":"White Elephant Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.05,34.95],"type":"Point"}
+}

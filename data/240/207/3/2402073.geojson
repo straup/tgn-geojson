@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.300000,44.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2402073","tgn:1000001","tgn:1002415","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300132348"],"id":2402073,"name:xx":"Horseshoe Shoal"}}
+{
+  "id": 2402073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402073",
+        "tgn:1000001",
+        "tgn:1002415",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402073,
+    "tgn:name":"Horseshoe Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.3,44.8333],"type":"Point"}
+}

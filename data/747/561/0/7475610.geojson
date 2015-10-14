@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.829055,24.703776]},"type":"Feature","properties":{"hierarchy":["tgn:7475610","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475610,"name:xx":"Wujie Paishuiganxian"}}
+{
+  "id": 7475610,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475610",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475610,
+    "tgn:name":"Wujie Paishuiganxian",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.829055,24.703776],"type":"Point"}
+}

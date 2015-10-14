@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.094722,24.738889]},"type":"Feature","properties":{"hierarchy":["tgn:7470468","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7470468,"name:xx":"Zhudong Zhan"}}
+{
+  "id": 7470468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470468",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470468,
+    "tgn:name":"Zhudong Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.094722,24.738889],"type":"Point"}
+}

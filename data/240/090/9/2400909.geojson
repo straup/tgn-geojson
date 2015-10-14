@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.350000,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2400909","tgn:1000001","tgn:7012149","tgn:2002302","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2400909,"name:xx":"Horse Run"}}
+{
+  "id": 2400909,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400909",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002302",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400909,
+    "tgn:name":"Horse Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.35,38.9167],"type":"Point"}
+}

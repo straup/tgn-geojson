@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.716667,25.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7363571","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363571,"name:xx":"El Astillero"}}
+{
+  "id": 7363571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363571",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363571,
+    "tgn:name":"El Astillero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.716667,25.45],"type":"Point"}
+}

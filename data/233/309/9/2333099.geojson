@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.850000,33.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2333099","tgn:1000001","tgn:7012149","tgn:2000339","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2333099,"name:xx":"Flyblow Creek"}}
+{
+  "id": 2333099,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333099",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000339",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333099,
+    "tgn:name":"Flyblow Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.85,33.6333],"type":"Point"}
+}

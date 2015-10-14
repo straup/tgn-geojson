@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.750000,18.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7366083","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008798"],"id":7366083,"name:xx":"Gallegos, Cerro"}}
+{
+  "id": 7366083,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366083",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366083,
+    "tgn:name":"Gallegos, Cerro",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.75,18.35],"type":"Point"}
+}

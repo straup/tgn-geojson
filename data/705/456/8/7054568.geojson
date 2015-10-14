@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.416667,40.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7054568","tgn:7003005","tgn:7003014","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7054568,"name:xx":"Lontrano, Valle"}}
+{
+  "id": 7054568,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054568",
+        "tgn:7003005",
+        "tgn:7003014",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054568,
+    "tgn:name":"Lontrano, Valle",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.416667,40.516667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.100000,30.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2337039","tgn:1000001","tgn:7012149","tgn:2002009","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2337039,"name:xx":"Fourmile Lake"}}
+{
+  "id": 2337039,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337039",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002009",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337039,
+    "tgn:name":"Fourmile Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.1,30.2833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.350000,31.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2256907","tgn:1000001","tgn:7012149","tgn:2000896","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2256907,"name:xx":"Corleyville"}}
+{
+  "id": 2256907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256907",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000896",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256907,
+    "tgn:name":"Corleyville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.35,31.4833],"type":"Point"}
+}

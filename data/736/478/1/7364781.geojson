@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,19.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7364781","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364781,"name:xx":"El Sauz"}}
+{
+  "id": 7364781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364781",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364781,
+    "tgn:name":"El Sauz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,19.483333],"type":"Point"}
+}

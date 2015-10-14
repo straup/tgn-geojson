@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.233300,39.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2252664","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000185","tgn:7029392"],"placetype":["aat:300008697"],"id":2252664,"name:xx":"Conner Cabin Spring"}}
+{
+  "id": 2252664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252664",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000185",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252664,
+    "tgn:name":"Conner Cabin Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.2333,39.7167],"type":"Point"}
+}

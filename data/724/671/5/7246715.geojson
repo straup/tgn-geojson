@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.933333,51.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7246715","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7246715,"name:xx":"Bossen Heide"}}
+{
+  "id": 7246715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246715",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246715,
+    "tgn:name":"Bossen Heide",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.933333,51.4],"type":"Point"}
+}

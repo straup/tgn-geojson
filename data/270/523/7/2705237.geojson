@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.500000,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2705237","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300008863"],"id":2705237,"name:xx":"Superior National Forest"}}
+{
+  "id": 2705237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705237",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705237,
+    "tgn:name":"Superior National Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.5,47.75],"type":"Point"}
+}

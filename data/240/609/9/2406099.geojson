@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.683300,38.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2406099","tgn:1000001","tgn:7012149","tgn:2002187","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2406099,"name:xx":"Humes Run"}}
+{
+  "id": 2406099,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406099",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002187",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406099,
+    "tgn:name":"Humes Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6833,38.45],"type":"Point"}
+}

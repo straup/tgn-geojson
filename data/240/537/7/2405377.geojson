@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.916700,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2405377","tgn:2000768","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2405377,"name:xx":"Huggins Branch"}}
+{
+  "id": 2405377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405377",
+        "tgn:2000768",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405377,
+    "tgn:name":"Huggins Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9167,37.0],"type":"Point"}
+}

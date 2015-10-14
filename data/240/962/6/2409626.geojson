@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-154.950000,58.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2409626","tgn:7006450","tgn:1000001","tgn:7030517","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2409626,"name:xx":"Ikagluik Creek"}}
+{
+  "id": 2409626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409626",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7030517",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409626,
+    "tgn:name":"Ikagluik Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-154.95,58.3333],"type":"Point"}
+}

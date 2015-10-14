@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.416667,53.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7177750","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177750,"name:xx":"Hanrade"}}
+{
+  "id": 7177750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177750",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177750,
+    "tgn:name":"Hanrade",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.416667,53.3],"type":"Point"}
+}

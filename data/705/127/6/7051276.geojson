@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.466667,38.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7051276","tgn:1000003","tgn:7003122","tgn:7003157","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051276,"name:xx":"Marmora, Fiumara"}}
+{
+  "id": 7051276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051276",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:7003157",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051276,
+    "tgn:name":"Marmora, Fiumara",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.466667,38.266667],"type":"Point"}
+}

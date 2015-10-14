@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.533300,34.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2338702","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300008798"],"id":2338702,"name:xx":"Francis, Mount"}}
+{
+  "id": 2338702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338702",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338702,
+    "tgn:name":"Francis, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.5333,34.4833],"type":"Point"}
+}

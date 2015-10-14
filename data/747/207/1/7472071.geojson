@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.216667,25.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7472071","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472071,"name:xx":"Cecuozi"}}
+{
+  "id": 7472071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472071",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472071,
+    "tgn:name":"Cecuozi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.216667,25.066667],"type":"Point"}
+}

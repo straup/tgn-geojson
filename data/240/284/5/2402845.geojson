@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.066700,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2402845","tgn:1000001","tgn:7012149","tgn:2000234","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2402845,"name:xx":"Hotchkiss Reservoir"}}
+{
+  "id": 2402845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402845",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000234",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402845,
+    "tgn:name":"Hotchkiss Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0667,38.15],"type":"Point"}
+}

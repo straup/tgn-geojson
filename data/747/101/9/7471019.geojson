@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.966667,24.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7471019","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471019,"name:xx":"Jiuliangxi"}}
+{
+  "id": 7471019,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471019",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471019,
+    "tgn:name":"Jiuliangxi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.966667,24.183333],"type":"Point"}
+}

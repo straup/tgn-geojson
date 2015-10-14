@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.066700,33.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2336608","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000104","tgn:7029392"],"placetype":["aat:300008761"],"id":2336608,"name:xx":"Four Palms Canyon"}}
+{
+  "id": 2336608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336608",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000104",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336608,
+    "tgn:name":"Four Palms Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.0667,33.35],"type":"Point"}
+}

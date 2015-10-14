@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.916667,38.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7024872","tgn:7007850","tgn:7024842","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7024872,"name:xx":"Parghelia"}}
+{
+  "id": 7024872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024872",
+        "tgn:7007850",
+        "tgn:7024842",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024872,
+    "tgn:name":"Parghelia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.916667,38.683333],"type":"Point"}
+}

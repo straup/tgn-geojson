@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-154.333300,59.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2337571","tgn:7006450","tgn:1000001","tgn:7030517","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2337571,"name:xx":"Fox Bay"}}
+{
+  "id": 2337571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337571",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7030517",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337571,
+    "tgn:name":"Fox Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-154.3333,59.7833],"type":"Point"}
+}

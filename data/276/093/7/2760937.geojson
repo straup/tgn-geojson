@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.900000,44.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2760937","tgn:1000001","tgn:7012149","tgn:2002336","tgn:7007922","tgn:7029392"],"placetype":["aat:300006191"],"id":2760937,"name:xx":"West Honey Island Flowage"}}
+{
+  "id": 2760937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760937",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002336",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760937,
+    "tgn:name":"West Honey Island Flowage",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9,44.7],"type":"Point"}
+}

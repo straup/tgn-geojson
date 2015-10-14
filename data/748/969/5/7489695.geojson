@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.516667,25.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7489695","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489695,"name:xx":"Guting Qu"}}
+{
+  "id": 7489695,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489695",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489695,
+    "tgn:name":"Guting Qu",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.516667,25.016667],"type":"Point"}
+}

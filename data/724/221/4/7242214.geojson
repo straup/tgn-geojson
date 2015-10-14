@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.200000,50.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7242214","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7242214,"name:xx":"Loei"}}
+{
+  "id": 7242214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242214",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242214,
+    "tgn:name":"Loei",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.2,50.966667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.762257,50.922779]},"type":"Feature","properties":{"hierarchy":["tgn:7242782","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242782,"name:xx":"Langemunten"}}
+{
+  "id": 7242782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242782",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242782,
+    "tgn:name":"Langemunten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.762257,50.922779],"type":"Point"}
+}

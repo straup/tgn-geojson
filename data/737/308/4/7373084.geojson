@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.683333,26.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7373084","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373084,"name:xx":"La Laja"}}
+{
+  "id": 7373084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373084",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373084,
+    "tgn:name":"La Laja",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.683333,26.233333],"type":"Point"}
+}

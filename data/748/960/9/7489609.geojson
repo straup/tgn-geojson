@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.086667,23.372222]},"type":"Feature","properties":{"hierarchy":["tgn:7489609","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008773"],"id":7489609,"name:xx":"Kuokuosi"}}
+{
+  "id": 7489609,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489609",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489609,
+    "tgn:name":"Kuokuosi",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.086667,23.372222],"type":"Point"}
+}

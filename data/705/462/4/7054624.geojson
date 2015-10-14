@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.350000,41.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7054624","tgn:7003138","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7054624,"name:xx":"Stazione di Ponte Galeria"}}
+{
+  "id": 7054624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054624",
+        "tgn:7003138",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054624,
+    "tgn:name":"Stazione di Ponte Galeria",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.35,41.816667],"type":"Point"}
+}

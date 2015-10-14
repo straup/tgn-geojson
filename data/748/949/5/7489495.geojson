@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.683333,22.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7489495","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489495,"name:xx":"Majia Xiang"}}
+{
+  "id": 7489495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489495",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489495,
+    "tgn:name":"Majia Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.683333,22.666667],"type":"Point"}
+}

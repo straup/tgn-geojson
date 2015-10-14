@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.695433,23.929628]},"type":"Feature","properties":{"hierarchy":["tgn:7476331","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7476331,"name:xx":"Zhongxing Guozhong"}}
+{
+  "id": 7476331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476331",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476331,
+    "tgn:name":"Zhongxing Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.695433,23.929628],"type":"Point"}
+}

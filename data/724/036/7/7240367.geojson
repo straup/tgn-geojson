@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.333333,50.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7240367","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008347"],"id":7240367,"name:xx":"Engeland"}}
+{
+  "id": 7240367,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240367",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240367,
+    "tgn:name":"Engeland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.333333,50.783333],"type":"Point"}
+}

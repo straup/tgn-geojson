@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.316700,37.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2254983","tgn:2000195","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2254983,"name:xx":"Cooper Canyon"}}
+{
+  "id": 2254983,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254983",
+        "tgn:2000195",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254983,
+    "tgn:name":"Cooper Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.3167,37.25],"type":"Point"}
+}

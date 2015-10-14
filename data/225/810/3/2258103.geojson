@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-151.266700,64.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2258103","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008699"],"id":2258103,"name:xx":"Cosna Slough"}}
+{
+  "id": 2258103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258103",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258103,
+    "tgn:name":"Cosna Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-151.2667,64.8667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.933333,25.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7375544","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7375544,"name:xx":"Las Tahonas, Arroyo"}}
+{
+  "id": 7375544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375544",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375544,
+    "tgn:name":"Las Tahonas, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.933333,25.5],"type":"Point"}
+}

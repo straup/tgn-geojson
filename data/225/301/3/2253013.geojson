@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.133300,36.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2253013","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002956","tgn:7029392"],"placetype":["aat:300006075"],"id":2253013,"name:xx":"Consolidated Peoples Ditch"}}
+{
+  "id": 2253013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253013",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002956",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253013,
+    "tgn:name":"Consolidated Peoples Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.1333,36.3333],"type":"Point"}
+}

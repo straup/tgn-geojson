@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.596452,22.773350]},"type":"Feature","properties":{"hierarchy":["tgn:7487922","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487922,"name:xx":"Nanhua"}}
+{
+  "id": 7487922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487922",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487922,
+    "tgn:name":"Nanhua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.596452,22.77335],"type":"Point"}
+}

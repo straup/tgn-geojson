@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.300000,47.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2153399","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2153399,"name:xx":"Bean Lake"}}
+{
+  "id": 2153399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153399",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153399,
+    "tgn:name":"Bean Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.3,47.3],"type":"Point"}
+}

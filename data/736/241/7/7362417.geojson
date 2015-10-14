@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.183333,30.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7362417","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362417,"name:xx":"Rancho El Carmen"}}
+{
+  "id": 7362417,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362417",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362417,
+    "tgn:name":"Rancho El Carmen",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.183333,30.566667],"type":"Point"}
+}

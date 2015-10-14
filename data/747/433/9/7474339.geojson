@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.033333,23.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7474339","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387036"],"id":7474339,"name:xx":"Waixing"}}
+{
+  "id": 7474339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474339",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474339,
+    "tgn:name":"Waixing",
+    "tgn:placetype":[
+        "aat:300387036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.033333,23.4],"type":"Point"}
+}

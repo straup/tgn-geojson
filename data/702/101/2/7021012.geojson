@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.116700,44.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7021012","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300055621","aat:300008805"],"id":7021012,"name:xx":"Moose Creek Plateau"}}
+{
+  "id": 7021012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021012",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021012,
+    "tgn:name":"Moose Creek Plateau",
+    "tgn:placetype":[
+        "aat:300055621",
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.1167,44.4833],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7001999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001999",
+        "tgn:1000004",
+        "tgn:7002081",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001999,
+    "tgn:name":"Yangzhou",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300235099"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.3667,32.3667],"type":"Point"}
+}

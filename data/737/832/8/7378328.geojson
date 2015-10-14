@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.083333,21.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7378328","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378328,"name:xx":"Las Piedras"}}
+{
+  "id": 7378328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378328",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378328,
+    "tgn:name":"Las Piedras",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.083333,21.416667],"type":"Point"}
+}

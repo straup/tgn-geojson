@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.733333,51.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7171352","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7171352,"name:xx":"Hils-Bach"}}
+{
+  "id": 7171352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171352",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171352,
+    "tgn:name":"Hils-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.733333,51.983333],"type":"Point"}
+}

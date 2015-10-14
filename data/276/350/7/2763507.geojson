@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.600000,43.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2763507","tgn:1000001","tgn:2000465","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2763507,"name:xx":"Weymouth Lateral"}}
+{
+  "id": 2763507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763507",
+        "tgn:1000001",
+        "tgn:2000465",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763507,
+    "tgn:name":"Weymouth Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.6,43.65],"type":"Point"}
+}

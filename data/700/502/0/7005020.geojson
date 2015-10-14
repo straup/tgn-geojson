@@ -1,0 +1,29 @@
+{
+  "id": 7005020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005020",
+        "tgn:7003134",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005020,
+    "tgn:name":"Reggio nell'Emilia",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300132180",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300387223",
+        "aat:300387235",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.6,44.716667],"type":"Point"}
+}

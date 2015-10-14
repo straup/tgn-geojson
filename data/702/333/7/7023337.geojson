@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.350000,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7023337","tgn:1000001","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":7023337,"name:xx":"South Branch Point of Rocks Creek"}}
+{
+  "id": 7023337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023337",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023337,
+    "tgn:name":"South Branch Point of Rocks Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.35,42.25],"type":"Point"}
+}

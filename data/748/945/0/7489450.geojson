@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.338333,22.779722]},"type":"Feature","properties":{"hierarchy":["tgn:7489450","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7489450,"name:xx":"Taiwan Tangchang Beigunshui Nongchang"}}
+{
+  "id": 7489450,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489450",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489450,
+    "tgn:name":"Taiwan Tangchang Beigunshui Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.338333,22.779722],"type":"Point"}
+}

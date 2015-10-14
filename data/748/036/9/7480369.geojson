@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.533506,24.461572]},"type":"Feature","properties":{"hierarchy":["tgn:7480369","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7480369,"name:xx":"Duli Shan"}}
+{
+  "id": 7480369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480369",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480369,
+    "tgn:name":"Duli Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.533506,24.461572],"type":"Point"}
+}

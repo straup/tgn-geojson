@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.983333,31.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7378225","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378225,"name:xx":"Rancho La Virgen"}}
+{
+  "id": 7378225,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378225",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378225,
+    "tgn:name":"Rancho La Virgen",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.983333,31.2],"type":"Point"}
+}

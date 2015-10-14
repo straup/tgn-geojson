@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.650000,44.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2331597","tgn:1000001","tgn:2000922","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008791"],"id":2331597,"name:xx":"Flea Island"}}
+{
+  "id": 2331597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331597",
+        "tgn:1000001",
+        "tgn:2000922",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331597,
+    "tgn:name":"Flea Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.65,44.1333],"type":"Point"}
+}

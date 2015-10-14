@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.000000,39.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2339319","tgn:1000001","tgn:7012149","tgn:2000217","tgn:7007158","tgn:7029392"],"placetype":["aat:300386845"],"id":2339319,"name:xx":"Fravert Basin"}}
+{
+  "id": 2339319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339319",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000217",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339319,
+    "tgn:name":"Fravert Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0,39.05],"type":"Point"}
+}

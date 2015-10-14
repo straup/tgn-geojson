@@ -1,0 +1,22 @@
+{
+  "id": 7016876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016876",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016876,
+    "tgn:name:de":"Pyren\u00e4en",
+    "tgn:name:en":"Pyrenees",
+    "tgn:name:es":"Pirineos",
+    "tgn:name:fr":"Pyr\u00e9n\u00e9es",
+    "tgn:name:la":"Pyrenaei Montes",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.0,42.6667],"type":"Point"}
+}

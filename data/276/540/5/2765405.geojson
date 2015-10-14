@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.633300,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2765405","tgn:1000001","tgn:1002206","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2765405,"name:xx":"White Birch Lake"}}
+{
+  "id": 2765405,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765405",
+        "tgn:1000001",
+        "tgn:1002206",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765405,
+    "tgn:name":"White Birch Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6333,42.0333],"type":"Point"}
+}

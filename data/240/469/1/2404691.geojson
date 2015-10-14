@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.616700,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2404691","tgn:1000001","tgn:1002328","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2404691,"name:xx":"Huckleberry Brook"}}
+{
+  "id": 2404691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404691",
+        "tgn:1000001",
+        "tgn:1002328",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404691,
+    "tgn:name":"Huckleberry Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.6167,42.1],"type":"Point"}
+}

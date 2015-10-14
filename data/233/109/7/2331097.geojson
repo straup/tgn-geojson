@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.783300,32.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2331097","tgn:1000001","tgn:7012149","tgn:2001440","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2331097,"name:xx":"Flat Tank"}}
+{
+  "id": 2331097,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331097",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001440",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331097,
+    "tgn:name":"Flat Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7833,32.4],"type":"Point"}
+}

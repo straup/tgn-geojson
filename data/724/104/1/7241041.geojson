@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.050000,50.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7241041","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7241041,"name:xx":"Ferme de la Haie au Cerf"}}
+{
+  "id": 7241041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241041",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241041,
+    "tgn:name":"Ferme de la Haie au Cerf",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.05,50.116667],"type":"Point"}
+}

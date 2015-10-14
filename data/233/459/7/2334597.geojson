@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.483300,34.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2334597","tgn:1000001","tgn:7012149","tgn:2000332","tgn:7007248","tgn:7029392"],"placetype":["aat:300008697"],"id":2334597,"name:xx":"Forester Spring"}}
+{
+  "id": 2334597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334597",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000332",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334597,
+    "tgn:name":"Forester Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4833,34.7333],"type":"Point"}
+}

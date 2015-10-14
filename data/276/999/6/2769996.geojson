@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.666700,35.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2769996","tgn:1000001","tgn:7012149","tgn:2001446","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2769996,"name:xx":"Wilcox Draw"}}
+{
+  "id": 2769996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769996",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001446",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769996,
+    "tgn:name":"Wilcox Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.6667,35.8833],"type":"Point"}
+}

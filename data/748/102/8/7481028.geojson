@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.052778,24.805000]},"type":"Feature","properties":{"hierarchy":["tgn:7481028","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481028,"name:xx":"Dong'an Qiao"}}
+{
+  "id": 7481028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481028",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481028,
+    "tgn:name":"Dong'an Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.052778,24.805],"type":"Point"}
+}

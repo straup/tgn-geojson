@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.966700,45.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2331939","tgn:1000001","tgn:7012149","tgn:1002943","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2331939,"name:xx":"Fletcher Spring"}}
+{
+  "id": 2331939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331939",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002943",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331939,
+    "tgn:name":"Fletcher Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.9667,45.1333],"type":"Point"}
+}

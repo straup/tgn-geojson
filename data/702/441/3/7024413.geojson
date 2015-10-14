@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[6.500000,45.400000]},"type":"Feature","properties":{"name:en":"Savoy","hierarchy":["tgn:7024413","tgn:1000003","tgn:7029392"],"placetype":["aat:300387178","aat:300235088"],"name:fr":"Savoie","name:la":"Sabaudia","name:it":"Savoia","id":7024413}}
+{
+  "id": 7024413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024413",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024413,
+    "tgn:name:en":"Savoy",
+    "tgn:name:fr":"Savoie",
+    "tgn:name:it":"Savoia",
+    "tgn:name:la":"Sabaudia",
+    "tgn:placetype":[
+        "aat:300387178",
+        "aat:300235088"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.5,45.4],"type":"Point"}
+}

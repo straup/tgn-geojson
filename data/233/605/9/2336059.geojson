@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.500000,44.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2336059","tgn:1000001","tgn:2001701","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2336059,"name:xx":"Foster Creek"}}
+{
+  "id": 2336059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336059",
+        "tgn:1000001",
+        "tgn:2001701",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336059,
+    "tgn:name":"Foster Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.5,44.7],"type":"Point"}
+}

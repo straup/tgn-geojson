@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.600000,38.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2769820","tgn:1000001","tgn:7012149","tgn:2002121","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2769820,"name:xx":"Wigwam Spring"}}
+{
+  "id": 2769820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769820",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002121",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769820,
+    "tgn:name":"Wigwam Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6,38.9667],"type":"Point"}
+}

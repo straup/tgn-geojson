@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.833333,23.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7373774","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373774,"name:xx":"La Clementina"}}
+{
+  "id": 7373774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373774",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373774,
+    "tgn:name":"La Clementina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.833333,23.266667],"type":"Point"}
+}

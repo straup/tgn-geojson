@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.216700,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2767332","tgn:1000001","tgn:7012149","tgn:2002113","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2767332,"name:xx":"White Sage Wash"}}
+{
+  "id": 2767332,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767332",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002113",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767332,
+    "tgn:name":"White Sage Wash",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2167,37.0],"type":"Point"}
+}

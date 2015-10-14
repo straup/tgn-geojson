@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.216667,28.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7357270","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7357270,"name:xx":"Rancho Campo Peralta"}}
+{
+  "id": 7357270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357270",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357270,
+    "tgn:name":"Rancho Campo Peralta",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.216667,28.366667],"type":"Point"}
+}

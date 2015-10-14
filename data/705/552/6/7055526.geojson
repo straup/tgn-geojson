@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.666667,46.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7055526","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055526,"name:xx":"\u00d3rtles, Massiccio dell'"}}
+{
+  "id": 7055526,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055526",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055526,
+    "tgn:name":"\u00d3rtles, Massiccio dell'",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.666667,46.5],"type":"Point"}
+}

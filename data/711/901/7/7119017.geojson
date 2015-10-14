@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.433333,50.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7119017","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7119017,"name:xx":"Prinzenhof"}}
+{
+  "id": 7119017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119017",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119017,
+    "tgn:name":"Prinzenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.433333,50.683333],"type":"Point"}
+}

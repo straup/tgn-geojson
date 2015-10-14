@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.666700,29.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2402833","tgn:1000001","tgn:7012149","tgn:1002456","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2402833,"name:xx":"Hot Wells"}}
+{
+  "id": 2402833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402833",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002456",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402833,
+    "tgn:name":"Hot Wells",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.6667,29.95],"type":"Point"}
+}

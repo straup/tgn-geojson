@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.066667,53.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7027847","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"East Keal","id":7027847}}
+{
+  "id": 7027847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027847",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027847,
+    "tgn:name:en":"East Keal",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.066667,53.15],"type":"Point"}
+}

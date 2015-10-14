@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.633300,35.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2154595","tgn:1000001","tgn:7012149","tgn:1002545","tgn:7007157","tgn:7029392"],"placetype":["aat:300386845"],"id":2154595,"name:xx":"Bear Dens"}}
+{
+  "id": 2154595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154595",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002545",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154595,
+    "tgn:name":"Bear Dens",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.6333,35.75],"type":"Point"}
+}

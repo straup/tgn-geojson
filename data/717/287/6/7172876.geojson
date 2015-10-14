@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.050000,53.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7172876","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7172876,"name:xx":"Grenz-See"}}
+{
+  "id": 7172876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172876",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172876,
+    "tgn:name":"Grenz-See",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.05,53.333333],"type":"Point"}
+}

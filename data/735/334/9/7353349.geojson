@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.066667,19.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7353349","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008808"],"id":7353349,"name:xx":"Anegada de Adentro, Arrecife"}}
+{
+  "id": 7353349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353349",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353349,
+    "tgn:name":"Anegada de Adentro, Arrecife",
+    "tgn:placetype":[
+        "aat:300008808"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.066667,19.233333],"type":"Point"}
+}

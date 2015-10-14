@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.383300,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2150531","tgn:1000001","tgn:7012149","tgn:2000493","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2150531,"name:xx":"Basin Spring"}}
+{
+  "id": 2150531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150531",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000493",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150531,
+    "tgn:name":"Basin Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3833,42.25],"type":"Point"}
+}

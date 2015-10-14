@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.416667,19.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7360149","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360149,"name:xx":"Coaxuxco"}}
+{
+  "id": 7360149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360149",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360149,
+    "tgn:name":"Coaxuxco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.416667,19.216667],"type":"Point"}
+}

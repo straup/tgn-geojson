@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.783333,49.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7176304","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7176304,"name:xx":"Haagerlohe"}}
+{
+  "id": 7176304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176304",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176304,
+    "tgn:name":"Haagerlohe",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.783333,49.683333],"type":"Point"}
+}

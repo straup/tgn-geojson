@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.366700,43.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2404482","tgn:2000452","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2404482,"name:xx":"Hubbard Lateral"}}
+{
+  "id": 2404482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404482",
+        "tgn:2000452",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404482,
+    "tgn:name":"Hubbard Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.3667,43.4833],"type":"Point"}
+}

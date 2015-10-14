@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.866700,41.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2760093","tgn:1000001","tgn:7012149","tgn:2000180","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2760093,"name:xx":"West Fork Patrick Creek"}}
+{
+  "id": 2760093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760093",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000180",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760093,
+    "tgn:name":"West Fork Patrick Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.8667,41.95],"type":"Point"}
+}

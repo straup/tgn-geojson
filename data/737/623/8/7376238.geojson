@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.976667,32.532222]},"type":"Feature","properties":{"hierarchy":["tgn:7376238","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7376238,"name:xx":"Llanos, Ca\u00f1\u00f3n los"}}
+{
+  "id": 7376238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376238",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376238,
+    "tgn:name":"Llanos, Ca\u00f1\u00f3n los",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.976667,32.532222],"type":"Point"}
+}

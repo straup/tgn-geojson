@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.383333,17.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7366406","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366406,"name:xx":"El Retiro"}}
+{
+  "id": 7366406,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366406",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366406,
+    "tgn:name":"El Retiro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.383333,17.3],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.150000,28.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7365920","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365920,"name:xx":"Rancho Gajurichic"}}
+{
+  "id": 7365920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365920",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365920,
+    "tgn:name":"Rancho Gajurichic",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.15,28.15],"type":"Point"}
+}

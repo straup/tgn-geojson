@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.750000,42.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7057484","tgn:7003139","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057484,"name:xx":"Cadutella, Fosso"}}
+{
+  "id": 7057484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057484",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057484,
+    "tgn:name":"Cadutella, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.75,42.416667],"type":"Point"}
+}

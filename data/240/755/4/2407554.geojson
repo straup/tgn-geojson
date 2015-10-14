@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.683300,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2407554","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2407554,"name:xx":"Huntsville Hollow"}}
+{
+  "id": 2407554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407554",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407554,
+    "tgn:name":"Huntsville Hollow",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6833,41.25],"type":"Point"}
+}

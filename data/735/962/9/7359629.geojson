@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,29.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7359629","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7359629,"name:xx":"Rancho Cuarta Zona"}}
+{
+  "id": 7359629,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359629",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359629,
+    "tgn:name":"Rancho Cuarta Zona",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,29.55],"type":"Point"}
+}

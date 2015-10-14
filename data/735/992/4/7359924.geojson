@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383333,28.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7359924","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7359924,"name:xx":"Cinco Ojos, Arroyo"}}
+{
+  "id": 7359924,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359924",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359924,
+    "tgn:name":"Cinco Ojos, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.383333,28.916667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.850000,25.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7377512","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377512,"name:xx":"La Vacas"}}
+{
+  "id": 7377512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377512",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377512,
+    "tgn:name":"La Vacas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.85,25.766667],"type":"Point"}
+}

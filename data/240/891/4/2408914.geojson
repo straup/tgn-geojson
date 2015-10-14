@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.283300,46.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2408914","tgn:1000001","tgn:7012149","tgn:2001311","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2408914,"name:xx":"Hysham Re-Lift Canal"}}
+{
+  "id": 2408914,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408914",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001311",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408914,
+    "tgn:name":"Hysham Re-Lift Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2833,46.25],"type":"Point"}
+}

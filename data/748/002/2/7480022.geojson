@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.430888,23.216633]},"type":"Feature","properties":{"hierarchy":["tgn:7480022","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480022,"name:xx":"Nanshikeng"}}
+{
+  "id": 7480022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480022",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480022,
+    "tgn:name":"Nanshikeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.430888,23.216633],"type":"Point"}
+}

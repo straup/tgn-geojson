@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.716700,39.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2765641","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000243","tgn:7029392"],"placetype":["aat:300008761"],"id":2765641,"name:xx":"White Coyote Draw"}}
+{
+  "id": 2765641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000243",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765641,
+    "tgn:name":"White Coyote Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7167,39.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.566667,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7113750","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7113750,"name:xx":"Rettenbach"}}
+{
+  "id": 7113750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113750",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113750,
+    "tgn:name":"Rettenbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.566667,48.35],"type":"Point"}
+}

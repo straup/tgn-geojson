@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.216700,50.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7025875","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7025875,"name:ang":"Come"}}
+{
+  "id": 7025875,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025875",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025875,
+    "tgn:name:ang":"Come",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.2167,50.65],"type":"Point"}
+}

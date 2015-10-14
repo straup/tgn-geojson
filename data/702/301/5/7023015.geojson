@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-119.283300,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7023015","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7023015,"name:xx":"Sage Hen Creek"}}
+{
+  "id": 7023015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023015",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023015,
+    "tgn:name":"Sage Hen Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.2833,38.5],"type":"Point"}
+}

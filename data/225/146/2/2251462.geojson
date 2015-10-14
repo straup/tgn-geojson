@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.016700,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2251462","tgn:1000001","tgn:2000870","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2251462,"name:xx":"Comite"}}
+{
+  "id": 2251462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251462",
+        "tgn:1000001",
+        "tgn:2000870",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251462,
+    "tgn:name":"Comite",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.0167,30.5],"type":"Point"}
+}

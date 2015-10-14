@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.766700,42.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2256284","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2256284,"name:xx":"Copperfield Draw"}}
+{
+  "id": 2256284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256284",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256284,
+    "tgn:name":"Copperfield Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7667,42.5333],"type":"Point"}
+}

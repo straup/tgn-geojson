@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[6.200000,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7243948","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008699"],"id":7243948,"name:xx":"Iterbach"}}
+{
+  "id": 7243948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243948",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243948,
+    "tgn:name":"Iterbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.2,50.733333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.700000,53.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7172421","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7172421,"name:xx":"Hinterste Wiese"}}
+{
+  "id": 7172421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172421",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172421,
+    "tgn:name":"Hinterste Wiese",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.7,53.35],"type":"Point"}
+}

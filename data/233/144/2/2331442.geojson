@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.683300,48.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2331442","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2331442,"name:xx":"Flattail Creek"}}
+{
+  "id": 2331442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331442",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331442,
+    "tgn:name":"Flattail Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.6833,48.7],"type":"Point"}
+}

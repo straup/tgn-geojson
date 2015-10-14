@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.600000,25.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7488233","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488233,"name:xx":"Nangang Qu"}}
+{
+  "id": 7488233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488233",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488233,
+    "tgn:name":"Nangang Qu",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6,25.033333],"type":"Point"}
+}

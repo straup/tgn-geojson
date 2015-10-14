@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.393889,23.479444]},"type":"Feature","properties":{"hierarchy":["tgn:7482171","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7482171,"name:xx":"Pimajiao Pi"}}
+{
+  "id": 7482171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482171",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482171,
+    "tgn:name":"Pimajiao Pi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.393889,23.479444],"type":"Point"}
+}

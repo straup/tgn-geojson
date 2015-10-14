@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.183300,43.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2338286","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2338286,"name:xx":"Fox Spring"}}
+{
+  "id": 2338286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338286",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338286,
+    "tgn:name":"Fox Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1833,43.9833],"type":"Point"}
+}

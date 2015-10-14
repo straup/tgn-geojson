@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.850000,53.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7119044","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7119044,"name:xx":"Poitendorfer Tannen"}}
+{
+  "id": 7119044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119044",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119044,
+    "tgn:name":"Poitendorfer Tannen",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.85,53.35],"type":"Point"}
+}

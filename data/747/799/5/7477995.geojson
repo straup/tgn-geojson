@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.474880,22.446912]},"type":"Feature","properties":{"hierarchy":["tgn:7477995","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300132316"],"id":7477995,"name:xx":"Dapeng Wan"}}
+{
+  "id": 7477995,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477995",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477995,
+    "tgn:name":"Dapeng Wan",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.47488,22.446912],"type":"Point"}
+}

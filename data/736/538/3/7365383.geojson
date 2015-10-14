@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.066667,26.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7365383","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7365383,"name:xx":"Encinal, Arroyo"}}
+{
+  "id": 7365383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365383",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365383,
+    "tgn:name":"Encinal, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.066667,26.383333],"type":"Point"}
+}

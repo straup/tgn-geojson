@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.517317,50.259104]},"type":"Feature","properties":{"hierarchy":["tgn:7241921","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7241921,"name:xx":"Lisbelle"}}
+{
+  "id": 7241921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241921",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241921,
+    "tgn:name":"Lisbelle",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.517317,50.259104],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.350000,40.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2258142","tgn:1000001","tgn:7012149","tgn:1002396","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2258142,"name:xx":"Costello Ditch"}}
+{
+  "id": 2258142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002396",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258142,
+    "tgn:name":"Costello Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.35,40.9333],"type":"Point"}
+}

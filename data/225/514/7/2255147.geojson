@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-155.666700,71.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2255147","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008791"],"id":2255147,"name:xx":"Cooper Island"}}
+{
+  "id": 2255147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255147",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255147,
+    "tgn:name":"Cooper Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-155.6667,71.2333],"type":"Point"}
+}

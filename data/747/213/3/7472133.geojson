@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.618051,24.008741]},"type":"Feature","properties":{"hierarchy":["tgn:7472133","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7472133,"name:xx":"Hualian Shifan Xueyuan"}}
+{
+  "id": 7472133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472133",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472133,
+    "tgn:name":"Hualian Shifan Xueyuan",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.618051,24.008741],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.400000,38.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2259328","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000241","tgn:7029392"],"placetype":["aat:300006191"],"id":2259328,"name:xx":"Cottonwood Reservoir Number 2"}}
+{
+  "id": 2259328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000241",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259328,
+    "tgn:name":"Cottonwood Reservoir Number 2",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.4,38.1167],"type":"Point"}
+}

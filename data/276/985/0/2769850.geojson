@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.316700,28.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2769850","tgn:1000001","tgn:7012149","tgn:1002749","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2769850,"name:xx":"Wilbar, Lake"}}
+{
+  "id": 2769850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769850",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002749",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769850,
+    "tgn:name":"Wilbar, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3167,28.6],"type":"Point"}
+}

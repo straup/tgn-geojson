@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.333300,52.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7024922","tgn:7002445","tgn:7008103","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7024922,"name:xx":"Campton","name:ang":"Chambeltone"}}
+{
+  "id": 7024922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024922",
+        "tgn:7002445",
+        "tgn:7008103",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024922,
+    "tgn:name":"Campton",
+    "tgn:name:ang":"Chambeltone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.3333,52.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.883333,40.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7050589","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050589,"name:xx":"Piesco, Fiume il"}}
+{
+  "id": 7050589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050589",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050589,
+    "tgn:name":"Piesco, Fiume il",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.883333,40.466667],"type":"Point"}
+}

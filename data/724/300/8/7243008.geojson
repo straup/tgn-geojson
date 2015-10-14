@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.204532,51.089591]},"type":"Feature","properties":{"hierarchy":["tgn:7243008","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7243008,"name:xx":"Luipegem"}}
+{
+  "id": 7243008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243008",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243008,
+    "tgn:name":"Luipegem",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.204532,51.089591],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.382363,23.749851]},"type":"Feature","properties":{"hierarchy":["tgn:7486731","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486731,"name:xx":"Gangwei Cun"}}
+{
+  "id": 7486731,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486731",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486731,
+    "tgn:name":"Gangwei Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.382363,23.749851],"type":"Point"}
+}

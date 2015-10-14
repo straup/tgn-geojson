@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.629050,51.259600]},"type":"Feature","properties":{"hierarchy":["tgn:7245726","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7245726,"name:xx":"Den Otter"}}
+{
+  "id": 7245726,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245726",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245726,
+    "tgn:name":"Den Otter",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.62905,51.2596],"type":"Point"}
+}

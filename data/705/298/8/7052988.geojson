@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.816667,44.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7052988","tgn:1003473","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052988,"name:xx":"I Casoni"}}
+{
+  "id": 7052988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052988",
+        "tgn:1003473",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052988,
+    "tgn:name":"I Casoni",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.816667,44.283333],"type":"Point"}
+}

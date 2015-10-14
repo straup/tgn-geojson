@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.716667,23.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7373198","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373198,"name:xx":"La Lajilla"}}
+{
+  "id": 7373198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373198",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373198,
+    "tgn:name":"La Lajilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.716667,23.65],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.450000,15.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7373251","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373251,"name:xx":"La Chispa"}}
+{
+  "id": 7373251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373251",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373251,
+    "tgn:name":"La Chispa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.45,15.0],"type":"Point"}
+}

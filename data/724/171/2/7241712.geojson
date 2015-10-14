@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.121352,50.777881]},"type":"Feature","properties":{"hierarchy":["tgn:7241712","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241712,"name:xx":"Leerbeek"}}
+{
+  "id": 7241712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241712",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241712,
+    "tgn:name":"Leerbeek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.121352,50.777881],"type":"Point"}
+}

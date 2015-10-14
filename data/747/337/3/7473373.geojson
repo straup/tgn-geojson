@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.933333,25.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7473373","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7473373,"name:xx":"Tianwo Shan"}}
+{
+  "id": 7473373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473373",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473373,
+    "tgn:name":"Tianwo Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.933333,25.983333],"type":"Point"}
+}

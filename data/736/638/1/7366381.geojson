@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,20.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7366381","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7366381,"name:xx":"El Terrero, Cerro"}}
+{
+  "id": 7366381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366381",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366381,
+    "tgn:name":"El Terrero, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,20.483333],"type":"Point"}
+}

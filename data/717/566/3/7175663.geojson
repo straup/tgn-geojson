@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.016667,52.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7175663","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300386886"],"id":7175663,"name:xx":"Gro\u00dfes Moor"}}
+{
+  "id": 7175663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175663",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175663,
+    "tgn:name":"Gro\u00dfes Moor",
+    "tgn:placetype":[
+        "aat:300386886"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.016667,52.866667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.900000,21.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7356453","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7356453,"name:xx":"Carolina"}}
+{
+  "id": 7356453,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356453",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356453,
+    "tgn:name":"Carolina",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.9,21.15],"type":"Point"}
+}

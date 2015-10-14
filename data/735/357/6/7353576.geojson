@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.616667,20.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7353576","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353576,"name:xx":"Azcorra"}}
+{
+  "id": 7353576,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353576",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353576,
+    "tgn:name":"Azcorra",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.616667,20.95],"type":"Point"}
+}

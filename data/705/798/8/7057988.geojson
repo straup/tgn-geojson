@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.533333,45.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7057988","tgn:7003008","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057988,"name:xx":"Arcugnano"}}
+{
+  "id": 7057988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057988",
+        "tgn:7003008",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057988,
+    "tgn:name":"Arcugnano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.533333,45.5],"type":"Point"}
+}

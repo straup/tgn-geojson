@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.466700,45.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2338215","tgn:1000001","tgn:2001816","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300266640"],"id":2338215,"name:xx":"Fox Ridge"}}
+{
+  "id": 2338215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338215",
+        "tgn:1000001",
+        "tgn:2001816",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338215,
+    "tgn:name":"Fox Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.4667,45.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.900000,29.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7357784","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357784,"name:xx":"Colonia Calles"}}
+{
+  "id": 7357784,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357784",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357784,
+    "tgn:name":"Colonia Calles",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9,29.216667],"type":"Point"}
+}

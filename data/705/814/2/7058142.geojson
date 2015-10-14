@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[16.100000,37.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7058142","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347","aat:300387330"],"id":7058142,"name:xx":"Brancaleone"}}
+{
+  "id": 7058142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058142",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058142,
+    "tgn:name":"Brancaleone",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387330"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.1,37.966667],"type":"Point"}
+}

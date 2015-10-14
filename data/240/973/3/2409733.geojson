@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.150000,35.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2409733","tgn:1000001","tgn:2001480","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2409733,"name:xx":"Il Penseroso Acres Lake"}}
+{
+  "id": 2409733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409733",
+        "tgn:1000001",
+        "tgn:2001480",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409733,
+    "tgn:name":"Il Penseroso Acres Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.15,35.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.833333,25.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7360013","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360013,"name:xx":"Cuchilla, Sierra de la"}}
+{
+  "id": 7360013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360013",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360013,
+    "tgn:name":"Cuchilla, Sierra de la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.833333,25.233333],"type":"Point"}
+}

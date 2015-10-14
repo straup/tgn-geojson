@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.533333,28.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7372252","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372252,"name:xx":"La Esperanza"}}
+{
+  "id": 7372252,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372252",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372252,
+    "tgn:name":"La Esperanza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.533333,28.266667],"type":"Point"}
+}

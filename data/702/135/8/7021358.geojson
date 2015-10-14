@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.100000,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021358","tgn:1000001","tgn:7012149","tgn:2002291","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021358,"name:xx":"Rough Gap Run"}}
+{
+  "id": 7021358,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021358",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002291",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021358,
+    "tgn:name":"Rough Gap Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1,38.5],"type":"Point"}
+}

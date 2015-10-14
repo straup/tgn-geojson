@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,25.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7367768","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7367768,"name:xx":"El Salado, Arroyo"}}
+{
+  "id": 7367768,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367768",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367768,
+    "tgn:name":"El Salado, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,25.983333],"type":"Point"}
+}

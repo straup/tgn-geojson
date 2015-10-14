@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-89.000000,30.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7023438","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":7023438,"name:xx":"Mississippi Sound"}}
+{
+  "id": 7023438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023438",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023438,
+    "tgn:name":"Mississippi Sound",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.0,30.25],"type":"Point"}
+}

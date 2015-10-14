@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.766667,43.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7054906","tgn:1000003","tgn:7003141","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054906,"name:xx":"Molina di Triora"}}
+{
+  "id": 7054906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054906",
+        "tgn:1000003",
+        "tgn:7003141",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054906,
+    "tgn:name":"Molina di Triora",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.766667,43.983333],"type":"Point"}
+}

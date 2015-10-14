@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.200000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7021639","tgn:1000001","tgn:7012149","tgn:2001620","tgn:7007706","tgn:7029392"],"placetype":["aat:300006191"],"id":7021639,"name:xx":"New Lexington Reservoir"}}
+{
+  "id": 7021639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021639",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001620",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021639,
+    "tgn:name":"New Lexington Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2,39.7333],"type":"Point"}
+}

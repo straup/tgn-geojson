@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.850000,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2763879","tgn:7016100","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300006191"],"id":2763879,"name:xx":"Wheatley Reservoir"}}
+{
+  "id": 2763879,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763879",
+        "tgn:7016100",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763879,
+    "tgn:name":"Wheatley Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.85,38.4833],"type":"Point"}
+}

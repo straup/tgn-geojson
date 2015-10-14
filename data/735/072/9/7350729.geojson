@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.266667,27.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7350729","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7350729,"name:xx":"Tanque Blanco"}}
+{
+  "id": 7350729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350729",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350729,
+    "tgn:name":"Tanque Blanco",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.266667,27.616667],"type":"Point"}
+}

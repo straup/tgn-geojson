@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.483300,41.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2339667","tgn:1000001","tgn:7012149","tgn:2002117","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2339667,"name:xx":"Freds Spring"}}
+{
+  "id": 2339667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339667",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002117",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339667,
+    "tgn:name":"Freds Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4833,41.4333],"type":"Point"}
+}

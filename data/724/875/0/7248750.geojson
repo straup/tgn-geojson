@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.866667,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7248750","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248750,"name:xx":"Bloed Putteken"}}
+{
+  "id": 7248750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248750",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248750,
+    "tgn:name":"Bloed Putteken",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.866667,51.033333],"type":"Point"}
+}

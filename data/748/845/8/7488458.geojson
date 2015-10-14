@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.809260,24.629007]},"type":"Feature","properties":{"hierarchy":["tgn:7488458","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488458,"name:xx":"Daxing"}}
+{
+  "id": 7488458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488458",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488458,
+    "tgn:name":"Daxing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.80926,24.629007],"type":"Point"}
+}

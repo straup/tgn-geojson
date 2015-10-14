@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.320516,23.079346]},"type":"Feature","properties":{"hierarchy":["tgn:7480002","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480002,"name:xx":"Datan Qiao"}}
+{
+  "id": 7480002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480002",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480002,
+    "tgn:name":"Datan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.320516,23.079346],"type":"Point"}
+}

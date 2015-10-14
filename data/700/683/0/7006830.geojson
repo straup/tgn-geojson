@@ -1,0 +1,27 @@
+{
+  "id": 7006830,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f19ba6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749450",
+        "gp:id":732366,
+        "qs:id":7,
+        "wof:id":101808317
+    },
+    "tgn:hierarchy":[
+        "tgn:7006830",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006830,
+    "tgn:name:nl":"Oosterhout",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.883333,51.65],"type":"Point"}
+}

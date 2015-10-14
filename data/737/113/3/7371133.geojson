@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,23.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7371133","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371133,"name:xx":"Graceros"}}
+{
+  "id": 7371133,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371133",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371133,
+    "tgn:name":"Graceros",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,23.733333],"type":"Point"}
+}

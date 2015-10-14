@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.098889,22.723889]},"type":"Feature","properties":{"hierarchy":["tgn:7479235","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7479235,"name:xx":"Fengyuan Tifang"}}
+{
+  "id": 7479235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479235",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479235,
+    "tgn:name":"Fengyuan Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.098889,22.723889],"type":"Point"}
+}

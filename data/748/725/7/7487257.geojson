@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.645073,23.564237]},"type":"Feature","properties":{"hierarchy":["tgn:7487257","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487257,"name:xx":"Lintou"}}
+{
+  "id": 7487257,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487257",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487257,
+    "tgn:name":"Lintou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.645073,23.564237],"type":"Point"}
+}

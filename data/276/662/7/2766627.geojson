@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.283300,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2766627","tgn:1000001","tgn:7012149","tgn:2000787","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2766627,"name:xx":"White Oak Fork"}}
+{
+  "id": 2766627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766627",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000787",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766627,
+    "tgn:name":"White Oak Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2833,37.2],"type":"Point"}
+}

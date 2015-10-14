@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.066667,19.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7352721","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7352721,"name:xx":"Atlamaxac"}}
+{
+  "id": 7352721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352721",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352721,
+    "tgn:name":"Atlamaxac",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.066667,19.816667],"type":"Point"}
+}

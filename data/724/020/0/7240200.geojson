@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.316667,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7240200","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7240200,"name:xx":"Einde"}}
+{
+  "id": 7240200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240200",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240200,
+    "tgn:name":"Einde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.316667,51.216667],"type":"Point"}
+}

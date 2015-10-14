@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.200000,38.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2336992","tgn:1000001","tgn:7012149","tgn:2000217","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2336992,"name:xx":"Fourmile Gulch"}}
+{
+  "id": 2336992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336992",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000217",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336992,
+    "tgn:name":"Fourmile Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.2,38.4],"type":"Point"}
+}

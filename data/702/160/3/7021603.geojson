@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.800000,27.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7021603","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300000771"],"id":7021603,"name:xx":"DeSoto"}}
+{
+  "id": 7021603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021603",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021603,
+    "tgn:name":"DeSoto",
+    "tgn:placetype":[
+        "aat:300000771"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8,27.1833],"type":"Point"}
+}

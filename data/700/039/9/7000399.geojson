@@ -1,0 +1,26 @@
+{
+  "id": 7000399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000399",
+        "tgn:7001242",
+        "tgn:1000893",
+        "tgn:1000180",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000399,
+    "tgn:name":"Maputo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387298",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300000547",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.5833,-25.9667],"type":"Point"}
+}

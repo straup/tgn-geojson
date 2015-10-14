@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.516700,44.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2402278","tgn:1000001","tgn:7012149","tgn:2001717","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2402278,"name:xx":"Hortense Creek"}}
+{
+  "id": 2402278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402278",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001717",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402278,
+    "tgn:name":"Hortense Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5167,44.6333],"type":"Point"}
+}

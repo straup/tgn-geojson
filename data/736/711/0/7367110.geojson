@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.258333,31.249722]},"type":"Feature","properties":{"hierarchy":["tgn:7367110","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367110,"name:xx":"El Tren"}}
+{
+  "id": 7367110,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367110",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367110,
+    "tgn:name":"El Tren",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.258333,31.249722],"type":"Point"}
+}

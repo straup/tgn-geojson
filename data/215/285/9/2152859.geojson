@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-75.083300,38.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2152859","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300132316"],"id":2152859,"name:xx":"Bayville Gut"}}
+{
+  "id": 2152859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152859",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152859,
+    "tgn:name":"Bayville Gut",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.0833,38.4667],"type":"Point"}
+}

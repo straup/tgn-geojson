@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.983333,50.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7246197","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7246197,"name:xx":"Dessus les Tanni\u00e8res"}}
+{
+  "id": 7246197,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246197",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246197,
+    "tgn:name":"Dessus les Tanni\u00e8res",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.983333,50.366667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.316667,16.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7374148","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7374148,"name:xx":"Presa La Angostura"}}
+{
+  "id": 7374148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374148",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374148,
+    "tgn:name":"Presa La Angostura",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.316667,16.016667],"type":"Point"}
+}

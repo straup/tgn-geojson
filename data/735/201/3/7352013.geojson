@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.900000,28.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7352013","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7352013,"name:xx":"Arzata, Laguna de"}}
+{
+  "id": 7352013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352013",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352013,
+    "tgn:name":"Arzata, Laguna de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9,28.266667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-78.066700,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:7022681","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":7022681,"name:xx":"Warriors Mark Run"}}
+{
+  "id": 7022681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022681",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022681,
+    "tgn:name":"Warriors Mark Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.0667,40.7333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.246900,23.279897]},"type":"Feature","properties":{"hierarchy":["tgn:7481380","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481380,"name:xx":"Hongcuoliao Qiao"}}
+{
+  "id": 7481380,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481380",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481380,
+    "tgn:name":"Hongcuoliao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2469,23.279897],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.583300,34.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2402962","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000051","tgn:7029392"],"placetype":["aat:300008746"],"id":2402962,"name:xx":"Hough Number Two Cave"}}
+{
+  "id": 2402962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402962",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000051",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402962,
+    "tgn:name":"Hough Number Two Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.5833,34.55],"type":"Point"}
+}

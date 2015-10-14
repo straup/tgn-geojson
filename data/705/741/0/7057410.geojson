@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.766667,41.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7057410","tgn:7003011","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7057410,"name:xx":"Ausente, Torrente"}}
+{
+  "id": 7057410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057410",
+        "tgn:7003011",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057410,
+    "tgn:name":"Ausente, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.766667,41.216667],"type":"Point"}
+}

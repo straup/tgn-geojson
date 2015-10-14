@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.777222,24.746389]},"type":"Feature","properties":{"hierarchy":["tgn:7486992","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486992,"name:xx":"Liming Li"}}
+{
+  "id": 7486992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486992",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486992,
+    "tgn:name":"Liming Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.777222,24.746389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.633333,37.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7050467","tgn:1000003","tgn:1001651","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050467,"name:xx":"Masseria Fovate"}}
+{
+  "id": 7050467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050467",
+        "tgn:1000003",
+        "tgn:1001651",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050467,
+    "tgn:name":"Masseria Fovate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.633333,37.433333],"type":"Point"}
+}

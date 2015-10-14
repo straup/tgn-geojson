@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-134.266700,58.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2409308","tgn:7006450","tgn:1000001","tgn:2124089","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409308,"name:xx":"Icy Point"}}
+{
+  "id": 2409308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409308",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124089",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409308,
+    "tgn:name":"Icy Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-134.2667,58.1833],"type":"Point"}
+}

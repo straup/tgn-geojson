@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.516944,23.622222]},"type":"Feature","properties":{"hierarchy":["tgn:7484591","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484591,"name:xx":"Houhuzi"}}
+{
+  "id": 7484591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484591",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484591,
+    "tgn:name":"Houhuzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.516944,23.622222],"type":"Point"}
+}

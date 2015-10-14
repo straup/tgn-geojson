@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.733333,48.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7117551","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7117551,"name:xx":"Oppenland"}}
+{
+  "id": 7117551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117551",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117551,
+    "tgn:name":"Oppenland",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.733333,48.933333],"type":"Point"}
+}

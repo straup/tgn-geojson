@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.940300,24.059500]},"type":"Feature","properties":{"hierarchy":["tgn:7487055","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487055,"name:xx":"Meiziqi"}}
+{
+  "id": 7487055,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487055",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487055,
+    "tgn:name":"Meiziqi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.9403,24.0595],"type":"Point"}
+}

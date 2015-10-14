@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.624444,24.778889]},"type":"Feature","properties":{"hierarchy":["tgn:7361335","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361335,"name:xx":"El Consuelo"}}
+{
+  "id": 7361335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361335",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361335,
+    "tgn:name":"El Consuelo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.624444,24.778889],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.750000,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2408695","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2408695,"name:xx":"Hyatts Creek"}}
+{
+  "id": 2408695,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408695",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408695,
+    "tgn:name":"Hyatts Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.75,37.4333],"type":"Point"}
+}

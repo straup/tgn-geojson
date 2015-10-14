@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.212467,25.020735]},"type":"Feature","properties":{"hierarchy":["tgn:7478221","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478221,"name:xx":"Chiniuchou"}}
+{
+  "id": 7478221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478221",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478221,
+    "tgn:name":"Chiniuchou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.212467,25.020735],"type":"Point"}
+}

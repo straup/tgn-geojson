@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.583300,39.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2152582","tgn:1000001","tgn:7012149","tgn:7021844","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2152582,"name:xx":"Bayfield"}}
+{
+  "id": 2152582,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152582",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7021844",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152582,
+    "tgn:name":"Bayfield",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5833,39.7667],"type":"Point"}
+}

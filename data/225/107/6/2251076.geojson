@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,48.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2251076","tgn:1000001","tgn:7012149","tgn:1002862","tgn:7007920","tgn:7029392"],"placetype":["aat:300008791"],"id":2251076,"name:xx":"Colville Island"}}
+{
+  "id": 2251076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251076",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002862",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251076,
+    "tgn:name":"Colville Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,48.4],"type":"Point"}
+}

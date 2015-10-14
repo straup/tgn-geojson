@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-150.700000,60.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2401039","tgn:7006450","tgn:1000001","tgn:7019698","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":2401039,"name:xx":"Horse Trail Lake"}}
+{
+  "id": 2401039,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401039",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7019698",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401039,
+    "tgn:name":"Horse Trail Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-150.7,60.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.900000,47.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7179667","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7179667,"name:xx":"Haar Moos"}}
+{
+  "id": 7179667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179667",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179667,
+    "tgn:name":"Haar Moos",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.9,47.9],"type":"Point"}
+}

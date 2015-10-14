@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.116667,51.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7113997","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300055621"],"id":7113997,"name:xx":"Resser Mark"}}
+{
+  "id": 7113997,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113997",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113997,
+    "tgn:name":"Resser Mark",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.116667,51.55],"type":"Point"}
+}

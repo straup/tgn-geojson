@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.516667,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7375355","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375355,"name:xx":"Rancho Leonor"}}
+{
+  "id": 7375355,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375355",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375355,
+    "tgn:name":"Rancho Leonor",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.516667,30.8],"type":"Point"}
+}

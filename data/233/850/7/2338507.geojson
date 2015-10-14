@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.550000,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2338507","tgn:1000001","tgn:7012149","tgn:2000810","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2338507,"name:xx":"Fraley Creek"}}
+{
+  "id": 2338507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338507",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000810",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338507,
+    "tgn:name":"Fraley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.55,37.6],"type":"Point"}
+}

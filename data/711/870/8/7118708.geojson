@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.293020,50.038265]},"type":"Feature","properties":{"hierarchy":["tgn:7118708","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7118708,"name:xx":"Peters-Berg"}}
+{
+  "id": 7118708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118708",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118708,
+    "tgn:name":"Peters-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.29302,50.038265],"type":"Point"}
+}

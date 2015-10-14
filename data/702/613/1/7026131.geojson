@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[35.566700,32.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7026131","tgn:7000249","tgn:1000004","tgn:1000119","tgn:7029392"],"placetype":["aat:300000810","aat:300167671","aat:300008542","aat:300387006"],"id":7026131,"name:xx":"El \u02bbUbeid\u012bya"}}
+{
+  "id": 7026131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026131",
+        "tgn:7000249",
+        "tgn:1000004",
+        "tgn:1000119",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026131,
+    "tgn:name":"El \u02bbUbeid\u012bya",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300008542",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.5667,32.6833],"type":"Point"}
+}

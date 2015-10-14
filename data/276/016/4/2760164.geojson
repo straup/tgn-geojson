@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.000000,46.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2760164","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2760164,"name:xx":"West Fork Postoffice Creek"}}
+{
+  "id": 2760164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760164",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760164,
+    "tgn:name":"West Fork Postoffice Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.0,46.5167],"type":"Point"}
+}

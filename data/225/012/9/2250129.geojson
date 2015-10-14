@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.516700,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2250129","tgn:1000001","tgn:1002327","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2250129,"name:xx":"Collins Ditch"}}
+{
+  "id": 2250129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250129",
+        "tgn:1000001",
+        "tgn:1002327",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250129,
+    "tgn:name":"Collins Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5167,40.3333],"type":"Point"}
+}

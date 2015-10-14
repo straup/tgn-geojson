@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.275456,23.925966]},"type":"Feature","properties":{"hierarchy":["tgn:7477991","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7477991,"name:xx":"Baishi Chi"}}
+{
+  "id": 7477991,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477991",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477991,
+    "tgn:name":"Baishi Chi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.275456,23.925966],"type":"Point"}
+}

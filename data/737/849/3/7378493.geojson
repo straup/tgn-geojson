@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.966667,29.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7378493","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378493,"name:xx":"Rancho Los Pescados"}}
+{
+  "id": 7378493,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378493",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378493,
+    "tgn:name":"Rancho Los Pescados",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.966667,29.466667],"type":"Point"}
+}

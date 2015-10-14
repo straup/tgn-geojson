@@ -1,0 +1,25 @@
+{
+  "id": 7010604,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010604",
+        "tgn:1003641",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029504",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010604,
+    "tgn:name:en":"Southport",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.0,53.666667],"type":"Point"}
+}

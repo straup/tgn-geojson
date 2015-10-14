@@ -1,0 +1,24 @@
+{
+  "id": 1025241,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1025241",
+        "tgn:1001829",
+        "tgn:1000002",
+        "tgn:1000059",
+        "tgn:7029392"
+    ],
+    "tgn:id":1025241,
+    "tgn:name":"Puerto la Cruz",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387249",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-64.6667,10.2333],"type":"Point"}
+}

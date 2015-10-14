@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.283300,47.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2336132","tgn:1000001","tgn:7012149","tgn:7018871","tgn:7007920","tgn:7029392"],"placetype":["aat:300008791"],"id":2336132,"name:xx":"Foster Island"}}
+{
+  "id": 2336132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7018871",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336132,
+    "tgn:name":"Foster Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2833,47.6333],"type":"Point"}
+}

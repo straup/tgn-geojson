@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.566700,39.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2257029","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2257029,"name:xx":"Corn Run"}}
+{
+  "id": 2257029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257029",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257029,
+    "tgn:name":"Corn Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5667,39.9],"type":"Point"}
+}

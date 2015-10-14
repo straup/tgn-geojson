@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.350000,41.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2769392","tgn:1002165","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008791"],"id":2769392,"name:xx":"Wicks Island"}}
+{
+  "id": 2769392,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769392",
+        "tgn:1002165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769392,
+    "tgn:name":"Wicks Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.35,41.7167],"type":"Point"}
+}

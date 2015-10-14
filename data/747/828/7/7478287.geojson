@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.361460,22.333059]},"type":"Feature","properties":{"hierarchy":["tgn:7478287","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478287,"name:xx":"Fanzicuo"}}
+{
+  "id": 7478287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478287",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478287,
+    "tgn:name":"Fanzicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.36146,22.333059],"type":"Point"}
+}

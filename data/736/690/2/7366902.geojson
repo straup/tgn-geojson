@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.216667,24.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7366902","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7366902,"name:xx":"Esp\u00edritu Santo, Cerro"}}
+{
+  "id": 7366902,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366902",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366902,
+    "tgn:name":"Esp\u00edritu Santo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.216667,24.733333],"type":"Point"}
+}

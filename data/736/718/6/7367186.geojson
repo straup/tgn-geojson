@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.433333,24.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7367186","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367186,"name:xx":"Estaci\u00f3n Pacheco"}}
+{
+  "id": 7367186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367186",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367186,
+    "tgn:name":"Estaci\u00f3n Pacheco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.433333,24.0],"type":"Point"}
+}

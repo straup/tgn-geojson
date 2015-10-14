@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.774722,24.752500]},"type":"Feature","properties":{"hierarchy":["tgn:7473505","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473505,"name:xx":"Yanping Li"}}
+{
+  "id": 7473505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473505",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473505,
+    "tgn:name":"Yanping Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.774722,24.7525],"type":"Point"}
+}

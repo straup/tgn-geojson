@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.216700,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021871","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008347"],"id":7021871,"name:xx":"Challis"}}
+{
+  "id": 7021871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021871",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021871,
+    "tgn:name":"Challis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.2167,44.5],"type":"Point"}
+}

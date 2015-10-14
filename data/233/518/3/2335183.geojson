@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.050000,46.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2335183","tgn:1000001","tgn:7012149","tgn:1002767","tgn:7007920","tgn:7029392"],"placetype":["aat:300008347"],"id":2335183,"name:xx":"Fort Canby"}}
+{
+  "id": 2335183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335183",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002767",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335183,
+    "tgn:name":"Fort Canby",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.05,46.2833],"type":"Point"}
+}

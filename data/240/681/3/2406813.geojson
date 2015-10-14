@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.416700,33.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2406813","tgn:2001726","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2406813,"name:xx":"Hunter Branch"}}
+{
+  "id": 2406813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406813",
+        "tgn:2001726",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406813,
+    "tgn:name":"Hunter Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4167,33.6],"type":"Point"}
+}

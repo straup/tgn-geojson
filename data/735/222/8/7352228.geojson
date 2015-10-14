@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.316667,22.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7352228","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7352228,"name:xx":"Alto, Cerro"}}
+{
+  "id": 7352228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352228",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352228,
+    "tgn:name":"Alto, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.316667,22.683333],"type":"Point"}
+}

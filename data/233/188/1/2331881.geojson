@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.916700,37.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2331881","tgn:1000001","tgn:2000771","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2331881,"name:xx":"Fletcher Hollow"}}
+{
+  "id": 2331881,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331881",
+        "tgn:1000001",
+        "tgn:2000771",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331881,
+    "tgn:name":"Fletcher Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9167,37.5833],"type":"Point"}
+}

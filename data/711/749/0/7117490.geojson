@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.716667,53.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7117490","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117490,"name:xx":"Ostmoor"}}
+{
+  "id": 7117490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117490",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117490,
+    "tgn:name":"Ostmoor",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.716667,53.466667],"type":"Point"}
+}

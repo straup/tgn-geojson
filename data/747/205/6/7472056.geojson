@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.235519,25.014291]},"type":"Feature","properties":{"hierarchy":["tgn:7472056","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472056,"name:xx":"Wuquan Li"}}
+{
+  "id": 7472056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472056",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472056,
+    "tgn:name":"Wuquan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.235519,25.014291],"type":"Point"}
+}

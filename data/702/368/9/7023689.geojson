@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.616700,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:7023689","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300132316"],"id":7023689,"name:xx":"Pogue Hollow Cove"}}
+{
+  "id": 7023689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023689",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023689,
+    "tgn:name":"Pogue Hollow Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.6167,38.1667],"type":"Point"}
+}

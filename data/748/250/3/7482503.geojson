@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.235960,24.410785]},"type":"Feature","properties":{"hierarchy":["tgn:7482503","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387036"],"id":7482503,"name:xx":"Xiaojinmen Tan"}}
+{
+  "id": 7482503,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482503",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482503,
+    "tgn:name":"Xiaojinmen Tan",
+    "tgn:placetype":[
+        "aat:300387036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.23596,24.410785],"type":"Point"}
+}

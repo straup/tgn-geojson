@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.966700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023067","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7023067,"name:xx":"Halfway Brook"}}
+{
+  "id": 7023067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023067",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023067,
+    "tgn:name":"Halfway Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.9667,42.0333],"type":"Point"}
+}

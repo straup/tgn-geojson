@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.510067,23.639683]},"type":"Feature","properties":{"hierarchy":["tgn:7472921","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472921,"name:xx":"Houmianxi"}}
+{
+  "id": 7472921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472921",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472921,
+    "tgn:name":"Houmianxi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.510067,23.639683],"type":"Point"}
+}

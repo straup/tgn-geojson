@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.850000,41.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2336025","tgn:1002996","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300132316"],"id":2336025,"name:xx":"Foster Cove"}}
+{
+  "id": 2336025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336025",
+        "tgn:1002996",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336025,
+    "tgn:name":"Foster Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.85,41.3],"type":"Point"}
+}

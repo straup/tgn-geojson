@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.783300,32.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2762378","tgn:1000001","tgn:7012149","tgn:2000874","tgn:7007256","tgn:7029392"],"placetype":["aat:300008706"],"id":2762378,"name:xx":"West Turkey Creek"}}
+{
+  "id": 2762378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762378",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000874",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762378,
+    "tgn:name":"West Turkey Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7833,32.1333],"type":"Point"}
+}

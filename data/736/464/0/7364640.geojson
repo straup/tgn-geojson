@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.316667,29.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7364640","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364640,"name:xx":"Rancho El Promontorio"}}
+{
+  "id": 7364640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364640",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364640,
+    "tgn:name":"Rancho El Promontorio",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.316667,29.566667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.100000,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2159502","tgn:1000001","tgn:7012149","tgn:2000825","tgn:7007255","tgn:7029392"],"placetype":["aat:300008798"],"id":2159502,"name:xx":"Bee Knob Hill"}}
+{
+  "id": 2159502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159502",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000825",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159502,
+    "tgn:name":"Bee Knob Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1,37.85],"type":"Point"}
+}

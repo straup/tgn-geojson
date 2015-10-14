@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.583611,23.970000]},"type":"Feature","properties":{"hierarchy":["tgn:7487775","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7487775,"name:xx":"Nanchang"}}
+{
+  "id": 7487775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487775",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487775,
+    "tgn:name":"Nanchang",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.583611,23.97],"type":"Point"}
+}

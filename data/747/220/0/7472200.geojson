@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.427558,23.790780]},"type":"Feature","properties":{"hierarchy":["tgn:7472200","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7472200,"name:xx":"Anding Gong"}}
+{
+  "id": 7472200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472200",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472200,
+    "tgn:name":"Anding Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.427558,23.79078],"type":"Point"}
+}

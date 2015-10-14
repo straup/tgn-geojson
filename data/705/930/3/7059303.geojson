@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.433333,50.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7059303","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7059303,"name:xx":"Alter Flo\u00dfgraben"}}
+{
+  "id": 7059303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059303",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059303,
+    "tgn:name":"Alter Flo\u00dfgraben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.433333,50.466667],"type":"Point"}
+}

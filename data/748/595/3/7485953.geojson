@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.572500,23.721389]},"type":"Feature","properties":{"hierarchy":["tgn:7485953","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7485953,"name:xx":"Niubuzi Xi"}}
+{
+  "id": 7485953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485953",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485953,
+    "tgn:name":"Niubuzi Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5725,23.721389],"type":"Point"}
+}

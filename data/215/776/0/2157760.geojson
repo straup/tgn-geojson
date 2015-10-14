@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.416700,36.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2157760","tgn:1000001","tgn:7012149","tgn:2002189","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2157760,"name:xx":"Beaver Hollow"}}
+{
+  "id": 2157760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157760",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002189",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157760,
+    "tgn:name":"Beaver Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4167,36.7833],"type":"Point"}
+}

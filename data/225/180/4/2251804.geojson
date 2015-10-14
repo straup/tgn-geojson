@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.316700,44.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2251804","tgn:1000001","tgn:7012149","tgn:2000982","tgn:7007520","tgn:7029392"],"placetype":["aat:300008798"],"id":2251804,"name:xx":"Comstock Hills"}}
+{
+  "id": 2251804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251804",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000982",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251804,
+    "tgn:name":"Comstock Hills",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3167,44.85],"type":"Point"}
+}

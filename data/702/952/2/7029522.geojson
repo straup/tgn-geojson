@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.300000,40.016000]},"type":"Feature","properties":{"hierarchy":["tgn:7029522","tgn:1000001","tgn:1002330","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":7029522,"name:xx":"Bryn Mawr"}}
+{
+  "id": 7029522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029522",
+        "tgn:1000001",
+        "tgn:1002330",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029522,
+    "tgn:name":"Bryn Mawr",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3,40.016],"type":"Point"}
+}

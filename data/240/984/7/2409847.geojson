@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.600000,40.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2409847","tgn:1000001","tgn:1002249","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2409847,"name:xx":"Illinois Valley"}}
+{
+  "id": 2409847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409847",
+        "tgn:1000001",
+        "tgn:1002249",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409847,
+    "tgn:name":"Illinois Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6,40.7833],"type":"Point"}
+}

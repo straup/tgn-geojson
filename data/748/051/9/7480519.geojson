@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.567778,23.906944]},"type":"Feature","properties":{"hierarchy":["tgn:7480519","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7480519,"name:xx":"Hualian Nongchang"}}
+{
+  "id": 7480519,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480519",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480519,
+    "tgn:name":"Hualian Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.567778,23.906944],"type":"Point"}
+}

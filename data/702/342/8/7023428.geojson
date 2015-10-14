@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-72.216700,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7023428","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":7023428,"name:xx":"Millers River Reservoir"}}
+{
+  "id": 7023428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023428",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023428,
+    "tgn:name":"Millers River Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2167,42.5833],"type":"Point"}
+}

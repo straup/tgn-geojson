@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.783300,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2768261","tgn:1000001","tgn:7016098","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300132316"],"id":2768261,"name:xx":"Whites Neck Creek"}}
+{
+  "id": 2768261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768261",
+        "tgn:1000001",
+        "tgn:7016098",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768261,
+    "tgn:name":"Whites Neck Creek",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.7833,38.25],"type":"Point"}
+}

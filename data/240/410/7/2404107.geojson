@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.250000,37.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2404107","tgn:1000001","tgn:7012149","tgn:2001195","tgn:7007523","tgn:7029392"],"placetype":["aat:300008697"],"id":2404107,"name:xx":"Howes Mill Spring"}}
+{
+  "id": 2404107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404107",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001195",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404107,
+    "tgn:name":"Howes Mill Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.25,37.6333],"type":"Point"}
+}

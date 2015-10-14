@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.466700,34.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2401429","tgn:1000001","tgn:2001471","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008905"],"id":2401429,"name:xx":"Horseshoe Bay"}}
+{
+  "id": 2401429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401429",
+        "tgn:1000001",
+        "tgn:2001471",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401429,
+    "tgn:name":"Horseshoe Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4667,34.4833],"type":"Point"}
+}

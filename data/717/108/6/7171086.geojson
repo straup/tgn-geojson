@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.933333,49.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7171086","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7171086,"name:xx":"Himmelreich"}}
+{
+  "id": 7171086,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171086",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171086,
+    "tgn:name":"Himmelreich",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.933333,49.05],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7264870,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ef48c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751486",
+        "gp:id":731386,
+        "qs:id":5,
+        "wof:id":101839339
+    },
+    "tgn:hierarchy":[
+        "tgn:7264870",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264870,
+    "tgn:name:nl":"Loo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.333333,51.316667],"type":"Point"}
+}

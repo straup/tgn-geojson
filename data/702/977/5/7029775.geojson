@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.000000,43.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7029775","tgn:7002878","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"id":7029775,"name:xx":"Pouillon"}}
+{
+  "id": 7029775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029775",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029775,
+    "tgn:name":"Pouillon",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.0,43.6],"type":"Point"}
+}

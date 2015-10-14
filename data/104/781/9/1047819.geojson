@@ -1,0 +1,27 @@
+{
+  "id": 1047819,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0d7a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754841",
+        "gp:id":729727,
+        "qs:id":3,
+        "wof:id":101754889
+    },
+    "tgn:hierarchy":[
+        "tgn:1047819",
+        "tgn:1000003",
+        "tgn:7003613",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047819,
+    "tgn:name:nl":"Haren",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.6,53.166667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.283300,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2151387","tgn:1000001","tgn:7012149","tgn:1002827","tgn:7007252","tgn:7029392"],"placetype":["aat:300266640"],"id":2151387,"name:xx":"Bates Ridge"}}
+{
+  "id": 2151387,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151387",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002827",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151387,
+    "tgn:name":"Bates Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2833,38.9333],"type":"Point"}
+}

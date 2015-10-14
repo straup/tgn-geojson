@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.350000,29.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7365575","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7365575,"name:xx":"Encinillas, Laguna de"}}
+{
+  "id": 7365575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365575",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365575,
+    "tgn:name":"Encinillas, Laguna de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.35,29.466667],"type":"Point"}
+}

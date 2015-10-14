@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.400000,50.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7241015","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7241015,"name:xx":"Ferme Foriest"}}
+{
+  "id": 7241015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241015",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241015,
+    "tgn:name":"Ferme Foriest",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.4,50.616667],"type":"Point"}
+}

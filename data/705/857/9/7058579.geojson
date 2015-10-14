@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.983333,40.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7058579","tgn:1003468","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300000745"],"id":7058579,"name:xx":"Borgo"}}
+{
+  "id": 7058579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058579",
+        "tgn:1003468",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058579,
+    "tgn:name":"Borgo",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.983333,40.05],"type":"Point"}
+}

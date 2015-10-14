@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.233300,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2159035","tgn:1000001","tgn:7012149","tgn:2002169","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2159035,"name:xx":"Becky Spring Cave"}}
+{
+  "id": 2159035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159035",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002169",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159035,
+    "tgn:name":"Becky Spring Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2333,36.6],"type":"Point"}
+}

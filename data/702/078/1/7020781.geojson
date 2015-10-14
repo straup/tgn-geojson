@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.383300,38.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7020781","tgn:1000001","tgn:7016098","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300132316"],"id":7020781,"name:xx":"Calvert Bay"}}
+{
+  "id": 7020781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020781",
+        "tgn:1000001",
+        "tgn:7016098",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020781,
+    "tgn:name":"Calvert Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.3833,38.1],"type":"Point"}
+}

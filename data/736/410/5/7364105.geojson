@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.783333,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7364105","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364105,"name:xx":"Rancho El Chupadero"}}
+{
+  "id": 7364105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364105",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364105,
+    "tgn:name":"Rancho El Chupadero",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.783333,29.4],"type":"Point"}
+}

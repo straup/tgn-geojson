@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.300000,52.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7027285","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027285,"name:ang":"Glatune"}}
+{
+  "id": 7027285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027285",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027285,
+    "tgn:name:ang":"Glatune",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.3,52.45],"type":"Point"}
+}

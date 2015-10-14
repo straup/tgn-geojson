@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.655554,24.710493]},"type":"Feature","properties":{"hierarchy":["tgn:7476072","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7476072,"name:xx":"Zhonghuacun Qiao"}}
+{
+  "id": 7476072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476072",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476072,
+    "tgn:name":"Zhonghuacun Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.655554,24.710493],"type":"Point"}
+}

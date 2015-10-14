@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.638200,24.750500]},"type":"Feature","properties":{"hierarchy":["tgn:7473766","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7473766,"name:xx":"Shuanglian Pi"}}
+{
+  "id": 7473766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473766",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473766,
+    "tgn:name":"Shuanglian Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6382,24.7505],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.366700,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2769012","tgn:1000001","tgn:7012149","tgn:2000560","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2769012,"name:xx":"Whittaker Ditch"}}
+{
+  "id": 2769012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769012",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000560",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769012,
+    "tgn:name":"Whittaker Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.3667,38.0333],"type":"Point"}
+}

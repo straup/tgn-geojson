@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.800000,41.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2761972","tgn:1000001","tgn:7012149","tgn:7016020","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2761972,"name:xx":"West Run"}}
+{
+  "id": 2761972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761972",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016020",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761972,
+    "tgn:name":"West Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.8,41.65],"type":"Point"}
+}

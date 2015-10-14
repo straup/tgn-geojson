@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.116700,39.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2763177","tgn:1000001","tgn:7012149","tgn:2002110","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2763177,"name:xx":"Westwater Canyon"}}
+{
+  "id": 2763177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763177",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002110",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763177,
+    "tgn:name":"Westwater Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.1167,39.05],"type":"Point"}
+}

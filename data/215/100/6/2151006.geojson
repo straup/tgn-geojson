@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.700000,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2151006","tgn:1000001","tgn:7012149","tgn:1002564","tgn:7007710","tgn:7029392"],"placetype":["aat:300008680"],"id":2151006,"name:xx":"Bassett Pond"}}
+{
+  "id": 2151006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151006",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002564",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151006,
+    "tgn:name":"Bassett Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7,41.5833],"type":"Point"}
+}

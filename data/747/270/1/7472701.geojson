@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.849783,24.538013]},"type":"Feature","properties":{"hierarchy":["tgn:7472701","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7472701,"name:xx":"Dong'ao Ling"}}
+{
+  "id": 7472701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472701",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472701,
+    "tgn:name":"Dong'ao Ling",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.849783,24.538013],"type":"Point"}
+}

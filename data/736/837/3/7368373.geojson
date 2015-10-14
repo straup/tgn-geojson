@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.166667,25.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7368373","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368373,"name:xx":"Ilama"}}
+{
+  "id": 7368373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368373",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368373,
+    "tgn:name":"Ilama",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.166667,25.25],"type":"Point"}
+}

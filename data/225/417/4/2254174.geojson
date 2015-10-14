@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.783300,39.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2254174","tgn:1002234","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":2254174,"name:xx":"Coolspring Branch"}}
+{
+  "id": 2254174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254174",
+        "tgn:1002234",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254174,
+    "tgn:name":"Coolspring Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7833,39.1],"type":"Point"}
+}

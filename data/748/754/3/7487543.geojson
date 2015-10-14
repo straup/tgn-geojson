@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.227500,24.882778]},"type":"Feature","properties":{"hierarchy":["tgn:7487543","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487543,"name:xx":"Huangnitang"}}
+{
+  "id": 7487543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487543",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487543,
+    "tgn:name":"Huangnitang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2275,24.882778],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.666667,29.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7379978","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379978,"name:xx":"Maset El Pinal"}}
+{
+  "id": 7379978,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379978",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379978,
+    "tgn:name":"Maset El Pinal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.666667,29.333333],"type":"Point"}
+}

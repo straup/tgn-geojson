@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.800000,28.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765206","tgn:1000001","tgn:7012149","tgn:1002793","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2765206,"name:xx":"Whistler, Lake"}}
+{
+  "id": 2765206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765206",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002793",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765206,
+    "tgn:name":"Whistler, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8,28.0833],"type":"Point"}
+}

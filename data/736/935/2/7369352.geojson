@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.683333,25.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7369352","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7369352,"name:xx":"Guadalupe de Urrea, Quebrada de"}}
+{
+  "id": 7369352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369352",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369352,
+    "tgn:name":"Guadalupe de Urrea, Quebrada de",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.683333,25.033333],"type":"Point"}
+}

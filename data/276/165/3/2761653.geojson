@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.983300,39.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2761653","tgn:1000001","tgn:7012149","tgn:2000209","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2761653,"name:xx":"West Plum Creek"}}
+{
+  "id": 2761653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761653",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000209",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761653,
+    "tgn:name":"West Plum Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.9833,39.1833],"type":"Point"}
+}

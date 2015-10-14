@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.083300,40.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7023313","tgn:1000001","tgn:7012149","tgn:2000226","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7023313,"name:xx":"Loveland Lake"}}
+{
+  "id": 7023313,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023313",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000226",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023313,
+    "tgn:name":"Loveland Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.0833,40.3],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.687736,24.972024]},"type":"Feature","properties":{"hierarchy":["tgn:7487501","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487501,"name:xx":"Moshikeng"}}
+{
+  "id": 7487501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487501",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487501,
+    "tgn:name":"Moshikeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.687736,24.972024],"type":"Point"}
+}

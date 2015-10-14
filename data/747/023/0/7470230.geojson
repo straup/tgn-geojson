@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.283889,24.606667]},"type":"Feature","properties":{"hierarchy":["tgn:7470230","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470230,"name:xx":"Jinlu"}}
+{
+  "id": 7470230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470230",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470230,
+    "tgn:name":"Jinlu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.283889,24.606667],"type":"Point"}
+}

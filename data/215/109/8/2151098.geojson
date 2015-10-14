@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.866700,36.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2151098","tgn:1000001","tgn:2001432","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2151098,"name:xx":"Bat Canyon"}}
+{
+  "id": 2151098,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151098",
+        "tgn:1000001",
+        "tgn:2001432",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151098,
+    "tgn:name":"Bat Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.8667,36.6333],"type":"Point"}
+}

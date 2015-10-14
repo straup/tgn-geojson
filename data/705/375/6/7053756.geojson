@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.116667,41.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7053756","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7053756,"name:xx":"Macchia, Torrente della"}}
+{
+  "id": 7053756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053756",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053756,
+    "tgn:name":"Macchia, Torrente della",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.116667,41.916667],"type":"Point"}
+}

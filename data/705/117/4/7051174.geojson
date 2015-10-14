@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.683333,44.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7051174","tgn:7003128","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7051174,"name:xx":"Canale Naviglio"}}
+{
+  "id": 7051174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051174",
+        "tgn:7003128",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051174,
+    "tgn:name":"Canale Naviglio",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.683333,44.833333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.142433,22.832863]},"type":"Feature","properties":{"hierarchy":["tgn:7486701","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486701,"name:xx":"Liji Cun"}}
+{
+  "id": 7486701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486701",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486701,
+    "tgn:name":"Liji Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.142433,22.832863],"type":"Point"}
+}

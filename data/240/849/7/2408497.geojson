@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.300000,40.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2408497","tgn:1000001","tgn:1002185","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2408497,"name:xx":"Hutchinson Run"}}
+{
+  "id": 2408497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408497",
+        "tgn:1000001",
+        "tgn:1002185",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408497,
+    "tgn:name":"Hutchinson Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3,40.6833],"type":"Point"}
+}

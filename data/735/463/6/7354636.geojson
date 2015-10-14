@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.200000,28.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7354636","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7354636,"name:xx":"Charco, Arroyo del"}}
+{
+  "id": 7354636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354636",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354636,
+    "tgn:name":"Charco, Arroyo del",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2,28.2],"type":"Point"}
+}

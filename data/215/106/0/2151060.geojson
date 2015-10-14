@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.366700,42.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2151060","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2151060,"name:xx":"Bastard Butte"}}
+{
+  "id": 2151060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151060",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151060,
+    "tgn:name":"Bastard Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.3667,42.1333],"type":"Point"}
+}

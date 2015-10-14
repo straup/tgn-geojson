@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.664722,24.695833]},"type":"Feature","properties":{"hierarchy":["tgn:7367549","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367549,"name:xx":"El Valle"}}
+{
+  "id": 7367549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367549",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367549,
+    "tgn:name":"El Valle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.664722,24.695833],"type":"Point"}
+}

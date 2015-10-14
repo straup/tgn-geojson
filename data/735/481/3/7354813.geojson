@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.800000,24.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7354813","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7354813,"name:xx":"Chupadora, Arroyo"}}
+{
+  "id": 7354813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354813",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354813,
+    "tgn:name":"Chupadora, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8,24.983333],"type":"Point"}
+}

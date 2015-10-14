@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.700000,54.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7117274","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117274,"name:xx":"Ostseebad Sellin"}}
+{
+  "id": 7117274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117274",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117274,
+    "tgn:name":"Ostseebad Sellin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.7,54.366667],"type":"Point"}
+}

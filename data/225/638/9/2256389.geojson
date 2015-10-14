@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.900000,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2256389","tgn:1000001","tgn:7012149","tgn:1002818","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2256389,"name:xx":"Copy Run"}}
+{
+  "id": 2256389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256389",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002818",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256389,
+    "tgn:name":"Copy Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9,40.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.183300,48.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2409664","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2409664,"name:xx":"Ike Mountain"}}
+{
+  "id": 2409664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409664",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409664,
+    "tgn:name":"Ike Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.1833,48.7167],"type":"Point"}
+}

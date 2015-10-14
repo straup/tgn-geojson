@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.614651,23.971727]},"type":"Feature","properties":{"hierarchy":["tgn:7488852","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488852,"name:xx":"Nandong Li"}}
+{
+  "id": 7488852,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488852",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488852,
+    "tgn:name":"Nandong Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.614651,23.971727],"type":"Point"}
+}

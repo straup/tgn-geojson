@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.450000,49.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7241877","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7241877,"name:xx":"Le Grand Bois"}}
+{
+  "id": 7241877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241877",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241877,
+    "tgn:name":"Le Grand Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.45,49.65],"type":"Point"}
+}

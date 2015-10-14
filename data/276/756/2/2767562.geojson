@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.866700,33.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2767562","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2767562,"name:xx":"White Water Mesa Tank"}}
+{
+  "id": 2767562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767562",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767562,
+    "tgn:name":"White Water Mesa Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8667,33.35],"type":"Point"}
+}

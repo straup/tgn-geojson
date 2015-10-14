@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.133300,45.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2150769","tgn:1000001","tgn:2002321","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300008791"],"id":2150769,"name:xx":"Bass Island"}}
+{
+  "id": 2150769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150769",
+        "tgn:1000001",
+        "tgn:2002321",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150769,
+    "tgn:name":"Bass Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1333,45.8833],"type":"Point"}
+}

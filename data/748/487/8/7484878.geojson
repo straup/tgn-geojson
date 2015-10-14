@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.398611,23.389444]},"type":"Feature","properties":{"hierarchy":["tgn:7484878","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7484878,"name:xx":"Jiangjun Pi"}}
+{
+  "id": 7484878,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484878",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484878,
+    "tgn:name":"Jiangjun Pi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.398611,23.389444],"type":"Point"}
+}

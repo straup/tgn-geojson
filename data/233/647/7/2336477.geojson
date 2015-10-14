@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.316700,44.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2336477","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008791"],"id":2336477,"name:xx":"Four Brothers, The"}}
+{
+  "id": 2336477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336477,
+    "tgn:name":"Four Brothers, The",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.3167,44.4167],"type":"Point"}
+}

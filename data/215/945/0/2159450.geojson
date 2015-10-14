@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.600000,37.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2159450","tgn:1000001","tgn:7012149","tgn:2002304","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2159450,"name:xx":"Bee Fork"}}
+{
+  "id": 2159450,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002304",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159450,
+    "tgn:name":"Bee Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6,37.6333],"type":"Point"}
+}

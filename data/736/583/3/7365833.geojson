@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.283333,28.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7365833","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365833,"name:xx":"Rancho Ensenada Chica"}}
+{
+  "id": 7365833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365833",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365833,
+    "tgn:name":"Rancho Ensenada Chica",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.283333,28.133333],"type":"Point"}
+}

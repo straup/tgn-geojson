@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.566667,25.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7376458","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7376458,"name:xx":"Rancho La Sabaneta"}}
+{
+  "id": 7376458,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376458",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376458,
+    "tgn:name":"Rancho La Sabaneta",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.566667,25.366667],"type":"Point"}
+}

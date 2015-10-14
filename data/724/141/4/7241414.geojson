@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.785746,50.805279]},"type":"Feature","properties":{"hierarchy":["tgn:7241414","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241414,"name:xx":"Le Culot"}}
+{
+  "id": 7241414,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241414",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241414,
+    "tgn:name":"Le Culot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.785746,50.805279],"type":"Point"}
+}

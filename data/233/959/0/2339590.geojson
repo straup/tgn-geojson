@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.083300,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2339590","tgn:1000001","tgn:7012149","tgn:1002751","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2339590,"name:xx":"Frederick, Lake"}}
+{
+  "id": 2339590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339590",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002751",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339590,
+    "tgn:name":"Frederick, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0833,41.3333],"type":"Point"}
+}

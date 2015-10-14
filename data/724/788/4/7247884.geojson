@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.750000,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7247884","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247884,"name:xx":"De Maat"}}
+{
+  "id": 7247884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247884",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247884,
+    "tgn:name":"De Maat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.75,51.216667],"type":"Point"}
+}

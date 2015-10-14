@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.690457,22.905600]},"type":"Feature","properties":{"hierarchy":["tgn:7474950","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474950,"name:xx":"Wanshan Cun"}}
+{
+  "id": 7474950,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474950",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474950,
+    "tgn:name":"Wanshan Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.690457,22.9056],"type":"Point"}
+}

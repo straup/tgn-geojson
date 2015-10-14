@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.716700,29.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2153026","tgn:1000001","tgn:7012149","tgn:1002401","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2153026,"name:xx":"Beacon Bayou"}}
+{
+  "id": 2153026,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153026",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002401",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153026,
+    "tgn:name":"Beacon Bayou",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.7167,29.3833],"type":"Point"}
+}

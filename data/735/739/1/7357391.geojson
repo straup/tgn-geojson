@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.583333,30.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7357391","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7357391,"name:xx":"Corral de Piedra, Sierra"}}
+{
+  "id": 7357391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357391",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357391,
+    "tgn:name":"Corral de Piedra, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.583333,30.966667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.483333,23.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7370211","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370211,"name:xx":"Jaltomate"}}
+{
+  "id": 7370211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370211",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370211,
+    "tgn:name":"Jaltomate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.483333,23.716667],"type":"Point"}
+}

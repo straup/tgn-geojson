@@ -1,0 +1,24 @@
+{
+  "id": 2012847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2012847",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014475",
+        "tgn:7029392"
+    ],
+    "tgn:id":2012847,
+    "tgn:name":"Mountain View",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387300"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.0667,37.3833],"type":"Point"}
+}

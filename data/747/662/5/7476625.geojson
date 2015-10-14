@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.658354,23.660055]},"type":"Feature","properties":{"hierarchy":["tgn:7476625","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476625,"name:xx":"Niaoyu Yugang"}}
+{
+  "id": 7476625,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476625",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476625,
+    "tgn:name":"Niaoyu Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.658354,23.660055],"type":"Point"}
+}

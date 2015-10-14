@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.883333,42.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7029668","tgn:7001155","tgn:1000003","tgn:7002790","tgn:1000095","tgn:7029392"],"placetype":["aat:300008347"],"id":7029668,"name:xx":"Cirauqui"}}
+{
+  "id": 7029668,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029668",
+        "tgn:7001155",
+        "tgn:1000003",
+        "tgn:7002790",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029668,
+    "tgn:name":"Cirauqui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.883333,42.666667],"type":"Point"}
+}

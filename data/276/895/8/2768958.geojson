@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.400000,42.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2768958","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2768958,"name:xx":"Whitneys"}}
+{
+  "id": 2768958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768958",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768958,
+    "tgn:name":"Whitneys",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.4,42.2333],"type":"Point"}
+}

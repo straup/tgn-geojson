@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.196667,23.117222]},"type":"Feature","properties":{"hierarchy":["tgn:7487953","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487953,"name:xx":"Nanhaibu"}}
+{
+  "id": 7487953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487953",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487953,
+    "tgn:name":"Nanhaibu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.196667,23.117222],"type":"Point"}
+}

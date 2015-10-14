@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.383333,42.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7055469","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055469,"name:xx":"Poggi Alti"}}
+{
+  "id": 7055469,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055469",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055469,
+    "tgn:name":"Poggi Alti",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.383333,42.75],"type":"Point"}
+}

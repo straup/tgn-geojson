@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.066700,38.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2331322","tgn:1000001","tgn:7012149","tgn:2002110","tgn:7007827","tgn:7029392"],"placetype":["aat:300008798"],"id":2331322,"name:xx":"Flatiron Hill"}}
+{
+  "id": 2331322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331322",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002110",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331322,
+    "tgn:name":"Flatiron Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0667,38.9],"type":"Point"}
+}

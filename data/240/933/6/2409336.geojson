@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.200000,46.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2409336","tgn:1000001","tgn:7012149","tgn:2001281","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2409336,"name:xx":"Ida M Mine"}}
+{
+  "id": 2409336,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409336",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001281",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409336,
+    "tgn:name":"Ida M Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2,46.3167],"type":"Point"}
+}

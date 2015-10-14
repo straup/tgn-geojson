@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.833333,19.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7352569","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352569,"name:xx":"Amarillas, Cerro las"}}
+{
+  "id": 7352569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352569",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352569,
+    "tgn:name":"Amarillas, Cerro las",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.833333,19.25],"type":"Point"}
+}

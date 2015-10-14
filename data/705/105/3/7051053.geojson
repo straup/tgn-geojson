@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.650000,43.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7051053","tgn:1000003","tgn:7003141","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051053,"name:xx":"Piani di Vallecrosia"}}
+{
+  "id": 7051053,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051053",
+        "tgn:1000003",
+        "tgn:7003141",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051053,
+    "tgn:name":"Piani di Vallecrosia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.65,43.783333],"type":"Point"}
+}

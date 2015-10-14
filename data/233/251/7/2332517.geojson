@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-84.950000,32.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2332517","tgn:1000001","tgn:7012149","tgn:2000363","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680","aat:300006191"],"id":2332517,"name:xx":"Florence, Lake"}}
+{
+  "id": 2332517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332517",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000363",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332517,
+    "tgn:name":"Florence, Lake",
+    "tgn:placetype":[
+        "aat:300008680",
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.95,32.7667],"type":"Point"}
+}

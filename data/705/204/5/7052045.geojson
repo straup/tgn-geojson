@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.033333,46.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7052045","tgn:7002991","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052045,"name:xx":"Morsecca"}}
+{
+  "id": 7052045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052045",
+        "tgn:7002991",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052045,
+    "tgn:name":"Morsecca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.033333,46.183333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,24.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7364793","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7364793,"name:xx":"El Puerto del Muerto"}}
+{
+  "id": 7364793,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364793",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364793,
+    "tgn:name":"El Puerto del Muerto",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,24.2],"type":"Point"}
+}

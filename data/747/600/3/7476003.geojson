@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.914742,24.622385]},"type":"Feature","properties":{"hierarchy":["tgn:7476003","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476003,"name:xx":"Taoping"}}
+{
+  "id": 7476003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476003",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476003,
+    "tgn:name":"Taoping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.914742,24.622385],"type":"Point"}
+}

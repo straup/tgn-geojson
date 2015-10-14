@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.122778,24.614444]},"type":"Feature","properties":{"hierarchy":["tgn:7471802","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471802,"name:xx":"Guize Shan"}}
+{
+  "id": 7471802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471802",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471802,
+    "tgn:name":"Guize Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.122778,24.614444],"type":"Point"}
+}

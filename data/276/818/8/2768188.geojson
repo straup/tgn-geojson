@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.266700,33.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2768188","tgn:1000001","tgn:7012149","tgn:2001163","tgn:7007522","tgn:7029392"],"placetype":["aat:300008347"],"id":2768188,"name:xx":"Whites Creek East"}}
+{
+  "id": 2768188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768188",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001163",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768188,
+    "tgn:name":"Whites Creek East",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2667,33.55],"type":"Point"}
+}

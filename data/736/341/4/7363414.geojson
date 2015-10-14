@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.700000,30.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7363414","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008773"],"id":7363414,"name:xx":"El Alamo, Bajio"}}
+{
+  "id": 7363414,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363414",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363414,
+    "tgn:name":"El Alamo, Bajio",
+    "tgn:placetype":[
+        "aat:300008773"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7,30.6],"type":"Point"}
+}

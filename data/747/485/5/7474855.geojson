@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.533333,22.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7474855","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474855,"name:xx":"Yongshenglu"}}
+{
+  "id": 7474855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474855",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474855,
+    "tgn:name":"Yongshenglu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.533333,22.5],"type":"Point"}
+}

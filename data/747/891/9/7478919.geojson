@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.071944,23.153611]},"type":"Feature","properties":{"hierarchy":["tgn:7478919","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300386871"],"id":7478919,"name:xx":"Qigu Yanchang Xinyantan"}}
+{
+  "id": 7478919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478919",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478919,
+    "tgn:name":"Qigu Yanchang Xinyantan",
+    "tgn:placetype":[
+        "aat:300386871"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.071944,23.153611],"type":"Point"}
+}

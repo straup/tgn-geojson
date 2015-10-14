@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,19.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7350605","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350605,"name:xx":"Apulco"}}
+{
+  "id": 7350605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350605",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350605,
+    "tgn:name":"Apulco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,19.733333],"type":"Point"}
+}

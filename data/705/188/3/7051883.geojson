@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[9.333333,45.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7051883","tgn:7003150","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198","aat:300265612"],"id":7051883,"name:xx":"Peschiera Borromeo"}}
+{
+  "id": 7051883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051883",
+        "tgn:7003150",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051883,
+    "tgn:name":"Peschiera Borromeo",
+    "tgn:placetype":[
+        "aat:300387198",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.333333,45.433333],"type":"Point"}
+}

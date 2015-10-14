@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.166667,21.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7361543","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7361543,"name:xx":"El Jir\u00f3n"}}
+{
+  "id": 7361543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361543",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361543,
+    "tgn:name":"El Jir\u00f3n",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.166667,21.45],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.654800,23.771600]},"type":"Feature","properties":{"hierarchy":["tgn:7475916","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475916,"name:xx":"Xiaxidi"}}
+{
+  "id": 7475916,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475916",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475916,
+    "tgn:name":"Xiaxidi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6548,23.7716],"type":"Point"}
+}

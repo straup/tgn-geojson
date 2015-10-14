@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.036111,24.882222]},"type":"Feature","properties":{"hierarchy":["tgn:7480592","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480592,"name:xx":"Wangyelong Erhao Qiao"}}
+{
+  "id": 7480592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480592",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480592,
+    "tgn:name":"Wangyelong Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.036111,24.882222],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.266700,47.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2760689","tgn:1000001","tgn:2001013","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2760689,"name:xx":"West Four Legged Lake"}}
+{
+  "id": 2760689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760689",
+        "tgn:1000001",
+        "tgn:2001013",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760689,
+    "tgn:name":"West Four Legged Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.2667,47.6333],"type":"Point"}
+}

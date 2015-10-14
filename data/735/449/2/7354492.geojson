@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.433333,19.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7354492","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7354492,"name:xx":"Caseta Forestal"}}
+{
+  "id": 7354492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354492",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354492,
+    "tgn:name":"Caseta Forestal",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.433333,19.683333],"type":"Point"}
+}

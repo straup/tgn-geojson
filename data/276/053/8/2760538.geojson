@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-151.583300,68.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2760538","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008707"],"id":2760538,"name:xx":"West Fork Tuluga River"}}
+{
+  "id": 2760538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760538",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760538,
+    "tgn:name":"West Fork Tuluga River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-151.5833,68.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.348980,23.105635]},"type":"Feature","properties":{"hierarchy":["tgn:7479122","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479122,"name:xx":"Beitian Gong"}}
+{
+  "id": 7479122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479122",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479122,
+    "tgn:name":"Beitian Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.34898,23.105635],"type":"Point"}
+}

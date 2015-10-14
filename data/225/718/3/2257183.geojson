@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.916700,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2257183","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2257183,"name:xx":"Corner Reservoir"}}
+{
+  "id": 2257183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257183",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257183,
+    "tgn:name":"Corner Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.9167,41.6833],"type":"Point"}
+}

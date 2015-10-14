@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.038611,23.474167]},"type":"Feature","properties":{"hierarchy":["tgn:7489960","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7489960,"name:xx":"Dasuiku Shan"}}
+{
+  "id": 7489960,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489960",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489960,
+    "tgn:name":"Dasuiku Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.038611,23.474167],"type":"Point"}
+}

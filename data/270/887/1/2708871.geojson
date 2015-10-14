@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.100000,37.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2708871","tgn:1000001","tgn:7012149","tgn:2000831","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2708871,"name:xx":"Sympkins Branch"}}
+{
+  "id": 2708871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708871",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000831",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708871,
+    "tgn:name":"Sympkins Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1,37.9167],"type":"Point"}
+}

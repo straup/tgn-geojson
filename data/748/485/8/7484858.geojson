@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.639444,23.156389]},"type":"Feature","properties":{"hierarchy":["tgn:7484858","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484858,"name:xx":"Jiaobu Xi"}}
+{
+  "id": 7484858,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484858",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484858,
+    "tgn:name":"Jiaobu Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.639444,23.156389],"type":"Point"}
+}

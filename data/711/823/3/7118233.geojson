@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.394167,48.118056]},"type":"Feature","properties":{"hierarchy":["tgn:7118233","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7118233,"name:xx":"Bahnhof Peterzell K\u00f6nigsfeld"}}
+{
+  "id": 7118233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118233",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118233,
+    "tgn:name":"Bahnhof Peterzell K\u00f6nigsfeld",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.394167,48.118056],"type":"Point"}
+}

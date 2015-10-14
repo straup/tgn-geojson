@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.950000,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2765876","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014005","tgn:7029392"],"placetype":["aat:300008761"],"id":2765876,"name:xx":"White Gulch"}}
+{
+  "id": 2765876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765876",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765876,
+    "tgn:name":"White Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.95,38.1833],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1048247,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f28584-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744344",
+        "gp:id":56075301,
+        "qs:id":4,
+        "wof:id":101838027
+    },
+    "tgn:hierarchy":[
+        "tgn:1048247",
+        "tgn:1000003",
+        "tgn:7003613",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048247,
+    "tgn:name:nl":"Winschoten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.033333,53.15],"type":"Point"}
+}

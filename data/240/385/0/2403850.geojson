@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.166700,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2403850","tgn:1000001","tgn:2002316","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300266640"],"id":2403850,"name:xx":"Howarth Ridge"}}
+{
+  "id": 2403850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403850",
+        "tgn:1000001",
+        "tgn:2002316",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403850,
+    "tgn:name":"Howarth Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1667,43.4],"type":"Point"}
+}

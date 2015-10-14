@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.800000,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2767926","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300008761"],"id":2767926,"name:xx":"Whiteman Canyon"}}
+{
+  "id": 2767926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767926",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767926,
+    "tgn:name":"Whiteman Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8,40.3333],"type":"Point"}
+}

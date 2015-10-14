@@ -1,0 +1,27 @@
+{
+  "id": 1047925,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f147a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751424",
+        "gp:id":731412,
+        "qs:id":6,
+        "wof:id":101807147
+    },
+    "tgn:hierarchy":[
+        "tgn:1047925",
+        "tgn:1000003",
+        "tgn:7003626",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047925,
+    "tgn:name:nl":"Losser",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.016667,52.266667],"type":"Point"}
+}

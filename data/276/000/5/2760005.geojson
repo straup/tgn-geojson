@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.716700,46.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2760005","tgn:1000001","tgn:2001007","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008707"],"id":2760005,"name:xx":"West Fork Moose Horn River"}}
+{
+  "id": 2760005,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760005",
+        "tgn:1000001",
+        "tgn:2001007",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760005,
+    "tgn:name":"West Fork Moose Horn River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.7167,46.6],"type":"Point"}
+}

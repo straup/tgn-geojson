@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.494051,23.243730]},"type":"Feature","properties":{"hierarchy":["tgn:7480893","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7480893,"name:xx":"Sanjian Shan"}}
+{
+  "id": 7480893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480893",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480893,
+    "tgn:name":"Sanjian Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.494051,23.24373],"type":"Point"}
+}

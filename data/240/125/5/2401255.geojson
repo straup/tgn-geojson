@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.200000,30.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2401255","tgn:1000001","tgn:7012149","tgn:2000383","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2401255,"name:xx":"Horselot Lake"}}
+{
+  "id": 2401255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401255",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000383",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401255,
+    "tgn:name":"Horselot Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2,30.6833],"type":"Point"}
+}

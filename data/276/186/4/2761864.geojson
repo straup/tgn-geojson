@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.033300,46.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2761864","tgn:1000001","tgn:2001600","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300008798"],"id":2761864,"name:xx":"West Rainy Butte"}}
+{
+  "id": 2761864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761864",
+        "tgn:1000001",
+        "tgn:2001600",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761864,
+    "tgn:name":"West Rainy Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0333,46.4833],"type":"Point"}
+}

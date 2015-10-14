@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.133333,26.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7362244","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362244,"name:xx":"Rancho El Pantano"}}
+{
+  "id": 7362244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362244",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362244,
+    "tgn:name":"Rancho El Pantano",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.133333,26.633333],"type":"Point"}
+}

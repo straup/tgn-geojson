@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.166700,31.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2767908","tgn:1000001","tgn:7012149","tgn:1002486","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2767908,"name:xx":"Whiteley Creek"}}
+{
+  "id": 2767908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002486",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767908,
+    "tgn:name":"Whiteley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.1667,31.4],"type":"Point"}
+}

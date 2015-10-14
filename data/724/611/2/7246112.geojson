@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.059452,50.248717]},"type":"Feature","properties":{"hierarchy":["tgn:7246112","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246112,"name:xx":"Conneux"}}
+{
+  "id": 7246112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246112",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246112,
+    "tgn:name":"Conneux",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.059452,50.248717],"type":"Point"}
+}

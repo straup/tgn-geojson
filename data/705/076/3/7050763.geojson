@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.033333,39.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7050763","tgn:7024841","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050763,"name:xx":"Nic\u00e0, Fiume"}}
+{
+  "id": 7050763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050763",
+        "tgn:7024841",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050763,
+    "tgn:name":"Nic\u00e0, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.033333,39.483333],"type":"Point"}
+}

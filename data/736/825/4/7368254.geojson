@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.183333,19.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7368254","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368254,"name:xx":"Jos\u00e9 Mar\u00eda Morelos"}}
+{
+  "id": 7368254,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368254",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368254,
+    "tgn:name":"Jos\u00e9 Mar\u00eda Morelos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.183333,19.666667],"type":"Point"}
+}

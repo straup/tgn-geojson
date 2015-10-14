@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.433333,25.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7377791","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377791,"name:xx":"Rancho Las Carracas"}}
+{
+  "id": 7377791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377791",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377791,
+    "tgn:name":"Rancho Las Carracas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.433333,25.3],"type":"Point"}
+}

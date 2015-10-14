@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.316667,45.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7055297","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055297,"name:xx":"Missirola"}}
+{
+  "id": 7055297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055297",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055297,
+    "tgn:name":"Missirola",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.316667,45.366667],"type":"Point"}
+}

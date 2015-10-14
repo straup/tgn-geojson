@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-155.350000,19.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2333787","tgn:7023902","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300055621"],"id":2333787,"name:xx":"Footprints"}}
+{
+  "id": 2333787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333787",
+        "tgn:7023902",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333787,
+    "tgn:name":"Footprints",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-155.35,19.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.166700,33.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2408592","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000060","tgn:7029392"],"placetype":["aat:300006191"],"id":2408592,"name:xx":"Huttos Lake"}}
+{
+  "id": 2408592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408592",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000060",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408592,
+    "tgn:name":"Huttos Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1667,33.4833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-151.950000,68.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2334782","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008798"],"id":2334782,"name:xx":"Fork Peak"}}
+{
+  "id": 2334782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334782",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334782,
+    "tgn:name":"Fork Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-151.95,68.0],"type":"Point"}
+}

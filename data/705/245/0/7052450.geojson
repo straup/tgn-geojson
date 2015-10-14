@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.300000,37.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7052450","tgn:1000003","tgn:7003122","tgn:1001753","tgn:1000080","tgn:7029392"],"placetype":["aat:300004792"],"id":7052450,"name:xx":"Castello Maniace"}}
+{
+  "id": 7052450,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052450",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1001753",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052450,
+    "tgn:name":"Castello Maniace",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.3,37.05],"type":"Point"}
+}

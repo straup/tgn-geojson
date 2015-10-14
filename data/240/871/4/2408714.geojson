@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.983300,32.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2408714","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000031","tgn:7029392"],"placetype":["aat:300008347"],"id":2408714,"name:xx":"Hycutt"}}
+{
+  "id": 2408714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408714",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000031",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408714,
+    "tgn:name":"Hycutt",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9833,32.7],"type":"Point"}
+}

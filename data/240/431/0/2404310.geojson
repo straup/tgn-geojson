@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.566700,38.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2404310","tgn:1000001","tgn:2001417","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008699"],"id":2404310,"name:xx":"Hu-Pwi Wash"}}
+{
+  "id": 2404310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404310",
+        "tgn:1000001",
+        "tgn:2001417",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404310,
+    "tgn:name":"Hu-Pwi Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.5667,38.9],"type":"Point"}
+}

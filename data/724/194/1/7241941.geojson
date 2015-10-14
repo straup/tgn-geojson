@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.733333,50.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7241941","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7241941,"name:xx":"Ferme Linsmeau"}}
+{
+  "id": 7241941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241941",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241941,
+    "tgn:name":"Ferme Linsmeau",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.733333,50.75],"type":"Point"}
+}

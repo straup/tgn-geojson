@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.672154,24.205935]},"type":"Feature","properties":{"hierarchy":["tgn:7472382","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7472382,"name:xx":"Shigong Xi"}}
+{
+  "id": 7472382,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472382",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472382,
+    "tgn:name":"Shigong Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.672154,24.205935],"type":"Point"}
+}

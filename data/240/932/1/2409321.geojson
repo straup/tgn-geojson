@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.850000,47.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2409321","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2409321,"name:xx":"Ida Creek"}}
+{
+  "id": 2409321,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409321",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409321,
+    "tgn:name":"Ida Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.85,47.6333],"type":"Point"}
+}

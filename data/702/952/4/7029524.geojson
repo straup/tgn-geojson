@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.166000,18.916000]},"type":"Feature","properties":{"hierarchy":["tgn:7029524","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300000810"],"id":7029524,"name:xx":"Hueyatlaco"}}
+{
+  "id": 7029524,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029524",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029524,
+    "tgn:name":"Hueyatlaco",
+    "tgn:placetype":[
+        "aat:300000810"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.166,18.916],"type":"Point"}
+}

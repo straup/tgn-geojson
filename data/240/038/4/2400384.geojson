@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.833300,41.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2400384","tgn:1000001","tgn:2002102","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2400384,"name:xx":"Horse Heaven Gulch"}}
+{
+  "id": 2400384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400384",
+        "tgn:1000001",
+        "tgn:2002102",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400384,
+    "tgn:name":"Horse Heaven Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.8333,41.9667],"type":"Point"}
+}

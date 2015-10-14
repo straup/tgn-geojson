@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.893932,50.955029]},"type":"Feature","properties":{"hierarchy":["tgn:7242181","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242181,"name:xx":"Kluize"}}
+{
+  "id": 7242181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242181",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242181,
+    "tgn:name":"Kluize",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.893932,50.955029],"type":"Point"}
+}

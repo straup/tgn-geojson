@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.450000,25.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7379155","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7379155,"name:xx":"Mezquital, Islotes del"}}
+{
+  "id": 7379155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379155",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379155,
+    "tgn:name":"Mezquital, Islotes del",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.45,25.233333],"type":"Point"}
+}

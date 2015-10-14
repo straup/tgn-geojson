@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.416667,53.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7174344","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7174344,"name:xx":"Gro\u00dfer Lankensee"}}
+{
+  "id": 7174344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174344",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174344,
+    "tgn:name":"Gro\u00dfer Lankensee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.416667,53.083333],"type":"Point"}
+}

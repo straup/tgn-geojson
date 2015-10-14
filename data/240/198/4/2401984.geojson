@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.516700,36.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2401984","tgn:1000001","tgn:7012149","tgn:2002191","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2401984,"name:xx":"Horseshoe Pit"}}
+{
+  "id": 2401984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401984",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002191",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401984,
+    "tgn:name":"Horseshoe Pit",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5167,36.9167],"type":"Point"}
+}

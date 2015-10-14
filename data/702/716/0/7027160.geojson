@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.750000,52.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7027160","tgn:7002445","tgn:1000003","tgn:7008143","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027160,"name:xx":"Warham"}}
+{
+  "id": 7027160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027160",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008143",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027160,
+    "tgn:name":"Warham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.75,52.05],"type":"Point"}
+}

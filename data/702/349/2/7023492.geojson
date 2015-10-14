@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.966700,40.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7023492","tgn:1000001","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300006075"],"id":7023492,"name:xx":"State Road Lateral"}}
+{
+  "id": 7023492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023492",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023492,
+    "tgn:name":"State Road Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9667,40.2833],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.677000,53.816000]},"type":"Feature","properties":{"hierarchy":["tgn:7029357","tgn:7002445","tgn:1000003","tgn:7019057","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029357,"name:xx":"South Cliffe"}}
+{
+  "id": 7029357,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029357",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019057",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029357,
+    "tgn:name":"South Cliffe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.677,53.816],"type":"Point"}
+}

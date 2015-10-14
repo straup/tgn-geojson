@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.700000,50.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7249656","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300005567"],"id":7249656,"name:xx":"Ch\u00e2teau de Montjardin"}}
+{
+  "id": 7249656,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249656",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249656,
+    "tgn:name":"Ch\u00e2teau de Montjardin",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.7,50.483333],"type":"Point"}
+}

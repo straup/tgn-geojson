@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.523056,23.655278]},"type":"Feature","properties":{"hierarchy":["tgn:7483915","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483915,"name:xx":"Songzi Wanggong"}}
+{
+  "id": 7483915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483915",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483915,
+    "tgn:name":"Songzi Wanggong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.523056,23.655278],"type":"Point"}
+}

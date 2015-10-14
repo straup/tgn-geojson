@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.916667,16.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7368359","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008749"],"id":7368359,"name:xx":"Inal\u00e1mbrica"}}
+{
+  "id": 7368359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368359",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368359,
+    "tgn:name":"Inal\u00e1mbrica",
+    "tgn:placetype":[
+        "aat:300008749"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.916667,16.85],"type":"Point"}
+}

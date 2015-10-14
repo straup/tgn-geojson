@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.883300,48.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2767618","tgn:1000001","tgn:7012149","tgn:2001277","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2767618,"name:xx":"Whitecalf Coulee"}}
+{
+  "id": 2767618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001277",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767618,
+    "tgn:name":"Whitecalf Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.8833,48.3833],"type":"Point"}
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7016845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016845",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016845,
+    "tgn:name:ar":"\u0647\u0648\u064a\u064b\u062f\u0627",
+    "tgn:name:de":"Netherlands",
+    "tgn:name:en":"Nederland",
+    "tgn:name:es":"Pays-Bas",
+    "tgn:name:fr":"Niederlande",
+    "tgn:name:it":"Paesi Bassi",
+    "tgn:name:nl":"Pa\u00edses Bajos",
+    "tgn:name:pt":"Pa\u00edses Baixos",
+    "tgn:name:ru":"\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+    "tgn:name:zh":"\u8377\u5170",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387053",
+        "aat:300387174",
+        "aat:300387189",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.75,52.5],"type":"Point"}
+}

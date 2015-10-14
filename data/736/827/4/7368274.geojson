@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.416667,30.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7368274","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368274,"name:xx":"Joriquipe, Sierra de"}}
+{
+  "id": 7368274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368274",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368274,
+    "tgn:name":"Joriquipe, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.416667,30.366667],"type":"Point"}
+}

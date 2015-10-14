@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.316700,37.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2252741","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002675","tgn:7029392"],"placetype":["aat:300008835"],"id":2252741,"name:xx":"Conness Glacier"}}
+{
+  "id": 2252741,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252741",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002675",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252741,
+    "tgn:name":"Conness Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.3167,37.9667],"type":"Point"}
+}

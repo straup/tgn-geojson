@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.233333,49.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7111757","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7111757,"name:xx":"Rosshaupter Forst"}}
+{
+  "id": 7111757,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111757",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111757,
+    "tgn:name":"Rosshaupter Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.233333,49.25],"type":"Point"}
+}

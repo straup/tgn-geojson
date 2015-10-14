@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.865712,25.000400]},"type":"Feature","properties":{"hierarchy":["tgn:7477102","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477102,"name:xx":"Shuangxi Guoxiao Dinglan Fenbu"}}
+{
+  "id": 7477102,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477102",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477102,
+    "tgn:name":"Shuangxi Guoxiao Dinglan Fenbu",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.865712,25.0004],"type":"Point"}
+}

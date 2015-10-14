@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.333333,23.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7472728","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7472728,"name:xx":"Kataitai, Cape"}}
+{
+  "id": 7472728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472728",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472728,
+    "tgn:name":"Kataitai, Cape",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.333333,23.016667],"type":"Point"}
+}

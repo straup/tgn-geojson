@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.266700,31.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330073","tgn:1000001","tgn:7012149","tgn:2000893","tgn:7007256","tgn:7029392"],"placetype":["aat:300008706"],"id":2330073,"name:xx":"Flagon Creek"}}
+{
+  "id": 2330073,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330073",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000893",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330073,
+    "tgn:name":"Flagon Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2667,31.45],"type":"Point"}
+}

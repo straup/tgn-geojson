@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.850000,34.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2156145","tgn:1000001","tgn:7012149","tgn:2001766","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2156145,"name:xx":"Bearden Branch"}}
+{
+  "id": 2156145,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156145",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001766",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156145,
+    "tgn:name":"Bearden Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.85,34.75],"type":"Point"}
+}

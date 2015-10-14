@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.717500,23.700278]},"type":"Feature","properties":{"hierarchy":["tgn:7482822","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7482822,"name:xx":"Da'an Guoxiao"}}
+{
+  "id": 7482822,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482822",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482822,
+    "tgn:name":"Da'an Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7175,23.700278],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.116700,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2338804","tgn:2001466","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2338804,"name:xx":"Frank Little Pond"}}
+{
+  "id": 2338804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338804",
+        "tgn:2001466",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338804,
+    "tgn:name":"Frank Little Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.1167,34.9],"type":"Point"}
+}

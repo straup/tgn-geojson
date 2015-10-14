@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.350000,46.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7057371","tgn:1003440","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057371,"name:xx":"Avigna"}}
+{
+  "id": 7057371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057371",
+        "tgn:1003440",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057371,
+    "tgn:name":"Avigna",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.35,46.566667],"type":"Point"}
+}

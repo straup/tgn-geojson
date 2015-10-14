@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.278889,22.934167]},"type":"Feature","properties":{"hierarchy":["tgn:7485363","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7485363,"name:xx":"Qili Xi"}}
+{
+  "id": 7485363,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485363",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485363,
+    "tgn:name":"Qili Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.278889,22.934167],"type":"Point"}
+}

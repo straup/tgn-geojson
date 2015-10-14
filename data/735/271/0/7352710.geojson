@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.500000,27.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7352710","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7352710,"name:xx":"Rancho Basigochic Grande"}}
+{
+  "id": 7352710,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352710",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352710,
+    "tgn:name":"Rancho Basigochic Grande",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5,27.133333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.850000,54.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7179476","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7179476,"name:xx":"Haasberger See"}}
+{
+  "id": 7179476,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179476",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179476,
+    "tgn:name":"Haasberger See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.85,54.9],"type":"Point"}
+}

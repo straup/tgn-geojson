@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.416667,51.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7171185","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7171185,"name:xx":"Herz-Berg"}}
+{
+  "id": 7171185,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171185",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171185,
+    "tgn:name":"Herz-Berg",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.416667,51.883333],"type":"Point"}
+}

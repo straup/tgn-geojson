@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.633300,26.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2337641","tgn:1000001","tgn:7012149","tgn:1002582","tgn:7007240","tgn:7029392"],"placetype":["aat:300006075"],"id":2337641,"name:xx":"Fox Canal"}}
+{
+  "id": 2337641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002582",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337641,
+    "tgn:name":"Fox Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6333,26.65],"type":"Point"}
+}

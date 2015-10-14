@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.216700,44.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2150608","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2150608,"name:xx":"Basinger Canyon"}}
+{
+  "id": 2150608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150608",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150608,
+    "tgn:name":"Basinger Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.2167,44.2333],"type":"Point"}
+}

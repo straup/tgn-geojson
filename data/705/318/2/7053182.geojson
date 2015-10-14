@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.066667,41.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7053182","tgn:1003464","tgn:1000003","tgn:7003241","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053182,"name:xx":"Montenero Val Cocchiara"}}
+{
+  "id": 7053182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053182",
+        "tgn:1003464",
+        "tgn:1000003",
+        "tgn:7003241",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053182,
+    "tgn:name":"Montenero Val Cocchiara",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.066667,41.716667],"type":"Point"}
+}

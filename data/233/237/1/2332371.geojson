@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.033300,37.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2332371","tgn:1000001","tgn:7012149","tgn:2000821","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2332371,"name:xx":"Flora Holliday Branch"}}
+{
+  "id": 2332371,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332371",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000821",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332371,
+    "tgn:name":"Flora Holliday Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0333,37.6167],"type":"Point"}
+}

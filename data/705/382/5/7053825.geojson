@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.633333,39.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7053825","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300004847"],"id":7053825,"name:xx":"Torre di Porto Corallo"}}
+{
+  "id": 7053825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053825",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053825,
+    "tgn:name":"Torre di Porto Corallo",
+    "tgn:placetype":[
+        "aat:300004847"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.633333,39.433333],"type":"Point"}
+}

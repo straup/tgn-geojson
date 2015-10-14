@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-163.183300,54.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2409635","tgn:7030515","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2409635,"name:xx":"Ikatan Point"}}
+{
+  "id": 2409635,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409635",
+        "tgn:7030515",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409635,
+    "tgn:name":"Ikatan Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-163.1833,54.7667],"type":"Point"}
+}

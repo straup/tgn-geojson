@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.121284,23.312249]},"type":"Feature","properties":{"hierarchy":["tgn:7480630","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480630,"name:xx":"Shuangchun Sanhao Qiao"}}
+{
+  "id": 7480630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480630",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480630,
+    "tgn:name":"Shuangchun Sanhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.121284,23.312249],"type":"Point"}
+}

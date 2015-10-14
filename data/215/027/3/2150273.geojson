@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-73.466700,42.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2150273","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2150273,"name:xx":"Bash Bish Brook"}}
+{
+  "id": 2150273,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150273",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150273,
+    "tgn:name":"Bash Bish Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.4667,42.0833],"type":"Point"}
+}

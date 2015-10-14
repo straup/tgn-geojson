@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.883333,48.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7112719","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008761"],"id":7112719,"name:xx":"Roggental"}}
+{
+  "id": 7112719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112719",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112719,
+    "tgn:name":"Roggental",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.883333,48.65],"type":"Point"}
+}

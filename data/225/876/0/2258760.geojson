@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.600000,47.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2258760","tgn:1000001","tgn:7012149","tgn:2001276","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2258760,"name:xx":"Cottonwood Coulee"}}
+{
+  "id": 2258760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258760",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001276",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258760,
+    "tgn:name":"Cottonwood Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.6,47.3167],"type":"Point"}
+}

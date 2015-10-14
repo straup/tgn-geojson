@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.600000,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2155338","tgn:1000001","tgn:7012149","tgn:2000220","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":2155338,"name:xx":"Bear Park Reservoir"}}
+{
+  "id": 2155338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155338",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000220",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155338,
+    "tgn:name":"Bear Park Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6,40.4833],"type":"Point"}
+}

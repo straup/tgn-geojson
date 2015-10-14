@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.400000,18.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7350281","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350281,"name:xx":"Bitzal, R\u00edo"}}
+{
+  "id": 7350281,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350281",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350281,
+    "tgn:name":"Bitzal, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.4,18.016667],"type":"Point"}
+}

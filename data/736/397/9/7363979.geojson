@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.950000,23.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7363979","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363979,"name:xx":"El Guatamote"}}
+{
+  "id": 7363979,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363979",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363979,
+    "tgn:name":"El Guatamote",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.95,23.116667],"type":"Point"}
+}

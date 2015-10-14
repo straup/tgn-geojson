@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.533300,51.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7026438","tgn:7002445","tgn:1000003","tgn:7008168","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026438,"name:xx":"Kingston Lisle"}}
+{
+  "id": 7026438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026438",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008168",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026438,
+    "tgn:name":"Kingston Lisle",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.5333,51.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.350000,43.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2404503","tgn:2000452","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006191"],"id":2404503,"name:xx":"Hubbard Reservoir"}}
+{
+  "id": 2404503,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404503",
+        "tgn:2000452",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404503,
+    "tgn:name":"Hubbard Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.35,43.5167],"type":"Point"}
+}

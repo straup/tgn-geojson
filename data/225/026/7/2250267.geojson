@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.650000,38.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2250267","tgn:1000001","tgn:1002273","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2250267,"name:xx":"Collins Run"}}
+{
+  "id": 2250267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250267",
+        "tgn:1000001",
+        "tgn:1002273",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250267,
+    "tgn:name":"Collins Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.65,38.45],"type":"Point"}
+}

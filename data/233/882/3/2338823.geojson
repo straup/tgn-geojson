@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.733300,39.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2338823","tgn:1000001","tgn:7012149","tgn:2001212","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":2338823,"name:xx":"Frank Riekhof and William Nuelle Lake"}}
+{
+  "id": 2338823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338823",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001212",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338823,
+    "tgn:name":"Frank Riekhof and William Nuelle Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.7333,39.0],"type":"Point"}
+}

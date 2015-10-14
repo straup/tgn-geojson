@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-71.666700,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2407270","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2407270,"name:xx":"Hunting Hill"}}
+{
+  "id": 2407270,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407270",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407270,
+    "tgn:name":"Hunting Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.6667,42.6],"type":"Point"}
+}

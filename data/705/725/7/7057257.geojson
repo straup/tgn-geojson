@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.266667,44.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7057257","tgn:7003128","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057257,"name:xx":"Bagni"}}
+{
+  "id": 7057257,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057257",
+        "tgn:7003128",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057257,
+    "tgn:name":"Bagni",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.266667,44.8],"type":"Point"}
+}

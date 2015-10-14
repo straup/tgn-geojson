@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.898889,22.094167]},"type":"Feature","properties":{"hierarchy":["tgn:7488121","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7488121,"name:xx":"Nanjin, Cape"}}
+{
+  "id": 7488121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488121",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488121,
+    "tgn:name":"Nanjin, Cape",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.898889,22.094167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.773784,50.728315]},"type":"Feature","properties":{"hierarchy":["tgn:7242407","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242407,"name:xx":"Le Ponchau"}}
+{
+  "id": 7242407,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242407",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242407,
+    "tgn:name":"Le Ponchau",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.773784,50.728315],"type":"Point"}
+}

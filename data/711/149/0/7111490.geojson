@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.483333,49.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7111490","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7111490,"name:xx":"Ross Weiher"}}
+{
+  "id": 7111490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111490",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111490,
+    "tgn:name":"Ross Weiher",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.483333,49.416667],"type":"Point"}
+}

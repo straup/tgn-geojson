@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.400000,39.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2331623","tgn:1000001","tgn:7012149","tgn:1002678","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2331623,"name:xx":"Fleener"}}
+{
+  "id": 2331623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331623",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002678",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331623,
+    "tgn:name":"Fleener",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4,39.2667],"type":"Point"}
+}

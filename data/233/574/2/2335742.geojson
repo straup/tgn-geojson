@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.183300,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2335742","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2335742,"name:xx":"Forty Pond"}}
+{
+  "id": 2335742,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335742",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335742,
+    "tgn:name":"Forty Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1833,42.2833],"type":"Point"}
+}

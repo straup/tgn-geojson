@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.816700,34.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2250390","tgn:1000001","tgn:2001744","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":2250390,"name:xx":"Colonel Creek"}}
+{
+  "id": 2250390,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250390",
+        "tgn:1000001",
+        "tgn:2001744",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250390,
+    "tgn:name":"Colonel Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8167,34.3333],"type":"Point"}
+}

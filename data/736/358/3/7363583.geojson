@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.383333,26.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7363583","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7363583,"name:xx":"El Arroyo Potrerillos"}}
+{
+  "id": 7363583,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363583",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363583,
+    "tgn:name":"El Arroyo Potrerillos",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.383333,26.166667],"type":"Point"}
+}

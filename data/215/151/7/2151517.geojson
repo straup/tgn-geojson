@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.650000,39.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2151517","tgn:1002215","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300006191"],"id":2151517,"name:xx":"Batsto Lake"}}
+{
+  "id": 2151517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151517",
+        "tgn:1002215",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151517,
+    "tgn:name":"Batsto Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.65,39.6333],"type":"Point"}
+}

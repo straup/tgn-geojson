@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.166700,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2332811","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2332811,"name:xx":"Floyd Branch"}}
+{
+  "id": 2332811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332811",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332811,
+    "tgn:name":"Floyd Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1667,37.55],"type":"Point"}
+}

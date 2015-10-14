@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.783300,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2254031","tgn:2002142","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008761"],"id":2254031,"name:xx":"Cool Spring Hollow"}}
+{
+  "id": 2254031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254031",
+        "tgn:2002142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254031,
+    "tgn:name":"Cool Spring Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.7833,38.1333],"type":"Point"}
+}

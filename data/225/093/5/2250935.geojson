@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.450000,42.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2250935","tgn:1000001","tgn:2000466","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300266640"],"id":2250935,"name:xx":"Columbia River Great Basin Divide"}}
+{
+  "id": 2250935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250935",
+        "tgn:1000001",
+        "tgn:2000466",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250935,
+    "tgn:name":"Columbia River Great Basin Divide",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.45,42.6833],"type":"Point"}
+}

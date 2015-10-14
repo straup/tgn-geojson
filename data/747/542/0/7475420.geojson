@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.176667,24.915556]},"type":"Feature","properties":{"hierarchy":["tgn:7475420","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475420,"name:xx":"Caonanpo"}}
+{
+  "id": 7475420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475420",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475420,
+    "tgn:name":"Caonanpo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.176667,24.915556],"type":"Point"}
+}

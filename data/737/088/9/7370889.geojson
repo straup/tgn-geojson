@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.584722,24.733056]},"type":"Feature","properties":{"hierarchy":["tgn:7370889","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370889,"name:xx":"Jes\u00fas Mar\u00eda"}}
+{
+  "id": 7370889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370889",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370889,
+    "tgn:name":"Jes\u00fas Mar\u00eda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.584722,24.733056],"type":"Point"}
+}

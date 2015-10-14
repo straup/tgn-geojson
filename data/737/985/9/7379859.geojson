@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.100000,31.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7379859","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379859,"name:xx":"Milpitas"}}
+{
+  "id": 7379859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379859",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379859,
+    "tgn:name":"Milpitas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.1,31.4],"type":"Point"}
+}

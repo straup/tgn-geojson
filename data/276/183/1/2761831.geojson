@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.800000,31.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2761831","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000026","tgn:7029392"],"placetype":["aat:300008706"],"id":2761831,"name:xx":"West Prong Rock Creek"}}
+{
+  "id": 2761831,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761831",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000026",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761831,
+    "tgn:name":"West Prong Rock Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8,31.05],"type":"Point"}
+}

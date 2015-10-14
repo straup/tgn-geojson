@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.216700,33.416700]},"type":"Feature","properties":{"hierarchy":["tgn:7021948","tgn:1000001","tgn:7006451","tgn:2000095","tgn:7012149","tgn:7029392"],"placetype":["aat:300008697"],"id":7021948,"name:xx":"Yellow Spring"}}
+{
+  "id": 7021948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021948",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000095",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021948,
+    "tgn:name":"Yellow Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.2167,33.4167],"type":"Point"}
+}

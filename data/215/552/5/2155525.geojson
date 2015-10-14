@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.966700,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2155525","tgn:1000001","tgn:7012149","tgn:1002789","tgn:7007710","tgn:7029392"],"placetype":["aat:300008905"],"id":2155525,"name:xx":"Bear Rock Swamp"}}
+{
+  "id": 2155525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155525",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002789",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155525,
+    "tgn:name":"Bear Rock Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.9667,41.2833],"type":"Point"}
+}

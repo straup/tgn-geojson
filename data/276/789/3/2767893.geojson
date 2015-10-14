@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.183300,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2767893","tgn:1000001","tgn:7012149","tgn:7022218","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2767893,"name:xx":"Whitehurst Landing"}}
+{
+  "id": 2767893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767893",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022218",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767893,
+    "tgn:name":"Whitehurst Landing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1833,36.8167],"type":"Point"}
+}

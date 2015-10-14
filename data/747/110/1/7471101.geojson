@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.198333,23.669722]},"type":"Feature","properties":{"hierarchy":["tgn:7471101","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471101,"name:xx":"Qiucuo"}}
+{
+  "id": 7471101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471101",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471101,
+    "tgn:name":"Qiucuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.198333,23.669722],"type":"Point"}
+}

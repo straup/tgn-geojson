@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-9.783300,52.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7024648","tgn:7003498","tgn:7001201","tgn:1000003","tgn:1000078","tgn:7029392"],"placetype":["aat:300008347"],"id":7024648,"name:xx":"Ardfert"}}
+{
+  "id": 7024648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024648",
+        "tgn:7003498",
+        "tgn:7001201",
+        "tgn:1000003",
+        "tgn:1000078",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024648,
+    "tgn:name":"Ardfert",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-9.7833,52.3333],"type":"Point"}
+}

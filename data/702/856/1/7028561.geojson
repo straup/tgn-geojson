@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.518000,52.502000]},"type":"Feature","properties":{"hierarchy":["tgn:7028561","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028561,"name:xx":"Raveningham"}}
+{
+  "id": 7028561,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028561",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028561,
+    "tgn:name":"Raveningham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.518,52.502],"type":"Point"}
+}

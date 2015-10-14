@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.000000,38.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7021265","tgn:1000001","tgn:7012149","tgn:2002284","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021265,"name:xx":"Sugarcamp Branch"}}
+{
+  "id": 7021265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021265",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002284",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021265,
+    "tgn:name":"Sugarcamp Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0,38.3],"type":"Point"}
+}

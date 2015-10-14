@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-145.250000,66.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2402546","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008680"],"id":2402546,"name:xx":"Hospital Lake"}}
+{
+  "id": 2402546,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402546",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402546,
+    "tgn:name":"Hospital Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.25,66.5667],"type":"Point"}
+}

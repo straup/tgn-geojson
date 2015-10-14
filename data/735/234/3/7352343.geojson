@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.416667,17.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7352343","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352343,"name:xx":"Breta\u00f1a"}}
+{
+  "id": 7352343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352343",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352343,
+    "tgn:name":"Breta\u00f1a",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.416667,17.6],"type":"Point"}
+}

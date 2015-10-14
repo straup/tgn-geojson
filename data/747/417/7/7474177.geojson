@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.488293,25.249042]},"type":"Feature","properties":{"hierarchy":["tgn:7474177","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474177,"name:xx":"Hailin Qiao"}}
+{
+  "id": 7474177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474177",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474177,
+    "tgn:name":"Hailin Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.488293,25.249042],"type":"Point"}
+}

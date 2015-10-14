@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.783300,32.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2258449","tgn:2001731","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008791"],"id":2258449,"name:xx":"Cotton Island"}}
+{
+  "id": 2258449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258449",
+        "tgn:2001731",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258449,
+    "tgn:name":"Cotton Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7833,32.4833],"type":"Point"}
+}

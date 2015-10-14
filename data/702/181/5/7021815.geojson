@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.666700,28.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7021815","tgn:1000001","tgn:2001940","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300386994"],"id":7021815,"name:xx":"Chase Field Naval Air Station"}}
+{
+  "id": 7021815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021815",
+        "tgn:1000001",
+        "tgn:2001940",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021815,
+    "tgn:name":"Chase Field Naval Air Station",
+    "tgn:placetype":[
+        "aat:300386994"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.6667,28.35],"type":"Point"}
+}

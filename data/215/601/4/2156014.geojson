@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,39.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2156014","tgn:1000001","tgn:7012149","tgn:1002409","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":2156014,"name:xx":"Bear Wallow Ridge"}}
+{
+  "id": 2156014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156014",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002409",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156014,
+    "tgn:name":"Bear Wallow Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,39.6],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1016795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016795",
+        "tgn:1000512",
+        "tgn:1000001",
+        "tgn:7005554",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016795,
+    "tgn:name":"La Ceiba",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8333,15.7833],"type":"Point"}
+}

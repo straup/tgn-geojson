@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.433300,34.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2250562","tgn:1000001","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008699"],"id":2250562,"name:xx":"Colorada, Ca\u00f1ada"}}
+{
+  "id": 2250562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250562",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250562,
+    "tgn:name":"Colorada, Ca\u00f1ada",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4333,34.9167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.916667,51.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7177561","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177561,"name:xx":"Vorwerk Halber Mond"}}
+{
+  "id": 7177561,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177561",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177561,
+    "tgn:name":"Vorwerk Halber Mond",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.916667,51.016667],"type":"Point"}
+}

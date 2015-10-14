@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.416667,54.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7110545","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300386970"],"id":7110545,"name:xx":"Rauling"}}
+{
+  "id": 7110545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110545",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110545,
+    "tgn:name":"Rauling",
+    "tgn:placetype":[
+        "aat:300386970"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.416667,54.933333],"type":"Point"}
+}

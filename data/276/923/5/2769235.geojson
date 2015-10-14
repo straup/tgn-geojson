@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.316700,36.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2769235","tgn:1000001","tgn:7012149","tgn:1002728","tgn:7007709","tgn:7029392"],"placetype":["aat:300008680"],"id":2769235,"name:xx":"Wiccacanee Pond"}}
+{
+  "id": 2769235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769235",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002728",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769235,
+    "tgn:name":"Wiccacanee Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3167,36.4833],"type":"Point"}
+}

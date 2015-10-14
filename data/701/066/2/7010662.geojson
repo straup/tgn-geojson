@@ -1,0 +1,27 @@
+{
+  "id": 7010662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010662",
+        "tgn:7018767",
+        "tgn:1000003",
+        "tgn:7006413",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010662,
+    "tgn:name:bg":"Varna",
+    "tgn:name:en":"Varna",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387223",
+        "aat:300120599",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[27.95,43.2],"type":"Point"}
+}

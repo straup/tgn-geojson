@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.533300,43.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2156217","tgn:1000001","tgn:7012149","tgn:2002378","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2156217,"name:xx":"Beardsley Number 1 Reservoir"}}
+{
+  "id": 2156217,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156217",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002378",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156217,
+    "tgn:name":"Beardsley Number 1 Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5333,43.3],"type":"Point"}
+}

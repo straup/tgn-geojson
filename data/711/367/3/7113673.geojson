@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.916667,51.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7113673","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7113673,"name:xx":"Rodebach"}}
+{
+  "id": 7113673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113673",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113673,
+    "tgn:name":"Rodebach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.916667,51.616667],"type":"Point"}
+}

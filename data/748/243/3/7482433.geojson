@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.324426,23.077225]},"type":"Feature","properties":{"hierarchy":["tgn:7482433","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482433,"name:xx":"Daiwang Fu"}}
+{
+  "id": 7482433,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482433",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482433,
+    "tgn:name":"Daiwang Fu",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.324426,23.077225],"type":"Point"}
+}

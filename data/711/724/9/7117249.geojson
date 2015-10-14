@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.166667,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7117249","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7117249,"name:xx":"Oberstixner"}}
+{
+  "id": 7117249,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117249",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117249,
+    "tgn:name":"Oberstixner",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.166667,47.6],"type":"Point"}
+}

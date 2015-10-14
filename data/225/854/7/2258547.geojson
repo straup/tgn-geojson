@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.516700,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2258547","tgn:1000001","tgn:7012149","tgn:2000818","tgn:7007255","tgn:7029392"],"placetype":["aat:300008798"],"id":2258547,"name:xx":"Cottonpatch Knob"}}
+{
+  "id": 2258547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258547",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000818",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258547,
+    "tgn:name":"Cottonpatch Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.5167,36.6],"type":"Point"}
+}

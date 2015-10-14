@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.700000,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2252242","tgn:1000001","tgn:7012149","tgn:1002604","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2252242,"name:xx":"Conesus Inlet"}}
+{
+  "id": 2252242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252242",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002604",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252242,
+    "tgn:name":"Conesus Inlet",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7,42.6333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.516700,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2155568","tgn:1000001","tgn:7012149","tgn:2002264","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2155568,"name:xx":"Bear Run"}}
+{
+  "id": 2155568,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155568",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002264",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155568,
+    "tgn:name":"Bear Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5167,38.1333],"type":"Point"}
+}

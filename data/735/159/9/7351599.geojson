@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.590000,24.781111]},"type":"Feature","properties":{"hierarchy":["tgn:7351599","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351599,"name:xx":"Arredondas"}}
+{
+  "id": 7351599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351599",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351599,
+    "tgn:name":"Arredondas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.59,24.781111],"type":"Point"}
+}

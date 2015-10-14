@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.133333,22.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7366223","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366223,"name:xx":"El Tepetate"}}
+{
+  "id": 7366223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366223",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366223,
+    "tgn:name":"El Tepetate",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.133333,22.316667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.366667,52.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7172074","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172074,"name:xx":"Herriehausen"}}
+{
+  "id": 7172074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172074",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172074,
+    "tgn:name":"Herriehausen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.366667,52.233333],"type":"Point"}
+}

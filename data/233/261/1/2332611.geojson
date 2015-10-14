@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.866700,26.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2332611","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008178","aat:300387324"],"id":2332611,"name:xx":"Florida State Miccosukee Indian Reservation"}}
+{
+  "id": 2332611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332611",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332611,
+    "tgn:name":"Florida State Miccosukee Indian Reservation",
+    "tgn:placetype":[
+        "aat:300008178",
+        "aat:300387324"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8667,26.1833],"type":"Point"}
+}

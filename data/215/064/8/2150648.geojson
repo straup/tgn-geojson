@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.550000,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2150648","tgn:2001725","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2150648,"name:xx":"Baskin Branch"}}
+{
+  "id": 2150648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150648",
+        "tgn:2001725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150648,
+    "tgn:name":"Baskin Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.55,34.2],"type":"Point"}
+}

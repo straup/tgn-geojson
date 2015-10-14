@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.116667,21.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7363790","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363790,"name:xx":"El Molote"}}
+{
+  "id": 7363790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363790",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363790,
+    "tgn:name":"El Molote",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.116667,21.433333],"type":"Point"}
+}

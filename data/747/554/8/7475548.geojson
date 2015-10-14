@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.874869,24.648585]},"type":"Feature","properties":{"hierarchy":["tgn:7475548","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475548,"name:xx":"Nangang Xi Qiao"}}
+{
+  "id": 7475548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475548",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475548,
+    "tgn:name":"Nangang Xi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.874869,24.648585],"type":"Point"}
+}

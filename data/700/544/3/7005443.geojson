@@ -1,0 +1,24 @@
+{
+  "id": 7005443,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005443",
+        "tgn:7005437",
+        "tgn:1000047",
+        "tgn:7002455",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005443,
+    "tgn:name":"Recife",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-34.8833,-8.1],"type":"Point"}
+}

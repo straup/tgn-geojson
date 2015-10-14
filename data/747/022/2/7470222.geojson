@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.966667,22.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7470222","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7470222,"name:xx":"Jinlun Yuchang"}}
+{
+  "id": 7470222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470222",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470222,
+    "tgn:name":"Jinlun Yuchang",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.966667,22.533333],"type":"Point"}
+}

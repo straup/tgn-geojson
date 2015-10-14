@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.350000,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2400770","tgn:1000001","tgn:2000316","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008905"],"id":2400770,"name:xx":"Horse Pen Swamp"}}
+{
+  "id": 2400770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400770",
+        "tgn:1000001",
+        "tgn:2000316",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400770,
+    "tgn:name":"Horse Pen Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.35,32.1],"type":"Point"}
+}

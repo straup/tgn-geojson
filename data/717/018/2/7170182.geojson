@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.450000,49.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7170182","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170182,"name:xx":"Hinterbr\u00fcnst"}}
+{
+  "id": 7170182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170182",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170182,
+    "tgn:name":"Hinterbr\u00fcnst",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.45,49.683333],"type":"Point"}
+}

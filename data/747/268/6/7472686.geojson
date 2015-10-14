@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.333333,24.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7472686","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472686,"name:xx":"Dongzhou"}}
+{
+  "id": 7472686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472686",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472686,
+    "tgn:name":"Dongzhou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.333333,24.433333],"type":"Point"}
+}

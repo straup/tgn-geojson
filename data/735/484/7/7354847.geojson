@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.100000,18.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7354847","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354847,"name:xx":"Catatemba"}}
+{
+  "id": 7354847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354847",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354847,
+    "tgn:name":"Catatemba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.1,18.466667],"type":"Point"}
+}

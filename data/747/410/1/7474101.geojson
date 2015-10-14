@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.933380,23.892869]},"type":"Feature","properties":{"hierarchy":["tgn:7474101","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7474101,"name:xx":"Yuchifu Shan"}}
+{
+  "id": 7474101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474101",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474101,
+    "tgn:name":"Yuchifu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.93338,23.892869],"type":"Point"}
+}

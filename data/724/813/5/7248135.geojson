@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.885006,51.059829]},"type":"Feature","properties":{"hierarchy":["tgn:7248135","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248135,"name:xx":"Beerst"}}
+{
+  "id": 7248135,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248135",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248135,
+    "tgn:name":"Beerst",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.885006,51.059829],"type":"Point"}
+}

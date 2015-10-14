@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.033300,39.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2256641","tgn:1000001","tgn:2000671","tgn:7012149","tgn:7007254","tgn:7029392"],"placetype":["aat:300006191"],"id":2256641,"name:xx":"Corder Lake"}}
+{
+  "id": 2256641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256641",
+        "tgn:1000001",
+        "tgn:2000671",
+        "tgn:7012149",
+        "tgn:7007254",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256641,
+    "tgn:name":"Corder Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.0333,39.65],"type":"Point"}
+}

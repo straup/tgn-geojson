@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.000000,25.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7350467","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300006075"],"id":7350467,"name:xx":"Canal Anzald\u00faas"}}
+{
+  "id": 7350467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350467",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350467,
+    "tgn:name":"Canal Anzald\u00faas",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.0,25.966667],"type":"Point"}
+}

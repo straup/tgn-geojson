@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.666667,30.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7353714","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7353714,"name:xx":"Buey, Ojo del"}}
+{
+  "id": 7353714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353714",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353714,
+    "tgn:name":"Buey, Ojo del",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.666667,30.016667],"type":"Point"}
+}

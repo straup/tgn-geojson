@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.466700,33.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2257271","tgn:1000001","tgn:7012149","tgn:2001456","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2257271,"name:xx":"Cornet Tank"}}
+{
+  "id": 2257271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257271",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001456",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257271,
+    "tgn:name":"Cornet Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4667,33.8],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.366667,38.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7053711","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053711,"name:xx":"Macri"}}
+{
+  "id": 7053711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053711",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053711,
+    "tgn:name":"Macri",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.366667,38.716667],"type":"Point"}
+}

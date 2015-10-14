@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.566700,41.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2157685","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2157685,"name:xx":"Beaver Dam Pond"}}
+{
+  "id": 2157685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157685",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157685,
+    "tgn:name":"Beaver Dam Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.5667,41.9],"type":"Point"}
+}

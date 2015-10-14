@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.233300,40.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2337828","tgn:1000001","tgn:7012149","tgn:1002596","tgn:7007706","tgn:7029392"],"placetype":["aat:300008798"],"id":2337828,"name:xx":"Fox Den Knob"}}
+{
+  "id": 2337828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337828",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002596",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337828,
+    "tgn:name":"Fox Den Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2333,40.1667],"type":"Point"}
+}

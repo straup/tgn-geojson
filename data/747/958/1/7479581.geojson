@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.340833,23.306389]},"type":"Feature","properties":{"hierarchy":["tgn:7479581","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479581,"name:xx":"Yong'an Gaozhong"}}
+{
+  "id": 7479581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479581",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479581,
+    "tgn:name":"Yong'an Gaozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.340833,23.306389],"type":"Point"}
+}

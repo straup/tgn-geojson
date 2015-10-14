@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,36.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7020138","tgn:2001467","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":7020138,"name:xx":"Ashe Lake"}}
+{
+  "id": 7020138,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020138",
+        "tgn:2001467",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020138,
+    "tgn:name":"Ashe Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,36.3333],"type":"Point"}
+}

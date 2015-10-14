@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.016700,34.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2334578","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008761"],"id":2334578,"name:xx":"Forestdale Canyon"}}
+{
+  "id": 2334578,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334578",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334578,
+    "tgn:name":"Forestdale Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.0167,34.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.083300,45.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2336296","tgn:1000001","tgn:7012149","tgn:2002348","tgn:7007922","tgn:7029392"],"placetype":["aat:300008697"],"id":2336296,"name:xx":"Foulds Springs"}}
+{
+  "id": 2336296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336296",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002348",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336296,
+    "tgn:name":"Foulds Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0833,45.8167],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7007066,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f19b06-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749475",
+        "gp:id":732351,
+        "qs:id":5,
+        "wof:id":101874275
+    },
+    "tgn:hierarchy":[
+        "tgn:7007066",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:1009426",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007066,
+    "tgn:name:nl":"Oosterend",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.883333,53.083333],"type":"Point"}
+}

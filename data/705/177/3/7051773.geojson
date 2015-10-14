@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.133333,43.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7051773","tgn:1003471","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051773,"name:xx":"Il Ritiro"}}
+{
+  "id": 7051773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051773",
+        "tgn:1003471",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051773,
+    "tgn:name":"Il Ritiro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.133333,43.416667],"type":"Point"}
+}

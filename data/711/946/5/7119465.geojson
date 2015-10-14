@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.633333,51.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7119465","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7119465,"name:xx":"Pricken"}}
+{
+  "id": 7119465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119465",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119465,
+    "tgn:name":"Pricken",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.633333,51.55],"type":"Point"}
+}

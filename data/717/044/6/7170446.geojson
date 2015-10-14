@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.500000,53.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7170446","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7170446,"name:xx":"Hinrichshagen, Forst"}}
+{
+  "id": 7170446,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170446",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170446,
+    "tgn:name":"Hinrichshagen, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.5,53.416667],"type":"Point"}
+}

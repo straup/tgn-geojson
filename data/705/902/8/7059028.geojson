@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.183333,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7059028","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300387057"],"id":7059028,"name:xx":"Albegna, Bocca dell'"}}
+{
+  "id": 7059028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059028",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059028,
+    "tgn:name":"Albegna, Bocca dell'",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.183333,42.5],"type":"Point"}
+}

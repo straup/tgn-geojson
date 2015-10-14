@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.900000,44.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7055778","tgn:1003473","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300132316"],"id":7055778,"name:xx":"Lerici, Seno di"}}
+{
+  "id": 7055778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055778",
+        "tgn:1003473",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055778,
+    "tgn:name":"Lerici, Seno di",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.9,44.066667],"type":"Point"}
+}

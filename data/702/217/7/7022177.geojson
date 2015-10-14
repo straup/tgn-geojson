@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.550000,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7022177","tgn:1000001","tgn:7012149","tgn:2001208","tgn:7007523","tgn:7029392"],"placetype":["aat:300386994"],"id":7022177,"name:xx":"Richards-Gebaur Air Force Base"}}
+{
+  "id": 7022177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022177",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001208",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022177,
+    "tgn:name":"Richards-Gebaur Air Force Base",
+    "tgn:placetype":[
+        "aat:300386994"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.55,38.85],"type":"Point"}
+}

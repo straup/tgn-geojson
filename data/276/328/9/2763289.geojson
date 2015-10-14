@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.033300,36.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2763289","tgn:1000001","tgn:7012149","tgn:2000183","tgn:7007157","tgn:7029392"],"placetype":["aat:300008699"],"id":2763289,"name:xx":"Wet Fork Blackwater Wash"}}
+{
+  "id": 2763289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763289",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000183",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763289,
+    "tgn:name":"Wet Fork Blackwater Wash",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0333,36.35],"type":"Point"}
+}

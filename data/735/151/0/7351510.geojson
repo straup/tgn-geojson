@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.833333,26.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7351510","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351510,"name:xx":"Cahuinahua"}}
+{
+  "id": 7351510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351510",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351510,
+    "tgn:name":"Cahuinahua",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.833333,26.05],"type":"Point"}
+}

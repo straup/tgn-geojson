@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.216700,41.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2335111","tgn:1000001","tgn:1002714","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008798"],"id":2335111,"name:xx":"Forsyth Hill"}}
+{
+  "id": 2335111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335111",
+        "tgn:1000001",
+        "tgn:1002714",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335111,
+    "tgn:name":"Forsyth Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2167,41.4667],"type":"Point"}
+}

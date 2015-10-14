@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-88.283300,33.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7022287","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022287,"name:xx":"Aliceville Lake"}}
+{
+  "id": 7022287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022287",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022287,
+    "tgn:name":"Aliceville Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2833,33.2],"type":"Point"}
+}

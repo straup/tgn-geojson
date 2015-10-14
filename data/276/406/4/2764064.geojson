@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.100000,30.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2764064","tgn:1000001","tgn:7012149","tgn:1002454","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2764064,"name:xx":"Wheeler Cutoff Lake"}}
+{
+  "id": 2764064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764064",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002454",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764064,
+    "tgn:name":"Wheeler Cutoff Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.1,30.45],"type":"Point"}
+}

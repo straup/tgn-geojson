@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.866667,26.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7377001","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7377001,"name:xx":"Las Margaritas, Sierra de"}}
+{
+  "id": 7377001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377001",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377001,
+    "tgn:name":"Las Margaritas, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.866667,26.666667],"type":"Point"}
+}

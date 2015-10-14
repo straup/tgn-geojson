@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.333300,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2762483","tgn:1000001","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008706"],"id":2762483,"name:xx":"West Walnut Creek"}}
+{
+  "id": 2762483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762483",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762483,
+    "tgn:name":"West Walnut Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.3333,40.8833],"type":"Point"}
+}

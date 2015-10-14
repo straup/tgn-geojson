@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.555400,23.882000]},"type":"Feature","properties":{"hierarchy":["tgn:7475453","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475453,"name:xx":"Muyi Qiao"}}
+{
+  "id": 7475453,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475453",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475453,
+    "tgn:name":"Muyi Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5554,23.882],"type":"Point"}
+}

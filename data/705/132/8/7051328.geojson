@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.566667,46.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7051328","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051328,"name:xx":"Lago, Rio del"}}
+{
+  "id": 7051328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051328",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051328,
+    "tgn:name":"Lago, Rio del",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.566667,46.466667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.300000,27.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7374757","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374757,"name:xx":"Rancho La Boquilla"}}
+{
+  "id": 7374757,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374757",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374757,
+    "tgn:name":"Rancho La Boquilla",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.3,27.533333],"type":"Point"}
+}

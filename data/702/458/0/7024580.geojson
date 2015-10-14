@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-49.583300,82.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7024580","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008761"],"id":7024580,"name:xx":"Gunnar Andersson Dal"}}
+{
+  "id": 7024580,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024580",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024580,
+    "tgn:name":"Gunnar Andersson Dal",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-49.5833,82.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.883300,32.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7021651","tgn:2001731","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008791"],"id":7021651,"name:xx":"Jack Crow Island"}}
+{
+  "id": 7021651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021651",
+        "tgn:2001731",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021651,
+    "tgn:name":"Jack Crow Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8833,32.15],"type":"Point"}
+}

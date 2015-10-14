@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.383300,27.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2338834","tgn:1000001","tgn:1002477","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":2338834,"name:xx":"Frank Taucher Reservoir"}}
+{
+  "id": 2338834,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338834",
+        "tgn:1000001",
+        "tgn:1002477",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338834,
+    "tgn:name":"Frank Taucher Reservoir",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3833,27.3833],"type":"Point"}
+}

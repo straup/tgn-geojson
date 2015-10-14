@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,24.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7363867","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363867,"name:xx":"Rancho El Bajio"}}
+{
+  "id": 7363867,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363867",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363867,
+    "tgn:name":"Rancho El Bajio",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,24.883333],"type":"Point"}
+}

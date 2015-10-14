@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.200000,50.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7248298","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300343547"],"id":7248298,"name:xx":"Belvaux, Gouffre de"}}
+{
+  "id": 7248298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248298",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248298,
+    "tgn:name":"Belvaux, Gouffre de",
+    "tgn:placetype":[
+        "aat:300343547"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.2,50.116667],"type":"Point"}
+}

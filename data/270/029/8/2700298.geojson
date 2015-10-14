@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.983300,44.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2700298","tgn:1000001","tgn:2000923","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008347"],"id":2700298,"name:xx":"Sturtevant Hill"}}
+{
+  "id": 2700298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700298",
+        "tgn:1000001",
+        "tgn:2000923",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700298,
+    "tgn:name":"Sturtevant Hill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.9833,44.3333],"type":"Point"}
+}

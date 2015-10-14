@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[167.166700,-15.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7023855","tgn:7002052","tgn:7000535","tgn:1000225","tgn:1000006","tgn:7029392"],"placetype":["aat:300008347"],"id":7023855,"name:xx":"Luganville"}}
+{
+  "id": 7023855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023855",
+        "tgn:7002052",
+        "tgn:7000535",
+        "tgn:1000225",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023855,
+    "tgn:name":"Luganville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[167.1667,-15.5333],"type":"Point"}
+}

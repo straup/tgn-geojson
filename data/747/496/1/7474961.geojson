@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.356707,22.684712]},"type":"Feature","properties":{"hierarchy":["tgn:7474961","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474961,"name:xx":"Wannei"}}
+{
+  "id": 7474961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474961",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474961,
+    "tgn:name":"Wannei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.356707,22.684712],"type":"Point"}
+}

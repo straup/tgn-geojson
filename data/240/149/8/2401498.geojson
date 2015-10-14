@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.600000,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2401498","tgn:1000001","tgn:2002105","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2401498,"name:xx":"Horseshoe Canyon"}}
+{
+  "id": 2401498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401498",
+        "tgn:1000001",
+        "tgn:2002105",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401498,
+    "tgn:name":"Horseshoe Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.6,40.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.966667,50.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7173801","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7173801,"name:xx":"Gr\u00fcndcheshof"}}
+{
+  "id": 7173801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173801",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173801,
+    "tgn:name":"Gr\u00fcndcheshof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.966667,50.566667],"type":"Point"}
+}

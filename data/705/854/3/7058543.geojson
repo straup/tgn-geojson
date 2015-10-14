@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.100000,41.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7058543","tgn:7003136","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058543,"name:xx":"Borgo Montenero"}}
+{
+  "id": 7058543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058543",
+        "tgn:7003136",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058543,
+    "tgn:name":"Borgo Montenero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.1,41.283333],"type":"Point"}
+}

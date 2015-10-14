@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.509438,22.605890]},"type":"Feature","properties":{"hierarchy":["tgn:7481890","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481890,"name:xx":"Wandan Guoxiao Zhulin Fenxiao"}}
+{
+  "id": 7481890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481890",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481890,
+    "tgn:name":"Wandan Guoxiao Zhulin Fenxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.509438,22.60589],"type":"Point"}
+}

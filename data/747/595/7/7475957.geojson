@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.815897,24.519764]},"type":"Feature","properties":{"hierarchy":["tgn:7475957","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475957,"name:xx":"Xingangliao Zhen"}}
+{
+  "id": 7475957,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475957",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475957,
+    "tgn:name":"Xingangliao Zhen",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.815897,24.519764],"type":"Point"}
+}

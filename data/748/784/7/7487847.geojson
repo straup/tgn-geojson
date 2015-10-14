@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.288604,22.721493]},"type":"Feature","properties":{"hierarchy":["tgn:7487847","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487847,"name:xx":"Hongchang Li"}}
+{
+  "id": 7487847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487847",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487847,
+    "tgn:name":"Hongchang Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.288604,22.721493],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-72.466700,43.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2251492","tgn:1000001","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008699"],"id":2251492,"name:xx":"Commissary Brook"}}
+{
+  "id": 2251492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251492",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251492,
+    "tgn:name":"Commissary Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.4667,43.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.933300,29.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2335256","tgn:1000001","tgn:2000267","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008706"],"id":2335256,"name:xx":"Fort Gadsden Creek"}}
+{
+  "id": 2335256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335256",
+        "tgn:1000001",
+        "tgn:2000267",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335256,
+    "tgn:name":"Fort Gadsden Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9333,29.9167],"type":"Point"}
+}

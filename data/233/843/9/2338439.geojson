@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.933300,47.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2338439","tgn:1000001","tgn:7012149","tgn:1002899","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2338439,"name:xx":"Foye Creek"}}
+{
+  "id": 2338439,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338439",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002899",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338439,
+    "tgn:name":"Foye Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.9333,47.8167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.733300,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2157736","tgn:1000001","tgn:1002712","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008347"],"id":2157736,"name:xx":"Beaver Head Corner"}}
+{
+  "id": 2157736,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157736",
+        "tgn:1000001",
+        "tgn:1002712",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157736,
+    "tgn:name":"Beaver Head Corner",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.7333,41.3833],"type":"Point"}
+}

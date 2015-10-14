@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.900000,33.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2251351","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000150","tgn:7029392"],"placetype":["aat:300008699"],"id":2251351,"name:xx":"Comer Branch"}}
+{
+  "id": 2251351,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251351",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000150",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251351,
+    "tgn:name":"Comer Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.9,33.3833],"type":"Point"}
+}

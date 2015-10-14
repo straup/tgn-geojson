@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.483333,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7353114","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353114,"name:xx":"Bayeguey"}}
+{
+  "id": 7353114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353114",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353114,
+    "tgn:name":"Bayeguey",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.483333,26.7],"type":"Point"}
+}

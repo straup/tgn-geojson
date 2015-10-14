@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.254664,23.213899]},"type":"Feature","properties":{"hierarchy":["tgn:7480241","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480241,"name:xx":"Madou Dapai"}}
+{
+  "id": 7480241,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480241",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480241,
+    "tgn:name":"Madou Dapai",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.254664,23.213899],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.200000,17.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7365164","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365164,"name:xx":"Francisco Villa"}}
+{
+  "id": 7365164,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365164",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365164,
+    "tgn:name":"Francisco Villa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.2,17.283333],"type":"Point"}
+}

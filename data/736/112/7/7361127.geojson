@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.066667,30.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7361127","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361127,"name:xx":"El Hu\u00e9rfano"}}
+{
+  "id": 7361127,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361127",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361127,
+    "tgn:name":"El Hu\u00e9rfano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.066667,30.566667],"type":"Point"}
+}

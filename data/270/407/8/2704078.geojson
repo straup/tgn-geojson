@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.700000,32.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2704078","tgn:1000001","tgn:7006451","tgn:2000094","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":2704078,"name:xx":"Sunflower Canal"}}
+{
+  "id": 2704078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704078",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000094",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704078,
+    "tgn:name":"Sunflower Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.7,32.8333],"type":"Point"}
+}

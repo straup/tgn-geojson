@@ -1,0 +1,31 @@
+{
+  "id": 7013820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013820",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001208",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013820,
+    "tgn:name":"Kansas City",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387233",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387300"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5667,39.0833],"type":"Point"}
+}

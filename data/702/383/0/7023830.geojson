@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[28.650000,50.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7023830","tgn:1000003","tgn:7011671","tgn:7006660","tgn:7029392"],"placetype":["aat:300008347"],"id":7023830,"name:xx":"Chernyakhov"}}
+{
+  "id": 7023830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023830",
+        "tgn:1000003",
+        "tgn:7011671",
+        "tgn:7006660",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023830,
+    "tgn:name":"Chernyakhov",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[28.65,50.45],"type":"Point"}
+}

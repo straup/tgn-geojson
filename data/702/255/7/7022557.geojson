@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.000000,43.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7022557","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022557,"name:xx":"Coates Drain"}}
+{
+  "id": 7022557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022557",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022557,
+    "tgn:name":"Coates Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0,43.6],"type":"Point"}
+}

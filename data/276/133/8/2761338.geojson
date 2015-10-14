@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-132.833300,54.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2761338","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000082","tgn:7029392"],"placetype":["aat:300008791"],"id":2761338,"name:xx":"West Mill Rock"}}
+{
+  "id": 2761338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761338",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000082",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761338,
+    "tgn:name":"West Mill Rock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-132.8333,54.8833],"type":"Point"}
+}

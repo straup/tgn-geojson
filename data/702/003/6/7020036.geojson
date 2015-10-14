@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.933300,40.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7020036","tgn:1000001","tgn:1002310","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300247594"],"id":7020036,"name:xx":"Capital City Mall"}}
+{
+  "id": 7020036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020036",
+        "tgn:1000001",
+        "tgn:1002310",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020036,
+    "tgn:name":"Capital City Mall",
+    "tgn:placetype":[
+        "aat:300247594"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9333,40.2167],"type":"Point"}
+}

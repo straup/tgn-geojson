@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.100000,40.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2252878","tgn:1000001","tgn:7012149","tgn:1002501","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2252878,"name:xx":"Conpitt Junction"}}
+{
+  "id": 2252878,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252878",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002501",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252878,
+    "tgn:name":"Conpitt Junction",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.1,40.3667],"type":"Point"}
+}

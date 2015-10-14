@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.466667,27.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7370747","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370747,"name:xx":"Guguechic"}}
+{
+  "id": 7370747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370747",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370747,
+    "tgn:name":"Guguechic",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.466667,27.683333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.466667,17.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7375719","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7375719,"name:xx":"Las Tortugas"}}
+{
+  "id": 7375719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375719",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375719,
+    "tgn:name":"Las Tortugas",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.466667,17.816667],"type":"Point"}
+}

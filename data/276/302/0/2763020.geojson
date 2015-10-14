@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.583300,31.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2763020","tgn:2000002","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2763020,"name:xx":"Weston Lake"}}
+{
+  "id": 2763020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763020",
+        "tgn:2000002",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763020,
+    "tgn:name":"Weston Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5833,31.75],"type":"Point"}
+}

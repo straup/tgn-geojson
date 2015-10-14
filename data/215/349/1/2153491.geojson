@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.083300,41.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2153491","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2153491,"name:xx":"Beans Spring"}}
+{
+  "id": 2153491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153491",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153491,
+    "tgn:name":"Beans Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0833,41.15],"type":"Point"}
+}

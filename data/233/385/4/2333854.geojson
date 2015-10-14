@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.800000,41.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2333854","tgn:1000001","tgn:7014423","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008905"],"id":2333854,"name:xx":"Forbes Swamp"}}
+{
+  "id": 2333854,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333854",
+        "tgn:1000001",
+        "tgn:7014423",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333854,
+    "tgn:name":"Forbes Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8,41.8],"type":"Point"}
+}

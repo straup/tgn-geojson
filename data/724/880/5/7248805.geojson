@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7248805","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248805,"name:xx":"Boesdaal"}}
+{
+  "id": 7248805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248805",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248805,
+    "tgn:name":"Boesdaal",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.75],"type":"Point"}
+}

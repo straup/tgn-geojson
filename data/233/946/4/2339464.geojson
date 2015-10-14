@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.800000,31.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2339464","tgn:1000001","tgn:7012149","tgn:2002005","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2339464,"name:xx":"Freak Well Tank"}}
+{
+  "id": 2339464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339464",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002005",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339464,
+    "tgn:name":"Freak Well Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.8,31.9667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.682900,23.897400]},"type":"Feature","properties":{"hierarchy":["tgn:7476384","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476384,"name:xx":"Niushishuizi"}}
+{
+  "id": 7476384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476384",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476384,
+    "tgn:name":"Niushishuizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6829,23.8974],"type":"Point"}
+}

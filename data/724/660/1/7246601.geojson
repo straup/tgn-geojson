@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.850000,50.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7246601","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246601,"name:xx":"Dison"}}
+{
+  "id": 7246601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246601",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246601,
+    "tgn:name":"Dison",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.85,50.616667],"type":"Point"}
+}

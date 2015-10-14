@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.050000,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2409161","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2409161,"name:xx":"Ice Lake Creek"}}
+{
+  "id": 2409161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409161",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409161,
+    "tgn:name":"Ice Lake Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.05,38.35],"type":"Point"}
+}

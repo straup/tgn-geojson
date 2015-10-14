@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.650000,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7243170","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006163"],"id":7243170,"name:xx":"Kristoffelspolder"}}
+{
+  "id": 7243170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243170",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243170,
+    "tgn:name":"Kristoffelspolder",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.65,51.266667],"type":"Point"}
+}

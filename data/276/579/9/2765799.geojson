@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.950000,34.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765799","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300008697"],"id":2765799,"name:xx":"White Dyke Spring"}}
+{
+  "id": 2765799,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765799",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765799,
+    "tgn:name":"White Dyke Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.95,34.0833],"type":"Point"}
+}

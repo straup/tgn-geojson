@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.783300,48.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2767801","tgn:1000001","tgn:7012149","tgn:1003020","tgn:7007920","tgn:7029392"],"placetype":["aat:300008850"],"id":2767801,"name:xx":"Whitehorn, Point"}}
+{
+  "id": 2767801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767801",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003020",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767801,
+    "tgn:name":"Whitehorn, Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7833,48.8833],"type":"Point"}
+}

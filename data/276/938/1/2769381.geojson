@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.266700,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2769381","tgn:1000001","tgn:7012149","tgn:2002282","tgn:7013961","tgn:7029392"],"placetype":["aat:300008746"],"id":2769381,"name:xx":"Wickline Cave"}}
+{
+  "id": 2769381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769381",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002282",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769381,
+    "tgn:name":"Wickline Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2667,37.6],"type":"Point"}
+}

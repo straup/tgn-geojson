@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.350000,29.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2151122","tgn:1000001","tgn:7012149","tgn:2001961","tgn:7007826","tgn:7029392"],"placetype":["aat:300008746"],"id":2151122,"name:xx":"Bat Cave"}}
+{
+  "id": 2151122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151122",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001961",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151122,
+    "tgn:name":"Bat Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.35,29.6833],"type":"Point"}
+}

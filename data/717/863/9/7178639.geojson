@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.200000,51.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7178639","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7178639,"name:xx":"Hampenhausen"}}
+{
+  "id": 7178639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178639",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178639,
+    "tgn:name":"Hampenhausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.2,51.65],"type":"Point"}
+}

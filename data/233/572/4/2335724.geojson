@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.750000,36.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2335724","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2335724,"name:xx":"Forty Caves Canyon"}}
+{
+  "id": 2335724,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335724",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335724,
+    "tgn:name":"Forty Caves Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.75,36.8667],"type":"Point"}
+}

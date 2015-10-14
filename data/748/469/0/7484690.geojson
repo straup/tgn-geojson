@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.668056,23.080833]},"type":"Feature","properties":{"hierarchy":["tgn:7484690","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7484690,"name:xx":"Dinglaonong Shan"}}
+{
+  "id": 7484690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484690",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484690,
+    "tgn:name":"Dinglaonong Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.668056,23.080833],"type":"Point"}
+}

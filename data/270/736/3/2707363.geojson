@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.533300,48.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2707363","tgn:1000001","tgn:7012149","tgn:2001310","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2707363,"name:xx":"Sweet Grass Hills"}}
+{
+  "id": 2707363,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2707363",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001310",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2707363,
+    "tgn:name":"Sweet Grass Hills",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5333,48.95],"type":"Point"}
+}

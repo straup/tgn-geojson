@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.516667,24.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7488189","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488189,"name:xx":"Huansheli"}}
+{
+  "id": 7488189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488189",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488189,
+    "tgn:name":"Huansheli",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.516667,24.116667],"type":"Point"}
+}

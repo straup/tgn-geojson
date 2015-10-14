@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[47.366700,-11.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7024235","tgn:1010016","tgn:7001242","tgn:7031796","tgn:7029392"],"placetype":["aat:300008791"],"id":7024235,"name:xx":"Lys, \u00cele du"}}
+{
+  "id": 7024235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024235",
+        "tgn:1010016",
+        "tgn:7001242",
+        "tgn:7031796",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024235,
+    "tgn:name":"Lys, \u00cele du",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.3667,-11.5],"type":"Point"}
+}

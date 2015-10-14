@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.050000,44.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2154967","tgn:1002300","tgn:1000001","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008791"],"id":2154967,"name:xx":"Bear Island"}}
+{
+  "id": 2154967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154967",
+        "tgn:1002300",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154967,
+    "tgn:name":"Bear Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.05,44.7333],"type":"Point"}
+}

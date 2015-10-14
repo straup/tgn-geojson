@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.783300,36.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2336724","tgn:1000001","tgn:7012149","tgn:2001237","tgn:7007523","tgn:7029392"],"placetype":["aat:300008863"],"id":2336724,"name:xx":"Fourche Creek State Forest"}}
+{
+  "id": 2336724,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336724",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001237",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336724,
+    "tgn:name":"Fourche Creek State Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7833,36.5167],"type":"Point"}
+}

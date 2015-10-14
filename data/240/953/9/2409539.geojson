@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.266700,34.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2409539","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002608","tgn:7029392"],"placetype":["aat:300008761"],"id":2409539,"name:xx":"Idlewood Canyon"}}
+{
+  "id": 2409539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409539",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409539,
+    "tgn:name":"Idlewood Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2667,34.1833],"type":"Point"}
+}

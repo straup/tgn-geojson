@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.050000,36.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2335284","tgn:1000001","tgn:2000777","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347"],"id":2335284,"name:xx":"Fort Heiman"}}
+{
+  "id": 2335284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335284",
+        "tgn:1000001",
+        "tgn:2000777",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335284,
+    "tgn:name":"Fort Heiman",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.05,36.5],"type":"Point"}
+}

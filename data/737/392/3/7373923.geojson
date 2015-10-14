@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.333333,28.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7373923","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7373923,"name:xx":"La Guajolota, Cerro"}}
+{
+  "id": 7373923,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373923",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373923,
+    "tgn:name":"La Guajolota, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.333333,28.383333],"type":"Point"}
+}

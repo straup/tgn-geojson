@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.616700,57.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2765606","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300008850"],"id":2765606,"name:xx":"White Cliff Point"}}
+{
+  "id": 2765606,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765606",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765606,
+    "tgn:name":"White Cliff Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.6167,57.6333],"type":"Point"}
+}

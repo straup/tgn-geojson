@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.428611,24.146111]},"type":"Feature","properties":{"hierarchy":["tgn:7485674","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7485674,"name:xx":"Yubu Xiti"}}
+{
+  "id": 7485674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485674",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485674,
+    "tgn:name":"Yubu Xiti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.428611,24.146111],"type":"Point"}
+}

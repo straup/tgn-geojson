@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.437500,24.529444]},"type":"Feature","properties":{"hierarchy":["tgn:7369452","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369452,"name:xx":"Guadalupe Victoria"}}
+{
+  "id": 7369452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369452",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369452,
+    "tgn:name":"Guadalupe Victoria",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.4375,24.529444],"type":"Point"}
+}

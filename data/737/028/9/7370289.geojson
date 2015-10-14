@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.416667,25.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7370289","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7370289,"name:xx":"Geigo, Arroyo"}}
+{
+  "id": 7370289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370289",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370289,
+    "tgn:name":"Geigo, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.416667,25.216667],"type":"Point"}
+}

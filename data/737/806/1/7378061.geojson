@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.200000,25.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7378061","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7378061,"name:xx":"Las Comitas, Arroyo"}}
+{
+  "id": 7378061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378061",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378061,
+    "tgn:name":"Las Comitas, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.2,25.716667],"type":"Point"}
+}

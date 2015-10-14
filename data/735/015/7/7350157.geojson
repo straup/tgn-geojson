@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.750000,18.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7350157","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350157,"name:xx":"Ahuindo"}}
+{
+  "id": 7350157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350157",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350157,
+    "tgn:name":"Ahuindo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.75,18.233333],"type":"Point"}
+}

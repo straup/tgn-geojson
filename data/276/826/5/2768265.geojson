@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.583300,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2768265","tgn:1000001","tgn:1002200","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008850"],"id":2768265,"name:xx":"Whites Point"}}
+{
+  "id": 2768265,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768265",
+        "tgn:1000001",
+        "tgn:1002200",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768265,
+    "tgn:name":"Whites Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5833,28.5],"type":"Point"}
+}

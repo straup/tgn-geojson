@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.150000,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2760047","tgn:1000001","tgn:7012149","tgn:2000227","tgn:7007158","tgn:7029392"],"placetype":["aat:300008707"],"id":2760047,"name:xx":"West Fork North Fork Purgatoire River"}}
+{
+  "id": 2760047,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760047",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000227",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760047,
+    "tgn:name":"West Fork North Fork Purgatoire River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.15,37.2333],"type":"Point"}
+}

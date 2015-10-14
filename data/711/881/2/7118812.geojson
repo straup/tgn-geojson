@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.533333,49.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7118812","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7118812,"name:xx":"Pollanden"}}
+{
+  "id": 7118812,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118812",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118812,
+    "tgn:name":"Pollanden",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.533333,49.433333],"type":"Point"}
+}

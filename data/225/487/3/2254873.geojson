@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.633300,46.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2254873","tgn:2000947","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2254873,"name:xx":"Coontail Lake"}}
+{
+  "id": 2254873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254873",
+        "tgn:2000947",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254873,
+    "tgn:name":"Coontail Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.6333,46.4833],"type":"Point"}
+}

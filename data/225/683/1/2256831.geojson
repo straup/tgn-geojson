@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.450000,43.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2256831","tgn:1000001","tgn:7012149","tgn:1002397","tgn:7007568","tgn:7029392"],"placetype":["aat:300006191"],"id":2256831,"name:xx":"Cork Center Reservoir"}}
+{
+  "id": 2256831,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256831",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002397",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256831,
+    "tgn:name":"Cork Center Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.45,43.0333],"type":"Point"}
+}

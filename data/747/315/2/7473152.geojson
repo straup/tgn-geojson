@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.023333,24.002778]},"type":"Feature","properties":{"hierarchy":["tgn:7473152","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7473152,"name:xx":"Dong Guandao Shan"}}
+{
+  "id": 7473152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473152",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473152,
+    "tgn:name":"Dong Guandao Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.023333,24.002778],"type":"Point"}
+}

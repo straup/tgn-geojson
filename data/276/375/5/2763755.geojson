@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-80.516700,39.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2763755","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2763755,"name:xx":"Wharton Run"}}
+{
+  "id": 2763755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763755",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763755,
+    "tgn:name":"Wharton Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5167,39.8667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-156.916700,21.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2405142","tgn:1002648","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300008791"],"id":2405142,"name:xx":"Huelo"}}
+{
+  "id": 2405142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405142",
+        "tgn:1002648",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405142,
+    "tgn:name":"Huelo",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-156.9167,21.1667],"type":"Point"}
+}

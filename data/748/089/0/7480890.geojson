@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.459264,23.062598]},"type":"Feature","properties":{"hierarchy":["tgn:7480890","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7480890,"name:xx":"Wangnan Erhao Qiao"}}
+{
+  "id": 7480890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480890",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480890,
+    "tgn:name":"Wangnan Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.459264,23.062598],"type":"Point"}
+}

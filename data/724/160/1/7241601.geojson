@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.583333,50.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7241601","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241601,"name:xx":"Lacroix"}}
+{
+  "id": 7241601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241601",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241601,
+    "tgn:name":"Lacroix",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.583333,50.666667],"type":"Point"}
+}

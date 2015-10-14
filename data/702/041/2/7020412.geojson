@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.733300,42.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7020412","tgn:1000001","tgn:7012149","tgn:1002624","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":7020412,"name:xx":"Georgetown"}}
+{
+  "id": 7020412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020412",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002624",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020412,
+    "tgn:name":"Georgetown",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7333,42.7667],"type":"Point"}
+}

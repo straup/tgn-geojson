@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.966667,47.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7170770","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7170770,"name:xx":"Hennen-Kopf"}}
+{
+  "id": 7170770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170770",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170770,
+    "tgn:name":"Hennen-Kopf",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.966667,47.583333],"type":"Point"}
+}

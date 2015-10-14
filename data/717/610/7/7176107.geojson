@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.500000,48.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7176107","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300011692"],"id":7176107,"name:xx":"Gro\u00dfer Wendenstein"}}
+{
+  "id": 7176107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176107",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176107,
+    "tgn:name":"Gro\u00dfer Wendenstein",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.5,48.75],"type":"Point"}
+}

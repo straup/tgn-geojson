@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.366700,39.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2333386","tgn:1000001","tgn:7012149","tgn:1002468","tgn:7007252","tgn:7029392"],"placetype":["aat:300008347"],"id":2333386,"name:xx":"Foley"}}
+{
+  "id": 2333386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333386",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002468",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333386,
+    "tgn:name":"Foley",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.3667,39.95],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.700000,41.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2405883","tgn:1000001","tgn:7012149","tgn:1003033","tgn:7007706","tgn:7029392"],"placetype":["aat:300055621"],"id":2405883,"name:xx":"Hulls Prairie"}}
+{
+  "id": 2405883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405883",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003033",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405883,
+    "tgn:name":"Hulls Prairie",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7,41.4333],"type":"Point"}
+}

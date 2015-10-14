@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.450000,39.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7053544","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053544,"name:xx":"Panettieri"}}
+{
+  "id": 7053544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053544",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053544,
+    "tgn:name":"Panettieri",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.45,39.05],"type":"Point"}
+}

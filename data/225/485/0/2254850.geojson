@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.950000,44.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2254850","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2254850,"name:xx":"Coons Canyon"}}
+{
+  "id": 2254850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254850",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254850,
+    "tgn:name":"Coons Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.95,44.3833],"type":"Point"}
+}

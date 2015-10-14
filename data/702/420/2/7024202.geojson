@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[122.983300,-12.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7024202","tgn:1009847","tgn:7000434","tgn:7000490","tgn:1000006","tgn:7029392"],"placetype":["aat:300008808"],"id":7024202,"name:xx":"Marlin Bank"}}
+{
+  "id": 7024202,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024202",
+        "tgn:1009847",
+        "tgn:7000434",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024202,
+    "tgn:name":"Marlin Bank",
+    "tgn:placetype":[
+        "aat:300008808"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[122.9833,-12.1833],"type":"Point"}
+}

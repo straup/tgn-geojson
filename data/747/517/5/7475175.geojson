@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.385864,23.143657]},"type":"Feature","properties":{"hierarchy":["tgn:7475175","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475175,"name:xx":"Toushe"}}
+{
+  "id": 7475175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475175",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475175,
+    "tgn:name":"Toushe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.385864,23.143657],"type":"Point"}
+}

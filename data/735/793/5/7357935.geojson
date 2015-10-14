@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.247222,32.167222]},"type":"Feature","properties":{"hierarchy":["tgn:7357935","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357935,"name:xx":"Independencia Dos"}}
+{
+  "id": 7357935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357935",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357935,
+    "tgn:name":"Independencia Dos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.247222,32.167222],"type":"Point"}
+}

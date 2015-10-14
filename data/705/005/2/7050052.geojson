@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.606389,45.795833]},"type":"Feature","properties":{"hierarchy":["tgn:7050052","tgn:1003459","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050052,"name:xx":"Medeazza"}}
+{
+  "id": 7050052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050052",
+        "tgn:1003459",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050052,
+    "tgn:name":"Medeazza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.606389,45.795833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.066667,26.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7363890","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363890,"name:xx":"El Grifo"}}
+{
+  "id": 7363890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363890",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363890,
+    "tgn:name":"El Grifo",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.066667,26.1],"type":"Point"}
+}

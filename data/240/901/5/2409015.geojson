@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.666700,29.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2409015","tgn:1000001","tgn:7012149","tgn:2000876","tgn:7007256","tgn:7029392"],"placetype":["aat:300006075"],"id":2409015,"name:xx":"Iberia-Saint Mary Canal"}}
+{
+  "id": 2409015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409015",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000876",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409015,
+    "tgn:name":"Iberia-Saint Mary Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.6667,29.8333],"type":"Point"}
+}

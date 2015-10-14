@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.216700,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2768189","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000191","tgn:7029392"],"placetype":["aat:300008680"],"id":2768189,"name:xx":"Whites Creek Lake"}}
+{
+  "id": 2768189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768189",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000191",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768189,
+    "tgn:name":"Whites Creek Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.2167,40.95],"type":"Point"}
+}

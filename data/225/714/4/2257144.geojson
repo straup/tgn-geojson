@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.000000,34.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2257144","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300006191"],"id":2257144,"name:xx":"Corner Dam Tank"}}
+{
+  "id": 2257144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257144",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257144,
+    "tgn:name":"Corner Dam Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0,34.7167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.783333,30.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7359913","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7359913,"name:xx":"Cinta de Plata, Cerro"}}
+{
+  "id": 7359913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359913",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359913,
+    "tgn:name":"Cinta de Plata, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.783333,30.466667],"type":"Point"}
+}

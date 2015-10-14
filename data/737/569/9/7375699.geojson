@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.583333,20.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7375699","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7375699,"name:xx":"Marietas, Islas"}}
+{
+  "id": 7375699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375699",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375699,
+    "tgn:name":"Marietas, Islas",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.583333,20.716667],"type":"Point"}
+}

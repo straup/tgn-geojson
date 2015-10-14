@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.495556,23.446944]},"type":"Feature","properties":{"hierarchy":["tgn:7479222","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7479222,"name:xx":"Dingliu Guoxiao"}}
+{
+  "id": 7479222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479222",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479222,
+    "tgn:name":"Dingliu Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.495556,23.446944],"type":"Point"}
+}

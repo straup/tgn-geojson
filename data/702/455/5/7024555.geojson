@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-44.883300,60.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7024555","tgn:7593551","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":7024555,"name:xx":"Sermilik"}}
+{
+  "id": 7024555,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024555",
+        "tgn:7593551",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024555,
+    "tgn:name":"Sermilik",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-44.8833,60.45],"type":"Point"}
+}

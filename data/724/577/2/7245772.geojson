@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.250000,51.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7245772","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7245772,"name:xx":"Bonef Hoeve"}}
+{
+  "id": 7245772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245772",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245772,
+    "tgn:name":"Bonef Hoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.25,51.05],"type":"Point"}
+}

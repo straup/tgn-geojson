@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.116700,32.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2335685","tgn:1000001","tgn:7012149","tgn:2000886","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2335685,"name:xx":"Fortune Fork"}}
+{
+  "id": 2335685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335685",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000886",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335685,
+    "tgn:name":"Fortune Fork",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.1167,32.35],"type":"Point"}
+}

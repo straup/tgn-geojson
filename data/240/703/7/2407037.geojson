@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.483300,41.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2407037","tgn:1000001","tgn:7012149","tgn:1002378","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2407037,"name:xx":"Hunter Run"}}
+{
+  "id": 2407037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407037",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002378",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407037,
+    "tgn:name":"Hunter Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.4833,41.5333],"type":"Point"}
+}

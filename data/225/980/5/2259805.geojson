@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.416700,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2259805","tgn:1000001","tgn:2002109","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300266640"],"id":2259805,"name:xx":"Cougar Ridge"}}
+{
+  "id": 2259805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259805",
+        "tgn:1000001",
+        "tgn:2002109",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259805,
+    "tgn:name":"Cougar Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4167,38.1333],"type":"Point"}
+}

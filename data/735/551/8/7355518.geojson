@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.366667,25.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7355518","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7355518,"name:xx":"Chicharrones"}}
+{
+  "id": 7355518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355518",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355518,
+    "tgn:name":"Chicharrones",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.366667,25.366667],"type":"Point"}
+}

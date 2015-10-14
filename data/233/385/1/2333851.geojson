@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.133300,39.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2333851","tgn:1000001","tgn:7012149","tgn:1002904","tgn:7007710","tgn:7029392"],"placetype":["aat:300008863"],"id":2333851,"name:xx":"Forbes State Forest"}}
+{
+  "id": 2333851,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333851",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002904",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333851,
+    "tgn:name":"Forbes State Forest",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.1333,39.75],"type":"Point"}
+}

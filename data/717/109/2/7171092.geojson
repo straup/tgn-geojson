@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.016667,51.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7171092","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7171092,"name:xx":"F\u00f6rsterei Himmelpforten"}}
+{
+  "id": 7171092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171092",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171092,
+    "tgn:name":"F\u00f6rsterei Himmelpforten",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.016667,51.483333],"type":"Point"}
+}

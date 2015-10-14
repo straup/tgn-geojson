@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.050000,48.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7177817","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177817,"name:xx":"Hainthal"}}
+{
+  "id": 7177817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177817",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177817,
+    "tgn:name":"Hainthal",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.05,48.466667],"type":"Point"}
+}

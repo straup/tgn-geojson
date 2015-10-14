@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.266700,40.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2257941","tgn:1000001","tgn:7012149","tgn:1002690","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2257941,"name:xx":"Corsons"}}
+{
+  "id": 2257941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257941",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002690",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257941,
+    "tgn:name":"Corsons",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.2667,40.1],"type":"Point"}
+}

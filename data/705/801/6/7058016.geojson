@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.466667,43.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7058016","tgn:7003168","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7058016,"name:xx":"Arbia, Torrente"}}
+{
+  "id": 7058016,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058016",
+        "tgn:7003168",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058016,
+    "tgn:name":"Arbia, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.466667,43.133333],"type":"Point"}
+}

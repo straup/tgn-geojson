@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[28.576000,-20.626000]},"type":"Feature","properties":{"hierarchy":["tgn:7059198","tgn:7001242","tgn:1001423","tgn:1000185","tgn:7029392"],"placetype":["aat:300008746"],"id":7059198,"name:xx":"Silozwane Cave"}}
+{
+  "id": 7059198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059198",
+        "tgn:7001242",
+        "tgn:1001423",
+        "tgn:1000185",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059198,
+    "tgn:name":"Silozwane Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[28.576,-20.626],"type":"Point"}
+}

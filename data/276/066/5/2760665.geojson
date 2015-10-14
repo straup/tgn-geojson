@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-163.250000,68.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2760665","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008707"],"id":2760665,"name:xx":"West Fork Wulik River"}}
+{
+  "id": 2760665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760665",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760665,
+    "tgn:name":"West Fork Wulik River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-163.25,68.3],"type":"Point"}
+}

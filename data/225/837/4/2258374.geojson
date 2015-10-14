@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.566700,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2258374","tgn:1000001","tgn:2001424","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300132316"],"id":2258374,"name:xx":"Cotton Cove"}}
+{
+  "id": 2258374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258374",
+        "tgn:1000001",
+        "tgn:2001424",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258374,
+    "tgn:name":"Cotton Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.5667,43.7333],"type":"Point"}
+}

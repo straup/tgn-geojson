@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.510325,23.928213]},"type":"Feature","properties":{"hierarchy":["tgn:7487969","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7487969,"name:xx":"Liyu Tan"}}
+{
+  "id": 7487969,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487969",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487969,
+    "tgn:name":"Liyu Tan",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.510325,23.928213],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.900000,22.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7352459","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352459,"name:xx":"Atascador"}}
+{
+  "id": 7352459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352459",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352459,
+    "tgn:name":"Atascador",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.9,22.366667],"type":"Point"}
+}

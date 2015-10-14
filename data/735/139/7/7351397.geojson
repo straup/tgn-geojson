@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.233333,26.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7351397","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300185707"],"id":7351397,"name:xx":"Bamocha, Estero de"}}
+{
+  "id": 7351397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351397",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351397,
+    "tgn:name":"Bamocha, Estero de",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.233333,26.45],"type":"Point"}
+}

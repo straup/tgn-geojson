@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.627674,24.099782]},"type":"Feature","properties":{"hierarchy":["tgn:7470114","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7470114,"name:xx":"Han Xi"}}
+{
+  "id": 7470114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470114",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470114,
+    "tgn:name":"Han Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.627674,24.099782],"type":"Point"}
+}

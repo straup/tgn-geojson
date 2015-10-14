@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.942223,50.842569]},"type":"Feature","properties":{"hierarchy":["tgn:7246308","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7246308,"name:xx":"Bunsbeek"}}
+{
+  "id": 7246308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246308",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246308,
+    "tgn:name":"Bunsbeek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.942223,50.842569],"type":"Point"}
+}

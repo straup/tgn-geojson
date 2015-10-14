@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.533333,28.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7370115","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370115,"name:xx":"Huer\u00e1chic"}}
+{
+  "id": 7370115,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370115",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370115,
+    "tgn:name":"Huer\u00e1chic",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.533333,28.75],"type":"Point"}
+}

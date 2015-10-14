@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.400000,19.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7375497","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300386885"],"id":7375497,"name:xx":"Lim\u00f3n, Barra"}}
+{
+  "id": 7375497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375497",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375497,
+    "tgn:name":"Lim\u00f3n, Barra",
+    "tgn:placetype":[
+        "aat:300386885"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.4,19.683333],"type":"Point"}
+}

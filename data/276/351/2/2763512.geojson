@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.433300,40.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2763512","tgn:1000001","tgn:1002185","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008697"],"id":2763512,"name:xx":"Weynant Spring"}}
+{
+  "id": 2763512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763512",
+        "tgn:1000001",
+        "tgn:1002185",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763512,
+    "tgn:name":"Weynant Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4333,40.2833],"type":"Point"}
+}

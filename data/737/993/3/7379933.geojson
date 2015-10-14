@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.200000,28.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7379933","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379933,"name:xx":"Rancho Los Frailes"}}
+{
+  "id": 7379933,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379933",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379933,
+    "tgn:name":"Rancho Los Frailes",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.2,28.066667],"type":"Point"}
+}

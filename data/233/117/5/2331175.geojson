@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.933300,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2331175","tgn:1000001","tgn:2001807","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008798"],"id":2331175,"name:xx":"Flat Top Butte"}}
+{
+  "id": 2331175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331175",
+        "tgn:1000001",
+        "tgn:2001807",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331175,
+    "tgn:name":"Flat Top Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9333,44.0333],"type":"Point"}
+}

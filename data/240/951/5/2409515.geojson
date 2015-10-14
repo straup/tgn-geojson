@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-89.916700,37.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2409515","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2409515,"name:xx":"Idlewild Slough"}}
+{
+  "id": 2409515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409515",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409515,
+    "tgn:name":"Idlewild Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.9167,37.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.808849,24.562082]},"type":"Feature","properties":{"hierarchy":["tgn:7476442","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476442,"name:xx":"Fuqing"}}
+{
+  "id": 7476442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476442",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476442,
+    "tgn:name":"Fuqing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.808849,24.562082],"type":"Point"}
+}

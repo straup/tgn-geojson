@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-115.700000,47.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7022914","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7022914,"name:xx":"Runt Mountain"}}
+{
+  "id": 7022914,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022914",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022914,
+    "tgn:name":"Runt Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7,47.45],"type":"Point"}
+}

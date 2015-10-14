@@ -1,0 +1,26 @@
+{
+  "id": 7004110,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004110",
+        "tgn:7003248",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004110,
+    "tgn:name":"Bisceglie",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300387249",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.5,41.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.200000,29.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2152984","tgn:1000001","tgn:7012149","tgn:2002011","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2152984,"name:xx":"Beach Prong"}}
+{
+  "id": 2152984,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152984",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002011",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152984,
+    "tgn:name":"Beach Prong",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2,29.6667],"type":"Point"}
+}

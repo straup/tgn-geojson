@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[136.833300,34.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7023843","tgn:1000004","tgn:1001007","tgn:7000896","tgn:1000120","tgn:7029392"],"placetype":["aat:300008189"],"id":7023843,"name:xx":"Ise-shima-kokuritsu-k\u014den"}}
+{
+  "id": 7023843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023843",
+        "tgn:1000004",
+        "tgn:1001007",
+        "tgn:7000896",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023843,
+    "tgn:name":"Ise-shima-kokuritsu-k\u014den",
+    "tgn:placetype":[
+        "aat:300008189"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[136.8333,34.4667],"type":"Point"}
+}

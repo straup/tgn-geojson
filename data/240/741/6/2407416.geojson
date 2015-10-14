@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.383300,45.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2407416","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2407416,"name:xx":"Huntley Creek"}}
+{
+  "id": 2407416,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407416",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407416,
+    "tgn:name":"Huntley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3833,45.6],"type":"Point"}
+}

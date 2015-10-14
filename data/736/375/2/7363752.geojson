@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.716667,18.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7363752","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7363752,"name:xx":"El Chilar"}}
+{
+  "id": 7363752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363752",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363752,
+    "tgn:name":"El Chilar",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.716667,18.35],"type":"Point"}
+}

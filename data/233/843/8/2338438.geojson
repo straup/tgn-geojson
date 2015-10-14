@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.316700,41.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2338438","tgn:1000001","tgn:1002272","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2338438,"name:xx":"Foy Run"}}
+{
+  "id": 2338438,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338438",
+        "tgn:1000001",
+        "tgn:1002272",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338438,
+    "tgn:name":"Foy Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3167,41.3667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.016700,39.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2408752","tgn:1000001","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300008699"],"id":2408752,"name:xx":"Hyde Fork"}}
+{
+  "id": 2408752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408752",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408752,
+    "tgn:name":"Hyde Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0167,39.5],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.466389,22.840833]},"type":"Feature","properties":{"hierarchy":["tgn:7487756","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487756,"name:xx":"Nanzhou"}}
+{
+  "id": 7487756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487756",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487756,
+    "tgn:name":"Nanzhou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.466389,22.840833],"type":"Point"}
+}

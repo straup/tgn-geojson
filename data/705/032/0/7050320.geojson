@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.416667,40.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7050320","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050320,"name:xx":"Nuole, Riu"}}
+{
+  "id": 7050320,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050320",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050320,
+    "tgn:name":"Nuole, Riu",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.416667,40.483333],"type":"Point"}
+}

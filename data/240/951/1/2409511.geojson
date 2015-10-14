@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.966700,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2409511","tgn:1000001","tgn:2000872","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300006191"],"id":2409511,"name:xx":"Idlewild Lake"}}
+{
+  "id": 2409511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409511",
+        "tgn:1000001",
+        "tgn:2000872",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409511,
+    "tgn:name":"Idlewild Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9667,30.8],"type":"Point"}
+}

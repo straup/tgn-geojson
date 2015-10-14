@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.933300,30.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2259855","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259855,"name:xx":"Coulee Cocodrie"}}
+{
+  "id": 2259855,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259855",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259855,
+    "tgn:name":"Coulee Cocodrie",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9333,30.3],"type":"Point"}
+}

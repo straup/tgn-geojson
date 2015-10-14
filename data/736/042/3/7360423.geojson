@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.700000,22.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7360423","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7360423,"name:xx":"Coco"}}
+{
+  "id": 7360423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360423",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360423,
+    "tgn:name":"Coco",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.7,22.116667],"type":"Point"}
+}

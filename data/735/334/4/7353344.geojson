@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.983333,18.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7353344","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7353344,"name:xx":"Anenecuilco"}}
+{
+  "id": 7353344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353344",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353344,
+    "tgn:name":"Anenecuilco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.983333,18.766667],"type":"Point"}
+}

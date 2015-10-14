@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.033300,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2767045","tgn:1000001","tgn:2001418","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300006191"],"id":2767045,"name:xx":"White River Reservoir"}}
+{
+  "id": 2767045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767045",
+        "tgn:1000001",
+        "tgn:2001418",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767045,
+    "tgn:name":"White River Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.0333,38.35],"type":"Point"}
+}

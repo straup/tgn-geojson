@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.966700,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7020565","tgn:1000001","tgn:7012149","tgn:2001288","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7020565,"name:xx":"Easton-Pacific Mine"}}
+{
+  "id": 7020565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020565",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001288",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020565,
+    "tgn:name":"Easton-Pacific Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.9667,45.2333],"type":"Point"}
+}

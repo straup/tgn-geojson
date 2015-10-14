@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.792650,24.636016]},"type":"Feature","properties":{"hierarchy":["tgn:7473412","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7473412,"name:xx":"Dongshan Zhan"}}
+{
+  "id": 7473412,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473412",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473412,
+    "tgn:name":"Dongshan Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.79265,24.636016],"type":"Point"}
+}

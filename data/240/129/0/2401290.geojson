@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.083300,34.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2401290","tgn:1000001","tgn:7012149","tgn:2001527","tgn:7007709","tgn:7029392"],"placetype":["aat:300008905"],"id":2401290,"name:xx":"Horsepen Bay"}}
+{
+  "id": 2401290,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401290",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001527",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401290,
+    "tgn:name":"Horsepen Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.0833,34.4333],"type":"Point"}
+}

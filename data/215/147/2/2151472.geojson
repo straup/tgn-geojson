@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.683300,44.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2151472","tgn:1000001","tgn:7012149","tgn:2002379","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2151472,"name:xx":"Bathtub Spring"}}
+{
+  "id": 2151472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151472",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002379",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151472,
+    "tgn:name":"Bathtub Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6833,44.7],"type":"Point"}
+}

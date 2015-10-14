@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.866700,44.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2765500","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2765500,"name:xx":"White Brook"}}
+{
+  "id": 2765500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765500",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765500,
+    "tgn:name":"White Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.8667,44.3833],"type":"Point"}
+}

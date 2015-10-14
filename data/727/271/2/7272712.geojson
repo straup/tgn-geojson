@@ -1,0 +1,27 @@
+{
+  "id": 7272712,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f22d96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745352",
+        "gp:id":734340,
+        "qs:id":4,
+        "wof:id":101809817
+    },
+    "tgn:hierarchy":[
+        "tgn:7272712",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7272712,
+    "tgn:name:nl":"Vogelwaarde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.966667,51.333333],"type":"Point"}
+}

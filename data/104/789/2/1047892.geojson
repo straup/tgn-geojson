@@ -1,0 +1,27 @@
+{
+  "id": 1047892,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f12338-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752399",
+        "gp:id":730905,
+        "qs:id":9,
+        "wof:id":101808379
+    },
+    "tgn:hierarchy":[
+        "tgn:1047892",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047892,
+    "tgn:name:nl":"Kortgene",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.8,51.566667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.700000,54.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7115534","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300386881"],"id":7115534,"name:xx":"Oland"}}
+{
+  "id": 7115534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115534",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115534,
+    "tgn:name":"Oland",
+    "tgn:placetype":[
+        "aat:300386881"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.7,54.683333],"type":"Point"}
+}

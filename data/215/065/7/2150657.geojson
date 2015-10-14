@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.183300,33.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2150657","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2150657,"name:xx":"Baskin Tank Canyon"}}
+{
+  "id": 2150657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150657",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150657,
+    "tgn:name":"Baskin Tank Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.1833,33.6167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.100000,38.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2763196","tgn:1000001","tgn:7016104","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2763196,"name:xx":"Westwood"}}
+{
+  "id": 2763196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763196",
+        "tgn:1000001",
+        "tgn:7016104",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763196,
+    "tgn:name":"Westwood",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.1,38.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.565278,23.127222]},"type":"Feature","properties":{"hierarchy":["tgn:7483256","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7483256,"name:xx":"Fanzikeng"}}
+{
+  "id": 7483256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483256",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483256,
+    "tgn:name":"Fanzikeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.565278,23.127222],"type":"Point"}
+}

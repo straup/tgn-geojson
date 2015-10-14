@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.650000,50.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7059365","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7059365,"name:xx":"Allmershausen"}}
+{
+  "id": 7059365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059365",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059365,
+    "tgn:name":"Allmershausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.65,50.883333],"type":"Point"}
+}

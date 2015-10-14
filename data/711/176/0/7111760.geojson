@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.716667,47.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7111760","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7111760,"name:xx":"Ro\u00dfhaupten"}}
+{
+  "id": 7111760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111760",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111760,
+    "tgn:name":"Ro\u00dfhaupten",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.716667,47.65],"type":"Point"}
+}

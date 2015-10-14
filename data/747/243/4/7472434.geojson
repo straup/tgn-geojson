@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.130000,23.160278]},"type":"Feature","properties":{"hierarchy":["tgn:7472434","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472434,"name:xx":"Dujia"}}
+{
+  "id": 7472434,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472434",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472434,
+    "tgn:name":"Dujia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.13,23.160278],"type":"Point"}
+}

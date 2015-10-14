@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.034167,24.895278]},"type":"Feature","properties":{"hierarchy":["tgn:7480136","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7480136,"name:xx":"Shuntian Xincun"}}
+{
+  "id": 7480136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480136",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480136,
+    "tgn:name":"Shuntian Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.034167,24.895278],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.683300,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2766806","tgn:1000001","tgn:7012149","tgn:2001442","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2766806,"name:xx":"White Oaks Draw"}}
+{
+  "id": 2766806,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766806",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001442",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766806,
+    "tgn:name":"White Oaks Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.6833,33.7833],"type":"Point"}
+}

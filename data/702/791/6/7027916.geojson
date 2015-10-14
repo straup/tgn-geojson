@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.683333,53.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7027916","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Heapham","id":7027916}}
+{
+  "id": 7027916,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027916",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027916,
+    "tgn:name:en":"Heapham",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.683333,53.383333],"type":"Point"}
+}

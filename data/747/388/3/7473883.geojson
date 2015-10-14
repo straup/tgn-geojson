@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.529580,23.916365]},"type":"Feature","properties":{"hierarchy":["tgn:7473883","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473883,"name:xx":"Dunhou Cun"}}
+{
+  "id": 7473883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473883",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473883,
+    "tgn:name":"Dunhou Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.52958,23.916365],"type":"Point"}
+}

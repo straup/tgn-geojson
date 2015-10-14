@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.366700,48.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2254756","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":2254756,"name:xx":"Coon Springs"}}
+{
+  "id": 2254756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254756",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254756,
+    "tgn:name":"Coon Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3667,48.0667],"type":"Point"}
+}

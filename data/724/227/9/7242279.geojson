@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.533333,50.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7242279","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008863"],"id":7242279,"name:xx":"Koeienbos"}}
+{
+  "id": 7242279,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242279",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242279,
+    "tgn:name":"Koeienbos",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.533333,50.916667],"type":"Point"}
+}

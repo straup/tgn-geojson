@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.150000,32.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2331942","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000101","tgn:7029392"],"placetype":["aat:300006191"],"id":2331942,"name:xx":"Fletcher Tank"}}
+{
+  "id": 2331942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331942",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000101",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331942,
+    "tgn:name":"Fletcher Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.15,32.7833],"type":"Point"}
+}

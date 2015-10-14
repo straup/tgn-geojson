@@ -1,0 +1,21 @@
+{
+  "id": 2125374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2125374",
+        "tgn:1000001",
+        "tgn:2001417",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2125374,
+    "tgn:name":"Acme Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.3667,38.5333],"type":"Point"}
+}

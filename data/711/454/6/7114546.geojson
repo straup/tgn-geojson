@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.133333,51.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7114546","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114546,"name:xx":"Robbenhof"}}
+{
+  "id": 7114546,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114546",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114546,
+    "tgn:name":"Robbenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.133333,51.666667],"type":"Point"}
+}

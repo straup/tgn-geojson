@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-123.000000,49.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022424","tgn:1000001","tgn:7029392"],"placetype":["aat:300132316"],"id":7022424,"name:xx":"Boundary Bay"}}
+{
+  "id": 7022424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022424",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022424,
+    "tgn:name":"Boundary Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.0,49.0],"type":"Point"}
+}

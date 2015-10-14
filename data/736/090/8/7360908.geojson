@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.450000,28.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7360908","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360908,"name:xx":"El Nogal"}}
+{
+  "id": 7360908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360908",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360908,
+    "tgn:name":"El Nogal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.45,28.616667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.700000,27.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7367699","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367699,"name:xx":"Rancho El Porven\u00edr"}}
+{
+  "id": 7367699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367699",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367699,
+    "tgn:name":"Rancho El Porven\u00edr",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.7,27.516667],"type":"Point"}
+}

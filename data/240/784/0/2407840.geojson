@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.166700,37.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2407840","tgn:1000001","tgn:7012149","tgn:2002280","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2407840,"name:xx":"Hurricane Branch"}}
+{
+  "id": 2407840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407840",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002280",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407840,
+    "tgn:name":"Hurricane Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1667,37.9333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.916667,26.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7474836","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7474836,"name:xx":"Yuntai Shan"}}
+{
+  "id": 7474836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474836",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474836,
+    "tgn:name":"Yuntai Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.916667,26.15],"type":"Point"}
+}

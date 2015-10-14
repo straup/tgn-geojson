@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.650000,19.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7356006","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7356006,"name:xx":"Cardona"}}
+{
+  "id": 7356006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356006",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356006,
+    "tgn:name":"Cardona",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.65,19.216667],"type":"Point"}
+}

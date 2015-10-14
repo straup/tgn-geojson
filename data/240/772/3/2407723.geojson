@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.883300,46.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2407723","tgn:1000001","tgn:7012149","tgn:2000975","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2407723,"name:xx":"Huron River Point"}}
+{
+  "id": 2407723,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407723",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000975",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407723,
+    "tgn:name":"Huron River Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.8833,46.9],"type":"Point"}
+}

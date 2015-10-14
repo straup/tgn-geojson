@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.466700,32.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2768466","tgn:1000001","tgn:7012149","tgn:2001437","tgn:7007566","tgn:7029392"],"placetype":["aat:300008798"],"id":2768466,"name:xx":"Whitetop Hill"}}
+{
+  "id": 2768466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768466",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001437",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768466,
+    "tgn:name":"Whitetop Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.4667,32.45],"type":"Point"}
+}

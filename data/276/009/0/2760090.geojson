@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.666700,48.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2760090","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008707"],"id":2760090,"name:xx":"West Fork Pasayten River"}}
+{
+  "id": 2760090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760090",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760090,
+    "tgn:name":"West Fork Pasayten River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.6667,48.75],"type":"Point"}
+}

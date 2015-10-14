@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.500000,26.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7360455","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7360455,"name:xx":"Rancho Cuestecita"}}
+{
+  "id": 7360455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360455",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360455,
+    "tgn:name":"Rancho Cuestecita",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.5,26.666667],"type":"Point"}
+}

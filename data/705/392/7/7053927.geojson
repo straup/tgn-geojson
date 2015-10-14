@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.716667,37.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7053927","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7053927,"name:xx":"Palma, Fiume"}}
+{
+  "id": 7053927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053927",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053927,
+    "tgn:name":"Palma, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.716667,37.15],"type":"Point"}
+}

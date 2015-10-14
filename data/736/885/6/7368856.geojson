@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.700000,18.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7368856","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7368856,"name:xx":"Juan S\u00e1nchez, R\u00edo"}}
+{
+  "id": 7368856,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368856",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368856,
+    "tgn:name":"Juan S\u00e1nchez, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.7,18.383333],"type":"Point"}
+}

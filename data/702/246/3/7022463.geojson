@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-116.050000,48.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7022463","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022463,"name:xx":"Cabinet Gorge Reservoir"}}
+{
+  "id": 7022463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022463",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022463,
+    "tgn:name":"Cabinet Gorge Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.05,48.0833],"type":"Point"}
+}

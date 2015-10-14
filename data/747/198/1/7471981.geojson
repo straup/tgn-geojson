@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.638291,23.373717]},"type":"Feature","properties":{"hierarchy":["tgn:7471981","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471981,"name:xx":"Caoshan"}}
+{
+  "id": 7471981,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471981",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471981,
+    "tgn:name":"Caoshan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.638291,23.373717],"type":"Point"}
+}

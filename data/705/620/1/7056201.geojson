@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.833333,42.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7056201","tgn:1003460","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056201,"name:xx":"Le Case"}}
+{
+  "id": 7056201,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056201",
+        "tgn:1003460",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056201,
+    "tgn:name":"Le Case",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.833333,42.933333],"type":"Point"}
+}

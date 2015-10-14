@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.966700,43.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2762473","tgn:1000001","tgn:7012149","tgn:1002871","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2762473,"name:xx":"West Vly Creek"}}
+{
+  "id": 2762473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002871",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762473,
+    "tgn:name":"West Vly Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9667,43.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.230278,26.904167]},"type":"Feature","properties":{"hierarchy":["tgn:7367290","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367290,"name:xx":"Rancho El Rosarito"}}
+{
+  "id": 7367290,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367290",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367290,
+    "tgn:name":"Rancho El Rosarito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.230278,26.904167],"type":"Point"}
+}

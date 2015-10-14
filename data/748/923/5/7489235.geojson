@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.556230,22.534155]},"type":"Feature","properties":{"hierarchy":["tgn:7489235","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489235,"name:xx":"Lunziding"}}
+{
+  "id": 7489235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489235",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489235,
+    "tgn:name":"Lunziding",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.55623,22.534155],"type":"Point"}
+}

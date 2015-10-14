@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.350000,41.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2760571","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2760571,"name:xx":"West Fork Wagonhound Creek"}}
+{
+  "id": 2760571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760571",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760571,
+    "tgn:name":"West Fork Wagonhound Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.35,41.5833],"type":"Point"}
+}

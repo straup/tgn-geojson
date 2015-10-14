@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.383300,43.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2409833","tgn:1000001","tgn:7012149","tgn:2001030","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2409833,"name:xx":"Illinois Lake"}}
+{
+  "id": 2409833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409833",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001030",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409833,
+    "tgn:name":"Illinois Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.3833,43.5333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.098944,25.037615]},"type":"Feature","properties":{"hierarchy":["tgn:7478190","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7478190,"name:xx":"Xiaoyi"}}
+{
+  "id": 7478190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478190",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478190,
+    "tgn:name":"Xiaoyi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.098944,25.037615],"type":"Point"}
+}

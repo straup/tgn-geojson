@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.183333,28.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7372268","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372268,"name:xx":"La Noria"}}
+{
+  "id": 7372268,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372268",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372268,
+    "tgn:name":"La Noria",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.183333,28.35],"type":"Point"}
+}

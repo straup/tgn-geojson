@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.706667,23.128889]},"type":"Feature","properties":{"hierarchy":["tgn:7487200","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487200,"name:xx":"Gaozhong Cun"}}
+{
+  "id": 7487200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487200",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487200,
+    "tgn:name":"Gaozhong Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.706667,23.128889],"type":"Point"}
+}

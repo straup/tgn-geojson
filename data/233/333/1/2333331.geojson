@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.666700,44.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2333331","tgn:1000001","tgn:7012149","tgn:2000473","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2333331,"name:xx":"Fogg Butte"}}
+{
+  "id": 2333331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333331",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000473",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333331,
+    "tgn:name":"Fogg Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6667,44.2833],"type":"Point"}
+}

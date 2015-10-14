@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.750000,25.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7364968","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364968,"name:xx":"El Zapote de los Moya"}}
+{
+  "id": 7364968,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364968",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364968,
+    "tgn:name":"El Zapote de los Moya",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.75,25.383333],"type":"Point"}
+}

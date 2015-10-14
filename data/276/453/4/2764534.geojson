@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.483300,41.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2764534","tgn:1002808","tgn:1000001","tgn:7012149","tgn:7007711","tgn:7029392"],"placetype":["aat:300008798"],"id":2764534,"name:xx":"Whipple Hill"}}
+{
+  "id": 2764534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764534",
+        "tgn:1002808",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007711",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764534,
+    "tgn:name":"Whipple Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.4833,41.8833],"type":"Point"}
+}

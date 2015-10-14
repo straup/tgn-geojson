@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-80.516700,41.633300]},"type":"Feature","properties":{"hierarchy":["tgn:7023721","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008905"],"id":7023721,"name:xx":"Pymatuning Swamp"}}
+{
+  "id": 7023721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023721",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023721,
+    "tgn:name":"Pymatuning Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.5167,41.6333],"type":"Point"}
+}

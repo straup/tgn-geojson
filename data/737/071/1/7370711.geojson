@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.416667,15.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7370711","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370711,"name:xx":"Gloria, Cerro la"}}
+{
+  "id": 7370711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370711",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370711,
+    "tgn:name":"Gloria, Cerro la",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.416667,15.783333],"type":"Point"}
+}

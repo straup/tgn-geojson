@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.066700,34.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2762595","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000164","tgn:7029392"],"placetype":["aat:300008347"],"id":2762595,"name:xx":"Westbrook Addition"}}
+{
+  "id": 2762595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762595",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000164",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762595,
+    "tgn:name":"Westbrook Addition",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.0667,34.95],"type":"Point"}
+}

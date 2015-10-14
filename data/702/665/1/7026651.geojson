@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.337778,51.579722]},"type":"Feature","properties":{"hierarchy":["tgn:7026651","tgn:7002445","tgn:1000003","tgn:7019020","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Hawkesbury","id":7026651}}
+{
+  "id": 7026651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026651",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019020",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026651,
+    "tgn:name:en":"Hawkesbury",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.337778,51.579722],"type":"Point"}
+}

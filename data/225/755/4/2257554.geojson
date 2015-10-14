@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.000000,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2257554","tgn:1000001","tgn:2001432","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2257554,"name:xx":"Corral Canyon"}}
+{
+  "id": 2257554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257554",
+        "tgn:1000001",
+        "tgn:2001432",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257554,
+    "tgn:name":"Corral Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.0,36.6],"type":"Point"}
+}

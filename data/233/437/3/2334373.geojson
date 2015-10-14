@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.716700,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2334373","tgn:1000001","tgn:7012149","tgn:7014021","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2334373,"name:xx":"Forest Homes"}}
+{
+  "id": 2334373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334373",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014021",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334373,
+    "tgn:name":"Forest Homes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7167,35.1333],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7266022,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01eff026-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754702",
+        "gp:id":729797,
+        "qs:id":9,
+        "wof:id":101855353
+    },
+    "tgn:hierarchy":[
+        "tgn:7266022",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266022,
+    "tgn:name:nl":"Heelweg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.466667,51.966667],"type":"Point"}
+}

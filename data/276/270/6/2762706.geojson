@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.100000,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2762706","tgn:1000001","tgn:7012149","tgn:7022218","tgn:7007919","tgn:7029392"],"placetype":["aat:300008707"],"id":2762706,"name:xx":"Western Branch Lynnhaven River"}}
+{
+  "id": 2762706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762706",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022218",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762706,
+    "tgn:name":"Western Branch Lynnhaven River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1,36.85],"type":"Point"}
+}

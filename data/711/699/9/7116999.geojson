@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.616667,47.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7116999","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7116999,"name:xx":"Obertennenmoos"}}
+{
+  "id": 7116999,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116999",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116999,
+    "tgn:name":"Obertennenmoos",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.616667,47.7],"type":"Point"}
+}

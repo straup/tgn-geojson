@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.300000,26.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7356132","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7356132,"name:xx":"Camahuiroa, Arroyo"}}
+{
+  "id": 7356132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356132",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356132,
+    "tgn:name":"Camahuiroa, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3,26.55],"type":"Point"}
+}

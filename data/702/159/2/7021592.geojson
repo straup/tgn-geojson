@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.983300,40.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7021592","tgn:1000001","tgn:7012149","tgn:1002459","tgn:7007706","tgn:7029392"],"placetype":["aat:300006191"],"id":7021592,"name:xx":"Consolidation Coal Company Pond 0207"}}
+{
+  "id": 7021592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021592",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002459",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021592,
+    "tgn:name":"Consolidation Coal Company Pond 0207",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9833,40.3],"type":"Point"}
+}

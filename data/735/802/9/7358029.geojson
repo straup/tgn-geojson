@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.050000,21.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7358029","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7358029,"name:xx":"Cosculaque, Cerro"}}
+{
+  "id": 7358029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358029",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358029,
+    "tgn:name":"Cosculaque, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.05,21.933333],"type":"Point"}
+}

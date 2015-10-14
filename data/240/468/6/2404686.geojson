@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.950000,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2404686","tgn:1000001","tgn:2001737","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2404686,"name:xx":"Huckleberry Branch"}}
+{
+  "id": 2404686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404686",
+        "tgn:1000001",
+        "tgn:2001737",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404686,
+    "tgn:name":"Huckleberry Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.95,34.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.250000,16.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7353758","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7353758,"name:xx":"Azul, Cerro"}}
+{
+  "id": 7353758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353758",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353758,
+    "tgn:name":"Azul, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.25,16.116667],"type":"Point"}
+}

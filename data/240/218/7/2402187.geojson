@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.366700,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2402187","tgn:2002239","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2402187,"name:xx":"Horsethief Canyon"}}
+{
+  "id": 2402187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402187",
+        "tgn:2002239",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402187,
+    "tgn:name":"Horsethief Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.3667,46.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.565500,24.046400]},"type":"Feature","properties":{"hierarchy":["tgn:7473391","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387200"],"id":7473391,"name:xx":"Yanzhu Cun"}}
+{
+  "id": 7473391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473391",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473391,
+    "tgn:name":"Yanzhu Cun",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5655,24.0464],"type":"Point"}
+}

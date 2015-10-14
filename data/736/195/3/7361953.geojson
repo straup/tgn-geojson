@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.350000,20.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7361953","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7361953,"name:xx":"El Cuatro"}}
+{
+  "id": 7361953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361953",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361953,
+    "tgn:name":"El Cuatro",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.35,20.55],"type":"Point"}
+}

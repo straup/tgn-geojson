@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.000000,38.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2256966","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2256966,"name:xx":"Corn Creek"}}
+{
+  "id": 2256966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256966",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256966,
+    "tgn:name":"Corn Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0,38.4],"type":"Point"}
+}

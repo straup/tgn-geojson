@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.250000,31.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2157038","tgn:7002659","tgn:1000001","tgn:2000020","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2157038,"name:xx":"Beaver Branch"}}
+{
+  "id": 2157038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157038",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000020",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157038,
+    "tgn:name":"Beaver Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.25,31.6833],"type":"Point"}
+}

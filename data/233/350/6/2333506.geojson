@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.450000,38.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2333506","tgn:1000001","tgn:7012149","tgn:2002293","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2333506,"name:xx":"Folly Run"}}
+{
+  "id": 2333506,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333506",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002293",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333506,
+    "tgn:name":"Folly Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.45,38.9167],"type":"Point"}
+}

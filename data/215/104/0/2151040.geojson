@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.116700,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2151040","tgn:1000001","tgn:7012149","tgn:2001199","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2151040,"name:xx":"Bassville"}}
+{
+  "id": 2151040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151040",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001199",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151040,
+    "tgn:name":"Bassville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1167,37.3333],"type":"Point"}
+}

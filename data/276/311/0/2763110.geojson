@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.283300,42.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2763110","tgn:1000001","tgn:2001704","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300000390"],"id":2763110,"name:xx":"Wests Mine"}}
+{
+  "id": 2763110,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763110",
+        "tgn:1000001",
+        "tgn:2001704",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763110,
+    "tgn:name":"Wests Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.2833,42.3167],"type":"Point"}
+}

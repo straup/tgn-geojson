@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.591755,24.170415]},"type":"Feature","properties":{"hierarchy":["tgn:7471975","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7471975,"name:xx":"Duzaowan"}}
+{
+  "id": 7471975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471975",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471975,
+    "tgn:name":"Duzaowan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.591755,24.170415],"type":"Point"}
+}

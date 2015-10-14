@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[107.728000,29.333000]},"type":"Feature","properties":{"hierarchy":["tgn:7029685","tgn:1000004","tgn:7024355","tgn:1000111","tgn:7029392"],"placetype":["aat:300387198"],"id":7029685,"name:xx":"Wulong Xian"}}
+{
+  "id": 7029685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029685",
+        "tgn:1000004",
+        "tgn:7024355",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029685,
+    "tgn:name":"Wulong Xian",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[107.728,29.333],"type":"Point"}
+}

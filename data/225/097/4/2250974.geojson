@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.533300,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2250974","tgn:1000001","tgn:7012149","tgn:2000206","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2250974,"name:xx":"Columbine Ditch Number Three"}}
+{
+  "id": 2250974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250974",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000206",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250974,
+    "tgn:name":"Columbine Ditch Number Three",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5333,39.0833],"type":"Point"}
+}

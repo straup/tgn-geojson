@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.016700,36.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2404633","tgn:1000001","tgn:7012149","tgn:2001549","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2404633,"name:xx":"Hubquarter Creek"}}
+{
+  "id": 2404633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001549",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404633,
+    "tgn:name":"Hubquarter Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.0167,36.4333],"type":"Point"}
+}

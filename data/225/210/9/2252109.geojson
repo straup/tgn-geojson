@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.200000,33.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2252109","tgn:1000001","tgn:7006451","tgn:2000093","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2252109,"name:xx":"Cone Butte"}}
+{
+  "id": 2252109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252109",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000093",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252109,
+    "tgn:name":"Cone Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.2,33.7667],"type":"Point"}
+}

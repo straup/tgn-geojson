@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.366700,39.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2252896","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008699"],"id":2252896,"name:xx":"Conrad Branch"}}
+{
+  "id": 2252896,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252896",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252896,
+    "tgn:name":"Conrad Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.3667,39.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.133300,36.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2764873","tgn:2000090","tgn:1000001","tgn:7006451","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2764873,"name:xx":"Whiskey Reservoir"}}
+{
+  "id": 2764873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764873",
+        "tgn:2000090",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764873,
+    "tgn:name":"Whiskey Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.1333,36.1],"type":"Point"}
+}

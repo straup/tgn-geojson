@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.283300,39.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7023573","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":7023573,"name:xx":"No Name Gulch"}}
+{
+  "id": 7023573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023573",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023573,
+    "tgn:name":"No Name Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2833,39.3],"type":"Point"}
+}

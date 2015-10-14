@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.550000,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2760336","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000244","tgn:7029392"],"placetype":["aat:300008706"],"id":2760336,"name:xx":"West Fork Shaw Creek"}}
+{
+  "id": 2760336,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760336",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000244",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760336,
+    "tgn:name":"West Fork Shaw Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.55,37.6],"type":"Point"}
+}

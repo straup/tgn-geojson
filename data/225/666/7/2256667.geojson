@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.266700,34.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2256667","tgn:1000001","tgn:7012149","tgn:2000348","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2256667,"name:xx":"Cordle Lake"}}
+{
+  "id": 2256667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256667",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000348",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256667,
+    "tgn:name":"Cordle Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2667,34.3667],"type":"Point"}
+}

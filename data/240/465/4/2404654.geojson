@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.066700,33.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2404654","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000053","tgn:7029392"],"placetype":["aat:300008699"],"id":2404654,"name:xx":"Huckeby Branch"}}
+{
+  "id": 2404654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404654",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000053",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404654,
+    "tgn:name":"Huckeby Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.0667,33.3667],"type":"Point"}
+}

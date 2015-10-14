@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.700000,44.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330730","tgn:1000001","tgn:7012149","tgn:7014589","tgn:7007515","tgn:7029392"],"placetype":["aat:300132348"],"id":2330730,"name:xx":"Flat Island Ledges"}}
+{
+  "id": 2330730,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330730",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014589",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330730,
+    "tgn:name":"Flat Island Ledges",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.7,44.45],"type":"Point"}
+}

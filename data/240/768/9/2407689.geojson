@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.150000,45.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2407689","tgn:1000001","tgn:7012149","tgn:2001823","tgn:7007713","tgn:7029392"],"placetype":["aat:300006191"],"id":2407689,"name:xx":"Hurley, Lake"}}
+{
+  "id": 2407689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407689",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001823",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407689,
+    "tgn:name":"Hurley, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.15,45.0833],"type":"Point"}
+}

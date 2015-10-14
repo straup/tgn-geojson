@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.100000,32.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2761845","tgn:1000001","tgn:7012149","tgn:2000890","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2761845,"name:xx":"West Prong Youngs Bayou"}}
+{
+  "id": 2761845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761845",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000890",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761845,
+    "tgn:name":"West Prong Youngs Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.1,32.5333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.566667,26.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7350574","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350574,"name:xx":"Blanco, Arroyo"}}
+{
+  "id": 7350574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350574",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350574,
+    "tgn:name":"Blanco, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.566667,26.833333],"type":"Point"}
+}

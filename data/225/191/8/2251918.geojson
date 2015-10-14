@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.083300,26.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2251918","tgn:1000001","tgn:7012149","tgn:1002641","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2251918,"name:xx":"Conch Bar"}}
+{
+  "id": 2251918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251918",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002641",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251918,
+    "tgn:name":"Conch Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0833,26.9833],"type":"Point"}
+}

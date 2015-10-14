@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.254722,24.911667]},"type":"Feature","properties":{"hierarchy":["tgn:7487638","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7487638,"name:xx":"Keqin Qiao"}}
+{
+  "id": 7487638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487638",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487638,
+    "tgn:name":"Keqin Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.254722,24.911667],"type":"Point"}
+}

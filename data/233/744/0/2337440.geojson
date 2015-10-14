@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.550000,40.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2337440","tgn:1000001","tgn:7012149","tgn:1002416","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2337440,"name:xx":"Fowler Ditch"}}
+{
+  "id": 2337440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337440",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002416",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337440,
+    "tgn:name":"Fowler Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.55,40.4],"type":"Point"}
+}

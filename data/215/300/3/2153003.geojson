@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.150000,44.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2153003","tgn:1000001","tgn:7012149","tgn:1002636","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2153003,"name:xx":"Beachie Creek"}}
+{
+  "id": 2153003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153003",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002636",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153003,
+    "tgn:name":"Beachie Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.15,44.8],"type":"Point"}
+}

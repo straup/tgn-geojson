@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.050000,46.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2156233","tgn:2000943","tgn:1000001","tgn:7012149","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2156233,"name:xx":"Bearfoot Lake"}}
+{
+  "id": 2156233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156233",
+        "tgn:2000943",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156233,
+    "tgn:name":"Bearfoot Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.05,46.55],"type":"Point"}
+}

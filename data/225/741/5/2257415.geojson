@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.183300,42.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2257415","tgn:1000001","tgn:7012149","tgn:1002423","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2257415,"name:xx":"Cornwallville Creek"}}
+{
+  "id": 2257415,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257415",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002423",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257415,
+    "tgn:name":"Cornwallville Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1833,42.3333],"type":"Point"}
+}

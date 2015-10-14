@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.183300,43.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2768419","tgn:1000001","tgn:2002367","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2768419,"name:xx":"Whitetail Creek"}}
+{
+  "id": 2768419,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768419",
+        "tgn:1000001",
+        "tgn:2002367",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768419,
+    "tgn:name":"Whitetail Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.1833,43.9667],"type":"Point"}
+}

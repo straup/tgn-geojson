@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.033300,31.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2334970","tgn:1000001","tgn:2000325","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2334970,"name:xx":"Forky Creek"}}
+{
+  "id": 2334970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334970",
+        "tgn:1000001",
+        "tgn:2000325",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334970,
+    "tgn:name":"Forky Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0333,31.5],"type":"Point"}
+}

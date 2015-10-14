@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.650000,48.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2256014","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300000390"],"id":2256014,"name:xx":"Copper King Number 2 Mine"}}
+{
+  "id": 2256014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256014",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256014,
+    "tgn:name":"Copper King Number 2 Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.65,48.3167],"type":"Point"}
+}

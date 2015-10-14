@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.716667,52.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7176875","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7176875,"name:xx":"Hallerburger Holz"}}
+{
+  "id": 7176875,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176875",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176875,
+    "tgn:name":"Hallerburger Holz",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.716667,52.2],"type":"Point"}
+}

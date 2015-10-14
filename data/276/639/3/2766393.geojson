@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.966700,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2766393","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300386831"],"id":2766393,"name:xx":"White Mountains"}}
+{
+  "id": 2766393,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766393",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766393,
+    "tgn:name":"White Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.9667,43.7333],"type":"Point"}
+}

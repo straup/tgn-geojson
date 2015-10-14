@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.294167,23.265556]},"type":"Feature","properties":{"hierarchy":["tgn:7479660","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300000241"],"id":7479660,"name:xx":"Bohai Muchang"}}
+{
+  "id": 7479660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479660",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479660,
+    "tgn:name":"Bohai Muchang",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.294167,23.265556],"type":"Point"}
+}

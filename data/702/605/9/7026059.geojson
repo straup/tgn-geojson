@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[8.100000,52.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7026059","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300000835","aat:300008372"],"id":7026059,"name:de":"Kalkriese"}}
+{
+  "id": 7026059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026059",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026059,
+    "tgn:name:de":"Kalkriese",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300000835",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.1,52.416667],"type":"Point"}
+}

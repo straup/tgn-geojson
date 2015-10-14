@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.559500,23.927400]},"type":"Feature","properties":{"hierarchy":["tgn:7488258","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488258,"name:xx":"Guangyun Cun"}}
+{
+  "id": 7488258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488258",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488258,
+    "tgn:name":"Guangyun Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5595,23.9274],"type":"Point"}
+}

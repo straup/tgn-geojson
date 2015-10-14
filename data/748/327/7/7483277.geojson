@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.935833,22.758889]},"type":"Feature","properties":{"hierarchy":["tgn:7483277","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483277,"name:xx":"Wu'ertuoboha Shan"}}
+{
+  "id": 7483277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483277",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483277,
+    "tgn:name":"Wu'ertuoboha Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.935833,22.758889],"type":"Point"}
+}

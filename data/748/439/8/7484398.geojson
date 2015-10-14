@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.594444,23.070833]},"type":"Feature","properties":{"hierarchy":["tgn:7484398","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7484398,"name:xx":"Jiaxianbu Shan"}}
+{
+  "id": 7484398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484398",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484398,
+    "tgn:name":"Jiaxianbu Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.594444,23.070833],"type":"Point"}
+}

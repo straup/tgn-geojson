@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.445556,24.523333]},"type":"Feature","properties":{"hierarchy":["tgn:7488607","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7488607,"name:xx":"Liumao'an Xi"}}
+{
+  "id": 7488607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488607",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488607,
+    "tgn:name":"Liumao'an Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.445556,24.523333],"type":"Point"}
+}

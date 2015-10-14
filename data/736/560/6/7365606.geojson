@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.716667,15.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7365606","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7365606,"name:xx":"El Talisman"}}
+{
+  "id": 7365606,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365606",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365606,
+    "tgn:name":"El Talisman",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.716667,15.683333],"type":"Point"}
+}

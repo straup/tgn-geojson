@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.654922,23.688801]},"type":"Feature","properties":{"hierarchy":["tgn:7476621","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7476621,"name:xx":"Yinzi"}}
+{
+  "id": 7476621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476621",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476621,
+    "tgn:name":"Yinzi",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.654922,23.688801],"type":"Point"}
+}

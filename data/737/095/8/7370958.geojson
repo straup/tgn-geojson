@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.466667,23.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7370958","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386970"],"id":7370958,"name:xx":"Gorda de Afuera, Banco"}}
+{
+  "id": 7370958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370958",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370958,
+    "tgn:name":"Gorda de Afuera, Banco",
+    "tgn:placetype":[
+        "aat:300386970"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.466667,23.016667],"type":"Point"}
+}

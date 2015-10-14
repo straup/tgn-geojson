@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[-1.169000,53.533000]},"type":"Feature","properties":{"hierarchy":["tgn:7029940","tgn:7019053","tgn:7002445","tgn:1000003","tgn:7029505","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029940,"name:xx":"Cusworth","name:ang":"Cuzeuuorde"}}
+{
+  "id": 7029940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029940",
+        "tgn:7019053",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029505",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029940,
+    "tgn:name":"Cusworth",
+    "tgn:name:ang":"Cuzeuuorde",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.169,53.533],"type":"Point"}
+}

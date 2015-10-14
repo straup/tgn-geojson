@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.450000,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2762913","tgn:1000001","tgn:7012149","tgn:2001220","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2762913,"name:xx":"Westing Branch"}}
+{
+  "id": 2762913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762913",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001220",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762913,
+    "tgn:name":"Westing Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.45,38.6],"type":"Point"}
+}

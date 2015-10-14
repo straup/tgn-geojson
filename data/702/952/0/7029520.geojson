@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[29.266000,60.316000]},"type":"Feature","properties":{"hierarchy":["tgn:7029520","tgn:1000004","tgn:7011572","tgn:7018214","tgn:7002435","tgn:7029392"],"placetype":["aat:300008347"],"id":7029520,"name:xx":"Uusikirkko"}}
+{
+  "id": 7029520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029520",
+        "tgn:1000004",
+        "tgn:7011572",
+        "tgn:7018214",
+        "tgn:7002435",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029520,
+    "tgn:name":"Uusikirkko",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[29.266,60.316],"type":"Point"}
+}

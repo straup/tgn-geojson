@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.229340,23.451761]},"type":"Feature","properties":{"hierarchy":["tgn:7481090","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481090,"name:xx":"Yongshun Qiao"}}
+{
+  "id": 7481090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481090",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481090,
+    "tgn:name":"Yongshun Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.22934,23.451761],"type":"Point"}
+}

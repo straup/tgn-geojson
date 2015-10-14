@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.833056,24.941667]},"type":"Feature","properties":{"hierarchy":["tgn:7483664","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483664,"name:xx":"Shengbao Gong"}}
+{
+  "id": 7483664,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483664",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483664,
+    "tgn:name":"Shengbao Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.833056,24.941667],"type":"Point"}
+}

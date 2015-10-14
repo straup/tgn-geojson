@@ -1,0 +1,24 @@
+{
+  "id": 7009880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7009880",
+        "tgn:1000003",
+        "tgn:7594395",
+        "tgn:1000069",
+        "tgn:7029392"
+    ],
+    "tgn:id":7009880,
+    "tgn:name":"Helsinki",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.0,60.1333],"type":"Point"}
+}

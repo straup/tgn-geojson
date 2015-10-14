@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[72.779000,40.531000]},"type":"Feature","properties":{"hierarchy":["tgn:7059150","tgn:1000004","tgn:7012212","tgn:7006655","tgn:7029392"],"placetype":["aat:300263063","aat:300008795"],"id":7059150,"name:xx":"Sulaiman-Too"}}
+{
+  "id": 7059150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059150",
+        "tgn:1000004",
+        "tgn:7012212",
+        "tgn:7006655",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059150,
+    "tgn:name":"Sulaiman-Too",
+    "tgn:placetype":[
+        "aat:300263063",
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[72.779,40.531],"type":"Point"}
+}

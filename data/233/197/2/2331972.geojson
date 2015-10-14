@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.500000,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2331972","tgn:1000001","tgn:7012149","tgn:2000523","tgn:7007251","tgn:7029392"],"placetype":["aat:300008699"],"id":2331972,"name:xx":"Flick Branch"}}
+{
+  "id": 2331972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331972",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000523",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331972,
+    "tgn:name":"Flick Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5,37.4333],"type":"Point"}
+}

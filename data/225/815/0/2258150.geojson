@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.683300,43.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2258150","tgn:1000001","tgn:7012149","tgn:2000983","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2258150,"name:xx":"Costen Drain"}}
+{
+  "id": 2258150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258150",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000983",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258150,
+    "tgn:name":"Costen Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.6833,43.3333],"type":"Point"}
+}

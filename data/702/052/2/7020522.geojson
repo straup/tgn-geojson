@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.300000,46.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7020522","tgn:1000001","tgn:7012149","tgn:2001284","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":7020522,"name:xx":"Beatrice  Mine"}}
+{
+  "id": 7020522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020522",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001284",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020522,
+    "tgn:name":"Beatrice  Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.3,46.4667],"type":"Point"}
+}

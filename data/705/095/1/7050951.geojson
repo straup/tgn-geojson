@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.150000,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7050951","tgn:7004597","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050951,"name:xx":"La Massara"}}
+{
+  "id": 7050951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050951",
+        "tgn:7004597",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050951,
+    "tgn:name":"La Massara",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.15,44.9],"type":"Point"}
+}

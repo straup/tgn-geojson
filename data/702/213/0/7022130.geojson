@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.000000,34.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7022130","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000130","tgn:7029392"],"placetype":["aat:300008347"],"id":7022130,"name:xx":"Diamondhead"}}
+{
+  "id": 7022130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022130",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000130",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022130,
+    "tgn:name":"Diamondhead",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.0,34.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.383300,34.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2331592","tgn:1000001","tgn:7012149","tgn:2001157","tgn:7007522","tgn:7029392"],"placetype":["aat:300008680"],"id":2331592,"name:xx":"Flea Harbor Lake"}}
+{
+  "id": 2331592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331592",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001157",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331592,
+    "tgn:name":"Flea Harbor Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3833,34.4333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.516700,42.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2337025","tgn:1000001","tgn:7012149","tgn:2002383","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2337025,"name:xx":"Fourmile Knoll"}}
+{
+  "id": 2337025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337025",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002383",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337025,
+    "tgn:name":"Fourmile Knoll",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.5167,42.15],"type":"Point"}
+}

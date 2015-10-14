@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.516700,36.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2257497","tgn:1000001","tgn:2001476","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2257497,"name:xx":"Corpening Branch"}}
+{
+  "id": 2257497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257497",
+        "tgn:1000001",
+        "tgn:2001476",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257497,
+    "tgn:name":"Corpening Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5167,36.0833],"type":"Point"}
+}

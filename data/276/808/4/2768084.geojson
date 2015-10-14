@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.866700,31.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2768084","tgn:1000001","tgn:7012149","tgn:2002005","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2768084,"name:xx":"Whiterock Tank"}}
+{
+  "id": 2768084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002005",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768084,
+    "tgn:name":"Whiterock Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.8667,31.5333],"type":"Point"}
+}

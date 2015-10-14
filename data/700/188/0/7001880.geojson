@@ -1,0 +1,25 @@
+{
+  "id": 7001880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001880",
+        "tgn:1000004",
+        "tgn:7016672",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001880,
+    "tgn:name":"Luoyang",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387302",
+        "aat:300235099",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[112.4333,34.7833],"type":"Point"}
+}

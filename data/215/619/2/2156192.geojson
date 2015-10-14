@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.116700,33.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2156192","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000053","tgn:7029392"],"placetype":["aat:300008347"],"id":2156192,"name:xx":"Beards Mill"}}
+{
+  "id": 2156192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156192",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000053",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156192,
+    "tgn:name":"Beards Mill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1167,33.35],"type":"Point"}
+}

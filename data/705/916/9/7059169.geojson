@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[128.084000,35.801000]},"type":"Feature","properties":{"hierarchy":["tgn:7059169","tgn:1000004","tgn:1001371","tgn:7000299","tgn:7029392"],"placetype":["aat:300000641","aat:300007595","aat:300263063"],"id":7059169,"name:xx":"Haein-sa"}}
+{
+  "id": 7059169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059169",
+        "tgn:1000004",
+        "tgn:1001371",
+        "tgn:7000299",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059169,
+    "tgn:name":"Haein-sa",
+    "tgn:placetype":[
+        "aat:300000641",
+        "aat:300007595",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[128.084,35.801],"type":"Point"}
+}

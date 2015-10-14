@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.504970,23.673604]},"type":"Feature","properties":{"hierarchy":["tgn:7473059","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473059,"name:xx":"Chenggong"}}
+{
+  "id": 7473059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473059",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473059,
+    "tgn:name":"Chenggong",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.50497,23.673604],"type":"Point"}
+}

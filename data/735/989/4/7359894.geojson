@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.550000,29.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7359894","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008761"],"id":7359894,"name:xx":"Cirio, Valle del"}}
+{
+  "id": 7359894,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359894",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359894,
+    "tgn:name":"Cirio, Valle del",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.55,29.833333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.750000,27.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7359181","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7359181,"name:xx":"Cruzada, Arroyo de la"}}
+{
+  "id": 7359181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359181",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359181,
+    "tgn:name":"Cruzada, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.75,27.083333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.850000,51.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7248748","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008777"],"id":7248748,"name:xx":"Bloemberg"}}
+{
+  "id": 7248748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248748",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248748,
+    "tgn:name":"Bloemberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.85,51.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.883300,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2706756","tgn:1000001","tgn:7012149","tgn:2000230","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2706756,"name:xx":"Swanee Creek"}}
+{
+  "id": 2706756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706756",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000230",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706756,
+    "tgn:name":"Swanee Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.8833,39.15],"type":"Point"}
+}

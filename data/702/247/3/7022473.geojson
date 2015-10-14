@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.316700,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7022473","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":7022473,"name:xx":"Camp Creek"}}
+{
+  "id": 7022473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022473,
+    "tgn:name":"Camp Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3167,38.4833],"type":"Point"}
+}

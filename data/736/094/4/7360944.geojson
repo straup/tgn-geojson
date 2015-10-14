@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.933333,23.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7360944","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7360944,"name:xx":"Coronado, Sierra"}}
+{
+  "id": 7360944,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360944",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360944,
+    "tgn:name":"Coronado, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.933333,23.083333],"type":"Point"}
+}

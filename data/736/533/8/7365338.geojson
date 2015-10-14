@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.400000,26.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7365338","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365338,"name:xx":"El Soldadito"}}
+{
+  "id": 7365338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365338",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365338,
+    "tgn:name":"El Soldadito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.4,26.633333],"type":"Point"}
+}

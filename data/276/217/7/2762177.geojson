@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.083300,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2762177","tgn:1000001","tgn:7012149","tgn:2002372","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2762177,"name:xx":"West Spring"}}
+{
+  "id": 2762177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762177",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002372",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762177,
+    "tgn:name":"West Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0833,41.6833],"type":"Point"}
+}

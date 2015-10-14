@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.083300,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7025959","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7025959,"name:ang":"Hanlege"}}
+{
+  "id": 7025959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025959",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025959,
+    "tgn:name:ang":"Hanlege",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.0833,50.95],"type":"Point"}
+}

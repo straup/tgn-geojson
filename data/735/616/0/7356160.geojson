@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.300000,25.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7356160","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7356160,"name:xx":"Rancho Cerro Colorado"}}
+{
+  "id": 7356160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356160",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356160,
+    "tgn:name":"Rancho Cerro Colorado",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3,25.816667],"type":"Point"}
+}

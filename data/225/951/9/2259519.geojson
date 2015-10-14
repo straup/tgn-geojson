@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.666700,35.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2259519","tgn:1000001","tgn:7012149","tgn:2002051","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2259519,"name:xx":"Cottonwood Tank"}}
+{
+  "id": 2259519,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259519",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002051",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259519,
+    "tgn:name":"Cottonwood Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.6667,35.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.733300,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2152485","tgn:1000001","tgn:7012149","tgn:7016021","tgn:7007568","tgn:7029392"],"placetype":["aat:300132348"],"id":2152485,"name:xx":"Bay State Shoal"}}
+{
+  "id": 2152485,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152485",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016021",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152485,
+    "tgn:name":"Bay State Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7333,44.5],"type":"Point"}
+}

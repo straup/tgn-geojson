@@ -1,0 +1,27 @@
+{
+  "id": 7001314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001314",
+        "tgn:1000598",
+        "tgn:7001242",
+        "tgn:7016752",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001314,
+    "tgn:name":"Alger",
+    "tgn:name:en":"Algiers",
+    "tgn:name:fr":"Al-Jaz\u0101'ir",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.0,36.8333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.333300,47.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2769651","tgn:1000001","tgn:7012149","tgn:2000479","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2769651,"name:xx":"Wiessner, Mount"}}
+{
+  "id": 2769651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000479",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769651,
+    "tgn:name":"Wiessner, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.3333,47.4333],"type":"Point"}
+}

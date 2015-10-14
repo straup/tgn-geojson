@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.846400,24.556000]},"type":"Feature","properties":{"hierarchy":["tgn:7475803","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7475803,"name:xx":"Tuosi Shan"}}
+{
+  "id": 7475803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475803",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475803,
+    "tgn:name":"Tuosi Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.8464,24.556],"type":"Point"}
+}

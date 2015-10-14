@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.383333,51.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7170815","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7170815,"name:xx":"Hirse-Berg"}}
+{
+  "id": 7170815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170815",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170815,
+    "tgn:name":"Hirse-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.383333,51.766667],"type":"Point"}
+}

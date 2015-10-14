@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.066700,39.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2331976","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002791","tgn:7029392"],"placetype":["aat:300008850"],"id":2331976,"name:xx":"Flick Point"}}
+{
+  "id": 2331976,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331976",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002791",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331976,
+    "tgn:name":"Flick Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.0667,39.2167],"type":"Point"}
+}

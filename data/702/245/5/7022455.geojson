@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-84.633300,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7022455","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7022455,"name:xx":"Burkes Branch"}}
+{
+  "id": 7022455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022455,
+    "tgn:name":"Burkes Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6333,36.6],"type":"Point"}
+}

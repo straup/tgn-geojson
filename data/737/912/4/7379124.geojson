@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.050000,31.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7379124","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379124,"name:xx":"Rancho Mezquite"}}
+{
+  "id": 7379124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379124",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379124,
+    "tgn:name":"Rancho Mezquite",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.05,31.083333],"type":"Point"}
+}

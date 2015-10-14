@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.350000,49.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7170940","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170940,"name:xx":"Herzogwind"}}
+{
+  "id": 7170940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170940",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170940,
+    "tgn:name":"Herzogwind",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.35,49.7],"type":"Point"}
+}

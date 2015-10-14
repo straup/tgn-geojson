@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.166700,45.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2332318","tgn:1000001","tgn:7012149","tgn:2002333","tgn:7007922","tgn:7029392"],"placetype":["aat:300008697"],"id":2332318,"name:xx":"Flood Spring"}}
+{
+  "id": 2332318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332318",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002333",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332318,
+    "tgn:name":"Flood Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.1667,45.45],"type":"Point"}
+}

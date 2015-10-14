@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.216700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7022787","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7022787,"name:xx":"Delphi Brook"}}
+{
+  "id": 7022787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022787",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022787,
+    "tgn:name":"Delphi Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2167,42.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.850000,45.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7056964","tgn:7002994","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7056964,"name:xx":"Canale della Battaglia"}}
+{
+  "id": 7056964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056964",
+        "tgn:7002994",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056964,
+    "tgn:name":"Canale della Battaglia",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.85,45.383333],"type":"Point"}
+}

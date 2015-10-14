@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.300000,53.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7179641","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7179641,"name:xx":"Hahnenkoppel"}}
+{
+  "id": 7179641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179641",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179641,
+    "tgn:name":"Hahnenkoppel",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,53.566667],"type":"Point"}
+}

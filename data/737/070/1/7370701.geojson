@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.916667,18.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7370701","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370701,"name:xx":"Gloria Chica"}}
+{
+  "id": 7370701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370701",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370701,
+    "tgn:name":"Gloria Chica",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.916667,18.933333],"type":"Point"}
+}

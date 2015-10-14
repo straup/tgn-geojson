@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.748743,23.774850]},"type":"Feature","properties":{"hierarchy":["tgn:7471845","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7471845,"name:xx":"Shuiweizi Shan"}}
+{
+  "id": 7471845,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471845",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471845,
+    "tgn:name":"Shuiweizi Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.748743,23.77485],"type":"Point"}
+}

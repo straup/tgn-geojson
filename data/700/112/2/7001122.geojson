@@ -1,0 +1,24 @@
+{
+  "id": 7001122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001122",
+        "tgn:1000003",
+        "tgn:7002765",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001122,
+    "tgn:name":"Illes Balears",
+    "tgn:placetype":[
+        "aat:300387145",
+        "aat:300386853",
+        "aat:300235096",
+        "aat:300387291",
+        "aat:300000774"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.0,39.5],"type":"Point"}
+}

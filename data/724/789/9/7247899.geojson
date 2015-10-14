@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.566667,50.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7247899","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7247899,"name:xx":"Delbart"}}
+{
+  "id": 7247899,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247899",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247899,
+    "tgn:name":"Delbart",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.566667,50.683333],"type":"Point"}
+}

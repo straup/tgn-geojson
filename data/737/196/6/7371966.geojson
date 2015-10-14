@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.916667,26.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7371966","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7371966,"name:xx":"Laja, Arroyo de la"}}
+{
+  "id": 7371966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371966",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371966,
+    "tgn:name":"Laja, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.916667,26.233333],"type":"Point"}
+}

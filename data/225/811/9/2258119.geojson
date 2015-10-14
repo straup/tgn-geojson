@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.583300,39.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2258119","tgn:1000001","tgn:1002266","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2258119,"name:xx":"Cossart"}}
+{
+  "id": 2258119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258119",
+        "tgn:1000001",
+        "tgn:1002266",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258119,
+    "tgn:name":"Cossart",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.5833,39.8333],"type":"Point"}
+}

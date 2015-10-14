@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.794753,24.688545]},"type":"Feature","properties":{"hierarchy":["tgn:7475608","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475608,"name:xx":"Sijie Paishuizhixian"}}
+{
+  "id": 7475608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475608",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475608,
+    "tgn:name":"Sijie Paishuizhixian",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.794753,24.688545],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.983333,53.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7110536","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008903"],"id":7110536,"name:xx":"Raumenwiesen"}}
+{
+  "id": 7110536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110536",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110536,
+    "tgn:name":"Raumenwiesen",
+    "tgn:placetype":[
+        "aat:300008903"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.983333,53.25],"type":"Point"}
+}

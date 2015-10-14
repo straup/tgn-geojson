@@ -1,0 +1,27 @@
+{
+  "id": 7007049,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0def0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754692",
+        "gp:id":729808,
+        "qs:id":5,
+        "wof:id":101754813
+    },
+    "tgn:hierarchy":[
+        "tgn:7007049",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007049,
+    "tgn:name:nl":"Heemstede",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.616667,52.35],"type":"Point"}
+}

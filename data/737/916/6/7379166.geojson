@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.233333,19.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7379166","tgn:7005575","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7379166,"name:xx":"Mezont\u00e9petl, Cerro"}}
+{
+  "id": 7379166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379166",
+        "tgn:7005575",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379166,
+    "tgn:name":"Mezont\u00e9petl, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.233333,19.183333],"type":"Point"}
+}

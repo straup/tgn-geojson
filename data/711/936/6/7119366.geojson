@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.800000,52.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7119366","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386887"],"id":7119366,"name:xx":"Pf\u00fcgkuffer Heide"}}
+{
+  "id": 7119366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119366",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119366,
+    "tgn:name":"Pf\u00fcgkuffer Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8,52.05],"type":"Point"}
+}

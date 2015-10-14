@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.235833,22.835278]},"type":"Feature","properties":{"hierarchy":["tgn:7485463","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7485463,"name:xx":"Baoning Gong"}}
+{
+  "id": 7485463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485463",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485463,
+    "tgn:name":"Baoning Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.235833,22.835278],"type":"Point"}
+}

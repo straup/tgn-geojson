@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.900000,45.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2335735","tgn:1000001","tgn:7012149","tgn:2000990","tgn:7007520","tgn:7029392"],"placetype":["aat:300008850"],"id":2335735,"name:xx":"Forty Mile Point"}}
+{
+  "id": 2335735,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335735",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000990",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335735,
+    "tgn:name":"Forty Mile Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9,45.4833],"type":"Point"}
+}

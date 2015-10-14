@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.083300,33.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2159630","tgn:2001732","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008905"],"id":2159630,"name:xx":"Bee Tree Bay"}}
+{
+  "id": 2159630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159630",
+        "tgn:2001732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159630,
+    "tgn:name":"Bee Tree Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0833,33.15],"type":"Point"}
+}

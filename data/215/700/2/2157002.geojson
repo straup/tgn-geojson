@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.100000,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2157002","tgn:1000001","tgn:2001359","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008761"],"id":2157002,"name:xx":"Beauvais Canyon"}}
+{
+  "id": 2157002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157002",
+        "tgn:1000001",
+        "tgn:2001359",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157002,
+    "tgn:name":"Beauvais Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.1,40.25],"type":"Point"}
+}

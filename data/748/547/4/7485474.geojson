@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.245556,22.786111]},"type":"Feature","properties":{"hierarchy":["tgn:7485474","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7485474,"name:xx":"Wangye Miao"}}
+{
+  "id": 7485474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485474",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485474,
+    "tgn:name":"Wangye Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.245556,22.786111],"type":"Point"}
+}

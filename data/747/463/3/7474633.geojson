@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.361233,23.857062]},"type":"Feature","properties":{"hierarchy":["tgn:7474633","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474633,"name:xx":"Zhongshan Qiao"}}
+{
+  "id": 7474633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474633",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474633,
+    "tgn:name":"Zhongshan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.361233,23.857062],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.066700,32.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2337114","tgn:1000001","tgn:7012149","tgn:2001751","tgn:7007712","tgn:7029392"],"placetype":["aat:300008905"],"id":2337114,"name:xx":"Fourmile Swamp"}}
+{
+  "id": 2337114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337114",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001751",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337114,
+    "tgn:name":"Fourmile Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0667,32.3333],"type":"Point"}
+}

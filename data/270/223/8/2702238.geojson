@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.566700,34.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2702238","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300008798"],"id":2702238,"name:xx":"Sullivan Buttes"}}
+{
+  "id": 2702238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702238",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702238,
+    "tgn:name":"Sullivan Buttes",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.5667,34.8333],"type":"Point"}
+}

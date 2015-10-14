@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.600000,40.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7054947","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054947,"name:xx":"Loculi"}}
+{
+  "id": 7054947,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054947",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054947,
+    "tgn:name":"Loculi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.6,40.4],"type":"Point"}
+}

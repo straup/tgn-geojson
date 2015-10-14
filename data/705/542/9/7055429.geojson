@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.300000,42.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7055429","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055429,"name:xx":"Poggio Filippo"}}
+{
+  "id": 7055429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055429",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055429,
+    "tgn:name":"Poggio Filippo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.3,42.083333],"type":"Point"}
+}

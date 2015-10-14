@@ -1,0 +1,28 @@
+{
+  "id": 7014531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014531",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014531,
+    "tgn:name":"Springfield",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387302",
+        "aat:300387300",
+        "aat:300387313"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.5833,42.1],"type":"Point"}
+}

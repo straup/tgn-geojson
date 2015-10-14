@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.366667,53.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7119139","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7119139,"name:xx":"Picher, Forst"}}
+{
+  "id": 7119139,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119139",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119139,
+    "tgn:name":"Picher, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.366667,53.366667],"type":"Point"}
+}

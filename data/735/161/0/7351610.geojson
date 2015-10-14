@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.650000,24.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7351610","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7351610,"name:xx":"Boquilla, Puerto la"}}
+{
+  "id": 7351610,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351610",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351610,
+    "tgn:name":"Boquilla, Puerto la",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.65,24.883333],"type":"Point"}
+}

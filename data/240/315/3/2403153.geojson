@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.050000,25.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2403153","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300006075"],"id":2403153,"name:xx":"House Ditch"}}
+{
+  "id": 2403153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403153",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403153,
+    "tgn:name":"House Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.05,25.1333],"type":"Point"}
+}

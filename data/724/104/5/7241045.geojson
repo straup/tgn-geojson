@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.300000,49.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7241045","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7241045,"name:xx":"Haie, Bois de la"}}
+{
+  "id": 7241045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241045",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241045,
+    "tgn:name":"Haie, Bois de la",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.3,49.95],"type":"Point"}
+}

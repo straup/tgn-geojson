@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.133300,33.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022031","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000027","tgn:7029392"],"placetype":["aat:300008706"],"id":7022031,"name:xx":"Rook Creek"}}
+{
+  "id": 7022031,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022031",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000027",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022031,
+    "tgn:name":"Rook Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1333,33.9833],"type":"Point"}
+}

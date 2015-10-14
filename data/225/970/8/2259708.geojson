@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.766700,43.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2259708","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2259708,"name:xx":"Cougar Creek"}}
+{
+  "id": 2259708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259708,
+    "tgn:name":"Cougar Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7667,43.2333],"type":"Point"}
+}

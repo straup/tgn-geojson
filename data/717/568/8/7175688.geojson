@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.650000,53.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7175688","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7175688,"name:xx":"Gro\u00dfe Parchimer Wiese"}}
+{
+  "id": 7175688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175688",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175688,
+    "tgn:name":"Gro\u00dfe Parchimer Wiese",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.65,53.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.033333,43.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7055072","tgn:1003429","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7055072,"name:xx":"Polesco, Monte"}}
+{
+  "id": 7055072,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055072",
+        "tgn:1003429",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055072,
+    "tgn:name":"Polesco, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.033333,43.383333],"type":"Point"}
+}

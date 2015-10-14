@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.850000,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2255207","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002957","tgn:7029392"],"placetype":["aat:300008798"],"id":2255207,"name:xx":"Cooper Peak"}}
+{
+  "id": 2255207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255207",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002957",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255207,
+    "tgn:name":"Cooper Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.85,38.2333],"type":"Point"}
+}

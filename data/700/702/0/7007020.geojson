@@ -1,0 +1,25 @@
+{
+  "id": 7007020,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2756759",
+        "qs:id":4,
+        "wof:id":101806131
+    },
+    "tgn:hierarchy":[
+        "tgn:7007020",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007020,
+    "tgn:name:nl":"Dokkum",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.0,53.333333],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.700000,54.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7029309","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029309,"name:xx":"North Grimston"}}
+{
+  "id": 7029309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029309",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029309,
+    "tgn:name":"North Grimston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.7,54.083333],"type":"Point"}
+}

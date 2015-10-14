@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.626667,22.437500]},"type":"Feature","properties":{"hierarchy":["tgn:7484531","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484531,"name:xx":"Xiwashao Xi"}}
+{
+  "id": 7484531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484531",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484531,
+    "tgn:name":"Xiwashao Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.626667,22.4375],"type":"Point"}
+}

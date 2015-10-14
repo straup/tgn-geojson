@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.238333,24.775556]},"type":"Feature","properties":{"hierarchy":["tgn:7481304","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481304,"name:xx":"Jinfa Qiao"}}
+{
+  "id": 7481304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481304",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481304,
+    "tgn:name":"Jinfa Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.238333,24.775556],"type":"Point"}
+}

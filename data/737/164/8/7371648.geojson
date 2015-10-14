@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.788611,24.320556]},"type":"Feature","properties":{"hierarchy":["tgn:7371648","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371648,"name:xx":"La Caballada"}}
+{
+  "id": 7371648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371648",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371648,
+    "tgn:name":"La Caballada",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.788611,24.320556],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.000000,41.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7055852","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300386846"],"id":7055852,"name:xx":"Pizzo, Punta di"}}
+{
+  "id": 7055852,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055852",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055852,
+    "tgn:name":"Pizzo, Punta di",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.0,41.983333],"type":"Point"}
+}

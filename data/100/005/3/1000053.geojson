@@ -1,0 +1,21 @@
+{
+  "id": 1000053,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000053",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000053,
+    "tgn:name:en":"French Guiana",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300387176",
+        "aat:300387121"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-53.0,4.0],"type":"Point"}
+}

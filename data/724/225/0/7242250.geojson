@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.483333,50.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7242250","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242250,"name:xx":"La Hutte"}}
+{
+  "id": 7242250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242250",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242250,
+    "tgn:name":"La Hutte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.483333,50.65],"type":"Point"}
+}

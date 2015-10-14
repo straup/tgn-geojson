@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.033333,21.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7354327","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7354327,"name:xx":"Ca\u00f1ada Grande"}}
+{
+  "id": 7354327,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354327",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354327,
+    "tgn:name":"Ca\u00f1ada Grande",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.033333,21.85],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.483300,40.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7023125","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300386831"],"id":7023125,"name:xx":"Shade Mountain"}}
+{
+  "id": 7023125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023125",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023125,
+    "tgn:name":"Shade Mountain",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4833,40.6],"type":"Point"}
+}

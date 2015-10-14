@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.266700,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2337196","tgn:1000001","tgn:2001702","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2337196,"name:xx":"Fourth Creek"}}
+{
+  "id": 2337196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337196",
+        "tgn:1000001",
+        "tgn:2001702",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337196,
+    "tgn:name":"Fourth Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.2667,43.35],"type":"Point"}
+}

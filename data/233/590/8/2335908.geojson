@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.600000,61.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2335908","tgn:2124017","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2335908,"name:xx":"Fossil Creek"}}
+{
+  "id": 2335908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335908",
+        "tgn:2124017",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335908,
+    "tgn:name":"Fossil Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.6,61.3],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.666700,37.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2405748","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002621","tgn:7029392"],"placetype":["aat:300008798"],"id":2405748,"name:xx":"Hulbert Mountain"}}
+{
+  "id": 2405748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405748",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002621",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405748,
+    "tgn:name":"Hulbert Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.6667,37.05],"type":"Point"}
+}

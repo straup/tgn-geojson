@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.800000,46.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7021833","tgn:1000001","tgn:7012149","tgn:2000972","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":7021833,"name:xx":"Camp Seven Lake"}}
+{
+  "id": 7021833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021833",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000972",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021833,
+    "tgn:name":"Camp Seven Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8,46.45],"type":"Point"}
+}

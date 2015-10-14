@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.100000,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2156591","tgn:1000001","tgn:2002261","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008798"],"id":2156591,"name:xx":"Bearwallow Knob"}}
+{
+  "id": 2156591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156591",
+        "tgn:1000001",
+        "tgn:2002261",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156591,
+    "tgn:name":"Bearwallow Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1,38.1833],"type":"Point"}
+}

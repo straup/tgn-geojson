@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.858333,24.893333]},"type":"Feature","properties":{"hierarchy":["tgn:7483044","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483044,"name:xx":"Jindougong Miao"}}
+{
+  "id": 7483044,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483044",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483044,
+    "tgn:name":"Jindougong Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.858333,24.893333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.183300,45.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7020126","tgn:1000001","tgn:2001801","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008697"],"id":7020126,"name:xx":"Tepee Number One Spring"}}
+{
+  "id": 7020126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020126",
+        "tgn:1000001",
+        "tgn:2001801",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020126,
+    "tgn:name":"Tepee Number One Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.1833,45.4833],"type":"Point"}
+}

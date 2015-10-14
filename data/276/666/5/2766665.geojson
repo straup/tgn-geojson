@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.450000,33.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2766665","tgn:1000001","tgn:7012149","tgn:1002485","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2766665,"name:xx":"White Oak Junction"}}
+{
+  "id": 2766665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766665",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002485",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766665,
+    "tgn:name":"White Oak Junction",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.45,33.1333],"type":"Point"}
+}

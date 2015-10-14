@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.216700,48.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2403910","tgn:1000001","tgn:2000460","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2403910,"name:xx":"Howe Mountain"}}
+{
+  "id": 2403910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403910",
+        "tgn:1000001",
+        "tgn:2000460",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403910,
+    "tgn:name":"Howe Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.2167,48.1833],"type":"Point"}
+}

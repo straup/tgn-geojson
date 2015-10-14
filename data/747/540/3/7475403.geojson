@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.500000,22.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7475403","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475403,"name:xx":"Wen'antou"}}
+{
+  "id": 7475403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475403",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475403,
+    "tgn:name":"Wen'antou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5,22.433333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.266700,36.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2250027","tgn:1000001","tgn:7012149","tgn:2000785","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2250027,"name:xx":"Collins Branch"}}
+{
+  "id": 2250027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250027",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000785",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250027,
+    "tgn:name":"Collins Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2667,36.8833],"type":"Point"}
+}

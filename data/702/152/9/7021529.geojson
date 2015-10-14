@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.783300,29.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7021529","tgn:1000001","tgn:7012149","tgn:1002631","tgn:7007240","tgn:7029392"],"placetype":["aat:300008680"],"id":7021529,"name:xx":"Island Lake"}}
+{
+  "id": 7021529,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021529",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002631",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021529,
+    "tgn:name":"Island Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7833,29.0333],"type":"Point"}
+}

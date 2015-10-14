@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.083300,24.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2762128","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2762128,"name:xx":"West Sister Rock"}}
+{
+  "id": 2762128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762128",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762128,
+    "tgn:name":"West Sister Rock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0833,24.6833],"type":"Point"}
+}

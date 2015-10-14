@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.600000,42.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2254807","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008761"],"id":2254807,"name:xx":"Cooney Hollow"}}
+{
+  "id": 2254807,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254807",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254807,
+    "tgn:name":"Cooney Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6,42.3333],"type":"Point"}
+}

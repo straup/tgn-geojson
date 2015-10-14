@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.900000,21.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7379456","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379456,"name:xx":"Los Tanques"}}
+{
+  "id": 7379456,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379456",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379456,
+    "tgn:name":"Los Tanques",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.9,21.0],"type":"Point"}
+}

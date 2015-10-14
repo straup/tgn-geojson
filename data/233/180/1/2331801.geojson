@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-94.266700,40.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2331801","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2331801,"name:xx":"Fletchall Creek"}}
+{
+  "id": 2331801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331801",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331801,
+    "tgn:name":"Fletchall Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.2667,40.6],"type":"Point"}
+}

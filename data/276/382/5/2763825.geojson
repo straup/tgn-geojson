@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.316700,47.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2763825","tgn:1000001","tgn:7012149","tgn:2001276","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2763825,"name:xx":"Wheatcroft Reservoir"}}
+{
+  "id": 2763825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763825",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001276",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763825,
+    "tgn:name":"Wheatcroft Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.3167,47.25],"type":"Point"}
+}

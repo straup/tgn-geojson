@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.233333,20.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7371520","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7371520,"name:xx":"La Higuera, Cerro"}}
+{
+  "id": 7371520,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371520",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371520,
+    "tgn:name":"La Higuera, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.233333,20.75],"type":"Point"}
+}

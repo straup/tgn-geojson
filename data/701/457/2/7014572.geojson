@@ -1,0 +1,25 @@
+{
+  "id": 7014572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014572",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022218",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014572,
+    "tgn:name":"Virginia Beach",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387275",
+        "aat:300387298",
+        "aat:300387292"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9667,36.85],"type":"Point"}
+}

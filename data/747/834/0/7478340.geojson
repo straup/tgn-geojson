@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.567089,23.989420]},"type":"Feature","properties":{"hierarchy":["tgn:7478340","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478340,"name:xx":"Cunshang Qiao"}}
+{
+  "id": 7478340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478340",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478340,
+    "tgn:name":"Cunshang Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.567089,23.98942],"type":"Point"}
+}

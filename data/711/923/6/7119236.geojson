@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.733333,50.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7119236","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7119236,"name:xx":"Prie\u00dfnitz-Bach"}}
+{
+  "id": 7119236,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119236",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119236,
+    "tgn:name":"Prie\u00dfnitz-Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.733333,50.85],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.450000,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2404795","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":2404795,"name:xx":"Huckleberry Mountain"}}
+{
+  "id": 2404795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404795",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404795,
+    "tgn:name":"Huckleberry Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.45,37.8833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.133333,20.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7359827","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359827,"name:xx":"Dos Cerritos"}}
+{
+  "id": 7359827,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359827",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359827,
+    "tgn:name":"Dos Cerritos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.133333,20.25],"type":"Point"}
+}

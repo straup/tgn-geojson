@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.533300,33.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2405190","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2405190,"name:xx":"Huey Tank"}}
+{
+  "id": 2405190,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405190",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405190,
+    "tgn:name":"Huey Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5333,33.8167],"type":"Point"}
+}

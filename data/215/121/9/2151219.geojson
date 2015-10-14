@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.600000,36.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2151219","tgn:1000001","tgn:7012149","tgn:2001878","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2151219,"name:xx":"Bateman Branch"}}
+{
+  "id": 2151219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151219",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001878",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151219,
+    "tgn:name":"Bateman Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6,36.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.843361,24.642446]},"type":"Feature","properties":{"hierarchy":["tgn:7478932","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300055621"],"id":7478932,"name:xx":"Su'ao Weisheng Yanmaichang"}}
+{
+  "id": 7478932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478932",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478932,
+    "tgn:name":"Su'ao Weisheng Yanmaichang",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.843361,24.642446],"type":"Point"}
+}

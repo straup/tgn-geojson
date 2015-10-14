@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.650000,31.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7359572","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7359572,"name:xx":"Clara, Punta"}}
+{
+  "id": 7359572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359572",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359572,
+    "tgn:name":"Clara, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.65,31.533333],"type":"Point"}
+}

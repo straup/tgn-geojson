@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.333333,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7115603","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115603,"name:xx":"Oberzell"}}
+{
+  "id": 7115603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115603",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115603,
+    "tgn:name":"Oberzell",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.333333,48.5],"type":"Point"}
+}

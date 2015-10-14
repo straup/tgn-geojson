@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.540346,22.510482]},"type":"Feature","properties":{"hierarchy":["tgn:7481893","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7481893,"name:xx":"Bei'an He"}}
+{
+  "id": 7481893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481893",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481893,
+    "tgn:name":"Bei'an He",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.540346,22.510482],"type":"Point"}
+}

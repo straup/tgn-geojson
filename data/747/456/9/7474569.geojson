@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.233333,22.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7474569","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474569,"name:xx":"Yong'an Xiang"}}
+{
+  "id": 7474569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474569",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474569,
+    "tgn:name":"Yong'an Xiang",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.233333,22.816667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.400000,24.655000]},"type":"Feature","properties":{"hierarchy":["tgn:7481868","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7481868,"name:xx":"Guanghua Guoxiao"}}
+{
+  "id": 7481868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481868",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481868,
+    "tgn:name":"Guanghua Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.4,24.655],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.974167,22.995833]},"type":"Feature","properties":{"hierarchy":["tgn:7483296","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483296,"name:xx":"Zuomeiji"}}
+{
+  "id": 7483296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483296",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483296,
+    "tgn:name":"Zuomeiji",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.974167,22.995833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.016700,30.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2405374","tgn:1000001","tgn:7012149","tgn:2000912","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2405374,"name:xx":"Huggins"}}
+{
+  "id": 2405374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405374",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000912",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405374,
+    "tgn:name":"Huggins",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0167,30.7],"type":"Point"}
+}

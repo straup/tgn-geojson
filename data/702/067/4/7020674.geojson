@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.550000,43.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7020674","tgn:1000001","tgn:1002316","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300008905"],"id":7020674,"name:xx":"Lodi Marsh"}}
+{
+  "id": 7020674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020674",
+        "tgn:1000001",
+        "tgn:1002316",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020674,
+    "tgn:name":"Lodi Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.55,43.2833],"type":"Point"}
+}

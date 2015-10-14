@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[148.000000,-16.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7024224","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008808"],"id":7024224,"name:xx":"Holmes Reef"}}
+{
+  "id": 7024224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024224",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024224,
+    "tgn:name":"Holmes Reef",
+    "tgn:placetype":[
+        "aat:300008808"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[148.0,-16.45],"type":"Point"}
+}

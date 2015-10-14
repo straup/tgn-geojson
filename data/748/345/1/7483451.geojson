@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.920000,24.838333]},"type":"Feature","properties":{"hierarchy":["tgn:7483451","tgn:1000004","tgn:7001002","tgn:1000141","tgn:7029392"],"placetype":["aat:300008816"],"id":7483451,"name:xx":"Nanliao Haishui Yuchang"}}
+{
+  "id": 7483451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483451",
+        "tgn:1000004",
+        "tgn:7001002",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483451,
+    "tgn:name":"Nanliao Haishui Yuchang",
+    "tgn:placetype":[
+        "aat:300008816"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.92,24.838333],"type":"Point"}
+}

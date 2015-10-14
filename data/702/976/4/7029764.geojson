@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[0.338000,44.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7029764","tgn:7002878","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"name:fr":"La Sauvetat-du-Dropt","id":7029764}}
+{
+  "id": 7029764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029764",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029764,
+    "tgn:name:fr":"La Sauvetat-du-Dropt",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.338,44.65],"type":"Point"}
+}

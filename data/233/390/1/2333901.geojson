@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.633300,31.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2333901","tgn:1000001","tgn:7012149","tgn:2001122","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2333901,"name:xx":"Ford Branch"}}
+{
+  "id": 2333901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333901",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001122",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333901,
+    "tgn:name":"Ford Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.6333,31.35],"type":"Point"}
+}

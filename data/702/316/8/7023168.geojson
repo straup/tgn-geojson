@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.416700,39.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7023168","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7023168,"name:xx":"Shinn Run"}}
+{
+  "id": 7023168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023168",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023168,
+    "tgn:name":"Shinn Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4167,39.4833],"type":"Point"}
+}

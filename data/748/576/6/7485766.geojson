@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.608056,23.566944]},"type":"Feature","properties":{"hierarchy":["tgn:7485766","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7485766,"name:xx":"Juechiling Shan"}}
+{
+  "id": 7485766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485766",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485766,
+    "tgn:name":"Juechiling Shan",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.608056,23.566944],"type":"Point"}
+}

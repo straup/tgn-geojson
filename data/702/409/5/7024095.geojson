@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[68.666700,37.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7024095","tgn:1000004","tgn:7014835","tgn:7029392"],"placetype":["aat:300387179"],"id":7024095,"name:xx":"Kurgan-Tyubinskaya Oblast'"}}
+{
+  "id": 7024095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024095",
+        "tgn:1000004",
+        "tgn:7014835",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024095,
+    "tgn:name":"Kurgan-Tyubinskaya Oblast'",
+    "tgn:placetype":[
+        "aat:300387179"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[68.6667,37.75],"type":"Point"}
+}

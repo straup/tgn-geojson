@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.333333,50.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7246964","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7246964,"name:xx":"Ferme de la Boulloye"}}
+{
+  "id": 7246964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246964",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246964,
+    "tgn:name":"Ferme de la Boulloye",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.333333,50.1],"type":"Point"}
+}

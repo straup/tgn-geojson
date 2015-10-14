@@ -1,0 +1,24 @@
+{
+  "id": 7032532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7032532",
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7001828",
+        "tgn:1101734",
+        "tgn:7029392"
+    ],
+    "tgn:id":7032532,
+    "tgn:name":"Lake Mungo",
+    "tgn:placetype":[
+        "aat:300000810",
+        "aat:300266152",
+        "aat:300387006",
+        "aat:300387087"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[149.881,-37.083],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.379167,24.680000]},"type":"Feature","properties":{"hierarchy":["tgn:7481699","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7481699,"name:xx":"Baling Erhao Suidao"}}
+{
+  "id": 7481699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481699",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481699,
+    "tgn:name":"Baling Erhao Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.379167,24.68],"type":"Point"}
+}

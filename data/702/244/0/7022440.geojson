@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-115.883300,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022440","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386845"],"id":7022440,"name:xx":"Browns Basin"}}
+{
+  "id": 7022440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022440",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022440,
+    "tgn:name":"Browns Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8833,42.0],"type":"Point"}
+}

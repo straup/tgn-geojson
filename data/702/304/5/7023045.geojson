@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.583300,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7023045","tgn:1000001","tgn:7012149","tgn:7022217","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7023045,"name:xx":"Godwins Millpond"}}
+{
+  "id": 7023045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023045",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022217",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023045,
+    "tgn:name":"Godwins Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5833,36.85],"type":"Point"}
+}

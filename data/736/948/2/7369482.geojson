@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.000000,29.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7369482","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369482,"name:xx":"Jaboncillos, Arroyo de"}}
+{
+  "id": 7369482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369482",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369482,
+    "tgn:name":"Jaboncillos, Arroyo de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.0,29.366667],"type":"Point"}
+}

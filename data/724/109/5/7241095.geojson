@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.327069,50.798535]},"type":"Feature","properties":{"hierarchy":["tgn:7241095","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241095,"name:xx":"Hendrieken"}}
+{
+  "id": 7241095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241095",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241095,
+    "tgn:name":"Hendrieken",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.327069,50.798535],"type":"Point"}
+}

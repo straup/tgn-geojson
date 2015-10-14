@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.900000,47.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7177153","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177153,"name:xx":"Haldenberg"}}
+{
+  "id": 7177153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177153",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177153,
+    "tgn:name":"Haldenberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.9,47.683333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.484167,23.470278]},"type":"Feature","properties":{"hierarchy":["tgn:7483717","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7483717,"name:xx":"Jiayi Daxue Lantan Xiaoqu"}}
+{
+  "id": 7483717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483717",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483717,
+    "tgn:name":"Jiayi Daxue Lantan Xiaoqu",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.484167,23.470278],"type":"Point"}
+}

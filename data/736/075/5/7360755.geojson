@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.650000,28.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7360755","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360755,"name:xx":"Cueva del Toro"}}
+{
+  "id": 7360755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360755",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360755,
+    "tgn:name":"Cueva del Toro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.65,28.116667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.783300,47.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2156936","tgn:1000001","tgn:7012149","tgn:1002521","tgn:7007920","tgn:7029392"],"placetype":["aat:300008680"],"id":2156936,"name:xx":"Beausite Lake"}}
+{
+  "id": 2156936,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156936",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002521",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156936,
+    "tgn:name":"Beausite Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7833,47.9667],"type":"Point"}
+}

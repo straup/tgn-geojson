@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.094167,24.755833]},"type":"Feature","properties":{"hierarchy":["tgn:7475310","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475310,"name:xx":"Zaokeng"}}
+{
+  "id": 7475310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475310",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475310,
+    "tgn:name":"Zaokeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.094167,24.755833],"type":"Point"}
+}

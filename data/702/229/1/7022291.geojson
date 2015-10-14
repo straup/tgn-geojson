@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-79.750000,32.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7022291","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7022291,"name:xx":"Alston Creek"}}
+{
+  "id": 7022291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022291",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022291,
+    "tgn:name":"Alston Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.75,32.9167],"type":"Point"}
+}

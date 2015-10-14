@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.397626,23.903580]},"type":"Feature","properties":{"hierarchy":["tgn:7471246","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471246,"name:xx":"Houcuo Li"}}
+{
+  "id": 7471246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471246",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471246,
+    "tgn:name":"Houcuo Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.397626,23.90358],"type":"Point"}
+}

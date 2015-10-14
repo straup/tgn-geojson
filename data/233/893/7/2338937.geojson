@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-88.266700,30.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2338937","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2338937,"name:xx":"Franklin Creek"}}
+{
+  "id": 2338937,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338937",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338937,
+    "tgn:name":"Franklin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2667,30.4833],"type":"Point"}
+}

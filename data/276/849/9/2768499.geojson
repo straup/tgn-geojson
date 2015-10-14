@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.700000,37.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2768499","tgn:1000001","tgn:7012149","tgn:2000227","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2768499,"name:xx":"Whitewater Canyon"}}
+{
+  "id": 2768499,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768499",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000227",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768499,
+    "tgn:name":"Whitewater Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.7,37.4],"type":"Point"}
+}

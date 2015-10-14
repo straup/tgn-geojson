@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[178.816700,51.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2251056","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":2251056,"name:xx":"Column Rocks"}}
+{
+  "id": 2251056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251056",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251056,
+    "tgn:name":"Column Rocks",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[178.8167,51.5333],"type":"Point"}
+}

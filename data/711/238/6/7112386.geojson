@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.950000,50.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7112386","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300387173"],"id":7112386,"name:xx":"Amt Rheinbach-Land"}}
+{
+  "id": 7112386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112386",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112386,
+    "tgn:name":"Amt Rheinbach-Land",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.95,50.616667],"type":"Point"}
+}

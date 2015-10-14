@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.000000,45.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7055062","tgn:7005880","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055062,"name:xx":"Poletto"}}
+{
+  "id": 7055062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055062",
+        "tgn:7005880",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055062,
+    "tgn:name":"Poletto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.0,45.083333],"type":"Point"}
+}

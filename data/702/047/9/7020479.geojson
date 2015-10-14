@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.183300,48.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7020479","tgn:1000001","tgn:7012149","tgn:2001280","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":7020479,"name:xx":"Alkali Lakes Coulee"}}
+{
+  "id": 7020479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020479",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001280",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020479,
+    "tgn:name":"Alkali Lakes Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.1833,48.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.216700,40.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2252068","tgn:1000001","tgn:7012149","tgn:1002995","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2252068,"name:xx":"Condit Crossing"}}
+{
+  "id": 2252068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252068",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002995",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252068,
+    "tgn:name":"Condit Crossing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2167,40.05],"type":"Point"}
+}

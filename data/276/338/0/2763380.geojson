@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.000000,32.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2763380","tgn:1000001","tgn:7012149","tgn:2001455","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2763380,"name:xx":"Wetback Tank"}}
+{
+  "id": 2763380,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763380",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001455",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763380,
+    "tgn:name":"Wetback Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0,32.9333],"type":"Point"}
+}

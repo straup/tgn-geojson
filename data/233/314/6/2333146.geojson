@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.683300,45.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2333146","tgn:1000001","tgn:7012149","tgn:2001303","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2333146,"name:xx":"Flying V Ditch"}}
+{
+  "id": 2333146,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333146",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001303",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333146,
+    "tgn:name":"Flying V Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6833,45.2],"type":"Point"}
+}

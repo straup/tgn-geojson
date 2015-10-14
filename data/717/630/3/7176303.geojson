@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.466667,54.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7176303","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7176303,"name:xx":"Gro\u00df Soltwesterholz"}}
+{
+  "id": 7176303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176303",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176303,
+    "tgn:name":"Gro\u00df Soltwesterholz",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.466667,54.7],"type":"Point"}
+}

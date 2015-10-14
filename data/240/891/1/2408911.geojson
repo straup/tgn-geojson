@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.483300,43.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2408911","tgn:1000001","tgn:7012149","tgn:1002540","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2408911,"name:xx":"Hyser Lake"}}
+{
+  "id": 2408911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408911",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002540",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408911,
+    "tgn:name":"Hyser Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4833,43.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.266700,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2767188","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000191","tgn:7029392"],"placetype":["aat:300000390"],"id":2767188,"name:xx":"White Rock Mine"}}
+{
+  "id": 2767188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767188",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000191",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767188,
+    "tgn:name":"White Rock Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.2667,41.0833],"type":"Point"}
+}

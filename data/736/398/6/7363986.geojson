@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.833333,30.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7363986","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363986,"name:xx":"El Guante, Sierra"}}
+{
+  "id": 7363986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363986",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363986,
+    "tgn:name":"El Guante, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.833333,30.283333],"type":"Point"}
+}

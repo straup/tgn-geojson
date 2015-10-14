@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.833300,35.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2760815","tgn:1000001","tgn:7012149","tgn:2001930","tgn:7007825","tgn:7029392"],"placetype":["aat:300008707"],"id":2760815,"name:xx":"West Harpeth River"}}
+{
+  "id": 2760815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760815",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001930",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760815,
+    "tgn:name":"West Harpeth River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8333,35.7667],"type":"Point"}
+}

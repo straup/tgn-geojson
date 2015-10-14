@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.933300,45.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2405707","tgn:1000001","tgn:7012149","tgn:2001308","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2405707,"name:xx":"Huidekoper-Warp-McComb Ditch"}}
+{
+  "id": 2405707,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405707",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001308",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405707,
+    "tgn:name":"Huidekoper-Warp-McComb Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.9333,45.85],"type":"Point"}
+}

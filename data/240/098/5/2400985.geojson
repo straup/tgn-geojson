@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.100000,41.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2400985","tgn:1000001","tgn:7012149","tgn:1002833","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2400985,"name:xx":"Horse Stable Mountain"}}
+{
+  "id": 2400985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400985",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002833",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400985,
+    "tgn:name":"Horse Stable Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1,41.15],"type":"Point"}
+}

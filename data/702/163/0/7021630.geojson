@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.383300,34.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7021630","tgn:2001725","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7021630,"name:xx":"Parker Creek"}}
+{
+  "id": 7021630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021630",
+        "tgn:2001725",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021630,
+    "tgn:name":"Parker Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3833,34.1833],"type":"Point"}
+}

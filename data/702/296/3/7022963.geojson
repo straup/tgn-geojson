@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.066700,31.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7022963","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022963,"name:xx":"Folmars Pond"}}
+{
+  "id": 7022963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022963",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022963,
+    "tgn:name":"Folmars Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.0667,31.7],"type":"Point"}
+}

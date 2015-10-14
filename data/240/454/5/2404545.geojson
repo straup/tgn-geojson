@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.850000,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2404545","tgn:1000001","tgn:7012149","tgn:1002809","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2404545,"name:xx":"Hubbell Ditch"}}
+{
+  "id": 2404545,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404545",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002809",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404545,
+    "tgn:name":"Hubbell Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.85,41.0],"type":"Point"}
+}

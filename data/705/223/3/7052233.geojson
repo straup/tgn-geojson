@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.950000,43.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7052233","tgn:7003162","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052233,"name:xx":"Pergognano"}}
+{
+  "id": 7052233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052233",
+        "tgn:7003162",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052233,
+    "tgn:name":"Pergognano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.95,43.333333],"type":"Point"}
+}

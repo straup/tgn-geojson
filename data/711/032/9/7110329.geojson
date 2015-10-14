@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.866667,50.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7110329","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110329,"name:xx":"Rauschelbach"}}
+{
+  "id": 7110329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110329",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110329,
+    "tgn:name":"Rauschelbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.866667,50.5],"type":"Point"}
+}

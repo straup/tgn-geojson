@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.482874,25.270181]},"type":"Feature","properties":{"hierarchy":["tgn:7487089","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487089,"name:xx":"Balian Xi"}}
+{
+  "id": 7487089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487089",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487089,
+    "tgn:name":"Balian Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.482874,25.270181],"type":"Point"}
+}

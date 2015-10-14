@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.516700,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2337219","tgn:1000001","tgn:7012149","tgn:2002125","tgn:7007827","tgn:7029392"],"placetype":["aat:300386845"],"id":2337219,"name:xx":"Fourth Hole"}}
+{
+  "id": 2337219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337219",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002125",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337219,
+    "tgn:name":"Fourth Hole",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5167,40.25],"type":"Point"}
+}

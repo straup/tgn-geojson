@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.890000,22.259444]},"type":"Feature","properties":{"hierarchy":["tgn:7485200","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7485200,"name:xx":"Dishiliu Huguansuo"}}
+{
+  "id": 7485200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485200",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485200,
+    "tgn:name":"Dishiliu Huguansuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.89,22.259444],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.500000,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2251836","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300386845"],"id":2251836,"name:xx":"Con Shea Basin"}}
+{
+  "id": 2251836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251836",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251836,
+    "tgn:name":"Con Shea Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.5,43.25],"type":"Point"}
+}

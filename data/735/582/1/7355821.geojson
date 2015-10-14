@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.866667,26.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7355821","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7355821,"name:xx":"Cerrito Blanco"}}
+{
+  "id": 7355821,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355821",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355821,
+    "tgn:name":"Cerrito Blanco",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.866667,26.7],"type":"Point"}
+}

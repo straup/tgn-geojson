@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.083300,45.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2256896","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2256896,"name:xx":"Corley Creek"}}
+{
+  "id": 2256896,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256896",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256896,
+    "tgn:name":"Corley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.0833,45.3],"type":"Point"}
+}

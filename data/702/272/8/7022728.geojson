@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.150000,39.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7022728","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008798"],"id":7022728,"name:xx":"Daly, Mount"}}
+{
+  "id": 7022728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022728",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022728,
+    "tgn:name":"Daly, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.15,39.1],"type":"Point"}
+}

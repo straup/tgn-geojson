@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.633300,42.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2768598","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2768598,"name:xx":"Whitin Pond"}}
+{
+  "id": 2768598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768598",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768598,
+    "tgn:name":"Whitin Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.6333,42.0833],"type":"Point"}
+}

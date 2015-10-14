@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.469500,23.973800]},"type":"Feature","properties":{"hierarchy":["tgn:7470770","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470770,"name:xx":"Xiliao Li"}}
+{
+  "id": 7470770,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470770",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470770,
+    "tgn:name":"Xiliao Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4695,23.9738],"type":"Point"}
+}

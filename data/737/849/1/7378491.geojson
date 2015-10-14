@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,19.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7378491","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378491,"name:xx":"Los Picachos"}}
+{
+  "id": 7378491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378491",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378491,
+    "tgn:name":"Los Picachos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,19.466667],"type":"Point"}
+}

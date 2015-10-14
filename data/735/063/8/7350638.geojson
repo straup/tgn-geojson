@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.000000,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7350638","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008805"],"id":7350638,"name:xx":"Caballos Meste\u00f1os, Llano de los"}}
+{
+  "id": 7350638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350638",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350638,
+    "tgn:name":"Caballos Meste\u00f1os, Llano de los",
+    "tgn:placetype":[
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0,28.5],"type":"Point"}
+}

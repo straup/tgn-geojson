@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.666700,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2409191","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008746"],"id":2409191,"name:xx":"Ice River Caves"}}
+{
+  "id": 2409191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409191",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409191,
+    "tgn:name":"Ice River Caves",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6667,41.3833],"type":"Point"}
+}

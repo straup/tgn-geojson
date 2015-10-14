@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.616700,47.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7026045","tgn:7003026","tgn:1000003","tgn:1000062","tgn:7029392"],"placetype":["aat:300008347"],"id":7026045,"name:xx":"Hallst\u00e4ttergletscher"}}
+{
+  "id": 7026045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026045",
+        "tgn:7003026",
+        "tgn:1000003",
+        "tgn:1000062",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026045,
+    "tgn:name":"Hallst\u00e4ttergletscher",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.6167,47.4833],"type":"Point"}
+}

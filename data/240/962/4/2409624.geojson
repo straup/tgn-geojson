@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.483300,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2409624","tgn:1000001","tgn:7012149","tgn:7014510","tgn:7007920","tgn:7029392"],"placetype":["aat:300008791"],"id":2409624,"name:xx":"Ika Island"}}
+{
+  "id": 2409624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409624",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014510",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409624,
+    "tgn:name":"Ika Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.4833,48.35],"type":"Point"}
+}

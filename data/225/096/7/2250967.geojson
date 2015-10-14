@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.500000,36.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2250967","tgn:1000001","tgn:7012149","tgn:2001457","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2250967,"name:xx":"Columbine Creek Prospect"}}
+{
+  "id": 2250967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250967",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001457",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250967,
+    "tgn:name":"Columbine Creek Prospect",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.5,36.6667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.542066,24.938130]},"type":"Feature","properties":{"hierarchy":["tgn:7472870","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472870,"name:xx":"Gan'en Qiao"}}
+{
+  "id": 7472870,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472870",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472870,
+    "tgn:name":"Gan'en Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.542066,24.93813],"type":"Point"}
+}

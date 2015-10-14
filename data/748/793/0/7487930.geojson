@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.254722,24.903611]},"type":"Feature","properties":{"hierarchy":["tgn:7487930","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487930,"name:xx":"Nanxing Li"}}
+{
+  "id": 7487930,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487930",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487930,
+    "tgn:name":"Nanxing Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.254722,24.903611],"type":"Point"}
+}

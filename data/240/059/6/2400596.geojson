@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.550000,42.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2400596","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2400596,"name:xx":"Horse Meadows Reservoir"}}
+{
+  "id": 2400596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400596",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400596,
+    "tgn:name":"Horse Meadows Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.55,42.4833],"type":"Point"}
+}

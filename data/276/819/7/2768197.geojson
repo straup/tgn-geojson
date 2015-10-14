@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.150000,37.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2768197","tgn:1000001","tgn:7012149","tgn:2002264","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2768197,"name:xx":"Whites Draft"}}
+{
+  "id": 2768197,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768197",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002264",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768197,
+    "tgn:name":"Whites Draft",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.15,37.8667],"type":"Point"}
+}

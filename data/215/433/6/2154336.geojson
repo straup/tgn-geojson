@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.783300,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2154336","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008706"],"id":2154336,"name:xx":"Bear Creek"}}
+{
+  "id": 2154336,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154336",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154336,
+    "tgn:name":"Bear Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.7833,41.3333],"type":"Point"}
+}

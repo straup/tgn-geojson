@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.583300,35.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2760586","tgn:1000001","tgn:2001747","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":2760586,"name:xx":"West Fork Wattacoo Creek"}}
+{
+  "id": 2760586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760586",
+        "tgn:1000001",
+        "tgn:2001747",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760586,
+    "tgn:name":"West Fork Wattacoo Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5833,35.0833],"type":"Point"}
+}

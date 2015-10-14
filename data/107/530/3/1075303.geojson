@@ -1,0 +1,25 @@
+{
+  "id": 1075303,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1075303",
+        "tgn:1000004",
+        "tgn:7000198",
+        "tgn:1001957",
+        "tgn:7029392"
+    ],
+    "tgn:id":1075303,
+    "tgn:name:en":"Gangtok",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387220",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[88.612155,27.325739],"type":"Point"}
+}

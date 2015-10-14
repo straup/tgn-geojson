@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.833300,43.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2150033","tgn:1000001","tgn:7014352","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008699"],"id":2150033,"name:xx":"Barton Brook"}}
+{
+  "id": 2150033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150033",
+        "tgn:1000001",
+        "tgn:7014352",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150033,
+    "tgn:name":"Barton Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.8333,43.0],"type":"Point"}
+}

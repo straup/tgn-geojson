@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.500000,34.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2338715","tgn:1000001","tgn:7012149","tgn:2001524","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2338715,"name:xx":"Francktown"}}
+{
+  "id": 2338715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338715",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001524",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338715,
+    "tgn:name":"Francktown",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.5,34.9],"type":"Point"}
+}

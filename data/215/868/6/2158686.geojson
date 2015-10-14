@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.066700,30.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2158686","tgn:1000001","tgn:7012149","tgn:2000278","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2158686,"name:xx":"Beazly Hammock"}}
+{
+  "id": 2158686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158686",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000278",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158686,
+    "tgn:name":"Beazly Hammock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0667,30.1833],"type":"Point"}
+}

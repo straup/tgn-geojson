@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[4.831919,50.137731]},"type":"Feature","properties":{"hierarchy":["tgn:7243746","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008699"],"id":7243746,"name:xx":"Houille"}}
+{
+  "id": 7243746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243746",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243746,
+    "tgn:name":"Houille",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.831919,50.137731],"type":"Point"}
+}

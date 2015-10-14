@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.633333,30.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7365897","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365897,"name:xx":"Galera Coste\u00f1a"}}
+{
+  "id": 7365897,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365897",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365897,
+    "tgn:name":"Galera Coste\u00f1a",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.633333,30.083333],"type":"Point"}
+}

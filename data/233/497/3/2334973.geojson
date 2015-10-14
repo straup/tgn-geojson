@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.666700,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2334973","tgn:1000001","tgn:7012149","tgn:7014612","tgn:7007568","tgn:7029392"],"placetype":["aat:300132348"],"id":2334973,"name:xx":"Forlies Rocks"}}
+{
+  "id": 2334973,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334973",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014612",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334973,
+    "tgn:name":"Forlies Rocks",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.6667,40.95],"type":"Point"}
+}

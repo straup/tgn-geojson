@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-84.033300,35.616700]},"type":"Feature","properties":{"hierarchy":["tgn:7022531","tgn:1000001","tgn:2001841","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347","aat:300167671"],"id":7022531,"name:xx":"Chota"}}
+{
+  "id": 7022531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022531",
+        "tgn:1000001",
+        "tgn:2001841",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022531,
+    "tgn:name":"Chota",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0333,35.6167],"type":"Point"}
+}

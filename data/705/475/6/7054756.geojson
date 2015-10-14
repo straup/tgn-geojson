@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.666667,41.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7054756","tgn:7003138","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008863"],"id":7054756,"name:xx":"Padiglione, Bosco di"}}
+{
+  "id": 7054756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054756",
+        "tgn:7003138",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054756,
+    "tgn:name":"Padiglione, Bosco di",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.666667,41.5],"type":"Point"}
+}

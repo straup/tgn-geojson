@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.600000,44.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2336570","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300386845"],"id":2336570,"name:xx":"Four Lakes Basin"}}
+{
+  "id": 2336570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336570",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336570,
+    "tgn:name":"Four Lakes Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6,44.05],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[15.316667,38.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7050757","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050757,"name:xx":"Niceto, Fiumara di"}}
+{
+  "id": 7050757,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050757",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050757,
+    "tgn:name":"Niceto, Fiumara di",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.316667,38.216667],"type":"Point"}
+}

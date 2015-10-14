@@ -1,0 +1,27 @@
+{
+  "id": 7264736,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f11780-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752918",
+        "gp:id":730692,
+        "qs:id":3,
+        "wof:id":101855265
+    },
+    "tgn:hierarchy":[
+        "tgn:7264736",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264736,
+    "tgn:name:nl":"Kerkwerve",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.9,51.683333],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7272541,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "gn:id":"2745439"
+    },
+    "tgn:hierarchy":[
+        "tgn:7272541",
+        "tgn:1000003",
+        "tgn:7003613",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7272541,
+    "tgn:name:nl":"Vledderveen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.033333,53.0],"type":"Point"}
+}

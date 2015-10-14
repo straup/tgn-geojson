@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.383300,41.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2763627","tgn:1000001","tgn:1002714","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008706"],"id":2763627,"name:xx":"Whalebone Creek"}}
+{
+  "id": 2763627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763627",
+        "tgn:1000001",
+        "tgn:1002714",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763627,
+    "tgn:name":"Whalebone Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.3833,41.4],"type":"Point"}
+}

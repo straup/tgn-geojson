@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.166700,30.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2259872","tgn:2000854","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2259872,"name:xx":"Coulee Duralde"}}
+{
+  "id": 2259872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259872",
+        "tgn:2000854",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259872,
+    "tgn:name":"Coulee Duralde",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.1667,30.2833],"type":"Point"}
+}

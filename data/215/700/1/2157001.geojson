@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.133300,41.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2157001","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2157001,"name:xx":"Beautys Run"}}
+{
+  "id": 2157001,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157001",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157001,
+    "tgn:name":"Beautys Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.1333,41.3],"type":"Point"}
+}

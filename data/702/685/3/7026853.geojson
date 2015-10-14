@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.450000,51.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7026853","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Fullerton","id":7026853}}
+{
+  "id": 7026853,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026853",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026853,
+    "tgn:name:en":"Fullerton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.45,51.133333],"type":"Point"}
+}

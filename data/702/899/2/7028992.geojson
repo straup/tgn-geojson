@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.183333,53.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7028992","tgn:7002445","tgn:1000003","tgn:7019064","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028992,"name:xx":"Askham Richard"}}
+{
+  "id": 7028992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028992",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7019064",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028992,
+    "tgn:name":"Askham Richard",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.183333,53.933333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.483333,26.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7358898","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7358898,"name:xx":"Cruces, Arroyo de"}}
+{
+  "id": 7358898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358898",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358898,
+    "tgn:name":"Cruces, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.483333,26.216667],"type":"Point"}
+}

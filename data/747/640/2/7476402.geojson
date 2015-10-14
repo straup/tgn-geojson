@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.913010,24.620383]},"type":"Feature","properties":{"hierarchy":["tgn:7476402","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476402,"name:xx":"Liwu"}}
+{
+  "id": 7476402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476402",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476402,
+    "tgn:name":"Liwu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.91301,24.620383],"type":"Point"}
+}

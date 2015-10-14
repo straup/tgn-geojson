@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.959871,50.850946]},"type":"Feature","properties":{"hierarchy":["tgn:7248803","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248803,"name:xx":"Boeslinter"}}
+{
+  "id": 7248803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248803",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248803,
+    "tgn:name":"Boeslinter",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.959871,50.850946],"type":"Point"}
+}

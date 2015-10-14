@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.011389,24.775556]},"type":"Feature","properties":{"hierarchy":["tgn:7481475","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7481475,"name:xx":"Xinzhu Kexueyuan Qu"}}
+{
+  "id": 7481475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481475",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481475,
+    "tgn:name":"Xinzhu Kexueyuan Qu",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.011389,24.775556],"type":"Point"}
+}

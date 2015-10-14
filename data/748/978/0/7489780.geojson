@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.538944,25.110890]},"type":"Feature","properties":{"hierarchy":["tgn:7489780","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489780,"name:xx":"Shijiao"}}
+{
+  "id": 7489780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489780",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489780,
+    "tgn:name":"Shijiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.538944,25.11089],"type":"Point"}
+}

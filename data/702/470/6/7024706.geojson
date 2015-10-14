@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.516700,47.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7024706","tgn:1000003","tgn:7002875","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024706,"name:xx":"Ampilly-le-Sec"}}
+{
+  "id": 7024706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024706",
+        "tgn:1000003",
+        "tgn:7002875",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024706,
+    "tgn:name":"Ampilly-le-Sec",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5167,47.8],"type":"Point"}
+}

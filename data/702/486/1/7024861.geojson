@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.300000,46.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7024861","tgn:7024845","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7024861,"name:xx":"Dervio"}}
+{
+  "id": 7024861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024861",
+        "tgn:7024845",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024861,
+    "tgn:name":"Dervio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.3,46.066667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.150000,37.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2256484","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014004","tgn:7029392"],"placetype":["aat:300008706"],"id":2256484,"name:xx":"Corbet Creek"}}
+{
+  "id": 2256484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256484",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014004",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256484,
+    "tgn:name":"Corbet Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.15,37.55],"type":"Point"}
+}

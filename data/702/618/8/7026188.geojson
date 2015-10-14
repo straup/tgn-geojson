@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.450000,51.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7026188","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Finchingfield","id":7026188}}
+{
+  "id": 7026188,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026188",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026188,
+    "tgn:name:en":"Finchingfield",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.45,51.966667],"type":"Point"}
+}

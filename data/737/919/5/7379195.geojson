@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.938611,24.490556]},"type":"Feature","properties":{"hierarchy":["tgn:7379195","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7379195,"name:xx":"Los Cojudos, Cerro"}}
+{
+  "id": 7379195,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379195",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379195,
+    "tgn:name":"Los Cojudos, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.938611,24.490556],"type":"Point"}
+}

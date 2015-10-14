@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.572293,22.672674]},"type":"Feature","properties":{"hierarchy":["tgn:7480992","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7480992,"name:xx":"Fubo Xincun"}}
+{
+  "id": 7480992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480992",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480992,
+    "tgn:name":"Fubo Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.572293,22.672674],"type":"Point"}
+}

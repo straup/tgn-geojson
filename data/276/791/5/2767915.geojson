@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.716700,42.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2767915","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2767915,"name:xx":"Whiteline Reservoir"}}
+{
+  "id": 2767915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767915",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767915,
+    "tgn:name":"Whiteline Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7167,42.3333],"type":"Point"}
+}

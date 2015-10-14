@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.033300,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2337090","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008699"],"id":2337090,"name:xx":"Fourmile Slough"}}
+{
+  "id": 2337090,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337090",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337090,
+    "tgn:name":"Fourmile Slough",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.0333,42.6],"type":"Point"}
+}

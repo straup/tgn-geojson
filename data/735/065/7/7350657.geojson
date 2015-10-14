@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.083333,29.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7350657","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350657,"name:xx":"Caballo, Arroyo del"}}
+{
+  "id": 7350657,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350657",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350657,
+    "tgn:name":"Caballo, Arroyo del",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.083333,29.766667],"type":"Point"}
+}

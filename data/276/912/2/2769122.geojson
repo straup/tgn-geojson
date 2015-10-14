@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.333300,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2769122","tgn:1000001","tgn:7012149","tgn:1002671","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2769122,"name:xx":"Whittle Creek"}}
+{
+  "id": 2769122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769122",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002671",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769122,
+    "tgn:name":"Whittle Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.3333,38.0333],"type":"Point"}
+}

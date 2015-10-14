@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.433333,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7247940","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7247940,"name:xx":"Eede"}}
+{
+  "id": 7247940,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247940",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247940,
+    "tgn:name":"Eede",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.433333,51.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.250000,47.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2156508","tgn:1000001","tgn:7012149","tgn:2001304","tgn:7007524","tgn:7029392"],"placetype":["aat:300008699"],"id":2156508,"name:xx":"Beartrap Fork"}}
+{
+  "id": 2156508,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156508",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001304",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156508,
+    "tgn:name":"Beartrap Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.25,47.8333],"type":"Point"}
+}

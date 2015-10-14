@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.216667,27.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7358684","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7358684,"name:xx":"Colorada, Sierra"}}
+{
+  "id": 7358684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358684",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358684,
+    "tgn:name":"Colorada, Sierra",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.216667,27.95],"type":"Point"}
+}

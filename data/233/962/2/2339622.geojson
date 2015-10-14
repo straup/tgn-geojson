@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.016700,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2339622","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000250","tgn:7029392"],"placetype":["aat:300008761"],"id":2339622,"name:xx":"Fredonia Gulch"}}
+{
+  "id": 2339622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339622",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339622,
+    "tgn:name":"Fredonia Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0167,39.4],"type":"Point"}
+}

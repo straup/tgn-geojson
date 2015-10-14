@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.708932,22.691658]},"type":"Feature","properties":{"hierarchy":["tgn:7470103","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470103,"name:xx":"Haochacun"}}
+{
+  "id": 7470103,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470103",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470103,
+    "tgn:name":"Haochacun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.708932,22.691658],"type":"Point"}
+}

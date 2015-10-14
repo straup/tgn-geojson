@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.783333,26.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7366728","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7366728,"name:xx":"Espinazo del Diablo, Mesa"}}
+{
+  "id": 7366728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366728",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366728,
+    "tgn:name":"Espinazo del Diablo, Mesa",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.783333,26.716667],"type":"Point"}
+}

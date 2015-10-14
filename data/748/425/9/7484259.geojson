@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.553333,23.048056]},"type":"Feature","properties":{"hierarchy":["tgn:7484259","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7484259,"name:xx":"Lingyin Si"}}
+{
+  "id": 7484259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484259",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484259,
+    "tgn:name":"Lingyin Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.553333,23.048056],"type":"Point"}
+}

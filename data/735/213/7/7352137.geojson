@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.700000,30.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7352137","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7352137,"name:xx":"Rancho Altamira"}}
+{
+  "id": 7352137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352137",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352137,
+    "tgn:name":"Rancho Altamira",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.7,30.866667],"type":"Point"}
+}

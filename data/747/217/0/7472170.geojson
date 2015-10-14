@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.755132,24.828163]},"type":"Feature","properties":{"hierarchy":["tgn:7472170","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472170,"name:xx":"Wufengqi"}}
+{
+  "id": 7472170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472170",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472170,
+    "tgn:name":"Wufengqi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.755132,24.828163],"type":"Point"}
+}

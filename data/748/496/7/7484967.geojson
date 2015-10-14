@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.692222,23.164167]},"type":"Feature","properties":{"hierarchy":["tgn:7484967","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7484967,"name:xx":"Yushan Shanmai"}}
+{
+  "id": 7484967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484967",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484967,
+    "tgn:name":"Yushan Shanmai",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.692222,23.164167],"type":"Point"}
+}

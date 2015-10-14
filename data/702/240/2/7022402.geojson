@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-113.733300,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022402","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300055621"],"id":7022402,"name:xx":"Blakes Lambing Grounds"}}
+{
+  "id": 7022402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022402",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022402,
+    "tgn:name":"Blakes Lambing Grounds",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7333,36.9833],"type":"Point"}
+}

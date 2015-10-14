@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.583300,36.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2250527","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2250527,"name:xx":"Colony East Ditch"}}
+{
+  "id": 2250527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250527",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250527,
+    "tgn:name":"Colony East Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.5833,36.9833],"type":"Point"}
+}

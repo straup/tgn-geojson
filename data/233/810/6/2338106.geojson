@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.783300,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2338106","tgn:1000001","tgn:7012149","tgn:7014612","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2338106,"name:xx":"Fox Meadow"}}
+{
+  "id": 2338106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338106",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014612",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338106,
+    "tgn:name":"Fox Meadow",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7833,41.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.050000,42.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2253446","tgn:2000455","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300006075"],"id":2253446,"name:xx":"Cook Canal"}}
+{
+  "id": 2253446,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253446",
+        "tgn:2000455",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253446,
+    "tgn:name":"Cook Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.05,42.1833],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7267223,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f17946-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750280",
+        "gp:id":731998,
+        "qs:id":9,
+        "wof:id":101855301
+    },
+    "tgn:hierarchy":[
+        "tgn:7267223",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7267223,
+    "tgn:name:nl":"Nieuwenhoorn",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.15,51.85],"type":"Point"}
+}

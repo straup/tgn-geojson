@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.316700,33.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2763695","tgn:1000001","tgn:2001944","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2763695,"name:xx":"Whaley Lake"}}
+{
+  "id": 2763695,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763695",
+        "tgn:1000001",
+        "tgn:2001944",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763695,
+    "tgn:name":"Whaley Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.3167,33.5333],"type":"Point"}
+}

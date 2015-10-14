@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.383300,47.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7020053","tgn:1000001","tgn:1002260","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300006191"],"id":7020053,"name:xx":"HH Reservoir Number 2"}}
+{
+  "id": 7020053,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020053",
+        "tgn:1000001",
+        "tgn:1002260",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020053,
+    "tgn:name":"HH Reservoir Number 2",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.3833,47.3333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.250403,25.072925]},"type":"Feature","properties":{"hierarchy":["tgn:7477045","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7477045,"name:xx":"Wuguzi"}}
+{
+  "id": 7477045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477045",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477045,
+    "tgn:name":"Wuguzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.250403,25.072925],"type":"Point"}
+}

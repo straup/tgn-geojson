@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[2.466700,48.116700]},"type":"Feature","properties":{"hierarchy":["tgn:7024684","tgn:1000003","tgn:7002877","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024684,"name:xx":"Auxy"}}
+{
+  "id": 7024684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024684",
+        "tgn:1000003",
+        "tgn:7002877",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024684,
+    "tgn:name":"Auxy",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.4667,48.1167],"type":"Point"}
+}

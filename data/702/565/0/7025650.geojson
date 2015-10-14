@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-4.016700,50.316700]},"type":"Feature","properties":{"hierarchy":["tgn:7025650","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025650,"name:xx":"Membland"}}
+{
+  "id": 7025650,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025650",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025650,
+    "tgn:name":"Membland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-4.0167,50.3167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.750000,51.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7179728","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7179728,"name:xx":"F\u00f6rsterei Gr\u00fcnthal"}}
+{
+  "id": 7179728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179728",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179728,
+    "tgn:name":"F\u00f6rsterei Gr\u00fcnthal",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.75,51.666667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[20.694000,50.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7029573","tgn:1000003","tgn:7024129","tgn:7006366","tgn:7029392"],"placetype":["aat:300008347"],"id":7029573,"name:xx":"Wi\u015blica"}}
+{
+  "id": 7029573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029573",
+        "tgn:1000003",
+        "tgn:7024129",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029573,
+    "tgn:name":"Wi\u015blica",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.694,50.35],"type":"Point"}
+}

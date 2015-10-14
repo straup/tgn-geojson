@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.933333,24.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7368306","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368306,"name:xx":"Gru\u00f1idora"}}
+{
+  "id": 7368306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368306",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368306,
+    "tgn:name":"Gru\u00f1idora",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.933333,24.2],"type":"Point"}
+}

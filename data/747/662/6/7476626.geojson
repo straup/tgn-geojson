@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.650231,23.596634]},"type":"Feature","properties":{"hierarchy":["tgn:7476626","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7476626,"name:xx":"Jushan Si"}}
+{
+  "id": 7476626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476626",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476626,
+    "tgn:name":"Jushan Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.650231,23.596634],"type":"Point"}
+}

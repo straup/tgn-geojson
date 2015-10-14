@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.133300,33.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7021784","tgn:1000001","tgn:7012149","tgn:2001762","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021784,"name:xx":"Harleys Millpond"}}
+{
+  "id": 7021784,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021784",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001762",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021784,
+    "tgn:name":"Harleys Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.1333,33.5833],"type":"Point"}
+}

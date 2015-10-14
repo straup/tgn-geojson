@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.870776,24.581426]},"type":"Feature","properties":{"hierarchy":["tgn:7475621","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7475621,"name:xx":"Nanfang'ao Yugang"}}
+{
+  "id": 7475621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475621",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475621,
+    "tgn:name":"Nanfang'ao Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.870776,24.581426],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-41.483300,63.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7024590","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008795"],"id":7024590,"name:xx":"Hakkefjeld"}}
+{
+  "id": 7024590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024590",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024590,
+    "tgn:name":"Hakkefjeld",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-41.4833,63.55],"type":"Point"}
+}

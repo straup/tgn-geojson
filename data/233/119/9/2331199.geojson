@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.566700,32.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2331199","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000101","tgn:7029392"],"placetype":["aat:300008798"],"id":2331199,"name:xx":"Flat Top Mountain"}}
+{
+  "id": 2331199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331199",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000101",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331199,
+    "tgn:name":"Flat Top Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.5667,32.85],"type":"Point"}
+}

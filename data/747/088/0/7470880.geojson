@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.493324,25.081729]},"type":"Feature","properties":{"hierarchy":["tgn:7470880","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7470880,"name:xx":"Xiwei"}}
+{
+  "id": 7470880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470880",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470880,
+    "tgn:name":"Xiwei",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.493324,25.081729],"type":"Point"}
+}

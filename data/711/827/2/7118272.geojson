@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.950000,48.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7118272","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118272,"name:xx":"Petersh\u00f6fe"}}
+{
+  "id": 7118272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118272",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118272,
+    "tgn:name":"Petersh\u00f6fe",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.95,48.083333],"type":"Point"}
+}

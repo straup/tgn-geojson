@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.380556,24.679444]},"type":"Feature","properties":{"hierarchy":["tgn:7487180","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7487180,"name:xx":"Sanguang Xi"}}
+{
+  "id": 7487180,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487180",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487180,
+    "tgn:name":"Sanguang Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.380556,24.679444],"type":"Point"}
+}

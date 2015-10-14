@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.850000,45.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2333803","tgn:1000001","tgn:7012149","tgn:2001293","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2333803,"name:xx":"Forage Creek"}}
+{
+  "id": 2333803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333803",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001293",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333803,
+    "tgn:name":"Forage Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.85,45.0333],"type":"Point"}
+}

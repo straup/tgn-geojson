@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.292500,49.002500]},"type":"Feature","properties":{"hierarchy":["tgn:7173533","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7173533,"name:xx":"Gro\u00dfbottwar"}}
+{
+  "id": 7173533,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173533",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173533,
+    "tgn:name":"Gro\u00dfbottwar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.2925,49.0025],"type":"Point"}
+}

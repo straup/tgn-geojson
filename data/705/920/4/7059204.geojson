@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.300000,0.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7059204","tgn:1001487","tgn:7002561","tgn:1000051","tgn:1000002","tgn:7029392"],"placetype":["aat:300008347"],"id":7059204,"name:xx":"Hacienda Cochasqu\u00ed"}}
+{
+  "id": 7059204,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059204",
+        "tgn:1001487",
+        "tgn:7002561",
+        "tgn:1000051",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059204,
+    "tgn:name":"Hacienda Cochasqu\u00ed",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.3,0.05],"type":"Point"}
+}

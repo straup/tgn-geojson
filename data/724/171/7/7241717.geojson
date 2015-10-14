@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.069041,50.869410]},"type":"Feature","properties":{"hierarchy":["tgn:7241717","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241717,"name:xx":"Leenhaag"}}
+{
+  "id": 7241717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241717",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241717,
+    "tgn:name":"Leenhaag",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.069041,50.86941],"type":"Point"}
+}

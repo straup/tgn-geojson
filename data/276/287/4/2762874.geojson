@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.433300,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2762874","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2762874,"name:xx":"Westford Station"}}
+{
+  "id": 2762874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762874",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762874,
+    "tgn:name":"Westford Station",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.4333,42.5833],"type":"Point"}
+}

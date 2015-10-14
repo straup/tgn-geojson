@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.006247,50.557476]},"type":"Feature","properties":{"hierarchy":["tgn:7245015","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7245015,"name:xx":"Bafenrieux"}}
+{
+  "id": 7245015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245015",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245015,
+    "tgn:name":"Bafenrieux",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.006247,50.557476],"type":"Point"}
+}

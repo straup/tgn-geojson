@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.605573,24.515182]},"type":"Feature","properties":{"hierarchy":["tgn:7476316","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7476316,"name:xx":"Cuifeng Hu"}}
+{
+  "id": 7476316,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476316",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476316,
+    "tgn:name":"Cuifeng Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.605573,24.515182],"type":"Point"}
+}

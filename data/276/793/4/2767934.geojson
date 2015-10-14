@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.866700,44.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2767934","tgn:1000001","tgn:7012149","tgn:2001828","tgn:7007713","tgn:7029392"],"placetype":["aat:300008761"],"id":2767934,"name:xx":"Whiteman Draw"}}
+{
+  "id": 2767934,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767934",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001828",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767934,
+    "tgn:name":"Whiteman Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.8667,44.7333],"type":"Point"}
+}

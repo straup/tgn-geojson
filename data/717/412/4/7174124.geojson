@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.183333,51.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7174124","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7174124,"name:xx":"Gro\u00dfer Mittel-Teich"}}
+{
+  "id": 7174124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174124",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174124,
+    "tgn:name":"Gro\u00dfer Mittel-Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.183333,51.333333],"type":"Point"}
+}

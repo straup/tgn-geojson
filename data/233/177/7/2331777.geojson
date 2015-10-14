@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.916700,31.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2331777","tgn:1000001","tgn:7012149","tgn:2002069","tgn:7007826","tgn:7029392"],"placetype":["aat:300008697"],"id":2331777,"name:xx":"Flemming Spring"}}
+{
+  "id": 2331777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331777",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002069",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331777,
+    "tgn:name":"Flemming Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.9167,31.1333],"type":"Point"}
+}

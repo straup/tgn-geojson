@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.200000,30.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7020763","tgn:2000854","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":7020763,"name:xx":"Church Point"}}
+{
+  "id": 7020763,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020763",
+        "tgn:2000854",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020763,
+    "tgn:name":"Church Point",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2,30.4],"type":"Point"}
+}

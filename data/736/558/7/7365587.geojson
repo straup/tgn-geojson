@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.000000,22.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7365587","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7365587,"name:xx":"El Tambor"}}
+{
+  "id": 7365587,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365587",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365587,
+    "tgn:name":"El Tambor",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0,22.55],"type":"Point"}
+}

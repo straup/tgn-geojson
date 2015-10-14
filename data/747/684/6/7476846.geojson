@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.915982,25.112544]},"type":"Feature","properties":{"hierarchy":["tgn:7476846","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476846,"name:xx":"Longdong Yugang"}}
+{
+  "id": 7476846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476846",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476846,
+    "tgn:name":"Longdong Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.915982,25.112544],"type":"Point"}
+}

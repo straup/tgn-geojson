@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.050000,53.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7175865","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7175865,"name:xx":"Gro\u00dfes Engels Meer"}}
+{
+  "id": 7175865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175865",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175865,
+    "tgn:name":"Gro\u00dfes Engels Meer",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.05,53.166667],"type":"Point"}
+}

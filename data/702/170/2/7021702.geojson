@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.566700,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7021702","tgn:1000001","tgn:2001747","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7021702,"name:xx":"Cox Camp Creek"}}
+{
+  "id": 7021702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021702",
+        "tgn:1000001",
+        "tgn:2001747",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021702,
+    "tgn:name":"Cox Camp Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5667,35.1333],"type":"Point"}
+}

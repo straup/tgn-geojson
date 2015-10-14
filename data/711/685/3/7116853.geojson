@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.050000,48.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7116853","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7116853,"name:xx":"Ortlfing"}}
+{
+  "id": 7116853,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116853",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116853,
+    "tgn:name":"Ortlfing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.05,48.7],"type":"Point"}
+}

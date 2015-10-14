@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.633333,26.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7357787","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357787,"name:xx":"Colonia Caiorce de Enero"}}
+{
+  "id": 7357787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357787",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357787,
+    "tgn:name":"Colonia Caiorce de Enero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.633333,26.833333],"type":"Point"}
+}

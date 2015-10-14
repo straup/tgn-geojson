@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.500000,24.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7473877","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7473877,"name:xx":"Dunlu Xi"}}
+{
+  "id": 7473877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473877",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473877,
+    "tgn:name":"Dunlu Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5,24.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.319048,23.051152]},"type":"Feature","properties":{"hierarchy":["tgn:7482427","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300000202"],"id":7482427,"name:xx":"Tainan Ren'aizhijia"}}
+{
+  "id": 7482427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482427",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482427,
+    "tgn:name":"Tainan Ren'aizhijia",
+    "tgn:placetype":[
+        "aat:300000202"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.319048,23.051152],"type":"Point"}
+}

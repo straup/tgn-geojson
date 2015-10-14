@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.879146,23.824657]},"type":"Feature","properties":{"hierarchy":["tgn:7477165","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477165,"name:xx":"Xuezibo Shan"}}
+{
+  "id": 7477165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477165",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477165,
+    "tgn:name":"Xuezibo Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.879146,23.824657],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.583333,56.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7029204","tgn:7002444","tgn:1000003","tgn:7019152","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"name:en":"Birnam","id":7029204}}
+{
+  "id": 7029204,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029204",
+        "tgn:7002444",
+        "tgn:1000003",
+        "tgn:7019152",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029204,
+    "tgn:name:en":"Birnam",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.583333,56.55],"type":"Point"}
+}

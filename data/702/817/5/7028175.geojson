@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.271000,53.333000]},"type":"Feature","properties":{"hierarchy":["tgn:7028175","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7028175,"name:xx":"East Torrington"}}
+{
+  "id": 7028175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028175",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028175,
+    "tgn:name":"East Torrington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.271,53.333],"type":"Point"}
+}

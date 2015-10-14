@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-67.100000,76.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7024480","tgn:7593552","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008680"],"id":7024480,"name:xx":"Nordre Rampes\u00f8"}}
+{
+  "id": 7024480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024480",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024480,
+    "tgn:name":"Nordre Rampes\u00f8",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.1,76.8],"type":"Point"}
+}

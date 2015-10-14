@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.866667,50.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7119717","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008761"],"id":7119717,"name:xx":"Presberger Tal"}}
+{
+  "id": 7119717,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119717",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119717,
+    "tgn:name":"Presberger Tal",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.866667,50.05],"type":"Point"}
+}

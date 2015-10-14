@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.783300,35.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2760148","tgn:1000001","tgn:7016172","tgn:2000119","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2760148,"name:xx":"West Fork Point Remove Creek Site Six Reservoir"}}
+{
+  "id": 2760148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760148",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000119",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760148,
+    "tgn:name":"West Fork Point Remove Creek Site Six Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.7833,35.4167],"type":"Point"}
+}

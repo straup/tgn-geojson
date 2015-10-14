@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.033333,28.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7362053","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7362053,"name:xx":"El Palo Fierro, Pozo"}}
+{
+  "id": 7362053,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362053",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362053,
+    "tgn:name":"El Palo Fierro, Pozo",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.033333,28.183333],"type":"Point"}
+}

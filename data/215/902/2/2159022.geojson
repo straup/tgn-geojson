@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.233300,34.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2159022","tgn:2001466","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2159022,"name:xx":"Becky Hill"}}
+{
+  "id": 2159022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159022",
+        "tgn:2001466",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159022,
+    "tgn:name":"Becky Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.2333,34.8667],"type":"Point"}
+}

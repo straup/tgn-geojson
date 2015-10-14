@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.050000,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2251466","tgn:1000001","tgn:2000870","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2251466,"name:xx":"Comite Hills West"}}
+{
+  "id": 2251466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251466",
+        "tgn:1000001",
+        "tgn:2000870",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251466,
+    "tgn:name":"Comite Hills West",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.05,30.5],"type":"Point"}
+}

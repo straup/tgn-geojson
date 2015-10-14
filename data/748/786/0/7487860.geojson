@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.701420,25.086133]},"type":"Feature","properties":{"hierarchy":["tgn:7487860","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7487860,"name:xx":"Liudu Gongyequ"}}
+{
+  "id": 7487860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487860",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487860,
+    "tgn:name":"Liudu Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.70142,25.086133],"type":"Point"}
+}

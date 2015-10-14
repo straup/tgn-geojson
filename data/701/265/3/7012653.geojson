@@ -1,0 +1,27 @@
+{
+  "id": 7012653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7012653",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7012653,
+    "tgn:name:de":"Pforzheim",
+    "tgn:name:en":"Pforzheim",
+    "tgn:name:la":"Porta Hercyniae",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387240",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387512"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.7,48.883333],"type":"Point"}
+}

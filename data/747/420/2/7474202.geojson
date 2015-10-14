@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.737209,24.749252]},"type":"Feature","properties":{"hierarchy":["tgn:7474202","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474202,"name:xx":"Qijiexiang"}}
+{
+  "id": 7474202,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474202",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474202,
+    "tgn:name":"Qijiexiang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.737209,24.749252],"type":"Point"}
+}

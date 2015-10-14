@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.152900,23.380000]},"type":"Feature","properties":{"hierarchy":["tgn:7480661","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006163"],"id":7480661,"name:xx":"Haibu Xinshengdi"}}
+{
+  "id": 7480661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480661",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480661,
+    "tgn:name":"Haibu Xinshengdi",
+    "tgn:placetype":[
+        "aat:300006163"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.1529,23.38],"type":"Point"}
+}

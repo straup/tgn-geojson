@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.116667,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7111857","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7111857,"name:xx":"Rinneb\u00fchl"}}
+{
+  "id": 7111857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111857",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111857,
+    "tgn:name":"Rinneb\u00fchl",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.116667,47.75],"type":"Point"}
+}

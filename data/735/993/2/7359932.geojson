@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.183333,23.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7359932","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359932,"name:xx":"Dos Pocitos"}}
+{
+  "id": 7359932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359932",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359932,
+    "tgn:name":"Dos Pocitos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.183333,23.383333],"type":"Point"}
+}

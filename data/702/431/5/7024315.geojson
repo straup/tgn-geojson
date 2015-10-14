@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[26.933300,47.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7024315","tgn:1000003","tgn:1000392","tgn:1000091","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300000402","aat:300008372"],"id":7024315,"name:xx":"Cucuteni"}}
+{
+  "id": 7024315,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024315",
+        "tgn:1000003",
+        "tgn:1000392",
+        "tgn:1000091",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024315,
+    "tgn:name":"Cucuteni",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300000402",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[26.9333,47.2833],"type":"Point"}
+}

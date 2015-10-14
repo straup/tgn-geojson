@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.100000,52.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7024815","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7024815,"name:ang":"Caustone"}}
+{
+  "id": 7024815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024815",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024815,
+    "tgn:name:ang":"Caustone",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.1,52.2],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.765883,24.644506]},"type":"Feature","properties":{"hierarchy":["tgn:7475964","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006075"],"id":7475964,"name:xx":"Shuiweizi Dapai"}}
+{
+  "id": 7475964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475964",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475964,
+    "tgn:name":"Shuiweizi Dapai",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.765883,24.644506],"type":"Point"}
+}

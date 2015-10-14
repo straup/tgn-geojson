@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.300000,38.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2401035","tgn:1000001","tgn:7012149","tgn:2001420","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2401035,"name:xx":"Horse Track Spring"}}
+{
+  "id": 2401035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401035",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001420",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401035,
+    "tgn:name":"Horse Track Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.3,38.8833],"type":"Point"}
+}

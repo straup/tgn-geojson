@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.200000,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7052318","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052318,"name:xx":"Pellescritta"}}
+{
+  "id": 7052318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052318",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052318,
+    "tgn:name":"Pellescritta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.2,42.5],"type":"Point"}
+}

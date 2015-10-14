@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.583333,21.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7360528","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300011692"],"id":7360528,"name:xx":"Efigenia, Roca"}}
+{
+  "id": 7360528,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360528",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360528,
+    "tgn:name":"Efigenia, Roca",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.583333,21.966667],"type":"Point"}
+}

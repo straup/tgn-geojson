@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.566667,46.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7057017","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7057017,"name:xx":"Bartolo Sattel"}}
+{
+  "id": 7057017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057017",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057017,
+    "tgn:name":"Bartolo Sattel",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.566667,46.566667],"type":"Point"}
+}

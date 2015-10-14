@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.607524,24.654052]},"type":"Feature","properties":{"hierarchy":["tgn:7476205","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7476205,"name:xx":"Jiuxiong Hu"}}
+{
+  "id": 7476205,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476205",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476205,
+    "tgn:name":"Jiuxiong Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.607524,24.654052],"type":"Point"}
+}

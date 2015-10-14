@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.366700,44.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7020030","tgn:1000001","tgn:7012149","tgn:2002386","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":7020030,"name:xx":"Sand Springs"}}
+{
+  "id": 7020030,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020030",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002386",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020030,
+    "tgn:name":"Sand Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.3667,44.1333],"type":"Point"}
+}

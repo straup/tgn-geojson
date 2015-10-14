@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.450000,27.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7359116","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7359116,"name:xx":"Tanque Colorado"}}
+{
+  "id": 7359116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359116",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359116,
+    "tgn:name":"Tanque Colorado",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.45,27.333333],"type":"Point"}
+}

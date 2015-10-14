@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.150000,34.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7022541","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022541,"name:xx":"Clear Creek"}}
+{
+  "id": 7022541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022541",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022541,
+    "tgn:name":"Clear Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.15,34.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.900000,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2762970","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2762970,"name:xx":"Westminster Reservoir"}}
+{
+  "id": 2762970,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762970",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762970,
+    "tgn:name":"Westminster Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.9,42.5833],"type":"Point"}
+}

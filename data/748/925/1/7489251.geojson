@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.645164,23.446093]},"type":"Feature","properties":{"hierarchy":["tgn:7489251","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489251,"name:xx":"Gongtian Cun"}}
+{
+  "id": 7489251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489251",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489251,
+    "tgn:name":"Gongtian Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.645164,23.446093],"type":"Point"}
+}

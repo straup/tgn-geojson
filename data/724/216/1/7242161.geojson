@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.866667,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7242161","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7242161,"name:xx":"Le Lac"}}
+{
+  "id": 7242161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242161",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242161,
+    "tgn:name":"Le Lac",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.866667,50.733333],"type":"Point"}
+}

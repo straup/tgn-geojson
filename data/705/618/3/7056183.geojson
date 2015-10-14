@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.733333,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7056183","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056183,"name:xx":"Lecconi, Fosso"}}
+{
+  "id": 7056183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056183",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056183,
+    "tgn:name":"Lecconi, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.733333,42.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.283333,26.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7360939","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7360939,"name:xx":"Coronados, Isla"}}
+{
+  "id": 7360939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360939",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360939,
+    "tgn:name":"Coronados, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.283333,26.116667],"type":"Point"}
+}

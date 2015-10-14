@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.764720,24.614509]},"type":"Feature","properties":{"hierarchy":["tgn:7475694","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7475694,"name:xx":"Houlong Guanhai Daqiao"}}
+{
+  "id": 7475694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475694",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475694,
+    "tgn:name":"Houlong Guanhai Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.76472,24.614509],"type":"Point"}
+}

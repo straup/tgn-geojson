@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.366667,23.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7471872","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471872,"name:xx":"Wujiaotan"}}
+{
+  "id": 7471872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471872",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471872,
+    "tgn:name":"Wujiaotan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.366667,23.1],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.578200,24.985200]},"type":"Feature","properties":{"hierarchy":["tgn:7473733","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7473733,"name:xx":"Zhengda Shixiao"}}
+{
+  "id": 7473733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473733",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473733,
+    "tgn:name":"Zhengda Shixiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5782,24.9852],"type":"Point"}
+}

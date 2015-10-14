@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.534943,22.578839]},"type":"Feature","properties":{"hierarchy":["tgn:7473097","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473097,"name:xx":"Tiaodi"}}
+{
+  "id": 7473097,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473097",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473097,
+    "tgn:name":"Tiaodi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.534943,22.578839],"type":"Point"}
+}

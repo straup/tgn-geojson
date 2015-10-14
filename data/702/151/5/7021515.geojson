@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-85.016700,30.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7021515","tgn:1000001","tgn:7012149","tgn:2000278","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300387210"],"id":7021515,"name:xx":"Estiffanulga"}}
+{
+  "id": 7021515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021515",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000278",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021515,
+    "tgn:name":"Estiffanulga",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300387210"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0167,30.3],"type":"Point"}
+}

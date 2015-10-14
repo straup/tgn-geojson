@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.416700,40.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2768196","tgn:1000001","tgn:7012149","tgn:1002968","tgn:7007706","tgn:7029392"],"placetype":["aat:300006075"],"id":2768196,"name:xx":"Whites Ditch"}}
+{
+  "id": 2768196,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768196",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002968",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768196,
+    "tgn:name":"Whites Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4167,40.8333],"type":"Point"}
+}

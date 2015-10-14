@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.300000,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2761388","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300386845"],"id":2761388,"name:xx":"West Morris Basin"}}
+{
+  "id": 2761388,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761388",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761388,
+    "tgn:name":"West Morris Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.3,40.8],"type":"Point"}
+}

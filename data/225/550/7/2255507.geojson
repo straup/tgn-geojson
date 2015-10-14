@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.400000,35.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2255507","tgn:1000001","tgn:7012149","tgn:7022544","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347"],"id":2255507,"name:xx":"Copeland"}}
+{
+  "id": 2255507,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255507",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7022544",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255507,
+    "tgn:name":"Copeland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.4,35.2667],"type":"Point"}
+}

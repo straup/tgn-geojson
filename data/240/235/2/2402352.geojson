@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.766700,39.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2402352","tgn:1000001","tgn:7012149","tgn:2000210","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2402352,"name:xx":"Horton Gulch"}}
+{
+  "id": 2402352,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402352",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000210",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402352,
+    "tgn:name":"Horton Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.7667,39.5],"type":"Point"}
+}

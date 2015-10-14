@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,43.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2156491","tgn:1000001","tgn:7012149","tgn:2001821","tgn:7007713","tgn:7029392"],"placetype":["aat:300008746"],"id":2156491,"name:xx":"Beartrap Cave"}}
+{
+  "id": 2156491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156491",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001821",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156491,
+    "tgn:name":"Beartrap Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,43.8667],"type":"Point"}
+}

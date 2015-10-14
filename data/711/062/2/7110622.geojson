@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.700000,51.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7110622","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110622,"name:xx":"Pulverm\u00fchle"}}
+{
+  "id": 7110622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110622",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110622,
+    "tgn:name":"Pulverm\u00fchle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.7,51.883333],"type":"Point"}
+}

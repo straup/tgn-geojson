@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.483333,49.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7175002","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7175002,"name:xx":"Gro\u00dfgressingen"}}
+{
+  "id": 7175002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175002",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175002,
+    "tgn:name":"Gro\u00dfgressingen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.483333,49.833333],"type":"Point"}
+}

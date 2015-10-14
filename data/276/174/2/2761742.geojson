@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.883300,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2761742","tgn:1000001","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300266640"],"id":2761742,"name:xx":"West Portland Ridge"}}
+{
+  "id": 2761742,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761742",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761742,
+    "tgn:name":"West Portland Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8833,43.7333],"type":"Point"}
+}

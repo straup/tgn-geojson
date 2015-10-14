@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.516700,41.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2400343","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2400343,"name:xx":"Horse Gulch"}}
+{
+  "id": 2400343,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400343",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400343,
+    "tgn:name":"Horse Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5167,41.4333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.912600,24.716200]},"type":"Feature","properties":{"hierarchy":["tgn:7475721","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7475721,"name:xx":"Dabu Gongyequ"}}
+{
+  "id": 7475721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475721",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475721,
+    "tgn:name":"Dabu Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.9126,24.7162],"type":"Point"}
+}

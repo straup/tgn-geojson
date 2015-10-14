@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.650000,40.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7057751","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300132317"],"id":7057751,"name:xx":"Buemarino, Grotta del"}}
+{
+  "id": 7057751,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057751",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057751,
+    "tgn:name":"Buemarino, Grotta del",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.65,40.15],"type":"Point"}
+}

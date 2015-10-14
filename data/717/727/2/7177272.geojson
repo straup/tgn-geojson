@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.016667,48.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7177272","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7177272,"name:xx":"Gurrenhof"}}
+{
+  "id": 7177272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177272",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177272,
+    "tgn:name":"Gurrenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.016667,48.35],"type":"Point"}
+}

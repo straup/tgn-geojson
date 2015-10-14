@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.333300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2255594","tgn:1000001","tgn:7012149","tgn:1002515","tgn:7007252","tgn:7029392"],"placetype":["aat:300266640"],"id":2255594,"name:xx":"Copeland Ridge"}}
+{
+  "id": 2255594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255594",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002515",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255594,
+    "tgn:name":"Copeland Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.3333,38.85],"type":"Point"}
+}

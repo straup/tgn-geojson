@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.900000,51.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7175884","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7175884,"name:xx":"Gro\u00dfes Buschhorn"}}
+{
+  "id": 7175884,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175884",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175884,
+    "tgn:name":"Gro\u00dfes Buschhorn",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.9,51.116667],"type":"Point"}
+}

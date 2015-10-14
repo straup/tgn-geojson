@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.383333,51.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7059285","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7059285,"name:xx":"Alte Riefensbeek"}}
+{
+  "id": 7059285,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059285",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059285,
+    "tgn:name":"Alte Riefensbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.383333,51.766667],"type":"Point"}
+}

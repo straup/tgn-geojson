@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[0.983333,51.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7026025","tgn:7002445","tgn:1000003","tgn:7008131","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300019277","aat:300008372","aat:300387006"],"name:en":"Ardleigh","id":7026025}}
+{
+  "id": 7026025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026025",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008131",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026025,
+    "tgn:name:en":"Ardleigh",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300019277",
+        "aat:300008372",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.983333,51.916667],"type":"Point"}
+}

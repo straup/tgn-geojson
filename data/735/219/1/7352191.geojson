@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.350000,29.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7352191","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7352191,"name:xx":"Ast Hoe-Ben-Oh-Galp, Punta"}}
+{
+  "id": 7352191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352191",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352191,
+    "tgn:name":"Ast Hoe-Ben-Oh-Galp, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.35,29.216667],"type":"Point"}
+}

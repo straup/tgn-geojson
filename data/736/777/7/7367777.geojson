@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.766667,24.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7367777","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7367777,"name:xx":"Fajardo, Cerro"}}
+{
+  "id": 7367777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367777",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367777,
+    "tgn:name":"Fajardo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.766667,24.016667],"type":"Point"}
+}

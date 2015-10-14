@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.200000,31.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2257178","tgn:1000001","tgn:7012149","tgn:2001440","tgn:7007566","tgn:7029392"],"placetype":["aat:300008347"],"id":2257178,"name:xx":"Corner Ranch"}}
+{
+  "id": 2257178,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257178",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001440",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257178,
+    "tgn:name":"Corner Ranch",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.2,31.35],"type":"Point"}
+}

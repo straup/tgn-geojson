@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.157615,25.042099]},"type":"Feature","properties":{"hierarchy":["tgn:7489847","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489847,"name:xx":"Tajiao Cun"}}
+{
+  "id": 7489847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489847",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489847,
+    "tgn:name":"Tajiao Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.157615,25.042099],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.750000,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7240214","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7240214,"name:xx":"Eikeschranshoeve"}}
+{
+  "id": 7240214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240214",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240214,
+    "tgn:name":"Eikeschranshoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.75,51.216667],"type":"Point"}
+}

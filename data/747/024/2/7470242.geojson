@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.384722,24.459722]},"type":"Feature","properties":{"hierarchy":["tgn:7470242","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7470242,"name:xx":"Jingang Si"}}
+{
+  "id": 7470242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470242",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470242,
+    "tgn:name":"Jingang Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.384722,24.459722],"type":"Point"}
+}

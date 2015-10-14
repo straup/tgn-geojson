@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.216667,49.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7172539","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300006207"],"id":7172539,"name:xx":"Herrenbr\u00fcndl"}}
+{
+  "id": 7172539,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172539",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172539,
+    "tgn:name":"Herrenbr\u00fcndl",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.216667,49.116667],"type":"Point"}
+}

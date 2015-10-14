@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.090000,44.447778]},"type":"Feature","properties":{"hierarchy":["tgn:7056212","tgn:7003133","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056212,"name:xx":"Le Ammonite"}}
+{
+  "id": 7056212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056212",
+        "tgn:7003133",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056212,
+    "tgn:name":"Le Ammonite",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.09,44.447778],"type":"Point"}
+}

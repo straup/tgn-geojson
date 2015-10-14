@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[18.333333,48.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7027129","tgn:1000003","tgn:7011765","tgn:7029392"],"placetype":["aat:300387064","aat:300236112"],"id":7027129,"name:xx":"Nitriansky"}}
+{
+  "id": 7027129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027129",
+        "tgn:1000003",
+        "tgn:7011765",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027129,
+    "tgn:name":"Nitriansky",
+    "tgn:placetype":[
+        "aat:300387064",
+        "aat:300236112"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.333333,48.166667],"type":"Point"}
+}

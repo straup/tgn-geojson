@@ -1,0 +1,24 @@
+{
+  "id": 1027440,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1027440",
+        "tgn:7593916",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":1027440,
+    "tgn:name:cs":"Ostrava",
+    "tgn:name:en":"Ostrava",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.255,49.811],"type":"Point"}
+}

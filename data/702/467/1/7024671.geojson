@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-0.983300,48.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7024671","tgn:7002872","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024671,"name:xx":"Mesnil-Clinchamps"}}
+{
+  "id": 7024671,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024671",
+        "tgn:7002872",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024671,
+    "tgn:name":"Mesnil-Clinchamps",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.9833,48.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.186667,44.580833]},"type":"Feature","properties":{"hierarchy":["tgn:7055360","tgn:7003133","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008679"],"id":7055360,"name:xx":"Lido Magnavacca, Valle di"}}
+{
+  "id": 7055360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055360",
+        "tgn:7003133",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055360,
+    "tgn:name":"Lido Magnavacca, Valle di",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.186667,44.580833],"type":"Point"}
+}

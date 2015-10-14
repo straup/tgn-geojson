@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.733300,44.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2767621","tgn:1000001","tgn:2000459","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2767621,"name:xx":"Whitecap Creek"}}
+{
+  "id": 2767621,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767621",
+        "tgn:1000001",
+        "tgn:2000459",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767621,
+    "tgn:name":"Whitecap Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.7333,44.0333],"type":"Point"}
+}

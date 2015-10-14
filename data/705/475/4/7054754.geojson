@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.233333,42.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7054754","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054754,"name:xx":"Padiglione, Monte"}}
+{
+  "id": 7054754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054754",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054754,
+    "tgn:name":"Padiglione, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.233333,42.016667],"type":"Point"}
+}

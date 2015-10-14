@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.171111,23.784722]},"type":"Feature","properties":{"hierarchy":["tgn:7480945","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7480945,"name:xx":"Taisu Liuqing Gongyegang"}}
+{
+  "id": 7480945,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480945",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480945,
+    "tgn:name":"Taisu Liuqing Gongyegang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.171111,23.784722],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.800000,52.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7173661","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7173661,"name:xx":"Gro\u00dfer Schiller Teich"}}
+{
+  "id": 7173661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173661",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173661,
+    "tgn:name":"Gro\u00dfer Schiller Teich",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.8,52.416667],"type":"Point"}
+}

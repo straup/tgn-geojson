@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.300000,25.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7363922","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363922,"name:xx":"Rancho El Chivo"}}
+{
+  "id": 7363922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363922",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363922,
+    "tgn:name":"Rancho El Chivo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.3,25.116667],"type":"Point"}
+}

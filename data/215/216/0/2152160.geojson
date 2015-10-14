@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.016700,37.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2152160","tgn:1002147","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300266640"],"id":2152160,"name:xx":"Baxter Ridge"}}
+{
+  "id": 2152160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152160",
+        "tgn:1002147",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152160,
+    "tgn:name":"Baxter Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0167,37.9333],"type":"Point"}
+}

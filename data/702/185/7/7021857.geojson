@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.416700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7021857","tgn:2001172","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300006075"],"id":7021857,"name:xx":"Lateral Ditch Number 3"}}
+{
+  "id": 7021857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021857",
+        "tgn:2001172",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021857,
+    "tgn:name":"Lateral Ditch Number 3",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.4167,38.1833],"type":"Point"}
+}

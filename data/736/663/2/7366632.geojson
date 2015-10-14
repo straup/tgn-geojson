@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.683333,29.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7366632","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7366632,"name:xx":"El Tordillo, Cerro"}}
+{
+  "id": 7366632,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366632",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366632,
+    "tgn:name":"El Tordillo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.683333,29.966667],"type":"Point"}
+}

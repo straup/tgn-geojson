@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.200000,21.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7357284","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357284,"name:xx":"Campom\u00f3"}}
+{
+  "id": 7357284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357284",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357284,
+    "tgn:name":"Campom\u00f3",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.2,21.3],"type":"Point"}
+}

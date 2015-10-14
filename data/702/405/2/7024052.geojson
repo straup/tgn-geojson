@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[45.288000,40.160000]},"type":"Feature","properties":{"hierarchy":["tgn:7024052","tgn:1000004","tgn:7024035","tgn:7006651","tgn:7029392"],"placetype":["aat:300008699"],"id":7024052,"name:xx":"Martuni"}}
+{
+  "id": 7024052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024052",
+        "tgn:1000004",
+        "tgn:7024035",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024052,
+    "tgn:name":"Martuni",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[45.288,40.16],"type":"Point"}
+}

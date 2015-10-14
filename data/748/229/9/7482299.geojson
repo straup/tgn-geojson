@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.478611,24.474167]},"type":"Feature","properties":{"hierarchy":["tgn:7482299","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7482299,"name:xx":"Jialuo Hu"}}
+{
+  "id": 7482299,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482299",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482299,
+    "tgn:name":"Jialuo Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.478611,24.474167],"type":"Point"}
+}

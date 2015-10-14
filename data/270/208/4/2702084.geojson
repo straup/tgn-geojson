@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-86.416700,36.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2702084","tgn:1000001","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300008706"],"id":2702084,"name:xx":"Suggs Creek"}}
+{
+  "id": 2702084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2702084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2702084,
+    "tgn:name":"Suggs Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4167,36.1167],"type":"Point"}
+}

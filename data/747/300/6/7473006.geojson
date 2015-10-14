@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.728057,24.761117]},"type":"Feature","properties":{"hierarchy":["tgn:7473006","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7473006,"name:xx":"Yuanshan Xiang Di'er Gongmu"}}
+{
+  "id": 7473006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473006",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473006,
+    "tgn:name":"Yuanshan Xiang Di'er Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.728057,24.761117],"type":"Point"}
+}

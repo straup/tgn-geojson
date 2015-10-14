@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.755278,45.920833]},"type":"Feature","properties":{"hierarchy":["tgn:7057130","tgn:1003488","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057130,"name:xx":"Bannia"}}
+{
+  "id": 7057130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057130",
+        "tgn:1003488",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057130,
+    "tgn:name":"Bannia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.755278,45.920833],"type":"Point"}
+}

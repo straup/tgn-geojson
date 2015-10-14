@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.983300,43.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2704670","tgn:1000001","tgn:7012149","tgn:1002758","tgn:7007568","tgn:7029392"],"placetype":["aat:300132316"],"id":2704670,"name:xx":"Sunset Bay"}}
+{
+  "id": 2704670,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2704670",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002758",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2704670,
+    "tgn:name":"Sunset Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9833,43.2333],"type":"Point"}
+}

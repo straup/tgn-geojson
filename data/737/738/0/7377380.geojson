@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.050000,20.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7377380","tgn:1000001","tgn:7005593","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377380,"name:xx":"La Pila"}}
+{
+  "id": 7377380,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377380",
+        "tgn:1000001",
+        "tgn:7005593",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377380,
+    "tgn:name":"La Pila",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.05,20.733333],"type":"Point"}
+}

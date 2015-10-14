@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.518333,23.367222]},"type":"Feature","properties":{"hierarchy":["tgn:7487027","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300266559"],"name:en":"Men-tzu, Srait of","id":7487027}}
+{
+  "id": 7487027,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487027",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487027,
+    "tgn:name:en":"Men-tzu, Srait of",
+    "tgn:placetype":[
+        "aat:300266559"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.518333,23.367222],"type":"Point"}
+}

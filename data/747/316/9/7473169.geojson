@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.833333,24.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7473169","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7473169,"name:xx":"Dong Gangkou"}}
+{
+  "id": 7473169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473169",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473169,
+    "tgn:name":"Dong Gangkou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.833333,24.716667],"type":"Point"}
+}

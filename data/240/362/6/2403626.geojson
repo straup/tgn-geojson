@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,42.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2403626","tgn:1000001","tgn:7012149","tgn:1002358","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":2403626,"name:xx":"Howard Eaton Reservoir"}}
+{
+  "id": 2403626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403626",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002358",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403626,
+    "tgn:name":"Howard Eaton Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,42.1333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.166667,25.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7373881","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373881,"name:xx":"La Barca"}}
+{
+  "id": 7373881,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373881",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373881,
+    "tgn:name":"La Barca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.166667,25.45],"type":"Point"}
+}

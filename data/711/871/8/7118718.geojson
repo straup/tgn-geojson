@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.250000,50.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7118718","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008791"],"id":7118718,"name:xx":"Petersaue"}}
+{
+  "id": 7118718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118718",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118718,
+    "tgn:name":"Petersaue",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.25,50.016667],"type":"Point"}
+}

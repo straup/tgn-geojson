@@ -1,0 +1,23 @@
+{
+  "id": 2019106,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2019106",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002768",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2019106,
+    "tgn:name":"Delray Beach",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0667,26.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.216667,51.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7247858","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7247858,"name:xx":"Brides"}}
+{
+  "id": 7247858,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247858",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247858,
+    "tgn:name":"Brides",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.216667,51.116667],"type":"Point"}
+}

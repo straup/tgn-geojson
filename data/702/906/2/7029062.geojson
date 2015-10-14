@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.550000,54.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7029062","tgn:7002445","tgn:1000003","tgn:7008166","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008369"],"id":7029062,"name:xx":"East Lutton"}}
+{
+  "id": 7029062,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029062",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029062,
+    "tgn:name":"East Lutton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008369"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.55,54.1],"type":"Point"}
+}

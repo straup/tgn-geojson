@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[14.250000,40.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7051538","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198","aat:300265612"],"id":7051538,"name:xx":"Napoli"}}
+{
+  "id": 7051538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051538",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051538,
+    "tgn:name":"Napoli",
+    "tgn:placetype":[
+        "aat:300387198",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.25,40.833333],"type":"Point"}
+}

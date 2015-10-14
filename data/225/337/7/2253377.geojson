@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.966700,45.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2253377","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2253377,"name:xx":"Conyer Creek"}}
+{
+  "id": 2253377,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253377",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253377,
+    "tgn:name":"Conyer Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.9667,45.1],"type":"Point"}
+}

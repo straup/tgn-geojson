@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.324444,23.324167]},"type":"Feature","properties":{"hierarchy":["tgn:7485843","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7485843,"name:xx":"Xiaomao Yu"}}
+{
+  "id": 7485843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485843",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485843,
+    "tgn:name":"Xiaomao Yu",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.324444,23.324167],"type":"Point"}
+}

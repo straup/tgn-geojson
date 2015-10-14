@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[21.508000,50.966000]},"type":"Feature","properties":{"hierarchy":["tgn:7029529","tgn:1000003","tgn:7024129","tgn:7006366","tgn:7029392"],"placetype":["aat:300008347","aat:300008178"],"id":7029529,"name:xx":"Krzemionki"}}
+{
+  "id": 7029529,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029529",
+        "tgn:1000003",
+        "tgn:7024129",
+        "tgn:7006366",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029529,
+    "tgn:name":"Krzemionki",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008178"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[21.508,50.966],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.216700,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2762136","tgn:1000001","tgn:2001339","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008761"],"id":2762136,"name:xx":"West Smith Canyon"}}
+{
+  "id": 2762136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762136",
+        "tgn:1000001",
+        "tgn:2001339",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762136,
+    "tgn:name":"West Smith Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.2167,40.8],"type":"Point"}
+}

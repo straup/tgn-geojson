@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.500000,22.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7473980","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473980,"name:xx":"Dingfanshe"}}
+{
+  "id": 7473980,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473980",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473980,
+    "tgn:name":"Dingfanshe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5,22.766667],"type":"Point"}
+}

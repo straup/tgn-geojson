@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.766700,33.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2337865","tgn:2001732","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2337865,"name:xx":"Fox Gully Branch"}}
+{
+  "id": 2337865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337865",
+        "tgn:2001732",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337865,
+    "tgn:name":"Fox Gully Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.7667,33.1333],"type":"Point"}
+}

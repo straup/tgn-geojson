@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.233333,30.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7366334","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366334,"name:xx":"Rancho El P\u00e9ni"}}
+{
+  "id": 7366334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366334",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366334,
+    "tgn:name":"Rancho El P\u00e9ni",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.233333,30.55],"type":"Point"}
+}

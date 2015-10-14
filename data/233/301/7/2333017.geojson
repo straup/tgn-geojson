@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.283300,39.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2333017","tgn:1000001","tgn:2002108","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2333017,"name:xx":"Fly Canyon"}}
+{
+  "id": 2333017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333017",
+        "tgn:1000001",
+        "tgn:2002108",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333017,
+    "tgn:name":"Fly Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.2833,39.4167],"type":"Point"}
+}

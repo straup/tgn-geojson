@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.216700,45.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7022795","tgn:1000001","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":7022795,"name:xx":"Rabbit Creek"}}
+{
+  "id": 7022795,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022795",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022795,
+    "tgn:name":"Rabbit Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.2167,45.3833],"type":"Point"}
+}

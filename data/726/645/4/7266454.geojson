@@ -1,0 +1,27 @@
+{
+  "id": 7266454,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0ec60-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754350",
+        "gp:id":730010,
+        "qs:id":4,
+        "wof:id":101808503
+    },
+    "tgn:hierarchy":[
+        "tgn:7266454",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266454,
+    "tgn:name:nl":"Herkingen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.083333,51.716667],"type":"Point"}
+}

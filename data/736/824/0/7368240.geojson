@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,29.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7368240","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368240,"name:xx":"Jos\u00e9 Mart\u00ednez"}}
+{
+  "id": 7368240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368240",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368240,
+    "tgn:name":"Jos\u00e9 Mart\u00ednez",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,29.983333],"type":"Point"}
+}

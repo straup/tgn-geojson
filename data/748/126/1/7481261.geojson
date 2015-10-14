@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.230024,23.450320]},"type":"Feature","properties":{"hierarchy":["tgn:7481261","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7481261,"name:xx":"Pozi Shifan Gongmu"}}
+{
+  "id": 7481261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481261",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481261,
+    "tgn:name":"Pozi Shifan Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.230024,23.45032],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.083889,50.205833]},"type":"Feature","properties":{"hierarchy":["tgn:7240501","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008777"],"id":7240501,"name:xx":"Espelerberg"}}
+{
+  "id": 7240501,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240501",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240501,
+    "tgn:name":"Espelerberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.083889,50.205833],"type":"Point"}
+}

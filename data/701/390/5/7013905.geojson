@@ -1,0 +1,27 @@
+{
+  "id": 7013905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013905",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013905,
+    "tgn:name":"Long Beach",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387308",
+        "aat:300387302",
+        "aat:300387309",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1833,33.7667],"type":"Point"}
+}

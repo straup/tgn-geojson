@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.311667,23.371944]},"type":"Feature","properties":{"hierarchy":["tgn:7471060","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471060,"name:xx":"Baishatun"}}
+{
+  "id": 7471060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471060",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471060,
+    "tgn:name":"Baishatun",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.311667,23.371944],"type":"Point"}
+}

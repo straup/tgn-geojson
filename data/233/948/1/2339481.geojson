@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.583300,30.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2339481","tgn:2000258","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300132316"],"id":2339481,"name:xx":"Fred Bayou"}}
+{
+  "id": 2339481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339481",
+        "tgn:2000258",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339481,
+    "tgn:name":"Fred Bayou",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5833,30.0833],"type":"Point"}
+}

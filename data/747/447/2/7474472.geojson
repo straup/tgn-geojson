@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.361595,23.772305]},"type":"Feature","properties":{"hierarchy":["tgn:7474472","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474472,"name:xx":"Lunnan Qiao"}}
+{
+  "id": 7474472,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474472",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474472,
+    "tgn:name":"Lunnan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.361595,23.772305],"type":"Point"}
+}

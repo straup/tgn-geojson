@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.352387,23.874277]},"type":"Feature","properties":{"hierarchy":["tgn:7471859","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471859,"name:xx":"Fengmei"}}
+{
+  "id": 7471859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471859",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471859,
+    "tgn:name":"Fengmei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.352387,23.874277],"type":"Point"}
+}

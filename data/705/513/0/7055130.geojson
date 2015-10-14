@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.150000,45.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7055130","tgn:7005880","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300006075"],"id":7055130,"name:xx":"Fossa d' Ostiglia"}}
+{
+  "id": 7055130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055130",
+        "tgn:7005880",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055130,
+    "tgn:name":"Fossa d' Ostiglia",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.15,45.1],"type":"Point"}
+}

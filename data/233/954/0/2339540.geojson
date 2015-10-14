@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.116700,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2339540","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002857","tgn:7029392"],"placetype":["aat:300008347"],"id":2339540,"name:xx":"Fredalba"}}
+{
+  "id": 2339540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339540",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002857",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339540,
+    "tgn:name":"Fredalba",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.1167,34.2],"type":"Point"}
+}

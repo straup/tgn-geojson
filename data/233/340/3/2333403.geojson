@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.100000,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2333403","tgn:1000001","tgn:7012149","tgn:2001715","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2333403,"name:xx":"Foley Creek"}}
+{
+  "id": 2333403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333403",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001715",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333403,
+    "tgn:name":"Foley Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.1,42.6667],"type":"Point"}
+}

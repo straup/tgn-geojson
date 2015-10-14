@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.866667,20.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7359497","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7359497,"name:xx":"Citala"}}
+{
+  "id": 7359497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359497",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359497,
+    "tgn:name":"Citala",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.866667,20.133333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.166700,47.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2706566","tgn:1000001","tgn:7012149","tgn:2001029","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2706566,"name:xx":"Swan Lake"}}
+{
+  "id": 2706566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001029",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706566,
+    "tgn:name":"Swan Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1667,47.3],"type":"Point"}
+}

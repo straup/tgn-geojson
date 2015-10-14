@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.366700,31.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2768955","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2768955,"name:xx":"Whitney, Lake"}}
+{
+  "id": 2768955,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768955",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768955,
+    "tgn:name":"Whitney, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.3667,31.85],"type":"Point"}
+}

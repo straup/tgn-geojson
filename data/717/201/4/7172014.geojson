@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.500000,48.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7172014","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172014,"name:xx":"Hilgen"}}
+{
+  "id": 7172014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172014",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172014,
+    "tgn:name":"Hilgen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.5,48.016667],"type":"Point"}
+}

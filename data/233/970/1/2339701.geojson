@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.850000,45.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2339701","tgn:1000001","tgn:2001264","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2339701,"name:xx":"Free Silver Ditch"}}
+{
+  "id": 2339701,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339701",
+        "tgn:1000001",
+        "tgn:2001264",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339701,
+    "tgn:name":"Free Silver Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.85,45.5167],"type":"Point"}
+}

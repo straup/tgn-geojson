@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-3.316700,50.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7025787","tgn:7002445","tgn:1000003","tgn:7012077","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025787,"name:ang":"Lege"}}
+{
+  "id": 7025787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025787",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7012077",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025787,
+    "tgn:name:ang":"Lege",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.3167,50.9333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.816667,22.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7370108","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7370108,"name:xx":"Gavil\u00e1n, Cerro"}}
+{
+  "id": 7370108,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370108",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370108,
+    "tgn:name":"Gavil\u00e1n, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.816667,22.633333],"type":"Point"}
+}

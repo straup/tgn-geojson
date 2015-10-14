@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.100000,39.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2401084","tgn:1000001","tgn:7012149","tgn:2002112","tgn:7007827","tgn:7029392"],"placetype":["aat:300386845"],"id":2401084,"name:xx":"Horse Valley"}}
+{
+  "id": 2401084,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401084",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002112",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401084,
+    "tgn:name":"Horse Valley",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.1,39.6333],"type":"Point"}
+}

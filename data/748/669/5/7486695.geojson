@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.117327,23.327868]},"type":"Feature","properties":{"hierarchy":["tgn:7486695","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7486695,"name:xx":"Bazhang Xi"}}
+{
+  "id": 7486695,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486695",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486695,
+    "tgn:name":"Bazhang Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.117327,23.327868],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.437500,23.209722]},"type":"Feature","properties":{"hierarchy":["tgn:7481228","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481228,"name:xx":"Guhe"}}
+{
+  "id": 7481228,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481228",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481228,
+    "tgn:name":"Guhe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.4375,23.209722],"type":"Point"}
+}

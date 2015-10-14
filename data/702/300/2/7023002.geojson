@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.350000,31.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7023002","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":7023002,"name:xx":"Gholson Creek"}}
+{
+  "id": 7023002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023002",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023002,
+    "tgn:name":"Gholson Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.35,31.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.750000,48.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2259902","tgn:1000001","tgn:2001590","tgn:7012149","tgn:7007705","tgn:7029392"],"placetype":["aat:300008761"],"id":2259902,"name:xx":"Coulee, The"}}
+{
+  "id": 2259902,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259902",
+        "tgn:1000001",
+        "tgn:2001590",
+        "tgn:7012149",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259902,
+    "tgn:name":"Coulee, The",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.75,48.6],"type":"Point"}
+}

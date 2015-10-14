@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.794500,25.042000]},"type":"Feature","properties":{"hierarchy":["tgn:7486928","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486928,"name:xx":"Gankeng"}}
+{
+  "id": 7486928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486928",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486928,
+    "tgn:name":"Gankeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7945,25.042],"type":"Point"}
+}

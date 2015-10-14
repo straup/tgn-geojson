@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.900000,31.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2258175","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000054","tgn:7029392"],"placetype":["aat:300006191"],"id":2258175,"name:xx":"Costons Pond"}}
+{
+  "id": 2258175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258175",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000054",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258175,
+    "tgn:name":"Costons Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9,31.9333],"type":"Point"}
+}

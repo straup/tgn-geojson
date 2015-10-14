@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.550000,47.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7114891","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114891,"name:xx":"Ochsenw\u00f6hr"}}
+{
+  "id": 7114891,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114891",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114891,
+    "tgn:name":"Ochsenw\u00f6hr",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.55,47.783333],"type":"Point"}
+}

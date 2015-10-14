@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.583333,22.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7367008","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367008,"name:xx":"El Romerillo de Abajo"}}
+{
+  "id": 7367008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367008",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367008,
+    "tgn:name":"El Romerillo de Abajo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.583333,22.65],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.133300,47.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2258510","tgn:1000001","tgn:7012149","tgn:2002247","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2258510,"name:xx":"Cotton Spring"}}
+{
+  "id": 2258510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258510",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002247",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258510,
+    "tgn:name":"Cotton Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1333,47.65],"type":"Point"}
+}

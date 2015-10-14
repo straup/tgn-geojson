@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.439108,23.068729]},"type":"Feature","properties":{"hierarchy":["tgn:7479282","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7479282,"name:xx":"Shuichang Shan"}}
+{
+  "id": 7479282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479282",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479282,
+    "tgn:name":"Shuichang Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.439108,23.068729],"type":"Point"}
+}

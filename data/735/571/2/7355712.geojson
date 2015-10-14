@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.950000,27.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7355712","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355712,"name:xx":"Cerrocahui, Sierra"}}
+{
+  "id": 7355712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355712",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355712,
+    "tgn:name":"Cerrocahui, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.95,27.333333],"type":"Point"}
+}

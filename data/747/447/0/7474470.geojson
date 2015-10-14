@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.356985,23.770685]},"type":"Feature","properties":{"hierarchy":["tgn:7474470","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474470,"name:xx":"Mao'ergan Zhixian Qiao"}}
+{
+  "id": 7474470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474470",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474470,
+    "tgn:name":"Mao'ergan Zhixian Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.356985,23.770685],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.700000,18.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7363020","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363020,"name:xx":"El Cedrito"}}
+{
+  "id": 7363020,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363020",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363020,
+    "tgn:name":"El Cedrito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.7,18.85],"type":"Point"}
+}

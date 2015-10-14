@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-75.683300,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7023124","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7023124,"name:xx":"Sewell Branch"}}
+{
+  "id": 7023124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023124",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023124,
+    "tgn:name":"Sewell Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6833,39.2333],"type":"Point"}
+}

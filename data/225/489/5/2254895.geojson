@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.766700,35.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2254895","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2254895,"name:xx":"Coop Tank"}}
+{
+  "id": 2254895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254895",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254895,
+    "tgn:name":"Coop Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7667,35.3333],"type":"Point"}
+}

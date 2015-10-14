@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.150000,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7372785","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372785,"name:xx":"Rancho La Catalina"}}
+{
+  "id": 7372785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372785",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372785,
+    "tgn:name":"Rancho La Catalina",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.15,29.4],"type":"Point"}
+}

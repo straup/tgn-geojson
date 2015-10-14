@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.483300,40.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2768560","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008850"],"id":2768560,"name:xx":"Whitewood Point"}}
+{
+  "id": 2768560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768560",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768560,
+    "tgn:name":"Whitewood Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.4833,40.9167],"type":"Point"}
+}

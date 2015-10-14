@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.816700,40.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2409235","tgn:1000001","tgn:1002266","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":2409235,"name:xx":"Icedale Lake"}}
+{
+  "id": 2409235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409235",
+        "tgn:1000001",
+        "tgn:1002266",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409235,
+    "tgn:name":"Icedale Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.8167,40.05],"type":"Point"}
+}

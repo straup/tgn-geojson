@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.083300,30.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2150318","tgn:1000001","tgn:7012149","tgn:2000285","tgn:7007240","tgn:7029392"],"placetype":["aat:300008699"],"id":2150318,"name:xx":"Basin Bayou"}}
+{
+  "id": 2150318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150318",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000285",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150318,
+    "tgn:name":"Basin Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.0833,30.4833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.026667,24.940000]},"type":"Feature","properties":{"hierarchy":["tgn:7481646","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7481646,"name:xx":"Liugu Xi"}}
+{
+  "id": 7481646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481646",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481646,
+    "tgn:name":"Liugu Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.026667,24.94],"type":"Point"}
+}

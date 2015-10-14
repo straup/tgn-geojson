@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.666667,16.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7373244","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373244,"name:xx":"Lachixila"}}
+{
+  "id": 7373244,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373244",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373244,
+    "tgn:name":"Lachixila",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.666667,16.833333],"type":"Point"}
+}

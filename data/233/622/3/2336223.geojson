@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.916700,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2336223","tgn:1000001","tgn:7012149","tgn:1002971","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2336223,"name:xx":"Foster Run"}}
+{
+  "id": 2336223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336223",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002971",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336223,
+    "tgn:name":"Foster Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.9167,41.4833],"type":"Point"}
+}

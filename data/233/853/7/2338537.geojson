@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.333300,40.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2338537","tgn:1002171","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2338537,"name:xx":"Frames Run"}}
+{
+  "id": 2338537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338537",
+        "tgn:1002171",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338537,
+    "tgn:name":"Frames Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3333,40.6],"type":"Point"}
+}

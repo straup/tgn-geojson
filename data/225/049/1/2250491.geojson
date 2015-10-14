@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.800000,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2250491","tgn:1000001","tgn:1002318","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2250491,"name:xx":"Colonial Terrace"}}
+{
+  "id": 2250491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250491",
+        "tgn:1000001",
+        "tgn:1002318",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250491,
+    "tgn:name":"Colonial Terrace",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.8,40.3333],"type":"Point"}
+}

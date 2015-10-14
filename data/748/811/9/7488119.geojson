@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.745630,25.108681]},"type":"Feature","properties":{"hierarchy":["tgn:7488119","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7488119,"name:xx":"Nanrong Gongmu"}}
+{
+  "id": 7488119,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488119",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488119,
+    "tgn:name":"Nanrong Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.74563,25.108681],"type":"Point"}
+}

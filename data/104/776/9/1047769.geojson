@@ -1,0 +1,27 @@
+{
+  "id": 1047769,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0aaac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2756059",
+        "gp:id":729157,
+        "qs:id":1,
+        "wof:id":101807103
+    },
+    "tgn:hierarchy":[
+        "tgn:1047769",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047769,
+    "tgn:name:nl":"Epe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.983333,52.35],"type":"Point"}
+}

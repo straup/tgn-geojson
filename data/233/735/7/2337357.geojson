@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.700000,35.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2337357","tgn:1000001","tgn:7016172","tgn:2000123","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2337357,"name:xx":"Foust Creek"}}
+{
+  "id": 2337357,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337357",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:2000123",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337357,
+    "tgn:name":"Foust Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7,35.4],"type":"Point"}
+}

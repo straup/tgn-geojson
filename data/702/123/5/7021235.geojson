@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.183300,37.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7021235","tgn:1000001","tgn:7012149","tgn:2002280","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021235,"name:xx":"Rockhouse Branch"}}
+{
+  "id": 7021235,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021235",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002280",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021235,
+    "tgn:name":"Rockhouse Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1833,37.8],"type":"Point"}
+}

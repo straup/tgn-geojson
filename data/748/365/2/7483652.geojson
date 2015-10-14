@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.770556,24.887500]},"type":"Feature","properties":{"hierarchy":["tgn:7483652","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7483652,"name:xx":"Sidu Shan Dongfeng"}}
+{
+  "id": 7483652,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483652",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483652,
+    "tgn:name":"Sidu Shan Dongfeng",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.770556,24.8875],"type":"Point"}
+}

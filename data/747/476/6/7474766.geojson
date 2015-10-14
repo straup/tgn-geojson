@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.566667,24.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7474766","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474766,"name:xx":"Wanxingshan"}}
+{
+  "id": 7474766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474766",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474766,
+    "tgn:name":"Wanxingshan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.566667,24.15],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.783300,31.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2159223","tgn:1000001","tgn:2000868","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008905"],"id":2159223,"name:xx":"Bee Brake"}}
+{
+  "id": 2159223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159223",
+        "tgn:1000001",
+        "tgn:2000868",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159223,
+    "tgn:name":"Bee Brake",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7833,31.3],"type":"Point"}
+}

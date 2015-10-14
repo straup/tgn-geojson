@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.533333,48.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7172872","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7172872,"name:xx":"Greppenberg"}}
+{
+  "id": 7172872,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172872",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172872,
+    "tgn:name":"Greppenberg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.533333,48.8],"type":"Point"}
+}

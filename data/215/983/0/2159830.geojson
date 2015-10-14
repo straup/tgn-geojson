@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.133300,35.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2159830","tgn:1000001","tgn:2001481","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2159830,"name:xx":"Beech Creek"}}
+{
+  "id": 2159830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159830",
+        "tgn:1000001",
+        "tgn:2001481",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159830,
+    "tgn:name":"Beech Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1333,35.05],"type":"Point"}
+}

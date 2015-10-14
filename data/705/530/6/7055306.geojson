@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.016667,37.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7055306","tgn:1000003","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7055306,"name:xx":"Misilbesi, Portella"}}
+{
+  "id": 7055306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055306",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055306,
+    "tgn:name":"Misilbesi, Portella",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.016667,37.65],"type":"Point"}
+}

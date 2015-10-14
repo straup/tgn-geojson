@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,24.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7356052","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7356052,"name:xx":"Chihuahua, Arroyo de"}}
+{
+  "id": 7356052,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356052",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356052,
+    "tgn:name":"Chihuahua, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,24.25],"type":"Point"}
+}

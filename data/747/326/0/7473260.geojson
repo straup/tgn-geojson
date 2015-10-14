@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.728213,25.117637]},"type":"Feature","properties":{"hierarchy":["tgn:7473260","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473260,"name:xx":"Tianzinei"}}
+{
+  "id": 7473260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473260",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473260,
+    "tgn:name":"Tianzinei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.728213,25.117637],"type":"Point"}
+}

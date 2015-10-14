@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-132.716700,57.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2333753","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000088","tgn:7029392"],"placetype":["aat:300008798"],"id":2333753,"name:xx":"Foote Peak"}}
+{
+  "id": 2333753,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333753",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000088",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333753,
+    "tgn:name":"Foote Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-132.7167,57.05],"type":"Point"}
+}

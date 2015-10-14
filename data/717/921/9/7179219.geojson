@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.833333,48.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7179219","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300387200"],"id":7179219,"name:xx":"Habersw\u00f6hr"}}
+{
+  "id": 7179219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179219",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179219,
+    "tgn:name":"Habersw\u00f6hr",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.833333,48.866667],"type":"Point"}
+}

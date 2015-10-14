@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.366667,29.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7373452","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7373452,"name:xx":"Kunkaak, Sierra de"}}
+{
+  "id": 7373452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373452",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373452,
+    "tgn:name":"Kunkaak, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.366667,29.083333],"type":"Point"}
+}

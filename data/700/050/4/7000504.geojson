@@ -1,0 +1,25 @@
+{
+  "id": 7000504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000504",
+        "tgn:7001242",
+        "tgn:1001879",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000504,
+    "tgn:name":"Zaria",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387270",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.7,11.066],"type":"Point"}
+}

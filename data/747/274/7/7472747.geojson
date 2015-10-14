@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.550089,24.951864]},"type":"Feature","properties":{"hierarchy":["tgn:7472747","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7472747,"name:xx":"Youchekeng Qiao"}}
+{
+  "id": 7472747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472747",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472747,
+    "tgn:name":"Youchekeng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.550089,24.951864],"type":"Point"}
+}

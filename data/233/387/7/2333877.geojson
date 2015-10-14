@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.750000,44.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2333877","tgn:1000001","tgn:2002367","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2333877,"name:xx":"Force Draw"}}
+{
+  "id": 2333877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333877",
+        "tgn:1000001",
+        "tgn:2002367",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333877,
+    "tgn:name":"Force Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.75,44.2333],"type":"Point"}
+}

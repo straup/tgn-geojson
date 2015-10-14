@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.900000,37.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2408919","tgn:1002132","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008905"],"id":2408919,"name:xx":"Hyslop Marsh"}}
+{
+  "id": 2408919,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408919",
+        "tgn:1002132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408919,
+    "tgn:name":"Hyslop Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9,37.6],"type":"Point"}
+}

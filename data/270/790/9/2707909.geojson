@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.833300,40.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2707909","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300008706"],"id":2707909,"name:xx":"Swift Creek"}}
+{
+  "id": 2707909,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2707909",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2707909,
+    "tgn:name":"Swift Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8333,40.9833],"type":"Point"}
+}

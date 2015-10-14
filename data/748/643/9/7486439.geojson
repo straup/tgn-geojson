@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.435492,23.104518]},"type":"Feature","properties":{"hierarchy":["tgn:7486439","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486439,"name:xx":"Mao'ergan"}}
+{
+  "id": 7486439,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486439",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486439,
+    "tgn:name":"Mao'ergan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.435492,23.104518],"type":"Point"}
+}

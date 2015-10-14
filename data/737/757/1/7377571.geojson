@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.200000,15.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7377571","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377571,"name:xx":"La Paz"}}
+{
+  "id": 7377571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377571",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377571,
+    "tgn:name":"La Paz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2,15.016667],"type":"Point"}
+}

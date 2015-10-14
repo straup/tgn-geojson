@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.550000,38.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7058423","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7058423,"name:xx":"Ancinale, Fiume"}}
+{
+  "id": 7058423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058423",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058423,
+    "tgn:name":"Ancinale, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.55,38.666667],"type":"Point"}
+}

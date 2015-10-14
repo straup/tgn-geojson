@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.700000,50.283300]},"type":"Feature","properties":{"hierarchy":["tgn:7023910","tgn:7593914","tgn:1000003","tgn:1001780","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"id":7023910,"name:xx":"Sadov\u00e1"}}
+{
+  "id": 7023910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023910",
+        "tgn:7593914",
+        "tgn:1000003",
+        "tgn:1001780",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023910,
+    "tgn:name":"Sadov\u00e1",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.7,50.2833],"type":"Point"}
+}

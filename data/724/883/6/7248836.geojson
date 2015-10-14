@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.233333,51.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7248836","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248836,"name:xx":"Boksheide"}}
+{
+  "id": 7248836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248836",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248836,
+    "tgn:name":"Boksheide",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.233333,51.016667],"type":"Point"}
+}

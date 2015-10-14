@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.933300,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2705209","tgn:1000001","tgn:7012149","tgn:2000908","tgn:7007256","tgn:7029392"],"placetype":["aat:300006075"],"id":2705209,"name:xx":"Superior Canal"}}
+{
+  "id": 2705209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705209",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000908",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705209,
+    "tgn:name":"Superior Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9333,29.4],"type":"Point"}
+}

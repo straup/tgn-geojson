@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.300000,27.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7355061","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7355061,"name:xx":"Canoa, Cerro"}}
+{
+  "id": 7355061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355061",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355061,
+    "tgn:name":"Canoa, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.3,27.266667],"type":"Point"}
+}

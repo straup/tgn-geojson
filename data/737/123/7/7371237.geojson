@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.883333,20.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7371237","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7371237,"name:xx":"Grande"}}
+{
+  "id": 7371237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371237",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371237,
+    "tgn:name":"Grande",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.883333,20.366667],"type":"Point"}
+}

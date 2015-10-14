@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.383300,44.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2256029","tgn:1000001","tgn:7012149","tgn:1002636","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2256029,"name:xx":"Copper Lake"}}
+{
+  "id": 2256029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256029",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002636",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256029,
+    "tgn:name":"Copper Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3833,44.8833],"type":"Point"}
+}

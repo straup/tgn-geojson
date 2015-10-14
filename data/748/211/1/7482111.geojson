@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.763889,24.301667]},"type":"Feature","properties":{"hierarchy":["tgn:7482111","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7482111,"name:xx":"Heping Gang"}}
+{
+  "id": 7482111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482111",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482111,
+    "tgn:name":"Heping Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.763889,24.301667],"type":"Point"}
+}

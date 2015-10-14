@@ -1,0 +1,27 @@
+{
+  "id": 4001510,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f052f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2758980",
+        "gp:id":727702,
+        "qs:id":5,
+        "wof:id":101809799
+    },
+    "tgn:hierarchy":[
+        "tgn:4001510",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":4001510,
+    "tgn:name:nl":"Biervliet",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.683333,51.333333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.983333,54.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7171462","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7171462,"name:xx":"Hemmerwurth"}}
+{
+  "id": 7171462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171462",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171462,
+    "tgn:name":"Hemmerwurth",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.983333,54.3],"type":"Point"}
+}

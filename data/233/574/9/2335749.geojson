@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.616700,37.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2335749","tgn:1000001","tgn:7012149","tgn:1002298","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2335749,"name:xx":"Forty-Five Canal"}}
+{
+  "id": 2335749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335749",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002298",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335749,
+    "tgn:name":"Forty-Five Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6167,37.85],"type":"Point"}
+}

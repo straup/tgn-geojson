@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.695000,24.711400]},"type":"Feature","properties":{"hierarchy":["tgn:7470128","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300167671"],"id":7470128,"name:xx":"Wenziyanbu"}}
+{
+  "id": 7470128,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470128",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470128,
+    "tgn:name":"Wenziyanbu",
+    "tgn:placetype":[
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.695,24.7114],"type":"Point"}
+}

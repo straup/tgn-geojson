@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-2.500000,52.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7029494","tgn:7002445","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300387277","aat:300387179","aat:300387064","aat:300000771"],"id":7029494,"name:xx":"Hereford and Worcester"}}
+{
+  "id": 7029494,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029494",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029494,
+    "tgn:name":"Hereford and Worcester",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300387179",
+        "aat:300387064",
+        "aat:300000771"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.5,52.15],"type":"Point"}
+}

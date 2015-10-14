@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.733300,34.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2159790","tgn:1000001","tgn:7012149","tgn:2000430","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2159790,"name:xx":"Beech Cove Vista"}}
+{
+  "id": 2159790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159790",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000430",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159790,
+    "tgn:name":"Beech Cove Vista",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.7333,34.9333],"type":"Point"}
+}

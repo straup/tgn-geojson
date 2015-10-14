@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.166700,48.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7020591","tgn:1000001","tgn:7012149","tgn:2001609","tgn:7007705","tgn:7029392"],"placetype":["aat:300006191"],"id":7020591,"name:xx":"McLeod Lake"}}
+{
+  "id": 7020591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020591",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001609",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020591,
+    "tgn:name":"McLeod Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.1667,48.3333],"type":"Point"}
+}

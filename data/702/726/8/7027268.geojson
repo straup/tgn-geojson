@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.316667,52.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7027268","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7027268,"name:ang":"Alwoltune"}}
+{
+  "id": 7027268,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027268",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027268,
+    "tgn:name:ang":"Alwoltune",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.316667,52.55],"type":"Point"}
+}

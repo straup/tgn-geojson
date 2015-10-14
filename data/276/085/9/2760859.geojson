@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.333300,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2760859","tgn:1000001","tgn:7019982","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2760859,"name:xx":"West Hill"}}
+{
+  "id": 2760859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760859",
+        "tgn:1000001",
+        "tgn:7019982",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760859,
+    "tgn:name":"West Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.3333,42.1],"type":"Point"}
+}

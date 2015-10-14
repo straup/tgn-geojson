@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.483333,23.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7376386","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7376386,"name:xx":"Lobos, Isla"}}
+{
+  "id": 7376386,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376386",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376386,
+    "tgn:name":"Lobos, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.483333,23.216667],"type":"Point"}
+}

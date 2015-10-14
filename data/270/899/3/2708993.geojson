@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.783300,44.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2708993","tgn:1000001","tgn:2002370","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2708993,"name:xx":"T L Reservoir"}}
+{
+  "id": 2708993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2708993",
+        "tgn:1000001",
+        "tgn:2002370",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2708993,
+    "tgn:name":"T L Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7833,44.8333],"type":"Point"}
+}

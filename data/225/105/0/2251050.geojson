@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.266700,45.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2251050","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300006075"],"id":2251050,"name:xx":"Columbus Water Users Association Ditch"}}
+{
+  "id": 2251050,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251050",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251050,
+    "tgn:name":"Columbus Water Users Association Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.2667,45.65],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.616700,36.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2156266","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2156266,"name:xx":"Bearing Peak"}}
+{
+  "id": 2156266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156266",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156266,
+    "tgn:name":"Bearing Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6167,36.15],"type":"Point"}
+}

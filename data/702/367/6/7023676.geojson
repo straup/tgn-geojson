@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.433300,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7023676","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":7023676,"name:xx":"Pinhook Swamp"}}
+{
+  "id": 7023676,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023676",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023676,
+    "tgn:name":"Pinhook Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4333,30.5],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.300000,36.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2254949","tgn:1000001","tgn:7012149","tgn:2001519","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2254949,"name:xx":"Cooper Branch"}}
+{
+  "id": 2254949,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254949",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001519",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254949,
+    "tgn:name":"Cooper Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.3,36.05],"type":"Point"}
+}

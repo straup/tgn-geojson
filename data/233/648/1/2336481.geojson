@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-101.550000,30.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2336481","tgn:1000001","tgn:7012149","tgn:2001967","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2336481,"name:xx":"Four Corner Windmill"}}
+{
+  "id": 2336481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336481",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001967",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336481,
+    "tgn:name":"Four Corner Windmill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.55,30.6167],"type":"Point"}
+}

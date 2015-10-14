@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.683333,48.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7114732","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7114732,"name:xx":"Oberschlottham"}}
+{
+  "id": 7114732,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114732",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114732,
+    "tgn:name":"Oberschlottham",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.683333,48.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.033300,39.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2252862","tgn:1000001","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008699"],"id":2252862,"name:xx":"Conover Branch"}}
+{
+  "id": 2252862,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252862",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252862,
+    "tgn:name":"Conover Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.0333,39.9],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[43.745000,40.928000]},"type":"Feature","properties":{"hierarchy":["tgn:7024048","tgn:1000004","tgn:7024040","tgn:7006651","tgn:7029392"],"placetype":["aat:300008347","aat:300008375"],"name:en":"Aregnadem","id":7024048}}
+{
+  "id": 7024048,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024048",
+        "tgn:1000004",
+        "tgn:7024040",
+        "tgn:7006651",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024048,
+    "tgn:name:en":"Aregnadem",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[43.745,40.928],"type":"Point"}
+}

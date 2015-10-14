@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.650000,27.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7365564","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7365564,"name:xx":"Encino, Cerro"}}
+{
+  "id": 7365564,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365564",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365564,
+    "tgn:name":"Encino, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.65,27.216667],"type":"Point"}
+}

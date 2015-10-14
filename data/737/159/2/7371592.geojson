@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.750000,30.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7371592","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371592,"name:xx":"Rancho La Mojonera"}}
+{
+  "id": 7371592,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371592",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371592,
+    "tgn:name":"Rancho La Mojonera",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.75,30.65],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.483300,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2407339","tgn:1000001","tgn:7012149","tgn:1002496","tgn:7007252","tgn:7029392"],"placetype":["aat:300006191"],"id":2407339,"name:xx":"Huntington College Lake"}}
+{
+  "id": 2407339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407339",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002496",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407339,
+    "tgn:name":"Huntington College Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4833,40.8833],"type":"Point"}
+}

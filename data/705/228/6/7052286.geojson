@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.250000,40.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7052286","tgn:1003500","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300386846"],"id":7052286,"name:xx":"Penna, Punta della"}}
+{
+  "id": 7052286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052286",
+        "tgn:1003500",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052286,
+    "tgn:name":"Penna, Punta della",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.25,40.466667],"type":"Point"}
+}

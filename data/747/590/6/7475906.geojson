@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.638800,23.801300]},"type":"Feature","properties":{"hierarchy":["tgn:7475906","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475906,"name:xx":"Wanzinei"}}
+{
+  "id": 7475906,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475906",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475906,
+    "tgn:name":"Wanzinei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6388,23.8013],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.850000,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2405667","tgn:1000001","tgn:1003023","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008706"],"id":2405667,"name:xx":"Hughs Creek"}}
+{
+  "id": 2405667,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405667",
+        "tgn:1000001",
+        "tgn:1003023",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405667,
+    "tgn:name":"Hughs Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.85,38.25],"type":"Point"}
+}

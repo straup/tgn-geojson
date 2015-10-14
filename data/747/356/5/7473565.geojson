@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.582932,24.844668]},"type":"Feature","properties":{"hierarchy":["tgn:7473565","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300004792"],"id":7473565,"name:xx":"Dongzhou Linye Gongsi"}}
+{
+  "id": 7473565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473565",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473565,
+    "tgn:name":"Dongzhou Linye Gongsi",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.582932,24.844668],"type":"Point"}
+}

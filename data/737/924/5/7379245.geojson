@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.050000,26.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7379245","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7379245,"name:xx":"Margaritos, Cerro los"}}
+{
+  "id": 7379245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379245",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379245,
+    "tgn:name":"Margaritos, Cerro los",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.05,26.516667],"type":"Point"}
+}

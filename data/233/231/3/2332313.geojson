@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.700000,37.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2332313","tgn:1002132","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008850"],"id":2332313,"name:xx":"Flood Point"}}
+{
+  "id": 2332313,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332313",
+        "tgn:1002132",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332313,
+    "tgn:name":"Flood Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7,37.8333],"type":"Point"}
+}

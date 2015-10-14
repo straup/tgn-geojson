@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.150000,28.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7373454","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300132316"],"id":7373454,"name:xx":"Kunkaak, Bahia"}}
+{
+  "id": 7373454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373454",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373454,
+    "tgn:name":"Kunkaak, Bahia",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.15,28.916667],"type":"Point"}
+}

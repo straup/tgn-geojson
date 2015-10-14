@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.383333,40.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7055312","tgn:1003474","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055312,"name:xx":"Misegna, Torrente"}}
+{
+  "id": 7055312,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055312",
+        "tgn:1003474",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055312,
+    "tgn:name":"Misegna, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.383333,40.416667],"type":"Point"}
+}

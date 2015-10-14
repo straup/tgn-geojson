@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.619444,24.340833]},"type":"Feature","properties":{"hierarchy":["tgn:7483132","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483132,"name:xx":"Shuiwei Qiao"}}
+{
+  "id": 7483132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483132",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483132,
+    "tgn:name":"Shuiwei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.619444,24.340833],"type":"Point"}
+}

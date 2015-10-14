@@ -1,0 +1,26 @@
+{
+  "id": 7003403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003403",
+        "tgn:7594006",
+        "tgn:1000003",
+        "tgn:1000066",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003403,
+    "tgn:name:da":"Horsens",
+    "tgn:name:en":"Horsens",
+    "tgn:placetype":[
+        "aat:300387273",
+        "aat:300008347",
+        "aat:300387238",
+        "aat:300387512",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.8833,55.8833],"type":"Point"}
+}

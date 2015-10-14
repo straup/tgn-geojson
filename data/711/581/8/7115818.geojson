@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.050000,49.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7115818","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7115818,"name:xx":"Oberwinzer"}}
+{
+  "id": 7115818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115818",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115818,
+    "tgn:name":"Oberwinzer",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.05,49.033333],"type":"Point"}
+}

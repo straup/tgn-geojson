@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.733333,25.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7373365","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7373365,"name:xx":"La Libertad"}}
+{
+  "id": 7373365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373365",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373365,
+    "tgn:name":"La Libertad",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.733333,25.116667],"type":"Point"}
+}

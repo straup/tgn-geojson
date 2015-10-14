@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-81.666700,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7022951","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022951,"name:xx":"Flat Spring Ridge"}}
+{
+  "id": 7022951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022951",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022951,
+    "tgn:name":"Flat Spring Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.6667,36.6],"type":"Point"}
+}

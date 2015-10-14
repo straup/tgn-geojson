@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.333333,50.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7246612","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300005567"],"id":7246612,"name:xx":"Dinant"}}
+{
+  "id": 7246612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246612",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246612,
+    "tgn:name":"Dinant",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.333333,50.566667],"type":"Point"}
+}

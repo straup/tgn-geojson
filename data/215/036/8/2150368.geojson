@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.400000,36.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2150368","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300008706"],"id":2150368,"name:xx":"Basin Creek"}}
+{
+  "id": 2150368,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150368",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150368,
+    "tgn:name":"Basin Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4,36.35],"type":"Point"}
+}

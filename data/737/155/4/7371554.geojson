@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.000000,21.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7371554","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371554,"name:xx":"La Cumbre de Huicicila"}}
+{
+  "id": 7371554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371554",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371554,
+    "tgn:name":"La Cumbre de Huicicila",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.0,21.316667],"type":"Point"}
+}

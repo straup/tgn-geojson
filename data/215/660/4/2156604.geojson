@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.600000,35.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2156604","tgn:1000001","tgn:7012149","tgn:2001543","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2156604,"name:xx":"Bearwallow Ridge"}}
+{
+  "id": 2156604,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156604",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001543",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156604,
+    "tgn:name":"Bearwallow Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.6,35.5333],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1048018,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f19f0c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2749366",
+        "gp:id":732403,
+        "qs:id":7,
+        "wof:id":101807393
+    },
+    "tgn:hierarchy":[
+        "tgn:1048018",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048018,
+    "tgn:name:nl":"Oosthuizen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.0,52.566667],"type":"Point"}
+}

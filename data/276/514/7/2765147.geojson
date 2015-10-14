@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.483300,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2765147","tgn:1000001","tgn:7012149","tgn:2001981","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2765147,"name:xx":"Whispering Springs Canyon"}}
+{
+  "id": 2765147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765147",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001981",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765147,
+    "tgn:name":"Whispering Springs Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4833,31.8833],"type":"Point"}
+}

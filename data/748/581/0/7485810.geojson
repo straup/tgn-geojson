@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.240556,22.822500]},"type":"Feature","properties":{"hierarchy":["tgn:7485810","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7485810,"name:xx":"Erkuaicuo"}}
+{
+  "id": 7485810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485810",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485810,
+    "tgn:name":"Erkuaicuo",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.240556,22.8225],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.216667,19.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7359889","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359889,"name:xx":"Ciruelito de la Marina"}}
+{
+  "id": 7359889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359889",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359889,
+    "tgn:name":"Ciruelito de la Marina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.216667,19.25],"type":"Point"}
+}

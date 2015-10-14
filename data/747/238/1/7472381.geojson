@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.604290,24.104341]},"type":"Feature","properties":{"hierarchy":["tgn:7472381","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7472381,"name:xx":"Sanzhan Beixi"}}
+{
+  "id": 7472381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472381",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472381,
+    "tgn:name":"Sanzhan Beixi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.60429,24.104341],"type":"Point"}
+}

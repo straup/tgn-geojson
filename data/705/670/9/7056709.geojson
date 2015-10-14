@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.516667,41.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7056709","tgn:7004595","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7056709,"name:xx":"Acqua Calda, Torrente"}}
+{
+  "id": 7056709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056709",
+        "tgn:7004595",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056709,
+    "tgn:name":"Acqua Calda, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.516667,41.316667],"type":"Point"}
+}

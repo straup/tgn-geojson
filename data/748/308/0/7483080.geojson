@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.575000,23.586944]},"type":"Feature","properties":{"hierarchy":["tgn:7483080","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483080,"name:xx":"Caigongkengzhuang"}}
+{
+  "id": 7483080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483080",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483080,
+    "tgn:name":"Caigongkengzhuang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.575,23.586944],"type":"Point"}
+}

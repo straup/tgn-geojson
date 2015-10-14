@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.020833,24.835833]},"type":"Feature","properties":{"hierarchy":["tgn:7481317","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481317,"name:xx":"Shuilong"}}
+{
+  "id": 7481317,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481317",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481317,
+    "tgn:name":"Shuilong",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.020833,24.835833],"type":"Point"}
+}

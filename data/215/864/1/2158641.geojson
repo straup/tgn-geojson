@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-157.016700,61.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2158641","tgn:7006450","tgn:2000069","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2158641,"name:xx":"Beaverhouse Hill"}}
+{
+  "id": 2158641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158641",
+        "tgn:7006450",
+        "tgn:2000069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158641,
+    "tgn:name":"Beaverhouse Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-157.0167,61.5],"type":"Point"}
+}

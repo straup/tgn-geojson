@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.133300,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2151199","tgn:1000001","tgn:7012149","tgn:2000976","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2151199,"name:xx":"Batcheller Lake"}}
+{
+  "id": 2151199,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151199",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000976",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151199,
+    "tgn:name":"Batcheller Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1333,44.0],"type":"Point"}
+}

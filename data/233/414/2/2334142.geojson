@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.350000,46.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2334142","tgn:2002239","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2334142,"name:xx":"Foredyce Spring"}}
+{
+  "id": 2334142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334142",
+        "tgn:2002239",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334142,
+    "tgn:name":"Foredyce Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.35,46.2667],"type":"Point"}
+}

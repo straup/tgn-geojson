@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.933300,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2253291","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300132451"],"id":2253291,"name:xx":"Converse Mountain Grove"}}
+{
+  "id": 2253291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253291",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253291,
+    "tgn:name":"Converse Mountain Grove",
+    "tgn:placetype":[
+        "aat:300132451"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9333,36.8167],"type":"Point"}
+}

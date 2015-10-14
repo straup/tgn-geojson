@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.566667,24.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7470549","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470549,"name:xx":"Heping"}}
+{
+  "id": 7470549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470549",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470549,
+    "tgn:name":"Heping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.566667,24.0],"type":"Point"}
+}

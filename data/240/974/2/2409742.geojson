@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.133300,29.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2409742","tgn:1000001","tgn:7012149","tgn:2000879","tgn:7007256","tgn:7029392"],"placetype":["aat:300008791"],"id":2409742,"name:xx":"Ile De Barataria"}}
+{
+  "id": 2409742,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409742",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000879",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409742,
+    "tgn:name":"Ile De Barataria",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1333,29.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.383333,28.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7361729","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361729,"name:xx":"El Jud\u00edo"}}
+{
+  "id": 7361729,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361729",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361729,
+    "tgn:name":"El Jud\u00edo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.383333,28.766667],"type":"Point"}
+}

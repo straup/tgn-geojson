@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-71.000000,44.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7023712","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":7023712,"name:xx":"Province Brook"}}
+{
+  "id": 7023712,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023712",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023712,
+    "tgn:name":"Province Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0,44.1],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.450000,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2251602","tgn:1000001","tgn:7012149","tgn:1002982","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2251602,"name:xx":"Como Creek"}}
+{
+  "id": 2251602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251602",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002982",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251602,
+    "tgn:name":"Como Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.45,42.6],"type":"Point"}
+}

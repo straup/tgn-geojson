@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.083300,31.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2768477","tgn:1000001","tgn:7012149","tgn:1002303","tgn:7007826","tgn:7029392"],"placetype":["aat:300008697"],"id":2768477,"name:xx":"Whitewalker Spring"}}
+{
+  "id": 2768477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002303",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768477,
+    "tgn:name":"Whitewalker Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.0833,31.4333],"type":"Point"}
+}

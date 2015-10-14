@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.083333,26.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7351650","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351650,"name:xx":"Barajas, Cerro"}}
+{
+  "id": 7351650,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351650",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351650,
+    "tgn:name":"Barajas, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.083333,26.4],"type":"Point"}
+}

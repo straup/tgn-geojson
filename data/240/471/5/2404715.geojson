@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.816700,45.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2404715","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2404715,"name:xx":"Huckleberry Creek"}}
+{
+  "id": 2404715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404715",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404715,
+    "tgn:name":"Huckleberry Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8167,45.1833],"type":"Point"}
+}

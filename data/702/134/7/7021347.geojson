@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.933300,47.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021347","tgn:1000001","tgn:7012149","tgn:2001058","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":7021347,"name:xx":"Moen Lake"}}
+{
+  "id": 7021347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021347",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001058",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021347,
+    "tgn:name":"Moen Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.9333,47.5],"type":"Point"}
+}

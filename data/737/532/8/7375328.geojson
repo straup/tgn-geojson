@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.333333,31.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7375328","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7375328,"name:xx":"Libertad, Cerro"}}
+{
+  "id": 7375328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375328",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375328,
+    "tgn:name":"Libertad, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.333333,31.066667],"type":"Point"}
+}

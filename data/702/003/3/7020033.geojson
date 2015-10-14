@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.216700,42.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7020033","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":7020033,"name:xx":"Athol"}}
+{
+  "id": 7020033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020033",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020033,
+    "tgn:name":"Athol",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2167,42.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.700000,39.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2333824","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002791","tgn:7029392"],"placetype":["aat:300008706"],"id":2333824,"name:xx":"Forbes Creek"}}
+{
+  "id": 2333824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333824",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002791",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333824,
+    "tgn:name":"Forbes Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.7,39.1167],"type":"Point"}
+}

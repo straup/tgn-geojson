@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.616667,26.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7369871","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008816"],"id":7369871,"name:xx":"Huatabampito, Playa"}}
+{
+  "id": 7369871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369871",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369871,
+    "tgn:name":"Huatabampito, Playa",
+    "tgn:placetype":[
+        "aat:300008816"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.616667,26.683333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.783300,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2258276","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002791","tgn:7029392"],"placetype":["aat:300008798"],"id":2258276,"name:xx":"Cottage Home Hill"}}
+{
+  "id": 2258276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258276",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002791",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258276,
+    "tgn:name":"Cottage Home Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.7833,39.0833],"type":"Point"}
+}

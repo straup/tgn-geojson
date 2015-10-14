@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[94.931000,40.033000]},"type":"Feature","properties":{"hierarchy":["tgn:7029798","tgn:1000004","tgn:1001261","tgn:1000111","tgn:7029392"],"placetype":["aat:300387007","aat:300008746","aat:300000833","aat:300263063"],"id":7029798,"name:xx":"Qianfodong"}}
+{
+  "id": 7029798,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029798",
+        "tgn:1000004",
+        "tgn:1001261",
+        "tgn:1000111",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029798,
+    "tgn:name":"Qianfodong",
+    "tgn:placetype":[
+        "aat:300387007",
+        "aat:300008746",
+        "aat:300000833",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[94.931,40.033],"type":"Point"}
+}

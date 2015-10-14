@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.083333,30.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7364557","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7364557,"name:xx":"Rancho El Pozo"}}
+{
+  "id": 7364557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364557",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364557,
+    "tgn:name":"Rancho El Pozo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.083333,30.9],"type":"Point"}
+}

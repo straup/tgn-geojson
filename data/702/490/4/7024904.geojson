@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.033300,43.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7024904","tgn:1000003","tgn:1000070","tgn:7002895","tgn:7029392"],"placetype":["aat:300008795"],"id":7024904,"name:xx":"Tourrettes, Puy de"}}
+{
+  "id": 7024904,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024904",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7002895",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024904,
+    "tgn:name":"Tourrettes, Puy de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.0333,43.75],"type":"Point"}
+}

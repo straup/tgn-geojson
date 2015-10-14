@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.766700,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339565","tgn:1000001","tgn:7012149","tgn:1002877","tgn:7007706","tgn:7029392"],"placetype":["aat:300008706"],"id":2339565,"name:xx":"Frederick Creek"}}
+{
+  "id": 2339565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339565",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002877",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339565,
+    "tgn:name":"Frederick Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.7667,38.75],"type":"Point"}
+}

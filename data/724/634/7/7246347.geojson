@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,51.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7246347","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008688"],"id":7246347,"name:xx":"De Weel"}}
+{
+  "id": 7246347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246347",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246347,
+    "tgn:name":"De Weel",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,51.216667],"type":"Point"}
+}

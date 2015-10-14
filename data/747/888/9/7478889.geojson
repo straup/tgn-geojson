@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.914531,24.577819]},"type":"Feature","properties":{"hierarchy":["tgn:7478889","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7478889,"name:xx":"Shuilixia Shan"}}
+{
+  "id": 7478889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478889",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478889,
+    "tgn:name":"Shuilixia Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.914531,24.577819],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.783333,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7242557","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7242557,"name:xx":"Koningsdonk"}}
+{
+  "id": 7242557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242557",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242557,
+    "tgn:name":"Koningsdonk",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.783333,51.033333],"type":"Point"}
+}

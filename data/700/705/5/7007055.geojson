@@ -1,0 +1,27 @@
+{
+  "id": 7007055,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f22594-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745673",
+        "gp:id":734188,
+        "qs:id":2,
+        "wof:id":101754859
+    },
+    "tgn:hierarchy":[
+        "tgn:7007055",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007055,
+    "tgn:name:nl":"Velsen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.633333,52.466667],"type":"Point"}
+}

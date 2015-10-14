@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7240579","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7240579,"name:xx":"Faubourg de Namur"}}
+{
+  "id": 7240579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240579",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240579,
+    "tgn:name":"Faubourg de Namur",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.6],"type":"Point"}
+}

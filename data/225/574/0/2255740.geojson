@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.716700,32.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2255740","tgn:1000001","tgn:7012149","tgn:2001447","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2255740,"name:xx":"Copper Bottom Tank"}}
+{
+  "id": 2255740,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255740",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001447",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255740,
+    "tgn:name":"Copper Bottom Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.7167,32.0167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.250000,21.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7355166","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300343547"],"id":7355166,"name:xx":"Chencortador, Aguada"}}
+{
+  "id": 7355166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355166",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355166,
+    "tgn:name":"Chencortador, Aguada",
+    "tgn:placetype":[
+        "aat:300343547"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.25,21.466667],"type":"Point"}
+}

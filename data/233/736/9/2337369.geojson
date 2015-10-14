@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.650000,39.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2337369","tgn:1000001","tgn:7012149","tgn:2002303","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2337369,"name:xx":"Fouty Hollow"}}
+{
+  "id": 2337369,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337369",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002303",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337369,
+    "tgn:name":"Fouty Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.65,39.1333],"type":"Point"}
+}

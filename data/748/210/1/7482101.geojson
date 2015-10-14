@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.486667,24.486389]},"type":"Feature","properties":{"hierarchy":["tgn:7482101","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7482101,"name:xx":"Jialuo Beichi"}}
+{
+  "id": 7482101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482101",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482101,
+    "tgn:name":"Jialuo Beichi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.486667,24.486389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-138.800000,59.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2761497","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7030574","tgn:7029392"],"placetype":["aat:300008835"],"id":2761497,"name:xx":"West Nunatak Glacier"}}
+{
+  "id": 2761497,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761497",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7030574",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761497,
+    "tgn:name":"West Nunatak Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-138.8,59.6833],"type":"Point"}
+}

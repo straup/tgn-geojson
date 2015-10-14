@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.383300,45.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2155348","tgn:1000001","tgn:7012149","tgn:2002341","tgn:7007922","tgn:7029392"],"placetype":["aat:300008680"],"id":2155348,"name:xx":"Bear Paw Lake"}}
+{
+  "id": 2155348,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155348",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002341",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155348,
+    "tgn:name":"Bear Paw Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.3833,45.1667],"type":"Point"}
+}

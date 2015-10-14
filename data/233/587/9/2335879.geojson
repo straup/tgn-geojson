@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.433300,44.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2335879","tgn:1000001","tgn:7012149","tgn:7014589","tgn:7007515","tgn:7029392"],"placetype":["aat:300008850"],"id":2335879,"name:xx":"Foss Point"}}
+{
+  "id": 2335879,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335879",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014589",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335879,
+    "tgn:name":"Foss Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.4333,44.65],"type":"Point"}
+}

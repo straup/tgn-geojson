@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.733333,51.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7171078","tgn:1000003","tgn:7003689","tgn:7000084","tgn:7029392"],"placetype":["aat:300008761"],"id":7171078,"name:xx":"Hirschgrund"}}
+{
+  "id": 7171078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171078",
+        "tgn:1000003",
+        "tgn:7003689",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171078,
+    "tgn:name":"Hirschgrund",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.733333,51.0],"type":"Point"}
+}

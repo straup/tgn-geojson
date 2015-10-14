@@ -1,0 +1,25 @@
+{
+  "id": 7010761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010761",
+        "tgn:7006427",
+        "tgn:1000003",
+        "tgn:7006417",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010761,
+    "tgn:name":"Elbasan",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300387308",
+        "aat:300387223",
+        "aat:300008375",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[20.0833,41.1167],"type":"Point"}
+}

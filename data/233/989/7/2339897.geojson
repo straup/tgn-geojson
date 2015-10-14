@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.866700,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2339897","tgn:1000001","tgn:7012149","tgn:2000796","tgn:7007255","tgn:7029392"],"placetype":["aat:300006191"],"id":2339897,"name:xx":"Freeman Lake"}}
+{
+  "id": 2339897,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339897",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000796",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339897,
+    "tgn:name":"Freeman Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8667,37.7],"type":"Point"}
+}

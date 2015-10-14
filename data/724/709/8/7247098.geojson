@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.094682,50.851382]},"type":"Feature","properties":{"hierarchy":["tgn:7247098","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247098,"name:xx":"Dadizele"}}
+{
+  "id": 7247098,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247098",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247098,
+    "tgn:name":"Dadizele",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.094682,50.851382],"type":"Point"}
+}

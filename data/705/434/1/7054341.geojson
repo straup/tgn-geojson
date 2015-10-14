@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.750000,44.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7054341","tgn:7003134","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054341,"name:xx":"Palazzina"}}
+{
+  "id": 7054341,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054341",
+        "tgn:7003134",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054341,
+    "tgn:name":"Palazzina",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.75,44.65],"type":"Point"}
+}

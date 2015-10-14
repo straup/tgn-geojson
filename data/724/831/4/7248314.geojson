@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.154839,50.742627]},"type":"Feature","properties":{"hierarchy":["tgn:7248314","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248314,"name:xx":"Bellingen"}}
+{
+  "id": 7248314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248314",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248314,
+    "tgn:name":"Bellingen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.154839,50.742627],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.683333,27.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7369837","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7369837,"name:xx":"Garabatal, Arroyo del"}}
+{
+  "id": 7369837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369837",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369837,
+    "tgn:name":"Garabatal, Arroyo del",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.683333,27.933333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.844722,24.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7474222","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7474222,"name:xx":"Wai'ao Zhan"}}
+{
+  "id": 7474222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474222",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474222,
+    "tgn:name":"Wai'ao Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.844722,24.883333],"type":"Point"}
+}

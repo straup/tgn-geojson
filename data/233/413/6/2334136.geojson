@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.283300,43.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2334136","tgn:1000001","tgn:2000920","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008707"],"id":2334136,"name:xx":"Fore River"}}
+{
+  "id": 2334136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334136",
+        "tgn:1000001",
+        "tgn:2000920",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334136,
+    "tgn:name":"Fore River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.2833,43.6833],"type":"Point"}
+}

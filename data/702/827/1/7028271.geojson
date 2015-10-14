@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.491000,52.735000]},"type":"Feature","properties":{"hierarchy":["tgn:7028271","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028271,"name:xx":"Barton Turf"}}
+{
+  "id": 7028271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028271",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028271,
+    "tgn:name":"Barton Turf",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.491,52.735],"type":"Point"}
+}

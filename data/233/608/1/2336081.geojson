@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.800000,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2336081","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000184","tgn:7029392"],"placetype":["aat:300008761"],"id":2336081,"name:xx":"Foster Draw"}}
+{
+  "id": 2336081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336081",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000184",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336081,
+    "tgn:name":"Foster Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.8,41.0333],"type":"Point"}
+}

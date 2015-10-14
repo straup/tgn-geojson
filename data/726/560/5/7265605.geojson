@@ -1,0 +1,26 @@
+{
+  "id": 7265605,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14b42-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751318",
+        "gp:id":731468,
+        "wof:id":101837665
+    },
+    "tgn:hierarchy":[
+        "tgn:7265605",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265605,
+    "tgn:name:nl":"Maarsbergen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.4,52.05],"type":"Point"}
+}

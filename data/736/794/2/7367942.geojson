@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.966667,21.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7367942","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7367942,"name:xx":"El Pozo"}}
+{
+  "id": 7367942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367942",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367942,
+    "tgn:name":"El Pozo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.966667,21.033333],"type":"Point"}
+}

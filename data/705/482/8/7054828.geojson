@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.766667,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7054828","tgn:7009084","tgn:7003001","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7054828,"name:xx":"Monache, Fiume della"}}
+{
+  "id": 7054828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054828",
+        "tgn:7009084",
+        "tgn:7003001",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054828,
+    "tgn:name":"Monache, Fiume della",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.766667,42.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.950000,50.966700]},"type":"Feature","properties":{"hierarchy":["tgn:7026012","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7026012,"name:ang":"Odiete"}}
+{
+  "id": 7026012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026012",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026012,
+    "tgn:name:ang":"Odiete",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.95,50.9667],"type":"Point"}
+}

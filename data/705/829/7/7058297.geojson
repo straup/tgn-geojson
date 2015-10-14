@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.166667,38.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7058297","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058297,"name:xx":"Bovalino Superiore"}}
+{
+  "id": 7058297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058297",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058297,
+    "tgn:name":"Bovalino Superiore",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.166667,38.183333],"type":"Point"}
+}

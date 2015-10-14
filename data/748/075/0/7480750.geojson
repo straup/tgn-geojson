@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.236944,24.802778]},"type":"Feature","properties":{"hierarchy":["tgn:7480750","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008187"],"id":7480750,"name:xx":"Tonghua Shijie"}}
+{
+  "id": 7480750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480750",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480750,
+    "tgn:name":"Tonghua Shijie",
+    "tgn:placetype":[
+        "aat:300008187"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.236944,24.802778],"type":"Point"}
+}

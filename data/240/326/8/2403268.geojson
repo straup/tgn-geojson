@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.016700,37.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2403268","tgn:1000001","tgn:7012149","tgn:2002127","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2403268,"name:xx":"House Spring"}}
+{
+  "id": 2403268,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403268",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002127",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403268,
+    "tgn:name":"House Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.0167,37.4667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.350000,31.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7374551","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374551,"name:xx":"La Coyotera"}}
+{
+  "id": 7374551,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374551",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374551,
+    "tgn:name":"La Coyotera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.35,31.666667],"type":"Point"}
+}

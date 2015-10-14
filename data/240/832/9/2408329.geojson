@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.716700,44.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2408329","tgn:1000001","tgn:2000923","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008798"],"id":2408329,"name:xx":"Hussey Hill"}}
+{
+  "id": 2408329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408329",
+        "tgn:1000001",
+        "tgn:2000923",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408329,
+    "tgn:name":"Hussey Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.7167,44.5667],"type":"Point"}
+}

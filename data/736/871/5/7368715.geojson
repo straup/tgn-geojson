@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.616667,15.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7368715","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368715,"name:xx":"Juana Ramos"}}
+{
+  "id": 7368715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368715",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368715,
+    "tgn:name":"Juana Ramos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.616667,15.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.216700,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2332450","tgn:1000001","tgn:2001412","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347"],"id":2332450,"name:xx":"Florence Hill"}}
+{
+  "id": 2332450,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332450",
+        "tgn:1000001",
+        "tgn:2001412",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332450,
+    "tgn:name":"Florence Hill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.2167,37.7],"type":"Point"}
+}

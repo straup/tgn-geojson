@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[33.325000,16.413000]},"type":"Feature","properties":{"hierarchy":["tgn:7029575","tgn:7001242","tgn:1000201","tgn:1001097","tgn:7029392"],"placetype":["aat:300387007","aat:300000810","aat:300008057"],"id":7029575,"name:xx":"Athar el Musawwrat es Safra"}}
+{
+  "id": 7029575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029575",
+        "tgn:7001242",
+        "tgn:1000201",
+        "tgn:1001097",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029575,
+    "tgn:name":"Athar el Musawwrat es Safra",
+    "tgn:placetype":[
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[33.325,16.413],"type":"Point"}
+}

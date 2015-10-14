@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.400000,45.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2151009","tgn:2001004","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2151009,"name:xx":"Bassett Slough"}}
+{
+  "id": 2151009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151009",
+        "tgn:2001004",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151009,
+    "tgn:name":"Bassett Slough",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.4,45.4],"type":"Point"}
+}

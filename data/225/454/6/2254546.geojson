@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.783300,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2254546","tgn:1000001","tgn:7012149","tgn:1002932","tgn:7007710","tgn:7029392"],"placetype":["aat:300008798"],"id":2254546,"name:xx":"Coon Hill"}}
+{
+  "id": 2254546,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254546",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002932",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254546,
+    "tgn:name":"Coon Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7833,41.6833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.016700,35.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7020484","tgn:1000001","tgn:7012149","tgn:2001537","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":7020484,"name:xx":"Stoney Creek"}}
+{
+  "id": 7020484,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020484",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001537",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020484,
+    "tgn:name":"Stoney Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0167,35.5333],"type":"Point"}
+}

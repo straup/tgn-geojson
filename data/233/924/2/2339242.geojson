@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.100000,43.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339242","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300008706"],"id":2339242,"name:xx":"Frantz Creek"}}
+{
+  "id": 2339242,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339242",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339242,
+    "tgn:name":"Frantz Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1,43.75],"type":"Point"}
+}

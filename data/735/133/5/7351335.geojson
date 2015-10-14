@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.400000,22.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7351335","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7351335,"name:xx":"Arenas, Cayo"}}
+{
+  "id": 7351335,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351335",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351335,
+    "tgn:name":"Arenas, Cayo",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4,22.133333],"type":"Point"}
+}

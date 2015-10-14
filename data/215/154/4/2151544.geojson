@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.416700,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2151544","tgn:1000001","tgn:7012149","tgn:2002293","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2151544,"name:xx":"Batten Run"}}
+{
+  "id": 2151544,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151544",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002293",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151544,
+    "tgn:name":"Batten Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4167,38.75],"type":"Point"}
+}

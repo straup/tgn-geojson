@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.433333,54.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7175449","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008713"],"id":7175449,"name:xx":"Gro\u00dfes Tief"}}
+{
+  "id": 7175449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175449",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175449,
+    "tgn:name":"Gro\u00dfes Tief",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.433333,54.083333],"type":"Point"}
+}

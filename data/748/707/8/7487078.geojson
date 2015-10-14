@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.450886,23.797723]},"type":"Feature","properties":{"hierarchy":["tgn:7487078","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487078,"name:xx":"Linrong Li"}}
+{
+  "id": 7487078,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487078",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487078,
+    "tgn:name":"Linrong Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.450886,23.797723],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.883300,29.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2336709","tgn:1000001","tgn:7012149","tgn:1002595","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2336709,"name:xx":"Four-H Lake"}}
+{
+  "id": 2336709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336709",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002595",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336709,
+    "tgn:name":"Four-H Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.8833,29.95],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.883300,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7026844","tgn:7002445","tgn:1000003","tgn:7008139","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026844,"name:xx":"Eversley"}}
+{
+  "id": 7026844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026844",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008139",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026844,
+    "tgn:name":"Eversley",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.8833,51.35],"type":"Point"}
+}

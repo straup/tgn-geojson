@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.050000,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7242213","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242213,"name:xx":"Loeiend"}}
+{
+  "id": 7242213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242213",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242213,
+    "tgn:name":"Loeiend",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.05,51.266667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.950000,34.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2332063","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000051","tgn:7029392"],"placetype":["aat:300008791"],"id":2332063,"name:xx":"Flint Creek Island"}}
+{
+  "id": 2332063,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332063",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000051",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332063,
+    "tgn:name":"Flint Creek Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.95,34.5333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.929300,25.049500]},"type":"Feature","properties":{"hierarchy":["tgn:7477739","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7477739,"name:xx":"Jianshanjiao Xikou"}}
+{
+  "id": 7477739,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477739",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477739,
+    "tgn:name":"Jianshanjiao Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.9293,25.0495],"type":"Point"}
+}

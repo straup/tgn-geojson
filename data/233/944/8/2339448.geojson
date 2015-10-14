@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.166700,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2339448","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002656","tgn:7029392"],"placetype":["aat:300008697"],"id":2339448,"name:xx":"Frazier Spring"}}
+{
+  "id": 2339448,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339448",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002656",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339448,
+    "tgn:name":"Frazier Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1667,37.0],"type":"Point"}
+}

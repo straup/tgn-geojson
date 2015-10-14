@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.866700,40.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2769174","tgn:1000001","tgn:2001415","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2769174,"name:xx":"Wholey Spring"}}
+{
+  "id": 2769174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769174",
+        "tgn:1000001",
+        "tgn:2001415",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769174,
+    "tgn:name":"Wholey Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.8667,40.0833],"type":"Point"}
+}

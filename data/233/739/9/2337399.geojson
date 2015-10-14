@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.216700,33.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2337399","tgn:1000001","tgn:7012149","tgn:2124023","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2337399,"name:xx":"Fowler Branch"}}
+{
+  "id": 2337399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337399",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124023",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337399,
+    "tgn:name":"Fowler Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2167,33.7333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.600000,20.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7360157","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360157,"name:xx":"Coatlila"}}
+{
+  "id": 7360157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360157",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360157,
+    "tgn:name":"Coatlila",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.6,20.7],"type":"Point"}
+}

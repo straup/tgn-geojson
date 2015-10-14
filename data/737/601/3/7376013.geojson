@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.751389,32.533056]},"type":"Feature","properties":{"hierarchy":["tgn:7376013","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7376013,"name:xx":"Laretto, Aguaje del"}}
+{
+  "id": 7376013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376013",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376013,
+    "tgn:name":"Laretto, Aguaje del",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.751389,32.533056],"type":"Point"}
+}

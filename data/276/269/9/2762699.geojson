@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.000000,37.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2762699","tgn:1000001","tgn:7012149","tgn:2000225","tgn:7007158","tgn:7029392"],"placetype":["aat:300000390"],"id":2762699,"name:xx":"Western Belle Mine"}}
+{
+  "id": 2762699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762699",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000225",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762699,
+    "tgn:name":"Western Belle Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.0,37.4167],"type":"Point"}
+}

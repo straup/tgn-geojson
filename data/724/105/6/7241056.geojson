@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.953327,51.179439]},"type":"Feature","properties":{"hierarchy":["tgn:7241056","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241056,"name:xx":"Hagebrug"}}
+{
+  "id": 7241056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241056",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241056,
+    "tgn:name":"Hagebrug",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.953327,51.179439],"type":"Point"}
+}

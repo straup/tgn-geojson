@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.683300,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2258015","tgn:1000001","tgn:7012149","tgn:1002718","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2258015,"name:xx":"Corwin"}}
+{
+  "id": 2258015,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258015",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002718",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258015,
+    "tgn:name":"Corwin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6833,43.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.833300,44.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2155411","tgn:1000001","tgn:7012149","tgn:1002636","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2155411,"name:xx":"Bear Point"}}
+{
+  "id": 2155411,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155411",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002636",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155411,
+    "tgn:name":"Bear Point",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8333,44.75],"type":"Point"}
+}

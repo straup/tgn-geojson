@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.616700,29.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2258216","tgn:1000001","tgn:7012149","tgn:2000882","tgn:7007256","tgn:7029392"],"placetype":["aat:300055621"],"id":2258216,"name:xx":"Coteau Pistolet"}}
+{
+  "id": 2258216,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258216",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000882",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258216,
+    "tgn:name":"Coteau Pistolet",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6167,29.85],"type":"Point"}
+}

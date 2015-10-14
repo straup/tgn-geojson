@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-178.050000,51.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2764490","tgn:7030516","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008791"],"id":2764490,"name:xx":"Whip Island"}}
+{
+  "id": 2764490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764490",
+        "tgn:7030516",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764490,
+    "tgn:name":"Whip Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-178.05,51.65],"type":"Point"}
+}

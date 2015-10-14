@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.316700,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2251825","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008347"],"id":2251825,"name:xx":"Comus"}}
+{
+  "id": 2251825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251825",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251825,
+    "tgn:name":"Comus",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.3167,41.0],"type":"Point"}
+}

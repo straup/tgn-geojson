@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.900000,47.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7110828","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7110828,"name:xx":"Rahmhaus"}}
+{
+  "id": 7110828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110828",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110828,
+    "tgn:name":"Rahmhaus",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.9,47.833333],"type":"Point"}
+}

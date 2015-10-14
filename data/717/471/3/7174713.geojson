@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.383333,47.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7174713","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7174713,"name:xx":"Grubenhof"}}
+{
+  "id": 7174713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174713",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174713,
+    "tgn:name":"Grubenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.383333,47.783333],"type":"Point"}
+}

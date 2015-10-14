@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.703333,24.424257]},"type":"Feature","properties":{"hierarchy":["tgn:7480393","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7480393,"name:xx":"Nan Xi"}}
+{
+  "id": 7480393,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480393",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480393,
+    "tgn:name":"Nan Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.703333,24.424257],"type":"Point"}
+}

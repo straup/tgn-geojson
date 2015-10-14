@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-93.500000,31.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2152728","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2152728,"name:xx":"Bayou La Nana"}}
+{
+  "id": 2152728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152728",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152728,
+    "tgn:name":"Bayou La Nana",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.5,31.55],"type":"Point"}
+}

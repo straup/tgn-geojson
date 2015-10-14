@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.416667,23.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7362478","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362478,"name:xx":"El Durazno"}}
+{
+  "id": 7362478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362478",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362478,
+    "tgn:name":"El Durazno",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.416667,23.883333],"type":"Point"}
+}

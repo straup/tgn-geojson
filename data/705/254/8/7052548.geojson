@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.000000,37.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7052548","tgn:1000003","tgn:7003122","tgn:1001732","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052548,"name:xx":"Isnello"}}
+{
+  "id": 7052548,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052548",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1001732",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052548,
+    "tgn:name":"Isnello",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.0,37.933333],"type":"Point"}
+}

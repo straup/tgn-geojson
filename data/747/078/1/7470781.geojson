@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.999073,24.006253]},"type":"Feature","properties":{"hierarchy":["tgn:7470781","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7470781,"name:xx":"Xiguandao Shan"}}
+{
+  "id": 7470781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470781",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470781,
+    "tgn:name":"Xiguandao Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.999073,24.006253],"type":"Point"}
+}

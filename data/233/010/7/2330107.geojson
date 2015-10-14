@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.066700,38.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2330107","tgn:1000001","tgn:7012149","tgn:1002350","tgn:7007157","tgn:7029392"],"placetype":["aat:300008798"],"id":2330107,"name:xx":"Flagstaff Hill"}}
+{
+  "id": 2330107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330107",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002350",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330107,
+    "tgn:name":"Flagstaff Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.0667,38.7667],"type":"Point"}
+}

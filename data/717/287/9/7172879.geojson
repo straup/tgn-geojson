@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.983333,52.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7172879","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7172879,"name:xx":"Grenz Pfuhl"}}
+{
+  "id": 7172879,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172879",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172879,
+    "tgn:name":"Grenz Pfuhl",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.983333,52.533333],"type":"Point"}
+}

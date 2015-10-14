@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.325429,23.769044]},"type":"Feature","properties":{"hierarchy":["tgn:7474636","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7474636,"name:xx":"Xunhao Gong"}}
+{
+  "id": 7474636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474636",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474636,
+    "tgn:name":"Xunhao Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.325429,23.769044],"type":"Point"}
+}

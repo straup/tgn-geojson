@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.050000,41.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2769419","tgn:1000001","tgn:7012149","tgn:1002988","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2769419,"name:xx":"Widdlefield Run"}}
+{
+  "id": 2769419,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769419",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002988",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769419,
+    "tgn:name":"Widdlefield Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.05,41.8833],"type":"Point"}
+}

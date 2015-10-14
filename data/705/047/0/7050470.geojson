@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.683333,37.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7050470","tgn:1000003","tgn:7003155","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7050470,"name:xx":"Masseria di Bruca"}}
+{
+  "id": 7050470,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050470",
+        "tgn:1000003",
+        "tgn:7003155",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050470,
+    "tgn:name":"Masseria di Bruca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.683333,37.666667],"type":"Point"}
+}

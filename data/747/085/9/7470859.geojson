@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.774284,24.665057]},"type":"Feature","properties":{"hierarchy":["tgn:7470859","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470859,"name:xx":"Jiufen"}}
+{
+  "id": 7470859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470859",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470859,
+    "tgn:name":"Jiufen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.774284,24.665057],"type":"Point"}
+}

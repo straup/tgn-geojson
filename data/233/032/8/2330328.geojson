@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-106.400000,44.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2330328","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2330328,"name:xx":"Flat Bottom Draw"}}
+{
+  "id": 2330328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330328,
+    "tgn:name":"Flat Bottom Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4,44.9833],"type":"Point"}
+}

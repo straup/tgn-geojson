@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.216667,53.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7026403","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Hainton","id":7026403}}
+{
+  "id": 7026403,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026403",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026403,
+    "tgn:name:en":"Hainton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.216667,53.333333],"type":"Point"}
+}

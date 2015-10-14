@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.050000,54.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7172953","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7172953,"name:xx":"Gro\u00df Schwa\u00df"}}
+{
+  "id": 7172953,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172953",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172953,
+    "tgn:name":"Gro\u00df Schwa\u00df",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.05,54.083333],"type":"Point"}
+}

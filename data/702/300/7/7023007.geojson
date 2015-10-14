@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.400000,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023007","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":7023007,"name:xx":"Gilhams Lake"}}
+{
+  "id": 7023007,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023007",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023007,
+    "tgn:name":"Gilhams Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4,34.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.583300,47.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2254211","tgn:1000001","tgn:7012149","tgn:1002552","tgn:7007920","tgn:7029392"],"placetype":["aat:300132316"],"id":2254211,"name:xx":"Coon Bay"}}
+{
+  "id": 2254211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254211",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002552",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254211,
+    "tgn:name":"Coon Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5833,47.9],"type":"Point"}
+}

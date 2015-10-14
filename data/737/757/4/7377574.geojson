@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-91.350000,17.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7377574","tgn:1000001","tgn:7005596","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7377574,"name:xx":"La Payla"}}
+{
+  "id": 7377574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377574",
+        "tgn:1000001",
+        "tgn:7005596",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377574,
+    "tgn:name":"La Payla",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.35,17.766667],"type":"Point"}
+}

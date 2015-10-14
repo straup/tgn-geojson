@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.523700,50.727390]},"type":"Feature","properties":{"hierarchy":["tgn:7244613","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7244613,"name:xx":"Anseroeul"}}
+{
+  "id": 7244613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244613",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244613,
+    "tgn:name":"Anseroeul",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.5237,50.72739],"type":"Point"}
+}

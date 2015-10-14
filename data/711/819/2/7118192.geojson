@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.700000,52.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7118192","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300386886"],"id":7118192,"name:xx":"Ostern Dosenmoor"}}
+{
+  "id": 7118192,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118192",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118192,
+    "tgn:name":"Ostern Dosenmoor",
+    "tgn:placetype":[
+        "aat:300386886"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.7,52.966667],"type":"Point"}
+}

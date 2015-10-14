@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.466300,22.539300]},"type":"Feature","properties":{"hierarchy":["tgn:7470423","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470423,"name:xx":"Xianji Cun"}}
+{
+  "id": 7470423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470423",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470423,
+    "tgn:name":"Xianji Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4663,22.5393],"type":"Point"}
+}

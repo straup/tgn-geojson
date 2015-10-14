@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.116700,42.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2339985","tgn:1000001","tgn:1002328","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008761"],"id":2339985,"name:xx":"Freer Hollow"}}
+{
+  "id": 2339985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339985",
+        "tgn:1000001",
+        "tgn:1002328",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339985,
+    "tgn:name":"Freer Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.1167,42.2667],"type":"Point"}
+}

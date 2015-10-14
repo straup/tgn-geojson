@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.733300,47.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2760649","tgn:1000001","tgn:7012149","tgn:1002418","tgn:7007920","tgn:7029392"],"placetype":["aat:300008707"],"id":2760649,"name:xx":"West Fork Wishkah River"}}
+{
+  "id": 2760649,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760649",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002418",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760649,
+    "tgn:name":"West Fork Wishkah River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.7333,47.25],"type":"Point"}
+}

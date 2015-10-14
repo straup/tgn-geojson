@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.486667,23.356111]},"type":"Feature","properties":{"hierarchy":["tgn:7485850","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7485850,"name:xx":"Dalaizi"}}
+{
+  "id": 7485850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485850",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485850,
+    "tgn:name":"Dalaizi",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.486667,23.356111],"type":"Point"}
+}

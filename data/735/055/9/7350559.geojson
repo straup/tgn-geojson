@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.166667,31.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7350559","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7350559,"name:xx":"Busani, Arroyo de"}}
+{
+  "id": 7350559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350559",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350559,
+    "tgn:name":"Busani, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.166667,31.016667],"type":"Point"}
+}

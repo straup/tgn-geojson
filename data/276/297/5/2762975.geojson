@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.633300,38.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2762975","tgn:1000001","tgn:7012149","tgn:1002371","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347"],"id":2762975,"name:xx":"Westmoreland"}}
+{
+  "id": 2762975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762975",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002371",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762975,
+    "tgn:name":"Westmoreland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6333,38.0333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.771640,24.714826]},"type":"Feature","properties":{"hierarchy":["tgn:7478847","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478847,"name:xx":"Lanyang Daqiao"}}
+{
+  "id": 7478847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478847",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478847,
+    "tgn:name":"Lanyang Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.77164,24.714826],"type":"Point"}
+}

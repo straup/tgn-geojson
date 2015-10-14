@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.216700,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2150988","tgn:1000001","tgn:7012149","tgn:1002537","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2150988,"name:xx":"Bassett Creek"}}
+{
+  "id": 2150988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150988",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002537",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150988,
+    "tgn:name":"Bassett Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.2167,42.5],"type":"Point"}
+}

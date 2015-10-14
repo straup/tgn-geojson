@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.787300,25.100300]},"type":"Feature","properties":{"hierarchy":["tgn:7476965","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387302"],"id":7476965,"name:xx":"Ruifang Gongyequ"}}
+{
+  "id": 7476965,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476965",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476965,
+    "tgn:name":"Ruifang Gongyequ",
+    "tgn:placetype":[
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.7873,25.1003],"type":"Point"}
+}

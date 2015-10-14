@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.200000,27.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7378429","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378429,"name:xx":"La Providencia"}}
+{
+  "id": 7378429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378429",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378429,
+    "tgn:name":"La Providencia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.2,27.416667],"type":"Point"}
+}

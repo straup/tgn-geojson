@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.385000,24.513056]},"type":"Feature","properties":{"hierarchy":["tgn:7481962","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7481962,"name:xx":"Meiyouyan"}}
+{
+  "id": 7481962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481962",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481962,
+    "tgn:name":"Meiyouyan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.385,24.513056],"type":"Point"}
+}

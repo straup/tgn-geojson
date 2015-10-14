@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.916700,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2255618","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2255618,"name:xx":"Copelin Valley"}}
+{
+  "id": 2255618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255618",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255618,
+    "tgn:name":"Copelin Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9167,37.4333],"type":"Point"}
+}

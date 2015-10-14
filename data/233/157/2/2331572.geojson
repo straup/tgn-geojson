@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.333300,33.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2331572","tgn:1000001","tgn:7012149","tgn:2001758","tgn:7007712","tgn:7029392"],"placetype":["aat:300008905"],"id":2331572,"name:xx":"Flax Patch Swamp"}}
+{
+  "id": 2331572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331572",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001758",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331572,
+    "tgn:name":"Flax Patch Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3333,33.85],"type":"Point"}
+}

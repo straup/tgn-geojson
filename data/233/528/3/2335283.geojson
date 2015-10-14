@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-157.733300,21.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2335283","tgn:1002483","tgn:7019080","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300132316"],"id":2335283,"name:xx":"Fort Hase Cove"}}
+{
+  "id": 2335283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335283",
+        "tgn:1002483",
+        "tgn:7019080",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335283,
+    "tgn:name":"Fort Hase Cove",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-157.7333,21.4333],"type":"Point"}
+}

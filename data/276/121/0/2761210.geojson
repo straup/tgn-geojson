@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.883300,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2761210","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2761210,"name:xx":"West Little Sugar Creek"}}
+{
+  "id": 2761210,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761210",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761210,
+    "tgn:name":"West Little Sugar Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8833,39.7333],"type":"Point"}
+}

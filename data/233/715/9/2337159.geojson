@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.316700,48.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2337159","tgn:1000001","tgn:7012149","tgn:2001280","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2337159,"name:xx":"Fourteenmile Coulee"}}
+{
+  "id": 2337159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337159",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001280",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337159,
+    "tgn:name":"Fourteenmile Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3167,48.4],"type":"Point"}
+}

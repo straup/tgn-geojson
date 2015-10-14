@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.316667,44.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7055162","tgn:7003134","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055162,"name:xx":"Ospitaletto"}}
+{
+  "id": 7055162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055162",
+        "tgn:7003134",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055162,
+    "tgn:name":"Ospitaletto",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.316667,44.3],"type":"Point"}
+}

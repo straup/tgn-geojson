@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.733300,35.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2402492","tgn:1000001","tgn:2001842","tgn:7012149","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2402492,"name:xx":"Hoskins Lake"}}
+{
+  "id": 2402492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402492",
+        "tgn:1000001",
+        "tgn:2001842",
+        "tgn:7012149",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402492,
+    "tgn:name":"Hoskins Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7333,35.15],"type":"Point"}
+}

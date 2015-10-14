@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.435545,51.232092]},"type":"Feature","properties":{"hierarchy":["tgn:7249424","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300120801"],"id":7249424,"name:xx":"Batelage, Bassin de"}}
+{
+  "id": 7249424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249424",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249424,
+    "tgn:name":"Batelage, Bassin de",
+    "tgn:placetype":[
+        "aat:300120801"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.435545,51.232092],"type":"Point"}
+}

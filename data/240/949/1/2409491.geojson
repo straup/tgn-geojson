@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.933300,46.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2409491","tgn:1000001","tgn:7012149","tgn:2000480","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2409491,"name:xx":"Idlers Rest Creek"}}
+{
+  "id": 2409491,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409491",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000480",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409491,
+    "tgn:name":"Idlers Rest Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.9333,46.8],"type":"Point"}
+}

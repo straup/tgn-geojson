@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.266700,43.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2334611","tgn:1000001","tgn:2001021","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008706"],"id":2334611,"name:xx":"Forestville Creek"}}
+{
+  "id": 2334611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334611",
+        "tgn:1000001",
+        "tgn:2001021",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334611,
+    "tgn:name":"Forestville Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2667,43.6333],"type":"Point"}
+}

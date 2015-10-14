@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.583333,20.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7352182","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352182,"name:xx":"Astillero, Cerro del"}}
+{
+  "id": 7352182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352182",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352182,
+    "tgn:name":"Astillero, Cerro del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.583333,20.3],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.990833,26.282778]},"type":"Feature","properties":{"hierarchy":["tgn:7482329","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7482329,"name:xx":"Changbiwei"}}
+{
+  "id": 7482329,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482329",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482329,
+    "tgn:name":"Changbiwei",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.990833,26.282778],"type":"Point"}
+}

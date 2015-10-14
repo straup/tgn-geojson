@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.100000,34.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2760294","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002608","tgn:7029392"],"placetype":["aat:300008707"],"id":2760294,"name:xx":"West Fork San Gabriel River"}}
+{
+  "id": 2760294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760294",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760294,
+    "tgn:name":"West Fork San Gabriel River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.1,34.25],"type":"Point"}
+}

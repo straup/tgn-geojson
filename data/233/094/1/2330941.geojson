@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.983300,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2330941","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2330941,"name:xx":"Flat Rock Branch"}}
+{
+  "id": 2330941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330941",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330941,
+    "tgn:name":"Flat Rock Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9833,34.0333],"type":"Point"}
+}

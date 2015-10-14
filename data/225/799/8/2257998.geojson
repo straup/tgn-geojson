@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.366700,47.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2257998","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300008850"],"id":2257998,"name:xx":"Corundum Point"}}
+{
+  "id": 2257998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257998",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257998,
+    "tgn:name":"Corundum Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.3667,47.1833],"type":"Point"}
+}

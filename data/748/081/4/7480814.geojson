@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.494170,25.019164]},"type":"Feature","properties":{"hierarchy":["tgn:7480814","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7480814,"name:xx":"Shutian Gong"}}
+{
+  "id": 7480814,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480814",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480814,
+    "tgn:name":"Shutian Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.49417,25.019164],"type":"Point"}
+}

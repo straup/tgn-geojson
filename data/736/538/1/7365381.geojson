@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.966667,23.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7365381","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7365381,"name:xx":"Encinal, Cerro el"}}
+{
+  "id": 7365381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365381",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365381,
+    "tgn:name":"Encinal, Cerro el",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.966667,23.033333],"type":"Point"}
+}

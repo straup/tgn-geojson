@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.900000,25.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7350643","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008763"],"id":7350643,"name:xx":"Caballos, Ca\u00f1\u00f3n de los"}}
+{
+  "id": 7350643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350643",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350643,
+    "tgn:name":"Caballos, Ca\u00f1\u00f3n de los",
+    "tgn:placetype":[
+        "aat:300008763"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.9,25.233333],"type":"Point"}
+}

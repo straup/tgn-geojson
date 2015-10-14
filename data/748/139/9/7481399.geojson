@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.593333,23.770556]},"type":"Feature","properties":{"hierarchy":["tgn:7481399","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008791"],"id":7481399,"name:xx":"Damen Yu"}}
+{
+  "id": 7481399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481399",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481399,
+    "tgn:name":"Damen Yu",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.593333,23.770556],"type":"Point"}
+}

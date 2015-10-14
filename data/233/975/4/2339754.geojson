@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.800000,43.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2339754","tgn:1000001","tgn:7012149","tgn:2000995","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2339754,"name:xx":"Freel Drain"}}
+{
+  "id": 2339754,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339754",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000995",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339754,
+    "tgn:name":"Freel Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8,43.4833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[1.220000,44.316000]},"type":"Feature","properties":{"hierarchy":["tgn:7029745","tgn:1000003","tgn:7002889","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"name:fr":"Montcuq","id":7029745}}
+{
+  "id": 7029745,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029745",
+        "tgn:1000003",
+        "tgn:7002889",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029745,
+    "tgn:name:fr":"Montcuq",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.22,44.316],"type":"Point"}
+}

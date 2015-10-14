@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.387441,50.737800]},"type":"Feature","properties":{"hierarchy":["tgn:7249262","tgn:7003460","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7249262,"name:xx":"Otrange"}}
+{
+  "id": 7249262,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249262",
+        "tgn:7003460",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249262,
+    "tgn:name":"Otrange",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.387441,50.7378],"type":"Point"}
+}

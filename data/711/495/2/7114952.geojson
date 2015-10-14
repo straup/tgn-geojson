@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.750000,48.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7114952","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114952,"name:xx":"Oberschabing"}}
+{
+  "id": 7114952,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114952",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114952,
+    "tgn:name":"Oberschabing",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.75,48.566667],"type":"Point"}
+}

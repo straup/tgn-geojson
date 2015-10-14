@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.200000,46.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2401451","tgn:1000001","tgn:7012149","tgn:7020792","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2401451,"name:xx":"Horseshoe Bend Mine"}}
+{
+  "id": 2401451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7020792",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401451,
+    "tgn:name":"Horseshoe Bend Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.2,46.2167],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-73.483300,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2150274","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2150274,"name:xx":"Bash Bish Mountain"}}
+{
+  "id": 2150274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150274",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150274,
+    "tgn:name":"Bash Bish Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.4833,42.1],"type":"Point"}
+}

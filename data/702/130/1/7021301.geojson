@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-95.050000,41.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7021301","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021301,"name:xx":"Tarkio River"}}
+{
+  "id": 7021301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021301",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021301,
+    "tgn:name":"Tarkio River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.05,41.1833],"type":"Point"}
+}

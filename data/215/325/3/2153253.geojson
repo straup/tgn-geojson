@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.950000,40.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2153253","tgn:7013272","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2153253,"name:xx":"Beam Run"}}
+{
+  "id": 2153253,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153253",
+        "tgn:7013272",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153253,
+    "tgn:name":"Beam Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.95,40.3],"type":"Point"}
+}

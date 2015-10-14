@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.783333,21.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7357746","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357746,"name:xx":"Corral Toro"}}
+{
+  "id": 7357746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357746",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357746,
+    "tgn:name":"Corral Toro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.783333,21.666667],"type":"Point"}
+}

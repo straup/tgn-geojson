@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.333300,46.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2151206","tgn:1000001","tgn:7012149","tgn:2001289","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2151206,"name:xx":"Batchelor Gulch"}}
+{
+  "id": 2151206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151206",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001289",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151206,
+    "tgn:name":"Batchelor Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3333,46.7],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.350000,23.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7472526","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7472526,"name:xx":"Tuku Zhen"}}
+{
+  "id": 7472526,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472526",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472526,
+    "tgn:name":"Tuku Zhen",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.35,23.7],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.583300,37.783300]},"type":"Feature","properties":{"hierarchy":["tgn:7021972","tgn:1000001","tgn:7012149","tgn:2001241","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021972,"name:xx":"Vineyards Twin Lakes"}}
+{
+  "id": 7021972,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021972",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001241",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021972,
+    "tgn:name":"Vineyards Twin Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5833,37.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.800000,51.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7170165","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7170165,"name:xx":"Hinter den K\u00e4mpen"}}
+{
+  "id": 7170165,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170165",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170165,
+    "tgn:name":"Hinter den K\u00e4mpen",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.8,51.566667],"type":"Point"}
+}

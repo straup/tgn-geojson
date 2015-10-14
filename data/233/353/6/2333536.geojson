@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.050000,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2333536","tgn:1000001","tgn:7012149","tgn:1002700","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2333536,"name:xx":"Folsom Drain"}}
+{
+  "id": 2333536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333536",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002700",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333536,
+    "tgn:name":"Folsom Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.05,43.4],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7008482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7008482",
+        "tgn:1000003",
+        "tgn:7002893",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7008482,
+    "tgn:name":"Nantes",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387302",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.5833,47.2333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.600000,49.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7241626","tgn:7003465","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008688"],"id":7241626,"name:xx":"Laclaireau, \u00c9tang de"}}
+{
+  "id": 7241626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241626",
+        "tgn:7003465",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241626,
+    "tgn:name":"Laclaireau, \u00c9tang de",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.6,49.6],"type":"Point"}
+}

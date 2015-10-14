@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.516700,34.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2761804","tgn:1000001","tgn:7012149","tgn:2001539","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2761804,"name:xx":"West Prong Juniper Creek"}}
+{
+  "id": 2761804,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761804",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001539",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761804,
+    "tgn:name":"West Prong Juniper Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.5167,34.95],"type":"Point"}
+}

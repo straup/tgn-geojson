@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.516700,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2252870","tgn:1002157","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008706"],"id":2252870,"name:xx":"Conovers Creek"}}
+{
+  "id": 2252870,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252870",
+        "tgn:1002157",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252870,
+    "tgn:name":"Conovers Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.5167,39.4],"type":"Point"}
+}

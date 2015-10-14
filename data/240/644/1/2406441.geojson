@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.183300,48.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2406441","tgn:1000001","tgn:7012149","tgn:2001609","tgn:7007705","tgn:7029392"],"placetype":["aat:300008761"],"id":2406441,"name:xx":"Hungry Gulch"}}
+{
+  "id": 2406441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406441",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001609",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406441,
+    "tgn:name":"Hungry Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.1833,48.2333],"type":"Point"}
+}

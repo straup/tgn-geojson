@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.533300,39.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2257829","tgn:1000001","tgn:7012149","tgn:1002296","tgn:7007157","tgn:7029392"],"placetype":["aat:300386845"],"id":2257829,"name:xx":"Corral Valley"}}
+{
+  "id": 2257829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257829",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002296",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257829,
+    "tgn:name":"Corral Valley",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5333,39.2333],"type":"Point"}
+}

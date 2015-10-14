@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-1.419000,53.785000]},"type":"Feature","properties":{"hierarchy":["tgn:7029841","tgn:7019038","tgn:7002445","tgn:1000003","tgn:7029507","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7029841,"name:xx":"Austhorpe"}}
+{
+  "id": 7029841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029841",
+        "tgn:7019038",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029507",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029841,
+    "tgn:name":"Austhorpe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.419,53.785],"type":"Point"}
+}

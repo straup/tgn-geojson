@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.504425,25.270782]},"type":"Feature","properties":{"hierarchy":["tgn:7474167","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7474167,"name:xx":"Fenggang Qiao"}}
+{
+  "id": 7474167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474167",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474167,
+    "tgn:name":"Fenggang Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.504425,25.270782],"type":"Point"}
+}

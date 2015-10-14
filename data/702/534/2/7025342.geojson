@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.683333,52.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7025342","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025342,"name:ang":"Waletune"}}
+{
+  "id": 7025342,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025342",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025342,
+    "tgn:name:ang":"Waletune",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.683333,52.75],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.316700,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2250889","tgn:1000001","tgn:1002949","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008699"],"id":2250889,"name:xx":"Columbia Lake Brook"}}
+{
+  "id": 2250889,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250889",
+        "tgn:1000001",
+        "tgn:1002949",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250889,
+    "tgn:name":"Columbia Lake Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.3167,41.6833],"type":"Point"}
+}

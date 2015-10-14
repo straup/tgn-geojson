@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.933300,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2409184","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2409184,"name:xx":"Ice Pond"}}
+{
+  "id": 2409184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409184",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409184,
+    "tgn:name":"Ice Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.9333,41.2833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.336111,23.486111]},"type":"Feature","properties":{"hierarchy":["tgn:7484789","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7484789,"name:xx":"Taohua Gong"}}
+{
+  "id": 7484789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484789",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484789,
+    "tgn:name":"Taohua Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.336111,23.486111],"type":"Point"}
+}

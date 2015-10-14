@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.100000,36.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2338927","tgn:1000001","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2338927,"name:xx":"Franklin Canyon"}}
+{
+  "id": 2338927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338927",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338927,
+    "tgn:name":"Franklin Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.1,36.3],"type":"Point"}
+}

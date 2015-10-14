@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.450000,27.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7375594","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375594,"name:xx":"Rancho Laqueachic"}}
+{
+  "id": 7375594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375594",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375594,
+    "tgn:name":"Rancho Laqueachic",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.45,27.8],"type":"Point"}
+}

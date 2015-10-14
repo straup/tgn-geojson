@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.450000,38.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2159885","tgn:1000001","tgn:7012149","tgn:2002271","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2159885,"name:xx":"Beech Fork"}}
+{
+  "id": 2159885,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159885",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002271",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159885,
+    "tgn:name":"Beech Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.45,38.7833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.050000,42.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2409778","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300006191"],"id":2409778,"name:xx":"Ilion Reservoir Number Two"}}
+{
+  "id": 2409778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409778",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409778,
+    "tgn:name":"Ilion Reservoir Number Two",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.05,42.9833],"type":"Point"}
+}

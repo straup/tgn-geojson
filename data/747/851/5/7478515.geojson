@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.583749,23.902611]},"type":"Feature","properties":{"hierarchy":["tgn:7478515","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478515,"name:xx":"Shetou Guozhong"}}
+{
+  "id": 7478515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478515",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478515,
+    "tgn:name":"Shetou Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.583749,23.902611],"type":"Point"}
+}

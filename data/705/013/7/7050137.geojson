@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.600000,40.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7050137","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7050137,"name:xx":"Lauro, Vallo di"}}
+{
+  "id": 7050137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050137",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050137,
+    "tgn:name":"Lauro, Vallo di",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.6,40.883333],"type":"Point"}
+}

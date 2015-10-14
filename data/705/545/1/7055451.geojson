@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.000000,42.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7055451","tgn:7009084","tgn:1003484","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7055451,"name:xx":"Poggio, Fosso del"}}
+{
+  "id": 7055451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055451",
+        "tgn:7009084",
+        "tgn:1003484",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055451,
+    "tgn:name":"Poggio, Fosso del",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.0,42.366667],"type":"Point"}
+}

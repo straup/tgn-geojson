@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-96.166700,38.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7021378","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021378,"name:xx":"Verdigris River"}}
+{
+  "id": 7021378,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021378",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021378,
+    "tgn:name":"Verdigris River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.1667,38.15],"type":"Point"}
+}

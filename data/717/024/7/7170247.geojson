@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.650000,54.516667]},"type":"Feature","properties":{"hierarchy":["tgn:7170247","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008791"],"id":7170247,"name:xx":"Hestholm"}}
+{
+  "id": 7170247,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170247",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170247,
+    "tgn:name":"Hestholm",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.65,54.516667],"type":"Point"}
+}

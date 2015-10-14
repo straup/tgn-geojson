@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.633333,30.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7363142","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7363142,"name:xx":"Pozo El Apache"}}
+{
+  "id": 7363142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363142",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363142,
+    "tgn:name":"Pozo El Apache",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.633333,30.333333],"type":"Point"}
+}

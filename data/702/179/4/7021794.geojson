@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.950000,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7021794","tgn:1000001","tgn:7012149","tgn:2001764","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":7021794,"name:xx":"Carys Lakes"}}
+{
+  "id": 7021794,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021794",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001764",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021794,
+    "tgn:name":"Carys Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.95,34.0333],"type":"Point"}
+}

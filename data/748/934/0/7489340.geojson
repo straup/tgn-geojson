@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.820014,25.069588]},"type":"Feature","properties":{"hierarchy":["tgn:7489340","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489340,"name:xx":"Shiren Li"}}
+{
+  "id": 7489340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489340",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489340,
+    "tgn:name":"Shiren Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.820014,25.069588],"type":"Point"}
+}

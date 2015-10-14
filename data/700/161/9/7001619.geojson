@@ -1,0 +1,26 @@
+{
+  "id": 7001619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001619",
+        "tgn:7001242",
+        "tgn:1001086",
+        "tgn:1000201",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001619,
+    "tgn:name:en":"Khartoum",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300387223",
+        "aat:300387270",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[32.5333,15.55],"type":"Point"}
+}

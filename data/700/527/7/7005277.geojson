@@ -1,0 +1,22 @@
+{
+  "id": 7005277,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005277",
+        "tgn:7001242",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005277,
+    "tgn:name:en":"Saint Helena, Ascension and Tristan da Cunha",
+    "tgn:name:fr":"Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300235115",
+        "aat:300387176",
+        "aat:300387120"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.7,-15.95],"type":"Point"}
+}

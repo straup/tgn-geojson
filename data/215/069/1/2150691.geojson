@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.383300,48.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2150691","tgn:1000001","tgn:7012149","tgn:2001036","tgn:7007521","tgn:7029392"],"placetype":["aat:300132316"],"id":2150691,"name:xx":"Bass Bay"}}
+{
+  "id": 2150691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150691",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001036",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150691,
+    "tgn:name":"Bass Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.3833,48.0],"type":"Point"}
+}

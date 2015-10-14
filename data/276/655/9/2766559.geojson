@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.183300,37.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2766559","tgn:1000001","tgn:7012149","tgn:2000808","tgn:7007255","tgn:7029392"],"placetype":["aat:300008706"],"id":2766559,"name:xx":"White Oak Creek"}}
+{
+  "id": 2766559,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766559",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000808",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766559,
+    "tgn:name":"White Oak Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1833,37.15],"type":"Point"}
+}

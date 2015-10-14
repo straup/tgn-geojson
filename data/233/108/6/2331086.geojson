@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.450000,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2331086","tgn:1000001","tgn:7012149","tgn:1002935","tgn:7007919","tgn:7029392"],"placetype":["aat:300008699"],"id":2331086,"name:xx":"Flat Swamp"}}
+{
+  "id": 2331086,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331086",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002935",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331086,
+    "tgn:name":"Flat Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.45,36.8167],"type":"Point"}
+}

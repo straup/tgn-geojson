@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.050000,28.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7370553","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370553,"name:xx":"Huilotas, Sierra de las"}}
+{
+  "id": 7370553,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370553",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370553,
+    "tgn:name":"Huilotas, Sierra de las",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.05,28.133333],"type":"Point"}
+}

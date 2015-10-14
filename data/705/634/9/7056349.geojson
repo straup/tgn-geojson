@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.316667,46.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7056349","tgn:1003478","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056349,"name:xx":"Oira"}}
+{
+  "id": 7056349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056349",
+        "tgn:1003478",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056349,
+    "tgn:name":"Oira",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.316667,46.183333],"type":"Point"}
+}

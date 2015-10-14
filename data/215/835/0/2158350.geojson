@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.850000,33.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2158350","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2158350,"name:xx":"Beaverdam Branch"}}
+{
+  "id": 2158350,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158350",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158350,
+    "tgn:name":"Beaverdam Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.85,33.25],"type":"Point"}
+}

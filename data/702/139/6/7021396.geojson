@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.300000,38.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021396","tgn:1000001","tgn:7012149","tgn:2002293","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021396,"name:xx":"Beelick Run"}}
+{
+  "id": 7021396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021396",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002293",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021396,
+    "tgn:name":"Beelick Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3,38.6],"type":"Point"}
+}

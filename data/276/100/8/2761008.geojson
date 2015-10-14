@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.083300,40.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2761008","tgn:1000001","tgn:2001419","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2761008,"name:xx":"West Juniper Spring"}}
+{
+  "id": 2761008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761008",
+        "tgn:1000001",
+        "tgn:2001419",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761008,
+    "tgn:name":"West Juniper Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.0833,40.2667],"type":"Point"}
+}

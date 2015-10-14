@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.383300,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7022260","tgn:1000001","tgn:7012149","tgn:2001208","tgn:7007523","tgn:7029392"],"placetype":["aat:300008680"],"id":7022260,"name:xx":"Unity Lakes"}}
+{
+  "id": 7022260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022260",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001208",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022260,
+    "tgn:name":"Unity Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.3833,38.9333],"type":"Point"}
+}

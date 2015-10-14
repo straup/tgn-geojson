@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,35.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7020176","tgn:1000001","tgn:2001476","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":7020176,"name:xx":"Billy Branch"}}
+{
+  "id": 7020176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020176",
+        "tgn:1000001",
+        "tgn:2001476",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020176,
+    "tgn:name":"Billy Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,35.8],"type":"Point"}
+}

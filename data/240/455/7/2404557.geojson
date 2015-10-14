@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.550000,36.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2404557","tgn:1000001","tgn:2001176","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008347"],"id":2404557,"name:xx":"Hubbells"}}
+{
+  "id": 2404557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404557",
+        "tgn:1000001",
+        "tgn:2001176",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404557,
+    "tgn:name":"Hubbells",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.55,36.5667],"type":"Point"}
+}

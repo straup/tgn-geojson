@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.625537,25.086525]},"type":"Feature","properties":{"hierarchy":["tgn:7489305","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489305,"name:xx":"Neigou"}}
+{
+  "id": 7489305,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489305",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489305,
+    "tgn:name":"Neigou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.625537,25.086525],"type":"Point"}
+}

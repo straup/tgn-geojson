@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.866700,34.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2405846","tgn:1000001","tgn:2001477","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2405846,"name:xx":"Hull Swamp"}}
+{
+  "id": 2405846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405846",
+        "tgn:1000001",
+        "tgn:2001477",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405846,
+    "tgn:name":"Hull Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.8667,34.7333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.966700,41.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2409375","tgn:1000001","tgn:2001414","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300386831"],"id":2409375,"name:xx":"Idaho Canyon Range"}}
+{
+  "id": 2409375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409375",
+        "tgn:1000001",
+        "tgn:2001414",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409375,
+    "tgn:name":"Idaho Canyon Range",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9667,41.7],"type":"Point"}
+}

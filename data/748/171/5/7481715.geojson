@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.245689,23.399069]},"type":"Feature","properties":{"hierarchy":["tgn:7481715","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481715,"name:xx":"Dayou Qiao"}}
+{
+  "id": 7481715,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481715",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481715,
+    "tgn:name":"Dayou Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.245689,23.399069],"type":"Point"}
+}

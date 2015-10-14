@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.650000,36.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2402850","tgn:1000001","tgn:7012149","tgn:2000839","tgn:7007255","tgn:7029392"],"placetype":["aat:300266640"],"id":2402850,"name:xx":"Hote Ridge"}}
+{
+  "id": 2402850,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402850",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000839",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402850,
+    "tgn:name":"Hote Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.65,36.95],"type":"Point"}
+}

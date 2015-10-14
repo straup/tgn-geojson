@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.529444,19.728056]},"type":"Feature","properties":{"hierarchy":["tgn:7372521","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7372521,"name:xx":"La Capilla"}}
+{
+  "id": 7372521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372521",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372521,
+    "tgn:name":"La Capilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.529444,19.728056],"type":"Point"}
+}

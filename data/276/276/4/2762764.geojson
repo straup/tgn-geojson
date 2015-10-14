@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-69.583300,46.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2762764","tgn:1000001","tgn:2000925","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300132348"],"id":2762764,"name:xx":"Western Ledge"}}
+{
+  "id": 2762764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762764",
+        "tgn:1000001",
+        "tgn:2000925",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762764,
+    "tgn:name":"Western Ledge",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.5833,46.8833],"type":"Point"}
+}

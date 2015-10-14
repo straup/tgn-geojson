@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.966667,24.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7370322","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370322,"name:xx":"Guatemapil, Sierra de"}}
+{
+  "id": 7370322,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370322",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370322,
+    "tgn:name":"Guatemapil, Sierra de",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.966667,24.5],"type":"Point"}
+}

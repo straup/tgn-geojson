@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.650000,28.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7350549","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350549,"name:xx":"Bustillos"}}
+{
+  "id": 7350549,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350549",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350549,
+    "tgn:name":"Bustillos",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.65,28.483333],"type":"Point"}
+}

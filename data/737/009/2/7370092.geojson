@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.166667,25.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7370092","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7370092,"name:xx":"Gavilanes, Punta"}}
+{
+  "id": 7370092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370092",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370092,
+    "tgn:name":"Gavilanes, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.166667,25.933333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.083300,33.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7023504","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":7023504,"name:xx":"Storys Millpond"}}
+{
+  "id": 7023504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023504",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023504,
+    "tgn:name":"Storys Millpond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.0833,33.2167],"type":"Point"}
+}

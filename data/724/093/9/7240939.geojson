@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.883333,51.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7240939","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7240939,"name:xx":"Fonteinbeek"}}
+{
+  "id": 7240939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240939",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240939,
+    "tgn:name":"Fonteinbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.883333,51.016667],"type":"Point"}
+}

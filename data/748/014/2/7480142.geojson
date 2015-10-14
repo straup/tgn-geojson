@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.063333,24.921389]},"type":"Feature","properties":{"hierarchy":["tgn:7480142","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7480142,"name:xx":"Liugu"}}
+{
+  "id": 7480142,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480142",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480142,
+    "tgn:name":"Liugu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.063333,24.921389],"type":"Point"}
+}

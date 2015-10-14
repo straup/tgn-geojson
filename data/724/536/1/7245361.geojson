@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.500000,50.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7245361","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7245361,"name:xx":"Ferme d' Agnissart"}}
+{
+  "id": 7245361,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245361",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245361,
+    "tgn:name":"Ferme d' Agnissart",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5,50.633333],"type":"Point"}
+}

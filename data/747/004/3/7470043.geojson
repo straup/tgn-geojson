@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.604500,23.976400]},"type":"Feature","properties":{"hierarchy":["tgn:7470043","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470043,"name:xx":"Zhongdong Li"}}
+{
+  "id": 7470043,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470043",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470043,
+    "tgn:name":"Zhongdong Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6045,23.9764],"type":"Point"}
+}

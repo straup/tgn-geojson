@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.785833,24.798333]},"type":"Feature","properties":{"hierarchy":["tgn:7482963","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482963,"name:xx":"Citian Gong"}}
+{
+  "id": 7482963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482963",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482963,
+    "tgn:name":"Citian Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.785833,24.798333],"type":"Point"}
+}

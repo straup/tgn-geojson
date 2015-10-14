@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-145.716700,69.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2409597","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124005","tgn:7029392"],"placetype":["aat:300008761"],"id":2409597,"name:xx":"Ignek Valley"}}
+{
+  "id": 2409597,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409597",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409597,
+    "tgn:name":"Ignek Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.7167,69.5833],"type":"Point"}
+}

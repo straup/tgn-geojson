@@ -1,0 +1,21 @@
+{
+  "id": 2345514,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345514",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001447",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345514,
+    "tgn:name":"Garnet Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.1,32.4],"type":"Point"}
+}

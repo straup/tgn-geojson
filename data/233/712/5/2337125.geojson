@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.683300,37.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2337125","tgn:1000001","tgn:7012149","tgn:2002113","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2337125,"name:xx":"Fourmile Water"}}
+{
+  "id": 2337125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337125",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002113",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337125,
+    "tgn:name":"Fourmile Water",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6833,37.3833],"type":"Point"}
+}

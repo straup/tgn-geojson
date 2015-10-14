@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.205197,25.095979]},"type":"Feature","properties":{"hierarchy":["tgn:7477150","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477150,"name:xx":"Shazhen Qiao"}}
+{
+  "id": 7477150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477150",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477150,
+    "tgn:name":"Shazhen Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.205197,25.095979],"type":"Point"}
+}

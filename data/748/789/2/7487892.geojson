@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.576500,24.217300]},"type":"Feature","properties":{"hierarchy":["tgn:7487892","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487892,"name:xx":"Liulu Li"}}
+{
+  "id": 7487892,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487892",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487892,
+    "tgn:name":"Liulu Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5765,24.2173],"type":"Point"}
+}

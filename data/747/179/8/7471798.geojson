@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.560556,23.001111]},"type":"Feature","properties":{"hierarchy":["tgn:7471798","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471798,"name:xx":"Fenjihu"}}
+{
+  "id": 7471798,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471798",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471798,
+    "tgn:name":"Fenjihu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.560556,23.001111],"type":"Point"}
+}

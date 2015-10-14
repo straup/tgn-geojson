@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.966700,40.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2767871","tgn:1000001","tgn:7012149","tgn:2000510","tgn:7007251","tgn:7029392"],"placetype":["aat:300008680"],"id":2767871,"name:xx":"Whitehouse Lake"}}
+{
+  "id": 2767871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767871",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000510",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767871,
+    "tgn:name":"Whitehouse Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9667,40.8833],"type":"Point"}
+}

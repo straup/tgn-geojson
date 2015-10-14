@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.350000,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2333589","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000189","tgn:7029392"],"placetype":["aat:300008761"],"id":2333589,"name:xx":"Fong Wah Gulch"}}
+{
+  "id": 2333589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000189",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333589,
+    "tgn:name":"Fong Wah Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.35,41.25],"type":"Point"}
+}

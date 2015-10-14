@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.127778,39.246111]},"type":"Feature","properties":{"hierarchy":["tgn:7056232","tgn:1001641","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056232,"name:xx":"Pirri"}}
+{
+  "id": 7056232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056232",
+        "tgn:1001641",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056232,
+    "tgn:name":"Pirri",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.127778,39.246111],"type":"Point"}
+}

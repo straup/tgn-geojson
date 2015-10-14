@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.661111,23.062500]},"type":"Feature","properties":{"hierarchy":["tgn:7483338","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7483338,"name:xx":"Maluobu"}}
+{
+  "id": 7483338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483338",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483338,
+    "tgn:name":"Maluobu",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.661111,23.0625],"type":"Point"}
+}

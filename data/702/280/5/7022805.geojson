@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-99.150000,39.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7022805","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022805,"name:xx":"Rebecca Creek"}}
+{
+  "id": 7022805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022805",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022805,
+    "tgn:name":"Rebecca Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.15,39.9333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1048149,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f20bf4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2746351",
+        "gp:id":733853,
+        "qs:id":3,
+        "wof:id":101809793
+    },
+    "tgn:hierarchy":[
+        "tgn:1048149",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009440",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048149,
+    "tgn:name:nl":"Tholen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.216667,51.533333],"type":"Point"}
+}

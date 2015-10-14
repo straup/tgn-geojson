@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-108.883300,41.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2402129","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2402129,"name:xx":"Horseshoe Wash"}}
+{
+  "id": 2402129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402129",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402129,
+    "tgn:name":"Horseshoe Wash",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8833,41.05],"type":"Point"}
+}

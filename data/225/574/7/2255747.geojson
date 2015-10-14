@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.033300,32.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2255747","tgn:1000001","tgn:7012149","tgn:1002966","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2255747,"name:xx":"Copper Branch"}}
+{
+  "id": 2255747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255747",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002966",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255747,
+    "tgn:name":"Copper Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.0333,32.8333],"type":"Point"}
+}

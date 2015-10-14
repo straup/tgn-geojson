@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.583300,48.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7020468","tgn:1000001","tgn:7012149","tgn:2001277","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":7020468,"name:xx":"Swiftcurrent Ridge Lake"}}
+{
+  "id": 7020468,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020468",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001277",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020468,
+    "tgn:name":"Swiftcurrent Ridge Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.5833,48.8333],"type":"Point"}
+}

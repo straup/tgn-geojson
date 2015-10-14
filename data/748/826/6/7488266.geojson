@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.039444,24.960000]},"type":"Feature","properties":{"hierarchy":["tgn:7488266","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488266,"name:xx":"Dapo"}}
+{
+  "id": 7488266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488266",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488266,
+    "tgn:name":"Dapo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.039444,24.96],"type":"Point"}
+}

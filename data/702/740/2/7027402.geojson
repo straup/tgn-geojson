@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.066667,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7027402","tgn:7002445","tgn:1000003","tgn:7008153","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Postling","id":7027402}}
+{
+  "id": 7027402,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027402",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008153",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027402,
+    "tgn:name:en":"Postling",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.066667,51.1],"type":"Point"}
+}

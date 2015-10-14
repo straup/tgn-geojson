@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.450000,23.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7472764","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7472764,"name:xx":"Wudakai Xi"}}
+{
+  "id": 7472764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472764",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472764,
+    "tgn:name":"Wudakai Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.45,23.666667],"type":"Point"}
+}

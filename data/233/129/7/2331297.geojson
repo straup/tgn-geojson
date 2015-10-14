@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.566700,47.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2331297","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2331297,"name:xx":"Flathead Mine"}}
+{
+  "id": 2331297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331297",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331297,
+    "tgn:name":"Flathead Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5667,47.9167],"type":"Point"}
+}

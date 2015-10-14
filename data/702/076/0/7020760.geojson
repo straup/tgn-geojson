@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.200000,38.533300]},"type":"Feature","properties":{"hierarchy":["tgn:7020760","tgn:1002338","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008850"],"id":7020760,"name:xx":"Town Point"}}
+{
+  "id": 7020760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020760",
+        "tgn:1002338",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020760,
+    "tgn:name":"Town Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.2,38.5333],"type":"Point"}
+}

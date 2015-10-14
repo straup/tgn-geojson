@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.116700,36.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2256893","tgn:1000001","tgn:7012149","tgn:2001921","tgn:7007825","tgn:7029392"],"placetype":["aat:300008699"],"id":2256893,"name:xx":"Corley Branch"}}
+{
+  "id": 2256893,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256893",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001921",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256893,
+    "tgn:name":"Corley Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.1167,36.35],"type":"Point"}
+}

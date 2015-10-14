@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.700000,20.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7355365","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355365,"name:xx":"Chetulix"}}
+{
+  "id": 7355365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355365",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355365,
+    "tgn:name":"Chetulix",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.7,20.35],"type":"Point"}
+}

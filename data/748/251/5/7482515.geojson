@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.297500,24.453611]},"type":"Feature","properties":{"hierarchy":["tgn:7482515","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387036"],"id":7482515,"name:xx":"Daqian"}}
+{
+  "id": 7482515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482515",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482515,
+    "tgn:name":"Daqian",
+    "tgn:placetype":[
+        "aat:300387036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.2975,24.453611],"type":"Point"}
+}

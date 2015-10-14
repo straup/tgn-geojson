@@ -1,0 +1,28 @@
+{
+  "id": 7004624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004624",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004624,
+    "tgn:name:ar":"\u0647\u0648\u0628\u0627",
+    "tgn:name:de":"Kuba",
+    "tgn:name:en":"Cuba",
+    "tgn:name:es":"Cuba",
+    "tgn:name:fr":"Cuba",
+    "tgn:name:ru":"\u041a\u0443\u0431\u0430",
+    "tgn:name:zh":"\u53e4\u5df4",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.0,21.5],"type":"Point"}
+}

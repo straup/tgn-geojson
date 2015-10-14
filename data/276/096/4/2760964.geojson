@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.183300,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2760964","tgn:1000001","tgn:7012149","tgn:2000203","tgn:7007158","tgn:7029392"],"placetype":["aat:300008706"],"id":2760964,"name:xx":"West Indian Creek"}}
+{
+  "id": 2760964,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760964",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000203",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760964,
+    "tgn:name":"West Indian Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.1833,37.4333],"type":"Point"}
+}

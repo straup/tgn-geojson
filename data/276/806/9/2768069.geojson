@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.850000,31.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2768069","tgn:1000001","tgn:7012149","tgn:2002005","tgn:7007826","tgn:7029392"],"placetype":["aat:300008798"],"id":2768069,"name:xx":"Whiterock Hills"}}
+{
+  "id": 2768069,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768069",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002005",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768069,
+    "tgn:name":"Whiterock Hills",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.85,31.55],"type":"Point"}
+}

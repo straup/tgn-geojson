@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.833300,48.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2332637","tgn:1000001","tgn:2000460","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2332637,"name:xx":"Floss Creek"}}
+{
+  "id": 2332637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332637",
+        "tgn:1000001",
+        "tgn:2000460",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332637,
+    "tgn:name":"Floss Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.8333,48.8167],"type":"Point"}
+}

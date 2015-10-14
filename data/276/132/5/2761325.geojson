@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.283300,64.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2761325","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008707"],"id":2761325,"name:xx":"West Middle River"}}
+{
+  "id": 2761325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761325",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761325,
+    "tgn:name":"West Middle River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.2833,64.4833],"type":"Point"}
+}

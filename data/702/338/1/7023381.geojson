@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.483300,37.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023381","tgn:1000001","tgn:7012149","tgn:2002221","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7023381,"name:xx":"Maury, Lake"}}
+{
+  "id": 7023381,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023381",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002221",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023381,
+    "tgn:name":"Maury, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4833,37.0333],"type":"Point"}
+}

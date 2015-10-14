@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.800000,34.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2253383","tgn:1000001","tgn:2000299","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2253383,"name:xx":"Conyers Estates"}}
+{
+  "id": 2253383,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253383",
+        "tgn:1000001",
+        "tgn:2000299",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253383,
+    "tgn:name":"Conyers Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8,34.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.850000,29.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2152451","tgn:1000001","tgn:7012149","tgn:2000891","tgn:7007256","tgn:7029392"],"placetype":["aat:300132316"],"id":2152451,"name:xx":"Bay Ronquille"}}
+{
+  "id": 2152451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000891",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152451,
+    "tgn:name":"Bay Ronquille",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.85,29.3333],"type":"Point"}
+}

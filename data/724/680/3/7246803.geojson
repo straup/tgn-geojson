@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.555246,51.186902]},"type":"Feature","properties":{"hierarchy":["tgn:7246803","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7246803,"name:xx":"Doggenhout"}}
+{
+  "id": 7246803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246803",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246803,
+    "tgn:name":"Doggenhout",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.555246,51.186902],"type":"Point"}
+}

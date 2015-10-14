@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.133300,34.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2765857","tgn:1000001","tgn:7012149","tgn:2001761","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2765857,"name:xx":"White Fork"}}
+{
+  "id": 2765857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765857",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001761",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765857,
+    "tgn:name":"White Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.1333,34.75],"type":"Point"}
+}

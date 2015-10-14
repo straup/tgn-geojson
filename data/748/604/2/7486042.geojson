@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.598889,23.666389]},"type":"Feature","properties":{"hierarchy":["tgn:7486042","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7486042,"name:xx":"Shikeng Qiao"}}
+{
+  "id": 7486042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486042",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486042,
+    "tgn:name":"Shikeng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.598889,23.666389],"type":"Point"}
+}

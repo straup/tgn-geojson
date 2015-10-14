@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.466700,34.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7021425","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000044","tgn:7029392"],"placetype":["aat:300008746"],"id":7021425,"name:xx":"Lott Spring Cave"}}
+{
+  "id": 7021425,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021425",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000044",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021425,
+    "tgn:name":"Lott Spring Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4667,34.7],"type":"Point"}
+}

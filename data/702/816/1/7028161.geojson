@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.169000,53.267000]},"type":"Feature","properties":{"hierarchy":["tgn:7028161","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028161,"name:xx":"Thoresthorpe"}}
+{
+  "id": 7028161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028161",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028161,
+    "tgn:name":"Thoresthorpe",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.169,53.267],"type":"Point"}
+}

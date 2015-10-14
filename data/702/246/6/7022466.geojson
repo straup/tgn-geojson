@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-83.966700,35.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7022466","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":7022466,"name:xx":"Calderwood Lake"}}
+{
+  "id": 7022466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022466",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022466,
+    "tgn:name":"Calderwood Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9667,35.4833],"type":"Point"}
+}

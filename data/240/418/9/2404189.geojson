@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.950000,43.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2404189","tgn:1000001","tgn:7012149","tgn:1002472","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2404189,"name:xx":"Hoxie Brook"}}
+{
+  "id": 2404189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404189",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002472",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404189,
+    "tgn:name":"Hoxie Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.95,43.5333],"type":"Point"}
+}

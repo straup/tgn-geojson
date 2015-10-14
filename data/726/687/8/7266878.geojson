@@ -1,0 +1,27 @@
+{
+  "id": 7266878,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01ecefb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754004",
+        "gp:id":730173,
+        "qs:id":2,
+        "wof:id":101807079
+    },
+    "tgn:hierarchy":[
+        "tgn:7266878",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7266878,
+    "tgn:name:nl":"Hoenderloo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.883333,52.116667],"type":"Point"}
+}

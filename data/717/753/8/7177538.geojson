@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.566667,54.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7177538","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7177538,"name:xx":"F\u00f6rsterei Hanshagen"}}
+{
+  "id": 7177538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177538",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177538,
+    "tgn:name":"F\u00f6rsterei Hanshagen",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.566667,54.05],"type":"Point"}
+}

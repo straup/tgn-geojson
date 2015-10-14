@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.426887,23.529698]},"type":"Feature","properties":{"hierarchy":["tgn:7489087","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489087,"name:xx":"Yiqiaozi"}}
+{
+  "id": 7489087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489087",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489087,
+    "tgn:name":"Yiqiaozi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.426887,23.529698],"type":"Point"}
+}

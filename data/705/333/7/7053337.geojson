@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[17.116667,39.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7053337","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053337,"name:xx":"Madonna di Mare"}}
+{
+  "id": 7053337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053337",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053337,
+    "tgn:name":"Madonna di Mare",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.116667,39.4],"type":"Point"}
+}

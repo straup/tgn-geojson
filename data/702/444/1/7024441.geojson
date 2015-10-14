@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[31.239267,30.007366]},"type":"Feature","properties":{"hierarchy":["tgn:7024441","tgn:7001242","tgn:7001215","tgn:7016833","tgn:1001091","tgn:7029392"],"placetype":["aat:300008347","aat:300000745","aat:300008389","aat:300000762"],"name:en":"Old Cairo","id":7024441}}
+{
+  "id": 7024441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024441",
+        "tgn:7001242",
+        "tgn:7001215",
+        "tgn:7016833",
+        "tgn:1001091",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024441,
+    "tgn:name:en":"Old Cairo",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000745",
+        "aat:300008389",
+        "aat:300000762"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[31.239267,30.007366],"type":"Point"}
+}

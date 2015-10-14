@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.750000,51.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7026686","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Lower Swell","id":7026686}}
+{
+  "id": 7026686,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026686",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026686,
+    "tgn:name:en":"Lower Swell",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.75,51.916667],"type":"Point"}
+}

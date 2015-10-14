@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.166700,31.916700]},"type":"Feature","properties":{"hierarchy":["tgn:2258637","tgn:1000001","tgn:2001948","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2258637,"name:xx":"Cottonwood Branch"}}
+{
+  "id": 2258637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258637",
+        "tgn:1000001",
+        "tgn:2001948",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258637,
+    "tgn:name":"Cottonwood Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.1667,31.9167],"type":"Point"}
+}

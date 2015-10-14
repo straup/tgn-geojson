@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.433333,46.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7054779","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054779,"name:xx":"Paceida"}}
+{
+  "id": 7054779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054779",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054779,
+    "tgn:name":"Paceida",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.433333,46.2],"type":"Point"}
+}

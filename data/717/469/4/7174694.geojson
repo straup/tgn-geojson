@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.883333,47.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7174694","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7174694,"name:xx":"Gruber See"}}
+{
+  "id": 7174694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174694",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174694,
+    "tgn:name":"Gruber See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.883333,47.75],"type":"Point"}
+}

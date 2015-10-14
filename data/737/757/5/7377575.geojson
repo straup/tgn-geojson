@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.900000,23.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7377575","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7377575,"name:xx":"La Paula"}}
+{
+  "id": 7377575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377575",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377575,
+    "tgn:name":"La Paula",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.9,23.1],"type":"Point"}
+}

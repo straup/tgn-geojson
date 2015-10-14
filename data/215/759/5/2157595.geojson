@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.466700,33.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2157595","tgn:1000001","tgn:7012149","tgn:2001112","tgn:7007522","tgn:7029392"],"placetype":["aat:300008905"],"id":2157595,"name:xx":"Beaver Dam Brake"}}
+{
+  "id": 2157595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2157595",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001112",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2157595,
+    "tgn:name":"Beaver Dam Brake",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.4667,33.2833],"type":"Point"}
+}

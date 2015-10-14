@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.016700,41.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2257117","tgn:1002201","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300006191"],"id":2257117,"name:xx":"Cornell Pond"}}
+{
+  "id": 2257117,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257117",
+        "tgn:1002201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257117,
+    "tgn:name":"Cornell Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.0167,41.6833],"type":"Point"}
+}

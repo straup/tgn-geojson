@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.833333,25.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7360480","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7360480,"name:xx":"Cuesta, Puerto de la"}}
+{
+  "id": 7360480,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360480",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360480,
+    "tgn:name":"Cuesta, Puerto de la",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.833333,25.166667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.766700,38.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2408518","tgn:1000001","tgn:7012149","tgn:2002268","tgn:7013961","tgn:7029392"],"placetype":["aat:300006191"],"id":2408518,"name:xx":"Hutchison Lake"}}
+{
+  "id": 2408518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408518",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002268",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408518,
+    "tgn:name":"Hutchison Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7667,38.8167],"type":"Point"}
+}

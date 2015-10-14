@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.216667,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7248561","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248561,"name:xx":"Biesbeekhoeve"}}
+{
+  "id": 7248561,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248561",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248561,
+    "tgn:name":"Biesbeekhoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.216667,50.833333],"type":"Point"}
+}

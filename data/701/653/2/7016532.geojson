@@ -1,0 +1,21 @@
+{
+  "id": 7016532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7016532",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7016532,
+    "tgn:name:en":"Adriatic Sea",
+    "tgn:name:fr":"Adriatique, mer",
+    "tgn:name:it":"Mare Adriatico",
+    "tgn:name:la":"Mare Adriaticum",
+    "tgn:placetype":[
+        "aat:300008694"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.0,43.0],"type":"Point"}
+}

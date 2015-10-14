@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.450000,20.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7358699","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7358699,"name:xx":"Desconocida, Punta"}}
+{
+  "id": 7358699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358699",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358699,
+    "tgn:name":"Desconocida, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.45,20.716667],"type":"Point"}
+}

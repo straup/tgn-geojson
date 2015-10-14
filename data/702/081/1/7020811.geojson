@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-97.150000,25.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7020811","tgn:1000001","tgn:7029392"],"placetype":["aat:300008707"],"id":7020811,"name:xx":"Rio Grande River"}}
+{
+  "id": 7020811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020811",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020811,
+    "tgn:name":"Rio Grande River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.15,25.9167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.233300,34.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2151361","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000039","tgn:7029392"],"placetype":["aat:300008798"],"id":2151361,"name:xx":"Bates Mountain"}}
+{
+  "id": 2151361,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151361",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000039",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151361,
+    "tgn:name":"Bates Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.2333,34.6],"type":"Point"}
+}

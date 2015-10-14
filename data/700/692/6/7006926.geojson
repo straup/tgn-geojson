@@ -1,0 +1,30 @@
+{
+  "id": 7006926,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f21bd0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2745912",
+        "gp:id":734047,
+        "qs:id":5,
+        "wof:id":101751827
+    },
+    "tgn:hierarchy":[
+        "tgn:7006926",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006926,
+    "tgn:name:nl":"Utrecht",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387220"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.133333,52.083333],"type":"Point"}
+}

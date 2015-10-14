@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.747520,24.854285]},"type":"Feature","properties":{"hierarchy":["tgn:7473751","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7473751,"name:xx":"Shuiya Ling"}}
+{
+  "id": 7473751,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473751",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473751,
+    "tgn:name":"Shuiya Ling",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.74752,24.854285],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.816667,43.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7056209","tgn:7003162","tgn:1000003","tgn:7009760","tgn:1000080","tgn:7029392"],"placetype":["aat:300004792"],"id":7056209,"name:xx":"Le Balze"}}
+{
+  "id": 7056209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056209",
+        "tgn:7003162",
+        "tgn:1000003",
+        "tgn:7009760",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056209,
+    "tgn:name":"Le Balze",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.816667,43.45],"type":"Point"}
+}

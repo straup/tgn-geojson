@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.602500,22.490833]},"type":"Feature","properties":{"hierarchy":["tgn:7484121","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7484121,"name:xx":"Xinghua Nongchang"}}
+{
+  "id": 7484121,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484121",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484121,
+    "tgn:name":"Xinghua Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6025,22.490833],"type":"Point"}
+}

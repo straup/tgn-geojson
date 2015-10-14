@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.216700,45.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2405432","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2405432,"name:xx":"Hugh Spring"}}
+{
+  "id": 2405432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405432",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405432,
+    "tgn:name":"Hugh Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.2167,45.4333],"type":"Point"}
+}

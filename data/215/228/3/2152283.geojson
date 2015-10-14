@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.550000,30.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2152283","tgn:1000001","tgn:7012149","tgn:2000903","tgn:7007256","tgn:7029392"],"placetype":["aat:300132316"],"id":2152283,"name:xx":"Bay De Plomb"}}
+{
+  "id": 2152283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152283",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000903",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152283,
+    "tgn:name":"Bay De Plomb",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.55,30.15],"type":"Point"}
+}

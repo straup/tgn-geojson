@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.565833,23.950556]},"type":"Feature","properties":{"hierarchy":["tgn:7480769","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7480769,"name:xx":"Yongxing Gongmu"}}
+{
+  "id": 7480769,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480769",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480769,
+    "tgn:name":"Yongxing Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.565833,23.950556],"type":"Point"}
+}

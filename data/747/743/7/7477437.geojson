@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.478720,23.829471]},"type":"Feature","properties":{"hierarchy":["tgn:7477437","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300266755"],"id":7477437,"name:xx":"Xikou Gongmu"}}
+{
+  "id": 7477437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477437",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477437,
+    "tgn:name":"Xikou Gongmu",
+    "tgn:placetype":[
+        "aat:300266755"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.47872,23.829471],"type":"Point"}
+}

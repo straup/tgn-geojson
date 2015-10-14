@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.762542,24.635942]},"type":"Feature","properties":{"hierarchy":["tgn:7478663","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478663,"name:xx":"Linggongwei Qiao"}}
+{
+  "id": 7478663,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478663",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478663,
+    "tgn:name":"Linggongwei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.762542,24.635942],"type":"Point"}
+}

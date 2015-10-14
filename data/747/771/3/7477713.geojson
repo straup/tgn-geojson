@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.660195,23.592984]},"type":"Feature","properties":{"hierarchy":["tgn:7477713","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7477713,"name:xx":"Baikeng Yugang"}}
+{
+  "id": 7477713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477713",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477713,
+    "tgn:name":"Baikeng Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.660195,23.592984],"type":"Point"}
+}

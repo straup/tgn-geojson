@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.383333,23.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7361437","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361437,"name:xx":"El Caj\u00f3n"}}
+{
+  "id": 7361437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361437",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361437,
+    "tgn:name":"El Caj\u00f3n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.383333,23.5],"type":"Point"}
+}

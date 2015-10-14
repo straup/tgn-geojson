@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.333300,34.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2766622","tgn:1000001","tgn:7012149","tgn:2001524","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2766622,"name:xx":"White Oak Estates"}}
+{
+  "id": 2766622,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766622",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001524",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766622,
+    "tgn:name":"White Oak Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3333,34.75],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-85.583300,32.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7023645","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7023645,"name:xx":"Pea River"}}
+{
+  "id": 7023645,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023645",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023645,
+    "tgn:name":"Pea River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5833,32.1333],"type":"Point"}
+}

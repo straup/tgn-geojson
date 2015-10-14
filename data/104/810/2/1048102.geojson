@@ -1,0 +1,28 @@
+{
+  "id": 1048102,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1f4c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2747298",
+        "gp:id":733559,
+        "qs:id":8,
+        "wof:id":101808399
+    },
+    "tgn:hierarchy":[
+        "tgn:1048102",
+        "tgn:1000003",
+        "tgn:7003635",
+        "tgn:7016845",
+        "tgn:1009440",
+        "tgn:7029392"
+    ],
+    "tgn:id":1048102,
+    "tgn:name:nl":"Sint Annaland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.1,51.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.500000,45.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2403045","tgn:1000001","tgn:7012149","tgn:7014589","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2403045,"name:xx":"Hound Brook Lake"}}
+{
+  "id": 2403045,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403045",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014589",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403045,
+    "tgn:name":"Hound Brook Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.5,45.4],"type":"Point"}
+}

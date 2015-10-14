@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.366667,20.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7354538","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354538,"name:xx":"Chumuch\u00e9"}}
+{
+  "id": 7354538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354538",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354538,
+    "tgn:name":"Chumuch\u00e9",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.366667,20.383333],"type":"Point"}
+}

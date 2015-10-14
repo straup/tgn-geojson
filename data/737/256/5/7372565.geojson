@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.383333,27.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7372565","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7372565,"name:xx":"Rancho La Norita"}}
+{
+  "id": 7372565,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372565",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372565,
+    "tgn:name":"Rancho La Norita",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.383333,27.066667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.950000,42.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7022169","tgn:1000001","tgn:1002724","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300386994"],"id":7022169,"name:xx":"South Weymouth Naval Air Station"}}
+{
+  "id": 7022169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022169",
+        "tgn:1000001",
+        "tgn:1002724",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022169,
+    "tgn:name":"South Weymouth Naval Air Station",
+    "tgn:placetype":[
+        "aat:300386994"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.95,42.15],"type":"Point"}
+}

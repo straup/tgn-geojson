@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.083333,24.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7359149","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000994"],"id":7359149,"name:xx":"Puente de Dios"}}
+{
+  "id": 7359149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359149",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359149,
+    "tgn:name":"Puente de Dios",
+    "tgn:placetype":[
+        "aat:300000994"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.083333,24.883333],"type":"Point"}
+}

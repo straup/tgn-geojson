@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.600000,46.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2764131","tgn:1000001","tgn:2001009","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2764131,"name:xx":"Wheeler Lake"}}
+{
+  "id": 2764131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764131",
+        "tgn:1000001",
+        "tgn:2001009",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764131,
+    "tgn:name":"Wheeler Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.6,46.9833],"type":"Point"}
+}

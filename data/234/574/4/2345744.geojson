@@ -1,0 +1,21 @@
+{
+  "id": 2345744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2345744",
+        "tgn:1000001",
+        "tgn:2001185",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2345744,
+    "tgn:name":"Garrison Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1833,37.0167],"type":"Point"}
+}

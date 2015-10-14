@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.616667,54.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7117661","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7117661,"name:xx":"Ober Steenrade"}}
+{
+  "id": 7117661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117661",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117661,
+    "tgn:name":"Ober Steenrade",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.616667,54.05],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.562778,22.481111]},"type":"Feature","properties":{"hierarchy":["tgn:7484127","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7484127,"name:xx":"Gao'en Si"}}
+{
+  "id": 7484127,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484127",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484127,
+    "tgn:name":"Gao'en Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.562778,22.481111],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.551389,24.315556]},"type":"Feature","properties":{"hierarchy":["tgn:7483150","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7483150,"name:xx":"Wanying Gong"}}
+{
+  "id": 7483150,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483150",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483150,
+    "tgn:name":"Wanying Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.551389,24.315556],"type":"Point"}
+}

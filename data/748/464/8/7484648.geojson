@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.649167,22.255556]},"type":"Feature","properties":{"hierarchy":["tgn:7484648","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7484648,"name:xx":"Fangshan Xikou"}}
+{
+  "id": 7484648,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484648",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484648,
+    "tgn:name":"Fangshan Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.649167,22.255556],"type":"Point"}
+}

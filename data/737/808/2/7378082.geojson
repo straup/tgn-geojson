@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.116667,21.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7378082","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378082,"name:xx":"Las Ci\u00e9negas"}}
+{
+  "id": 7378082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378082",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378082,
+    "tgn:name":"Las Ci\u00e9negas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.116667,21.066667],"type":"Point"}
+}

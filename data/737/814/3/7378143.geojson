@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.350000,20.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7378143","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378143,"name:xx":"Las Pasas"}}
+{
+  "id": 7378143,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378143",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378143,
+    "tgn:name":"Las Pasas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.35,20.8],"type":"Point"}
+}

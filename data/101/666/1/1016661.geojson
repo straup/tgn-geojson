@@ -1,0 +1,25 @@
+{
+  "id": 1016661,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1016661",
+        "tgn:1000639",
+        "tgn:1000001",
+        "tgn:7005493",
+        "tgn:7029392"
+    ],
+    "tgn:id":1016661,
+    "tgn:name":"Huehuetenango",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387225",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387305",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4333,15.3167],"type":"Point"}
+}

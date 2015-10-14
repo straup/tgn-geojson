@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.616700,31.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2402423","tgn:1000001","tgn:7012149","tgn:2001162","tgn:7007522","tgn:7029392"],"placetype":["aat:300008706"],"id":2402423,"name:xx":"Hortons Mill Creek"}}
+{
+  "id": 2402423,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402423",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001162",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402423,
+    "tgn:name":"Hortons Mill Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.6167,31.7833],"type":"Point"}
+}

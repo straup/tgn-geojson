@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.983300,34.933300]},"type":"Feature","properties":{"hierarchy":["tgn:7021400","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000038","tgn:7029392"],"placetype":["aat:300008761"],"id":7021400,"name:xx":"Sharps Hollow"}}
+{
+  "id": 7021400,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021400",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000038",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021400,
+    "tgn:name":"Sharps Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9833,34.9333],"type":"Point"}
+}

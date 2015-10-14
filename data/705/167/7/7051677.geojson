@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.516667,43.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7051677","tgn:1003429","tgn:1000003","tgn:7003240","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7051677,"name:xx":"Marganetto, Rio"}}
+{
+  "id": 7051677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051677",
+        "tgn:1003429",
+        "tgn:1000003",
+        "tgn:7003240",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051677,
+    "tgn:name":"Marganetto, Rio",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.516667,43.533333],"type":"Point"}
+}

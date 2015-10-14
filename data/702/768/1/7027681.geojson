@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.000000,52.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7027681","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Little Stretton","id":7027681}}
+{
+  "id": 7027681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027681",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027681,
+    "tgn:name:en":"Little Stretton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.0,52.583333],"type":"Point"}
+}

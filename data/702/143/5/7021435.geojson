@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.266700,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7021435","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000050","tgn:7029392"],"placetype":["aat:300006191"],"id":7021435,"name:xx":"Cauthen Pond"}}
+{
+  "id": 7021435,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021435",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000050",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021435,
+    "tgn:name":"Cauthen Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.2667,32.1],"type":"Point"}
+}

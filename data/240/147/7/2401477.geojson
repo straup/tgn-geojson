@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.650000,44.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2401477","tgn:1000001","tgn:7012149","tgn:2000926","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2401477,"name:xx":"Horseshoe Brook"}}
+{
+  "id": 2401477,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401477",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000926",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401477,
+    "tgn:name":"Horseshoe Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.65,44.5833],"type":"Point"}
+}

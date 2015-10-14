@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.866700,36.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2762738","tgn:1000001","tgn:7012149","tgn:2001449","tgn:7007566","tgn:7029392"],"placetype":["aat:300000390"],"id":2762738,"name:xx":"Western Fuel Company Mine"}}
+{
+  "id": 2762738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762738",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001449",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762738,
+    "tgn:name":"Western Fuel Company Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8667,36.9],"type":"Point"}
+}

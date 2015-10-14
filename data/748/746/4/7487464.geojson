@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.614400,23.828900]},"type":"Feature","properties":{"hierarchy":["tgn:7487464","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7487464,"name:xx":"Kengnei"}}
+{
+  "id": 7487464,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487464",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487464,
+    "tgn:name":"Kengnei",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.6144,23.8289],"type":"Point"}
+}

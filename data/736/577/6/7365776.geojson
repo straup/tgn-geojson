@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.750000,21.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7365776","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7365776,"name:xx":"El Tapanco"}}
+{
+  "id": 7365776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365776",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365776,
+    "tgn:name":"El Tapanco",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.75,21.9],"type":"Point"}
+}

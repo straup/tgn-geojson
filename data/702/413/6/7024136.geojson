@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.550000,49.316700]},"type":"Feature","properties":{"hierarchy":["tgn:7024136","tgn:1000003","tgn:7002882","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300000810","aat:300008372"],"id":7024136,"name:xx":"Campigny"}}
+{
+  "id": 7024136,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024136",
+        "tgn:1000003",
+        "tgn:7002882",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024136,
+    "tgn:name":"Campigny",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300000810",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.55,49.3167],"type":"Point"}
+}

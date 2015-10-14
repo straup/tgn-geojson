@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.716667,23.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7474696","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474696,"name:xx":"Duoluoyan"}}
+{
+  "id": 7474696,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474696",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474696,
+    "tgn:name":"Duoluoyan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.716667,23.5],"type":"Point"}
+}

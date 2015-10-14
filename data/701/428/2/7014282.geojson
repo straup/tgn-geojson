@@ -1,0 +1,29 @@
+{
+  "id": 7014282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014282",
+        "tgn:1000001",
+        "tgn:1002347",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014282,
+    "tgn:name":"Poughkeepsie",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300387308",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387320",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.9167,41.7],"type":"Point"}
+}

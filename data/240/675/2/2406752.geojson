@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.766700,38.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2406752","tgn:1000001","tgn:7012149","tgn:2002128","tgn:7007827","tgn:7029392"],"placetype":["aat:300006191"],"id":2406752,"name:xx":"Hunt Reservoir"}}
+{
+  "id": 2406752,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406752",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002128",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406752,
+    "tgn:name":"Hunt Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.7667,38.2333],"type":"Point"}
+}

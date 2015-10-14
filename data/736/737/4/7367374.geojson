@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.216667,26.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7367374","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7367374,"name:xx":"Rancho El Tule"}}
+{
+  "id": 7367374,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367374",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367374,
+    "tgn:name":"Rancho El Tule",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.216667,26.066667],"type":"Point"}
+}

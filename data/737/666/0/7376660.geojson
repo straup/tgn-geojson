@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.416667,15.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7376660","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376660,"name:xx":"Loma Aguacatado"}}
+{
+  "id": 7376660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376660",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376660,
+    "tgn:name":"Loma Aguacatado",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.416667,15.966667],"type":"Point"}
+}

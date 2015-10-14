@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.283300,32.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2765959","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300008798"],"id":2765959,"name:xx":"White Hills"}}
+{
+  "id": 2765959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765959",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765959,
+    "tgn:name":"White Hills",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2833,32.7667],"type":"Point"}
+}

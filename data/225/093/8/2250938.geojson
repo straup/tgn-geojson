@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.383300,44.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2250938","tgn:1000001","tgn:2001705","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300006075"],"id":2250938,"name:xx":"Columbia Southern Canal"}}
+{
+  "id": 2250938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250938",
+        "tgn:1000001",
+        "tgn:2001705",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250938,
+    "tgn:name":"Columbia Southern Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3833,44.1333],"type":"Point"}
+}

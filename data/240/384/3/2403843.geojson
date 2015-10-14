@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.583300,37.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2403843","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000247","tgn:7029392"],"placetype":["aat:300008347"],"id":2403843,"name:xx":"Howardsville"}}
+{
+  "id": 2403843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403843",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000247",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403843,
+    "tgn:name":"Howardsville",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.5833,37.8333],"type":"Point"}
+}

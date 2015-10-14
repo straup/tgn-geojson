@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.333333,30.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7375733","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375733,"name:xx":"Rancho Las Tinajas"}}
+{
+  "id": 7375733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375733",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375733,
+    "tgn:name":"Rancho Las Tinajas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.333333,30.5],"type":"Point"}
+}

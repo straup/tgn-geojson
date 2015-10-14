@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-77.183300,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2765756","tgn:1000001","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008706"],"id":2765756,"name:xx":"White Deer Hole Creek"}}
+{
+  "id": 2765756,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765756",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765756,
+    "tgn:name":"White Deer Hole Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.1833,41.0833],"type":"Point"}
+}

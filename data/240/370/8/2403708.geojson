@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.750000,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2403708","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002656","tgn:7029392"],"placetype":["aat:300006075"],"id":2403708,"name:xx":"Howard Lateral"}}
+{
+  "id": 2403708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002656",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403708,
+    "tgn:name":"Howard Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.75,37.3333],"type":"Point"}
+}

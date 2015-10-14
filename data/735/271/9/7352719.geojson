@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.683333,20.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7352719","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7352719,"name:xx":"Atl\u00e1n"}}
+{
+  "id": 7352719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352719",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352719,
+    "tgn:name":"Atl\u00e1n",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.683333,20.333333],"type":"Point"}
+}

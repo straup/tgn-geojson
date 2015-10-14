@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.666700,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2760087","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000244","tgn:7029392"],"placetype":["aat:300008706"],"id":2760087,"name:xx":"West Fork Park Creek"}}
+{
+  "id": 2760087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760087",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000244",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760087,
+    "tgn:name":"West Fork Park Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6667,37.4333],"type":"Point"}
+}

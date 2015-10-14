@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.500000,42.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2330037","tgn:1000001","tgn:1002665","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2330037,"name:xx":"Flagg Hill"}}
+{
+  "id": 2330037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330037",
+        "tgn:1000001",
+        "tgn:1002665",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330037,
+    "tgn:name":"Flagg Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.5,42.45],"type":"Point"}
+}

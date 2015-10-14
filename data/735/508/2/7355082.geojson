@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.383333,28.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7355082","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7355082,"name:xx":"Chavela"}}
+{
+  "id": 7355082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355082",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355082,
+    "tgn:name":"Chavela",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.383333,28.2],"type":"Point"}
+}

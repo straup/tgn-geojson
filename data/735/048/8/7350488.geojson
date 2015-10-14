@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.283333,23.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7350488","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350488,"name:xx":"Biznaga"}}
+{
+  "id": 7350488,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350488",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350488,
+    "tgn:name":"Biznaga",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.283333,23.2],"type":"Point"}
+}

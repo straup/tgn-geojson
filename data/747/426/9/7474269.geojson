@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.308889,24.448611]},"type":"Feature","properties":{"hierarchy":["tgn:7474269","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474269,"name:xx":"Dingbuxia"}}
+{
+  "id": 7474269,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474269",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474269,
+    "tgn:name":"Dingbuxia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.308889,24.448611],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.633333,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7247577","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300387173"],"id":7247577,"name:xx":"Brecht"}}
+{
+  "id": 7247577,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247577",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247577,
+    "tgn:name":"Brecht",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.633333,51.35],"type":"Point"}
+}

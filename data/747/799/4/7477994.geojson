@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.481297,23.760687]},"type":"Feature","properties":{"hierarchy":["tgn:7477994","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7477994,"name:xx":"Lintiancun"}}
+{
+  "id": 7477994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477994",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477994,
+    "tgn:name":"Lintiancun",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.481297,23.760687],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.033300,47.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7023396","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":7023396,"name:xx":"McGowan Butte"}}
+{
+  "id": 7023396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023396",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023396,
+    "tgn:name":"McGowan Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0333,47.4833],"type":"Point"}
+}

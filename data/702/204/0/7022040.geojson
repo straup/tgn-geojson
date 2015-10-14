@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.833300,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7022040","tgn:1000001","tgn:7012149","tgn:1002368","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022040,"name:xx":"Johnsons Pond"}}
+{
+  "id": 7022040,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022040",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002368",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022040,
+    "tgn:name":"Johnsons Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8333,38.75],"type":"Point"}
+}

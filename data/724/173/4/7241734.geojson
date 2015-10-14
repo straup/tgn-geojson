@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.166667,50.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7241734","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7241734,"name:xx":"Kleine Wijtsbeek"}}
+{
+  "id": 7241734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241734",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241734,
+    "tgn:name":"Kleine Wijtsbeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.166667,50.9],"type":"Point"}
+}

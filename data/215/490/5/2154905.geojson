@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.316700,40.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2154905","tgn:1000001","tgn:7012149","tgn:2002122","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2154905,"name:xx":"Bear Hollow"}}
+{
+  "id": 2154905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154905",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002122",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154905,
+    "tgn:name":"Bear Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.3167,40.95],"type":"Point"}
+}

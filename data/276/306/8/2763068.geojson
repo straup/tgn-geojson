@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.066700,45.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2763068","tgn:1000001","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300008791"],"id":2763068,"name:xx":"Westover Island"}}
+{
+  "id": 2763068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763068",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763068,
+    "tgn:name":"Westover Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.0667,45.5833],"type":"Point"}
+}

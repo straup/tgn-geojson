@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.821944,24.858333]},"type":"Feature","properties":{"hierarchy":["tgn:7483394","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7483394,"name:xx":"Toucheng Chezhan"}}
+{
+  "id": 7483394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483394",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483394,
+    "tgn:name":"Toucheng Chezhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.821944,24.858333],"type":"Point"}
+}

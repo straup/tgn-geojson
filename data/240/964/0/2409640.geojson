@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.333300,36.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2409640","tgn:1000001","tgn:7012149","tgn:2000808","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2409640,"name:xx":"Ike Branch"}}
+{
+  "id": 2409640,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409640",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000808",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409640,
+    "tgn:name":"Ike Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3333,36.95],"type":"Point"}
+}

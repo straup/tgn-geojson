@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.833300,41.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2257646","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008706"],"id":2257646,"name:xx":"Corral Creek"}}
+{
+  "id": 2257646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257646",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257646,
+    "tgn:name":"Corral Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8333,41.9],"type":"Point"}
+}

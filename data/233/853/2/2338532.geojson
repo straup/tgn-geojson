@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.866700,46.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338532","tgn:2002306","tgn:1000001","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300008706"],"id":2338532,"name:xx":"Frames Creek"}}
+{
+  "id": 2338532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338532",
+        "tgn:2002306",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338532,
+    "tgn:name":"Frames Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8667,46.3333],"type":"Point"}
+}

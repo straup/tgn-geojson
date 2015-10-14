@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.150000,22.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7367154","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367154,"name:xx":"Estancia"}}
+{
+  "id": 7367154,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367154",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367154,
+    "tgn:name":"Estancia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.15,22.283333],"type":"Point"}
+}

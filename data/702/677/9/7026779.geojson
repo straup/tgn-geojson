@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.933333,52.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7026779","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Wormington","id":7026779}}
+{
+  "id": 7026779,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026779",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026779,
+    "tgn:name:en":"Wormington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.933333,52.016667],"type":"Point"}
+}

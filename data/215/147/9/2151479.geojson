@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-71.716700,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2151479","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008680"],"id":2151479,"name:xx":"Bating Pond"}}
+{
+  "id": 2151479,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151479",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151479,
+    "tgn:name":"Bating Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-71.7167,42.0333],"type":"Point"}
+}

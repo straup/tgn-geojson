@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.666700,35.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2762626","tgn:1000001","tgn:7012149","tgn:2001548","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2762626,"name:xx":"Westchester"}}
+{
+  "id": 2762626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762626",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001548",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762626,
+    "tgn:name":"Westchester",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.6667,35.8167],"type":"Point"}
+}

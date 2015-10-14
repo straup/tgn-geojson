@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.616700,46.866700]},"type":"Feature","properties":{"hierarchy":["tgn:2769658","tgn:1000001","tgn:7012149","tgn:2001290","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2769658,"name:xx":"Wig Creek"}}
+{
+  "id": 2769658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769658",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001290",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769658,
+    "tgn:name":"Wig Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6167,46.8667],"type":"Point"}
+}

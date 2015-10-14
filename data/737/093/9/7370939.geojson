@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.616667,30.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7370939","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7370939,"name:xx":"Guija, Cerro"}}
+{
+  "id": 7370939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370939",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370939,
+    "tgn:name":"Guija, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.616667,30.683333],"type":"Point"}
+}

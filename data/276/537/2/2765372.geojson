@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.383300,25.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2765372","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2765372,"name:xx":"White Bank Dry Rocks"}}
+{
+  "id": 2765372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765372",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765372,
+    "tgn:name":"White Bank Dry Rocks",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.3833,25.0333],"type":"Point"}
+}

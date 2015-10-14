@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.433333,15.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7358093","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7358093,"name:xx":"Cuyamiapa"}}
+{
+  "id": 7358093,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358093",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358093,
+    "tgn:name":"Cuyamiapa",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.433333,15.016667],"type":"Point"}
+}

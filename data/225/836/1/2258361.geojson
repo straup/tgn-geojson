@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.216700,37.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2258361","tgn:1000001","tgn:7012149","tgn:2000844","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2258361,"name:xx":"Cotton Branch"}}
+{
+  "id": 2258361,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258361",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000844",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258361,
+    "tgn:name":"Cotton Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2167,37.4],"type":"Point"}
+}

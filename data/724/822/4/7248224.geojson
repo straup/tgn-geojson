@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.366667,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7248224","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248224,"name:xx":"Beigem"}}
+{
+  "id": 7248224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248224",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248224,
+    "tgn:name":"Beigem",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.366667,50.95],"type":"Point"}
+}

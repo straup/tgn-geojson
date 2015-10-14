@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.033300,57.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2151028","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300008798"],"id":2151028,"name:xx":"Bassie, Mount"}}
+{
+  "id": 2151028,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151028",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151028,
+    "tgn:name":"Bassie, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.0333,57.05],"type":"Point"}
+}

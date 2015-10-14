@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.905479,50.516175]},"type":"Feature","properties":{"hierarchy":["tgn:7245826","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7245826,"name:xx":"Cognel\u00e9e"}}
+{
+  "id": 7245826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245826",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245826,
+    "tgn:name":"Cognel\u00e9e",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.905479,50.516175],"type":"Point"}
+}

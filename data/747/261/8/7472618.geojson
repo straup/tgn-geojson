@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.589359,23.755935]},"type":"Feature","properties":{"hierarchy":["tgn:7472618","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472618,"name:xx":"Yongchang"}}
+{
+  "id": 7472618,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472618",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472618,
+    "tgn:name":"Yongchang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.589359,23.755935],"type":"Point"}
+}

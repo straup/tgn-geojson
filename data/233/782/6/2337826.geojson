@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.800000,36.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2337826","tgn:1000001","tgn:7012149","tgn:2001196","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2337826,"name:xx":"Fox Den Hollow"}}
+{
+  "id": 2337826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337826",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001196",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337826,
+    "tgn:name":"Fox Den Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.8,36.95],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.763538,24.729900]},"type":"Feature","properties":{"hierarchy":["tgn:7487760","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487760,"name:xx":"Nanjin Li"}}
+{
+  "id": 7487760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487760",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487760,
+    "tgn:name":"Nanjin Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.763538,24.7299],"type":"Point"}
+}

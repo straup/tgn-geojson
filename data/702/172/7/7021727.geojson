@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.383300,30.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7021727","tgn:1000001","tgn:7012149","tgn:1002980","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":7021727,"name:xx":"Sutton Creek"}}
+{
+  "id": 7021727,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021727",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002980",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021727,
+    "tgn:name":"Sutton Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.3833,30.8],"type":"Point"}
+}

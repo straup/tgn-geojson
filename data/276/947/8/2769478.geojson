@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.166700,45.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2769478","tgn:1000001","tgn:7012149","tgn:1002554","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2769478,"name:xx":"Wide Sky Canyon"}}
+{
+  "id": 2769478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769478",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002554",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769478,
+    "tgn:name":"Wide Sky Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1667,45.6833],"type":"Point"}
+}

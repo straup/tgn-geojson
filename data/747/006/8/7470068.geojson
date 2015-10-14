@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.853639,24.253833]},"type":"Feature","properties":{"hierarchy":["tgn:7470068","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470068,"name:xx":"Hengkeng"}}
+{
+  "id": 7470068,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470068",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470068,
+    "tgn:name":"Hengkeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.853639,24.253833],"type":"Point"}
+}

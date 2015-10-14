@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.405300,25.088100]},"type":"Feature","properties":{"hierarchy":["tgn:7473132","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7473132,"name:xx":"Donglin Cun"}}
+{
+  "id": 7473132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473132",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473132,
+    "tgn:name":"Donglin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.4053,25.0881],"type":"Point"}
+}

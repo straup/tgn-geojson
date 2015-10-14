@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.366700,42.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2158716","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2158716,"name:xx":"Bechdoldt Gulch"}}
+{
+  "id": 2158716,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158716",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158716,
+    "tgn:name":"Bechdoldt Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3667,42.2833],"type":"Point"}
+}

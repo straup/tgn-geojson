@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.994444,19.108056]},"type":"Feature","properties":{"hierarchy":["tgn:7370920","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370920,"name:xx":"Jes\u00fas del Monte"}}
+{
+  "id": 7370920,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370920",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370920,
+    "tgn:name":"Jes\u00fas del Monte",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.994444,19.108056],"type":"Point"}
+}

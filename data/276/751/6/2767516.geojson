@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.883300,40.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2767516","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2767516,"name:xx":"White Terrace"}}
+{
+  "id": 2767516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767516",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767516,
+    "tgn:name":"White Terrace",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8833,40.6333],"type":"Point"}
+}

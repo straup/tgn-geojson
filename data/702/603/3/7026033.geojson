@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-172.000000,-13.833300]},"type":"Feature","properties":{"hierarchy":["tgn:7026033","tgn:1009572","tgn:1000239","tgn:1000006","tgn:7029392"],"placetype":["aat:300000240"],"id":7026033,"name:xx":"Mulifanua Plantation"}}
+{
+  "id": 7026033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026033",
+        "tgn:1009572",
+        "tgn:1000239",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026033,
+    "tgn:name":"Mulifanua Plantation",
+    "tgn:placetype":[
+        "aat:300000240"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-172.0,-13.8333],"type":"Point"}
+}

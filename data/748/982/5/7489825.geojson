@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.483333,24.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7489825","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008697"],"id":7489825,"name:xx":"Shenshui Wenquan"}}
+{
+  "id": 7489825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489825",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489825,
+    "tgn:name":"Shenshui Wenquan",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.483333,24.2],"type":"Point"}
+}

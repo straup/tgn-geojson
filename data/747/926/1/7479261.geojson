@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.055833,22.705833]},"type":"Feature","properties":{"hierarchy":["tgn:7479261","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479261,"name:xx":"Daitian Fu"}}
+{
+  "id": 7479261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479261",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479261,
+    "tgn:name":"Daitian Fu",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.055833,22.705833],"type":"Point"}
+}

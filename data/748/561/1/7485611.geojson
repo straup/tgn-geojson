@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.221944,22.989444]},"type":"Feature","properties":{"hierarchy":["tgn:7485611","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7485611,"name:xx":"Changrong Zhongxue"}}
+{
+  "id": 7485611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485611",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485611,
+    "tgn:name":"Changrong Zhongxue",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.221944,22.989444],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.133333,45.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7052161","tgn:7003007","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052161,"name:xx":"La Biocca"}}
+{
+  "id": 7052161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052161",
+        "tgn:7003007",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052161,
+    "tgn:name":"La Biocca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.133333,45.35],"type":"Point"}
+}

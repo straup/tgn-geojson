@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.983300,35.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2333750","tgn:1000001","tgn:7012149","tgn:2001879","tgn:7007825","tgn:7029392"],"placetype":["aat:300006191"],"id":2333750,"name:xx":"Foote Mineral Company Tailings Pond"}}
+{
+  "id": 2333750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333750",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001879",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333750,
+    "tgn:name":"Foote Mineral Company Tailings Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9833,35.9833],"type":"Point"}
+}

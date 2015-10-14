@@ -1,0 +1,28 @@
+{
+  "id": 7013298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7013298",
+        "tgn:2124017",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7013298,
+    "tgn:name":"Anchorage",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387283",
+        "aat:300387302",
+        "aat:300120599",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.9,61.2167],"type":"Point"}
+}

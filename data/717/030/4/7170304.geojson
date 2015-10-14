@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.516667,51.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7170304","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170304,"name:xx":"Herberath"}}
+{
+  "id": 7170304,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170304",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170304,
+    "tgn:name":"Herberath",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.516667,51.1],"type":"Point"}
+}

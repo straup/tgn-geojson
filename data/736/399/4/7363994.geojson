@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.916667,27.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7363994","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363994,"name:xx":"El Guam\u00faehil"}}
+{
+  "id": 7363994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363994",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363994,
+    "tgn:name":"El Guam\u00faehil",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.916667,27.15],"type":"Point"}
+}

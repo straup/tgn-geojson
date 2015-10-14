@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.522718,22.913815]},"type":"Feature","properties":{"hierarchy":["tgn:7471298","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7471298,"name:xx":"Qiwei Shan"}}
+{
+  "id": 7471298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471298",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471298,
+    "tgn:name":"Qiwei Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.522718,22.913815],"type":"Point"}
+}

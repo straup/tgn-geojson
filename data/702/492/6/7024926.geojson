@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.300000,52.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7024926","tgn:7002445","tgn:7008103","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7024926,"name:xx":"Chawston"}}
+{
+  "id": 7024926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024926",
+        "tgn:7002445",
+        "tgn:7008103",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024926,
+    "tgn:name":"Chawston",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.3,52.1833],"type":"Point"}
+}

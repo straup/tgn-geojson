@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[47.333300,-11.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7024236","tgn:1010016","tgn:7001242","tgn:7031796","tgn:7029392"],"placetype":["aat:300011692"],"name:en":"Verte Rocks","id":7024236}}
+{
+  "id": 7024236,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024236",
+        "tgn:1010016",
+        "tgn:7001242",
+        "tgn:7031796",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024236,
+    "tgn:name:en":"Verte Rocks",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[47.3333,-11.55],"type":"Point"}
+}

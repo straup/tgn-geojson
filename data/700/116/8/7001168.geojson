@@ -1,0 +1,26 @@
+{
+  "id": 7001168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001168",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001168,
+    "tgn:name:ar":"\u0627 \u0649\u064b\u0631\u0633\u064a \u0627 \u0631\u064b\u0633\u0648\u0644\u064a",
+    "tgn:name:en":"Holy See",
+    "tgn:name:es":"Santa Sede",
+    "tgn:name:fr":"Saint-Si\u00e8ge",
+    "tgn:name:it":"Santa Sede",
+    "tgn:name:ru":"\u0421\u0432\u044f\u0442\u043e\u0439 \u041f\u0440\u0435\u0441\u0442\u043e\u043b",
+    "tgn:name:zh":"\u6559\u5ef7",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.453,41.903],"type":"Point"}
+}

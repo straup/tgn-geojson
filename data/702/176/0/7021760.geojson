@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.383300,33.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7021760","tgn:1000001","tgn:7012149","tgn:2001756","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":7021760,"name:xx":"Little Black Creek"}}
+{
+  "id": 7021760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021760",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001756",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021760,
+    "tgn:name":"Little Black Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.3833,33.85],"type":"Point"}
+}

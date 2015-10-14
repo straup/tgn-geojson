@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.304062,23.945394]},"type":"Feature","properties":{"hierarchy":["tgn:7477993","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7477993,"name:xx":"Mudan Shan"}}
+{
+  "id": 7477993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477993",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477993,
+    "tgn:name":"Mudan Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.304062,23.945394],"type":"Point"}
+}

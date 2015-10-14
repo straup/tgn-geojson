@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.400000,18.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7373159","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373159,"name:xx":"La Palmera"}}
+{
+  "id": 7373159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373159",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373159,
+    "tgn:name":"La Palmera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.4,18.816667],"type":"Point"}
+}

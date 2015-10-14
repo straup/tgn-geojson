@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.350000,30.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2255567","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008791"],"id":2255567,"name:xx":"Copeland Island"}}
+{
+  "id": 2255567,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255567",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255567,
+    "tgn:name":"Copeland Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.35,30.5833],"type":"Point"}
+}

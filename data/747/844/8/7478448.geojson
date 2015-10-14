@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.382787,22.353612]},"type":"Feature","properties":{"hierarchy":["tgn:7478448","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7478448,"name:xx":"Baisha Gang"}}
+{
+  "id": 7478448,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478448",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478448,
+    "tgn:name":"Baisha Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.382787,22.353612],"type":"Point"}
+}

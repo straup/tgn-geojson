@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.416667,18.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7368120","tgn:1000001","tgn:1001937","tgn:7005560","tgn:7029392"],"placetype":["aat:300387007"],"id":7368120,"name:xx":"Hato"}}
+{
+  "id": 7368120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368120",
+        "tgn:1000001",
+        "tgn:1001937",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368120,
+    "tgn:name":"Hato",
+    "tgn:placetype":[
+        "aat:300387007"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.416667,18.95],"type":"Point"}
+}

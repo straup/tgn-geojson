@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.083333,46.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7050694","tgn:7003158","tgn:1000003","tgn:7003124","tgn:1000080","tgn:7029392"],"placetype":["aat:300008761"],"id":7050694,"name:xx":"Non, Val di"}}
+{
+  "id": 7050694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050694",
+        "tgn:7003158",
+        "tgn:1000003",
+        "tgn:7003124",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050694,
+    "tgn:name":"Non, Val di",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.083333,46.25],"type":"Point"}
+}

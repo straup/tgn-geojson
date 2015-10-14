@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.950000,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2158883","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000038","tgn:7029392"],"placetype":["aat:300008761"],"id":2158883,"name:xx":"Beckham Hollow"}}
+{
+  "id": 2158883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158883",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000038",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158883,
+    "tgn:name":"Beckham Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.95,34.9833],"type":"Point"}
+}

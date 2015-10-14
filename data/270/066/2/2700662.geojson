@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.000000,41.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2700662","tgn:1000001","tgn:7012149","tgn:2002376","tgn:7007923","tgn:7029392"],"placetype":["aat:300008697"],"id":2700662,"name:xx":"Sucker Spring"}}
+{
+  "id": 2700662,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700662",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002376",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700662,
+    "tgn:name":"Sucker Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.0,41.85],"type":"Point"}
+}

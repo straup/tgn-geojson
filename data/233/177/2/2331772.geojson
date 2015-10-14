@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.166700,28.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2331772","tgn:1000001","tgn:7012149","tgn:1002975","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2331772,"name:xx":"Flemming Lake"}}
+{
+  "id": 2331772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331772",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002975",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331772,
+    "tgn:name":"Flemming Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.1667,28.6],"type":"Point"}
+}

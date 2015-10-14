@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.816700,43.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2250805","tgn:1000001","tgn:1002840","tgn:7012149","tgn:7007828","tgn:7029392"],"placetype":["aat:300008680"],"id":2250805,"name:xx":"Colton Pond"}}
+{
+  "id": 2250805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250805",
+        "tgn:1000001",
+        "tgn:1002840",
+        "tgn:7012149",
+        "tgn:7007828",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250805,
+    "tgn:name":"Colton Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8167,43.6833],"type":"Point"}
+}

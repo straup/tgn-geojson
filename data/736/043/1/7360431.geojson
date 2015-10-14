@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.833333,27.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7360431","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008679"],"id":7360431,"name:xx":"Cochore, Estero de"}}
+{
+  "id": 7360431,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360431",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360431,
+    "tgn:name":"Cochore, Estero de",
+    "tgn:placetype":[
+        "aat:300008679"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.833333,27.933333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.565803,22.668551]},"type":"Feature","properties":{"hierarchy":["tgn:7470540","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300000498"],"id":7470540,"name:xx":"Heping Xincun"}}
+{
+  "id": 7470540,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470540",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470540,
+    "tgn:name":"Heping Xincun",
+    "tgn:placetype":[
+        "aat:300000498"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.565803,22.668551],"type":"Point"}
+}

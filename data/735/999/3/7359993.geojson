@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.533333,25.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7359993","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7359993,"name:xx":"Conchos, R\u00edo"}}
+{
+  "id": 7359993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359993",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359993,
+    "tgn:name":"Conchos, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.533333,25.116667],"type":"Point"}
+}

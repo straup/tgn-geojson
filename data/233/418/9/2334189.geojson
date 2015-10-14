@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.983300,33.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2334189","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300006191"],"id":2334189,"name:xx":"Forepaugh Tank"}}
+{
+  "id": 2334189,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334189",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334189,
+    "tgn:name":"Forepaugh Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.9833,33.9333],"type":"Point"}
+}

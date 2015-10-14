@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.361600,23.114200]},"type":"Feature","properties":{"hierarchy":["tgn:7489014","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489014,"name:xx":"Neijiang Cun"}}
+{
+  "id": 7489014,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489014",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489014,
+    "tgn:name":"Neijiang Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3616,23.1142],"type":"Point"}
+}

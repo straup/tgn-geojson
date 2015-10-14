@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.233611,23.191667]},"type":"Feature","properties":{"hierarchy":["tgn:7479339","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479339,"name:xx":"Dangshenpozu Miao"}}
+{
+  "id": 7479339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479339",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479339,
+    "tgn:name":"Dangshenpozu Miao",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.233611,23.191667],"type":"Point"}
+}

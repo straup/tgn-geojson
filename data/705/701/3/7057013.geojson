@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.883333,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7057013","tgn:7005869","tgn:1000003","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057013,"name:xx":"Barzaniga"}}
+{
+  "id": 7057013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057013",
+        "tgn:7005869",
+        "tgn:1000003",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057013,
+    "tgn:name":"Barzaniga",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.883333,45.25],"type":"Point"}
+}

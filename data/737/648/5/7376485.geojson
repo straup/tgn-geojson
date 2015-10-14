@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.172778,26.886667]},"type":"Feature","properties":{"hierarchy":["tgn:7376485","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7376485,"name:xx":"Lo de Castro, Arroyo"}}
+{
+  "id": 7376485,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376485",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376485,
+    "tgn:name":"Lo de Castro, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.172778,26.886667],"type":"Point"}
+}

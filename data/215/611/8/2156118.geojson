@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.566700,47.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2156118","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008791"],"id":2156118,"name:xx":"Beard Island"}}
+{
+  "id": 2156118,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156118",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156118,
+    "tgn:name":"Beard Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5667,47.1167],"type":"Point"}
+}

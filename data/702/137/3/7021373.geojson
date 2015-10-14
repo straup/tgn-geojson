@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.666700,36.566700]},"type":"Feature","properties":{"hierarchy":["tgn:7021373","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000036","tgn:7029392"],"placetype":["aat:300000390"],"id":7021373,"name:xx":"Sloss Quarry"}}
+{
+  "id": 7021373,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021373",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000036",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021373,
+    "tgn:name":"Sloss Quarry",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.6667,36.5667],"type":"Point"}
+}

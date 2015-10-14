@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.566700,36.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2334749","tgn:1000001","tgn:2001476","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2334749,"name:xx":"Fork Mountain"}}
+{
+  "id": 2334749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334749",
+        "tgn:1000001",
+        "tgn:2001476",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334749,
+    "tgn:name":"Fork Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5667,36.0333],"type":"Point"}
+}

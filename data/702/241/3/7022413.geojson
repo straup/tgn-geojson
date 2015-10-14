@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-76.066700,35.233300]},"type":"Feature","properties":{"hierarchy":["tgn:7022413","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300132348"],"id":7022413,"name:xx":"Bluff Shoal"}}
+{
+  "id": 7022413,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022413",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022413,
+    "tgn:name":"Bluff Shoal",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0667,35.2333],"type":"Point"}
+}

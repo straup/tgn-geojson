@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.774831,24.506777]},"type":"Feature","properties":{"hierarchy":["tgn:7476714","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7476714,"name:xx":"Shangdaping"}}
+{
+  "id": 7476714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476714",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476714,
+    "tgn:name":"Shangdaping",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.774831,24.506777],"type":"Point"}
+}

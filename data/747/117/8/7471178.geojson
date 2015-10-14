@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.585112,22.989149]},"type":"Feature","properties":{"hierarchy":["tgn:7471178","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7471178,"name:xx":"Fangliao"}}
+{
+  "id": 7471178,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471178",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471178,
+    "tgn:name":"Fangliao",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.585112,22.989149],"type":"Point"}
+}

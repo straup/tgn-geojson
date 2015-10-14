@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.283300,40.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2760449","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300008706"],"id":2760449,"name:xx":"West Fork Stillwater Creek"}}
+{
+  "id": 2760449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760449",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760449,
+    "tgn:name":"West Fork Stillwater Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2833,40.7333],"type":"Point"}
+}

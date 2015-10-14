@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.343300,23.164172]},"type":"Feature","properties":{"hierarchy":["tgn:7482449","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482449,"name:xx":"Xinzhong Yihao Qiao"}}
+{
+  "id": 7482449,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482449",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482449,
+    "tgn:name":"Xinzhong Yihao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3433,23.164172],"type":"Point"}
+}

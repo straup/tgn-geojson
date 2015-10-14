@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.080000,23.950556]},"type":"Feature","properties":{"hierarchy":["tgn:7474232","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474232,"name:xx":"Jieyuan"}}
+{
+  "id": 7474232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474232",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474232,
+    "tgn:name":"Jieyuan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.08,23.950556],"type":"Point"}
+}

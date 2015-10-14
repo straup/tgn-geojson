@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.615213,23.604510]},"type":"Feature","properties":{"hierarchy":["tgn:7477251","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7477251,"name:xx":"Zhongxi Yugang"}}
+{
+  "id": 7477251,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477251",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477251,
+    "tgn:name":"Zhongxi Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.615213,23.60451],"type":"Point"}
+}

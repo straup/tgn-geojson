@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.066700,29.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2257246","tgn:1000001","tgn:2001945","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2257246,"name:xx":"Corner Windmill"}}
+{
+  "id": 2257246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257246",
+        "tgn:1000001",
+        "tgn:2001945",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257246,
+    "tgn:name":"Corner Windmill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0667,29.65],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.671177,24.207210]},"type":"Feature","properties":{"hierarchy":["tgn:7472120","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472120,"name:xx":"Huiyuan"}}
+{
+  "id": 7472120,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472120",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472120,
+    "tgn:name":"Huiyuan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.671177,24.20721],"type":"Point"}
+}

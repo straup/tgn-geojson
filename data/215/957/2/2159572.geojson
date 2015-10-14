@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-120.933300,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2159572","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008761"],"id":2159572,"name:xx":"Bee Rock Canyon"}}
+{
+  "id": 2159572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159572",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159572,
+    "tgn:name":"Bee Rock Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.9333,35.7833],"type":"Point"}
+}

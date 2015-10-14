@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.216667,30.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7367082","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7367082,"name:xx":"El Trozado"}}
+{
+  "id": 7367082,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367082",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367082,
+    "tgn:name":"El Trozado",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.216667,30.6],"type":"Point"}
+}

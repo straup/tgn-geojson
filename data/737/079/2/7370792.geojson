@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.483333,17.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7370792","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370792,"name:xx":"Guelatao"}}
+{
+  "id": 7370792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370792",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370792,
+    "tgn:name":"Guelatao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.483333,17.3],"type":"Point"}
+}

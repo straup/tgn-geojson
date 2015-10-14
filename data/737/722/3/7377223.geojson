@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.033333,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7377223","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377223,"name:xx":"Rancho La Ultima Agua"}}
+{
+  "id": 7377223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377223",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377223,
+    "tgn:name":"Rancho La Ultima Agua",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.033333,28.5],"type":"Point"}
+}

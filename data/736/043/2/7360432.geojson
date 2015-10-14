@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.550000,16.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7360432","tgn:7005585","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360432,"name:xx":"Cochoapa"}}
+{
+  "id": 7360432,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360432",
+        "tgn:7005585",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360432,
+    "tgn:name":"Cochoapa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.55,16.583333],"type":"Point"}
+}

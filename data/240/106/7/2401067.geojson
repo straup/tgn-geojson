@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.616700,35.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2401067","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000098","tgn:7029392"],"placetype":["aat:300008697"],"id":2401067,"name:xx":"Horse Trough Spring"}}
+{
+  "id": 2401067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401067",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000098",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401067,
+    "tgn:name":"Horse Trough Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.6167,35.55],"type":"Point"}
+}

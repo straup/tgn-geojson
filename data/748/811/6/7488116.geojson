@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.248989,23.249977]},"type":"Feature","properties":{"hierarchy":["tgn:7488116","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488116,"name:xx":"Nangang Li"}}
+{
+  "id": 7488116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488116",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488116,
+    "tgn:name":"Nangang Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.248989,23.249977],"type":"Point"}
+}

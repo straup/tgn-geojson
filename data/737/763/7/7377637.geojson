@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.416667,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7377637","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387027"],"id":7377637,"name:xx":"Las Burras"}}
+{
+  "id": 7377637,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377637",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377637,
+    "tgn:name":"Las Burras",
+    "tgn:placetype":[
+        "aat:300387027"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.416667,28.5],"type":"Point"}
+}

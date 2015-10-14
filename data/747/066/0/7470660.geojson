@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.689200,24.218317]},"type":"Feature","properties":{"hierarchy":["tgn:7470660","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470660,"name:xx":"Qingshui"}}
+{
+  "id": 7470660,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470660",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470660,
+    "tgn:name":"Qingshui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.6892,24.218317],"type":"Point"}
+}

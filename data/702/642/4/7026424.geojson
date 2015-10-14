@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.366667,51.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7026424","tgn:7002445","tgn:1000003","tgn:7026382","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Enborne","id":7026424}}
+{
+  "id": 7026424,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026424",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7026382",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026424,
+    "tgn:name:en":"Enborne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.366667,51.383333],"type":"Point"}
+}

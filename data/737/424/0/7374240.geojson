@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.250000,24.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7374240","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7374240,"name:xx":"Rancho La Manteca"}}
+{
+  "id": 7374240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374240",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374240,
+    "tgn:name":"Rancho La Manteca",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.25,24.916667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.266667,22.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7351344","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7351344,"name:xx":"Arenal de Morelos"}}
+{
+  "id": 7351344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351344",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351344,
+    "tgn:name":"Arenal de Morelos",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.266667,22.416667],"type":"Point"}
+}

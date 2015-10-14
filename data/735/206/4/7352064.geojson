@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.283333,29.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7352064","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008697"],"id":7352064,"name:xx":"Bosque Bonito, Ojo"}}
+{
+  "id": 7352064,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352064",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352064,
+    "tgn:name":"Bosque Bonito, Ojo",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.283333,29.866667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.616700,40.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7023398","tgn:1000001","tgn:7012149","tgn:7007158","tgn:2000253","tgn:7029392"],"placetype":["aat:300006191"],"id":7023398,"name:xx":"McGrew Reservoir"}}
+{
+  "id": 7023398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:2000253",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023398,
+    "tgn:name":"McGrew Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.6167,40.7],"type":"Point"}
+}

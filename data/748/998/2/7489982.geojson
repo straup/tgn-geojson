@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.140149,23.342131]},"type":"Feature","properties":{"hierarchy":["tgn:7489982","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386871"],"id":7489982,"name:xx":"Shiqu Yanchang"}}
+{
+  "id": 7489982,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489982",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489982,
+    "tgn:name":"Shiqu Yanchang",
+    "tgn:placetype":[
+        "aat:300386871"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.140149,23.342131],"type":"Point"}
+}

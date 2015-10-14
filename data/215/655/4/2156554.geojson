@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.850000,35.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2156554","tgn:1000001","tgn:7012149","tgn:2001516","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2156554,"name:xx":"Bearwallow Branch"}}
+{
+  "id": 2156554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156554",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001516",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156554,
+    "tgn:name":"Bearwallow Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.85,35.7],"type":"Point"}
+}

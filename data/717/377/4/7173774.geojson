@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.200000,51.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7173774","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7173774,"name:xx":"Grundhof"}}
+{
+  "id": 7173774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173774",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173774,
+    "tgn:name":"Grundhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.2,51.033333],"type":"Point"}
+}

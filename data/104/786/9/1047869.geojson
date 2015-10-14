@@ -1,0 +1,30 @@
+{
+  "id": 1047869,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f1081c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2753376",
+        "gp:id":730480,
+        "qs:id":6,
+        "wof:id":101754823
+    },
+    "tgn:hierarchy":[
+        "tgn:1047869",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047869,
+    "tgn:name:nl":"IJmuiden",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008375",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.6,52.466667],"type":"Point"}
+}

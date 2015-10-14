@@ -1,0 +1,27 @@
+{
+  "id": 7273666,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f251b8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2744376",
+        "gp:id":734790,
+        "qs:id":5,
+        "wof:id":101837677
+    },
+    "tgn:hierarchy":[
+        "tgn:7273666",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7273666,
+    "tgn:name:nl":"Wilnis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,52.2],"type":"Point"}
+}

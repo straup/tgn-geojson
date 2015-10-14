@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.816700,42.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2400420","tgn:1000001","tgn:7013686","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008699"],"id":2400420,"name:xx":"Horse Hill Brook"}}
+{
+  "id": 2400420,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400420",
+        "tgn:1000001",
+        "tgn:7013686",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400420,
+    "tgn:name":"Horse Hill Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8167,42.25],"type":"Point"}
+}

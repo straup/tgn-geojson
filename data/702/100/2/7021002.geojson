@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-99.333300,37.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7021002","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7021002,"name:xx":"Medicine Lodge River"}}
+{
+  "id": 7021002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021002",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021002,
+    "tgn:name":"Medicine Lodge River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.3333,37.5],"type":"Point"}
+}

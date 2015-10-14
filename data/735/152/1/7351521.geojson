@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,25.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7351521","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7351521,"name:xx":"Cahuana"}}
+{
+  "id": 7351521,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351521",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351521,
+    "tgn:name":"Cahuana",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,25.933333],"type":"Point"}
+}

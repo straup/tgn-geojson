@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.983333,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7359232","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000517"],"id":7359232,"name:xx":"Campamento de la DNC"}}
+{
+  "id": 7359232,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359232",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359232,
+    "tgn:name":"Campamento de la DNC",
+    "tgn:placetype":[
+        "aat:300000517"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.983333,29.4],"type":"Point"}
+}

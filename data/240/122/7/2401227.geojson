@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.400000,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2401227","tgn:1000001","tgn:7012149","tgn:2001458","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2401227,"name:xx":"Horsehead Spring"}}
+{
+  "id": 2401227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401227",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001458",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401227,
+    "tgn:name":"Horsehead Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.4,34.6833],"type":"Point"}
+}

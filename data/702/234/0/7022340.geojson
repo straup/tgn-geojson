@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.200000,40.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7022340","tgn:1000001","tgn:2000198","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006191"],"id":7022340,"name:xx":"Base Line Reservoir"}}
+{
+  "id": 7022340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022340",
+        "tgn:1000001",
+        "tgn:2000198",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022340,
+    "tgn:name":"Base Line Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.2,40.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.867245,24.551626]},"type":"Feature","properties":{"hierarchy":["tgn:7475624","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7475624,"name:xx":"Qigongli"}}
+{
+  "id": 7475624,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475624",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475624,
+    "tgn:name":"Qigongli",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.867245,24.551626],"type":"Point"}
+}

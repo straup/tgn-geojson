@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.100000,46.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2768397","tgn:1000001","tgn:7012149","tgn:2001281","tgn:7007524","tgn:7029392"],"placetype":["aat:300386845"],"id":2768397,"name:xx":"Whitetail Basin"}}
+{
+  "id": 2768397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768397",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001281",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768397,
+    "tgn:name":"Whitetail Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1,46.1],"type":"Point"}
+}

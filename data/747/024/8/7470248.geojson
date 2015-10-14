@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.546700,22.675300]},"type":"Feature","properties":{"hierarchy":["tgn:7470248","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470248,"name:xx":"Jinxing Cun"}}
+{
+  "id": 7470248,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470248",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470248,
+    "tgn:name":"Jinxing Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5467,22.6753],"type":"Point"}
+}

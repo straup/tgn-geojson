@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.766667,25.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7362272","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362272,"name:xx":"El Llano"}}
+{
+  "id": 7362272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362272",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362272,
+    "tgn:name":"El Llano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.766667,25.216667],"type":"Point"}
+}

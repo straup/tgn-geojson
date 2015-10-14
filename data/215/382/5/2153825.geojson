@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.283300,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2153825","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2153825,"name:xx":"Bear Canyon"}}
+{
+  "id": 2153825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153825",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153825,
+    "tgn:name":"Bear Canyon",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.2833,37.0],"type":"Point"}
+}

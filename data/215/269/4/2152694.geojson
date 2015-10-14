@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.333300,32.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2152694","tgn:1000001","tgn:7012149","tgn:2000909","tgn:7007256","tgn:7029392"],"placetype":["aat:300006191"],"id":2152694,"name:xx":"Bayou D'Arbonne Lake"}}
+{
+  "id": 2152694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152694",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000909",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152694,
+    "tgn:name":"Bayou D'Arbonne Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.3333,32.7],"type":"Point"}
+}

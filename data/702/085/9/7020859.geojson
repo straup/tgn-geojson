@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-107.783300,44.766700]},"type":"Feature","properties":{"hierarchy":["tgn:7020859","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020859,"name:xx":"Little Bighorn River"}}
+{
+  "id": 7020859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020859",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020859,
+    "tgn:name":"Little Bighorn River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7833,44.7667],"type":"Point"}
+}

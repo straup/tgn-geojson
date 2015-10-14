@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.810194,24.619068]},"type":"Feature","properties":{"hierarchy":["tgn:7471159","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471159,"name:xx":"Houbicuo"}}
+{
+  "id": 7471159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471159",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471159,
+    "tgn:name":"Houbicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.810194,24.619068],"type":"Point"}
+}

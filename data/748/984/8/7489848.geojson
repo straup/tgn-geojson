@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.647108,24.814240]},"type":"Feature","properties":{"hierarchy":["tgn:7489848","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008798"],"id":7489848,"name:xx":"Dajiao Xi Shan"}}
+{
+  "id": 7489848,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489848",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489848,
+    "tgn:name":"Dajiao Xi Shan",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.647108,24.81424],"type":"Point"}
+}

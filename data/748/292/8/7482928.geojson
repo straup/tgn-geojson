@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.773889,24.865556]},"type":"Feature","properties":{"hierarchy":["tgn:7482928","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006958"],"id":7482928,"name:xx":"Beiyi Gonglu Xunzhi Jinianbei"}}
+{
+  "id": 7482928,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482928",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482928,
+    "tgn:name":"Beiyi Gonglu Xunzhi Jinianbei",
+    "tgn:placetype":[
+        "aat:300006958"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.773889,24.865556],"type":"Point"}
+}

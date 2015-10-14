@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.333333,22.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7352835","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352835,"name:xx":"Alto de Canoas, Cerro"}}
+{
+  "id": 7352835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352835",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352835,
+    "tgn:name":"Alto de Canoas, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.333333,22.966667],"type":"Point"}
+}

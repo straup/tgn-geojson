@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.133300,36.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2153008","tgn:1000001","tgn:2001185","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300266640"],"id":2153008,"name:xx":"Beachler Ridge"}}
+{
+  "id": 2153008,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153008",
+        "tgn:1000001",
+        "tgn:2001185",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153008,
+    "tgn:name":"Beachler Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1333,36.8333],"type":"Point"}
+}

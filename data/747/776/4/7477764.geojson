@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.102730,25.019104]},"type":"Feature","properties":{"hierarchy":["tgn:7477764","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477764,"name:xx":"Shen Pi"}}
+{
+  "id": 7477764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477764",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477764,
+    "tgn:name":"Shen Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.10273,25.019104],"type":"Point"}
+}

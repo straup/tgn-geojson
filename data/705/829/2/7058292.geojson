@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.000000,40.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7058292","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008850"],"id":7058292,"name:xx":"Bove, Capo"}}
+{
+  "id": 7058292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058292",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058292,
+    "tgn:name":"Bove, Capo",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.0,40.766667],"type":"Point"}
+}

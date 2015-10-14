@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[75.000000,35.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7029388","tgn:1000004","tgn:7029392"],"placetype":["aat:300387356","aat:300387346"],"name:en":"Kashmir","id":7029388}}
+{
+  "id": 7029388,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029388",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029388,
+    "tgn:name:en":"Kashmir",
+    "tgn:placetype":[
+        "aat:300387356",
+        "aat:300387346"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[75.0,35.0],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-117.016700,43.716700]},"type":"Feature","properties":{"hierarchy":["tgn:7022517","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300006075"],"id":7022517,"name:xx":"Chance Lateral"}}
+{
+  "id": 7022517,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022517",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022517,
+    "tgn:name":"Chance Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0167,43.7167],"type":"Point"}
+}

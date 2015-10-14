@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.220000,23.107222]},"type":"Feature","properties":{"hierarchy":["tgn:7479626","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7479626,"name:xx":"Sheng'an Gong"}}
+{
+  "id": 7479626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479626",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479626,
+    "tgn:name":"Sheng'an Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.22,23.107222],"type":"Point"}
+}

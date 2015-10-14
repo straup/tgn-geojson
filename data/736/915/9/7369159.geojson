@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.050000,19.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7369159","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369159,"name:xx":"Ju\u00e1rez Pantitl\u00e1n"}}
+{
+  "id": 7369159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369159",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369159,
+    "tgn:name":"Ju\u00e1rez Pantitl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.05,19.416667],"type":"Point"}
+}

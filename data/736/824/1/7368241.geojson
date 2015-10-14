@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.200000,19.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7368241","tgn:7005575","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7368241,"name:xx":"Jos\u00e9 Mar\u00eda Pino Su\u00e1rez"}}
+{
+  "id": 7368241,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368241",
+        "tgn:7005575",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368241,
+    "tgn:name":"Jos\u00e9 Mar\u00eda Pino Su\u00e1rez",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.2,19.4],"type":"Point"}
+}

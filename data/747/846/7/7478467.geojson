@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.441292,22.465176]},"type":"Feature","properties":{"hierarchy":["tgn:7478467","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478467,"name:xx":"Donggang Shuichan Xuexiao"}}
+{
+  "id": 7478467,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478467",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478467,
+    "tgn:name":"Donggang Shuichan Xuexiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.441292,22.465176],"type":"Point"}
+}

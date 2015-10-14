@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.900000,39.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2255367","tgn:1000001","tgn:7012149","tgn:2001618","tgn:7007706","tgn:7029392"],"placetype":["aat:300008761"],"id":2255367,"name:xx":"Coopershop Hollow"}}
+{
+  "id": 2255367,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255367",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001618",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255367,
+    "tgn:name":"Coopershop Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.9,39.6833],"type":"Point"}
+}

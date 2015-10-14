@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.900000,32.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2333992","tgn:1000001","tgn:2000864","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2333992,"name:xx":"Ford Lake"}}
+{
+  "id": 2333992,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333992",
+        "tgn:1000001",
+        "tgn:2000864",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333992,
+    "tgn:name":"Ford Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.9,32.0167],"type":"Point"}
+}

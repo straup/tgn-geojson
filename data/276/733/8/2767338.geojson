@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.550000,30.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2767338","tgn:1000001","tgn:7012149","tgn:2001140","tgn:7007522","tgn:7029392"],"placetype":["aat:300008706"],"id":2767338,"name:xx":"White Sand Creek"}}
+{
+  "id": 2767338,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767338",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001140",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767338,
+    "tgn:name":"White Sand Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.55,30.9],"type":"Point"}
+}

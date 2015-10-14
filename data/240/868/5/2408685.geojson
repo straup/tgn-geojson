@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.816700,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2408685","tgn:1000001","tgn:2001483","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2408685,"name:xx":"Hyatt Mill Creek"}}
+{
+  "id": 2408685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408685",
+        "tgn:1000001",
+        "tgn:2001483",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408685,
+    "tgn:name":"Hyatt Mill Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.8167,34.9833],"type":"Point"}
+}

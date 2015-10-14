@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.916667,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7243000","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7243000,"name:xx":"Kraanschot"}}
+{
+  "id": 7243000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243000",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243000,
+    "tgn:name":"Kraanschot",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.916667,51.266667],"type":"Point"}
+}

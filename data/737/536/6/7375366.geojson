@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.800000,26.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7375366","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7375366,"name:xx":"Rancho Las Escobitas"}}
+{
+  "id": 7375366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375366",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375366,
+    "tgn:name":"Rancho Las Escobitas",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8,26.133333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.033300,31.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2252901","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008706"],"id":2252901,"name:xx":"Conrad Creek"}}
+{
+  "id": 2252901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252901",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252901,
+    "tgn:name":"Conrad Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.0333,31.0333],"type":"Point"}
+}

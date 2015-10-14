@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-153.400000,65.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2332372","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008791"],"id":2332372,"name:xx":"Flora Island"}}
+{
+  "id": 2332372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332372",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332372,
+    "tgn:name":"Flora Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-153.4,65.1333],"type":"Point"}
+}

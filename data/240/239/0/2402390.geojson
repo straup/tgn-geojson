@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.433300,34.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2402390","tgn:1000001","tgn:7012149","tgn:2001752","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2402390,"name:xx":"Horton Pond"}}
+{
+  "id": 2402390,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402390",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001752",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402390,
+    "tgn:name":"Horton Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.4333,34.5],"type":"Point"}
+}

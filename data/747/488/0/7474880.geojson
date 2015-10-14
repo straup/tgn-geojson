@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.500000,23.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7474880","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300011692"],"id":7474880,"name:xx":"Toujinhou Qian"}}
+{
+  "id": 7474880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474880",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474880,
+    "tgn:name":"Toujinhou Qian",
+    "tgn:placetype":[
+        "aat:300011692"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.5,23.316667],"type":"Point"}
+}

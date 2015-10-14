@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.516700,47.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7020948","tgn:1000001","tgn:7012149","tgn:2000479","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":7020948,"name:xx":"Lewelling Creek"}}
+{
+  "id": 7020948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020948",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000479",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020948,
+    "tgn:name":"Lewelling Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.5167,47.85],"type":"Point"}
+}

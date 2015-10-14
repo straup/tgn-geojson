@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-0.883000,44.316000]},"type":"Feature","properties":{"hierarchy":["tgn:7029777","tgn:7002878","tgn:1000003","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300007466"],"id":7029777,"name:xx":"Liposthey"}}
+{
+  "id": 7029777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029777",
+        "tgn:7002878",
+        "tgn:1000003",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029777,
+    "tgn:name":"Liposthey",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300007466"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.883,44.316],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.733333,53.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7116159","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008750"],"id":7116159,"name:xx":"Ostd\u00fcnen"}}
+{
+  "id": 7116159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116159",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116159,
+    "tgn:name":"Ostd\u00fcnen",
+    "tgn:placetype":[
+        "aat:300008750"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.733333,53.6],"type":"Point"}
+}

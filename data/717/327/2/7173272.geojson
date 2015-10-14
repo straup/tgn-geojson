@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.150000,51.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7173272","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7173272,"name:xx":"Gro\u00dfdrebnitz"}}
+{
+  "id": 7173272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173272",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173272,
+    "tgn:name":"Gro\u00dfdrebnitz",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.15,51.083333],"type":"Point"}
+}

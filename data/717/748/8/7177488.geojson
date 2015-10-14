@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.383333,47.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7177488","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177488,"name:xx":"Gunzenhausen"}}
+{
+  "id": 7177488,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177488",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177488,
+    "tgn:name":"Gunzenhausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.383333,47.983333],"type":"Point"}
+}

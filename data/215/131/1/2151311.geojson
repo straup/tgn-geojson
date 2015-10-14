@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.216700,42.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2151311","tgn:1000001","tgn:7012149","tgn:2002377","tgn:7007923","tgn:7029392"],"placetype":["aat:300006191"],"id":2151311,"name:xx":"Bates Creek Reservoir"}}
+{
+  "id": 2151311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151311",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002377",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151311,
+    "tgn:name":"Bates Creek Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.2167,42.4833],"type":"Point"}
+}

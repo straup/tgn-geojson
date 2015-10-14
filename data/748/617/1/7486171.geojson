@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.585330,25.058893]},"type":"Feature","properties":{"hierarchy":["tgn:7486171","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300008217"],"id":7486171,"name:xx":"Huandong Dadao"}}
+{
+  "id": 7486171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486171",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486171,
+    "tgn:name":"Huandong Dadao",
+    "tgn:placetype":[
+        "aat:300008217"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.58533,25.058893],"type":"Point"}
+}

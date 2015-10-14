@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.200000,20.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7357508","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357508,"name:xx":"Colimilla"}}
+{
+  "id": 7357508,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357508",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357508,
+    "tgn:name":"Colimilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.2,20.683333],"type":"Point"}
+}

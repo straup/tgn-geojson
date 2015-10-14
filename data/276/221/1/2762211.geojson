@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.050000,36.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2762211","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008761"],"id":2762211,"name:xx":"West Steep Hill Valley"}}
+{
+  "id": 2762211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762211",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762211,
+    "tgn:name":"West Steep Hill Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.05,36.3],"type":"Point"}
+}

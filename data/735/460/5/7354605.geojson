@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.283333,25.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7354605","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7354605,"name:xx":"Ca\u00f1as, Arroyo de"}}
+{
+  "id": 7354605,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354605",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354605,
+    "tgn:name":"Ca\u00f1as, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.283333,25.416667],"type":"Point"}
+}

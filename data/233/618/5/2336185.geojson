@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.200000,26.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2336185","tgn:1000001","tgn:7012149","tgn:1002582","tgn:7007240","tgn:7029392"],"placetype":["aat:300008850"],"id":2336185,"name:xx":"Foster Point"}}
+{
+  "id": 2336185,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336185",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002582",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336185,
+    "tgn:name":"Foster Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2,26.5833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.916700,35.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2768013","tgn:1000001","tgn:7012149","tgn:2001497","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2768013,"name:xx":"Whiteoak Limb Ridge"}}
+{
+  "id": 2768013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768013",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001497",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768013,
+    "tgn:name":"Whiteoak Limb Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.9167,35.2333],"type":"Point"}
+}

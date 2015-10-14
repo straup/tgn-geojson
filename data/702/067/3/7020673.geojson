@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.116700,46.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7020673","tgn:1000001","tgn:7012149","tgn:2001300","tgn:7007524","tgn:7029392"],"placetype":["aat:300008347"],"id":7020673,"name:xx":"Victor Crossing"}}
+{
+  "id": 7020673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020673",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001300",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020673,
+    "tgn:name":"Victor Crossing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.1167,46.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.433333,29.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7358594","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7358594,"name:xx":"El Abra"}}
+{
+  "id": 7358594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358594",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358594,
+    "tgn:name":"El Abra",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.433333,29.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.716700,33.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2338325","tgn:1000001","tgn:7012149","tgn:2000401","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2338325,"name:xx":"Foxboro"}}
+{
+  "id": 2338325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338325",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000401",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338325,
+    "tgn:name":"Foxboro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.7167,33.85],"type":"Point"}
+}

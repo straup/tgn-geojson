@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.150000,28.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7378463","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7378463,"name:xx":"La Prieta"}}
+{
+  "id": 7378463,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378463",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378463,
+    "tgn:name":"La Prieta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.15,28.433333],"type":"Point"}
+}

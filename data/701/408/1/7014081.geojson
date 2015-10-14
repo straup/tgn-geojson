@@ -1,0 +1,27 @@
+{
+  "id": 7014081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7014081",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001607",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7014081,
+    "tgn:name":"Minot",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008416",
+        "aat:300008389",
+        "aat:300387305",
+        "aat:300387270",
+        "aat:300387307",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.2833,48.2167],"type":"Point"}
+}

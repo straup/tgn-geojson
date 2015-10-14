@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.083333,27.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7357916","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357916,"name:xx":"Curopaco"}}
+{
+  "id": 7357916,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357916",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357916,
+    "tgn:name":"Curopaco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.083333,27.85],"type":"Point"}
+}

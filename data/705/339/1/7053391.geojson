@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[10.900000,44.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7053391","tgn:7004597","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053391,"name:xx":"Pozza"}}
+{
+  "id": 7053391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053391",
+        "tgn:7004597",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053391,
+    "tgn:name":"Pozza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.9,44.533333],"type":"Point"}
+}

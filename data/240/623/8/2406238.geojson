@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.883300,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2406238","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300006075"],"id":2406238,"name:xx":"Humphrey Ditch"}}
+{
+  "id": 2406238,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406238",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406238,
+    "tgn:name":"Humphrey Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.8833,36.8167],"type":"Point"}
+}

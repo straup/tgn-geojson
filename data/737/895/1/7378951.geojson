@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.266667,18.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7378951","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7378951,"name:xx":"Los Changos"}}
+{
+  "id": 7378951,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378951",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378951,
+    "tgn:name":"Los Changos",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.266667,18.35],"type":"Point"}
+}

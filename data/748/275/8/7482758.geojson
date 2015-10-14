@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.759167,24.784444]},"type":"Feature","properties":{"hierarchy":["tgn:7482758","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7482758,"name:xx":"Wusha Guozhong"}}
+{
+  "id": 7482758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482758",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482758,
+    "tgn:name":"Wusha Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.759167,24.784444],"type":"Point"}
+}

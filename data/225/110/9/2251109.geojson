@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.133300,36.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2251109","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002956","tgn:7029392"],"placetype":["aat:300266640"],"id":2251109,"name:xx":"Colvin Mountain"}}
+{
+  "id": 2251109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251109",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002956",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251109,
+    "tgn:name":"Colvin Mountain",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.1333,36.45],"type":"Point"}
+}

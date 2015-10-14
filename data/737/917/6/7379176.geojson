@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.050000,21.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7379176","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7379176,"name:xx":"Los Salas"}}
+{
+  "id": 7379176,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379176",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379176,
+    "tgn:name":"Los Salas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.05,21.45],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7000981,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000981",
+        "tgn:7005193",
+        "tgn:1000004",
+        "tgn:7000975",
+        "tgn:1000142",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000981,
+    "tgn:name":"Udon Thani",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[102.75,17.4167],"type":"Point"}
+}

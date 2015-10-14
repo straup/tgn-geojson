@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-81.450000,32.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7022913","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":7022913,"name:xx":"Runs Branch"}}
+{
+  "id": 7022913,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022913",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022913,
+    "tgn:name":"Runs Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.45,32.6],"type":"Point"}
+}

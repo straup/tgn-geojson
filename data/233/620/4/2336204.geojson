@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-124.100000,42.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2336204","tgn:1000001","tgn:2001704","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008680"],"id":2336204,"name:xx":"Foster Pond"}}
+{
+  "id": 2336204,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336204",
+        "tgn:1000001",
+        "tgn:2001704",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336204,
+    "tgn:name":"Foster Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-124.1,42.6333],"type":"Point"}
+}

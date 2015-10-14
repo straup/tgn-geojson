@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.458289,22.473009]},"type":"Feature","properties":{"hierarchy":["tgn:7478314","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300006676"],"id":7478314,"name:xx":"Antai Yiyuan"}}
+{
+  "id": 7478314,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478314",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478314,
+    "tgn:name":"Antai Yiyuan",
+    "tgn:placetype":[
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.458289,22.473009],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-111.500000,44.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7020846","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008795"],"id":7020846,"name:xx":"Jefferson, Mount"}}
+{
+  "id": 7020846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020846",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020846,
+    "tgn:name":"Jefferson, Mount",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.5,44.55],"type":"Point"}
+}

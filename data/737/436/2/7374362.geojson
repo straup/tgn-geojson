@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.700000,19.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7374362","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374362,"name:xx":"Laguna Larga"}}
+{
+  "id": 7374362,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374362",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374362,
+    "tgn:name":"Laguna Larga",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.7,19.816667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.150000,18.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7358195","tgn:1000001","tgn:7005592","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358195,"name:xx":"Coxcatl\u00e1n"}}
+{
+  "id": 7358195,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358195",
+        "tgn:1000001",
+        "tgn:7005592",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358195,
+    "tgn:name":"Coxcatl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.15,18.266667],"type":"Point"}
+}

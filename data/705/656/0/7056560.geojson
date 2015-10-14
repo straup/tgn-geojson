@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[18.000000,40.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7056560","tgn:1003442","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008850"],"id":7056560,"name:xx":"Bianco, Capo"}}
+{
+  "id": 7056560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056560",
+        "tgn:1003442",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056560,
+    "tgn:name":"Bianco, Capo",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[18.0,40.65],"type":"Point"}
+}

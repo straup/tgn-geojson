@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-78.433300,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2153777","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2153777,"name:xx":"Bear Camp Branch"}}
+{
+  "id": 2153777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153777",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153777,
+    "tgn:name":"Bear Camp Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.4333,39.7],"type":"Point"}
+}

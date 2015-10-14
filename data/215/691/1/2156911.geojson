@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.850000,47.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2156911","tgn:1000001","tgn:7012149","tgn:2001042","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2156911,"name:xx":"Beaulieu Lake"}}
+{
+  "id": 2156911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156911",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001042",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156911,
+    "tgn:name":"Beaulieu Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.85,47.4833],"type":"Point"}
+}

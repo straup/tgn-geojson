@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.350000,37.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2339054","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002864","tgn:7029392"],"placetype":["aat:300008850"],"id":2339054,"name:xx":"Franklin Point"}}
+{
+  "id": 2339054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339054",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002864",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339054,
+    "tgn:name":"Franklin Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.35,37.1333],"type":"Point"}
+}

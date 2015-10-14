@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.766700,38.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2253237","tgn:1000001","tgn:7012149","tgn:1002755","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2253237,"name:xx":"Contrary Creek"}}
+{
+  "id": 2253237,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253237",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002755",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253237,
+    "tgn:name":"Contrary Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.7667,38.5],"type":"Point"}
+}

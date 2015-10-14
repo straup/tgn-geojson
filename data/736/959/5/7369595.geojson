@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.000000,24.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7369595","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7369595,"name:xx":"Jacalillo, Cerro"}}
+{
+  "id": 7369595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369595",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369595,
+    "tgn:name":"Jacalillo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.0,24.85],"type":"Point"}
+}

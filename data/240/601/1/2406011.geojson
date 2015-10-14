@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.450000,40.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2406011","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300008798"],"id":2406011,"name:xx":"Humboldt Summit"}}
+{
+  "id": 2406011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406011",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406011,
+    "tgn:name":"Humboldt Summit",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.45,40.15],"type":"Point"}
+}

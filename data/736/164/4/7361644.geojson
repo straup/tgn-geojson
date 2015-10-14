@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.883333,25.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7361644","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361644,"name:xx":"El Or\u00e9gano"}}
+{
+  "id": 7361644,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361644",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361644,
+    "tgn:name":"El Or\u00e9gano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.883333,25.9],"type":"Point"}
+}

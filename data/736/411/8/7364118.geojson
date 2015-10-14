@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.416667,20.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7364118","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364118,"name:xx":"El Batda"}}
+{
+  "id": 7364118,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364118",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364118,
+    "tgn:name":"El Batda",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.416667,20.55],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.266700,46.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7029441","tgn:1000003","tgn:7002875","tgn:1000070","tgn:7029392"],"placetype":["aat:300008795"],"id":7029441,"name:xx":"Charollais, Monts du"}}
+{
+  "id": 7029441,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029441",
+        "tgn:1000003",
+        "tgn:7002875",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029441,
+    "tgn:name":"Charollais, Monts du",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.2667,46.4333],"type":"Point"}
+}

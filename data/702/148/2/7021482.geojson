@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.566700,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7021482","tgn:1000001","tgn:7012149","tgn:2002111","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":7021482,"name:xx":"South Spring"}}
+{
+  "id": 7021482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021482",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002111",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021482,
+    "tgn:name":"South Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.5667,37.9833],"type":"Point"}
+}

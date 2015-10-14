@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.266667,53.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7171095","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7171095,"name:xx":"Himmelpfort, Forst"}}
+{
+  "id": 7171095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171095",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171095,
+    "tgn:name":"Himmelpfort, Forst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.266667,53.166667],"type":"Point"}
+}

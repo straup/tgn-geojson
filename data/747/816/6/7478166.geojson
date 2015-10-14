@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.795800,24.642400]},"type":"Feature","properties":{"hierarchy":["tgn:7478166","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478166,"name:xx":"Dashan Qiao"}}
+{
+  "id": 7478166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478166",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478166,
+    "tgn:name":"Dashan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7958,24.6424],"type":"Point"}
+}

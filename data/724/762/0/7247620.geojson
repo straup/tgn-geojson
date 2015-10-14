@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.241705,50.994758]},"type":"Feature","properties":{"hierarchy":["tgn:7247620","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7247620,"name:xx":"De Haan"}}
+{
+  "id": 7247620,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247620",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247620,
+    "tgn:name":"De Haan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.241705,50.994758],"type":"Point"}
+}

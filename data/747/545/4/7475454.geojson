@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.587200,23.884400]},"type":"Feature","properties":{"hierarchy":["tgn:7475454","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7475454,"name:xx":"Yayun Gong"}}
+{
+  "id": 7475454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7475454",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7475454,
+    "tgn:name":"Yayun Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5872,23.8844],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.150000,51.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7240010","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008903"],"id":7240010,"name:xx":"Hoog Moer"}}
+{
+  "id": 7240010,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240010",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240010,
+    "tgn:name":"Hoog Moer",
+    "tgn:placetype":[
+        "aat:300008903"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.15,51.3],"type":"Point"}
+}

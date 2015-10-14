@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.633333,51.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7172912","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172912,"name:xx":"Grenzenlust"}}
+{
+  "id": 7172912,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172912",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172912,
+    "tgn:name":"Grenzenlust",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.633333,51.7],"type":"Point"}
+}

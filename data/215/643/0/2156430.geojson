@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.800000,31.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2156430","tgn:7002659","tgn:1000001","tgn:2000017","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2156430,"name:xx":"Bearthick Branch"}}
+{
+  "id": 2156430,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156430",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000017",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156430,
+    "tgn:name":"Bearthick Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.8,31.35],"type":"Point"}
+}

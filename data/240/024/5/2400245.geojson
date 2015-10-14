@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.916700,39.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2400245","tgn:1000001","tgn:2001409","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008761"],"id":2400245,"name:xx":"Horse Creek Canyon"}}
+{
+  "id": 2400245,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400245",
+        "tgn:1000001",
+        "tgn:2001409",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400245,
+    "tgn:name":"Horse Creek Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.9167,39.5333],"type":"Point"}
+}

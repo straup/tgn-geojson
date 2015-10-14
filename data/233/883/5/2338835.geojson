@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.550000,37.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2338835","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7014005","tgn:7029392"],"placetype":["aat:300008761"],"id":2338835,"name:xx":"Frank Valley"}}
+{
+  "id": 2338835,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338835",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7014005",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338835,
+    "tgn:name":"Frank Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.55,37.8833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.516700,48.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2400569","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2400569,"name:xx":"Horse Lakes"}}
+{
+  "id": 2400569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400569",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400569,
+    "tgn:name":"Horse Lakes",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.5167,48.6667],"type":"Point"}
+}

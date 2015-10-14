@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.166667,30.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7374186","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374186,"name:xx":"Laguna de Dos Reales"}}
+{
+  "id": 7374186,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374186",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374186,
+    "tgn:name":"Laguna de Dos Reales",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.166667,30.583333],"type":"Point"}
+}

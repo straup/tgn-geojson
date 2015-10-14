@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.000000,28.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7373698","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7373698,"name:xx":"La Ci\u00e9nega, Arroyo"}}
+{
+  "id": 7373698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373698",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373698,
+    "tgn:name":"La Ci\u00e9nega, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0,28.133333],"type":"Point"}
+}

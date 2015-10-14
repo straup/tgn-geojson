@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.550000,23.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7489840","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300386846"],"id":7489840,"name:xx":"Dashi Bi"}}
+{
+  "id": 7489840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489840",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489840,
+    "tgn:name":"Dashi Bi",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.55,23.7],"type":"Point"}
+}

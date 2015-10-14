@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.727500,24.232500]},"type":"Feature","properties":{"hierarchy":["tgn:7473615","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473615,"name:xx":"Dongshi"}}
+{
+  "id": 7473615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473615",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473615,
+    "tgn:name":"Dongshi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7275,24.2325],"type":"Point"}
+}

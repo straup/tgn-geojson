@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.067500,23.803056]},"type":"Feature","properties":{"hierarchy":["tgn:7488166","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488166,"name:xx":"Luokeyang"}}
+{
+  "id": 7488166,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488166",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488166,
+    "tgn:name":"Luokeyang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.0675,23.803056],"type":"Point"}
+}

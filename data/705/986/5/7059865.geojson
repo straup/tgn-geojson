@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.216667,52.183333]},"type":"Feature","properties":{"hierarchy":["tgn:7059865","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7059865,"name:xx":"Allendorf"}}
+{
+  "id": 7059865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059865",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059865,
+    "tgn:name":"Allendorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.216667,52.183333],"type":"Point"}
+}

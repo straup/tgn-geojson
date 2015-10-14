@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.883300,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2405681","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2405681,"name:xx":"Hugle Run"}}
+{
+  "id": 2405681,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405681",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405681,
+    "tgn:name":"Hugle Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8833,39.2833],"type":"Point"}
+}

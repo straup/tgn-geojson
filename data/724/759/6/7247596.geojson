@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.750000,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7247596","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7247596,"name:xx":"Braques"}}
+{
+  "id": 7247596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247596",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247596,
+    "tgn:name":"Braques",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.75,50.733333],"type":"Point"}
+}

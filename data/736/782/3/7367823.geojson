@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.533611,24.301667]},"type":"Feature","properties":{"hierarchy":["tgn:7367823","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367823,"name:xx":"El Verano"}}
+{
+  "id": 7367823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367823",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367823,
+    "tgn:name":"El Verano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.533611,24.301667],"type":"Point"}
+}

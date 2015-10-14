@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.788261,25.140576]},"type":"Feature","properties":{"hierarchy":["tgn:7476774","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7476774,"name:xx":"Badou Guozhong"}}
+{
+  "id": 7476774,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476774",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476774,
+    "tgn:name":"Badou Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.788261,25.140576],"type":"Point"}
+}

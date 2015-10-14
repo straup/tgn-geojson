@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.369700,22.709400]},"type":"Feature","properties":{"hierarchy":["tgn:7472243","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7472243,"name:xx":"Guanyin Hu"}}
+{
+  "id": 7472243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472243",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472243,
+    "tgn:name":"Guanyin Hu",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.3697,22.7094],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.000000,34.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2761819","tgn:1000001","tgn:7012149","tgn:2001155","tgn:7007522","tgn:7029392"],"placetype":["aat:300008706"],"id":2761819,"name:xx":"West Prong Muddy Creek"}}
+{
+  "id": 2761819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761819",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001155",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761819,
+    "tgn:name":"West Prong Muddy Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.0,34.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.400000,37.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2336623","tgn:1000001","tgn:7012149","tgn:1002411","tgn:7007919","tgn:7029392"],"placetype":["aat:300008905"],"id":2336623,"name:xx":"Four Point Marsh"}}
+{
+  "id": 2336623,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336623",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002411",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336623,
+    "tgn:name":"Four Point Marsh",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4,37.3333],"type":"Point"}
+}

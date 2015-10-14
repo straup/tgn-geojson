@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.715278,23.547500]},"type":"Feature","properties":{"hierarchy":["tgn:7483067","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483067,"name:xx":"Gongtian"}}
+{
+  "id": 7483067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483067",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483067,
+    "tgn:name":"Gongtian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.715278,23.5475],"type":"Point"}
+}

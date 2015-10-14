@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.750000,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2152448","tgn:1000001","tgn:7012149","tgn:2001526","tgn:7007709","tgn:7029392"],"placetype":["aat:300008707"],"id":2152448,"name:xx":"Bay River"}}
+{
+  "id": 2152448,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152448",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001526",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152448,
+    "tgn:name":"Bay River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.75,35.1333],"type":"Point"}
+}

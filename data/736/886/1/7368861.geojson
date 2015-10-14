@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.450000,27.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7368861","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7368861,"name:xx":"Rancho de Juan Ram\u00f3n"}}
+{
+  "id": 7368861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368861",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368861,
+    "tgn:name":"Rancho de Juan Ram\u00f3n",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.45,27.216667],"type":"Point"}
+}

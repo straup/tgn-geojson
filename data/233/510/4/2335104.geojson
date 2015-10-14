@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.000000,42.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2335104","tgn:1000001","tgn:7012149","tgn:2000488","tgn:7007250","tgn:7029392"],"placetype":["aat:300006191"],"id":2335104,"name:xx":"Forster Reservoir"}}
+{
+  "id": 2335104,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335104",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000488",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335104,
+    "tgn:name":"Forster Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0,42.6167],"type":"Point"}
+}

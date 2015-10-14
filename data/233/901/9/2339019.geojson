@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.616700,35.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2339019","tgn:1000001","tgn:7012149","tgn:2001992","tgn:7007826","tgn:7029392"],"placetype":["aat:300006191"],"id":2339019,"name:xx":"Franklin Lakes"}}
+{
+  "id": 2339019,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339019",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001992",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339019,
+    "tgn:name":"Franklin Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.6167,35.45],"type":"Point"}
+}

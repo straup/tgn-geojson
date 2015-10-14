@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.500000,41.500000]},"type":"Feature","properties":{"name:en":"Aragon","hierarchy":["tgn:7024276","tgn:1000003","tgn:7029392"],"name:de":"Aragonien","placetype":["aat:300387178","aat:300235096"],"name:la":"Aragonia","id":7024276,"name:es":"Arag\u00f3n"}}
+{
+  "id": 7024276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024276",
+        "tgn:1000003",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024276,
+    "tgn:name:de":"Aragonien",
+    "tgn:name:en":"Aragon",
+    "tgn:name:es":"Arag\u00f3n",
+    "tgn:name:la":"Aragonia",
+    "tgn:placetype":[
+        "aat:300387178",
+        "aat:300235096"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.5,41.5],"type":"Point"}
+}

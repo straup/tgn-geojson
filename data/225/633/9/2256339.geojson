@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.516700,35.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2256339","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000175","tgn:7029392"],"placetype":["aat:300008798"],"id":2256339,"name:xx":"Coppers Knob"}}
+{
+  "id": 2256339,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256339",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000175",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256339,
+    "tgn:name":"Coppers Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5167,35.6167],"type":"Point"}
+}

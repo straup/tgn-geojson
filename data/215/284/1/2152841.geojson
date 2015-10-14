@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.400000,28.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2152841","tgn:1000001","tgn:7012149","tgn:2001950","tgn:7007826","tgn:7029392"],"placetype":["aat:300008791"],"id":2152841,"name:xx":"Bayucos Island"}}
+{
+  "id": 2152841,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152841",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001950",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152841,
+    "tgn:name":"Bayucos Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.4,28.4],"type":"Point"}
+}

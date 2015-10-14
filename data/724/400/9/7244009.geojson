@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.847464,50.688569]},"type":"Feature","properties":{"hierarchy":["tgn:7244009","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7244009,"name:xx":"Jauchelette"}}
+{
+  "id": 7244009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7244009",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7244009,
+    "tgn:name":"Jauchelette",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.847464,50.688569],"type":"Point"}
+}

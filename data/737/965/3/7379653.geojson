@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.150000,28.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7379653","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7379653,"name:xx":"Rancho Los Duraznitos"}}
+{
+  "id": 7379653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379653",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379653,
+    "tgn:name":"Rancho Los Duraznitos",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.15,28.5],"type":"Point"}
+}

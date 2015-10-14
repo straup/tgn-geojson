@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.016700,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2158860","tgn:1000001","tgn:7012149","tgn:2000802","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2158860,"name:xx":"Becket Branch"}}
+{
+  "id": 2158860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158860",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000802",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158860,
+    "tgn:name":"Becket Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0167,37.4333],"type":"Point"}
+}

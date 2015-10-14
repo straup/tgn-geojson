@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.850000,50.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7116022","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7116022,"name:xx":"Ohligs-Berg"}}
+{
+  "id": 7116022,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116022",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116022,
+    "tgn:name":"Ohligs-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.85,50.0],"type":"Point"}
+}

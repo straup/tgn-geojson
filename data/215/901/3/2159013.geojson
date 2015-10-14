@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.700000,30.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2159013","tgn:1000001","tgn:7012149","tgn:2000899","tgn:7007256","tgn:7029392"],"placetype":["aat:300008699"],"id":2159013,"name:xx":"Becky Branch"}}
+{
+  "id": 2159013,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159013",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000899",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159013,
+    "tgn:name":"Becky Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7,30.6833],"type":"Point"}
+}

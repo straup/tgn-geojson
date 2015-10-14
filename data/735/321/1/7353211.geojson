@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.800000,20.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7353211","tgn:7005584","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7353211,"name:xx":"Bego\u00f1a"}}
+{
+  "id": 7353211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353211",
+        "tgn:7005584",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353211,
+    "tgn:name":"Bego\u00f1a",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.8,20.85],"type":"Point"}
+}

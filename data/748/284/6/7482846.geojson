@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.230556,23.625000]},"type":"Feature","properties":{"hierarchy":["tgn:7482846","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482846,"name:xx":"Kenei Qiao"}}
+{
+  "id": 7482846,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482846",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482846,
+    "tgn:name":"Kenei Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.230556,23.625],"type":"Point"}
+}

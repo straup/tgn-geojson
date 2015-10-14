@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.466700,47.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2760213","tgn:1000001","tgn:7012149","tgn:2001304","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2760213,"name:xx":"West Fork Revais Creek"}}
+{
+  "id": 2760213,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760213",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001304",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760213,
+    "tgn:name":"West Fork Revais Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.4667,47.2333],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7010067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010067",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008166",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010067,
+    "tgn:name:en":"Tadcaster",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.266667,53.883333],"type":"Point"}
+}

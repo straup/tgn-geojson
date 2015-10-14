@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.466667,24.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7377608","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7377608,"name:xx":"Las Ca\u00f1adas"}}
+{
+  "id": 7377608,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377608",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377608,
+    "tgn:name":"Las Ca\u00f1adas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.466667,24.733333],"type":"Point"}
+}

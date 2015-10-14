@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.495278,23.436389]},"type":"Feature","properties":{"hierarchy":["tgn:7483722","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483722,"name:xx":"Chilan Xi Yihao Qiao"}}
+{
+  "id": 7483722,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483722",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483722,
+    "tgn:name":"Chilan Xi Yihao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.495278,23.436389],"type":"Point"}
+}

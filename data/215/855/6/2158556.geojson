@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.950000,45.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2158556","tgn:1000001","tgn:7012149","tgn:2000494","tgn:7007250","tgn:7029392"],"placetype":["aat:300008798"],"id":2158556,"name:xx":"Beaverdam Peak"}}
+{
+  "id": 2158556,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158556",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000494",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158556,
+    "tgn:name":"Beaverdam Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.95,45.0167],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.000000,51.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7179931","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7179931,"name:xx":"Haalsiepen"}}
+{
+  "id": 7179931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179931",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179931,
+    "tgn:name":"Haalsiepen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.0,51.133333],"type":"Point"}
+}

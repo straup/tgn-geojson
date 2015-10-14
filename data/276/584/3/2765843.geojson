@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.583300,47.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2765843","tgn:1000001","tgn:7012149","tgn:2001067","tgn:7007521","tgn:7029392"],"placetype":["aat:300008791"],"id":2765843,"name:xx":"White Fish Island"}}
+{
+  "id": 2765843,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765843",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001067",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765843,
+    "tgn:name":"White Fish Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5833,47.9],"type":"Point"}
+}

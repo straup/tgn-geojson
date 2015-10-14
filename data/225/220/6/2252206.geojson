@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.483300,34.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2252206","tgn:1000001","tgn:7019560","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008697"],"id":2252206,"name:xx":"Conejo Spring"}}
+{
+  "id": 2252206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252206",
+        "tgn:1000001",
+        "tgn:7019560",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252206,
+    "tgn:name":"Conejo Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.4833,34.2333],"type":"Point"}
+}

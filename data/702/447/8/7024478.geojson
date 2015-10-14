@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-19.816700,75.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7024478","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008795"],"id":7024478,"name:xx":"Nordre Muschelbjerg"}}
+{
+  "id": 7024478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024478",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024478,
+    "tgn:name":"Nordre Muschelbjerg",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-19.8167,75.1833],"type":"Point"}
+}

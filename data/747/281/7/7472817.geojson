@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.382727,23.819158]},"type":"Feature","properties":{"hierarchy":["tgn:7472817","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7472817,"name:xx":"Dazhuang Ti"}}
+{
+  "id": 7472817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472817",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472817,
+    "tgn:name":"Dazhuang Ti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.382727,23.819158],"type":"Point"}
+}

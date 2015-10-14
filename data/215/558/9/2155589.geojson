@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.183300,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2155589","tgn:1000001","tgn:7012149","tgn:1002876","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2155589,"name:xx":"Bear Run Junction"}}
+{
+  "id": 2155589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002876",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155589,
+    "tgn:name":"Bear Run Junction",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1833,40.8],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.466667,50.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7241149","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008699"],"id":7241149,"name:xx":"Haies, Ruisseau des"}}
+{
+  "id": 7241149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241149",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241149,
+    "tgn:name":"Haies, Ruisseau des",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.466667,50.4],"type":"Point"}
+}

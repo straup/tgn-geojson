@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.883300,43.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2151869","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2151869,"name:xx":"Battleship Mountain"}}
+{
+  "id": 2151869,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151869",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151869,
+    "tgn:name":"Battleship Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8833,43.25],"type":"Point"}
+}

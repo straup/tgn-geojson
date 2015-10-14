@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.400000,41.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2761274","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008707"],"id":2761274,"name:xx":"West Marys River"}}
+{
+  "id": 2761274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761274",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761274,
+    "tgn:name":"West Marys River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.4,41.75],"type":"Point"}
+}

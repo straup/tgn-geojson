@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.650000,53.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7175495","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7175495,"name:xx":"Gro\u00dfer Baalsee"}}
+{
+  "id": 7175495,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7175495",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7175495,
+    "tgn:name":"Gro\u00dfer Baalsee",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.65,53.216667],"type":"Point"}
+}

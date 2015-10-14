@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.450000,45.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2257107","tgn:1000001","tgn:7012149","tgn:2000996","tgn:7007520","tgn:7029392"],"placetype":["aat:300008680"],"id":2257107,"name:xx":"Cornell Lake"}}
+{
+  "id": 2257107,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257107",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000996",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257107,
+    "tgn:name":"Cornell Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.45,45.9833],"type":"Point"}
+}

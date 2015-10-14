@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-102.866700,36.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2158222","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2158222,"name:xx":"Beaver River"}}
+{
+  "id": 2158222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158222",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158222,
+    "tgn:name":"Beaver River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.8667,36.5833],"type":"Point"}
+}

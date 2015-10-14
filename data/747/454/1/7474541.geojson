@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.520833,25.004579]},"type":"Feature","properties":{"hierarchy":["tgn:7474541","tgn:1000004","tgn:1000959","tgn:1000141","tgn:7029392"],"placetype":["aat:300000745"],"id":7474541,"name:xx":"Yonghe"}}
+{
+  "id": 7474541,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474541",
+        "tgn:1000004",
+        "tgn:1000959",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474541,
+    "tgn:name":"Yonghe",
+    "tgn:placetype":[
+        "aat:300000745"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.520833,25.004579],"type":"Point"}
+}

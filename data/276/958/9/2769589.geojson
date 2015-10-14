@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.216700,41.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2769589","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000184","tgn:7029392"],"placetype":["aat:300386831"],"id":2769589,"name:xx":"Widow Valley Mountains"}}
+{
+  "id": 2769589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769589",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000184",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769589,
+    "tgn:name":"Widow Valley Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.2167,41.1667],"type":"Point"}
+}

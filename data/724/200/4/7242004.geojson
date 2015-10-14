@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.366667,51.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7242004","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300005567"],"id":7242004,"name:xx":"Klijdaal"}}
+{
+  "id": 7242004,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242004",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242004,
+    "tgn:name":"Klijdaal",
+    "tgn:placetype":[
+        "aat:300005567"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.366667,51.133333],"type":"Point"}
+}

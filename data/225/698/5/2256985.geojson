@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.683300,45.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2256985","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300132348"],"id":2256985,"name:xx":"Corn Creek Bar"}}
+{
+  "id": 2256985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256985",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256985,
+    "tgn:name":"Corn Creek Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.6833,45.3667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.000000,44.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7052781","tgn:1003428","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052781,"name:xx":"Montessoro"}}
+{
+  "id": 7052781,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052781",
+        "tgn:1003428",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052781,
+    "tgn:name":"Montessoro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.0,44.633333],"type":"Point"}
+}

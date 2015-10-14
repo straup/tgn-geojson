@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.666700,38.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2254655","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1003046","tgn:7029392"],"placetype":["aat:300008680"],"id":2254655,"name:xx":"Coon Lake"}}
+{
+  "id": 2254655,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254655",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1003046",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254655,
+    "tgn:name":"Coon Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6667,38.75],"type":"Point"}
+}

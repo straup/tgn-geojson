@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.116700,32.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2253958","tgn:2000002","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008699"],"id":2253958,"name:xx":"Cool Branch"}}
+{
+  "id": 2253958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253958",
+        "tgn:2000002",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253958,
+    "tgn:name":"Cool Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1167,32.0333],"type":"Point"}
+}

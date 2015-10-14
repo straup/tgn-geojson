@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.717100,22.667300]},"type":"Feature","properties":{"hierarchy":["tgn:7471809","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471809,"name:xx":"Fanwanshe"}}
+{
+  "id": 7471809,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471809",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471809,
+    "tgn:name":"Fanwanshe",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7171,22.6673],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.102622,25.063630]},"type":"Feature","properties":{"hierarchy":["tgn:7477941","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7477941,"name:xx":"Shulinzi"}}
+{
+  "id": 7477941,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477941",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477941,
+    "tgn:name":"Shulinzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.102622,25.06363],"type":"Point"}
+}

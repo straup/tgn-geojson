@@ -1,0 +1,27 @@
+{
+  "id": 7007095,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f051c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759016",
+        "gp:id":727682,
+        "qs:id":5,
+        "wof:id":101808601
+    },
+    "tgn:hierarchy":[
+        "tgn:7007095",
+        "tgn:7003619",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7007095,
+    "tgn:name:nl":"Beuningen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.783333,51.866667],"type":"Point"}
+}

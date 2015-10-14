@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.359398,23.837483]},"type":"Feature","properties":{"hierarchy":["tgn:7488240","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488240,"name:xx":"Guanshicuo"}}
+{
+  "id": 7488240,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488240",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488240,
+    "tgn:name":"Guanshicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.359398,23.837483],"type":"Point"}
+}

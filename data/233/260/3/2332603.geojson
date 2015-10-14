@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.983300,37.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2332603","tgn:1000001","tgn:2000202","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":2332603,"name:xx":"Florida Radal Ditch"}}
+{
+  "id": 2332603,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332603",
+        "tgn:1000001",
+        "tgn:2000202",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332603,
+    "tgn:name":"Florida Radal Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.9833,37.05],"type":"Point"}
+}

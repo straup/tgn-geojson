@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.823206,25.109985]},"type":"Feature","properties":{"hierarchy":["tgn:7477214","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477214,"name:xx":"Ruigan Guoxiao"}}
+{
+  "id": 7477214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477214",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477214,
+    "tgn:name":"Ruigan Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.823206,25.109985],"type":"Point"}
+}

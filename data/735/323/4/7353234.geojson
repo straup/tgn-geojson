@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-97.700000,24.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7353234","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300185707"],"id":7353234,"name:xx":"Bayuco del Cuervo"}}
+{
+  "id": 7353234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353234",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353234,
+    "tgn:name":"Bayuco del Cuervo",
+    "tgn:placetype":[
+        "aat:300185707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.7,24.85],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.216700,40.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2769931","tgn:1000001","tgn:7012149","tgn:1002468","tgn:7007252","tgn:7029392"],"placetype":["aat:300008706"],"id":2769931,"name:xx":"Wilbur Wright Creek"}}
+{
+  "id": 2769931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769931",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002468",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769931,
+    "tgn:name":"Wilbur Wright Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2167,40.0],"type":"Point"}
+}

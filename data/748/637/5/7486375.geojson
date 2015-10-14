@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.450000,25.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7486375","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387032"],"id":7486375,"name:xx":"Laojilong He"}}
+{
+  "id": 7486375,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486375",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486375,
+    "tgn:name":"Laojilong He",
+    "tgn:placetype":[
+        "aat:300387032"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.45,25.116667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.150000,26.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7350811","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7350811,"name:xx":"Rancho Cabeza de Toro"}}
+{
+  "id": 7350811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350811",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350811,
+    "tgn:name":"Rancho Cabeza de Toro",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.15,26.566667],"type":"Point"}
+}

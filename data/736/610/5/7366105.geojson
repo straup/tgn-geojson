@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.316667,15.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7366105","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7366105,"name:xx":"Escocia"}}
+{
+  "id": 7366105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366105",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366105,
+    "tgn:name":"Escocia",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.316667,15.066667],"type":"Point"}
+}

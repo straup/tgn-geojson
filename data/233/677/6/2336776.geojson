@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.150000,35.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2336776","tgn:1000001","tgn:7012149","tgn:2001489","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2336776,"name:xx":"Fourmile Branch"}}
+{
+  "id": 2336776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336776",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001489",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336776,
+    "tgn:name":"Fourmile Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.15,35.7833],"type":"Point"}
+}

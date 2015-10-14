@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.300000,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2765562","tgn:1000001","tgn:2001357","tgn:7012149","tgn:7007525","tgn:7029392"],"placetype":["aat:300008850"],"id":2765562,"name:xx":"White Cat Point"}}
+{
+  "id": 2765562,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765562",
+        "tgn:1000001",
+        "tgn:2001357",
+        "tgn:7012149",
+        "tgn:7007525",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765562,
+    "tgn:name":"White Cat Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.3,40.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.733300,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2152641","tgn:1000001","tgn:7012149","tgn:2000970","tgn:7007520","tgn:7029392"],"placetype":["aat:300008905"],"id":2152641,"name:xx":"Baylor Swamp"}}
+{
+  "id": 2152641,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152641",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000970",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152641,
+    "tgn:name":"Baylor Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.7333,44.0833],"type":"Point"}
+}

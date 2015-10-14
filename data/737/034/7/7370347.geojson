@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.800000,25.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7370347","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370347,"name:xx":"Guasimal"}}
+{
+  "id": 7370347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370347",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370347,
+    "tgn:name":"Guasimal",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.8,25.45],"type":"Point"}
+}

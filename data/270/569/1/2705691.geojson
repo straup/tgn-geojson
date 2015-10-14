@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.166700,39.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2705691","tgn:1002247","tgn:1000001","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300006191"],"id":2705691,"name:xx":"Susquehanna River"}}
+{
+  "id": 2705691,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705691",
+        "tgn:1002247",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705691,
+    "tgn:name":"Susquehanna River",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1667,39.65],"type":"Point"}
+}

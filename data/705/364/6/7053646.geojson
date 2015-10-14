@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.500000,42.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7053646","tgn:7009084","tgn:7003001","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300259572"],"id":7053646,"name:xx":"Monte Corvo, Sella di"}}
+{
+  "id": 7053646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053646",
+        "tgn:7009084",
+        "tgn:7003001",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053646,
+    "tgn:name":"Monte Corvo, Sella di",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.5,42.466667],"type":"Point"}
+}

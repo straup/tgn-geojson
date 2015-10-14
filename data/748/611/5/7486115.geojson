@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.485556,24.211389]},"type":"Feature","properties":{"hierarchy":["tgn:7486115","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007899"],"id":7486115,"name:xx":"Guyuan Suidao"}}
+{
+  "id": 7486115,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486115",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486115,
+    "tgn:name":"Guyuan Suidao",
+    "tgn:placetype":[
+        "aat:300007899"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.485556,24.211389],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.133333,15.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7352130","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352130,"name:xx":"Altamisa"}}
+{
+  "id": 7352130,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352130",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352130,
+    "tgn:name":"Altamisa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.133333,15.766667],"type":"Point"}
+}

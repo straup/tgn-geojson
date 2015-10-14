@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.183300,49.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7023344","tgn:1000003","tgn:7002888","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347","aat:300387006"],"id":7023344,"name:xx":"Basse-Yutz"}}
+{
+  "id": 7023344,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023344",
+        "tgn:1000003",
+        "tgn:7002888",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023344,
+    "tgn:name":"Basse-Yutz",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387006"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.1833,49.35],"type":"Point"}
+}

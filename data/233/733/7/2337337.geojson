@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.450000,45.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2337337","tgn:1000001","tgn:7012149","tgn:2001722","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2337337,"name:xx":"Fourth of July Spring"}}
+{
+  "id": 2337337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337337",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001722",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337337,
+    "tgn:name":"Fourth of July Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.45,45.7],"type":"Point"}
+}

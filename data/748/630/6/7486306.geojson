@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.351667,24.436667]},"type":"Feature","properties":{"hierarchy":["tgn:7486306","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7486306,"name:xx":"Ru Shan"}}
+{
+  "id": 7486306,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486306",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486306,
+    "tgn:name":"Ru Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.351667,24.436667],"type":"Point"}
+}

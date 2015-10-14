@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.000000,44.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2332803","tgn:1000001","tgn:7012149","tgn:2000968","tgn:7007520","tgn:7029392"],"placetype":["aat:300008905"],"id":2332803,"name:xx":"Flowing Well Swamp"}}
+{
+  "id": 2332803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332803",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000968",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332803,
+    "tgn:name":"Flowing Well Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.0,44.6833],"type":"Point"}
+}

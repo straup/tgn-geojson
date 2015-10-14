@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.683300,37.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7022065","tgn:1000001","tgn:7012149","tgn:1002511","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022065,"name:xx":"Tutters Neck Pond"}}
+{
+  "id": 7022065,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022065",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002511",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022065,
+    "tgn:name":"Tutters Neck Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.6833,37.25],"type":"Point"}
+}

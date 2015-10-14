@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.866667,48.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7115125","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115125,"name:xx":"Ochsenhof"}}
+{
+  "id": 7115125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115125",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115125,
+    "tgn:name":"Ochsenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.866667,48.916667],"type":"Point"}
+}

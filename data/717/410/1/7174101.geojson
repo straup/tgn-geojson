@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.300000,54.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7174101","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7174101,"name:xx":"Langenkamp Eing"}}
+{
+  "id": 7174101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7174101",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7174101,
+    "tgn:name":"Langenkamp Eing",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.3,54.133333],"type":"Point"}
+}

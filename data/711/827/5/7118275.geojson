@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.133333,54.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7118275","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118275,"name:xx":"Petershof"}}
+{
+  "id": 7118275,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118275",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118275,
+    "tgn:name":"Petershof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.133333,54.4],"type":"Point"}
+}

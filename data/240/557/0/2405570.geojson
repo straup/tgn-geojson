@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.066700,33.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2405570","tgn:1000001","tgn:7012149","tgn:2000358","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2405570,"name:xx":"Hughes Lake"}}
+{
+  "id": 2405570,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405570",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000358",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405570,
+    "tgn:name":"Hughes Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0667,33.95],"type":"Point"}
+}

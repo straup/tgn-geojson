@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.783300,34.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2406261","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300006191"],"id":2406261,"name:xx":"Humphrey Tank"}}
+{
+  "id": 2406261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406261",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406261,
+    "tgn:name":"Humphrey Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.7833,34.7667],"type":"Point"}
+}

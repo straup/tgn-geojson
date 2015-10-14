@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.950000,45.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7051429","tgn:7002991","tgn:1000003","tgn:7002997","tgn:1000080","tgn:7029392"],"placetype":["aat:300008777"],"id":7051429,"name:xx":"Pianar, Monte"}}
+{
+  "id": 7051429,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051429",
+        "tgn:7002991",
+        "tgn:1000003",
+        "tgn:7002997",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051429,
+    "tgn:name":"Pianar, Monte",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.95,45.916667],"type":"Point"}
+}

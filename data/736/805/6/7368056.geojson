@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.383333,21.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7368056","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7368056,"name:xx":"Grande, Rio"}}
+{
+  "id": 7368056,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368056",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368056,
+    "tgn:name":"Grande, Rio",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.383333,21.033333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7017636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7017636",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000233",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7017636,
+    "tgn:name":"Mesa Verde",
+    "tgn:placetype":[
+        "aat:300016954",
+        "aat:300008347",
+        "aat:300008189",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300005662",
+        "aat:300008749",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.488,37.183],"type":"Point"}
+}

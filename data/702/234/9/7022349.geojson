@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-73.883300,41.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7022349","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300006191"],"id":7022349,"name:xx":"Beacon Reservoir"}}
+{
+  "id": 7022349,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022349",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022349,
+    "tgn:name":"Beacon Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.8833,41.4833],"type":"Point"}
+}

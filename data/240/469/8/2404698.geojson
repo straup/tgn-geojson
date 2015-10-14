@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.050000,34.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2404698","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000051","tgn:7029392"],"placetype":["aat:300008746"],"id":2404698,"name:xx":"Huckleberry Cave"}}
+{
+  "id": 2404698,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404698",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000051",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404698,
+    "tgn:name":"Huckleberry Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.05,34.5167],"type":"Point"}
+}

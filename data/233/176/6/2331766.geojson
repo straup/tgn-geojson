@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.433300,38.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2331766","tgn:1000001","tgn:2001173","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2331766,"name:xx":"Flemming Branch"}}
+{
+  "id": 2331766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331766",
+        "tgn:1000001",
+        "tgn:2001173",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331766,
+    "tgn:name":"Flemming Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.4333,38.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.108460,25.004129]},"type":"Feature","properties":{"hierarchy":["tgn:7477588","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008688"],"id":7477588,"name:xx":"Tulonggou Pi"}}
+{
+  "id": 7477588,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477588",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477588,
+    "tgn:name":"Tulonggou Pi",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.10846,25.004129],"type":"Point"}
+}

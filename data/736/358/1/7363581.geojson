@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.850000,21.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7363581","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7363581,"name:xx":"El Asalto"}}
+{
+  "id": 7363581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363581",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363581,
+    "tgn:name":"El Asalto",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.85,21.3],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.716667,43.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7056718","tgn:1000003","tgn:7003141","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7056718,"name:xx":"Berzi"}}
+{
+  "id": 7056718,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7056718",
+        "tgn:1000003",
+        "tgn:7003141",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7056718,
+    "tgn:name":"Berzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.716667,43.9],"type":"Point"}
+}

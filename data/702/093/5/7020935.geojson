@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.766700,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:7020935","tgn:1000001","tgn:7012149","tgn:2000475","tgn:7007250","tgn:7029392"],"placetype":["aat:300006191"],"id":7020935,"name:xx":"Clear Lakes"}}
+{
+  "id": 7020935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020935",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000475",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020935,
+    "tgn:name":"Clear Lakes",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.7667,42.6667],"type":"Point"}
+}

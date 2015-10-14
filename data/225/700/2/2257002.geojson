@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.066700,42.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2257002","tgn:1002165","tgn:1000001","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2257002,"name:xx":"Corn Hill"}}
+{
+  "id": 2257002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257002",
+        "tgn:1002165",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257002,
+    "tgn:name":"Corn Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.0667,42.0],"type":"Point"}
+}

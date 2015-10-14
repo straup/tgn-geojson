@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.068333,25.194722]},"type":"Feature","properties":{"hierarchy":["tgn:7352160","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7352160,"name:xx":"Bramonas"}}
+{
+  "id": 7352160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352160",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352160,
+    "tgn:name":"Bramonas",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.068333,25.194722],"type":"Point"}
+}

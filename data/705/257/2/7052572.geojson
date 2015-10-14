@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.366667,40.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7052572","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008791"],"id":7052572,"name:xx":"Isca, Scoglio"}}
+{
+  "id": 7052572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052572",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052572,
+    "tgn:name":"Isca, Scoglio",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.366667,40.583333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.143611,24.756389]},"type":"Feature","properties":{"hierarchy":["tgn:7481452","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481452,"name:xx":"Jiliaokeng"}}
+{
+  "id": 7481452,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481452",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481452,
+    "tgn:name":"Jiliaokeng",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.143611,24.756389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.500000,35.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2151911","tgn:1000001","tgn:7012149","tgn:2001673","tgn:7007707","tgn:7029392"],"placetype":["aat:300008798"],"id":2151911,"name:xx":"Baucum Hill"}}
+{
+  "id": 2151911,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151911",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001673",
+        "tgn:7007707",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151911,
+    "tgn:name":"Baucum Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.5,35.7],"type":"Point"}
+}

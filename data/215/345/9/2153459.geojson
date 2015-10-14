@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.433300,39.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2153459","tgn:1000001","tgn:7012149","tgn:1002678","tgn:7007252","tgn:7029392"],"placetype":["aat:300006191"],"id":2153459,"name:xx":"Beanblossom Lake"}}
+{
+  "id": 2153459,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153459",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002678",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153459,
+    "tgn:name":"Beanblossom Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.4333,39.2833],"type":"Point"}
+}

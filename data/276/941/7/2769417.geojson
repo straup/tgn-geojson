@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.700000,34.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2769417","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002608","tgn:7029392"],"placetype":["aat:300000390"],"id":2769417,"name:xx":"Widco Mine"}}
+{
+  "id": 2769417,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769417",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002608",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769417,
+    "tgn:name":"Widco Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.7,34.2667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.250000,46.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2407847","tgn:1000001","tgn:7012149","tgn:2000930","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2407847,"name:xx":"Hurricane Brook"}}
+{
+  "id": 2407847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407847",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000930",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407847,
+    "tgn:name":"Hurricane Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.25,46.0667],"type":"Point"}
+}

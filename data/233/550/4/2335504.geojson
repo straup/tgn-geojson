@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.383300,40.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2335504","tgn:1000001","tgn:7012149","tgn:1002779","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2335504,"name:xx":"Fort Robertson"}}
+{
+  "id": 2335504,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335504",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002779",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335504,
+    "tgn:name":"Fort Robertson",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3833,40.35],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.250000,20.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7357643","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7357643,"name:xx":"Cumautillo"}}
+{
+  "id": 7357643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7357643",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7357643,
+    "tgn:name":"Cumautillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.25,20.3],"type":"Point"}
+}

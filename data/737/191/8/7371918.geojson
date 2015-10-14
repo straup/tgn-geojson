@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.400000,28.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7371918","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371918,"name:xx":"Rancho La Calera"}}
+{
+  "id": 7371918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371918",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371918,
+    "tgn:name":"Rancho La Calera",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.4,28.45],"type":"Point"}
+}

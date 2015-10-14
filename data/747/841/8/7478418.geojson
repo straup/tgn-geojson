@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.774219,24.603544]},"type":"Feature","properties":{"hierarchy":["tgn:7478418","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7478418,"name:xx":"Qianling Gong"}}
+{
+  "id": 7478418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478418",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478418,
+    "tgn:name":"Qianling Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.774219,24.603544],"type":"Point"}
+}

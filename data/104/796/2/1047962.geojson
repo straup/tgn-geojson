@@ -1,0 +1,27 @@
+{
+  "id": 1047962,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f16712-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750613",
+        "gp:id":731791,
+        "qs:id":3,
+        "wof:id":101754681
+    },
+    "tgn:hierarchy":[
+        "tgn:1047962",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047962,
+    "tgn:name:nl":"Moordrecht",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.666667,51.983333],"type":"Point"}
+}

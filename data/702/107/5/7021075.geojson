@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.766700,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7021075","tgn:1000001","tgn:2002262","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021075,"name:xx":"Ellis Run"}}
+{
+  "id": 7021075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021075",
+        "tgn:1000001",
+        "tgn:2002262",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021075,
+    "tgn:name":"Ellis Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.7667,38.9833],"type":"Point"}
+}

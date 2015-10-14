@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.783300,32.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2330599","tgn:1000001","tgn:7012149","tgn:1002464","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2330599,"name:xx":"Flat Creek"}}
+{
+  "id": 2330599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330599",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002464",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330599,
+    "tgn:name":"Flat Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.7833,32.25],"type":"Point"}
+}

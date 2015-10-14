@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.296218,23.197654]},"type":"Feature","properties":{"hierarchy":["tgn:7471824","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008680"],"id":7471824,"name:xx":"Fanzitian Pi"}}
+{
+  "id": 7471824,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471824",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471824,
+    "tgn:name":"Fanzitian Pi",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.296218,23.197654],"type":"Point"}
+}

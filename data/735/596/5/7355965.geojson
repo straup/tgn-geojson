@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.716667,27.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7355965","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7355965,"name:xx":"Cerro Colorada, Arroyo"}}
+{
+  "id": 7355965,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355965",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355965,
+    "tgn:name":"Cerro Colorada, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.716667,27.05],"type":"Point"}
+}

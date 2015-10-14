@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.850000,35.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2334473","tgn:1000001","tgn:7012149","tgn:2001522","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2334473,"name:xx":"Forest Oaks"}}
+{
+  "id": 2334473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334473",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001522",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334473,
+    "tgn:name":"Forest Oaks",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.85,35.9833],"type":"Point"}
+}

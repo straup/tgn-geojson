@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.483300,45.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2765398","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2765398,"name:xx":"White Beaver Creek"}}
+{
+  "id": 2765398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765398,
+    "tgn:name":"White Beaver Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.4833,45.7333],"type":"Point"}
+}

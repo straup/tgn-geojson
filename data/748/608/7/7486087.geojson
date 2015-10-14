@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.676509,22.526123]},"type":"Feature","properties":{"hierarchy":["tgn:7486087","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486087,"name:xx":"Laiyi"}}
+{
+  "id": 7486087,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486087",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486087,
+    "tgn:name":"Laiyi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.676509,22.526123],"type":"Point"}
+}

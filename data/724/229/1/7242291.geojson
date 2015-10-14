@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.300000,51.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7242291","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300387036"],"id":7242291,"name:xx":"Knokke, Bol van"}}
+{
+  "id": 7242291,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242291",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242291,
+    "tgn:name":"Knokke, Bol van",
+    "tgn:placetype":[
+        "aat:300387036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.3,51.416667],"type":"Point"}
+}

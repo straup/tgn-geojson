@@ -1,0 +1,26 @@
+{
+  "id": 7005077,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005077",
+        "tgn:7005071",
+        "tgn:1000050",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005077,
+    "tgn:name":"Tunja",
+    "tgn:placetype":[
+        "aat:300387277",
+        "aat:300008347",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387220",
+        "aat:300008375",
+        "aat:300387285"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.3833,5.55],"type":"Point"}
+}

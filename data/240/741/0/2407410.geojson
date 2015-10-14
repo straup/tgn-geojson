@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.400000,45.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2407410","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008798"],"id":2407410,"name:xx":"Huntley Butte"}}
+{
+  "id": 2407410,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407410",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407410,
+    "tgn:name":"Huntley Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.4,45.5833],"type":"Point"}
+}

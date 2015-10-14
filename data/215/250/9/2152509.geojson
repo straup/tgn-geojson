@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.650000,42.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2152509","tgn:1000001","tgn:1002359","tgn:7012149","tgn:7007517","tgn:7029392"],"placetype":["aat:300008347"],"id":2152509,"name:xx":"Bay View"}}
+{
+  "id": 2152509,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152509",
+        "tgn:1000001",
+        "tgn:1002359",
+        "tgn:7012149",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152509,
+    "tgn:name":"Bay View",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.65,42.6667],"type":"Point"}
+}

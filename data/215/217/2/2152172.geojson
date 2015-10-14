@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.216700,40.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2152172","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000188","tgn:7029392"],"placetype":["aat:300008761"],"id":2152172,"name:xx":"Baxters Gulch"}}
+{
+  "id": 2152172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152172",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000188",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152172,
+    "tgn:name":"Baxters Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.2167,40.7833],"type":"Point"}
+}

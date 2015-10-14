@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.000000,19.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7359734","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359734,"name:xx":"Coalatilla"}}
+{
+  "id": 7359734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359734",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359734,
+    "tgn:name":"Coalatilla",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.0,19.016667],"type":"Point"}
+}

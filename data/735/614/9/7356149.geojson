@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.650000,25.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7356149","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356149,"name:xx":"Cerro de los Guerreros"}}
+{
+  "id": 7356149,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356149",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356149,
+    "tgn:name":"Cerro de los Guerreros",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.65,25.366667],"type":"Point"}
+}

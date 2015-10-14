@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.066700,45.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2156474","tgn:1000001","tgn:7012149","tgn:2000481","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2156474,"name:xx":"Beartrack Creek"}}
+{
+  "id": 2156474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156474",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000481",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156474,
+    "tgn:name":"Beartrack Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.0667,45.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.400000,50.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7242155","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008347"],"id":7242155,"name:xx":"Le Logis"}}
+{
+  "id": 7242155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242155",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242155,
+    "tgn:name":"Le Logis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.4,50.8],"type":"Point"}
+}

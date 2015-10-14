@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.316700,35.466700]},"type":"Feature","properties":{"hierarchy":["tgn:2156638","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000160","tgn:7029392"],"placetype":["aat:300008347"],"id":2156638,"name:xx":"Beasley"}}
+{
+  "id": 2156638,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156638",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000160",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156638,
+    "tgn:name":"Beasley",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3167,35.4667],"type":"Point"}
+}

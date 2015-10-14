@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.250000,24.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7367278","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7367278,"name:xx":"El Rucio"}}
+{
+  "id": 7367278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367278",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367278,
+    "tgn:name":"El Rucio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.25,24.3],"type":"Point"}
+}

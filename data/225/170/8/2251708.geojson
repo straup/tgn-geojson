@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.316700,44.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2251708","tgn:1000001","tgn:7012149","tgn:1002593","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2251708,"name:xx":"Compo Creek"}}
+{
+  "id": 2251708,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251708",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002593",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251708,
+    "tgn:name":"Compo Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.3167,44.0],"type":"Point"}
+}

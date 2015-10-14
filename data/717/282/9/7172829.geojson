@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[6.366667,50.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7172829","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300386886"],"id":7172829,"name:xx":"Gro\u00dfe Hollerscheid"}}
+{
+  "id": 7172829,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172829",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172829,
+    "tgn:name":"Gro\u00dfe Hollerscheid",
+    "tgn:placetype":[
+        "aat:300386886"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.366667,50.533333],"type":"Point"}
+}

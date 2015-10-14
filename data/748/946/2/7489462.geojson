@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.276200,25.067291]},"type":"Feature","properties":{"hierarchy":["tgn:7489462","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489462,"name:xx":"Neicuo"}}
+{
+  "id": 7489462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489462",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489462,
+    "tgn:name":"Neicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.2762,25.067291],"type":"Point"}
+}

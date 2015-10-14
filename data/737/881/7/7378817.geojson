@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.750000,28.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7378817","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378817,"name:xx":"Rancho Manzanito"}}
+{
+  "id": 7378817,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378817",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378817,
+    "tgn:name":"Rancho Manzanito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.75,28.383333],"type":"Point"}
+}

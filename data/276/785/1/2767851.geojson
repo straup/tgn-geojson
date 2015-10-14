@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.100000,30.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2767851","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000048","tgn:7029392"],"placetype":["aat:300008699"],"id":2767851,"name:xx":"Whitehouse Bayou"}}
+{
+  "id": 2767851,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767851",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000048",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767851,
+    "tgn:name":"Whitehouse Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.1,30.4],"type":"Point"}
+}

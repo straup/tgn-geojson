@@ -1,0 +1,27 @@
+{
+  "id": 7264832,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f126b2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2752264",
+        "gp:id":730972,
+        "qs:id":6,
+        "wof:id":101754671
+    },
+    "tgn:hierarchy":[
+        "tgn:7264832",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7264832,
+    "tgn:name:nl":"Krimpen aan den IJssel",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.633333,51.9],"type":"Point"}
+}

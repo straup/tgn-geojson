@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.150000,59.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2766816","tgn:7006450","tgn:1000001","tgn:7012149","tgn:7019760","tgn:7029392"],"placetype":["aat:300008699"],"id":2766816,"name:xx":"White Pass Fork"}}
+{
+  "id": 2766816,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766816",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019760",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766816,
+    "tgn:name":"White Pass Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.15,59.5667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.866700,46.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7021111","tgn:1000001","tgn:2001016","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300006191"],"id":7021111,"name:xx":"Portage Lake"}}
+{
+  "id": 7021111,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021111",
+        "tgn:1000001",
+        "tgn:2001016",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021111,
+    "tgn:name":"Portage Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.8667,46.45],"type":"Point"}
+}

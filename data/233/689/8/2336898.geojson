@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.883300,43.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2336898","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008706"],"id":2336898,"name:xx":"Fourmile Creek"}}
+{
+  "id": 2336898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336898",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336898,
+    "tgn:name":"Fourmile Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.8833,43.5833],"type":"Point"}
+}

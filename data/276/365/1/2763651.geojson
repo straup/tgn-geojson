@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.183300,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2763651","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000186","tgn:7029392"],"placetype":["aat:300008697"],"id":2763651,"name:xx":"Whalen Spring"}}
+{
+  "id": 2763651,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763651",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000186",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763651,
+    "tgn:name":"Whalen Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1833,41.3333],"type":"Point"}
+}

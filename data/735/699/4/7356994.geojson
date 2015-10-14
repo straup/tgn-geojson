@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.733333,25.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7356994","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356994,"name:xx":"Campo Kil\u00f3metro Treintaiocho"}}
+{
+  "id": 7356994,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356994",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356994,
+    "tgn:name":"Campo Kil\u00f3metro Treintaiocho",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.733333,25.8],"type":"Point"}
+}

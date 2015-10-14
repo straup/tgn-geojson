@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.950000,56.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2331684","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000088","tgn:7029392"],"placetype":["aat:300008798"],"id":2331684,"name:xx":"Flemer, Mount"}}
+{
+  "id": 2331684,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2331684",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000088",
+        "tgn:7029392"
+    ],
+    "tgn:id":2331684,
+    "tgn:name":"Flemer, Mount",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.95,56.6167],"type":"Point"}
+}

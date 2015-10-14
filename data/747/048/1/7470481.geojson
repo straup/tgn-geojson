@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.520100,23.388600]},"type":"Feature","properties":{"hierarchy":["tgn:7470481","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470481,"name:xx":"Zhutouqi"}}
+{
+  "id": 7470481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470481",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470481,
+    "tgn:name":"Zhutouqi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5201,23.3886],"type":"Point"}
+}

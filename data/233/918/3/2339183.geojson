@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.116700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2339183","tgn:2002142","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2339183,"name:xx":"Franks Mill Cave Number 6"}}
+{
+  "id": 2339183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339183",
+        "tgn:2002142",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339183,
+    "tgn:name":"Franks Mill Cave Number 6",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.1167,38.1833],"type":"Point"}
+}

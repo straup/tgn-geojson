@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.916700,30.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2761767","tgn:1000001","tgn:7012149","tgn:2002019","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2761767,"name:xx":"West Prong Calf Creek"}}
+{
+  "id": 2761767,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761767",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002019",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761767,
+    "tgn:name":"West Prong Calf Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.9167,30.4333],"type":"Point"}
+}

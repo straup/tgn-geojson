@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.333333,45.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7055604","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300387036"],"id":7055604,"name:xx":"Orio, Banco d'"}}
+{
+  "id": 7055604,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055604",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055604,
+    "tgn:name":"Orio, Banco d'",
+    "tgn:placetype":[
+        "aat:300387036"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.333333,45.683333],"type":"Point"}
+}

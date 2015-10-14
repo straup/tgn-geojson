@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.416667,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7113059","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7113059,"name:xx":"Reutehof"}}
+{
+  "id": 7113059,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113059",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113059,
+    "tgn:name":"Reutehof",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.416667,47.6],"type":"Point"}
+}

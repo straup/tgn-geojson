@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.883300,42.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2259574","tgn:1000001","tgn:7012149","tgn:1002617","tgn:7007520","tgn:7029392"],"placetype":["aat:300008699"],"id":2259574,"name:xx":"Cottrell Drain"}}
+{
+  "id": 2259574,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259574",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002617",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259574,
+    "tgn:name":"Cottrell Drain",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.8833,42.55],"type":"Point"}
+}

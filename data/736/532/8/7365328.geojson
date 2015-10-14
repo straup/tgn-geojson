@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-113.366667,31.433333]},"type":"Feature","properties":{"hierarchy":["tgn:7365328","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7365328,"name:xx":"Rancho El Solito"}}
+{
+  "id": 7365328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7365328",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7365328,
+    "tgn:name":"Rancho El Solito",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.366667,31.433333],"type":"Point"}
+}

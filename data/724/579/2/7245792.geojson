@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.638978,50.988978]},"type":"Feature","properties":{"hierarchy":["tgn:7245792","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7245792,"name:xx":"Bommelhoek"}}
+{
+  "id": 7245792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245792",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245792,
+    "tgn:name":"Bommelhoek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.638978,50.988978],"type":"Point"}
+}

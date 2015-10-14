@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.450000,50.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7246573","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7246573,"name:xx":"Coupe des Douze Ap\u00f4tres"}}
+{
+  "id": 7246573,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246573",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246573,
+    "tgn:name":"Coupe des Douze Ap\u00f4tres",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.45,50.016667],"type":"Point"}
+}

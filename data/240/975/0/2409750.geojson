@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.683300,40.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2409750","tgn:1000001","tgn:7012149","tgn:2000232","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2409750,"name:xx":"Iles Grove"}}
+{
+  "id": 2409750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409750",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000232",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409750,
+    "tgn:name":"Iles Grove",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.6833,40.3333],"type":"Point"}
+}

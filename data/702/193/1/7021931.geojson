@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.550000,40.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7021931","tgn:1000001","tgn:7012149","tgn:2001218","tgn:7007523","tgn:7029392"],"placetype":["aat:300006191"],"id":7021931,"name:xx":"Hidden Valley Reservoir"}}
+{
+  "id": 7021931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021931",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001218",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021931,
+    "tgn:name":"Hidden Valley Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.55,40.4667],"type":"Point"}
+}

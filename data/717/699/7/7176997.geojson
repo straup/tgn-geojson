@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.166667,52.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7176997","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7176997,"name:xx":"Gutengermendorf"}}
+{
+  "id": 7176997,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176997",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176997,
+    "tgn:name":"Gutengermendorf",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.166667,52.933333],"type":"Point"}
+}

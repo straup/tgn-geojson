@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-156.166700,20.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2762478","tgn:1002648","tgn:1000001","tgn:7019158","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300008699"],"id":2762478,"name:xx":"West Wailuanui Stream"}}
+{
+  "id": 2762478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762478",
+        "tgn:1002648",
+        "tgn:1000001",
+        "tgn:7019158",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762478,
+    "tgn:name":"West Wailuanui Stream",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-156.1667,20.75],"type":"Point"}
+}

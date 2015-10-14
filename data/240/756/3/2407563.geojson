@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.900000,45.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2407563","tgn:1000001","tgn:7012149","tgn:2000476","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2407563,"name:xx":"Huntz Creek"}}
+{
+  "id": 2407563,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407563",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000476",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407563,
+    "tgn:name":"Huntz Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.9,45.4333],"type":"Point"}
+}

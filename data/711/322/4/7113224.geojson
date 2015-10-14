@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.876667,49.069722]},"type":"Feature","properties":{"hierarchy":["tgn:7113224","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7113224,"name:xx":"Riesenhof"}}
+{
+  "id": 7113224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7113224",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7113224,
+    "tgn:name":"Riesenhof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.876667,49.069722],"type":"Point"}
+}

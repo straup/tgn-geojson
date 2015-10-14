@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.050000,40.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2251500","tgn:1000001","tgn:7012149","tgn:2002122","tgn:7007827","tgn:7029392"],"placetype":["aat:300008699"],"id":2251500,"name:xx":"Commissary Fork"}}
+{
+  "id": 2251500,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251500",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002122",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251500,
+    "tgn:name":"Commissary Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.05,40.7667],"type":"Point"}
+}

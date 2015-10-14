@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.886111,24.936389]},"type":"Feature","properties":{"hierarchy":["tgn:7470359","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470359,"name:xx":"Hexing"}}
+{
+  "id": 7470359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470359",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470359,
+    "tgn:name":"Hexing",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.886111,24.936389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.133300,34.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2403842","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300006191"],"id":2403842,"name:xx":"Howards Tank"}}
+{
+  "id": 2403842,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403842",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403842,
+    "tgn:name":"Howards Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1333,34.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-84.666700,30.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023749","tgn:1000001","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300008905"],"id":7023749,"name:xx":"Thousand Yard Bay"}}
+{
+  "id": 7023749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023749",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023749,
+    "tgn:name":"Thousand Yard Bay",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6667,30.0333],"type":"Point"}
+}

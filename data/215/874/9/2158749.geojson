@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-96.666700,33.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2158749","tgn:1000001","tgn:7012149","tgn:1002290","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2158749,"name:xx":"Beck Branch"}}
+{
+  "id": 2158749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158749",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002290",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158749,
+    "tgn:name":"Beck Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.6667,33.0],"type":"Point"}
+}

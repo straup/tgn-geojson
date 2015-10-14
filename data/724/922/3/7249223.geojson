@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.883333,50.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7249223","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7249223,"name:xx":"Oude Hoeve"}}
+{
+  "id": 7249223,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249223",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249223,
+    "tgn:name":"Oude Hoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.883333,50.983333],"type":"Point"}
+}

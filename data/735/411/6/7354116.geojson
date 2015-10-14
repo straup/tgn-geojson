@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-89.916667,21.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7354116","tgn:1000001","tgn:7005600","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354116,"name:xx":"Chomul Ho"}}
+{
+  "id": 7354116,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354116",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354116,
+    "tgn:name":"Chomul Ho",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.916667,21.066667],"type":"Point"}
+}

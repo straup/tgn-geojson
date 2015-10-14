@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.266667,52.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7027678","tgn:7002445","tgn:1000003","tgn:7008155","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Stoney Stanton","id":7027678}}
+{
+  "id": 7027678,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027678",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008155",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027678,
+    "tgn:name:en":"Stoney Stanton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.266667,52.533333],"type":"Point"}
+}

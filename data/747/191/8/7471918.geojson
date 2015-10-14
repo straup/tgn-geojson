@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.484310,23.807400]},"type":"Feature","properties":{"hierarchy":["tgn:7471918","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7471918,"name:xx":"Zhongsha Daqiao"}}
+{
+  "id": 7471918,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471918",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471918,
+    "tgn:name":"Zhongsha Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.48431,23.8074],"type":"Point"}
+}

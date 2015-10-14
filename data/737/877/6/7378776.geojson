@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.214167,26.605000]},"type":"Feature","properties":{"hierarchy":["tgn:7378776","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7378776,"name:xx":"Los Cedros, Sierra"}}
+{
+  "id": 7378776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378776",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378776,
+    "tgn:name":"Los Cedros, Sierra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.214167,26.605],"type":"Point"}
+}

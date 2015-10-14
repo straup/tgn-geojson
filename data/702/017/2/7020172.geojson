@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.566700,41.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7020172","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680","aat:300008347"],"id":7020172,"name:xx":"Peach Lake"}}
+{
+  "id": 7020172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020172",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020172,
+    "tgn:name":"Peach Lake",
+    "tgn:placetype":[
+        "aat:300008680",
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.5667,41.35],"type":"Point"}
+}

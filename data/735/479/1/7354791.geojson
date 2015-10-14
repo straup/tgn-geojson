@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.683333,30.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7354791","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354791,"name:xx":"Churunibabi"}}
+{
+  "id": 7354791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354791",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354791,
+    "tgn:name":"Churunibabi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.683333,30.416667],"type":"Point"}
+}

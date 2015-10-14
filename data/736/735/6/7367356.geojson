@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.850000,25.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7367356","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7367356,"name:xx":"El T\u00fanel, Aquada"}}
+{
+  "id": 7367356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367356",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367356,
+    "tgn:name":"El T\u00fanel, Aquada",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.85,25.316667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.850000,28.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7371654","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7371654,"name:xx":"La Bufa, Cerros"}}
+{
+  "id": 7371654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371654",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371654,
+    "tgn:name":"La Bufa, Cerros",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.85,28.233333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.150000,33.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2330184","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300008347"],"id":2330184,"name:xx":"Flamingo Mobile Home Resort"}}
+{
+  "id": 2330184,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330184",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330184,
+    "tgn:name":"Flamingo Mobile Home Resort",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.15,33.5167],"type":"Point"}
+}

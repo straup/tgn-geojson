@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.866700,33.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2150025","tgn:1000001","tgn:2000308","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008699"],"id":2150025,"name:xx":"Barton Branch"}}
+{
+  "id": 2150025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150025",
+        "tgn:1000001",
+        "tgn:2000308",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150025,
+    "tgn:name":"Barton Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8667,33.1],"type":"Point"}
+}

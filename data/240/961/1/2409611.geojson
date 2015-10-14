@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-159.266700,59.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2409611","tgn:7006450","tgn:1000001","tgn:2000071","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2409611,"name:xx":"Igushik River"}}
+{
+  "id": 2409611,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409611",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2000071",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409611,
+    "tgn:name":"Igushik River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-159.2667,59.0333],"type":"Point"}
+}

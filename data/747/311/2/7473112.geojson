@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.528216,24.905754]},"type":"Feature","properties":{"hierarchy":["tgn:7473112","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7473112,"name:xx":"Erliao"}}
+{
+  "id": 7473112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473112",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473112,
+    "tgn:name":"Erliao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.528216,24.905754],"type":"Point"}
+}

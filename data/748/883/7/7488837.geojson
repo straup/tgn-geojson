@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.115600,22.786200]},"type":"Feature","properties":{"hierarchy":["tgn:7488837","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488837,"name:xx":"Nanwang"}}
+{
+  "id": 7488837,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488837",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488837,
+    "tgn:name":"Nanwang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.1156,22.7862],"type":"Point"}
+}

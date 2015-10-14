@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-114.266700,38.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2764168","tgn:1000001","tgn:7012149","tgn:2001420","tgn:7023810","tgn:7007526","tgn:7029392"],"placetype":["aat:300055621"],"id":2764168,"name:xx":"Wheeler Peak Scenic Area"}}
+{
+  "id": 2764168,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764168",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001420",
+        "tgn:7023810",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764168,
+    "tgn:name":"Wheeler Peak Scenic Area",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.2667,38.9333],"type":"Point"}
+}

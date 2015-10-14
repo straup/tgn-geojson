@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.416111,23.193333]},"type":"Feature","properties":{"hierarchy":["tgn:7481253","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300007741"],"id":7481253,"name:xx":"Nanhuwen"}}
+{
+  "id": 7481253,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481253",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481253,
+    "tgn:name":"Nanhuwen",
+    "tgn:placetype":[
+        "aat:300007741"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.416111,23.193333],"type":"Point"}
+}

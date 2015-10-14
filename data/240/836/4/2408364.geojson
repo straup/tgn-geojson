@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.683300,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2408364","tgn:1000001","tgn:2002316","tgn:7012149","tgn:7007922","tgn:7029392"],"placetype":["aat:300266640"],"id":2408364,"name:xx":"Hustler Ridge"}}
+{
+  "id": 2408364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408364",
+        "tgn:1000001",
+        "tgn:2002316",
+        "tgn:7012149",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408364,
+    "tgn:name":"Hustler Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.6833,43.4],"type":"Point"}
+}

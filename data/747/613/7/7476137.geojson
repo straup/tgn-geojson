@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.856466,23.822622]},"type":"Feature","properties":{"hierarchy":["tgn:7476137","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7476137,"name:xx":"Shoushan Qiao"}}
+{
+  "id": 7476137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476137",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476137,
+    "tgn:name":"Shoushan Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.856466,23.822622],"type":"Point"}
+}

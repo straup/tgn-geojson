@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.750000,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7243053","tgn:7018238","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7243053,"name:xx":"Les Deux Chises"}}
+{
+  "id": 7243053,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243053",
+        "tgn:7018238",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243053,
+    "tgn:name":"Les Deux Chises",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.75,50.733333],"type":"Point"}
+}

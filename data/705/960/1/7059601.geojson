@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.233333,53.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7059601","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7059601,"name:xx":"Ahlhorn, Staatsforst"}}
+{
+  "id": 7059601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059601",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059601,
+    "tgn:name":"Ahlhorn, Staatsforst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.233333,53.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.650000,40.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2769591","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300055621"],"id":2769591,"name:xx":"Widow Wilson Field"}}
+{
+  "id": 2769591,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769591",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769591,
+    "tgn:name":"Widow Wilson Field",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.65,40.2333],"type":"Point"}
+}

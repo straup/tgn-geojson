@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.800000,36.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2153908","tgn:1000001","tgn:7012149","tgn:2001251","tgn:7007523","tgn:7029392"],"placetype":["aat:300008746"],"id":2153908,"name:xx":"Bear Cave"}}
+{
+  "id": 2153908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153908",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001251",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153908,
+    "tgn:name":"Bear Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.8,36.55],"type":"Point"}
+}

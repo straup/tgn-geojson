@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.183300,39.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2259600","tgn:1000001","tgn:7012149","tgn:2001214","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2259600,"name:xx":"Couch Branch"}}
+{
+  "id": 2259600,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259600",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001214",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259600,
+    "tgn:name":"Couch Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.1833,39.8833],"type":"Point"}
+}

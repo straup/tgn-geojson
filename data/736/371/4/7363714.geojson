@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.600000,30.683333]},"type":"Feature","properties":{"hierarchy":["tgn:7363714","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387087"],"id":7363714,"name:xx":"El Gavil\u00e1n, Laguna"}}
+{
+  "id": 7363714,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363714",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363714,
+    "tgn:name":"El Gavil\u00e1n, Laguna",
+    "tgn:placetype":[
+        "aat:300387087"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6,30.683333],"type":"Point"}
+}

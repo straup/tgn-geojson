@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.716700,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2159389","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2159389,"name:xx":"Bee Creek"}}
+{
+  "id": 2159389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159389",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159389,
+    "tgn:name":"Bee Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.7167,41.2833],"type":"Point"}
+}

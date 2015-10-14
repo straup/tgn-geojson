@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.783300,41.966700]},"type":"Feature","properties":{"hierarchy":["tgn:2258366","tgn:1000001","tgn:7012149","tgn:1002800","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2258366,"name:xx":"Cotton Brook"}}
+{
+  "id": 2258366,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258366",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002800",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258366,
+    "tgn:name":"Cotton Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7833,41.9667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.150000,25.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7358274","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358274,"name:xx":"Danubio"}}
+{
+  "id": 7358274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358274",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358274,
+    "tgn:name":"Danubio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.15,25.466667],"type":"Point"}
+}

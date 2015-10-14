@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.548056,23.085278]},"type":"Feature","properties":{"hierarchy":["tgn:7484955","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484955,"name:xx":"Toukeng"}}
+{
+  "id": 7484955,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484955",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484955,
+    "tgn:name":"Toukeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.548056,23.085278],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.566667,53.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7118505","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7118505,"name:xx":"Hof Petersberg"}}
+{
+  "id": 7118505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7118505",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7118505,
+    "tgn:name":"Hof Petersberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.566667,53.6],"type":"Point"}
+}

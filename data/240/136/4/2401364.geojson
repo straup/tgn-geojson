@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.650000,39.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2401364","tgn:1002538","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008699"],"id":2401364,"name:xx":"Horsepen Ditch"}}
+{
+  "id": 2401364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401364",
+        "tgn:1002538",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401364,
+    "tgn:name":"Horsepen Ditch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.65,39.0],"type":"Point"}
+}

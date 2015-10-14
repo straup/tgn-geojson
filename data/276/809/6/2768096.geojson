@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-90.800000,38.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2768096","tgn:1000001","tgn:7012149","tgn:1002598","tgn:7007523","tgn:7029392"],"placetype":["aat:300387099","aat:300132348"],"id":2768096,"name:xx":"Whites Bar"}}
+{
+  "id": 2768096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768096",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002598",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768096,
+    "tgn:name":"Whites Bar",
+    "tgn:placetype":[
+        "aat:300387099",
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.8,38.9],"type":"Point"}
+}

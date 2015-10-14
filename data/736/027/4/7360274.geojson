@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.783333,21.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7360274","tgn:1000001","tgn:7005593","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360274,"name:xx":"Durazno el Grande"}}
+{
+  "id": 7360274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360274",
+        "tgn:1000001",
+        "tgn:7005593",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360274,
+    "tgn:name":"Durazno el Grande",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.783333,21.3],"type":"Point"}
+}

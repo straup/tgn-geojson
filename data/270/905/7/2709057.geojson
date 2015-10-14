@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.883300,29.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2709057","tgn:1000001","tgn:7012149","tgn:2002060","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2709057,"name:xx":"T-O Draw"}}
+{
+  "id": 2709057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2709057",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002060",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2709057,
+    "tgn:name":"T-O Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.8833,29.75],"type":"Point"}
+}

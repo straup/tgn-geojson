@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.916700,34.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2156141","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2156141,"name:xx":"Beard Tank"}}
+{
+  "id": 2156141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156141",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156141,
+    "tgn:name":"Beard Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.9167,34.0333],"type":"Point"}
+}

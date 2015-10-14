@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[6.900000,44.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7057890","tgn:7003154","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057890,"name:xx":"Brus\u00e0 des Planes"}}
+{
+  "id": 7057890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057890",
+        "tgn:7003154",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057890,
+    "tgn:name":"Brus\u00e0 des Planes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[6.9,44.9],"type":"Point"}
+}

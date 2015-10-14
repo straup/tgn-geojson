@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.316700,36.266700]},"type":"Feature","properties":{"hierarchy":["tgn:2401042","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008761"],"id":2401042,"name:xx":"Horse Trail Valley"}}
+{
+  "id": 2401042,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401042",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401042,
+    "tgn:name":"Horse Trail Valley",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3167,36.2667],"type":"Point"}
+}

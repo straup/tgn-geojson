@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.866700,40.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2330104","tgn:1000001","tgn:7012149","tgn:2002118","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2330104,"name:xx":"Flagstaff Farming"}}
+{
+  "id": 2330104,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330104",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002118",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330104,
+    "tgn:name":"Flagstaff Farming",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.8667,40.5833],"type":"Point"}
+}

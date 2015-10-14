@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.183300,33.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2705011","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000097","tgn:7029392"],"placetype":["aat:300008347"],"id":2705011,"name:xx":"Sunset Vista"}}
+{
+  "id": 2705011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705011",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000097",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705011,
+    "tgn:name":"Sunset Vista",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1833,33.6333],"type":"Point"}
+}

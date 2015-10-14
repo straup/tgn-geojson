@@ -1,0 +1,19 @@
+{
+  "id": 1000163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000163",
+        "tgn:1000007",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000163,
+    "tgn:name:en":"French Southern and Antarctic Territories",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387120"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[69.5,-49.5],"type":"Point"}
+}

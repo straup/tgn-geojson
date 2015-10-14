@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.850000,53.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7119171","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7119171,"name:xx":"Perleberger Stadtforst"}}
+{
+  "id": 7119171,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119171",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119171,
+    "tgn:name":"Perleberger Stadtforst",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.85,53.033333],"type":"Point"}
+}

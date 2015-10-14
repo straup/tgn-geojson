@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.216700,47.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7020749","tgn:1000001","tgn:7012149","tgn:2001309","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":7020749,"name:xx":"Silverman Springs Coulee"}}
+{
+  "id": 7020749,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020749",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001309",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020749,
+    "tgn:name":"Silverman Springs Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2167,47.7],"type":"Point"}
+}

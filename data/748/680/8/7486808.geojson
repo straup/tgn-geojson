@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.401111,23.399444]},"type":"Feature","properties":{"hierarchy":["tgn:7486808","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486808,"name:xx":"Liantan"}}
+{
+  "id": 7486808,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486808",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486808,
+    "tgn:name":"Liantan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.401111,23.399444],"type":"Point"}
+}

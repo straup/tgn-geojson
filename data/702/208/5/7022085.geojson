@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.000000,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7022085","tgn:1000001","tgn:7012149","tgn:1002730","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022085,"name:xx":"Dixons Pond"}}
+{
+  "id": 7022085,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022085",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002730",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022085,
+    "tgn:name":"Dixons Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.0,37.2],"type":"Point"}
+}

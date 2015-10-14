@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.486945,23.758293]},"type":"Feature","properties":{"hierarchy":["tgn:7472649","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7472649,"name:xx":"Yuren Guoxiao"}}
+{
+  "id": 7472649,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472649",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472649,
+    "tgn:name":"Yuren Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.486945,23.758293],"type":"Point"}
+}

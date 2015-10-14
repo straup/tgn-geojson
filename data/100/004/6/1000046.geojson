@@ -1,0 +1,28 @@
+{
+  "id": 1000046,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000046",
+        "tgn:1000002",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000046,
+    "tgn:name:ar":"\u0628\u0648 \u0641\u064b\u064e\u0627\u0650",
+    "tgn:name:de":"Bolivien",
+    "tgn:name:en":"Bolivia",
+    "tgn:name:es":"Bolivia",
+    "tgn:name:fr":"Bolivie",
+    "tgn:name:pt":"Bol\u00edvia",
+    "tgn:name:ru":"\u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+    "tgn:name:zh":"\u73bb\u5229\u7ef4\u4e9a",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300179493",
+        "aat:300128207",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-65.0,-17.0],"type":"Point"}
+}

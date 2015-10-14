@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.859722,23.253611]},"type":"Feature","properties":{"hierarchy":["tgn:7482340","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482340,"name:xx":"Weijinqiao"}}
+{
+  "id": 7482340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482340",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482340,
+    "tgn:name":"Weijinqiao",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.859722,23.253611],"type":"Point"}
+}

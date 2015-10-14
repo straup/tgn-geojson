@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.650000,47.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7111481","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7111481,"name:xx":"Rickatshofen"}}
+{
+  "id": 7111481,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111481",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111481,
+    "tgn:name":"Rickatshofen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.65,47.583333],"type":"Point"}
+}

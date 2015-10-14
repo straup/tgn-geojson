@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.833300,44.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2150680","tgn:1000001","tgn:2000459","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008697"],"id":2150680,"name:xx":"Basque Spring"}}
+{
+  "id": 2150680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150680",
+        "tgn:1000001",
+        "tgn:2000459",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150680,
+    "tgn:name":"Basque Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8333,44.1],"type":"Point"}
+}

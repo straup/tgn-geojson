@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.985556,51.481389]},"type":"Feature","properties":{"hierarchy":["tgn:7176895","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300387198"],"id":7176895,"name:xx":"Kreisfreie Stadt Halle"}}
+{
+  "id": 7176895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7176895",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7176895,
+    "tgn:name":"Kreisfreie Stadt Halle",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.985556,51.481389],"type":"Point"}
+}

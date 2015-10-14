@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.538275,24.942439]},"type":"Feature","properties":{"hierarchy":["tgn:7472868","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7472868,"name:xx":"Haihui Si"}}
+{
+  "id": 7472868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472868",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472868,
+    "tgn:name":"Haihui Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.538275,24.942439],"type":"Point"}
+}

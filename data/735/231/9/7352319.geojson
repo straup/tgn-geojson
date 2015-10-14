@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.500000,15.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7352319","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352319,"name:xx":"Brujo, Cerro"}}
+{
+  "id": 7352319,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352319",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352319,
+    "tgn:name":"Brujo, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5,15.916667],"type":"Point"}
+}

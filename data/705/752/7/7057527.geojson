@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.800000,40.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7057527","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7057527,"name:xx":"Cacchile, Monte"}}
+{
+  "id": 7057527,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057527",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057527,
+    "tgn:name":"Cacchile, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.8,40.733333],"type":"Point"}
+}

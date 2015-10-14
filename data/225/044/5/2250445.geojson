@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.133300,48.650000]},"type":"Feature","properties":{"hierarchy":["tgn:2250445","tgn:1000001","tgn:7012149","tgn:1003020","tgn:7007920","tgn:7029392"],"placetype":["aat:300008835"],"id":2250445,"name:xx":"Colonial Glacier"}}
+{
+  "id": 2250445,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250445",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003020",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250445,
+    "tgn:name":"Colonial Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.1333,48.65],"type":"Point"}
+}

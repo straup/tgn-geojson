@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.883300,45.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2159003","tgn:1000001","tgn:7012149","tgn:2001307","tgn:7007524","tgn:7029392"],"placetype":["aat:300008680"],"id":2159003,"name:xx":"Beckwourth Lake"}}
+{
+  "id": 2159003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159003",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001307",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159003,
+    "tgn:name":"Beckwourth Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.8833,45.2],"type":"Point"}
+}

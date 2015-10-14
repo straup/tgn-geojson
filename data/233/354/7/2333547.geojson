@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.950000,43.616700]},"type":"Feature","properties":{"hierarchy":["tgn:2333547","tgn:1000001","tgn:7012149","tgn:2000933","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2333547,"name:xx":"Folsom Pond"}}
+{
+  "id": 2333547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333547",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000933",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333547,
+    "tgn:name":"Folsom Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.95,43.6167],"type":"Point"}
+}

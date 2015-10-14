@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.466667,45.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7052219","tgn:1003459","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300055621"],"id":7052219,"name:xx":"Bonifica Isola Morosini"}}
+{
+  "id": 7052219,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052219",
+        "tgn:1003459",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052219,
+    "tgn:name":"Bonifica Isola Morosini",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.466667,45.75],"type":"Point"}
+}

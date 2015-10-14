@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.650000,47.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2407080","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300132451"],"id":2407080,"name:xx":"Hunter Woods"}}
+{
+  "id": 2407080,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407080",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407080,
+    "tgn:name":"Hunter Woods",
+    "tgn:placetype":[
+        "aat:300132451"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.65,47.0833],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[1.542000,52.601000]},"type":"Feature","properties":{"hierarchy":["tgn:7028530","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028530,"name:xx":"Moulton Saint Mary"}}
+{
+  "id": 7028530,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028530",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028530,
+    "tgn:name":"Moulton Saint Mary",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.542,52.601],"type":"Point"}
+}

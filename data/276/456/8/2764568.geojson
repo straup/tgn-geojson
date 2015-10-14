@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.000000,36.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2764568","tgn:1000001","tgn:7012149","tgn:2000815","tgn:7007255","tgn:7029392"],"placetype":["aat:300008347"],"id":2764568,"name:xx":"Whippoorwill"}}
+{
+  "id": 2764568,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764568",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000815",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764568,
+    "tgn:name":"Whippoorwill",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.0,36.8167],"type":"Point"}
+}

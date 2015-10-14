@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.466667,48.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7110962","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7110962,"name:xx":"Reichenbach"}}
+{
+  "id": 7110962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110962",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110962,
+    "tgn:name":"Reichenbach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.466667,48.7],"type":"Point"}
+}

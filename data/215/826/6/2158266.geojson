@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-80.800000,39.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2158266","tgn:1000001","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2158266,"name:xx":"Beaver Run"}}
+{
+  "id": 2158266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158266",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158266,
+    "tgn:name":"Beaver Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8,39.7333],"type":"Point"}
+}

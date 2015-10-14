@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.488333,48.443333]},"type":"Feature","properties":{"hierarchy":["tgn:7115215","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300007783"],"id":7115215,"name:xx":"Bahnhof Paindorf"}}
+{
+  "id": 7115215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115215",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115215,
+    "tgn:name":"Bahnhof Paindorf",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.488333,48.443333],"type":"Point"}
+}

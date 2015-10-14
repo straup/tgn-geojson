@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.500000,37.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2401331","tgn:1000001","tgn:7012149","tgn:2002192","tgn:7007919","tgn:7029392"],"placetype":["aat:300008347"],"id":2401331,"name:xx":"Horsepen Cove"}}
+{
+  "id": 2401331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401331",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002192",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401331,
+    "tgn:name":"Horsepen Cove",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5,37.2],"type":"Point"}
+}

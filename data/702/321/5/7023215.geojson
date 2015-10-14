@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.733300,47.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7023215","tgn:1000001","tgn:7012149","tgn:1002785","tgn:7007920","tgn:7029392"],"placetype":["aat:300008347"],"id":7023215,"name:xx":"Lake Bay"}}
+{
+  "id": 7023215,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023215",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002785",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023215,
+    "tgn:name":"Lake Bay",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.7333,47.25],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.050000,50.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7243646","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7243646,"name:xx":"Hurtebise"}}
+{
+  "id": 7243646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243646",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243646,
+    "tgn:name":"Hurtebise",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.05,50.583333],"type":"Point"}
+}

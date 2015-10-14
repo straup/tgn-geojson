@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.983300,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2153259","tgn:1000001","tgn:7012149","tgn:2001761","tgn:7007712","tgn:7029392"],"placetype":["aat:300008699"],"id":2153259,"name:xx":"Beaman Branch"}}
+{
+  "id": 2153259,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153259",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001761",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153259,
+    "tgn:name":"Beaman Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.9833,34.8],"type":"Point"}
+}

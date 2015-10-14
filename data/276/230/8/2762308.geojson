@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-102.400000,44.583300]},"type":"Feature","properties":{"hierarchy":["tgn:2762308","tgn:1000001","tgn:2001816","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300008706"],"id":2762308,"name:xx":"West Tepee Creek"}}
+{
+  "id": 2762308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762308",
+        "tgn:1000001",
+        "tgn:2001816",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762308,
+    "tgn:name":"West Tepee Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.4,44.5833],"type":"Point"}
+}

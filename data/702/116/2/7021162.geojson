@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-86.383300,34.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7021162","tgn:7002659","tgn:1000001","tgn:2000004","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7021162,"name:xx":"Hoods Creek"}}
+{
+  "id": 7021162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021162",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000004",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021162,
+    "tgn:name":"Hoods Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.3833,34.0],"type":"Point"}
+}

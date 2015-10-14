@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.000000,46.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2337147","tgn:1000001","tgn:7012149","tgn:2001276","tgn:7007524","tgn:7029392"],"placetype":["aat:300006191"],"id":2337147,"name:xx":"Fourteen Reservoir"}}
+{
+  "id": 2337147,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337147",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001276",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337147,
+    "tgn:name":"Fourteen Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.0,46.8833],"type":"Point"}
+}

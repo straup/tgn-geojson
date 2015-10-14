@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.617161,23.781459]},"type":"Feature","properties":{"hierarchy":["tgn:7478789","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300386996"],"id":7478789,"name:xx":"Shuilihui Linnei Guanlichu"}}
+{
+  "id": 7478789,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478789",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478789,
+    "tgn:name":"Shuilihui Linnei Guanlichu",
+    "tgn:placetype":[
+        "aat:300386996"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.617161,23.781459],"type":"Point"}
+}

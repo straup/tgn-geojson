@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.000000,41.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2330674","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008791"],"id":2330674,"name:xx":"Flat Hammock"}}
+{
+  "id": 2330674,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2330674",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2330674,
+    "tgn:name":"Flat Hammock",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.0,41.2833],"type":"Point"}
+}

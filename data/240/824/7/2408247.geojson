@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-85.433300,32.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2408247","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2408247,"name:xx":"Hurtsboro Creek"}}
+{
+  "id": 2408247,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408247",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408247,
+    "tgn:name":"Hurtsboro Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.4333,32.2833],"type":"Point"}
+}

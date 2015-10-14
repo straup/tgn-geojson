@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.416667,27.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7362083","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362083,"name:xx":"Rancho El Palmar"}}
+{
+  "id": 7362083,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362083",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362083,
+    "tgn:name":"Rancho El Palmar",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.416667,27.416667],"type":"Point"}
+}

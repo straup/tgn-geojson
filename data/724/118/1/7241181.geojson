@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.418020,50.991434]},"type":"Feature","properties":{"hierarchy":["tgn:7241181","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7241181,"name:xx":"Laar"}}
+{
+  "id": 7241181,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241181",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241181,
+    "tgn:name":"Laar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.41802,50.991434],"type":"Point"}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7006807,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f169f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2750523",
+        "gp:id":731839,
+        "qs:id":5,
+        "wof:id":101837719
+    },
+    "tgn:hierarchy":[
+        "tgn:7006807",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006807,
+    "tgn:name:nl":"Naaldwijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.2,52.0],"type":"Point"}
+}

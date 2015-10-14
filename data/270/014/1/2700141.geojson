@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-76.133300,36.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2700141","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2700141,"name:xx":"Stumpy Lake"}}
+{
+  "id": 2700141,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2700141",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2700141,
+    "tgn:name":"Stumpy Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.1333,36.75],"type":"Point"}
+}

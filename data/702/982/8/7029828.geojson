@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.542000,53.851000]},"type":"Feature","properties":{"hierarchy":["tgn:7029828","tgn:7019038","tgn:7002445","tgn:1000003","tgn:7029507","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7029828,"name:xx":"Alwoodley"}}
+{
+  "id": 7029828,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029828",
+        "tgn:7019038",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029507",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029828,
+    "tgn:name":"Alwoodley",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.542,53.851],"type":"Point"}
+}

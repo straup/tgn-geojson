@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.133300,32.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2255060","tgn:1000001","tgn:7012149","tgn:2001951","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2255060,"name:xx":"Cooper Creek"}}
+{
+  "id": 2255060,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255060",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001951",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255060,
+    "tgn:name":"Cooper Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.1333,32.3],"type":"Point"}
+}

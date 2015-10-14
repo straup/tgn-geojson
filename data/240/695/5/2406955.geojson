@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.983300,41.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2406955","tgn:1000001","tgn:7012149","tgn:1002800","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2406955,"name:xx":"Hunter Hollow"}}
+{
+  "id": 2406955,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406955",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002800",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406955,
+    "tgn:name":"Hunter Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9833,41.55],"type":"Point"}
+}

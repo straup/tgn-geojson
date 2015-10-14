@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.866667,23.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7351890","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351890,"name:xx":"Borrado, Cerro"}}
+{
+  "id": 7351890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351890",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351890,
+    "tgn:name":"Borrado, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.866667,23.733333],"type":"Point"}
+}

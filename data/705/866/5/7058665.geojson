@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.150000,45.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7058665","tgn:1003430","tgn:1000003","tgn:7003126","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7058665,"name:xx":"Alpe Pilocca"}}
+{
+  "id": 7058665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058665",
+        "tgn:1003430",
+        "tgn:1000003",
+        "tgn:7003126",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058665,
+    "tgn:name":"Alpe Pilocca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.15,45.466667],"type":"Point"}
+}

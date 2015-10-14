@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.916667,54.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7170261","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7170261,"name:xx":"Hestemaas"}}
+{
+  "id": 7170261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170261",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170261,
+    "tgn:name":"Hestemaas",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.916667,54.6],"type":"Point"}
+}

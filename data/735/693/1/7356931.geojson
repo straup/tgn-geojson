@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.700000,20.981944]},"type":"Feature","properties":{"hierarchy":["tgn:7356931","tgn:7005587","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356931,"name:es":"Chipoco"}}
+{
+  "id": 7356931,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356931",
+        "tgn:7005587",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356931,
+    "tgn:name:es":"Chipoco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.7,20.981944],"type":"Point"}
+}

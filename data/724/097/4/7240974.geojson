@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.900000,50.933333]},"type":"Feature","properties":{"hierarchy":["tgn:7240974","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7240974,"name:xx":"Goedhuishoeve"}}
+{
+  "id": 7240974,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240974",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240974,
+    "tgn:name":"Goedhuishoeve",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.9,50.933333],"type":"Point"}
+}

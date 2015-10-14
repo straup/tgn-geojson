@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.700000,17.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7350401","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350401,"name:xx":"Bulojil, R\u00edo"}}
+{
+  "id": 7350401,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350401",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350401,
+    "tgn:name":"Bulojil, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.7,17.45],"type":"Point"}
+}

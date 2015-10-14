@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.421658,25.066948]},"type":"Feature","properties":{"hierarchy":["tgn:7480922","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006610"],"id":7480922,"name:xx":"Liming Gongzhuan"}}
+{
+  "id": 7480922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480922",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480922,
+    "tgn:name":"Liming Gongzhuan",
+    "tgn:placetype":[
+        "aat:300006610"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.421658,25.066948],"type":"Point"}
+}

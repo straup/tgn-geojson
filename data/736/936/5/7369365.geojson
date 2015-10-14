@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.483333,23.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7369365","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369365,"name:xx":"Guadalupe de las Corrientes"}}
+{
+  "id": 7369365,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369365",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369365,
+    "tgn:name":"Guadalupe de las Corrientes",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.483333,23.7],"type":"Point"}
+}

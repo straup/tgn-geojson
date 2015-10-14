@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.583333,50.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7245898","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7245898,"name:xx":"Dereux, Bois"}}
+{
+  "id": 7245898,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245898",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245898,
+    "tgn:name":"Dereux, Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.583333,50.233333],"type":"Point"}
+}

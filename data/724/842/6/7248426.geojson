@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.024306,50.847890]},"type":"Feature","properties":{"hierarchy":["tgn:7248426","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248426,"name:xx":"Beselare"}}
+{
+  "id": 7248426,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248426",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248426,
+    "tgn:name":"Beselare",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.024306,50.84789],"type":"Point"}
+}

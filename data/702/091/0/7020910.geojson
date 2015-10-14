@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-98.883300,46.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7020910","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7020910,"name:xx":"Maple River"}}
+{
+  "id": 7020910,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020910",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020910,
+    "tgn:name":"Maple River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.8833,46.35],"type":"Point"}
+}

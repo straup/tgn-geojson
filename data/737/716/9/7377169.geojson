@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.100000,31.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7377169","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7377169,"name:xx":"Las Arcinas, Arroyo"}}
+{
+  "id": 7377169,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377169",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377169,
+    "tgn:name":"Las Arcinas, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.1,31.466667],"type":"Point"}
+}

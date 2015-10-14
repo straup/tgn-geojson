@@ -1,0 +1,28 @@
+{
+  "id": 7000493,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000493",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000493,
+    "tgn:name:ar":"\u0641 \u062c\u0650\u064a",
+    "tgn:name:en":"Fiji",
+    "tgn:name:es":"Fiji",
+    "tgn:name:fj":"Viti",
+    "tgn:name:fr":"Fidji",
+    "tgn:name:ru":"\u0424\u0438\u0434\u0436\u0438",
+    "tgn:name:zh":"\u6590\u6d4e",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387062",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[178.0,-18.0],"type":"Point"}
+}

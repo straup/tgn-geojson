@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.750000,48.816667]},"type":"Feature","properties":{"hierarchy":["tgn:7173296","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7173296,"name:xx":"Gro\u00dfdeinbach"}}
+{
+  "id": 7173296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173296",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173296,
+    "tgn:name":"Gro\u00dfdeinbach",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.75,48.816667],"type":"Point"}
+}

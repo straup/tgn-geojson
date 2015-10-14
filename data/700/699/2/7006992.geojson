@@ -1,0 +1,27 @@
+{
+  "id": 7006992,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f0dfb8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2754669",
+        "gp:id":729822,
+        "qs:id":2,
+        "wof:id":101837957
+    },
+    "tgn:hierarchy":[
+        "tgn:7006992",
+        "tgn:7003616",
+        "tgn:1000003",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006992,
+    "tgn:name:nl":"Heerenveen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.933333,52.95],"type":"Point"}
+}

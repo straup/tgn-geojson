@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.216700,34.683300]},"type":"Feature","properties":{"hierarchy":["tgn:2337993","tgn:2001090","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300006191"],"id":2337993,"name:xx":"Fox Hunters Lake"}}
+{
+  "id": 2337993,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337993",
+        "tgn:2001090",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337993,
+    "tgn:name":"Fox Hunters Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.2167,34.6833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.666700,31.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7022325","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022325,"name:xx":"Baileys Creek"}}
+{
+  "id": 7022325,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022325",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022325,
+    "tgn:name":"Baileys Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6667,31.4833],"type":"Point"}
+}

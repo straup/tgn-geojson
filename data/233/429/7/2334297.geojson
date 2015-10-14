@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.233300,35.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2334297","tgn:1000001","tgn:7012149","tgn:2001889","tgn:7007825","tgn:7029392"],"placetype":["aat:300008347"],"id":2334297,"name:xx":"Forest Heights"}}
+{
+  "id": 2334297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334297",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001889",
+        "tgn:7007825",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334297,
+    "tgn:name":"Forest Heights",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.2333,35.8167],"type":"Point"}
+}

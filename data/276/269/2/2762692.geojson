@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.216700,34.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2762692","tgn:1000001","tgn:7016172","tgn:7012149","tgn:2000164","tgn:7029392"],"placetype":["aat:300008347"],"id":2762692,"name:xx":"Western Acres"}}
+{
+  "id": 2762692,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762692",
+        "tgn:1000001",
+        "tgn:7016172",
+        "tgn:7012149",
+        "tgn:2000164",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762692,
+    "tgn:name":"Western Acres",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2167,34.8167],"type":"Point"}
+}

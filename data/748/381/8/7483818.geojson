@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.750833,23.074722]},"type":"Feature","properties":{"hierarchy":["tgn:7483818","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387503"],"id":7483818,"name:xx":"Tengzhi Huguansuo"}}
+{
+  "id": 7483818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483818",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483818,
+    "tgn:name":"Tengzhi Huguansuo",
+    "tgn:placetype":[
+        "aat:300387503"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.750833,23.074722],"type":"Point"}
+}

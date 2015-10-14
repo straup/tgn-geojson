@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.983300,34.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2250685","tgn:1000001","tgn:7012149","tgn:1002545","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2250685,"name:xx":"Colorful Creek"}}
+{
+  "id": 2250685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250685",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002545",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250685,
+    "tgn:name":"Colorful Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9833,34.8833],"type":"Point"}
+}

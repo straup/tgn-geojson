@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.750000,42.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2338547","tgn:1000001","tgn:1002245","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2338547,"name:xx":"France Brook"}}
+{
+  "id": 2338547,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338547",
+        "tgn:1000001",
+        "tgn:1002245",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338547,
+    "tgn:name":"France Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.75,42.05],"type":"Point"}
+}

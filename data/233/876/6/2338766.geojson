@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-79.216700,36.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2338766","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":2338766,"name:xx":"Frank Creek"}}
+{
+  "id": 2338766,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338766",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338766,
+    "tgn:name":"Frank Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.2167,36.2167],"type":"Point"}
+}

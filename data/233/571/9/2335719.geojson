@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-87.600000,34.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2335719","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000038","tgn:7029392"],"placetype":["aat:300386851","aat:300008791"],"id":2335719,"name:xx":"Forty Acres Island"}}
+{
+  "id": 2335719,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335719",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000038",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335719,
+    "tgn:name":"Forty Acres Island",
+    "tgn:placetype":[
+        "aat:300386851",
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.6,34.8],"type":"Point"}
+}

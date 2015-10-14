@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.683333,27.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7376009","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7376009,"name:xx":"Larga, Arroyo de la"}}
+{
+  "id": 7376009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376009",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376009,
+    "tgn:name":"Larga, Arroyo de la",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.683333,27.016667],"type":"Point"}
+}

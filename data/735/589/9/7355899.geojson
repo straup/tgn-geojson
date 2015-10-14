@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.166667,28.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7355899","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7355899,"name:xx":"Carboneros, Arroyo de los"}}
+{
+  "id": 7355899,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355899",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355899,
+    "tgn:name":"Carboneros, Arroyo de los",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.166667,28.066667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.533300,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2409791","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2409791,"name:xx":"Illahee Spring"}}
+{
+  "id": 2409791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409791",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409791,
+    "tgn:name":"Illahee Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.5333,43.35],"type":"Point"}
+}

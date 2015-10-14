@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.633300,41.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2257260","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2257260,"name:xx":"Cornerstone Draw"}}
+{
+  "id": 2257260,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257260",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257260,
+    "tgn:name":"Cornerstone Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.6333,41.3333],"type":"Point"}
+}

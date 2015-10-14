@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.883300,43.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2406929","tgn:1000001","tgn:7012149","tgn:2002374","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2406929,"name:xx":"Hunter Draw"}}
+{
+  "id": 2406929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406929",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002374",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406929,
+    "tgn:name":"Hunter Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.8833,43.7333],"type":"Point"}
+}

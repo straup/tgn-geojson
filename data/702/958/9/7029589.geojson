@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[31.833300,18.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7029589","tgn:7001242","tgn:1001112","tgn:1000201","tgn:7029392"],"placetype":["aat:300387178","aat:300008347","aat:300387264","aat:300387218"],"id":7029589,"name:xx":"Merowe"}}
+{
+  "id": 7029589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029589",
+        "tgn:7001242",
+        "tgn:1001112",
+        "tgn:1000201",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029589,
+    "tgn:name":"Merowe",
+    "tgn:placetype":[
+        "aat:300387178",
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387218"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[31.8333,18.5],"type":"Point"}
+}

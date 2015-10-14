@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.033333,48.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7173864","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300386990"],"id":7173864,"name:xx":"Gro\u00dfmatt"}}
+{
+  "id": 7173864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173864",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173864,
+    "tgn:name":"Gro\u00dfmatt",
+    "tgn:placetype":[
+        "aat:300386990"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.033333,48.3],"type":"Point"}
+}

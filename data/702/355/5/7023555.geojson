@@ -1,1 +1,18 @@
-{"geometry":{"type":"Point","coordinates":[-92.500000,48.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7023555","tgn:1000001","tgn:7029392"],"placetype":["aat:300008680"],"id":7023555,"name:xx":"Namakan Lake"}}
+{
+  "id": 7023555,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023555",
+        "tgn:1000001",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023555,
+    "tgn:name":"Namakan Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.5,48.5],"type":"Point"}
+}

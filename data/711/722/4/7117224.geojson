@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.216667,51.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7117224","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300387173"],"id":7117224,"name:xx":"Oberst\u00fcter"}}
+{
+  "id": 7117224,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7117224",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7117224,
+    "tgn:name":"Oberst\u00fcter",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.216667,51.35],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.600000,41.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7053903","tgn:7003248","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053903,"name:xx":"Palombaio"}}
+{
+  "id": 7053903,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053903",
+        "tgn:7003248",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053903,
+    "tgn:name":"Palombaio",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.6,41.066667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.716700,37.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2153389","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008761"],"id":2153389,"name:xx":"Bean Hollow"}}
+{
+  "id": 2153389,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153389",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153389,
+    "tgn:name":"Bean Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7167,37.9],"type":"Point"}
+}

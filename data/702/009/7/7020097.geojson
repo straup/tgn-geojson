@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.383300,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:7020097","tgn:1000001","tgn:7012149","tgn:1002613","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":7020097,"name:xx":"Callahan Run"}}
+{
+  "id": 7020097,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020097",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002613",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020097,
+    "tgn:name":"Callahan Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.3833,41.3833],"type":"Point"}
+}

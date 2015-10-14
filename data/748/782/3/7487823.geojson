@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[118.239909,24.445931]},"type":"Feature","properties":{"hierarchy":["tgn:7487823","tgn:7469009","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7487823,"name:xx":"Hong Shan"}}
+{
+  "id": 7487823,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487823",
+        "tgn:7469009",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487823,
+    "tgn:name":"Hong Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[118.239909,24.445931],"type":"Point"}
+}

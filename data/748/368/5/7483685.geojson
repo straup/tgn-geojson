@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.900833,24.972500]},"type":"Feature","properties":{"hierarchy":["tgn:7483685","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7483685,"name:xx":"Daniubu"}}
+{
+  "id": 7483685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483685",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483685,
+    "tgn:name":"Daniubu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.900833,24.9725],"type":"Point"}
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7006822,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f04cec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759145",
+        "gp:id":727612,
+        "qs:id":8,
+        "wof:id":101839323
+    },
+    "tgn:hierarchy":[
+        "tgn:7006822",
+        "tgn:1000003",
+        "tgn:7003624",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7006822,
+    "tgn:name":"Bergen-op-Zoom",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387238",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.3,51.5],"type":"Point"}
+}

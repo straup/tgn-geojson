@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.216700,38.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2257348","tgn:1000001","tgn:1002190","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008680"],"id":2257348,"name:xx":"Corns Lake"}}
+{
+  "id": 2257348,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257348",
+        "tgn:1000001",
+        "tgn:1002190",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257348,
+    "tgn:name":"Corns Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.2167,38.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.833300,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2253532","tgn:1000001","tgn:7012149","tgn:2002385","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2253532,"name:xx":"Cook Draw"}}
+{
+  "id": 2253532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002385",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253532,
+    "tgn:name":"Cook Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.8333,41.0333],"type":"Point"}
+}

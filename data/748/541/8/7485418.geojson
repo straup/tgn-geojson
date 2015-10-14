@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.490556,24.098333]},"type":"Feature","properties":{"hierarchy":["tgn:7485418","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7485418,"name:xx":"Cihshan Sih"}}
+{
+  "id": 7485418,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485418",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485418,
+    "tgn:name":"Cihshan Sih",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.490556,24.098333],"type":"Point"}
+}

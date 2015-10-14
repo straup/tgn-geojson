@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-74.966700,44.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7023566","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":7023566,"name:xx":"Nicks Pond"}}
+{
+  "id": 7023566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023566,
+    "tgn:name":"Nicks Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.9667,44.1333],"type":"Point"}
+}

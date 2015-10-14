@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.483300,30.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2156887","tgn:1000001","tgn:7012149","tgn:2000892","tgn:7007256","tgn:7029392"],"placetype":["aat:300008347"],"id":2156887,"name:xx":"Beaud"}}
+{
+  "id": 2156887,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156887",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000892",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156887,
+    "tgn:name":"Beaud",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4833,30.7],"type":"Point"}
+}

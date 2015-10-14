@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.166700,51.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7026609","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026609,"name:xx":"Deerhurst Walton"}}
+{
+  "id": 7026609,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026609",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026609,
+    "tgn:name":"Deerhurst Walton",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.1667,51.95],"type":"Point"}
+}

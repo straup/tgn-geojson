@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.566667,24.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7362248","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300006207"],"id":7362248,"name:xx":"Pozo El Pando de los Borregos"}}
+{
+  "id": 7362248,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362248",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362248,
+    "tgn:name":"Pozo El Pando de los Borregos",
+    "tgn:placetype":[
+        "aat:300006207"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.566667,24.216667],"type":"Point"}
+}

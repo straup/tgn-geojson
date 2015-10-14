@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.066667,18.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7373636","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373636,"name:xx":"La Loma"}}
+{
+  "id": 7373636,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373636",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373636,
+    "tgn:name":"La Loma",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.066667,18.1],"type":"Point"}
+}

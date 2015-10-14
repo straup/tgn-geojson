@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.933300,48.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2763075","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008761"],"id":2763075,"name:xx":"Westphal Gulch"}}
+{
+  "id": 2763075,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763075",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763075,
+    "tgn:name":"Westphal Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.9333,48.8833],"type":"Point"}
+}

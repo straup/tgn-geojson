@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.516700,35.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2769144","tgn:1000001","tgn:7012149","tgn:1002545","tgn:7007157","tgn:7029392"],"placetype":["aat:300008697"],"id":2769144,"name:xx":"Whitton Spring"}}
+{
+  "id": 2769144,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769144",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002545",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769144,
+    "tgn:name":"Whitton Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.5167,35.25],"type":"Point"}
+}

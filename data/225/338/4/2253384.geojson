@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.433300,32.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2253384","tgn:1000001","tgn:7012149","tgn:2000415","tgn:7007248","tgn:7029392"],"placetype":["aat:300008680"],"id":2253384,"name:xx":"Conyers Lake"}}
+{
+  "id": 2253384,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253384",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000415",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253384,
+    "tgn:name":"Conyers Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4333,32.8333],"type":"Point"}
+}

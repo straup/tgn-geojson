@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.950000,16.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7373284","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373284,"name:xx":"Lagarteros"}}
+{
+  "id": 7373284,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373284",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373284,
+    "tgn:name":"Lagarteros",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.95,16.583333],"type":"Point"}
+}

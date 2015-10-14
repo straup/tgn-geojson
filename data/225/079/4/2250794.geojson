@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.000000,44.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2250794","tgn:1000001","tgn:7012149","tgn:7016021","tgn:7007568","tgn:7029392"],"placetype":["aat:300008706"],"id":2250794,"name:xx":"Colton Creek"}}
+{
+  "id": 2250794,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250794",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016021",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250794,
+    "tgn:name":"Colton Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.0,44.35],"type":"Point"}
+}

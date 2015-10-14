@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.533333,29.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7376785","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7376785,"name:xx":"La Tinaja, Cerro"}}
+{
+  "id": 7376785,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376785",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376785,
+    "tgn:name":"La Tinaja, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.533333,29.833333],"type":"Point"}
+}

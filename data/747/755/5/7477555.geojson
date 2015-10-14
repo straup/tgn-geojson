@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.879600,25.123200]},"type":"Feature","properties":{"hierarchy":["tgn:7477555","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7477555,"name:xx":"Banping Xi"}}
+{
+  "id": 7477555,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477555",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477555,
+    "tgn:name":"Banping Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.8796,25.1232],"type":"Point"}
+}

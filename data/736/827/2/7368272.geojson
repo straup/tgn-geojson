@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.633333,19.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7368272","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300132325"],"id":7368272,"name:xx":"Jorullo, Volc\u00e1n de"}}
+{
+  "id": 7368272,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368272",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368272,
+    "tgn:name":"Jorullo, Volc\u00e1n de",
+    "tgn:placetype":[
+        "aat:300132325"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.633333,19.2],"type":"Point"}
+}

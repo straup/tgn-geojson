@@ -1,1 +1,24 @@
-{"geometry":{"type":"Point","coordinates":[25.866667,36.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7024364","tgn:7011270","tgn:7002674","tgn:1000003","tgn:7010717","tgn:1000074","tgn:7029392"],"placetype":["aat:300008347","aat:300008372","aat:300120599"],"id":7024364,"name:xx":"Kat\u00e1pola"}}
+{
+  "id": 7024364,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024364",
+        "tgn:7011270",
+        "tgn:7002674",
+        "tgn:1000003",
+        "tgn:7010717",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024364,
+    "tgn:name":"Kat\u00e1pola",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[25.866667,36.833333],"type":"Point"}
+}

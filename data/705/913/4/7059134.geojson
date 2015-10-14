@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[110.220000,-7.604000]},"type":"Feature","properties":{"hierarchy":["tgn:7059134","tgn:1000004","tgn:1001322","tgn:1000116","tgn:7029392"],"placetype":["aat:300007595","aat:300263063"],"id":7059134,"name:xx":"Mendut"}}
+{
+  "id": 7059134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059134",
+        "tgn:1000004",
+        "tgn:1001322",
+        "tgn:1000116",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059134,
+    "tgn:name":"Mendut",
+    "tgn:placetype":[
+        "aat:300007595",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[110.22,-7.604],"type":"Point"}
+}

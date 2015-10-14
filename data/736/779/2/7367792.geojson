@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-110.983333,18.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7367792","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008798"],"id":7367792,"name:xx":"Evermann, Cerro"}}
+{
+  "id": 7367792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367792",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367792,
+    "tgn:name":"Evermann, Cerro",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.983333,18.8],"type":"Point"}
+}

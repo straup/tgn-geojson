@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.616700,48.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2156927","tgn:1000001","tgn:7012149","tgn:2001310","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2156927,"name:xx":"Beaupre Coulee"}}
+{
+  "id": 2156927,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156927",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001310",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156927,
+    "tgn:name":"Beaupre Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.6167,48.9333],"type":"Point"}
+}

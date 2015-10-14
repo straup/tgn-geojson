@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.466667,21.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7354340","tgn:7005579","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7354340,"name:xx":"Ca\u00f1ada del Rodeo"}}
+{
+  "id": 7354340,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354340",
+        "tgn:7005579",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354340,
+    "tgn:name":"Ca\u00f1ada del Rodeo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.466667,21.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.450000,49.350000]},"type":"Feature","properties":{"hierarchy":["tgn:7178511","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7178511,"name:xx":"Haimburg"}}
+{
+  "id": 7178511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7178511",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7178511,
+    "tgn:name":"Haimburg",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.45,49.35],"type":"Point"}
+}

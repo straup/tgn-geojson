@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-95.983300,45.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2408267","tgn:1000001","tgn:2001024","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":2408267,"name:xx":"Huset Lake"}}
+{
+  "id": 2408267,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408267",
+        "tgn:1000001",
+        "tgn:2001024",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408267,
+    "tgn:name":"Huset Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.9833,45.8833],"type":"Point"}
+}

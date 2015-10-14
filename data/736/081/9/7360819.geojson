@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.733333,28.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7360819","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360819,"name:xx":"Ejido de Arroyo"}}
+{
+  "id": 7360819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360819",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360819,
+    "tgn:name":"Ejido de Arroyo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.733333,28.283333],"type":"Point"}
+}

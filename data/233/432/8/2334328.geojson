@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.416700,29.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2334328","tgn:1000001","tgn:7012149","tgn:1002567","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2334328,"name:xx":"Forest Hills"}}
+{
+  "id": 2334328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334328",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002567",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334328,
+    "tgn:name":"Forest Hills",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.4167,29.0],"type":"Point"}
+}

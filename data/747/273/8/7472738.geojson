@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.317780,23.935474]},"type":"Feature","properties":{"hierarchy":["tgn:7472738","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7472738,"name:xx":"Erlin Xikou"}}
+{
+  "id": 7472738,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472738",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472738,
+    "tgn:name":"Erlin Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.31778,23.935474],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-2.033300,51.916700]},"type":"Feature","properties":{"hierarchy":["tgn:7026711","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7026711,"name:xx":"Prestbury"}}
+{
+  "id": 7026711,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026711",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026711,
+    "tgn:name":"Prestbury",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.0333,51.9167],"type":"Point"}
+}

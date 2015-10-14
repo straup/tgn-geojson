@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.433300,29.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2152394","tgn:1000001","tgn:2000267","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2152394,"name:xx":"Bay Mouth Bar"}}
+{
+  "id": 2152394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152394",
+        "tgn:1000001",
+        "tgn:2000267",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152394,
+    "tgn:name":"Bay Mouth Bar",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.4333,29.9],"type":"Point"}
+}

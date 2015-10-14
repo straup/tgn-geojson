@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.500000,36.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2765985","tgn:1000001","tgn:7012149","tgn:2000785","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2765985,"name:xx":"White Hollow"}}
+{
+  "id": 2765985,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765985",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000785",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765985,
+    "tgn:name":"White Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.5,36.8333],"type":"Point"}
+}

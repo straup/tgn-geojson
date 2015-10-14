@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-84.666700,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2763408","tgn:1000001","tgn:7012149","tgn:2000289","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347","aat:300167671","aat:300008372"],"id":2763408,"name:xx":"Wethocouchy"}}
+{
+  "id": 2763408,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763408",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000289",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763408,
+    "tgn:name":"Wethocouchy",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300167671",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6667,30.2333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-122.383300,38.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2405706","tgn:1000001","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2405706,"name:xx":"Huichica Creek"}}
+{
+  "id": 2405706,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405706",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405706,
+    "tgn:name":"Huichica Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.3833,38.2833],"type":"Point"}
+}

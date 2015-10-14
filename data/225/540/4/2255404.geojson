@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-85.166700,34.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2255404","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":2255404,"name:xx":"Coosa River"}}
+{
+  "id": 2255404,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255404",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255404,
+    "tgn:name":"Coosa River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.1667,34.25],"type":"Point"}
+}

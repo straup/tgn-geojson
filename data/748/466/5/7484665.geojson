@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.552222,23.228333]},"type":"Feature","properties":{"hierarchy":["tgn:7484665","tgn:7468018","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7484665,"name:xx":"Moruxiangkeng"}}
+{
+  "id": 7484665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484665",
+        "tgn:7468018",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484665,
+    "tgn:name":"Moruxiangkeng",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.552222,23.228333],"type":"Point"}
+}

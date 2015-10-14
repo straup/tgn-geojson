@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.600000,38.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2259589","tgn:1000001","tgn:1003023","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008699"],"id":2259589,"name:xx":"Coty Cox Branch"}}
+{
+  "id": 2259589,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259589",
+        "tgn:1000001",
+        "tgn:1003023",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259589,
+    "tgn:name":"Coty Cox Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.6,38.4],"type":"Point"}
+}

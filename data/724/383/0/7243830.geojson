@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.413574,51.236857]},"type":"Feature","properties":{"hierarchy":["tgn:7243830","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300120801"],"id":7243830,"name:xx":"Bois, Bassin aux"}}
+{
+  "id": 7243830,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243830",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243830,
+    "tgn:name":"Bois, Bassin aux",
+    "tgn:placetype":[
+        "aat:300120801"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.413574,51.236857],"type":"Point"}
+}

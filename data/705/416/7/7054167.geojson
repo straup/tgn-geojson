@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.400000,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7054167","tgn:1001724","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7054167,"name:xx":"Ludu, Riu su"}}
+{
+  "id": 7054167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054167",
+        "tgn:1001724",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054167,
+    "tgn:name":"Ludu, Riu su",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.4,39.7],"type":"Point"}
+}

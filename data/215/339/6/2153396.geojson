@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.983300,34.666700]},"type":"Feature","properties":{"hierarchy":["tgn:2153396","tgn:1000001","tgn:2001477","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008791"],"id":2153396,"name:xx":"Bean Island"}}
+{
+  "id": 2153396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153396",
+        "tgn:1000001",
+        "tgn:2001477",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153396,
+    "tgn:name":"Bean Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9833,34.6667],"type":"Point"}
+}

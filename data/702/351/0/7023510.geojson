@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-75.150000,43.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7023510","tgn:1000001","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":7023510,"name:xx":"Mudhole Pond"}}
+{
+  "id": 7023510,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023510",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023510,
+    "tgn:name":"Mudhole Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.15,43.6833],"type":"Point"}
+}

@@ -1,0 +1,40 @@
+{
+  "id": 7003321,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7003321",
+        "tgn:7003030",
+        "tgn:1000003",
+        "tgn:1000062",
+        "tgn:7029392"
+    ],
+    "tgn:id":7003321,
+    "tgn:name:cs":"Vide\u1e49",
+    "tgn:name:de":"Wien",
+    "tgn:name:en":"Vienna",
+    "tgn:name:fr":"Vienne",
+    "tgn:name:hu":"Be\u00e7",
+    "tgn:placetype":[
+        "aat:300387256",
+        "aat:300008347",
+        "aat:300387240",
+        "aat:300387218",
+        "aat:300008394",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300264742",
+        "aat:300387512",
+        "aat:300387320",
+        "aat:300387235",
+        "aat:300387221",
+        "aat:300164060",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387291"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.3667,48.2167],"type":"Point"}
+}

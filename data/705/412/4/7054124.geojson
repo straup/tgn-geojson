@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[13.600000,41.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7054124","tgn:7009084","tgn:7004154","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7054124,"name:xx":"Lunga, Serra"}}
+{
+  "id": 7054124,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054124",
+        "tgn:7009084",
+        "tgn:7004154",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054124,
+    "tgn:name":"Lunga, Serra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.6,41.85],"type":"Point"}
+}

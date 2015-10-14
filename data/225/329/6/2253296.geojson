@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.966700,41.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2253296","tgn:1002143","tgn:1000001","tgn:7012149","tgn:7007252","tgn:7029392"],"placetype":["aat:300006075"],"id":2253296,"name:xx":"Converset Ditch"}}
+{
+  "id": 2253296,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253296",
+        "tgn:1002143",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007252",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253296,
+    "tgn:name":"Converset Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.9667,41.0333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.250000,40.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7051212","tgn:7003013","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300007783"],"id":7051212,"name:xx":"Stazione Napoli Monte Santo"}}
+{
+  "id": 7051212,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051212",
+        "tgn:7003013",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051212,
+    "tgn:name":"Stazione Napoli Monte Santo",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.25,40.85],"type":"Point"}
+}

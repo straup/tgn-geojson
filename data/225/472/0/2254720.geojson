@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.700000,39.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2254720","tgn:1000001","tgn:1002218","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300266640"],"id":2254720,"name:xx":"Coon Ridge"}}
+{
+  "id": 2254720,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254720",
+        "tgn:1000001",
+        "tgn:1002218",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254720,
+    "tgn:name":"Coon Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.7,39.7],"type":"Point"}
+}

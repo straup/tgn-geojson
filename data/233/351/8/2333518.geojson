@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.550000,33.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2333518","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000055","tgn:7029392"],"placetype":["aat:300008347"],"id":2333518,"name:xx":"Folsom"}}
+{
+  "id": 2333518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333518",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000055",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333518,
+    "tgn:name":"Folsom",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.55,33.45],"type":"Point"}
+}

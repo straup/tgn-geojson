@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.683333,27.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7371198","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300167671"],"id":7371198,"name:xx":"Hacienda de la Sardina"}}
+{
+  "id": 7371198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371198",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371198,
+    "tgn:name":"Hacienda de la Sardina",
+    "tgn:placetype":[
+        "aat:300167671"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.683333,27.216667],"type":"Point"}
+}

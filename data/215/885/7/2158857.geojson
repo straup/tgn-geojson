@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.916700,46.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2158857","tgn:1000001","tgn:7012149","tgn:2001273","tgn:7007524","tgn:7029392"],"placetype":["aat:300008347"],"id":2158857,"name:xx":"Becket"}}
+{
+  "id": 2158857,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158857",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001273",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158857,
+    "tgn:name":"Becket",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.9167,46.9833],"type":"Point"}
+}

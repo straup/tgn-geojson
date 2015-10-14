@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.150000,43.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2338794","tgn:1000001","tgn:7012149","tgn:7014287","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2338794,"name:xx":"Frank Jones Brook"}}
+{
+  "id": 2338794,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338794",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014287",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338794,
+    "tgn:name":"Frank Jones Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.15,43.3333],"type":"Point"}
+}

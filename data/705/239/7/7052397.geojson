@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.100000,44.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7052397","tgn:1000003","tgn:7003142","tgn:7003236","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052397,"name:xx":"Moranego"}}
+{
+  "id": 7052397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052397",
+        "tgn:1000003",
+        "tgn:7003142",
+        "tgn:7003236",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052397,
+    "tgn:name":"Moranego",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.1,44.466667],"type":"Point"}
+}

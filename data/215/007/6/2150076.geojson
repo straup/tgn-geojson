@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.633300,40.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2150076","tgn:1000001","tgn:7012149","tgn:1002528","tgn:7007710","tgn:7029392"],"placetype":["aat:300008761"],"id":2150076,"name:xx":"Barton Hollow"}}
+{
+  "id": 2150076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150076",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002528",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150076,
+    "tgn:name":"Barton Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.6333,40.35],"type":"Point"}
+}

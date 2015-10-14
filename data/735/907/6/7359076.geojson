@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.316667,19.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7359076","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7359076,"name:xx":"Cruz, Cerro"}}
+{
+  "id": 7359076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359076",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359076,
+    "tgn:name":"Cruz, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.316667,19.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.552222,23.887222]},"type":"Feature","properties":{"hierarchy":["tgn:7480511","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7480511,"name:xx":"Wuquan Tifang"}}
+{
+  "id": 7480511,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480511",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480511,
+    "tgn:name":"Wuquan Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.552222,23.887222],"type":"Point"}
+}

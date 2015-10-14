@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.366667,30.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7371206","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371206,"name:xx":"Hacienda de Carranza"}}
+{
+  "id": 7371206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371206",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371206,
+    "tgn:name":"Hacienda de Carranza",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.366667,30.366667],"type":"Point"}
+}

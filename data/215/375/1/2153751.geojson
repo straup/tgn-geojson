@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.833300,44.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2153751","tgn:1000001","tgn:1002284","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008699"],"id":2153751,"name:xx":"Bear Brook"}}
+{
+  "id": 2153751,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153751",
+        "tgn:1000001",
+        "tgn:1002284",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153751,
+    "tgn:name":"Bear Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.8333,44.5],"type":"Point"}
+}

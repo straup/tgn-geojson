@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.750000,19.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7372819","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008777"],"id":7372819,"name:xx":"La Carreta, Cerro"}}
+{
+  "id": 7372819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7372819",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7372819,
+    "tgn:name":"La Carreta, Cerro",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.75,19.166667],"type":"Point"}
+}

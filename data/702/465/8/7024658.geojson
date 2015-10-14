@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.583300,48.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7024658","tgn:1000003","tgn:7002880","tgn:1000070","tgn:7029392"],"placetype":["aat:300008347"],"id":7024658,"name:xx":"Somme-Vesle"}}
+{
+  "id": 7024658,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024658",
+        "tgn:1000003",
+        "tgn:7002880",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024658,
+    "tgn:name":"Somme-Vesle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.5833,48.9833],"type":"Point"}
+}

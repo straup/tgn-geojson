@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.133333,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7110782","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7110782,"name:xx":"Rauheck"}}
+{
+  "id": 7110782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110782",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110782,
+    "tgn:name":"Rauheck",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.133333,47.6],"type":"Point"}
+}

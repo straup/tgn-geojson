@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.491000,53.802000]},"type":"Feature","properties":{"hierarchy":["tgn:7029986","tgn:7019038","tgn:7002445","tgn:1000003","tgn:7029507","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7029986,"name:xx":"Gipton"}}
+{
+  "id": 7029986,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029986",
+        "tgn:7019038",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7029507",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029986,
+    "tgn:name":"Gipton",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.491,53.802],"type":"Point"}
+}

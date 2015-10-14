@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.570278,23.078056]},"type":"Feature","properties":{"hierarchy":["tgn:7483350","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132356"],"id":7483350,"name:xx":"Dayi Shan"}}
+{
+  "id": 7483350,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483350",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483350,
+    "tgn:name":"Dayi Shan",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.570278,23.078056],"type":"Point"}
+}

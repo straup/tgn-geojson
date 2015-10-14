@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.700000,37.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2336805","tgn:1000001","tgn:7012149","tgn:2000219","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2336805,"name:xx":"Fourmile Canyon"}}
+{
+  "id": 2336805,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336805",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000219",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336805,
+    "tgn:name":"Fourmile Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7,37.4333],"type":"Point"}
+}

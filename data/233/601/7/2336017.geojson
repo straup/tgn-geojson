@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.400000,35.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2336017","tgn:1000001","tgn:7012149","tgn:7019676","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2336017,"name:xx":"Foster Canyon"}}
+{
+  "id": 2336017,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336017",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7019676",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336017,
+    "tgn:name":"Foster Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.4,35.3333],"type":"Point"}
+}

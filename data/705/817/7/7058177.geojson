@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[15.333333,41.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7058177","tgn:1003455","tgn:1000003","tgn:7010380","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198","aat:300265612"],"id":7058177,"name:xx":"Bovino"}}
+{
+  "id": 7058177,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058177",
+        "tgn:1003455",
+        "tgn:1000003",
+        "tgn:7010380",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058177,
+    "tgn:name":"Bovino",
+    "tgn:placetype":[
+        "aat:300387198",
+        "aat:300265612"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.333333,41.25],"type":"Point"}
+}

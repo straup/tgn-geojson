@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.466700,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2409997","tgn:1000001","tgn:7012149","tgn:2001715","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2409997,"name:xx":"Impossible Waterhole"}}
+{
+  "id": 2409997,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409997",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001715",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409997,
+    "tgn:name":"Impossible Waterhole",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.4667,43.05],"type":"Point"}
+}

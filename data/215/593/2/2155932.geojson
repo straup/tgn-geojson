@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.766700,40.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2155932","tgn:1000001","tgn:7012149","tgn:1002387","tgn:7007710","tgn:7029392"],"placetype":["aat:300055621"],"id":2155932,"name:xx":"Bear Valley Picnic Area"}}
+{
+  "id": 2155932,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155932",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002387",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155932,
+    "tgn:name":"Bear Valley Picnic Area",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.7667,40.0333],"type":"Point"}
+}

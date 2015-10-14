@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.983333,25.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7350929","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008791"],"id":7350929,"name:xx":"Bleditos, Isla"}}
+{
+  "id": 7350929,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350929",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350929,
+    "tgn:name":"Bleditos, Isla",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.983333,25.583333],"type":"Point"}
+}

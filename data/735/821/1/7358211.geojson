@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.083333,23.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7358211","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7358211,"name:xx":"Colonia Palmitas"}}
+{
+  "id": 7358211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7358211",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7358211,
+    "tgn:name":"Colonia Palmitas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.083333,23.216667],"type":"Point"}
+}

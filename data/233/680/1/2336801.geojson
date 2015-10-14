@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.050000,42.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2336801","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300006075"],"id":2336801,"name:xx":"Fourmile Canal"}}
+{
+  "id": 2336801,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2336801",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2336801,
+    "tgn:name":"Fourmile Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.05,42.6],"type":"Point"}
+}

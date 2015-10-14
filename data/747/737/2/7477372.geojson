@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.921465,25.026284]},"type":"Feature","properties":{"hierarchy":["tgn:7477372","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7477372,"name:xx":"Xinshe Daqiao"}}
+{
+  "id": 7477372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477372",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477372,
+    "tgn:name":"Xinshe Daqiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.921465,25.026284],"type":"Point"}
+}

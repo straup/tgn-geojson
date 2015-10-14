@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.469167,24.023056]},"type":"Feature","properties":{"hierarchy":["tgn:7351342","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7351342,"name:xx":"Arenales, Arroyo de"}}
+{
+  "id": 7351342,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351342",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351342,
+    "tgn:name":"Arenales, Arroyo de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.469167,24.023056],"type":"Point"}
+}

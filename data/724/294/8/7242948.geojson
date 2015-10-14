@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.806240,50.652701]},"type":"Feature","properties":{"hierarchy":["tgn:7242948","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7242948,"name:xx":"Lanquesaint"}}
+{
+  "id": 7242948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242948",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242948,
+    "tgn:name":"Lanquesaint",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.80624,50.652701],"type":"Point"}
+}

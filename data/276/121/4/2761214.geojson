@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-158.000000,21.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2761214","tgn:1002483","tgn:7019080","tgn:1000001","tgn:7012149","tgn:7007249","tgn:7029392"],"placetype":["aat:300132316"],"id":2761214,"name:xx":"West Loch"}}
+{
+  "id": 2761214,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761214",
+        "tgn:1002483",
+        "tgn:7019080",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007249",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761214,
+    "tgn:name":"West Loch",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-158.0,21.3667],"type":"Point"}
+}

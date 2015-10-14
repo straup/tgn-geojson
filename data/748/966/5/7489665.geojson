@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.721186,24.736920]},"type":"Feature","properties":{"hierarchy":["tgn:7489665","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489665,"name:xx":"Dasanjiu"}}
+{
+  "id": 7489665,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489665",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489665,
+    "tgn:name":"Dasanjiu",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.721186,24.73692],"type":"Point"}
+}

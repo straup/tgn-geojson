@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[31.000000,31.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7024089","tgn:7001242","tgn:7016833","tgn:7029392"],"placetype":["aat:300008760"],"id":7024089,"name:xx":"Nile Delta"}}
+{
+  "id": 7024089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024089",
+        "tgn:7001242",
+        "tgn:7016833",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024089,
+    "tgn:name":"Nile Delta",
+    "tgn:placetype":[
+        "aat:300008760"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[31.0,31.0],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.750000,39.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7050726","tgn:1003450","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7050726,"name:xx":"Noce, Fiume"}}
+{
+  "id": 7050726,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7050726",
+        "tgn:1003450",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7050726,
+    "tgn:name":"Noce, Fiume",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.75,39.916667],"type":"Point"}
+}

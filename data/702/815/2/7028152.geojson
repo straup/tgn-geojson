@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.383333,52.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7028152","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Tallington","id":7028152}}
+{
+  "id": 7028152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028152",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028152,
+    "tgn:name:en":"Tallington",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.383333,52.65],"type":"Point"}
+}

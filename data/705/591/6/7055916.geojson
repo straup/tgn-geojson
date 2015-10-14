@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.000000,41.316667]},"type":"Feature","properties":{"hierarchy":["tgn:7055916","tgn:7003011","tgn:7003005","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7055916,"name:xx":"Orchi"}}
+{
+  "id": 7055916,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055916",
+        "tgn:7003011",
+        "tgn:7003005",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055916,
+    "tgn:name":"Orchi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.0,41.316667],"type":"Point"}
+}

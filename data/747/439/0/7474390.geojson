@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.309167,22.843333]},"type":"Feature","properties":{"hierarchy":["tgn:7474390","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474390,"name:xx":"Yuku"}}
+{
+  "id": 7474390,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474390",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474390,
+    "tgn:name":"Yuku",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.309167,22.843333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.350000,34.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2158780","tgn:1000001","tgn:2000319","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300006191"],"id":2158780,"name:xx":"Beck Lake"}}
+{
+  "id": 2158780,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158780",
+        "tgn:1000001",
+        "tgn:2000319",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158780,
+    "tgn:name":"Beck Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.35,34.2],"type":"Point"}
+}

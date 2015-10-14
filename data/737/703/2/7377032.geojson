@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.200000,20.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7377032","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7377032,"name:xx":"La Troje"}}
+{
+  "id": 7377032,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377032",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377032,
+    "tgn:name":"La Troje",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.2,20.7],"type":"Point"}
+}

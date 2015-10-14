@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-131.483300,55.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2151155","tgn:7006450","tgn:1000001","tgn:2124076","tgn:7012149","tgn:7029392"],"placetype":["aat:300008850"],"id":2151155,"name:xx":"Bat Point"}}
+{
+  "id": 2151155,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151155",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124076",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151155,
+    "tgn:name":"Bat Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-131.4833,55.5],"type":"Point"}
+}

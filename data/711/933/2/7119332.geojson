@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.250000,52.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7119332","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7119332,"name:xx":"Philippsberg"}}
+{
+  "id": 7119332,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119332",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119332,
+    "tgn:name":"Philippsberg",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.25,52.783333],"type":"Point"}
+}

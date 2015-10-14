@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.566700,29.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2256399","tgn:1000001","tgn:7012149","tgn:2000897","tgn:7007256","tgn:7029392"],"placetype":["aat:300008680"],"id":2256399,"name:xx":"Coquille, Lake"}}
+{
+  "id": 2256399,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256399",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000897",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256399,
+    "tgn:name":"Coquille, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.5667,29.7333],"type":"Point"}
+}

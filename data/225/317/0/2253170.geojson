@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.900000,48.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2253170","tgn:1000001","tgn:7012149","tgn:2001274","tgn:7007524","tgn:7029392"],"placetype":["aat:300008706"],"id":2253170,"name:xx":"Continental Creek"}}
+{
+  "id": 2253170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253170",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001274",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253170,
+    "tgn:name":"Continental Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.9,48.8333],"type":"Point"}
+}

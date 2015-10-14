@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.241042,50.748287]},"type":"Feature","properties":{"hierarchy":["tgn:7241428","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7241428,"name:xx":"Le Compas"}}
+{
+  "id": 7241428,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241428",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241428,
+    "tgn:name":"Le Compas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.241042,50.748287],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.872778,26.215000]},"type":"Feature","properties":{"hierarchy":["tgn:7486572","tgn:7498210","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300132316"],"id":7486572,"name:xx":"Mazu Ao"}}
+{
+  "id": 7486572,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486572",
+        "tgn:7498210",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486572,
+    "tgn:name":"Mazu Ao",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.872778,26.215],"type":"Point"}
+}

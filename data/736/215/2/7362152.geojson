@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-100.050000,24.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7362152","tgn:1000001","tgn:7005589","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7362152,"name:xx":"El Caracol, Arroyo"}}
+{
+  "id": 7362152,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362152",
+        "tgn:1000001",
+        "tgn:7005589",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362152,
+    "tgn:name":"El Caracol, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.05,24.783333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.083300,30.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2255601","tgn:1000001","tgn:7012149","tgn:2000276","tgn:7007240","tgn:7029392"],"placetype":["aat:300386845"],"id":2255601,"name:xx":"Copeland Sink"}}
+{
+  "id": 2255601,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255601",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000276",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255601,
+    "tgn:name":"Copeland Sink",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.0833,30.45],"type":"Point"}
+}

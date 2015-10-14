@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-1.216667,50.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7026988","tgn:7002445","tgn:1000003","tgn:7011430","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Wroxall","id":7026988}}
+{
+  "id": 7026988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026988",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011430",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026988,
+    "tgn:name:en":"Wroxall",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.216667,50.6],"type":"Point"}
+}

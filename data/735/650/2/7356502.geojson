@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.850000,19.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7356502","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7356502,"name:xx":"Chiltoyac"}}
+{
+  "id": 7356502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356502",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356502,
+    "tgn:name":"Chiltoyac",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.85,19.566667],"type":"Point"}
+}

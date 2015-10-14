@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.066667,19.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7377585","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7377585,"name:xx":"La Pasi\u00f3n"}}
+{
+  "id": 7377585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377585",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377585,
+    "tgn:name":"La Pasi\u00f3n",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.066667,19.65],"type":"Point"}
+}

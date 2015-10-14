@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.599300,24.053584]},"type":"Feature","properties":{"hierarchy":["tgn:7471963","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7471963,"name:xx":"Jiamin Guoxiao"}}
+{
+  "id": 7471963,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471963",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471963,
+    "tgn:name":"Jiamin Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.5993,24.053584],"type":"Point"}
+}

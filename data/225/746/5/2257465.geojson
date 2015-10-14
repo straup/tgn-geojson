@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.216700,34.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2257465","tgn:1000001","tgn:2001748","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":2257465,"name:xx":"Coronaca Creek"}}
+{
+  "id": 2257465,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257465",
+        "tgn:1000001",
+        "tgn:2001748",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257465,
+    "tgn:name":"Coronaca Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2167,34.2833],"type":"Point"}
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7000490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000490",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000490,
+    "tgn:name:ar":"\u0623\u0633\u062a\u0631\u0627 \u0627\u064b\u064e",
+    "tgn:name:de":"Australien",
+    "tgn:name:en":"Australia",
+    "tgn:name:es":"Australia",
+    "tgn:name:fr":"Australie",
+    "tgn:name:nl":"Australi\u00eb",
+    "tgn:name:pt":"Austr\u00e1lia",
+    "tgn:name:ru":"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+    "tgn:name:zh":"\u6fb3\u5927\u5229\u4e9a",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300387347",
+        "aat:300128207",
+        "aat:300154236",
+        "aat:300387174"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[135.0,-25.0],"type":"Point"}
+}

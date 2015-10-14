@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.766700,44.716700]},"type":"Feature","properties":{"hierarchy":["tgn:2405037","tgn:1000001","tgn:2002366","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2405037,"name:xx":"Hudson Falls Creek"}}
+{
+  "id": 2405037,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405037",
+        "tgn:1000001",
+        "tgn:2002366",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405037,
+    "tgn:name":"Hudson Falls Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.7667,44.7167],"type":"Point"}
+}

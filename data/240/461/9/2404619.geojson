@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.833300,32.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2404619","tgn:2001731","tgn:1000001","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008905"],"id":2404619,"name:xx":"Hubert Pond"}}
+{
+  "id": 2404619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404619",
+        "tgn:2001731",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404619,
+    "tgn:name":"Hubert Pond",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8333,32.1667],"type":"Point"}
+}

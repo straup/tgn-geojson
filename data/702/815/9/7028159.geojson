@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.200000,53.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7028159","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Theddlethorpe All Saints","id":7028159}}
+{
+  "id": 7028159,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028159",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028159,
+    "tgn:name:en":"Theddlethorpe All Saints",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.2,53.366667],"type":"Point"}
+}

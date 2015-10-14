@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-97.350000,33.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2769942","tgn:1000001","tgn:7012149","tgn:2001964","tgn:7007826","tgn:7029392"],"placetype":["aat:300008699"],"id":2769942,"name:xx":"Wilburn Branch"}}
+{
+  "id": 2769942,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769942",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001964",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769942,
+    "tgn:name":"Wilburn Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-97.35,33.7833],"type":"Point"}
+}

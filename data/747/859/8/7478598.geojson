@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.869601,24.553533]},"type":"Feature","properties":{"hierarchy":["tgn:7478598","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7478598,"name:xx":"Wenxing Guoxiao"}}
+{
+  "id": 7478598,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478598",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478598,
+    "tgn:name":"Wenxing Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.869601,24.553533],"type":"Point"}
+}

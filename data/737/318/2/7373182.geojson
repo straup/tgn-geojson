@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.133333,19.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7373182","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008811"],"id":7373182,"name:xx":"La Palma, Mesa"}}
+{
+  "id": 7373182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373182",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373182,
+    "tgn:name":"La Palma, Mesa",
+    "tgn:placetype":[
+        "aat:300008811"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.133333,19.983333],"type":"Point"}
+}

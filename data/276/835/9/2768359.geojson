@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.500000,34.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2768359","tgn:1000001","tgn:7012149","tgn:2001133","tgn:7007522","tgn:7029392"],"placetype":["aat:300006191"],"id":2768359,"name:xx":"Whiteside, Lake"}}
+{
+  "id": 2768359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768359",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001133",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768359,
+    "tgn:name":"Whiteside, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.5,34.05],"type":"Point"}
+}

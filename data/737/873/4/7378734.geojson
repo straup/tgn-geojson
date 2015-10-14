@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.550000,25.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7378734","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7378734,"name:xx":"Metatitos, Quebrada de"}}
+{
+  "id": 7378734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378734",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378734,
+    "tgn:name":"Metatitos, Quebrada de",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.55,25.383333],"type":"Point"}
+}

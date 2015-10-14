@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.574722,23.678056]},"type":"Feature","properties":{"hierarchy":["tgn:7487174","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487174,"name:xx":"Gaolin Cun"}}
+{
+  "id": 7487174,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487174",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487174,
+    "tgn:name":"Gaolin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.574722,23.678056],"type":"Point"}
+}

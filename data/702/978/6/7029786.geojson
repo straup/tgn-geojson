@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[-5.406000,42.083000]},"type":"Feature","properties":{"hierarchy":["tgn:7029786","tgn:7002810","tgn:7001158","tgn:1000003","tgn:1000095","tgn:7029392"],"placetype":["aat:300167671","aat:300006676","aat:300008057"],"id":7029786,"name:xx":"Valdefuentes"}}
+{
+  "id": 7029786,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7029786",
+        "tgn:7002810",
+        "tgn:7001158",
+        "tgn:1000003",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7029786,
+    "tgn:name":"Valdefuentes",
+    "tgn:placetype":[
+        "aat:300167671",
+        "aat:300006676",
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.406,42.083],"type":"Point"}
+}

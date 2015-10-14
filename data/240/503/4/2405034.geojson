@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.250000,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2405034","tgn:1000001","tgn:7012149","tgn:1002797","tgn:7007706","tgn:7029392"],"placetype":["aat:300006075"],"id":2405034,"name:xx":"Hudson Ditch"}}
+{
+  "id": 2405034,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405034",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002797",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405034,
+    "tgn:name":"Hudson Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.25,41.0833],"type":"Point"}
+}

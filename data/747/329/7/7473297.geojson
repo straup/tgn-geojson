@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.615032,24.973657]},"type":"Feature","properties":{"hierarchy":["tgn:7473297","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7473297,"name:xx":"Tiannan Gong"}}
+{
+  "id": 7473297,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7473297",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7473297,
+    "tgn:name":"Tiannan Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.615032,24.973657],"type":"Point"}
+}

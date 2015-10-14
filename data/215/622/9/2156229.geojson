@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.933300,41.383300]},"type":"Feature","properties":{"hierarchy":["tgn:2156229","tgn:1000001","tgn:1002286","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2156229,"name:xx":"Bearfield Run"}}
+{
+  "id": 2156229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156229",
+        "tgn:1000001",
+        "tgn:1002286",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156229,
+    "tgn:name":"Bearfield Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9333,41.3833],"type":"Point"}
+}

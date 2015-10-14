@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.783300,42.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2252493","tgn:1000001","tgn:1002206","tgn:7012149","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2252493,"name:xx":"Conklin Station"}}
+{
+  "id": 2252493,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252493",
+        "tgn:1000001",
+        "tgn:1002206",
+        "tgn:7012149",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252493,
+    "tgn:name":"Conklin Station",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7833,42.0167],"type":"Point"}
+}

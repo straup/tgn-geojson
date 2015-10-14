@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.550000,43.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7053298","tgn:7003170","tgn:1000003","tgn:7003125","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7053298,"name:xx":"Maggio, Serra"}}
+{
+  "id": 7053298,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053298",
+        "tgn:7003170",
+        "tgn:1000003",
+        "tgn:7003125",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053298,
+    "tgn:name":"Maggio, Serra",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.55,43.466667],"type":"Point"}
+}

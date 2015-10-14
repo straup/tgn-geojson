@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.033300,34.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2705873","tgn:7002659","tgn:1000001","tgn:2000016","tgn:7012149","tgn:7029392"],"placetype":["aat:300008798"],"id":2705873,"name:xx":"Sutton Hill"}}
+{
+  "id": 2705873,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2705873",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:2000016",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2705873,
+    "tgn:name":"Sutton Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.0333,34.7333],"type":"Point"}
+}

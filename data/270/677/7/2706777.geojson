@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.316700,46.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2706777","tgn:2002239","tgn:1000001","tgn:7012149","tgn:7007920","tgn:7029392"],"placetype":["aat:300008697"],"id":2706777,"name:xx":"Swank Springs"}}
+{
+  "id": 2706777,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2706777",
+        "tgn:2002239",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2706777,
+    "tgn:name":"Swank Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.3167,46.05],"type":"Point"}
+}

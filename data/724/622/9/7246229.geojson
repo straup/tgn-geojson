@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.666667,50.833333]},"type":"Feature","properties":{"hierarchy":["tgn:7246229","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008699"],"id":7246229,"name:xx":"Borrebeek"}}
+{
+  "id": 7246229,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246229",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246229,
+    "tgn:name":"Borrebeek",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.666667,50.833333],"type":"Point"}
+}

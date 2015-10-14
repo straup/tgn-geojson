@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.316667,40.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7053966","tgn:7003005","tgn:7003014","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7053966,"name:xx":"Palermo, Punta"}}
+{
+  "id": 7053966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053966",
+        "tgn:7003005",
+        "tgn:7003014",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053966,
+    "tgn:name":"Palermo, Punta",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.316667,40.533333],"type":"Point"}
+}

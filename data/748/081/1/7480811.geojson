@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.461939,25.009347]},"type":"Feature","properties":{"hierarchy":["tgn:7480811","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300006676"],"id":7480811,"name:xx":"Dequan"}}
+{
+  "id": 7480811,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480811",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480811,
+    "tgn:name":"Dequan",
+    "tgn:placetype":[
+        "aat:300006676"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.461939,25.009347],"type":"Point"}
+}

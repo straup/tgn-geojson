@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-109.050000,31.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7020813","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":7020813,"name:xx":"Guadalupe Mountains"}}
+{
+  "id": 7020813,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020813",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020813,
+    "tgn:name":"Guadalupe Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.05,31.3333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.866700,32.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2765901","tgn:1000001","tgn:7012149","tgn:2001751","tgn:7007712","tgn:7029392"],"placetype":["aat:300006191"],"id":2765901,"name:xx":"White Hall Pond"}}
+{
+  "id": 2765901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765901",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001751",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765901,
+    "tgn:name":"White Hall Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8667,32.4333],"type":"Point"}
+}

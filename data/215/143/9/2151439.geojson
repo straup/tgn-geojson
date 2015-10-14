@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.883300,34.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2151439","tgn:7002659","tgn:1000001","tgn:7012149","tgn:2000027","tgn:7029392"],"placetype":["aat:300008347"],"id":2151439,"name:xx":"Bath Springs"}}
+{
+  "id": 2151439,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151439",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000027",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151439,
+    "tgn:name":"Bath Springs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.8833,34.1],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.566700,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2333800","tgn:1000001","tgn:1002281","tgn:7012149","tgn:7007251","tgn:7029392"],"placetype":["aat:300008680"],"id":2333800,"name:xx":"Foppe Lake"}}
+{
+  "id": 2333800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333800",
+        "tgn:1000001",
+        "tgn:1002281",
+        "tgn:7012149",
+        "tgn:7007251",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333800,
+    "tgn:name":"Foppe Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.5667,38.4833],"type":"Point"}
+}

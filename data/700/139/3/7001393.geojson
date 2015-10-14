@@ -1,0 +1,31 @@
+{
+  "id": 7001393,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001393",
+        "tgn:7001387",
+        "tgn:1000003",
+        "tgn:1000074",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001393,
+    "tgn:name":"Ath\u00ednai",
+    "tgn:name:de":"Athen",
+    "tgn:name:en":"Athens",
+    "tgn:name:es":"Atenas",
+    "tgn:name:fr":"Ath\u00e8nes",
+    "tgn:name:it":"Atene",
+    "tgn:placetype":[
+        "aat:300234611",
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387219",
+        "aat:300005135",
+        "aat:300387512",
+        "aat:300387270"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[23.733333,37.983333],"type":"Point"}
+}

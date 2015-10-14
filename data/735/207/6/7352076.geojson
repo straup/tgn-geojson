@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.750000,29.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7352076","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352076,"name:xx":"Borrego, Sierra del"}}
+{
+  "id": 7352076,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352076",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352076,
+    "tgn:name":"Borrego, Sierra del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.75,29.783333],"type":"Point"}
+}

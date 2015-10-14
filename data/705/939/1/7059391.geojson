@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.200000,53.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7059391","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7059391,"name:xx":"Ahrendshof"}}
+{
+  "id": 7059391,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059391",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059391,
+    "tgn:name":"Ahrendshof",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.2,53.466667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[15.833333,38.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7057581","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008805"],"id":7057581,"name:xx":"Aspromonte, Piani d'"}}
+{
+  "id": 7057581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057581",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057581,
+    "tgn:name":"Aspromonte, Piani d'",
+    "tgn:placetype":[
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.833333,38.2],"type":"Point"}
+}

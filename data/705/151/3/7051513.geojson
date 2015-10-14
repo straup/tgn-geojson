@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.700000,38.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7051513","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7051513,"name:xx":"Petrizia"}}
+{
+  "id": 7051513,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051513",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051513,
+    "tgn:name":"Petrizia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.7,38.883333],"type":"Point"}
+}

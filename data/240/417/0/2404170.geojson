@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.500000,33.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2404170","tgn:1000001","tgn:7012149","tgn:2001152","tgn:7007522","tgn:7029392"],"placetype":["aat:300008699"],"id":2404170,"name:xx":"Howling Wolf Bayou"}}
+{
+  "id": 2404170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404170",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001152",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404170,
+    "tgn:name":"Howling Wolf Bayou",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.5,33.5333],"type":"Point"}
+}

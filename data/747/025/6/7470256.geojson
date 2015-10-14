@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.766194,24.441995]},"type":"Feature","properties":{"hierarchy":["tgn:7470256","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470256,"name:xx":"Hengshan"}}
+{
+  "id": 7470256,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470256",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470256,
+    "tgn:name":"Hengshan",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.766194,24.441995],"type":"Point"}
+}

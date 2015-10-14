@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.900000,36.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2255803","tgn:1000001","tgn:7012149","tgn:2001451","tgn:7007566","tgn:7029392"],"placetype":["aat:300008347"],"id":2255803,"name:xx":"Copper City"}}
+{
+  "id": 2255803,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255803",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001451",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255803,
+    "tgn:name":"Copper City",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9,36.0],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.984268,23.942771]},"type":"Feature","properties":{"hierarchy":["tgn:7476755","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7476755,"name:xx":"Budong Qiao"}}
+{
+  "id": 7476755,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476755",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476755,
+    "tgn:name":"Budong Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.984268,23.942771],"type":"Point"}
+}

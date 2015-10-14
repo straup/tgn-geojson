@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[14.416667,41.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7051865","tgn:1000003","tgn:7003241","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7051865,"name:xx":"Pesco della Messa"}}
+{
+  "id": 7051865,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051865",
+        "tgn:1000003",
+        "tgn:7003241",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051865,
+    "tgn:name":"Pesco della Messa",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.416667,41.583333],"type":"Point"}
+}

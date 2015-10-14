@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.783300,63.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2255536","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2255536,"name:xx":"Copeland Creek"}}
+{
+  "id": 2255536,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2255536",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2255536,
+    "tgn:name":"Copeland Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.7833,63.1833],"type":"Point"}
+}

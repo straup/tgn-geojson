@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.850000,49.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7179109","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7179109,"name:xx":"Hammerbacher Wald"}}
+{
+  "id": 7179109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179109",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179109,
+    "tgn:name":"Hammerbacher Wald",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.85,49.6],"type":"Point"}
+}

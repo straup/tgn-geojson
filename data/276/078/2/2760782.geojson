@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.833300,45.333300]},"type":"Feature","properties":{"hierarchy":["tgn:2760782","tgn:1000001","tgn:7012149","tgn:2001720","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2760782,"name:xx":"West Gulch"}}
+{
+  "id": 2760782,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760782",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001720",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760782,
+    "tgn:name":"West Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.8333,45.3333],"type":"Point"}
+}

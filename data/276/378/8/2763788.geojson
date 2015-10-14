@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.933300,45.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2763788","tgn:1000001","tgn:2001260","tgn:7012149","tgn:7007524","tgn:7029392"],"placetype":["aat:300000390"],"id":2763788,"name:xx":"Wheal Rose Mine"}}
+{
+  "id": 2763788,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763788",
+        "tgn:1000001",
+        "tgn:2001260",
+        "tgn:7012149",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763788,
+    "tgn:name":"Wheal Rose Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.9333,45.2],"type":"Point"}
+}

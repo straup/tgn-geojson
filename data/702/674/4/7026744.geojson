@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.050000,51.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7026744","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Syde","id":7026744}}
+{
+  "id": 7026744,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026744",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026744,
+    "tgn:name:en":"Syde",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.05,51.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-69.066700,44.683300]},"type":"Feature","properties":{"hierarchy":["tgn:7023753","tgn:1000001","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":7023753,"name:xx":"Thurlow Brook"}}
+{
+  "id": 7023753,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023753",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023753,
+    "tgn:name":"Thurlow Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-69.0667,44.6833],"type":"Point"}
+}

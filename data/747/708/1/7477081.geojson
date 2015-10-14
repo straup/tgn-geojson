@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[119.589804,23.559293]},"type":"Feature","properties":{"hierarchy":["tgn:7477081","tgn:1000004","tgn:7004300","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7477081,"name:xx":"Shiquan Guoxiao Fengxiao"}}
+{
+  "id": 7477081,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477081",
+        "tgn:1000004",
+        "tgn:7004300",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477081,
+    "tgn:name":"Shiquan Guoxiao Fengxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[119.589804,23.559293],"type":"Point"}
+}

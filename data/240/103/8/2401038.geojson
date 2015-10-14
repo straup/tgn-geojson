@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.216700,40.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2401038","tgn:1000001","tgn:7012149","tgn:2002124","tgn:7007827","tgn:7029392"],"placetype":["aat:300008761"],"id":2401038,"name:xx":"Horse Trail Canyon"}}
+{
+  "id": 2401038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401038",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002124",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401038,
+    "tgn:name":"Horse Trail Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.2167,40.4833],"type":"Point"}
+}

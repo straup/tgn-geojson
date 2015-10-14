@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.233300,42.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2768890","tgn:1000001","tgn:7012149","tgn:1003038","tgn:7007517","tgn:7029392"],"placetype":["aat:300008798"],"id":2768890,"name:xx":"Whitney Hill"}}
+{
+  "id": 2768890,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768890",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1003038",
+        "tgn:7007517",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768890,
+    "tgn:name":"Whitney Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.2333,42.4333],"type":"Point"}
+}

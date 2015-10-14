@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.521529,22.671384]},"type":"Feature","properties":{"hierarchy":["tgn:7470125","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7470125,"name:xx":"Tantou"}}
+{
+  "id": 7470125,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470125",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470125,
+    "tgn:name":"Tantou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.521529,22.671384],"type":"Point"}
+}

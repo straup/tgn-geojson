@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.350000,36.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2155747","tgn:1000001","tgn:7012149","tgn:1002728","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2155747,"name:xx":"Bear Swamp"}}
+{
+  "id": 2155747,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155747",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002728",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155747,
+    "tgn:name":"Bear Swamp",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.35,36.35],"type":"Point"}
+}

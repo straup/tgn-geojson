@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.016667,53.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7028157","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Tetney","id":7028157}}
+{
+  "id": 7028157,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028157",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028157,
+    "tgn:name:en":"Tetney",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.016667,53.483333],"type":"Point"}
+}

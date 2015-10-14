@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.350000,26.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7371360","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7371360,"name:xx":"Jimarohuisa, Punta"}}
+{
+  "id": 7371360,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371360",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371360,
+    "tgn:name":"Jimarohuisa, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.35,26.583333],"type":"Point"}
+}

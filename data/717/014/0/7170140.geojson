@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.816667,54.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7170140","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7170140,"name:xx":"Hobstin"}}
+{
+  "id": 7170140,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7170140",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7170140,
+    "tgn:name":"Hobstin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.816667,54.166667],"type":"Point"}
+}

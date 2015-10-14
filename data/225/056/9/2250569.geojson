@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-149.433300,63.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2250569","tgn:7006450","tgn:1000001","tgn:2124053","tgn:7012149","tgn:7029392"],"placetype":["aat:300008347"],"id":2250569,"name:xx":"Colorado"}}
+{
+  "id": 2250569,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250569",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:2124053",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250569,
+    "tgn:name":"Colorado",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-149.4333,63.15],"type":"Point"}
+}

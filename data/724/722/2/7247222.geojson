@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.866667,50.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7247222","tgn:7003466","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7247222,"name:xx":"Champay, Bois"}}
+{
+  "id": 7247222,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7247222",
+        "tgn:7003466",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7247222,
+    "tgn:name":"Champay, Bois",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.866667,50.016667],"type":"Point"}
+}

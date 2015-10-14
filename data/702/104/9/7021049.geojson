@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.733300,38.166700]},"type":"Feature","properties":{"hierarchy":["tgn:7021049","tgn:1000001","tgn:2002255","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021049,"name:xx":"White Oak Branch"}}
+{
+  "id": 7021049,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021049",
+        "tgn:1000001",
+        "tgn:2002255",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021049,
+    "tgn:name":"White Oak Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7333,38.1667],"type":"Point"}
+}

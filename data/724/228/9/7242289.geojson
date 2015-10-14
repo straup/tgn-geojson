@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.633333,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7242289","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7242289,"name:xx":"Knokstraat"}}
+{
+  "id": 7242289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242289",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242289,
+    "tgn:name":"Knokstraat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.633333,51.233333],"type":"Point"}
+}

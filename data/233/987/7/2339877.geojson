@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.016700,48.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2339877","tgn:1000001","tgn:7012149","tgn:2002250","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2339877,"name:xx":"Freeman Hill"}}
+{
+  "id": 2339877,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339877",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002250",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339877,
+    "tgn:name":"Freeman Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.0167,48.4333],"type":"Point"}
+}

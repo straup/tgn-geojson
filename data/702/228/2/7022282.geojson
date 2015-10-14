@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-98.383300,39.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022282","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":7022282,"name:xx":"Advent Creek"}}
+{
+  "id": 7022282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022282",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022282,
+    "tgn:name":"Advent Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.3833,39.9833],"type":"Point"}
+}

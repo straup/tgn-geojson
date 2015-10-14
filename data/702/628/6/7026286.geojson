@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-3.366700,53.333300]},"type":"Feature","properties":{"hierarchy":["tgn:7026286","tgn:7002443","tgn:7026278","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7026286,"name:xx":"Gronant"}}
+{
+  "id": 7026286,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026286",
+        "tgn:7002443",
+        "tgn:7026278",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026286,
+    "tgn:name":"Gronant",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-3.3667,53.3333],"type":"Point"}
+}

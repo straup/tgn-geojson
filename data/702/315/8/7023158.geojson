@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-86.366700,34.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7023158","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7023158,"name:xx":"Jenny River"}}
+{
+  "id": 7023158,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023158",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023158,
+    "tgn:name":"Jenny River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-86.3667,34.9833],"type":"Point"}
+}

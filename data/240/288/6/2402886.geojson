@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.466700,39.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2402886","tgn:1000001","tgn:7012149","tgn:7007706","tgn:7029392"],"placetype":["aat:300266640"],"id":2402886,"name:xx":"Hothouse Ridge"}}
+{
+  "id": 2402886,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402886",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402886,
+    "tgn:name":"Hothouse Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.4667,39.05],"type":"Point"}
+}

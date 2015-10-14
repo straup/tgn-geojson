@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.383300,35.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7020283","tgn:1000001","tgn:7012149","tgn:2001506","tgn:7007709","tgn:7029392"],"placetype":["aat:300055621"],"id":7020283,"name:xx":"Bell Island Recreation Area"}}
+{
+  "id": 7020283,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020283",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001506",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020283,
+    "tgn:name":"Bell Island Recreation Area",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.3833,35.4333],"type":"Point"}
+}

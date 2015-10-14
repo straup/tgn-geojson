@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.850000,48.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2769814","tgn:1000001","tgn:7012149","tgn:2001286","tgn:7007524","tgn:7029392"],"placetype":["aat:300008707"],"id":2769814,"name:xx":"Wigwam River"}}
+{
+  "id": 2769814,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769814",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001286",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769814,
+    "tgn:name":"Wigwam River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.85,48.95],"type":"Point"}
+}

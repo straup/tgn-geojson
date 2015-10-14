@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.816700,40.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2334642","tgn:1000001","tgn:7012149","tgn:1002924","tgn:7007568","tgn:7029392"],"placetype":["aat:300008850"],"id":2334642,"name:xx":"Forge Point"}}
+{
+  "id": 2334642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334642",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002924",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334642,
+    "tgn:name":"Forge Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8167,40.75],"type":"Point"}
+}

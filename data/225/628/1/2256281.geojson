@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-105.333300,39.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2256281","tgn:1000001","tgn:2000198","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008347"],"id":2256281,"name:xx":"Copperdale"}}
+{
+  "id": 2256281,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256281",
+        "tgn:1000001",
+        "tgn:2000198",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256281,
+    "tgn:name":"Copperdale",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.3333,39.9],"type":"Point"}
+}

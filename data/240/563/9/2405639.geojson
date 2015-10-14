@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-109.350000,31.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2405639","tgn:1000001","tgn:7006451","tgn:2000091","tgn:7012149","tgn:7029392"],"placetype":["aat:300006191"],"id":2405639,"name:xx":"Hughes Tank"}}
+{
+  "id": 2405639,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405639",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000091",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405639,
+    "tgn:name":"Hughes Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.35,31.8833],"type":"Point"}
+}

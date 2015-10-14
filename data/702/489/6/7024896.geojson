@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[17.116700,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:7024896","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008707"],"id":7024896,"name:xx":"Esaro"}}
+{
+  "id": 7024896,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024896",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024896,
+    "tgn:name":"Esaro",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[17.1167,39.0833],"type":"Point"}
+}

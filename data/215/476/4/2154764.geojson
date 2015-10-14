@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.233300,28.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2154764","tgn:1000001","tgn:7012149","tgn:1002881","tgn:7007240","tgn:7029392"],"placetype":["aat:300006075"],"id":2154764,"name:xx":"Bear Gully Canal"}}
+{
+  "id": 2154764,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154764",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002881",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154764,
+    "tgn:name":"Bear Gully Canal",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2333,28.6333],"type":"Point"}
+}

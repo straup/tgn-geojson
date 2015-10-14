@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.581585,24.082092]},"type":"Feature","properties":{"hierarchy":["tgn:7471728","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300387200"],"id":7471728,"name:xx":"Dazhu Li"}}
+{
+  "id": 7471728,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471728",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471728,
+    "tgn:name":"Dazhu Li",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.581585,24.082092],"type":"Point"}
+}

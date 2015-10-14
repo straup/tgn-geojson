@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-145.116700,65.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2159173","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000089","tgn:7029392"],"placetype":["aat:300008706"],"id":2159173,"name:xx":"Bedrock Creek"}}
+{
+  "id": 2159173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2159173",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000089",
+        "tgn:7029392"
+    ],
+    "tgn:id":2159173,
+    "tgn:name":"Bedrock Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-145.1167,65.4833],"type":"Point"}
+}

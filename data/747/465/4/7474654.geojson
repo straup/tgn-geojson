@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.264684,23.788667]},"type":"Feature","properties":{"hierarchy":["tgn:7474654","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300000206"],"id":7474654,"name:xx":"Sansheng Hezuo Nongchang"}}
+{
+  "id": 7474654,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474654",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474654,
+    "tgn:name":"Sansheng Hezuo Nongchang",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.264684,23.788667],"type":"Point"}
+}

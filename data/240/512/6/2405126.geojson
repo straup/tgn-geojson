@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.450000,46.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2405126","tgn:1000001","tgn:7012149","tgn:2001279","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2405126,"name:xx":"Huebeck Gulch"}}
+{
+  "id": 2405126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405126",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001279",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405126,
+    "tgn:name":"Huebeck Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.45,46.4333],"type":"Point"}
+}

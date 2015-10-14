@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.950000,41.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2332496","tgn:1000001","tgn:7012149","tgn:2002129","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2332496,"name:xx":"Florence Park Addition"}}
+{
+  "id": 2332496,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332496",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002129",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332496,
+    "tgn:name":"Florence Park Addition",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.95,41.2],"type":"Point"}
+}

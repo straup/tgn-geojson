@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.566667,24.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7359694","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359694,"name:xx":"Dolores Hidalgo"}}
+{
+  "id": 7359694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359694",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359694,
+    "tgn:name":"Dolores Hidalgo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.566667,24.0],"type":"Point"}
+}

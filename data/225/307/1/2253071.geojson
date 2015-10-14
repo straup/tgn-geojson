@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.933300,35.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2253071","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002863","tgn:7029392"],"placetype":["aat:300132348"],"id":2253071,"name:xx":"Constantine Rock"}}
+{
+  "id": 2253071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253071",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002863",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253071,
+    "tgn:name":"Constantine Rock",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.9333,35.4333],"type":"Point"}
+}

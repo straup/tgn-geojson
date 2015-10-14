@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.783333,50.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7112680","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7112680,"name:xx":"Rosenthal"}}
+{
+  "id": 7112680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7112680",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7112680,
+    "tgn:name":"Rosenthal",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.783333,50.533333],"type":"Point"}
+}

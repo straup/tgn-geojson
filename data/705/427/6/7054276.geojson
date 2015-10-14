@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.133333,44.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7054276","tgn:7004597","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054276,"name:xx":"Ponte Samoggia"}}
+{
+  "id": 7054276,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054276",
+        "tgn:7004597",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054276,
+    "tgn:name":"Ponte Samoggia",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.133333,44.566667],"type":"Point"}
+}

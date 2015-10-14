@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.689167,24.307500]},"type":"Feature","properties":{"hierarchy":["tgn:7483172","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483172,"name:xx":"He'an Qiao"}}
+{
+  "id": 7483172,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483172",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483172,
+    "tgn:name":"He'an Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.689167,24.3075],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-119.921667,24.265556]},"type":"Feature","properties":{"hierarchy":["tgn:7363959","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300386846"],"id":7363959,"name:xx":"El Mostrador, Punta"}}
+{
+  "id": 7363959,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363959",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363959,
+    "tgn:name":"El Mostrador, Punta",
+    "tgn:placetype":[
+        "aat:300386846"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.921667,24.265556],"type":"Point"}
+}

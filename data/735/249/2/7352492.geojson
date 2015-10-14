@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.716667,16.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7352492","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7352492,"name:xx":"Asunci\u00f3n Ocotl\u00e1n"}}
+{
+  "id": 7352492,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352492",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352492,
+    "tgn:name":"Asunci\u00f3n Ocotl\u00e1n",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.716667,16.8],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.533300,47.600000]},"type":"Feature","properties":{"hierarchy":["tgn:7021089","tgn:2001002","tgn:1000001","tgn:7012149","tgn:7007521","tgn:7029392"],"placetype":["aat:300008680"],"id":7021089,"name:xx":"Little Rice Pond"}}
+{
+  "id": 7021089,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021089",
+        "tgn:2001002",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007521",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021089,
+    "tgn:name":"Little Rice Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5333,47.6],"type":"Point"}
+}

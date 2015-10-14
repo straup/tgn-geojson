@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.720000,24.254444]},"type":"Feature","properties":{"hierarchy":["tgn:7482685","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7482685,"name:xx":"Fengyuan Guoxiao"}}
+{
+  "id": 7482685,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482685",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482685,
+    "tgn:name":"Fengyuan Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.72,24.254444],"type":"Point"}
+}

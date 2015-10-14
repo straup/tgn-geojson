@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.333333,18.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7360162","tgn:1000001","tgn:7005588","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7360162,"name:xx":"Coatetelco, Laguna"}}
+{
+  "id": 7360162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360162",
+        "tgn:1000001",
+        "tgn:7005588",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360162,
+    "tgn:name":"Coatetelco, Laguna",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.333333,18.733333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.516700,44.433300]},"type":"Feature","properties":{"hierarchy":["tgn:7020921","tgn:1000001","tgn:2000470","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":7020921,"name:xx":"McKay Creek"}}
+{
+  "id": 7020921,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020921",
+        "tgn:1000001",
+        "tgn:2000470",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020921,
+    "tgn:name":"McKay Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.5167,44.4333],"type":"Point"}
+}

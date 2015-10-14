@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.750000,36.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2409996","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300266640"],"id":2409996,"name:xx":"Impossible Ridge"}}
+{
+  "id": 2409996,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409996",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409996,
+    "tgn:name":"Impossible Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.75,36.6],"type":"Point"}
+}

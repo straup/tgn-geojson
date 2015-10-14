@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-142.733300,65.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2404261","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000085","tgn:7029392"],"placetype":["aat:300008706"],"id":2404261,"name:xx":"Hoyt Creek"}}
+{
+  "id": 2404261,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404261",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000085",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404261,
+    "tgn:name":"Hoyt Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-142.7333,65.0333],"type":"Point"}
+}

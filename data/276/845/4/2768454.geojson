@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-107.466700,33.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2768454","tgn:1000001","tgn:7012149","tgn:2001456","tgn:7007566","tgn:7029392"],"placetype":["aat:300006191"],"id":2768454,"name:xx":"Whitetail Tank"}}
+{
+  "id": 2768454,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768454",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001456",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768454,
+    "tgn:name":"Whitetail Tank",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4667,33.55],"type":"Point"}
+}

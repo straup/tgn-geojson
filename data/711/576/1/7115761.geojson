@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.866667,54.750000]},"type":"Feature","properties":{"hierarchy":["tgn:7115761","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7115761,"name:xx":"Ohrfeld"}}
+{
+  "id": 7115761,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115761",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115761,
+    "tgn:name":"Ohrfeld",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.866667,54.75],"type":"Point"}
+}

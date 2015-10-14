@@ -1,0 +1,26 @@
+{
+  "id": 1099958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1099958",
+        "tgn:1000001",
+        "tgn:7005600",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":1099958,
+    "tgn:name:en":"Uxmal Ruins",
+    "tgn:name:es":"Uxmal, Ruinas de",
+    "tgn:name:myn":"Uxmal",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387007",
+        "aat:300000810",
+        "aat:300167671",
+        "aat:300263063"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.766667,20.366667],"type":"Point"}
+}

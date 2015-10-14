@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.450000,23.650000]},"type":"Feature","properties":{"hierarchy":["tgn:7363230","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7363230,"name:xx":"El Arenal"}}
+{
+  "id": 7363230,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363230",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363230,
+    "tgn:name":"El Arenal",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.45,23.65],"type":"Point"}
+}

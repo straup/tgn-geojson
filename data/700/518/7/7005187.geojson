@@ -1,0 +1,27 @@
+{
+  "id": 7005187,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7005187",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7005187,
+    "tgn:name:de":"Ulm",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387239",
+        "aat:300000835",
+        "aat:300008389",
+        "aat:300387512",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.0,48.4],"type":"Point"}
+}

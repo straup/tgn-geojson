@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.933300,37.216700]},"type":"Feature","properties":{"hierarchy":["tgn:7022114","tgn:1000001","tgn:7012149","tgn:1002931","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":7022114,"name:xx":"Sunken Meadow Pond"}}
+{
+  "id": 7022114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022114",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002931",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022114,
+    "tgn:name":"Sunken Meadow Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.9333,37.2167],"type":"Point"}
+}

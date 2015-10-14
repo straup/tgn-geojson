@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.828369,25.124696]},"type":"Feature","properties":{"hierarchy":["tgn:7476765","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476765,"name:xx":"Shen'ao Shiyou Gang"}}
+{
+  "id": 7476765,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476765",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476765,
+    "tgn:name":"Shen'ao Shiyou Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.828369,25.124696],"type":"Point"}
+}

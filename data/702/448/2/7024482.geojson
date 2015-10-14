@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-41.450000,63.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7024482","tgn:7593554","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008713"],"id":7024482,"name:xx":"Nordre Skjoldungesund"}}
+{
+  "id": 7024482,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024482",
+        "tgn:7593554",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024482,
+    "tgn:name":"Nordre Skjoldungesund",
+    "tgn:placetype":[
+        "aat:300008713"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-41.45,63.4],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.041944,25.955278]},"type":"Feature","properties":{"hierarchy":["tgn:7377748","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7377748,"name:xx":"La P\u00edldora"}}
+{
+  "id": 7377748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377748",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377748,
+    "tgn:name":"La P\u00edldora",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.041944,25.955278],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.033333,24.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7350437","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7350437,"name:xx":"Apaseo"}}
+{
+  "id": 7350437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350437",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350437,
+    "tgn:name":"Apaseo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.033333,24.266667],"type":"Point"}
+}

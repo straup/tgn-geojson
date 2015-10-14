@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.498611,24.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7485397","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7485397,"name:xx":"Di'er Maming Qiao"}}
+{
+  "id": 7485397,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485397",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485397,
+    "tgn:name":"Di'er Maming Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.498611,24.05],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.366700,48.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2333531","tgn:1000001","tgn:7012149","tgn:2001305","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2333531,"name:xx":"Folsom Coulee"}}
+{
+  "id": 2333531,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333531",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001305",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333531,
+    "tgn:name":"Folsom Coulee",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.3667,48.6333],"type":"Point"}
+}

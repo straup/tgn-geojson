@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.800000,41.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2401516","tgn:1000001","tgn:1002461","tgn:7012149","tgn:7007159","tgn:7029392"],"placetype":["aat:300008761"],"id":2401516,"name:xx":"Horseshoe Cove"}}
+{
+  "id": 2401516,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401516",
+        "tgn:1000001",
+        "tgn:1002461",
+        "tgn:7012149",
+        "tgn:7007159",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401516,
+    "tgn:name":"Horseshoe Cove",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.8,41.8333],"type":"Point"}
+}

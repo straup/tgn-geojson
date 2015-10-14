@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.533300,38.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2253998","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300006191"],"id":2253998,"name:xx":"Cool Lake"}}
+{
+  "id": 2253998,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2253998",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2253998,
+    "tgn:name":"Cool Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.5333,38.25],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.564800,23.990500]},"type":"Feature","properties":{"hierarchy":["tgn:7486816","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486816,"name:xx":"Cunshang"}}
+{
+  "id": 7486816,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486816",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486816,
+    "tgn:name":"Cunshang",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5648,23.9905],"type":"Point"}
+}

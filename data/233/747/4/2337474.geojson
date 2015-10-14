@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.350000,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2337474","tgn:1000001","tgn:7012149","tgn:2001494","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2337474,"name:xx":"Fowler Lake Number One"}}
+{
+  "id": 2337474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337474",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001494",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337474,
+    "tgn:name":"Fowler Lake Number One",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.35,36.1333],"type":"Point"}
+}

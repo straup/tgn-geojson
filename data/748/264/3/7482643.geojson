@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.568611,23.745000]},"type":"Feature","properties":{"hierarchy":["tgn:7482643","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482643,"name:xx":"Fu'an Gong"}}
+{
+  "id": 7482643,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482643",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482643,
+    "tgn:name":"Fu'an Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.568611,23.745],"type":"Point"}
+}

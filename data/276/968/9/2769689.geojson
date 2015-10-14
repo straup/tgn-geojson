@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.966700,33.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2769689","tgn:7002659","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008706"],"id":2769689,"name:xx":"Wiggins Creek"}}
+{
+  "id": 2769689,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769689",
+        "tgn:7002659",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769689,
+    "tgn:name":"Wiggins Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9667,33.7],"type":"Point"}
+}

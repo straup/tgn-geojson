@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.397657,23.768958]},"type":"Feature","properties":{"hierarchy":["tgn:7488280","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7488280,"name:xx":"Huilaicuo"}}
+{
+  "id": 7488280,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488280",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488280,
+    "tgn:name":"Huilaicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.397657,23.768958],"type":"Point"}
+}

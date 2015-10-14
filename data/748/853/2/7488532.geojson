@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.049444,24.756111]},"type":"Feature","properties":{"hierarchy":["tgn:7488532","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7488532,"name:xx":"Guanyin Si"}}
+{
+  "id": 7488532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488532",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488532,
+    "tgn:name":"Guanyin Si",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.049444,24.756111],"type":"Point"}
+}

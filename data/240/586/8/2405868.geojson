@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-111.466700,35.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2405868","tgn:1000001","tgn:7006451","tgn:2000092","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":2405868,"name:xx":"Hulls Canyon"}}
+{
+  "id": 2405868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405868",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:2000092",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405868,
+    "tgn:name":"Hulls Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.4667,35.5333],"type":"Point"}
+}

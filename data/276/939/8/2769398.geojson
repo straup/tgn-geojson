@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.516700,38.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2769398","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2769398,"name:xx":"Wickson Draw"}}
+{
+  "id": 2769398,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769398",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769398,
+    "tgn:name":"Wickson Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5167,38.1333],"type":"Point"}
+}

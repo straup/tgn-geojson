@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[4.350000,50.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7241820","tgn:7018237","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008347"],"id":7241820,"name:xx":"Klein Sint-Job"}}
+{
+  "id": 7241820,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7241820",
+        "tgn:7018237",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7241820,
+    "tgn:name":"Klein Sint-Job",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.35,50.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.790708,24.660082]},"type":"Feature","properties":{"hierarchy":["tgn:7478677","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7478677,"name:xx":"Wuhanzhuang"}}
+{
+  "id": 7478677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478677",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478677,
+    "tgn:name":"Wuhanzhuang",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.790708,24.660082],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7004842,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7004842",
+        "tgn:7000272",
+        "tgn:1000004",
+        "tgn:7000893",
+        "tgn:1000120",
+        "tgn:7029392"
+    ],
+    "tgn:id":7004842,
+    "tgn:name":"Akita",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300264742",
+        "aat:300387220",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[140.0833,39.7333],"type":"Point"}
+}

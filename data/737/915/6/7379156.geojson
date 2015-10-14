@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-112.400000,26.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7379156","tgn:1001836","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300387057"],"id":7379156,"name:xx":"Mezquital, Boca del"}}
+{
+  "id": 7379156,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379156",
+        "tgn:1001836",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379156,
+    "tgn:name":"Mezquital, Boca del",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.4,26.216667],"type":"Point"}
+}

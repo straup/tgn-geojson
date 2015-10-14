@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.083333,51.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7115334","tgn:1000003","tgn:7003687","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7115334,"name:xx":"F\u00f6rsterei Olberg"}}
+{
+  "id": 7115334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115334",
+        "tgn:1000003",
+        "tgn:7003687",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115334,
+    "tgn:name":"F\u00f6rsterei Olberg",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.083333,51.85],"type":"Point"}
+}

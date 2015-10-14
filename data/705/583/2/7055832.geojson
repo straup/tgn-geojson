@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.083333,37.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7055832","tgn:1000003","tgn:1001651","tgn:7003122","tgn:1000080","tgn:7029392"],"placetype":["aat:300008816"],"id":7055832,"name:xx":"Plaia, Spiaggia della"}}
+{
+  "id": 7055832,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7055832",
+        "tgn:1000003",
+        "tgn:1001651",
+        "tgn:7003122",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7055832,
+    "tgn:name":"Plaia, Spiaggia della",
+    "tgn:placetype":[
+        "aat:300008816"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.083333,37.483333],"type":"Point"}
+}

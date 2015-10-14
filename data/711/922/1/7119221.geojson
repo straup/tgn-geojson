@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.883333,53.616667]},"type":"Feature","properties":{"hierarchy":["tgn:7119221","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300132317"],"id":7119221,"name:xx":"Priester-See"}}
+{
+  "id": 7119221,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119221",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119221,
+    "tgn:name":"Priester-See",
+    "tgn:placetype":[
+        "aat:300132317"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.883333,53.616667],"type":"Point"}
+}

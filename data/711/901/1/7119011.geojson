@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.666667,50.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7119011","tgn:1000003","tgn:7003682","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7119011,"name:xx":"Prinzenstein"}}
+{
+  "id": 7119011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7119011",
+        "tgn:1000003",
+        "tgn:7003682",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7119011,
+    "tgn:name":"Prinzenstein",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.666667,50.166667],"type":"Point"}
+}

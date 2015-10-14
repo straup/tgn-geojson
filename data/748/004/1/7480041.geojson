@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.329167,23.382500]},"type":"Feature","properties":{"hierarchy":["tgn:7480041","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7480041,"name:xx":"Jingliao Tifang"}}
+{
+  "id": 7480041,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480041",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480041,
+    "tgn:name":"Jingliao Tifang",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.329167,23.3825],"type":"Point"}
+}

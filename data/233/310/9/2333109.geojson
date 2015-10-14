@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.216700,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2333109","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000099","tgn:7029392"],"placetype":["aat:300008798"],"id":2333109,"name:xx":"Flying Butte"}}
+{
+  "id": 2333109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333109",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000099",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333109,
+    "tgn:name":"Flying Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.2167,35.1333],"type":"Point"}
+}

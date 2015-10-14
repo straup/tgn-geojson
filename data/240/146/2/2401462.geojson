@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.300000,33.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2401462","tgn:1000001","tgn:7012149","tgn:2001111","tgn:7007522","tgn:7029392"],"placetype":["aat:300008905"],"id":2401462,"name:xx":"Horseshoe Brake"}}
+{
+  "id": 2401462,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401462",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001111",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401462,
+    "tgn:name":"Horseshoe Brake",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.3,33.0833],"type":"Point"}
+}

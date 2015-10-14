@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.200000,43.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2332897","tgn:1000001","tgn:7012149","tgn:2000964","tgn:7007520","tgn:7029392"],"placetype":["aat:300006075"],"id":2332897,"name:xx":"Fluegge Drain"}}
+{
+  "id": 2332897,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332897",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000964",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332897,
+    "tgn:name":"Fluegge Drain",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.2,43.85],"type":"Point"}
+}

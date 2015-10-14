@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.700000,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2258211","tgn:1000001","tgn:7012149","tgn:2000885","tgn:7007256","tgn:7029392"],"placetype":["aat:300055621"],"id":2258211,"name:xx":"Coteau Chene Blanc"}}
+{
+  "id": 2258211,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258211",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000885",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258211,
+    "tgn:name":"Coteau Chene Blanc",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7,30.2333],"type":"Point"}
+}

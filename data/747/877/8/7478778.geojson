@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.919003,24.531838]},"type":"Feature","properties":{"hierarchy":["tgn:7478778","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7478778,"name:xx":"Xinxing Qiao"}}
+{
+  "id": 7478778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7478778",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7478778,
+    "tgn:name":"Xinxing Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.919003,24.531838],"type":"Point"}
+}

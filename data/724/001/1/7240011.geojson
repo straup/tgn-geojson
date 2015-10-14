@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[5.250000,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7240011","tgn:7003461","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300386887"],"id":7240011,"name:xx":"Hoog Maat Heide"}}
+{
+  "id": 7240011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240011",
+        "tgn:7003461",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240011,
+    "tgn:name":"Hoog Maat Heide",
+    "tgn:placetype":[
+        "aat:300386887"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.25,51.233333],"type":"Point"}
+}

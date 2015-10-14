@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[19.600000,42.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7024006","tgn:7006444","tgn:1000003","tgn:7006417","tgn:7029392"],"placetype":["aat:300008347"],"id":7024006,"name:xx":"Selce"}}
+{
+  "id": 7024006,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024006",
+        "tgn:7006444",
+        "tgn:1000003",
+        "tgn:7006417",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024006,
+    "tgn:name":"Selce",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[19.6,42.5],"type":"Point"}
+}

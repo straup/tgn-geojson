@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-88.633300,30.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2402134","tgn:1000001","tgn:7012149","tgn:2001115","tgn:7007522","tgn:7029392"],"placetype":["aat:300132348"],"id":2402134,"name:xx":"Horseshoe, The"}}
+{
+  "id": 2402134,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402134",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001115",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402134,
+    "tgn:name":"Horseshoe, The",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.6333,30.2333],"type":"Point"}
+}

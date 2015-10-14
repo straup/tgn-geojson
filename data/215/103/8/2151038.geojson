@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.866700,44.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2151038","tgn:1000001","tgn:7012149","tgn:7016021","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2151038,"name:xx":"Bassout Pond"}}
+{
+  "id": 2151038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151038",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7016021",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151038,
+    "tgn:name":"Bassout Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.8667,44.0833],"type":"Point"}
+}

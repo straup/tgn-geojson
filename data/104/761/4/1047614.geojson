@@ -1,0 +1,29 @@
+{
+  "id": 1047614,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f02ece-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2759798",
+        "gp:id":727224,
+        "qs:id":7,
+        "wof:id":101751891
+    },
+    "tgn:hierarchy":[
+        "tgn:1047614",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":1047614,
+    "tgn:name:nl":"Amstelveen",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300000874"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.866667,52.3],"type":"Point"}
+}

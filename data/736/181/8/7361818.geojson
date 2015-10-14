@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.050000,31.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7361818","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7361818,"name:xx":"El Leon, Cerro"}}
+{
+  "id": 7361818,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361818",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361818,
+    "tgn:name":"El Leon, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.05,31.55],"type":"Point"}
+}

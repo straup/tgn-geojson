@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.731838,24.674300]},"type":"Feature","properties":{"hierarchy":["tgn:7487642","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7487642,"name:xx":"Kelin Cun"}}
+{
+  "id": 7487642,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7487642",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7487642,
+    "tgn:name":"Kelin Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.731838,24.6743],"type":"Point"}
+}

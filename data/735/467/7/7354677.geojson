@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.733333,25.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7354677","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300259572"],"id":7354677,"name:xx":"Casta\u00f1uela, Paso"}}
+{
+  "id": 7354677,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7354677",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7354677,
+    "tgn:name":"Casta\u00f1uela, Paso",
+    "tgn:placetype":[
+        "aat:300259572"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.733333,25.416667],"type":"Point"}
+}

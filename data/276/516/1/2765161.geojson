@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.900000,35.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2765161","tgn:1000001","tgn:2001410","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008697"],"id":2765161,"name:xx":"Whister Spring"}}
+{
+  "id": 2765161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765161",
+        "tgn:1000001",
+        "tgn:2001410",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765161,
+    "tgn:name":"Whister Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.9,35.4833],"type":"Point"}
+}

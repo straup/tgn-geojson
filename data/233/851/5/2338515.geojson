@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-87.916700,37.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2338515","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2338515,"name:xx":"Fralick Hollow"}}
+{
+  "id": 2338515,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338515",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338515,
+    "tgn:name":"Fralick Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.9167,37.2833],"type":"Point"}
+}

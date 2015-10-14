@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-104.766700,31.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7022475","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300266640"],"id":7022475,"name:xx":"Camp Wilderness Ridge"}}
+{
+  "id": 7022475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022475",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022475,
+    "tgn:name":"Camp Wilderness Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.7667,31.9833],"type":"Point"}
+}

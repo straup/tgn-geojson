@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.583300,30.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2339079","tgn:1000001","tgn:7012149","tgn:2002040","tgn:7007826","tgn:7029392"],"placetype":["aat:300008697"],"id":2339079,"name:xx":"Franklin Spring"}}
+{
+  "id": 2339079,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339079",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002040",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339079,
+    "tgn:name":"Franklin Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.5833,30.75],"type":"Point"}
+}

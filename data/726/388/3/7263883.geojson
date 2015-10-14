@@ -1,0 +1,27 @@
+{
+  "id": 7263883,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f13670-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751744",
+        "gp:id":731231,
+        "qs:id":8,
+        "wof:id":101837713
+    },
+    "tgn:hierarchy":[
+        "tgn:7263883",
+        "tgn:1000003",
+        "tgn:7003632",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7263883,
+    "tgn:name:nl":"Lekkerkerk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.683333,51.9],"type":"Point"}
+}

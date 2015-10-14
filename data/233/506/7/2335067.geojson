@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.250000,30.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2335067","tgn:1000001","tgn:7012149","tgn:2000383","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2335067,"name:xx":"Forresthill Estates"}}
+{
+  "id": 2335067,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335067",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000383",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335067,
+    "tgn:name":"Forresthill Estates",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.25,30.8167],"type":"Point"}
+}

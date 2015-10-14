@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.533300,37.583300]},"type":"Feature","properties":{"hierarchy":["tgn:7022762","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":7022762,"name:xx":"Wolf Fork"}}
+{
+  "id": 7022762,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022762",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022762,
+    "tgn:name":"Wolf Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.5333,37.5833],"type":"Point"}
+}

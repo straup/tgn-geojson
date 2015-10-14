@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.271818,23.087607]},"type":"Feature","properties":{"hierarchy":["tgn:7482162","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300007595"],"id":7482162,"name:xx":"Xinchang Gong"}}
+{
+  "id": 7482162,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482162",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482162,
+    "tgn:name":"Xinchang Gong",
+    "tgn:placetype":[
+        "aat:300007595"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.271818,23.087607],"type":"Point"}
+}

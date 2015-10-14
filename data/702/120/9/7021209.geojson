@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-108.950000,33.700000]},"type":"Feature","properties":{"hierarchy":["tgn:7021209","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":7021209,"name:xx":"San Francisco Mountains"}}
+{
+  "id": 7021209,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021209",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021209,
+    "tgn:name":"San Francisco Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.95,33.7],"type":"Point"}
+}

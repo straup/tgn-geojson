@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.083333,30.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7375975","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7375975,"name:xx":"Las Varas, Arroyo de"}}
+{
+  "id": 7375975,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375975",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375975,
+    "tgn:name":"Las Varas, Arroyo de",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.083333,30.583333],"type":"Point"}
+}

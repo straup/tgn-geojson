@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.245833,23.740833]},"type":"Feature","properties":{"hierarchy":["tgn:7482733","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7482733,"name:xx":"Haifeng Qiao"}}
+{
+  "id": 7482733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482733",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482733,
+    "tgn:name":"Haifeng Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.245833,23.740833],"type":"Point"}
+}

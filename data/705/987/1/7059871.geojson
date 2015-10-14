@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.533333,51.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7059871","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7059871,"name:xx":"Allen-Berg"}}
+{
+  "id": 7059871,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059871",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059871,
+    "tgn:name":"Allen-Berg",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.533333,51.466667],"type":"Point"}
+}

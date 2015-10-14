@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.900000,48.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7116294","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7116294,"name:xx":"Oberweier Bach"}}
+{
+  "id": 7116294,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116294",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116294,
+    "tgn:name":"Oberweier Bach",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.9,48.366667],"type":"Point"}
+}

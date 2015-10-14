@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-0.283333,52.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7027289","tgn:7002445","tgn:7011980","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Hail Weston","id":7027289}}
+{
+  "id": 7027289,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027289",
+        "tgn:7002445",
+        "tgn:7011980",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027289,
+    "tgn:name:en":"Hail Weston",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-0.283333,52.233333],"type":"Point"}
+}

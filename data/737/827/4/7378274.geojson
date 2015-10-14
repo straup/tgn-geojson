@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.883333,26.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7378274","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7378274,"name:xx":"Rancho La Presa"}}
+{
+  "id": 7378274,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378274",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378274,
+    "tgn:name":"Rancho La Presa",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.883333,26.283333],"type":"Point"}
+}

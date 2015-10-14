@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.500000,23.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7374466","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7374466,"name:xx":"Laguna Seca"}}
+{
+  "id": 7374466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374466",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374466,
+    "tgn:name":"Laguna Seca",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.5,23.05],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-92.066667,15.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7368819","tgn:1000001","tgn:1001893","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7368819,"name:xx":"Hoja Blanca, R\u00edo"}}
+{
+  "id": 7368819,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368819",
+        "tgn:1000001",
+        "tgn:1001893",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368819,
+    "tgn:name":"Hoja Blanca, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.066667,15.55],"type":"Point"}
+}

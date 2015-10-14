@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.233333,38.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7053011","tgn:1003447","tgn:7007850","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008697"],"id":7053011,"name:xx":"Iacolano, Fontana"}}
+{
+  "id": 7053011,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053011",
+        "tgn:1003447",
+        "tgn:7007850",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053011,
+    "tgn:name":"Iacolano, Fontana",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.233333,38.783333],"type":"Point"}
+}

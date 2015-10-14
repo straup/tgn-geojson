@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-89.733300,45.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2761054","tgn:1000001","tgn:7012149","tgn:2002334","tgn:7007922","tgn:7029392"],"placetype":["aat:300008347"],"id":2761054,"name:xx":"West Kraft"}}
+{
+  "id": 2761054,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761054",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002334",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761054,
+    "tgn:name":"West Kraft",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-89.7333,45.4333],"type":"Point"}
+}

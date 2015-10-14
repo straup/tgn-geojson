@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.666700,42.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2764783","tgn:1000001","tgn:7012149","tgn:2001709","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2764783,"name:xx":"Whiskey Creek Reservoir Number Two"}}
+{
+  "id": 2764783,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764783",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001709",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764783,
+    "tgn:name":"Whiskey Creek Reservoir Number Two",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.6667,42.9333],"type":"Point"}
+}

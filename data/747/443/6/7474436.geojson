@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.275000,22.767222]},"type":"Feature","properties":{"hierarchy":["tgn:7474436","tgn:7001004","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7474436,"name:xx":"Dianbao Xi"}}
+{
+  "id": 7474436,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474436",
+        "tgn:7001004",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474436,
+    "tgn:name":"Dianbao Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.275,22.767222],"type":"Point"}
+}

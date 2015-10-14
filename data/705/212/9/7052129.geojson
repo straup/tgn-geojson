@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[16.133333,38.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7052129","tgn:7007850","tgn:1003491","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052129,"name:xx":"Lacchi"}}
+{
+  "id": 7052129,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052129",
+        "tgn:7007850",
+        "tgn:1003491",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052129,
+    "tgn:name":"Lacchi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[16.133333,38.416667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.600000,22.583333]},"type":"Feature","properties":{"hierarchy":["tgn:7369797","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369797,"name:xx":"Guam\u00fachil"}}
+{
+  "id": 7369797,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369797",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369797,
+    "tgn:name":"Guam\u00fachil",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.6,22.583333],"type":"Point"}
+}

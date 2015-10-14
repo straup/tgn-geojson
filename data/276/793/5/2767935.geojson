@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.550000,38.483300]},"type":"Feature","properties":{"hierarchy":["tgn:2767935","tgn:1000001","tgn:7012149","tgn:2002270","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":2767935,"name:xx":"Whiteman Fork"}}
+{
+  "id": 2767935,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767935",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002270",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767935,
+    "tgn:name":"Whiteman Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.55,38.4833],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-113.883300,41.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7023038","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":7023038,"name:xx":"Goose Creek Mountains"}}
+{
+  "id": 7023038,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023038",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023038,
+    "tgn:name":"Goose Creek Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.8833,41.9],"type":"Point"}
+}

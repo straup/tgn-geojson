@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.950000,38.316700]},"type":"Feature","properties":{"hierarchy":["tgn:7021257","tgn:1000001","tgn:7012149","tgn:2002284","tgn:7013961","tgn:7029392"],"placetype":["aat:300008699"],"id":7021257,"name:xx":"Jones Branch"}}
+{
+  "id": 7021257,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7021257",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002284",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":7021257,
+    "tgn:name":"Jones Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.95,38.3167],"type":"Point"}
+}

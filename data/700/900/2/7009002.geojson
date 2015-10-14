@@ -1,0 +1,29 @@
+{
+  "id": 7009002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7009002",
+        "tgn:1000003",
+        "tgn:7001097",
+        "tgn:1000070",
+        "tgn:7029392"
+    ],
+    "tgn:id":7009002,
+    "tgn:name:de":"Calais",
+    "tgn:name:en":"Calais",
+    "tgn:name:fr":"Calais",
+    "tgn:name:nl":"Kales",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300008372",
+        "aat:300387249",
+        "aat:300387270",
+        "aat:300387302",
+        "aat:300120599"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[1.8667,50.95],"type":"Point"}
+}

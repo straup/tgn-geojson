@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.750000,19.050000]},"type":"Feature","properties":{"hierarchy":["tgn:7371161","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7371161,"name:xx":"Jiliotupa"}}
+{
+  "id": 7371161,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371161",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371161,
+    "tgn:name":"Jiliotupa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.75,19.05],"type":"Point"}
+}

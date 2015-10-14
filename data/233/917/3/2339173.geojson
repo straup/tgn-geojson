@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.916700,38.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2339173","tgn:1000001","tgn:1002902","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008791"],"id":2339173,"name:xx":"Franks Island"}}
+{
+  "id": 2339173,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339173",
+        "tgn:1000001",
+        "tgn:1002902",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339173,
+    "tgn:name":"Franks Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.9167,38.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.283300,34.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2339988","tgn:1000001","tgn:2001744","tgn:7012149","tgn:7007712","tgn:7029392"],"placetype":["aat:300008706"],"id":2339988,"name:xx":"Frees Creek"}}
+{
+  "id": 2339988,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339988",
+        "tgn:1000001",
+        "tgn:2001744",
+        "tgn:7012149",
+        "tgn:7007712",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339988,
+    "tgn:name":"Frees Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.2833,34.4],"type":"Point"}
+}

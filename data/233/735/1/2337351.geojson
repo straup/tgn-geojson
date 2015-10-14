@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.916700,40.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2337351","tgn:1000001","tgn:7012149","tgn:1002494","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2337351,"name:xx":"Fousetown"}}
+{
+  "id": 2337351,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2337351",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002494",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2337351,
+    "tgn:name":"Fousetown",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9167,40.45],"type":"Point"}
+}

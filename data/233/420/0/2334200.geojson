@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.166700,39.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2334200","tgn:1000001","tgn:1002738","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008347"],"id":2334200,"name:xx":"Forest Acres"}}
+{
+  "id": 2334200,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334200",
+        "tgn:1000001",
+        "tgn:1002738",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334200,
+    "tgn:name":"Forest Acres",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.1667,39.95],"type":"Point"}
+}

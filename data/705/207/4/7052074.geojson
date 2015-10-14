@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.033333,44.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7052074","tgn:7003127","tgn:1000003","tgn:7008516","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7052074,"name:xx":"Marano"}}
+{
+  "id": 7052074,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7052074",
+        "tgn:7003127",
+        "tgn:1000003",
+        "tgn:7008516",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7052074,
+    "tgn:name":"Marano",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.033333,44.233333],"type":"Point"}
+}

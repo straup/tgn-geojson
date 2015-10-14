@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.300000,24.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7356183","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7356183,"name:xx":"Carlos"}}
+{
+  "id": 7356183,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356183",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356183,
+    "tgn:name":"Carlos",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.3,24.333333],"type":"Point"}
+}

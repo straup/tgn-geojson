@@ -1,0 +1,26 @@
+{
+  "id": 7000538,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000538",
+        "tgn:7001242",
+        "tgn:1001959",
+        "tgn:1000182",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000538,
+    "tgn:name":"Sokoto",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300387512",
+        "aat:300387221",
+        "aat:300008375",
+        "aat:300387286",
+        "aat:300387296"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.25,13.0333],"type":"Point"}
+}

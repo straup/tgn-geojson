@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.807500,21.965833]},"type":"Feature","properties":{"hierarchy":["tgn:7488512","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008777"],"id":7488512,"name:xx":"Guihedai Shan"}}
+{
+  "id": 7488512,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488512",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488512,
+    "tgn:name":"Guihedai Shan",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.8075,21.965833],"type":"Point"}
+}

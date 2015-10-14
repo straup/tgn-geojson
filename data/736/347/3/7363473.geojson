@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.333333,22.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7363473","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363473,"name:xx":"El Chapopotito"}}
+{
+  "id": 7363473,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363473",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363473,
+    "tgn:name":"El Chapopotito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.333333,22.4],"type":"Point"}
+}

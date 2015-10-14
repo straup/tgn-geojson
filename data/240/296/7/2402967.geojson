@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.600000,39.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2402967","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002566","tgn:7029392"],"placetype":["aat:300008347"],"id":2402967,"name:xx":"Hough Springs"}}
+{
+  "id": 2402967,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402967",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402967,
+    "tgn:name":"Hough Springs",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.6,39.15],"type":"Point"}
+}

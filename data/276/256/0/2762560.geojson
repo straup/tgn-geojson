@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-76.566700,38.016700]},"type":"Feature","properties":{"hierarchy":["tgn:2762560","tgn:1000001","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300008707"],"id":2762560,"name:xx":"West Yeocomico River"}}
+{
+  "id": 2762560,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762560",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762560,
+    "tgn:name":"West Yeocomico River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.5667,38.0167],"type":"Point"}
+}

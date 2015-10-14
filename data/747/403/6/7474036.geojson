@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.457222,23.282500]},"type":"Feature","properties":{"hierarchy":["tgn:7474036","tgn:1000004","tgn:7490934","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7474036,"name:xx":"Zilongting"}}
+{
+  "id": 7474036,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474036",
+        "tgn:1000004",
+        "tgn:7490934",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474036,
+    "tgn:name":"Zilongting",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.457222,23.2825],"type":"Point"}
+}

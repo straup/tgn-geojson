@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.083333,29.033333]},"type":"Feature","properties":{"hierarchy":["tgn:7350870","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7350870,"name:xx":"\u00c1rboles, Arroyo de los"}}
+{
+  "id": 7350870,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350870",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350870,
+    "tgn:name":"\u00c1rboles, Arroyo de los",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.083333,29.033333],"type":"Point"}
+}

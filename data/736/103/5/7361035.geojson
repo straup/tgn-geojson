@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.783333,21.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7361035","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7361035,"name:xx":"El Colorin"}}
+{
+  "id": 7361035,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7361035",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7361035,
+    "tgn:name":"El Colorin",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.783333,21.85],"type":"Point"}
+}

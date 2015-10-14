@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.500000,53.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7111653","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7111653,"name:xx":"Rintzeln"}}
+{
+  "id": 7111653,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111653",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111653,
+    "tgn:name":"Rintzeln",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.5,53.666667],"type":"Point"}
+}

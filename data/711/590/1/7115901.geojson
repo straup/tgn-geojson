@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.750000,54.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7115901","tgn:1000003","tgn:7003688","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7115901,"name:xx":"\u00d6verdiek"}}
+{
+  "id": 7115901,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115901",
+        "tgn:1000003",
+        "tgn:7003688",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115901,
+    "tgn:name":"\u00d6verdiek",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.75,54.0],"type":"Point"}
+}

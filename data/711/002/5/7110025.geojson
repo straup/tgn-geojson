@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.850000,53.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7110025","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008863"],"id":7110025,"name:xx":"Reiherholz"}}
+{
+  "id": 7110025,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7110025",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7110025,
+    "tgn:name":"Reiherholz",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.85,53.133333],"type":"Point"}
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1000131,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:1000131",
+        "tgn:1000004",
+        "tgn:7029392"
+    ],
+    "tgn:id":1000131,
+    "tgn:name":"\u02bbUm\u0101n",
+    "tgn:name:ar":"\u0639\u0645\u0627\u0646",
+    "tgn:name:en":"Oman",
+    "tgn:name:es":"Om\u00e1n",
+    "tgn:name:fr":"Oman",
+    "tgn:name:ru":"\u041e\u043c\u0430\u043d",
+    "tgn:name:zh":"\u963f\u66fc",
+    "tgn:placetype":[
+        "aat:300387054",
+        "aat:300128207",
+        "aat:300387174",
+        "aat:300387136",
+        "aat:300235106"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[57.0,21.0],"type":"Point"}
+}

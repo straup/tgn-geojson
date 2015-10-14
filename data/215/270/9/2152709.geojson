@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-87.433300,30.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2152709","tgn:1000001","tgn:2000265","tgn:7012149","tgn:7007240","tgn:7029392"],"placetype":["aat:300132316"],"id":2152709,"name:xx":"Bayou Garcon"}}
+{
+  "id": 2152709,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152709",
+        "tgn:1000001",
+        "tgn:2000265",
+        "tgn:7012149",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152709,
+    "tgn:name":"Bayou Garcon",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-87.4333,30.3167],"type":"Point"}
+}

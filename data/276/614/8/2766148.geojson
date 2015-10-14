@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.950000,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2766148","tgn:1000001","tgn:7012149","tgn:2001420","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2766148,"name:xx":"White Knoll"}}
+{
+  "id": 2766148,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766148",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001420",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766148,
+    "tgn:name":"White Knoll",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.95,38.85],"type":"Point"}
+}

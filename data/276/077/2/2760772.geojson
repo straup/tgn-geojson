@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.800000,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:2760772","tgn:1000001","tgn:7012149","tgn:2002384","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2760772,"name:xx":"West Gros Ventre Butte"}}
+{
+  "id": 2760772,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2760772",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002384",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2760772,
+    "tgn:name":"West Gros Ventre Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.8,43.5],"type":"Point"}
+}

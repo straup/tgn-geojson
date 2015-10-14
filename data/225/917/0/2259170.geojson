@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.633300,38.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2259170","tgn:1000001","tgn:2002108","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2259170,"name:xx":"Cottonwood Holes"}}
+{
+  "id": 2259170,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259170",
+        "tgn:1000001",
+        "tgn:2002108",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259170,
+    "tgn:name":"Cottonwood Holes",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6333,38.85],"type":"Point"}
+}

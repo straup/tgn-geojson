@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.928353,25.058147]},"type":"Feature","properties":{"hierarchy":["tgn:7476954","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7476954,"name:xx":"Aodi Yugang"}}
+{
+  "id": 7476954,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476954",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476954,
+    "tgn:name":"Aodi Yugang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.928353,25.058147],"type":"Point"}
+}

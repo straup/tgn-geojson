@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.683333,49.483333]},"type":"Feature","properties":{"hierarchy":["tgn:7171292","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008057"],"id":7171292,"name:xx":"Ruine Hirschburg"}}
+{
+  "id": 7171292,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7171292",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7171292,
+    "tgn:name":"Ruine Hirschburg",
+    "tgn:placetype":[
+        "aat:300008057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.683333,49.483333],"type":"Point"}
+}

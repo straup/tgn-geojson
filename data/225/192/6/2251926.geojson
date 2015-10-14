@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.883300,24.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2251926","tgn:1000001","tgn:7012149","tgn:1002676","tgn:7007240","tgn:7029392"],"placetype":["aat:300132348"],"id":2251926,"name:xx":"Conch Keys Banks"}}
+{
+  "id": 2251926,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251926",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002676",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251926,
+    "tgn:name":"Conch Keys Banks",
+    "tgn:placetype":[
+        "aat:300132348"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.8833,24.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.378068,23.519943]},"type":"Feature","properties":{"hierarchy":["tgn:7489630","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7489630,"name:xx":"Ruibei Cun"}}
+{
+  "id": 7489630,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489630",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489630,
+    "tgn:name":"Ruibei Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.378068,23.519943],"type":"Point"}
+}

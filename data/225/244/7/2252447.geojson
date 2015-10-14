@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-72.116700,43.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2252447","tgn:1000001","tgn:2001427","tgn:7012149","tgn:7007564","tgn:7029392"],"placetype":["aat:300008680"],"id":2252447,"name:xx":"Coniston, Lake"}}
+{
+  "id": 2252447,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252447",
+        "tgn:1000001",
+        "tgn:2001427",
+        "tgn:7012149",
+        "tgn:7007564",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252447,
+    "tgn:name":"Coniston, Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.1167,43.4333],"type":"Point"}
+}

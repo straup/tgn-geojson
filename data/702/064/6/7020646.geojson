@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.000000,45.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7020646","tgn:1000001","tgn:7012149","tgn:2001297","tgn:7007524","tgn:7029392"],"placetype":["aat:300008697"],"id":7020646,"name:xx":"Watt Draw Spring"}}
+{
+  "id": 7020646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020646",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001297",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020646,
+    "tgn:name":"Watt Draw Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.0,45.45],"type":"Point"}
+}

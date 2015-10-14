@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.416667,28.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7352328","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7352328,"name:xx":"Bronce, Sierra del"}}
+{
+  "id": 7352328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7352328",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7352328,
+    "tgn:name":"Bronce, Sierra del",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.416667,28.966667],"type":"Point"}
+}

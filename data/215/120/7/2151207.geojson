@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.466700,39.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2151207","tgn:1000001","tgn:1002218","tgn:7012149","tgn:7007157","tgn:7029392"],"placetype":["aat:300008850"],"id":2151207,"name:xx":"Batchelor Point"}}
+{
+  "id": 2151207,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151207",
+        "tgn:1000001",
+        "tgn:1002218",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151207,
+    "tgn:name":"Batchelor Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.4667,39.7833],"type":"Point"}
+}

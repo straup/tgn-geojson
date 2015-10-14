@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.666700,40.800000]},"type":"Feature","properties":{"hierarchy":["tgn:2403471","tgn:1000001","tgn:7012149","tgn:1002968","tgn:7007706","tgn:7029392"],"placetype":["aat:300006075"],"id":2403471,"name:xx":"Hoverman Ditch"}}
+{
+  "id": 2403471,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403471",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002968",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403471,
+    "tgn:name":"Hoverman Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.6667,40.8],"type":"Point"}
+}

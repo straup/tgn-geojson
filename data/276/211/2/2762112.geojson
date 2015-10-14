@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.733300,33.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2762112","tgn:1000001","tgn:2001429","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2762112,"name:xx":"West Sign Camp Canyon"}}
+{
+  "id": 2762112,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762112",
+        "tgn:1000001",
+        "tgn:2001429",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762112,
+    "tgn:name":"West Sign Camp Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7333,33.55],"type":"Point"}
+}

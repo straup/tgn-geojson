@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.683300,44.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2259825","tgn:1000001","tgn:7012149","tgn:2001712","tgn:7007708","tgn:7029392"],"placetype":["aat:300008697"],"id":2259825,"name:xx":"Cougar Spring"}}
+{
+  "id": 2259825,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259825",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001712",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259825,
+    "tgn:name":"Cougar Spring",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.6833,44.6],"type":"Point"}
+}

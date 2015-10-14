@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.183333,26.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7377474","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7377474,"name:xx":"La Venada, Laguna de"}}
+{
+  "id": 7377474,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377474",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377474,
+    "tgn:name":"La Venada, Laguna de",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.183333,26.116667],"type":"Point"}
+}

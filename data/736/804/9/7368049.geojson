@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.716667,20.783333]},"type":"Feature","properties":{"hierarchy":["tgn:7368049","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7368049,"name:xx":"Grande de Jolapa, Cerro"}}
+{
+  "id": 7368049,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368049",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368049,
+    "tgn:name":"Grande de Jolapa, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.716667,20.783333],"type":"Point"}
+}

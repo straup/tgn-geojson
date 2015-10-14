@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.583300,36.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2768324","tgn:1000001","tgn:7012149","tgn:2001500","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2768324,"name:xx":"Whitesell Lake Number Two"}}
+{
+  "id": 2768324,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768324",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001500",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768324,
+    "tgn:name":"Whitesell Lake Number Two",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.5833,36.1333],"type":"Point"}
+}

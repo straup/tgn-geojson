@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-117.066700,42.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2259153","tgn:1000001","tgn:7012149","tgn:2001718","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2259153,"name:xx":"Cottonwood Gulch"}}
+{
+  "id": 2259153,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259153",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001718",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259153,
+    "tgn:name":"Cottonwood Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-117.0667,42.8333],"type":"Point"}
+}

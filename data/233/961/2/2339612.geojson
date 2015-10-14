@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-142.266700,61.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2339612","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300008835"],"id":2339612,"name:xx":"Frederika Glacier"}}
+{
+  "id": 2339612,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2339612",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2339612,
+    "tgn:name":"Frederika Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-142.2667,61.7333],"type":"Point"}
+}

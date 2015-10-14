@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.050000,42.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2335743","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300008706"],"id":2335743,"name:xx":"Forty Rod Creek"}}
+{
+  "id": 2335743,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335743",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335743,
+    "tgn:name":"Forty Rod Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.05,42.95],"type":"Point"}
+}

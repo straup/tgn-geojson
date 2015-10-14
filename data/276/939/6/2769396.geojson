@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.300000,45.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2769396","tgn:1000001","tgn:7012149","tgn:1002990","tgn:7007708","tgn:7029392"],"placetype":["aat:300006191"],"id":2769396,"name:xx":"Wicks Reservoir"}}
+{
+  "id": 2769396,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2769396",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002990",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2769396,
+    "tgn:name":"Wicks Reservoir",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3,45.5333],"type":"Point"}
+}

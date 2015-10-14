@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.266700,35.883300]},"type":"Feature","properties":{"hierarchy":["tgn:7020532","tgn:1000001","tgn:7012149","tgn:2001556","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":7020532,"name:xx":"Allen Branch"}}
+{
+  "id": 7020532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001556",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020532,
+    "tgn:name":"Allen Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.2667,35.8833],"type":"Point"}
+}

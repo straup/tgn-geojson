@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-120.550000,44.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2334883","tgn:1000001","tgn:2001703","tgn:7012149","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2334883,"name:xx":"Forked Horn Butte"}}
+{
+  "id": 2334883,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334883",
+        "tgn:1000001",
+        "tgn:2001703",
+        "tgn:7012149",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334883,
+    "tgn:name":"Forked Horn Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-120.55,44.45],"type":"Point"}
+}

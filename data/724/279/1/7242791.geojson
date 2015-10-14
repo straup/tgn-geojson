@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[2.916667,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7242791","tgn:7003458","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7242791,"name:xx":"Lange Koestal"}}
+{
+  "id": 7242791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7242791",
+        "tgn:7003458",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7242791,
+    "tgn:name":"Lange Koestal",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.916667,51.15],"type":"Point"}
+}

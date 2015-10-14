@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.723889,24.307778]},"type":"Feature","properties":{"hierarchy":["tgn:7483167","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7483167,"name:xx":"Houzong Guozhong"}}
+{
+  "id": 7483167,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483167",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483167,
+    "tgn:name":"Houzong Guozhong",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.723889,24.307778],"type":"Point"}
+}

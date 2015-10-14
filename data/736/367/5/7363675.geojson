@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-98.850000,26.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7363675","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7363675,"name:xx":"El Az\u00facar"}}
+{
+  "id": 7363675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363675",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363675,
+    "tgn:name":"El Az\u00facar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.85,26.25],"type":"Point"}
+}

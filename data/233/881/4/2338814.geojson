@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.800000,35.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2338814","tgn:1000001","tgn:7012149","tgn:2001512","tgn:7007709","tgn:7029392"],"placetype":["aat:300008699"],"id":2338814,"name:xx":"Frank Nunn Branch"}}
+{
+  "id": 2338814,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338814",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001512",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338814,
+    "tgn:name":"Frank Nunn Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.8,35.1667],"type":"Point"}
+}

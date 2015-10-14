@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.516700,48.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2767101","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008798"],"id":2767101,"name:xx":"White Rock"}}
+{
+  "id": 2767101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767101",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767101,
+    "tgn:name":"White Rock",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.5167,48.8333],"type":"Point"}
+}

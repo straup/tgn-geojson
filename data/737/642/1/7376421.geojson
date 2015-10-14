@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.600000,19.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7376421","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7376421,"name:xx":"La Ternera"}}
+{
+  "id": 7376421,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376421",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376421,
+    "tgn:name":"La Ternera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.6,19.266667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.266700,37.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2761787","tgn:2000765","tgn:1000001","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2761787,"name:xx":"West Prong Glens Fork"}}
+{
+  "id": 2761787,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761787",
+        "tgn:2000765",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761787,
+    "tgn:name":"West Prong Glens Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2667,37.0],"type":"Point"}
+}

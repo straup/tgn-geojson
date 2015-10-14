@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.821944,24.825000]},"type":"Feature","properties":{"hierarchy":["tgn:7482946","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387033"],"id":7482946,"name:xx":"Sanbaozhu Shan"}}
+{
+  "id": 7482946,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482946",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482946,
+    "tgn:name":"Sanbaozhu Shan",
+    "tgn:placetype":[
+        "aat:300387033"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.821944,24.825],"type":"Point"}
+}

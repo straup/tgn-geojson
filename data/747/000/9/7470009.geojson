@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.700000,22.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7470009","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7470009,"name:xx":"Chunri Cun"}}
+{
+  "id": 7470009,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470009",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470009,
+    "tgn:name":"Chunri Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.7,22.383333],"type":"Point"}
+}

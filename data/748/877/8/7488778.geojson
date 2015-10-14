@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.562300,24.188200]},"type":"Feature","properties":{"hierarchy":["tgn:7488778","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488778,"name:xx":"Longgang Cun"}}
+{
+  "id": 7488778,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488778",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488778,
+    "tgn:name":"Longgang Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5623,24.1882],"type":"Point"}
+}

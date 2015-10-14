@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.650000,41.166700]},"type":"Feature","properties":{"hierarchy":["tgn:2151437","tgn:1000001","tgn:7012149","tgn:1002928","tgn:7007706","tgn:7029392"],"placetype":["aat:300008680"],"id":2151437,"name:xx":"Bath Pond"}}
+{
+  "id": 2151437,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151437",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002928",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151437,
+    "tgn:name":"Bath Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.65,41.1667],"type":"Point"}
+}

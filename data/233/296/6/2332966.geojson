@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.333300,37.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2332966","tgn:1000001","tgn:7012149","tgn:1002392","tgn:7007157","tgn:7029392"],"placetype":["aat:300008798"],"id":2332966,"name:xx":"Flume Peak"}}
+{
+  "id": 2332966,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2332966",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002392",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2332966,
+    "tgn:name":"Flume Peak",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.3333,37.1333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.650000,32.883300]},"type":"Feature","properties":{"hierarchy":["tgn:2152594","tgn:1000001","tgn:7012149","tgn:2001167","tgn:7007522","tgn:7029392"],"placetype":["aat:300008347"],"id":2152594,"name:xx":"Bayland"}}
+{
+  "id": 2152594,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152594",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001167",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152594,
+    "tgn:name":"Bayland",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.65,32.8833],"type":"Point"}
+}

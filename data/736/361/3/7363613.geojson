@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.100000,29.400000]},"type":"Feature","properties":{"hierarchy":["tgn:7363613","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7363613,"name:xx":"El Mojino, Cerro"}}
+{
+  "id": 7363613,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363613",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363613,
+    "tgn:name":"El Mojino, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.1,29.4],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.483300,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7025938","tgn:7002445","tgn:1000003","tgn:7011961","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7025938,"name:ang":"Wocburne"}}
+{
+  "id": 7025938,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025938",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7011961",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025938,
+    "tgn:name:ang":"Wocburne",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.4833,50.95],"type":"Point"}
+}

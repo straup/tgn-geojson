@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[14.466667,41.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7058490","tgn:7009084","tgn:7003000","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7058490,"name:xx":"Altosa, Torrente"}}
+{
+  "id": 7058490,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058490",
+        "tgn:7009084",
+        "tgn:7003000",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058490,
+    "tgn:name":"Altosa, Torrente",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[14.466667,41.983333],"type":"Point"}
+}

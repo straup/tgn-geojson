@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.491245,50.708848]},"type":"Feature","properties":{"hierarchy":["tgn:7246101","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008347"],"id":7246101,"name:xx":"Coq d'Agache"}}
+{
+  "id": 7246101,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246101",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246101,
+    "tgn:name":"Coq d'Agache",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.491245,50.708848],"type":"Point"}
+}

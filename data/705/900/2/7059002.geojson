@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[9.516667,41.166667]},"type":"Feature","properties":{"hierarchy":["tgn:7059002","tgn:7015163","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008791"],"id":7059002,"name:xx":"Bisce, Isola delle"}}
+{
+  "id": 7059002,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059002",
+        "tgn:7015163",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059002,
+    "tgn:name":"Bisce, Isola delle",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.516667,41.166667],"type":"Point"}
+}

@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-101.900000,48.466700]},"type":"Feature","properties":{"hierarchy":["tgn:7020581","tgn:1000001","tgn:7012149","tgn:2001607","tgn:7007705","tgn:7029392"],"placetype":["aat:300008347","aat:300387210"],"id":7020581,"name:xx":"Aurelia"}}
+{
+  "id": 7020581,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020581",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001607",
+        "tgn:7007705",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020581,
+    "tgn:name":"Aurelia",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387210"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.9,48.4667],"type":"Point"}
+}

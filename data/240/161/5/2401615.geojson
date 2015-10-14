@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.033300,41.450000]},"type":"Feature","properties":{"hierarchy":["tgn:2401615","tgn:1000001","tgn:7012149","tgn:1002761","tgn:7007706","tgn:7029392"],"placetype":["aat:300008791"],"id":2401615,"name:xx":"Horseshoe Island"}}
+{
+  "id": 2401615,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401615",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002761",
+        "tgn:7007706",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401615,
+    "tgn:name":"Horseshoe Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.0333,41.45],"type":"Point"}
+}

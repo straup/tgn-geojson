@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.537291,24.024422]},"type":"Feature","properties":{"hierarchy":["tgn:7488182","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7488182,"name:xx":"Huatan Zhan"}}
+{
+  "id": 7488182,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488182",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488182,
+    "tgn:name":"Huatan Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.537291,24.024422],"type":"Point"}
+}

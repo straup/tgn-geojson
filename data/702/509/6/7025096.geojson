@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.016700,51.983300]},"type":"Feature","properties":{"hierarchy":["tgn:7025096","tgn:7002445","tgn:7008104","tgn:1000003","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025096,"name:ang":"Radeclive"}}
+{
+  "id": 7025096,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025096",
+        "tgn:7002445",
+        "tgn:7008104",
+        "tgn:1000003",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025096,
+    "tgn:name:ang":"Radeclive",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.0167,51.9833],"type":"Point"}
+}

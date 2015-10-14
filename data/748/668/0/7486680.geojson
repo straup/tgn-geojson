@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.376850,23.776722]},"type":"Feature","properties":{"hierarchy":["tgn:7486680","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486680,"name:xx":"Bajiaoting"}}
+{
+  "id": 7486680,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486680",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486680,
+    "tgn:name":"Bajiaoting",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.37685,23.776722],"type":"Point"}
+}

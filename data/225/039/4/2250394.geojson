@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.100000,36.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2250394","tgn:1000001","tgn:7012149","tgn:2000852","tgn:7007255","tgn:7029392"],"placetype":["aat:300008761"],"id":2250394,"name:xx":"Colonel Hollow"}}
+{
+  "id": 2250394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250394",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000852",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250394,
+    "tgn:name":"Colonel Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.1,36.85],"type":"Point"}
+}

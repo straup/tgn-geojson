@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.667340,25.077672]},"type":"Feature","properties":{"hierarchy":["tgn:7472948","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007783"],"id":7472948,"name:xx":"Wudu Zhan"}}
+{
+  "id": 7472948,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472948",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472948,
+    "tgn:name":"Wudu Zhan",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.66734,25.077672],"type":"Point"}
+}

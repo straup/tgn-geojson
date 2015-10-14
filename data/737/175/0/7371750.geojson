@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.833333,20.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7371750","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7371750,"name:xx":"La Caja de Agua"}}
+{
+  "id": 7371750,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7371750",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7371750,
+    "tgn:name":"La Caja de Agua",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.833333,20.55],"type":"Point"}
+}

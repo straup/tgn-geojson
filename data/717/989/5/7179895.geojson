@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.900000,47.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7179895","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7179895,"name:xx":"Haar Berg"}}
+{
+  "id": 7179895,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179895",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179895,
+    "tgn:name":"Haar Berg",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.9,47.966667],"type":"Point"}
+}

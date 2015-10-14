@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.433333,47.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7179318","tgn:7003669","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300132356"],"id":7179318,"name:xx":"Gscheuer-Wand"}}
+{
+  "id": 7179318,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179318",
+        "tgn:7003669",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179318,
+    "tgn:name":"Gscheuer-Wand",
+    "tgn:placetype":[
+        "aat:300132356"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.433333,47.716667],"type":"Point"}
+}

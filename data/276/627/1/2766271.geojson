@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.450000,37.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2766271","tgn:1000001","tgn:7012149","tgn:2000839","tgn:7007255","tgn:7029392"],"placetype":["aat:300266640"],"id":2766271,"name:xx":"White Lily Ridge"}}
+{
+  "id": 2766271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2766271",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000839",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2766271,
+    "tgn:name":"White Lily Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.45,37.05],"type":"Point"}
+}

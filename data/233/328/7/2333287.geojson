@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-108.866700,42.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2333287","tgn:1000001","tgn:7012149","tgn:2002371","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2333287,"name:xx":"Fog Gulch"}}
+{
+  "id": 2333287,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333287",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002371",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333287,
+    "tgn:name":"Fog Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.8667,42.4],"type":"Point"}
+}

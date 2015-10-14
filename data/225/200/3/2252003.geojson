@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.533300,39.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2252003","tgn:7014201","tgn:1000001","tgn:7012149","tgn:7007239","tgn:7029392"],"placetype":["aat:300008347"],"id":2252003,"name:xx":"Concord Hills"}}
+{
+  "id": 2252003,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252003",
+        "tgn:7014201",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007239",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252003,
+    "tgn:name":"Concord Hills",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.5333,39.8333],"type":"Point"}
+}

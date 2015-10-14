@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-70.133300,43.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2333347","tgn:1000001","tgn:2000920","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008850"],"id":2333347,"name:xx":"Fogg Point"}}
+{
+  "id": 2333347,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333347",
+        "tgn:1000001",
+        "tgn:2000920",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333347,
+    "tgn:name":"Fogg Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-70.1333,43.7833],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.800000,50.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7114092","tgn:1000003","tgn:7003685","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7114092,"name:xx":"Rockstrohgut"}}
+{
+  "id": 7114092,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7114092",
+        "tgn:1000003",
+        "tgn:7003685",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7114092,
+    "tgn:name":"Rockstrohgut",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.8,50.5],"type":"Point"}
+}

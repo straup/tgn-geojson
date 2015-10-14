@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.683300,39.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2768702","tgn:1000001","tgn:7012149","tgn:7007157","tgn:2000190","tgn:7029392"],"placetype":["aat:300008347"],"id":2768702,"name:xx":"Whitlock Place"}}
+{
+  "id": 2768702,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768702",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:2000190",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768702,
+    "tgn:name":"Whitlock Place",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.6833,39.8333],"type":"Point"}
+}

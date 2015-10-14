@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-114.983333,32.300000]},"type":"Feature","properties":{"hierarchy":["tgn:7379071","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300006075"],"id":7379071,"name:xx":"Canal Maravillas"}}
+{
+  "id": 7379071,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7379071",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7379071,
+    "tgn:name":"Canal Maravillas",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.983333,32.3],"type":"Point"}
+}

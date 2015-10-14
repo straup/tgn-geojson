@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.883300,42.116700]},"type":"Feature","properties":{"hierarchy":["tgn:2401191","tgn:1000001","tgn:7012149","tgn:2001714","tgn:7007708","tgn:7029392"],"placetype":["aat:300008798"],"id":2401191,"name:xx":"Horsehead Island"}}
+{
+  "id": 2401191,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401191",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001714",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401191,
+    "tgn:name":"Horsehead Island",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.8833,42.1167],"type":"Point"}
+}

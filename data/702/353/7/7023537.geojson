@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-107.433300,40.266700]},"type":"Feature","properties":{"hierarchy":["tgn:7023537","tgn:1000001","tgn:7012149","tgn:7007158","tgn:7029392"],"placetype":["aat:300006075"],"id":7023537,"name:xx":"Sullivan Ditch"}}
+{
+  "id": 7023537,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023537",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023537,
+    "tgn:name":"Sullivan Ditch",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-107.4333,40.2667],"type":"Point"}
+}

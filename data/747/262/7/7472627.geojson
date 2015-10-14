@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.294400,23.834100]},"type":"Feature","properties":{"hierarchy":["tgn:7472627","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300006156"],"id":7472627,"name:xx":"Xiahaiqian Haiti"}}
+{
+  "id": 7472627,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472627",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472627,
+    "tgn:name":"Xiahaiqian Haiti",
+    "tgn:placetype":[
+        "aat:300006156"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.2944,23.8341],"type":"Point"}
+}

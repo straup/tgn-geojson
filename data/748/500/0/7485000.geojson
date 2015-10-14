@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.029722,24.092500]},"type":"Feature","properties":{"hierarchy":["tgn:7485000","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7485000,"name:xx":"Songfeng Shan"}}
+{
+  "id": 7485000,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7485000",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7485000,
+    "tgn:name":"Songfeng Shan",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.029722,24.0925],"type":"Point"}
+}

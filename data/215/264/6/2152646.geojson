@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-75.716700,41.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2152646","tgn:1000001","tgn:7012149","tgn:1002564","tgn:7007710","tgn:7029392"],"placetype":["aat:300006191"],"id":2152646,"name:xx":"Baylors Pond"}}
+{
+  "id": 2152646,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152646",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002564",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152646,
+    "tgn:name":"Baylors Pond",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-75.7167,41.6],"type":"Point"}
+}

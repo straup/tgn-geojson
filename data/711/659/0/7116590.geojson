@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[12.483333,54.383333]},"type":"Feature","properties":{"hierarchy":["tgn:7116590","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7116590,"name:xx":"Ottern Graben"}}
+{
+  "id": 7116590,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7116590",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7116590,
+    "tgn:name":"Ottern Graben",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.483333,54.383333],"type":"Point"}
+}

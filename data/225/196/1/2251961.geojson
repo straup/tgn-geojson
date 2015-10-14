@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.366700,32.133300]},"type":"Feature","properties":{"hierarchy":["tgn:2251961","tgn:1000001","tgn:7012149","tgn:2000420","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2251961,"name:xx":"Concord"}}
+{
+  "id": 2251961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251961",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000420",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251961,
+    "tgn:name":"Concord",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.3667,32.1333],"type":"Point"}
+}

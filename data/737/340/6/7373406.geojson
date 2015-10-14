@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.183333,28.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7373406","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7373406,"name:xx":"Rancho La Cienaguita"}}
+{
+  "id": 7373406,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373406",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373406,
+    "tgn:name":"Rancho La Cienaguita",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.183333,28.8],"type":"Point"}
+}

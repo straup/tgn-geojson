@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.083300,43.050000]},"type":"Feature","properties":{"hierarchy":["tgn:2768334","tgn:1000001","tgn:7012149","tgn:1002871","tgn:7007568","tgn:7029392"],"placetype":["aat:300008347"],"id":2768334,"name:xx":"Whiteside Corners"}}
+{
+  "id": 2768334,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2768334",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002871",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2768334,
+    "tgn:name":"Whiteside Corners",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.0833,43.05],"type":"Point"}
+}

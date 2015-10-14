@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.083333,22.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7369833","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7369833,"name:xx":"Garabatillo"}}
+{
+  "id": 7369833,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369833",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369833,
+    "tgn:name":"Garabatillo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.083333,22.8],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-95.666667,17.216667]},"type":"Feature","properties":{"hierarchy":["tgn:7368061","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7368061,"name:xx":"Grande, R\u00edo"}}
+{
+  "id": 7368061,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7368061",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7368061,
+    "tgn:name":"Grande, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-95.666667,17.216667],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[159.300000,-16.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7024227","tgn:7000490","tgn:1001991","tgn:1000006","tgn:7029392"],"placetype":["aat:300008791"],"id":7024227,"name:xx":"Magdelaine Cays"}}
+{
+  "id": 7024227,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024227",
+        "tgn:7000490",
+        "tgn:1001991",
+        "tgn:1000006",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024227,
+    "tgn:name":"Magdelaine Cays",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[159.3,-16.55],"type":"Point"}
+}

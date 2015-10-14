@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.933300,40.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2409534","tgn:1000001","tgn:1002213","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2409534,"name:xx":"Idlewood"}}
+{
+  "id": 2409534,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409534",
+        "tgn:1000001",
+        "tgn:1002213",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409534,
+    "tgn:name":"Idlewood",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.9333,40.15],"type":"Point"}
+}

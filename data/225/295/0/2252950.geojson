@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.866700,46.283300]},"type":"Feature","properties":{"hierarchy":["tgn:2252950","tgn:2000919","tgn:1000001","tgn:7012149","tgn:7007515","tgn:7029392"],"placetype":["aat:300008680"],"id":2252950,"name:xx":"Conroy Lake"}}
+{
+  "id": 2252950,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252950",
+        "tgn:2000919",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252950,
+    "tgn:name":"Conroy Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.8667,46.2833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.616667,40.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7057791","tgn:1001730","tgn:1000003","tgn:7003121","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7057791,"name:xx":"Armiddosu, Monte"}}
+{
+  "id": 7057791,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057791",
+        "tgn:1001730",
+        "tgn:1000003",
+        "tgn:7003121",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057791,
+    "tgn:name":"Armiddosu, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.616667,40.133333],"type":"Point"}
+}

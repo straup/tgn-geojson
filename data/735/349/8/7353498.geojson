@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-100.950000,25.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7353498","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300004792"],"id":7353498,"name:xx":"Cuadrilla de tramo Anhelo"}}
+{
+  "id": 7353498,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353498",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353498,
+    "tgn:name":"Cuadrilla de tramo Anhelo",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-100.95,25.983333],"type":"Point"}
+}

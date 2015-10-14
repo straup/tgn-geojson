@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.764826,25.037565]},"type":"Feature","properties":{"hierarchy":["tgn:7474595","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7474595,"name:xx":"Wanggu Cun"}}
+{
+  "id": 7474595,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474595",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474595,
+    "tgn:name":"Wanggu Cun",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.764826,25.037565],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.900000,37.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2406633","tgn:1000001","tgn:7012149","tgn:2000227","tgn:7007158","tgn:7029392"],"placetype":["aat:300008761"],"id":2406633,"name:xx":"Hunt Canyon"}}
+{
+  "id": 2406633,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406633",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000227",
+        "tgn:7007158",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406633,
+    "tgn:name":"Hunt Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.9,37.2333],"type":"Point"}
+}

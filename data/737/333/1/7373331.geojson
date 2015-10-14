@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-106.183333,28.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7373331","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7373331,"name:xx":"La Galera"}}
+{
+  "id": 7373331,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7373331",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7373331,
+    "tgn:name":"La Galera",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.183333,28.083333],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.733300,29.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2405564","tgn:1000001","tgn:7012149","tgn:1002631","tgn:7007240","tgn:7029392"],"placetype":["aat:300008791"],"id":2405564,"name:xx":"Hughes Island"}}
+{
+  "id": 2405564,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405564",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002631",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405564,
+    "tgn:name":"Hughes Island",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.7333,29.25],"type":"Point"}
+}

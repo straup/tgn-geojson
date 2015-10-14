@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.283333,23.916667]},"type":"Feature","properties":{"hierarchy":["tgn:7350915","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7350915,"name:xx":"Presa la Boca"}}
+{
+  "id": 7350915,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350915",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350915,
+    "tgn:name":"Presa la Boca",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.283333,23.916667],"type":"Point"}
+}

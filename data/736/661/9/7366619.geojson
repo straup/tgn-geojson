@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.950000,29.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7366619","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366619,"name:xx":"Rancho El Pino"}}
+{
+  "id": 7366619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366619",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366619,
+    "tgn:name":"Rancho El Pino",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.95,29.116667],"type":"Point"}
+}

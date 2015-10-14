@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.950000,35.133300]},"type":"Feature","properties":{"hierarchy":["tgn:7020193","tgn:1000001","tgn:7012149","tgn:2001487","tgn:7007709","tgn:7029392"],"placetype":["aat:300008706"],"id":7020193,"name:xx":"Little Cross Creek"}}
+{
+  "id": 7020193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7020193",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001487",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":7020193,
+    "tgn:name":"Little Cross Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.95,35.1333],"type":"Point"}
+}

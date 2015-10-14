@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.316667,53.333333]},"type":"Feature","properties":{"hierarchy":["tgn:7179775","tgn:1000003","tgn:7000094","tgn:7000084","tgn:7029392"],"placetype":["aat:300004792"],"id":7179775,"name:xx":"F\u00f6rsterei Gr\u00fcnow"}}
+{
+  "id": 7179775,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179775",
+        "tgn:1000003",
+        "tgn:7000094",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179775,
+    "tgn:name":"F\u00f6rsterei Gr\u00fcnow",
+    "tgn:placetype":[
+        "aat:300004792"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.316667,53.333333],"type":"Point"}
+}

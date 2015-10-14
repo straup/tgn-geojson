@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.500000,31.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7356610","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008805"],"id":7356610,"name:xx":"Carretas, Llanos de"}}
+{
+  "id": 7356610,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356610",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356610,
+    "tgn:name":"Carretas, Llanos de",
+    "tgn:placetype":[
+        "aat:300008805"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.5,31.0],"type":"Point"}
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7010861,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7010861",
+        "tgn:7010862",
+        "tgn:1000003",
+        "tgn:1000090",
+        "tgn:7029392"
+    ],
+    "tgn:id":7010861,
+    "tgn:name":"Leiria",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387222",
+        "aat:300387235",
+        "aat:300008375",
+        "aat:300387300",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-8.805,39.747],"type":"Point"}
+}

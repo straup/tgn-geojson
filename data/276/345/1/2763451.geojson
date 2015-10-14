@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.083300,28.416700]},"type":"Feature","properties":{"hierarchy":["tgn:2763451","tgn:1000001","tgn:7012149","tgn:1002749","tgn:7007240","tgn:7029392"],"placetype":["aat:300008347"],"id":2763451,"name:xx":"Wewahotee"}}
+{
+  "id": 2763451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002749",
+        "tgn:7007240",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763451,
+    "tgn:name":"Wewahotee",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.0833,28.4167],"type":"Point"}
+}

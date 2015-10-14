@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.783300,30.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7023607","tgn:1000001","tgn:7012149","tgn:7007256","tgn:7029392"],"placetype":["aat:300008707"],"id":7023607,"name:xx":"Old New River"}}
+{
+  "id": 7023607,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023607",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007256",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023607,
+    "tgn:name":"Old New River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7833,30.1833],"type":"Point"}
+}

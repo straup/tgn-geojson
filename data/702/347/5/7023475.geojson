@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-72.000000,42.033300]},"type":"Feature","properties":{"hierarchy":["tgn:7023475","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008680"],"id":7023475,"name:xx":"Morse Pond"}}
+{
+  "id": 7023475,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023475",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023475,
+    "tgn:name":"Morse Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-72.0,42.0333],"type":"Point"}
+}

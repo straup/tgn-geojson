@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.700000,42.950000]},"type":"Feature","properties":{"hierarchy":["tgn:2251585","tgn:1000001","tgn:7012149","tgn:2000485","tgn:7007250","tgn:7029392"],"placetype":["aat:300008680"],"id":2251585,"name:xx":"Community Lake"}}
+{
+  "id": 2251585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2251585",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000485",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2251585,
+    "tgn:name":"Community Lake",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.7,42.95],"type":"Point"}
+}

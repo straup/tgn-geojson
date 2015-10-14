@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.316667,53.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7115198","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7115198,"name:xx":"Pallerschloot"}}
+{
+  "id": 7115198,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7115198",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7115198,
+    "tgn:name":"Pallerschloot",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.316667,53.283333],"type":"Point"}
+}

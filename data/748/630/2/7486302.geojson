@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.770647,24.731707]},"type":"Feature","properties":{"hierarchy":["tgn:7486302","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7486302,"name:xx":"Kaixuan Li"}}
+{
+  "id": 7486302,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486302",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486302,
+    "tgn:name":"Kaixuan Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.770647,24.731707],"type":"Point"}
+}

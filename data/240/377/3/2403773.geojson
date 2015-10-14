@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.200000,34.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2403773","tgn:1000001","tgn:7006451","tgn:7012149","tgn:2000103","tgn:7029392"],"placetype":["aat:300000390"],"id":2403773,"name:xx":"Howard Silver Mine"}}
+{
+  "id": 2403773,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2403773",
+        "tgn:1000001",
+        "tgn:7006451",
+        "tgn:7012149",
+        "tgn:2000103",
+        "tgn:7029392"
+    ],
+    "tgn:id":2403773,
+    "tgn:name":"Howard Silver Mine",
+    "tgn:placetype":[
+        "aat:300000390"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2,34.2167],"type":"Point"}
+}

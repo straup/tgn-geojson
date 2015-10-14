@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.900000,27.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7369505","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300266640"],"id":7369505,"name:xx":"Jabal\u00ed, Cuesta del"}}
+{
+  "id": 7369505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369505",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369505,
+    "tgn:name":"Jabal\u00ed, Cuesta del",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.9,27.533333],"type":"Point"}
+}

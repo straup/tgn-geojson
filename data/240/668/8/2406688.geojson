@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-118.600000,44.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2406688","tgn:1000001","tgn:7012149","tgn:2001708","tgn:7007708","tgn:7029392"],"placetype":["aat:300008761"],"id":2406688,"name:xx":"Hunt Gulch"}}
+{
+  "id": 2406688,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2406688",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001708",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2406688,
+    "tgn:name":"Hunt Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.6,44.6333],"type":"Point"}
+}

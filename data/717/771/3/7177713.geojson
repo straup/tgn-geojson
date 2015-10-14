@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.466667,51.233333]},"type":"Feature","properties":{"hierarchy":["tgn:7177713","tgn:1000003","tgn:7003678","tgn:7000084","tgn:7029392"],"placetype":["aat:300008347"],"id":7177713,"name:xx":"Guntershausen"}}
+{
+  "id": 7177713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177713",
+        "tgn:1000003",
+        "tgn:7003678",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177713,
+    "tgn:name":"Guntershausen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.466667,51.233333],"type":"Point"}
+}

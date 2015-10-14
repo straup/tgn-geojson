@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.433333,27.633333]},"type":"Feature","properties":{"hierarchy":["tgn:7370328","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7370328,"name:xx":"Guasizaco"}}
+{
+  "id": 7370328,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370328",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370328,
+    "tgn:name":"Guasizaco",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.433333,27.633333],"type":"Point"}
+}

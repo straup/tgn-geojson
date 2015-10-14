@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-115.800000,47.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2765874","tgn:1000001","tgn:7012149","tgn:2000491","tgn:7007250","tgn:7029392"],"placetype":["aat:300008706"],"id":2765874,"name:xx":"White Gravel Creek"}}
+{
+  "id": 2765874,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765874",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000491",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765874,
+    "tgn:name":"White Gravel Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.8,47.0],"type":"Point"}
+}

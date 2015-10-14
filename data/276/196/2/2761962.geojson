@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-99.983300,29.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2761962","tgn:1000001","tgn:7012149","tgn:7007826","tgn:7029392"],"placetype":["aat:300008761"],"id":2761962,"name:xx":"West Rose Draw"}}
+{
+  "id": 2761962,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761962",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761962,
+    "tgn:name":"West Rose Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.9833,29.9833],"type":"Point"}
+}

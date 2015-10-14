@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.850000,35.866667]},"type":"Feature","properties":{"hierarchy":["tgn:7054690","tgn:1000003","tgn:7003122","tgn:1001762","tgn:1000080","tgn:7029392"],"placetype":["aat:300008777"],"id":7054690,"name:xx":"Ponente, Monte di"}}
+{
+  "id": 7054690,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054690",
+        "tgn:1000003",
+        "tgn:7003122",
+        "tgn:1001762",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054690,
+    "tgn:name":"Ponente, Monte di",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.85,35.866667],"type":"Point"}
+}

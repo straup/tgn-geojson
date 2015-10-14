@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.211111,24.824167]},"type":"Feature","properties":{"hierarchy":["tgn:7481905","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7481905,"name:xx":"Shiqizi"}}
+{
+  "id": 7481905,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481905",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481905,
+    "tgn:name":"Shiqizi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.211111,24.824167],"type":"Point"}
+}

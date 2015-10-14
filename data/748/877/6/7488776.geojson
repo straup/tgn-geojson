@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.243611,24.930556]},"type":"Feature","properties":{"hierarchy":["tgn:7488776","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7488776,"name:xx":"Longgang Li"}}
+{
+  "id": 7488776,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7488776",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7488776,
+    "tgn:name":"Longgang Li",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.243611,24.930556],"type":"Point"}
+}

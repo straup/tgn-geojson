@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.357670,25.074653]},"type":"Feature","properties":{"hierarchy":["tgn:7489600","tgn:1000004","tgn:1000454","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489600,"name:xx":"Guolunzi"}}
+{
+  "id": 7489600,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489600",
+        "tgn:1000004",
+        "tgn:1000454",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489600,
+    "tgn:name":"Guolunzi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.35767,25.074653],"type":"Point"}
+}

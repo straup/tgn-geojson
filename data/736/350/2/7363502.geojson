@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.666667,19.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7363502","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363502,"name:xx":"El Chacal"}}
+{
+  "id": 7363502,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363502",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363502,
+    "tgn:name":"El Chacal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.666667,19.066667],"type":"Point"}
+}

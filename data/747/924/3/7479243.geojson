@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.013056,22.620833]},"type":"Feature","properties":{"hierarchy":["tgn:7479243","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7479243,"name:xx":"Beitaimali Xikou"}}
+{
+  "id": 7479243,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7479243",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7479243,
+    "tgn:name":"Beitaimali Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.013056,22.620833],"type":"Point"}
+}

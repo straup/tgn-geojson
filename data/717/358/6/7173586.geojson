@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[9.400000,52.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7173586","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300008688"],"id":7173586,"name:xx":"Grundloser See"}}
+{
+  "id": 7173586,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173586",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173586,
+    "tgn:name":"Grundloser See",
+    "tgn:placetype":[
+        "aat:300008688"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[9.4,52.5],"type":"Point"}
+}

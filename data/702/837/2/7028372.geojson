@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.500000,52.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7028372","tgn:7002445","tgn:1000003","tgn:7008160","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"id":7028372,"name:xx":"East Winch"}}
+{
+  "id": 7028372,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7028372",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008160",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7028372,
+    "tgn:name":"East Winch",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.5,52.733333],"type":"Point"}
+}

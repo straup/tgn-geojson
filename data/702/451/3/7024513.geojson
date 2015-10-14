@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-55.333300,72.266700]},"type":"Feature","properties":{"hierarchy":["tgn:7024513","tgn:7593552","tgn:1000001","tgn:7024573","tgn:7029392"],"placetype":["aat:300008791"],"id":7024513,"name:xx":"Qeqertaq"}}
+{
+  "id": 7024513,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024513",
+        "tgn:7593552",
+        "tgn:1000001",
+        "tgn:7024573",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024513,
+    "tgn:name":"Qeqertaq",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-55.3333,72.2667],"type":"Point"}
+}

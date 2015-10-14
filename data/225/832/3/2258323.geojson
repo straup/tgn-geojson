@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-92.050000,40.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2258323","tgn:1000001","tgn:7012149","tgn:1002555","tgn:7007523","tgn:7029392"],"placetype":["aat:300008706"],"id":2258323,"name:xx":"Cottey Creek"}}
+{
+  "id": 2258323,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258323",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002555",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258323,
+    "tgn:name":"Cottey Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-92.05,40.0833],"type":"Point"}
+}

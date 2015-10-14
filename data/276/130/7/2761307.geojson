@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.266700,40.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2761307","tgn:1000001","tgn:7012149","tgn:2002123","tgn:7007827","tgn:7029392"],"placetype":["aat:300008347"],"id":2761307,"name:xx":"West Mercur"}}
+{
+  "id": 2761307,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761307",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002123",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761307,
+    "tgn:name":"West Mercur",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.2667,40.3],"type":"Point"}
+}

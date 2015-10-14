@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.300000,39.850000]},"type":"Feature","properties":{"hierarchy":["tgn:2405950","tgn:1000001","tgn:7012149","tgn:1002904","tgn:7007710","tgn:7029392"],"placetype":["aat:300008347"],"id":2405950,"name:xx":"Humbert"}}
+{
+  "id": 2405950,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405950",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002904",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405950,
+    "tgn:name":"Humbert",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3,39.85],"type":"Point"}
+}

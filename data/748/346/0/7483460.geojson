@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.502778,22.632222]},"type":"Feature","properties":{"hierarchy":["tgn:7483460","tgn:1000004","tgn:7491221","tgn:1000141","tgn:7029392"],"placetype":["aat:300266557"],"id":7483460,"name:xx":"Baisha Wan"}}
+{
+  "id": 7483460,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483460",
+        "tgn:1000004",
+        "tgn:7491221",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483460,
+    "tgn:name":"Baisha Wan",
+    "tgn:placetype":[
+        "aat:300266557"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.502778,22.632222],"type":"Point"}
+}

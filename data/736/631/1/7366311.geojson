@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-108.757500,26.581667]},"type":"Feature","properties":{"hierarchy":["tgn:7366311","tgn:1000001","tgn:7005595","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7366311,"name:xx":"Rancho El Reparo"}}
+{
+  "id": 7366311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366311",
+        "tgn:1000001",
+        "tgn:7005595",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366311,
+    "tgn:name":"Rancho El Reparo",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-108.7575,26.581667],"type":"Point"}
+}

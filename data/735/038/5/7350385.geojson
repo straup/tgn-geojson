@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.183333,24.000000]},"type":"Feature","properties":{"hierarchy":["tgn:7350385","tgn:1000001","tgn:7005594","tgn:7005560","tgn:7029392"],"placetype":["aat:300006191"],"id":7350385,"name:xx":"Tanque de la Burra"}}
+{
+  "id": 7350385,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7350385",
+        "tgn:1000001",
+        "tgn:7005594",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7350385,
+    "tgn:name":"Tanque de la Burra",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.183333,24.0],"type":"Point"}
+}

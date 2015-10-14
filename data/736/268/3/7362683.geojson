@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.383333,28.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7362683","tgn:7005581","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7362683,"name:xx":"El Alamito"}}
+{
+  "id": 7362683,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362683",
+        "tgn:7005581",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362683,
+    "tgn:name":"El Alamito",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.383333,28.716667],"type":"Point"}
+}

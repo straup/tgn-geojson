@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.550000,25.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7355721","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7355721,"name:xx":"Ceres"}}
+{
+  "id": 7355721,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7355721",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7355721,
+    "tgn:name":"Ceres",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.55,25.733333],"type":"Point"}
+}

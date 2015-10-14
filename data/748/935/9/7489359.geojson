@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.534200,23.886500]},"type":"Feature","properties":{"hierarchy":["tgn:7489359","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7489359,"name:xx":"Raopingcuo"}}
+{
+  "id": 7489359,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7489359",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7489359,
+    "tgn:name":"Raopingcuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.5342,23.8865],"type":"Point"}
+}

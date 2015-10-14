@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[2.716667,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7243882","tgn:1000003","tgn:1000063","tgn:7029392"],"placetype":["aat:300008699"],"id":7243882,"name:xx":"Yser"}}
+{
+  "id": 7243882,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243882",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243882,
+    "tgn:name":"Yser",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.716667,51.15],"type":"Point"}
+}

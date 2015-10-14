@@ -1,1 +1,23 @@
-{"geometry":{"type":"Point","coordinates":[2.483300,27.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7025561","tgn:7001242","tgn:7016752","tgn:1000775","tgn:7029392"],"placetype":["aat:300008347","aat:300387317","aat:300008375","aat:300387286"],"id":7025561,"name:xx":"In Salah"}}
+{
+  "id": 7025561,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025561",
+        "tgn:7001242",
+        "tgn:7016752",
+        "tgn:1000775",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025561,
+    "tgn:name":"In Salah",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387317",
+        "aat:300008375",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[2.4833,27.2],"type":"Point"}
+}

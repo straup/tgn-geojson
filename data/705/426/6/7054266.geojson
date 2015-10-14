@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.850000,45.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7054266","tgn:1000003","tgn:1003508","tgn:7003237","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7054266,"name:xx":"Ponte Tresa"}}
+{
+  "id": 7054266,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7054266",
+        "tgn:1000003",
+        "tgn:1003508",
+        "tgn:7003237",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7054266,
+    "tgn:name":"Ponte Tresa",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.85,45.966667],"type":"Point"}
+}

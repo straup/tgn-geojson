@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-82.133300,33.516700]},"type":"Feature","properties":{"hierarchy":["tgn:2409556","tgn:1000001","tgn:2000327","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2409556,"name:xx":"Idylwilde"}}
+{
+  "id": 2409556,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2409556",
+        "tgn:1000001",
+        "tgn:2000327",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2409556,
+    "tgn:name":"Idylwilde",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.1333,33.5167],"type":"Point"}
+}

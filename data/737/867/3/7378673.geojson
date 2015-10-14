@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.100000,17.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7378673","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008680"],"id":7378673,"name:xx":"Manguito, Laguna el"}}
+{
+  "id": 7378673,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7378673",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7378673,
+    "tgn:name":"Manguito, Laguna el",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.1,17.883333],"type":"Point"}
+}

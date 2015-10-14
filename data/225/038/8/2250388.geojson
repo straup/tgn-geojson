@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-67.950000,44.783300]},"type":"Feature","properties":{"hierarchy":["tgn:2250388","tgn:1000001","tgn:7012149","tgn:7014589","tgn:7007515","tgn:7029392"],"placetype":["aat:300008699"],"id":2250388,"name:xx":"Colonel Brook"}}
+{
+  "id": 2250388,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250388",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014589",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250388,
+    "tgn:name":"Colonel Brook",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-67.95,44.7833],"type":"Point"}
+}

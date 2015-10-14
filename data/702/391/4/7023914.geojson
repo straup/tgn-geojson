@@ -1,1 +1,27 @@
-{"geometry":{"type":"Point","coordinates":[5.183333,52.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7023914","tgn:1000003","tgn:7003627","tgn:7016845","tgn:7029392"],"placetype":["aat:300008347"],"name:nl":"Maartensdijk","id":7023914}}
+{
+  "id": 7023914,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01f14bba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751310",
+        "gp:id":731478,
+        "qs:id":2,
+        "wof:id":101806993
+    },
+    "tgn:hierarchy":[
+        "tgn:7023914",
+        "tgn:1000003",
+        "tgn:7003627",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023914,
+    "tgn:name:nl":"Maartensdijk",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.183333,52.15],"type":"Point"}
+}

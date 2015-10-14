@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.596389,24.301111]},"type":"Feature","properties":{"hierarchy":["tgn:7484043","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7484043,"name:xx":"Shuixiadui"}}
+{
+  "id": 7484043,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7484043",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7484043,
+    "tgn:name":"Shuixiadui",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.596389,24.301111],"type":"Point"}
+}

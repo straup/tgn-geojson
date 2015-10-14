@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.700000,16.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7353309","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7353309,"name:xx":"Axum, Arroyo"}}
+{
+  "id": 7353309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7353309",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7353309,
+    "tgn:name":"Axum, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.7,16.533333],"type":"Point"}
+}

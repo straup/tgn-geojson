@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.983333,42.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7058033","tgn:7003137","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008795"],"id":7058033,"name:xx":"Aquilone, Monte"}}
+{
+  "id": 7058033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058033",
+        "tgn:7003137",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058033,
+    "tgn:name":"Aquilone, Monte",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.983333,42.266667],"type":"Point"}
+}

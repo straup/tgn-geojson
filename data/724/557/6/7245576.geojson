@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.983333,51.416667]},"type":"Feature","properties":{"hierarchy":["tgn:7245576","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008903"],"id":7245576,"name:xx":"Brouwers Goor"}}
+{
+  "id": 7245576,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7245576",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7245576,
+    "tgn:name":"Brouwers Goor",
+    "tgn:placetype":[
+        "aat:300008903"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.983333,51.416667],"type":"Point"}
+}

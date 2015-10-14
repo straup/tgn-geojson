@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-159.483300,56.200000]},"type":"Feature","properties":{"hierarchy":["tgn:2252122","tgn:7006450","tgn:1000001","tgn:7030517","tgn:7012149","tgn:7029392"],"placetype":["aat:300008835"],"id":2252122,"name:xx":"Cone Glacier"}}
+{
+  "id": 2252122,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2252122",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7030517",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2252122,
+    "tgn:name":"Cone Glacier",
+    "tgn:placetype":[
+        "aat:300008835"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-159.4833,56.2],"type":"Point"}
+}

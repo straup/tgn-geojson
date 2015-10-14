@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.050000,42.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7053258","tgn:7003138","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008699"],"id":7053258,"name:xx":"Magnaferro, Fosso"}}
+{
+  "id": 7053258,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053258",
+        "tgn:7003138",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053258,
+    "tgn:name":"Magnaferro, Fosso",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.05,42.1],"type":"Point"}
+}

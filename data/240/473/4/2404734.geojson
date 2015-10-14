@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.633300,45.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2404734","tgn:1000001","tgn:7012149","tgn:2001293","tgn:7007524","tgn:7029392"],"placetype":["aat:300008761"],"id":2404734,"name:xx":"Huckleberry Gulch"}}
+{
+  "id": 2404734,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404734",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001293",
+        "tgn:7007524",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404734,
+    "tgn:name":"Huckleberry Gulch",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.6333,45.2333],"type":"Point"}
+}

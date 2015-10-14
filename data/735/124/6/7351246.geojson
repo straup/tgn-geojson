@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.200000,27.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7351246","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7351246,"name:xx":"Cacanapo Grande, Cerro"}}
+{
+  "id": 7351246,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7351246",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7351246,
+    "tgn:name":"Cacanapo Grande, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.2,27.716667],"type":"Point"}
+}

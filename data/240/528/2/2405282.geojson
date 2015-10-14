@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.233300,36.633300]},"type":"Feature","properties":{"hierarchy":["tgn:2405282","tgn:1000001","tgn:2000783","tgn:7012149","tgn:7007255","tgn:7029392"],"placetype":["aat:300008699"],"id":2405282,"name:xx":"Huffakre Fork"}}
+{
+  "id": 2405282,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405282",
+        "tgn:1000001",
+        "tgn:2000783",
+        "tgn:7012149",
+        "tgn:7007255",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405282,
+    "tgn:name":"Huffakre Fork",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.2333,36.6333],"type":"Point"}
+}

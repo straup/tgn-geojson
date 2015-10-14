@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.600000,16.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7375939","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375939,"name:xx":"Llano Grande"}}
+{
+  "id": 7375939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375939",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375939,
+    "tgn:name":"Llano Grande",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.6,16.2],"type":"Point"}
+}

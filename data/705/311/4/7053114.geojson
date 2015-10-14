@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[15.800000,40.016667]},"type":"Feature","properties":{"hierarchy":["tgn:7053114","tgn:1003489","tgn:7004610","tgn:1000003","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7053114,"name:xx":"Parrutta"}}
+{
+  "id": 7053114,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7053114",
+        "tgn:1003489",
+        "tgn:7004610",
+        "tgn:1000003",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7053114,
+    "tgn:name":"Parrutta",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[15.8,40.016667],"type":"Point"}
+}

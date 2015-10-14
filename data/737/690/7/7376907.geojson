@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-98.733333,26.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7376907","tgn:1000001","tgn:7005597","tgn:7005560","tgn:7029392"],"placetype":["aat:300266554","aat:300008699"],"id":7376907,"name:xx":"La Sand\u00eda, Arroyo"}}
+{
+  "id": 7376907,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7376907",
+        "tgn:1000001",
+        "tgn:7005597",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7376907,
+    "tgn:name":"La Sand\u00eda, Arroyo",
+    "tgn:placetype":[
+        "aat:300266554",
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-98.733333,26.15],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-103.800000,19.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7360671","tgn:7016644","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7360671,"name:xx":"Coquimatl\u00e1n"}}
+{
+  "id": 7360671,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360671",
+        "tgn:7016644",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360671,
+    "tgn:name":"Coquimatl\u00e1n",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.8,19.2],"type":"Point"}
+}

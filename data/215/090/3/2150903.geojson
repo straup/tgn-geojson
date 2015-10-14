@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.383300,35.933300]},"type":"Feature","properties":{"hierarchy":["tgn:2150903","tgn:2001463","tgn:1000001","tgn:7012149","tgn:7007709","tgn:7029392"],"placetype":["aat:300008798"],"id":2150903,"name:xx":"Bass Mountain"}}
+{
+  "id": 2150903,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2150903",
+        "tgn:2001463",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2150903,
+    "tgn:name":"Bass Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.3833,35.9333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-91.466700,36.483300]},"type":"Feature","properties":{"hierarchy":["tgn:7023518","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008761"],"id":7023518,"name:xx":"Muntz Hollow"}}
+{
+  "id": 7023518,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023518",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023518,
+    "tgn:name":"Muntz Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4667,36.4833],"type":"Point"}
+}

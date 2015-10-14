@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.150000,24.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7471204","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471204,"name:xx":"Ertingxi"}}
+{
+  "id": 7471204,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471204",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471204,
+    "tgn:name":"Ertingxi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.15,24.9],"type":"Point"}
+}

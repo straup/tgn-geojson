@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-106.966700,41.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2151596","tgn:1000001","tgn:2002368","tgn:7012149","tgn:7007923","tgn:7029392"],"placetype":["aat:300008347"],"id":2151596,"name:xx":"Battle"}}
+{
+  "id": 2151596,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2151596",
+        "tgn:1000001",
+        "tgn:2002368",
+        "tgn:7012149",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2151596,
+    "tgn:name":"Battle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-106.9667,41.15],"type":"Point"}
+}

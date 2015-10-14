@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.464700,22.535900]},"type":"Feature","properties":{"hierarchy":["tgn:7486478","tgn:1000004","tgn:7492971","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486478,"name:xx":"Gangziqian"}}
+{
+  "id": 7486478,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486478",
+        "tgn:1000004",
+        "tgn:7492971",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486478,
+    "tgn:name":"Gangziqian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.4647,22.5359],"type":"Point"}
+}

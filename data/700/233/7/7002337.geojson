@@ -1,0 +1,25 @@
+{
+  "id": 7002337,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7002337",
+        "tgn:7001289",
+        "tgn:1000004",
+        "tgn:7018454",
+        "tgn:1000144",
+        "tgn:7029392"
+    ],
+    "tgn:id":7002337,
+    "tgn:name":"Amasya",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008401",
+        "aat:300387218",
+        "aat:300387223",
+        "aat:300008375"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[35.85,40.65],"type":"Point"}
+}

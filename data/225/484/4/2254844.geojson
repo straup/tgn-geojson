@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-116.383300,44.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2254844","tgn:1000001","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300386845"],"id":2254844,"name:xx":"Coonrod Basin"}}
+{
+  "id": 2254844,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2254844",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2254844,
+    "tgn:name":"Coonrod Basin",
+    "tgn:placetype":[
+        "aat:300386845"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.3833,44.15],"type":"Point"}
+}

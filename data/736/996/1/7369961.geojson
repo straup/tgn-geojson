@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-94.583333,18.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7369961","tgn:1000001","tgn:7005599","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7369961,"name:xx":"Huazuntl\u00e1n, R\u00edo"}}
+{
+  "id": 7369961,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7369961",
+        "tgn:1000001",
+        "tgn:7005599",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7369961,
+    "tgn:name":"Huazuntl\u00e1n, R\u00edo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.583333,18.116667],"type":"Point"}
+}

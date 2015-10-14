@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.816389,24.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7482105","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300387057"],"id":7482105,"name:xx":"Nan'ao Xikou"}}
+{
+  "id": 7482105,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482105",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482105,
+    "tgn:name":"Nan'ao Xikou",
+    "tgn:placetype":[
+        "aat:300387057"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.816389,24.45],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.983333,50.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7248109","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300000206"],"id":7248109,"name:xx":"Ferme de Bel Enghien"}}
+{
+  "id": 7248109,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248109",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248109,
+    "tgn:name":"Ferme de Bel Enghien",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.983333,50.666667],"type":"Point"}
+}

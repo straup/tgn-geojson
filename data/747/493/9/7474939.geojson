@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.128333,23.967500]},"type":"Feature","properties":{"hierarchy":["tgn:7474939","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008699"],"id":7474939,"name:xx":"Wanda Xi"}}
+{
+  "id": 7474939,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7474939",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7474939,
+    "tgn:name":"Wanda Xi",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.128333,23.9675],"type":"Point"}
+}

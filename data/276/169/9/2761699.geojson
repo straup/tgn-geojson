@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.466700,37.700000]},"type":"Feature","properties":{"hierarchy":["tgn:2761699","tgn:1000001","tgn:7012149","tgn:1002575","tgn:7007919","tgn:7029392"],"placetype":["aat:300008850"],"id":2761699,"name:xx":"West Point"}}
+{
+  "id": 2761699,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761699",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002575",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761699,
+    "tgn:name":"West Point",
+    "tgn:placetype":[
+        "aat:300008850"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.4667,37.7],"type":"Point"}
+}

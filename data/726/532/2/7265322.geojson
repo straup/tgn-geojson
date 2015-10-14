@@ -1,0 +1,27 @@
+{
+  "id": 7265322,
+  "type": "Feature",
+  "properties": {
+    "tgn:concordances":{
+        "fct:id":"01eff094-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":"2751379",
+        "gp:id":731434,
+        "qs:id":3,
+        "wof:id":101837911
+    },
+    "tgn:hierarchy":[
+        "tgn:7265322",
+        "tgn:1000003",
+        "tgn:7006951",
+        "tgn:7016845",
+        "tgn:7029392"
+    ],
+    "tgn:id":7265322,
+    "tgn:name:nl":"Lutjebroek",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[5.2,52.7],"type":"Point"}
+}

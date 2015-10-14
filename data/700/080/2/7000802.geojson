@@ -1,0 +1,23 @@
+{
+  "id": 7000802,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7000802",
+        "tgn:7001242",
+        "tgn:7016749",
+        "tgn:1000193",
+        "tgn:7029392"
+    ],
+    "tgn:id":7000802,
+    "tgn:name":"Pietermaritzburg",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008389",
+        "aat:300387223",
+        "aat:300387302"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[30.4,-29.6],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.533300,43.033300]},"type":"Feature","properties":{"hierarchy":["tgn:2761859","tgn:1000001","tgn:7012149","tgn:2002378","tgn:7007923","tgn:7029392"],"placetype":["aat:300008798"],"id":2761859,"name:xx":"West Rabbit Mountain"}}
+{
+  "id": 2761859,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761859",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002378",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761859,
+    "tgn:name":"West Rabbit Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5333,43.0333],"type":"Point"}
+}

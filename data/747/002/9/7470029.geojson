@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.416111,24.310278]},"type":"Feature","properties":{"hierarchy":["tgn:7470029","tgn:7001010","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008795"],"id":7470029,"name:xx":"Chuosen, Mount"}}
+{
+  "id": 7470029,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7470029",
+        "tgn:7001010",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7470029,
+    "tgn:name":"Chuosen, Mount",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.416111,24.310278],"type":"Point"}
+}

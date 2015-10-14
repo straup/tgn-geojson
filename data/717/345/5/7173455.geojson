@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[13.900000,52.200000]},"type":"Feature","properties":{"hierarchy":["tgn:7173455","tgn:7000096","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300008680"],"id":7173455,"name:xx":"Gro\u00dfer Selchower See"}}
+{
+  "id": 7173455,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7173455",
+        "tgn:7000096",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7173455,
+    "tgn:name":"Gro\u00dfer Selchower See",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[13.9,52.2],"type":"Point"}
+}

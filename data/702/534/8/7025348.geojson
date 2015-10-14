@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-1.216667,53.283333]},"type":"Feature","properties":{"hierarchy":["tgn:7025348","tgn:7002445","tgn:1000003","tgn:7008118","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347"],"id":7025348,"name:ang":"Witeuuelle"}}
+{
+  "id": 7025348,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7025348",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008118",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7025348,
+    "tgn:name:ang":"Witeuuelle",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-1.216667,53.283333],"type":"Point"}
+}

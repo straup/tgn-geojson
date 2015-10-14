@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[88.077416,21.639334]},"type":"Feature","properties":{"hierarchy":["tgn:7023840","tgn:1000004","tgn:7000198","tgn:1001977","tgn:1008861","tgn:7029392"],"placetype":["aat:300008347"],"id":7023840,"name:xx":"Ganga Sagar"}}
+{
+  "id": 7023840,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023840",
+        "tgn:1000004",
+        "tgn:7000198",
+        "tgn:1001977",
+        "tgn:1008861",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023840,
+    "tgn:name":"Ganga Sagar",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[88.077416,21.639334],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[12.938611,45.912778]},"type":"Feature","properties":{"hierarchy":["tgn:7057733","tgn:1003506","tgn:1000003","tgn:7002993","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057733,"name:xx":"Bugnins"}}
+{
+  "id": 7057733,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057733",
+        "tgn:1003506",
+        "tgn:1000003",
+        "tgn:7002993",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057733,
+    "tgn:name":"Bugnins",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[12.938611,45.912778],"type":"Point"}
+}

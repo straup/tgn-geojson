@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.333333,30.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7377746","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7377746,"name:xx":"La Pima, Cerro"}}
+{
+  "id": 7377746,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7377746",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7377746,
+    "tgn:name":"La Pima, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.333333,30.533333],"type":"Point"}
+}

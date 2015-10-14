@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.683300,48.600000]},"type":"Feature","properties":{"hierarchy":["tgn:2259864","tgn:1000001","tgn:7012149","tgn:1002742","tgn:7007920","tgn:7029392"],"placetype":["aat:300008706"],"id":2259864,"name:xx":"Coulee Creek"}}
+{
+  "id": 2259864,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259864",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002742",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259864,
+    "tgn:name":"Coulee Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.6833,48.6],"type":"Point"}
+}

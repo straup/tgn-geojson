@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.733300,41.533300]},"type":"Feature","properties":{"hierarchy":["tgn:2334571","tgn:1000001","tgn:7012149","tgn:1002926","tgn:7007568","tgn:7029392"],"placetype":["aat:300008680"],"id":2334571,"name:xx":"Forestburg Pond"}}
+{
+  "id": 2334571,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334571",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002926",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334571,
+    "tgn:name":"Forestburg Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7333,41.5333],"type":"Point"}
+}

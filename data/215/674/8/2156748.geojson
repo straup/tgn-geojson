@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-112.100000,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156748","tgn:1000001","tgn:2002102","tgn:7012149","tgn:7007827","tgn:7029392"],"placetype":["aat:300008697"],"id":2156748,"name:xx":"Beaton Springs"}}
+{
+  "id": 2156748,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156748",
+        "tgn:1000001",
+        "tgn:2002102",
+        "tgn:7012149",
+        "tgn:7007827",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156748,
+    "tgn:name":"Beaton Springs",
+    "tgn:placetype":[
+        "aat:300008697"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-112.1,41.7333],"type":"Point"}
+}

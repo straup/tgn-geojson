@@ -1,0 +1,27 @@
+{
+  "id": 7001160,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001160",
+        "tgn:7001152",
+        "tgn:1000003",
+        "tgn:1000095",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001160,
+    "tgn:name":"Ceuta",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387264",
+        "aat:300387512",
+        "aat:300164060",
+        "aat:300387270",
+        "aat:300120599",
+        "aat:300387291",
+        "aat:300387286"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-5.3075,35.890278],"type":"Point"}
+}

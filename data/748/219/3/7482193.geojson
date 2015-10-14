@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.189203,25.047366]},"type":"Feature","properties":{"hierarchy":["tgn:7482193","tgn:1000004","tgn:7001013","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7482193,"name:xx":"Dazhentou"}}
+{
+  "id": 7482193,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7482193",
+        "tgn:1000004",
+        "tgn:7001013",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7482193,
+    "tgn:name":"Dazhentou",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.189203,25.047366],"type":"Point"}
+}

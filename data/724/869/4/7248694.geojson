@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.383333,50.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7248694","tgn:7018239","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300000206"],"id":7248694,"name:xx":"Blaret"}}
+{
+  "id": 7248694,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248694",
+        "tgn:7018239",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248694,
+    "tgn:name":"Blaret",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.383333,50.733333],"type":"Point"}
+}

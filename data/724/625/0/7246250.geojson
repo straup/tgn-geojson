@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.783333,51.266667]},"type":"Feature","properties":{"hierarchy":["tgn:7246250","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7246250,"name:xx":"Borgt Driesen"}}
+{
+  "id": 7246250,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7246250",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7246250,
+    "tgn:name":"Borgt Driesen",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.783333,51.266667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-81.816700,36.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2158578","tgn:1000001","tgn:7012149","tgn:2001551","tgn:7007709","tgn:7029392"],"placetype":["aat:300266640"],"id":2158578,"name:xx":"Beaverdam Ridge"}}
+{
+  "id": 2158578,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158578",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001551",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158578,
+    "tgn:name":"Beaverdam Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-81.8167,36.25],"type":"Point"}
+}

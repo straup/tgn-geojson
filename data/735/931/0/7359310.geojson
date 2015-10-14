@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-104.500000,24.066667]},"type":"Feature","properties":{"hierarchy":["tgn:7359310","tgn:7005583","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359310,"name:xx":"Cinco de Febrero"}}
+{
+  "id": 7359310,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359310",
+        "tgn:7005583",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359310,
+    "tgn:name":"Cinco de Febrero",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.5,24.066667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-121.366700,36.300000]},"type":"Feature","properties":{"hierarchy":["tgn:2333876","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002684","tgn:7029392"],"placetype":["aat:300008761"],"id":2333876,"name:xx":"Force Canyon"}}
+{
+  "id": 2333876,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333876",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002684",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333876,
+    "tgn:name":"Force Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-121.3667,36.3],"type":"Point"}
+}

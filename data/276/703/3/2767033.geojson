@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-103.016700,43.350000]},"type":"Feature","properties":{"hierarchy":["tgn:2767033","tgn:1000001","tgn:2001793","tgn:7012149","tgn:7007713","tgn:7029392"],"placetype":["aat:300266640"],"id":2767033,"name:xx":"White River Divide"}}
+{
+  "id": 2767033,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2767033",
+        "tgn:1000001",
+        "tgn:2001793",
+        "tgn:7012149",
+        "tgn:7007713",
+        "tgn:7029392"
+    ],
+    "tgn:id":2767033,
+    "tgn:name":"White River Divide",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-103.0167,43.35],"type":"Point"}
+}

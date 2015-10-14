@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.533300,35.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2338341","tgn:1000001","tgn:7012149","tgn:2001548","tgn:7007709","tgn:7029392"],"placetype":["aat:300008347"],"id":2338341,"name:xx":"Foxcroft"}}
+{
+  "id": 2338341,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338341",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001548",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338341,
+    "tgn:name":"Foxcroft",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.5333,35.8167],"type":"Point"}
+}

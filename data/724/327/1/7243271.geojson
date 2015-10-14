@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.822637,51.019760]},"type":"Feature","properties":{"hierarchy":["tgn:7243271","tgn:7003456","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7243271,"name:xx":"Madestraat"}}
+{
+  "id": 7243271,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7243271",
+        "tgn:7003456",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7243271,
+    "tgn:name":"Madestraat",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.822637,51.01976],"type":"Point"}
+}

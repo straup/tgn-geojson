@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.764525,25.152996]},"type":"Feature","properties":{"hierarchy":["tgn:7477847","tgn:1000957","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300008678"],"id":7477847,"name:xx":"Zhengbin Gang"}}
+{
+  "id": 7477847,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7477847",
+        "tgn:1000957",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7477847,
+    "tgn:name":"Zhengbin Gang",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.764525,25.152996],"type":"Point"}
+}

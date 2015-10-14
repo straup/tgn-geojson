@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.316667,27.666667]},"type":"Feature","properties":{"hierarchy":["tgn:7360810","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360810,"name:xx":"Ejido del Socorro"}}
+{
+  "id": 7360810,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360810",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360810,
+    "tgn:name":"Ejido del Socorro",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.316667,27.666667],"type":"Point"}
+}

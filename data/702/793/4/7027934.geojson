@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[0.266667,53.250000]},"type":"Feature","properties":{"hierarchy":["tgn:7027934","tgn:7002445","tgn:1000003","tgn:7008157","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Huttoft","id":7027934}}
+{
+  "id": 7027934,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7027934",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008157",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7027934,
+    "tgn:name:en":"Huttoft",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[0.266667,53.25],"type":"Point"}
+}

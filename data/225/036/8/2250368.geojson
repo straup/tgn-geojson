@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-84.816700,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2250368","tgn:1000001","tgn:7012149","tgn:7014543","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":2250368,"name:xx":"Colochee Creek"}}
+{
+  "id": 2250368,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2250368",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7014543",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2250368,
+    "tgn:name":"Colochee Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-84.8167,32.1],"type":"Point"}
+}

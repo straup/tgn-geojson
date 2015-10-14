@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-82.550000,32.183300]},"type":"Feature","properties":{"hierarchy":["tgn:7023311","tgn:1000001","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008706"],"id":7023311,"name:xx":"Lotts Creek"}}
+{
+  "id": 7023311,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023311",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023311,
+    "tgn:name":"Lotts Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-82.55,32.1833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-114.150000,42.150000]},"type":"Feature","properties":{"hierarchy":["tgn:2405091","tgn:1000001","tgn:2000467","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300266640"],"id":2405091,"name:xx":"Hudson Ridge"}}
+{
+  "id": 2405091,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2405091",
+        "tgn:1000001",
+        "tgn:2000467",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2405091,
+    "tgn:name":"Hudson Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-114.15,42.15],"type":"Point"}
+}

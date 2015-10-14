@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-68.650000,46.316700]},"type":"Feature","properties":{"hierarchy":["tgn:2333126","tgn:1000001","tgn:7012149","tgn:2000927","tgn:7007515","tgn:7029392"],"placetype":["aat:300008798"],"id":2333126,"name:xx":"Flying Hill"}}
+{
+  "id": 2333126,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333126",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000927",
+        "tgn:7007515",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333126,
+    "tgn:name":"Flying Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-68.65,46.3167],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-73.783300,44.066700]},"type":"Feature","properties":{"hierarchy":["tgn:2158815","tgn:1000001","tgn:7012149","tgn:2001461","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2158815,"name:xx":"Beck-horn"}}
+{
+  "id": 2158815,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2158815",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001461",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2158815,
+    "tgn:name":"Beck-horn",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.7833,44.0667],"type":"Point"}
+}

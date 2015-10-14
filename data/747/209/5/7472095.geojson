@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.450000,24.083333]},"type":"Feature","properties":{"hierarchy":["tgn:7472095","tgn:1000004","tgn:7467799","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7472095,"name:xx":"Caocaicuo"}}
+{
+  "id": 7472095,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7472095",
+        "tgn:1000004",
+        "tgn:7467799",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7472095,
+    "tgn:name":"Caocaicuo",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.45,24.083333],"type":"Point"}
+}

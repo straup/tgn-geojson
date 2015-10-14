@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.050000,24.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7367442","tgn:1000001","tgn:7005601","tgn:7005560","tgn:7029392"],"placetype":["aat:300055621"],"id":7367442,"name:xx":"Estanquitos"}}
+{
+  "id": 7367442,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7367442",
+        "tgn:1000001",
+        "tgn:7005601",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7367442,
+    "tgn:name":"Estanquitos",
+    "tgn:placetype":[
+        "aat:300055621"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.05,24.566667],"type":"Point"}
+}

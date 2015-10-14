@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-135.383300,56.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2402758","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2124002","tgn:7029392"],"placetype":["aat:300132316"],"id":2402758,"name:xx":"Hot Springs Bay"}}
+{
+  "id": 2402758,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402758",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2124002",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402758,
+    "tgn:name":"Hot Springs Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-135.3833,56.8333],"type":"Point"}
+}

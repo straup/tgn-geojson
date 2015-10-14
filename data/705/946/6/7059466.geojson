@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[10.633333,50.900000]},"type":"Feature","properties":{"hierarchy":["tgn:7059466","tgn:1000003","tgn:7003689","tgn:7000084","tgn:7029392"],"placetype":["aat:300008699"],"id":7059466,"name:xx":"Altenwasser"}}
+{
+  "id": 7059466,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7059466",
+        "tgn:1000003",
+        "tgn:7003689",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7059466,
+    "tgn:name":"Altenwasser",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[10.633333,50.9],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.976513,23.939850]},"type":"Feature","properties":{"hierarchy":["tgn:7476309","tgn:7488858","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300387002"],"id":7476309,"name:xx":"Shiyifen"}}
+{
+  "id": 7476309,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7476309",
+        "tgn:7488858",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7476309,
+    "tgn:name":"Shiyifen",
+    "tgn:placetype":[
+        "aat:300387002"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.976513,23.93985],"type":"Point"}
+}

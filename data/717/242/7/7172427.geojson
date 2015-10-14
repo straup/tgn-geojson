@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[7.066667,52.366667]},"type":"Feature","properties":{"hierarchy":["tgn:7172427","tgn:1000003","tgn:7003676","tgn:7000084","tgn:7029392"],"placetype":["aat:300000206"],"id":7172427,"name:xx":"Hinterster Kalter"}}
+{
+  "id": 7172427,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7172427",
+        "tgn:1000003",
+        "tgn:7003676",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7172427,
+    "tgn:name":"Hinterster Kalter",
+    "tgn:placetype":[
+        "aat:300000206"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.066667,52.366667],"type":"Point"}
+}

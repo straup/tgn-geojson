@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-79.283300,35.183300]},"type":"Feature","properties":{"hierarchy":["tgn:2152543","tgn:1000001","tgn:7012149","tgn:2001521","tgn:7007709","tgn:7029392"],"placetype":["aat:300006191"],"id":2152543,"name:xx":"Bay, Lake"}}
+{
+  "id": 2152543,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2152543",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001521",
+        "tgn:7007709",
+        "tgn:7029392"
+    ],
+    "tgn:id":2152543,
+    "tgn:name":"Bay, Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-79.2833,35.1833],"type":"Point"}
+}

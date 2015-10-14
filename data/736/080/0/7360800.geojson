@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-115.251944,32.248333]},"type":"Feature","properties":{"hierarchy":["tgn:7360800","tgn:1001835","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7360800,"name:xx":"Durango"}}
+{
+  "id": 7360800,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7360800",
+        "tgn:1001835",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7360800,
+    "tgn:name":"Durango",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-115.251944,32.248333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.531944,24.256389]},"type":"Feature","properties":{"hierarchy":["tgn:7471868","tgn:1000004","tgn:7001009","tgn:1000141","tgn:7029392"],"placetype":["aat:300387173"],"id":7471868,"name:xx":"Wuqi Zhen"}}
+{
+  "id": 7471868,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471868",
+        "tgn:1000004",
+        "tgn:7001009",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471868,
+    "tgn:name":"Wuqi Zhen",
+    "tgn:placetype":[
+        "aat:300387173"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.531944,24.256389],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-110.383300,42.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2400713","tgn:1000001","tgn:7012149","tgn:2002382","tgn:7007923","tgn:7029392"],"placetype":["aat:300008761"],"id":2400713,"name:xx":"Horse Pasture Draw"}}
+{
+  "id": 2400713,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2400713",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002382",
+        "tgn:7007923",
+        "tgn:7029392"
+    ],
+    "tgn:id":2400713,
+    "tgn:name":"Horse Pasture Draw",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-110.3833,42.9],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-113.483300,43.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2401505","tgn:1000001","tgn:2000463","tgn:7012149","tgn:7007250","tgn:7029392"],"placetype":["aat:300008746"],"id":2401505,"name:xx":"Horseshoe Cave"}}
+{
+  "id": 2401505,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401505",
+        "tgn:1000001",
+        "tgn:2000463",
+        "tgn:7012149",
+        "tgn:7007250",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401505,
+    "tgn:name":"Horseshoe Cave",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-113.4833,43.4333],"type":"Point"}
+}

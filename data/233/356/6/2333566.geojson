@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-78.583300,38.566700]},"type":"Feature","properties":{"hierarchy":["tgn:2333566","tgn:1000001","tgn:7012149","tgn:2002178","tgn:7007919","tgn:7029392"],"placetype":["aat:300008746"],"id":2333566,"name:xx":"Foltz Caves"}}
+{
+  "id": 2333566,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2333566",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002178",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2333566,
+    "tgn:name":"Foltz Caves",
+    "tgn:placetype":[
+        "aat:300008746"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-78.5833,38.5667],"type":"Point"}
+}

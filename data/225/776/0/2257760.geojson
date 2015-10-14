@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-116.800000,41.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2257760","tgn:1000001","tgn:2001411","tgn:7012149","tgn:7007526","tgn:7029392"],"placetype":["aat:300008798"],"id":2257760,"name:xx":"Corral Lake Butte"}}
+{
+  "id": 2257760,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2257760",
+        "tgn:1000001",
+        "tgn:2001411",
+        "tgn:7012149",
+        "tgn:7007526",
+        "tgn:7029392"
+    ],
+    "tgn:id":2257760,
+    "tgn:name":"Corral Lake Butte",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-116.8,41.7333],"type":"Point"}
+}

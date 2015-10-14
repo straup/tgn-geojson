@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[3.483333,51.150000]},"type":"Feature","properties":{"hierarchy":["tgn:7248585","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300008347"],"id":7248585,"name:xx":"Blakkeveld"}}
+{
+  "id": 7248585,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7248585",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7248585,
+    "tgn:name":"Blakkeveld",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[3.483333,51.15],"type":"Point"}
+}

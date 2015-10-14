@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-91.400000,45.833300]},"type":"Feature","properties":{"hierarchy":["tgn:2259634","tgn:1000001","tgn:7012149","tgn:2002353","tgn:7007922","tgn:7029392"],"placetype":["aat:300008707"],"id":2259634,"name:xx":"Couderay River"}}
+{
+  "id": 2259634,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2259634",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2002353",
+        "tgn:7007922",
+        "tgn:7029392"
+    ],
+    "tgn:id":2259634,
+    "tgn:name":"Couderay River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-91.4,45.8333],"type":"Point"}
+}

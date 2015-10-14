@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-88.616700,34.850000]},"type":"Feature","properties":{"hierarchy":["tgn:7022881","tgn:1000001","tgn:7012149","tgn:7007522","tgn:7029392"],"placetype":["aat:300008798"],"id":7022881,"name:xx":"Rogers Hill"}}
+{
+  "id": 7022881,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7022881",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007522",
+        "tgn:7029392"
+    ],
+    "tgn:id":7022881,
+    "tgn:name":"Rogers Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-88.6167,34.85],"type":"Point"}
+}

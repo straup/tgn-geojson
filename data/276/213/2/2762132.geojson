@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-104.683300,32.100000]},"type":"Feature","properties":{"hierarchy":["tgn:2762132","tgn:1000001","tgn:2001436","tgn:7012149","tgn:7007566","tgn:7029392"],"placetype":["aat:300008761"],"id":2762132,"name:xx":"West Slaughter Canyon"}}
+{
+  "id": 2762132,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2762132",
+        "tgn:1000001",
+        "tgn:2001436",
+        "tgn:7012149",
+        "tgn:7007566",
+        "tgn:7029392"
+    ],
+    "tgn:id":2762132,
+    "tgn:name":"West Slaughter Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-104.6833,32.1],"type":"Point"}
+}

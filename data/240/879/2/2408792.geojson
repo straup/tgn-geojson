@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.183300,42.900000]},"type":"Feature","properties":{"hierarchy":["tgn:2408792","tgn:1000001","tgn:7012149","tgn:2001706","tgn:7007708","tgn:7029392"],"placetype":["aat:300266640"],"id":2408792,"name:xx":"Hyde Ridge"}}
+{
+  "id": 2408792,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2408792",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001706",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2408792,
+    "tgn:name":"Hyde Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.1833,42.9],"type":"Point"}
+}

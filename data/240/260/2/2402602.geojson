@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.550000,41.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2402602","tgn:1000001","tgn:7012149","tgn:2000181","tgn:7007157","tgn:7029392"],"placetype":["aat:300008706"],"id":2402602,"name:xx":"Hostler Creek"}}
+{
+  "id": 2402602,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2402602",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000181",
+        "tgn:7007157",
+        "tgn:7029392"
+    ],
+    "tgn:id":2402602,
+    "tgn:name":"Hostler Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.55,41.0833],"type":"Point"}
+}

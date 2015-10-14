@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.150000,48.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7179051","tgn:7003692","tgn:1000003","tgn:7000084","tgn:7029392"],"placetype":["aat:300387200"],"id":7179051,"name:xx":"Guckinsdorf"}}
+{
+  "id": 7179051,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7179051",
+        "tgn:7003692",
+        "tgn:1000003",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7179051,
+    "tgn:name":"Guckinsdorf",
+    "tgn:placetype":[
+        "aat:300387200"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.15,48.466667],"type":"Point"}
+}

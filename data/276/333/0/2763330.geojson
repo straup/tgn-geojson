@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.800000,29.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2763330","tgn:1000001","tgn:7012149","tgn:1002251","tgn:7007826","tgn:7029392"],"placetype":["aat:300008680"],"id":2763330,"name:xx":"Wet Marsh Pond"}}
+{
+  "id": 2763330,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763330",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002251",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763330,
+    "tgn:name":"Wet Marsh Pond",
+    "tgn:placetype":[
+        "aat:300008680"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.8,29.7667],"type":"Point"}
+}

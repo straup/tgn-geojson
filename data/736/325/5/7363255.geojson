@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.866667,19.716667]},"type":"Feature","properties":{"hierarchy":["tgn:7363255","tgn:7005586","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363255,"name:xx":"El Fresnal"}}
+{
+  "id": 7363255,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363255",
+        "tgn:7005586",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363255,
+    "tgn:name":"El Fresnal",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.866667,19.716667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.733300,39.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2763542","tgn:1002232","tgn:1000001","tgn:7012149","tgn:7007565","tgn:7029392"],"placetype":["aat:300008678"],"id":2763542,"name:xx":"Whale Harbor"}}
+{
+  "id": 2763542,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2763542",
+        "tgn:1002232",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007565",
+        "tgn:7029392"
+    ],
+    "tgn:id":2763542,
+    "tgn:name":"Whale Harbor",
+    "tgn:placetype":[
+        "aat:300008678"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.7333,39.0833],"type":"Point"}
+}

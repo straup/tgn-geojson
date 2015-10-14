@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-94.516700,31.766700]},"type":"Feature","properties":{"hierarchy":["tgn:2765137","tgn:1000001","tgn:7012149","tgn:1002703","tgn:7007826","tgn:7029392"],"placetype":["aat:300008347"],"id":2765137,"name:xx":"Whispering Pines"}}
+{
+  "id": 2765137,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2765137",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002703",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2765137,
+    "tgn:name":"Whispering Pines",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-94.5167,31.7667],"type":"Point"}
+}

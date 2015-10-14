@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.416700,39.433300]},"type":"Feature","properties":{"hierarchy":["tgn:2335234","tgn:1000001","tgn:7016101","tgn:7012149","tgn:7007516","tgn:7029392"],"placetype":["aat:300008347"],"id":2335234,"name:xx":"Fort Deterick"}}
+{
+  "id": 2335234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335234",
+        "tgn:1000001",
+        "tgn:7016101",
+        "tgn:7012149",
+        "tgn:7007516",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335234,
+    "tgn:name":"Fort Deterick",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.4167,39.4333],"type":"Point"}
+}

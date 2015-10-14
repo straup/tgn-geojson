@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.300000,50.100000]},"type":"Feature","properties":{"hierarchy":["tgn:7240525","tgn:7007877","tgn:1000003","tgn:1000063","tgn:4012014","tgn:7029392"],"placetype":["aat:300008863"],"id":7240525,"name:xx":"Fagne, Bois de la"}}
+{
+  "id": 7240525,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7240525",
+        "tgn:7007877",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:4012014",
+        "tgn:7029392"
+    ],
+    "tgn:id":7240525,
+    "tgn:name":"Fagne, Bois de la",
+    "tgn:placetype":[
+        "aat:300008863"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.3,50.1],"type":"Point"}
+}

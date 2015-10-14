@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-90.900000,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2764392","tgn:1000001","tgn:7012149","tgn:2001237","tgn:7007523","tgn:7029392"],"placetype":["aat:300008761"],"id":2764392,"name:xx":"Whetstone Hollow"}}
+{
+  "id": 2764392,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2764392",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001237",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2764392,
+    "tgn:name":"Whetstone Hollow",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.9,36.7333],"type":"Point"}
+}

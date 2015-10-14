@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-74.400000,43.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2155278","tgn:1000001","tgn:7012149","tgn:1002440","tgn:7007568","tgn:7029392"],"placetype":["aat:300008798"],"id":2155278,"name:xx":"Bear Mountain"}}
+{
+  "id": 2155278,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2155278",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002440",
+        "tgn:7007568",
+        "tgn:7029392"
+    ],
+    "tgn:id":2155278,
+    "tgn:name":"Bear Mountain",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-74.4,43.4],"type":"Point"}
+}

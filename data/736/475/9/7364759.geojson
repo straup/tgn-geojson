@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-90.566667,17.883333]},"type":"Feature","properties":{"hierarchy":["tgn:7364759","tgn:7005578","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7364759,"name:xx":"Flor de Chiapas"}}
+{
+  "id": 7364759,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7364759",
+        "tgn:7005578",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7364759,
+    "tgn:name":"Flor de Chiapas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-90.566667,17.883333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-105.033333,21.566667]},"type":"Feature","properties":{"hierarchy":["tgn:7359619","tgn:1000001","tgn:1001906","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7359619,"name:xx":"Cuata"}}
+{
+  "id": 7359619,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7359619",
+        "tgn:1000001",
+        "tgn:1001906",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7359619,
+    "tgn:name":"Cuata",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-105.033333,21.566667],"type":"Point"}
+}

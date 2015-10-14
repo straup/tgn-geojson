@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.400000,27.983333]},"type":"Feature","properties":{"hierarchy":["tgn:7362233","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7362233,"name:xx":"Rancho El Papalote"}}
+{
+  "id": 7362233,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7362233",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7362233,
+    "tgn:name":"Rancho El Papalote",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.4,27.983333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-101.283333,27.733333]},"type":"Feature","properties":{"hierarchy":["tgn:7356908","tgn:1001853","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008699"],"id":7356908,"name:xx":"Carrito, Arroyo"}}
+{
+  "id": 7356908,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7356908",
+        "tgn:1001853",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7356908,
+    "tgn:name":"Carrito, Arroyo",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-101.283333,27.733333],"type":"Point"}
+}

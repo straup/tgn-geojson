@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[4.113186,51.267364]},"type":"Feature","properties":{"hierarchy":["tgn:7249522","tgn:7003457","tgn:1000003","tgn:1000063","tgn:7018236","tgn:7029392"],"placetype":["aat:300006909"],"id":7249522,"name:xx":"Oud Fort Bedmar"}}
+{
+  "id": 7249522,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7249522",
+        "tgn:7003457",
+        "tgn:1000003",
+        "tgn:1000063",
+        "tgn:7018236",
+        "tgn:7029392"
+    ],
+    "tgn:id":7249522,
+    "tgn:name":"Oud Fort Bedmar",
+    "tgn:placetype":[
+        "aat:300006909"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[4.113186,51.267364],"type":"Point"}
+}

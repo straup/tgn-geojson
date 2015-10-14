@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-123.316700,46.366700]},"type":"Feature","properties":{"hierarchy":["tgn:2404860","tgn:1000001","tgn:7012149","tgn:1002979","tgn:7007920","tgn:7029392"],"placetype":["aat:300266640"],"id":2404860,"name:xx":"Huckleberry Ridge"}}
+{
+  "id": 2404860,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2404860",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:1002979",
+        "tgn:7007920",
+        "tgn:7029392"
+    ],
+    "tgn:id":2404860,
+    "tgn:name":"Huckleberry Ridge",
+    "tgn:placetype":[
+        "aat:300266640"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-123.3167,46.3667],"type":"Point"}
+}

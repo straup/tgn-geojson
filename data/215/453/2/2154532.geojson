@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-85.983300,46.083300]},"type":"Feature","properties":{"hierarchy":["tgn:2154532","tgn:1000001","tgn:7012149","tgn:2000996","tgn:7007520","tgn:7029392"],"placetype":["aat:300008905"],"id":2154532,"name:xx":"Bear Creek Swamp"}}
+{
+  "id": 2154532,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2154532",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000996",
+        "tgn:7007520",
+        "tgn:7029392"
+    ],
+    "tgn:id":2154532,
+    "tgn:name":"Bear Creek Swamp",
+    "tgn:placetype":[
+        "aat:300008905"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-85.9833,46.0833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-119.716700,34.816700]},"type":"Feature","properties":{"hierarchy":["tgn:2334599","tgn:1000001","tgn:7012149","tgn:7007157","tgn:1002867","tgn:7029392"],"placetype":["aat:300008761"],"id":2334599,"name:xx":"Foresters Leap Canyon"}}
+{
+  "id": 2334599,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334599",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007157",
+        "tgn:1002867",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334599,
+    "tgn:name":"Foresters Leap Canyon",
+    "tgn:placetype":[
+        "aat:300008761"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-119.7167,34.8167],"type":"Point"}
+}

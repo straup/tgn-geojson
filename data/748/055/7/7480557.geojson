@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.167500,24.847778]},"type":"Feature","properties":{"hierarchy":["tgn:7480557","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300006495"],"id":7480557,"name:xx":"Sanhe Guoxiao"}}
+{
+  "id": 7480557,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7480557",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7480557,
+    "tgn:name":"Sanhe Guoxiao",
+    "tgn:placetype":[
+        "aat:300006495"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.1675,24.847778],"type":"Point"}
+}

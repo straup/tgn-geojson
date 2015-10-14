@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-80.966700,38.550000]},"type":"Feature","properties":{"hierarchy":["tgn:2338523","tgn:1000001","tgn:2002259","tgn:7012149","tgn:7013961","tgn:7029392"],"placetype":["aat:300008798"],"id":2338523,"name:xx":"Frame Knob"}}
+{
+  "id": 2338523,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2338523",
+        "tgn:1000001",
+        "tgn:2002259",
+        "tgn:7012149",
+        "tgn:7013961",
+        "tgn:7029392"
+    ],
+    "tgn:id":2338523,
+    "tgn:name":"Frame Knob",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-80.9667,38.55],"type":"Point"}
+}

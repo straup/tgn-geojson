@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-146.033300,60.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2156483","tgn:7006450","tgn:1000001","tgn:7012149","tgn:2000086","tgn:7029392"],"placetype":["aat:300132316"],"id":2156483,"name:xx":"Beartrap Bay"}}
+{
+  "id": 2156483,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2156483",
+        "tgn:7006450",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2000086",
+        "tgn:7029392"
+    ],
+    "tgn:id":2156483,
+    "tgn:name":"Beartrap Bay",
+    "tgn:placetype":[
+        "aat:300132316"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-146.0333,60.7333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-93.150000,17.533333]},"type":"Feature","properties":{"hierarchy":["tgn:7366880","tgn:7005580","tgn:1000001","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7366880,"name:xx":"Esquipulas"}}
+{
+  "id": 7366880,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7366880",
+        "tgn:7005580",
+        "tgn:1000001",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7366880,
+    "tgn:name":"Esquipulas",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.15,17.533333],"type":"Point"}
+}

@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-73.000000,42.800000]},"type":"Feature","properties":{"hierarchy":["tgn:7023579","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300008707"],"id":7023579,"name:xx":"North Branch Hoosic River"}}
+{
+  "id": 7023579,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7023579",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":7023579,
+    "tgn:name":"North Branch Hoosic River",
+    "tgn:placetype":[
+        "aat:300008707"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-73.0,42.8],"type":"Point"}
+}

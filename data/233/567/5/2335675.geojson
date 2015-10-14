@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-93.750000,36.733300]},"type":"Feature","properties":{"hierarchy":["tgn:2335675","tgn:2001170","tgn:1000001","tgn:7012149","tgn:7007523","tgn:7029392"],"placetype":["aat:300008699"],"id":2335675,"name:xx":"Fortune Branch"}}
+{
+  "id": 2335675,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2335675",
+        "tgn:2001170",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7007523",
+        "tgn:7029392"
+    ],
+    "tgn:id":2335675,
+    "tgn:name":"Fortune Branch",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-93.75,36.7333],"type":"Point"}
+}

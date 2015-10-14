@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-111.183333,29.133333]},"type":"Feature","properties":{"hierarchy":["tgn:7363226","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300000241"],"id":7363226,"name:xx":"Rancho El Arenoso"}}
+{
+  "id": 7363226,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7363226",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7363226,
+    "tgn:name":"Rancho El Arenoso",
+    "tgn:placetype":[
+        "aat:300000241"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-111.183333,29.133333],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[11.783333,50.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7111175","tgn:1000003","tgn:7003689","tgn:7000084","tgn:7029392"],"placetype":["aat:300008777"],"id":7111175,"name:xx":"Rittersb\u00fchl"}}
+{
+  "id": 7111175,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7111175",
+        "tgn:1000003",
+        "tgn:7003689",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7111175,
+    "tgn:name":"Rittersb\u00fchl",
+    "tgn:placetype":[
+        "aat:300008777"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.783333,50.466667],"type":"Point"}
+}

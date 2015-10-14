@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.397051,23.730360]},"type":"Feature","properties":{"hierarchy":["tgn:7486301","tgn:1000004","tgn:7001014","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7486301,"name:xx":"Kendi"}}
+{
+  "id": 7486301,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7486301",
+        "tgn:1000004",
+        "tgn:7001014",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7486301,
+    "tgn:name":"Kendi",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.397051,23.73036],"type":"Point"}
+}

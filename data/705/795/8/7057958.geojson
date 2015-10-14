@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[7.100000,44.466667]},"type":"Feature","properties":{"hierarchy":["tgn:7057958","tgn:7005126","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300008347"],"id":7057958,"name:xx":"Brieis"}}
+{
+  "id": 7057958,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7057958",
+        "tgn:7005126",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7057958,
+    "tgn:name":"Brieis",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[7.1,44.466667],"type":"Point"}
+}

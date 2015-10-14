@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[120.633056,24.393889]},"type":"Feature","properties":{"hierarchy":["tgn:7483308","tgn:7487020","tgn:1000004","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7483308,"name:xx":"Sikuaicuo Qiao"}}
+{
+  "id": 7483308,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7483308",
+        "tgn:7487020",
+        "tgn:1000004",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7483308,
+    "tgn:name":"Sikuaicuo Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[120.633056,24.393889],"type":"Point"}
+}

@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-102.283333,18.450000]},"type":"Feature","properties":{"hierarchy":["tgn:7375012","tgn:1000001","tgn:7005590","tgn:7005560","tgn:7029392"],"placetype":["aat:300008347"],"id":7375012,"name:xx":"La Cuchara"}}
+{
+  "id": 7375012,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7375012",
+        "tgn:1000001",
+        "tgn:7005590",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7375012,
+    "tgn:name":"La Cuchara",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-102.283333,18.45],"type":"Point"}
+}

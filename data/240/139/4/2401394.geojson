@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.900000,41.000000]},"type":"Feature","properties":{"hierarchy":["tgn:2401394","tgn:1000001","tgn:1002249","tgn:7012149","tgn:7007710","tgn:7029392"],"placetype":["aat:300008699"],"id":2401394,"name:xx":"Horseshead Run"}}
+{
+  "id": 2401394,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2401394",
+        "tgn:1000001",
+        "tgn:1002249",
+        "tgn:7012149",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2401394,
+    "tgn:name":"Horseshead Run",
+    "tgn:placetype":[
+        "aat:300008699"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.9,41.0],"type":"Point"}
+}

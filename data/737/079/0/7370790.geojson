@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-96.533333,16.966667]},"type":"Feature","properties":{"hierarchy":["tgn:7370790","tgn:1000001","tgn:7005591","tgn:7005560","tgn:7029392"],"placetype":["aat:300007783"],"id":7370790,"name:xx":"Guelav\u00eda"}}
+{
+  "id": 7370790,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7370790",
+        "tgn:1000001",
+        "tgn:7005591",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7370790,
+    "tgn:name":"Guelav\u00eda",
+    "tgn:placetype":[
+        "aat:300007783"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-96.533333,16.966667],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[8.200000,46.116667]},"type":"Feature","properties":{"hierarchy":["tgn:7058922","tgn:1003478","tgn:1000003","tgn:7003120","tgn:1000080","tgn:7029392"],"placetype":["aat:300387198"],"id":7058922,"name:xx":"Bognanco"}}
+{
+  "id": 7058922,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7058922",
+        "tgn:1003478",
+        "tgn:1000003",
+        "tgn:7003120",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7058922,
+    "tgn:name":"Bognanco",
+    "tgn:placetype":[
+        "aat:300387198"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.2,46.116667],"type":"Point"}
+}

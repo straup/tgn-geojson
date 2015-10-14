@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-122.816700,42.233300]},"type":"Feature","properties":{"hierarchy":["tgn:2761163","tgn:1000001","tgn:7012149","tgn:2001711","tgn:7007708","tgn:7029392"],"placetype":["aat:300006075"],"id":2761163,"name:xx":"West Lateral"}}
+{
+  "id": 2761163,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2761163",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001711",
+        "tgn:7007708",
+        "tgn:7029392"
+    ],
+    "tgn:id":2761163,
+    "tgn:name":"West Lateral",
+    "tgn:placetype":[
+        "aat:300006075"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-122.8167,42.2333],"type":"Point"}
+}

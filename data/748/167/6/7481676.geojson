@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.268333,24.717222]},"type":"Feature","properties":{"hierarchy":["tgn:7481676","tgn:1000004","tgn:7471332","tgn:1000141","tgn:7029392"],"placetype":["aat:300007836"],"id":7481676,"name:xx":"Meiyuan Erhao Qiao"}}
+{
+  "id": 7481676,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7481676",
+        "tgn:1000004",
+        "tgn:7471332",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7481676,
+    "tgn:name":"Meiyuan Erhao Qiao",
+    "tgn:placetype":[
+        "aat:300007836"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.268333,24.717222],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-99.583300,31.750000]},"type":"Feature","properties":{"hierarchy":["tgn:2153115","tgn:1000001","tgn:7012149","tgn:2001959","tgn:7007826","tgn:7029392"],"placetype":["aat:300008706"],"id":2153115,"name:xx":"Bead Mountain Creek"}}
+{
+  "id": 2153115,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2153115",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:2001959",
+        "tgn:7007826",
+        "tgn:7029392"
+    ],
+    "tgn:id":2153115,
+    "tgn:name":"Bead Mountain Creek",
+    "tgn:placetype":[
+        "aat:300008706"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-99.5833,31.75],"type":"Point"}
+}

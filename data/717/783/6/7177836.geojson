@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[8.416667,50.950000]},"type":"Feature","properties":{"hierarchy":["tgn:7177836","tgn:1000003","tgn:7003677","tgn:7000084","tgn:7029392"],"placetype":["aat:300008795"],"id":7177836,"name:xx":"Hainrot"}}
+{
+  "id": 7177836,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7177836",
+        "tgn:1000003",
+        "tgn:7003677",
+        "tgn:7000084",
+        "tgn:7029392"
+    ],
+    "tgn:id":7177836,
+    "tgn:name":"Hainrot",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[8.416667,50.95],"type":"Point"}
+}

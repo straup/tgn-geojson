@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-76.300000,40.250000]},"type":"Feature","properties":{"hierarchy":["tgn:2334626","tgn:1000001","tgn:7012149","tgn:7013867","tgn:7007710","tgn:7029392"],"placetype":["aat:300008798"],"id":2334626,"name:xx":"Forge Hill"}}
+{
+  "id": 2334626,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2334626",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7013867",
+        "tgn:7007710",
+        "tgn:7029392"
+    ],
+    "tgn:id":2334626,
+    "tgn:name":"Forge Hill",
+    "tgn:placetype":[
+        "aat:300008798"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-76.3,40.25],"type":"Point"}
+}

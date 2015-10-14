@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[-109.816667,27.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7374206","tgn:1000001","tgn:1001960","tgn:7005560","tgn:7029392"],"placetype":["aat:300008795"],"id":7374206,"name:xx":"Laguna, Cerro"}}
+{
+  "id": 7374206,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7374206",
+        "tgn:1000001",
+        "tgn:1001960",
+        "tgn:7005560",
+        "tgn:7029392"
+    ],
+    "tgn:id":7374206,
+    "tgn:name":"Laguna, Cerro",
+    "tgn:placetype":[
+        "aat:300008795"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-109.816667,27.766667],"type":"Point"}
+}

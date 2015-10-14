@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[-2.433333,51.766667]},"type":"Feature","properties":{"hierarchy":["tgn:7026554","tgn:7002445","tgn:1000003","tgn:7008132","tgn:7008591","tgn:7029392"],"placetype":["aat:300008347","aat:300008372"],"name:en":"Awre","id":7026554}}
+{
+  "id": 7026554,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7026554",
+        "tgn:7002445",
+        "tgn:1000003",
+        "tgn:7008132",
+        "tgn:7008591",
+        "tgn:7029392"
+    ],
+    "tgn:id":7026554,
+    "tgn:name:en":"Awre",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300008372"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-2.433333,51.766667],"type":"Point"}
+}

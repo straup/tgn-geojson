@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[11.950000,42.550000]},"type":"Feature","properties":{"hierarchy":["tgn:7051234","tgn:7003139","tgn:1000003","tgn:7003080","tgn:1000080","tgn:7029392"],"placetype":["aat:300008791"],"id":7051234,"name:xx":"Martana, Isola"}}
+{
+  "id": 7051234,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7051234",
+        "tgn:7003139",
+        "tgn:1000003",
+        "tgn:7003080",
+        "tgn:1000080",
+        "tgn:7029392"
+    ],
+    "tgn:id":7051234,
+    "tgn:name":"Martana, Isola",
+    "tgn:placetype":[
+        "aat:300008791"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.95,42.55],"type":"Point"}
+}

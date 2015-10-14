@@ -1,1 +1,22 @@
-{"geometry":{"type":"Point","coordinates":[11.000000,43.500000]},"type":"Feature","properties":{"hierarchy":["tgn:7024113","tgn:1000003","tgn:7023981","tgn:7029392"],"placetype":["aat:300387354","aat:300387178","aat:300387504","aat:300020471"],"id":7024113,"name:xx":"Etruria"}}
+{
+  "id": 7024113,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7024113",
+        "tgn:1000003",
+        "tgn:7023981",
+        "tgn:7029392"
+    ],
+    "tgn:id":7024113,
+    "tgn:name":"Etruria",
+    "tgn:placetype":[
+        "aat:300387354",
+        "aat:300387178",
+        "aat:300387504",
+        "aat:300020471"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[11.0,43.5],"type":"Point"}
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7001575,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7001575",
+        "tgn:1000004",
+        "tgn:1001842",
+        "tgn:7000198",
+        "tgn:7029392"
+    ],
+    "tgn:id":7001575,
+    "tgn:name:en":"Patna",
+    "tgn:placetype":[
+        "aat:300008347",
+        "aat:300387218",
+        "aat:300008389",
+        "aat:300387220",
+        "aat:300387221"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[85.119356,25.60222],"type":"Point"}
+}

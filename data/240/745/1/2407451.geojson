@@ -1,1 +1,19 @@
-{"geometry":{"type":"Point","coordinates":[-118.433300,37.983300]},"type":"Feature","properties":{"hierarchy":["tgn:2407451","tgn:1000001","tgn:7012149","tgn:7029392"],"placetype":["aat:300386831"],"id":2407451,"name:xx":"Huntoon Mountains"}}
+{
+  "id": 2407451,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2407451",
+        "tgn:1000001",
+        "tgn:7012149",
+        "tgn:7029392"
+    ],
+    "tgn:id":2407451,
+    "tgn:name":"Huntoon Mountains",
+    "tgn:placetype":[
+        "aat:300386831"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-118.4333,37.9833],"type":"Point"}
+}

@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-77.500000,37.400000]},"type":"Feature","properties":{"hierarchy":["tgn:2258057","tgn:1000001","tgn:1002267","tgn:7012149","tgn:7007919","tgn:7029392"],"placetype":["aat:300006191"],"id":2258057,"name:xx":"Cosbys Lake"}}
+{
+  "id": 2258057,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2258057",
+        "tgn:1000001",
+        "tgn:1002267",
+        "tgn:7012149",
+        "tgn:7007919",
+        "tgn:7029392"
+    ],
+    "tgn:id":2258057,
+    "tgn:name":"Cosbys Lake",
+    "tgn:placetype":[
+        "aat:300006191"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-77.5,37.4],"type":"Point"}
+}

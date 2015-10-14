@@ -1,1 +1,20 @@
-{"geometry":{"type":"Point","coordinates":[121.769167,24.802500]},"type":"Feature","properties":{"hierarchy":["tgn:7471356","tgn:1000004","tgn:7489179","tgn:1000141","tgn:7029392"],"placetype":["aat:300008347"],"id":7471356,"name:xx":"Fangetian"}}
+{
+  "id": 7471356,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:7471356",
+        "tgn:1000004",
+        "tgn:7489179",
+        "tgn:1000141",
+        "tgn:7029392"
+    ],
+    "tgn:id":7471356,
+    "tgn:name":"Fangetian",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[121.769167,24.8025],"type":"Point"}
+}

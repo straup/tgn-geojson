@@ -1,1 +1,21 @@
-{"geometry":{"type":"Point","coordinates":[-83.850000,33.216700]},"type":"Feature","properties":{"hierarchy":["tgn:2256826","tgn:1000001","tgn:2000309","tgn:7012149","tgn:7007248","tgn:7029392"],"placetype":["aat:300008347"],"id":2256826,"name:xx":"Cork"}}
+{
+  "id": 2256826,
+  "type": "Feature",
+  "properties": {
+    "tgn:hierarchy":[
+        "tgn:2256826",
+        "tgn:1000001",
+        "tgn:2000309",
+        "tgn:7012149",
+        "tgn:7007248",
+        "tgn:7029392"
+    ],
+    "tgn:id":2256826,
+    "tgn:name":"Cork",
+    "tgn:placetype":[
+        "aat:300008347"
+    ]
+},
+  "bbox": [],
+  "geometry": {"coordinates":[-83.85,33.2167],"type":"Point"}
+}
